@@ -1,0 +1,138 @@
+{
+  "actualizado": "2026-11-18",
+  "sindicato": {
+    "nombre": "Sindicato N°2",
+    "empresa": "Minera Pacífico del Sur SpA",
+    "sector": "Alto Mañihuales, Región de Aysén",
+    "sede": "",
+    "horario": "",
+    "telefono": "",
+    "whatsapp": "",
+    "email": "",
+    "radio": "",
+    "radioNombre": ""
+  },
+  "informativos": [
+    {
+      "id": "i-ej-1",
+      "fecha": "2026-11-18",
+      "categoria": "Informativo",
+      "ejemplo": true,
+      "titulo": "Bienvenidos a la app del Sindicato N°2",
+      "resumen": "Un canal directo entre la directiva y los socios.",
+      "cuerpo": "Esta aplicación reúne informativos, calendario de asambleas, encuestas, biblioteca de documentos y beneficios del sindicato.\n\nLas publicaciones marcadas como «ejemplo» serán reemplazadas por contenido oficial de la directiva.",
+      "enlace": "",
+      "fijado": true
+    },
+    {
+      "id": "i-ej-2",
+      "fecha": "2026-11-15",
+      "categoria": "Citación",
+      "ejemplo": true,
+      "titulo": "Ejemplo: citación a asamblea ordinaria",
+      "resumen": "Así se verán las citaciones oficiales.",
+      "cuerpo": "Formato de ejemplo. Las citaciones reales indicarán fecha, hora, lugar y tabla.",
+      "enlace": ""
+    }
+  ],
+  "noticias": [
+    {
+      "id": "n-ej-1",
+      "fecha": "2026-11-10",
+      "titulo": "Ejemplo: noticia del sector minero",
+      "resumen": "Las noticias pueden enlazar a medios externos.",
+      "cuerpo": "Formato de ejemplo para noticias de interés para los socios.",
+      "enlace": "",
+      "ejemplo": true
+    }
+  ],
+  "eventos": [
+    {
+      "id": "e-ej-1",
+      "fecha": "2026-12-05",
+      "hora": "18:00",
+      "titulo": "Ejemplo: Asamblea ordinaria",
+      "lugar": "Sede sindical (por confirmar)",
+      "detalle": "Evento de muestra.",
+      "ejemplo": true
+    }
+  ],
+  "encuestas": [
+    {
+      "id": "p-ej-1",
+      "titulo": "Ejemplo: tema prioritario",
+      "pregunta": "¿Qué tema prefieres tratar en la próxima asamblea?",
+      "opciones": [
+        "Turnos y jornada",
+        "Beneficios de bienestar",
+        "Seguridad en faena",
+        "Otro"
+      ],
+      "cierre": "2026-12-31",
+      "enlace": "",
+      "ejemplo": true
+    }
+  ],
+  "beneficios": [
+    {
+      "id": "b-ej-1",
+      "categoria": "Salud",
+      "titulo": "Ejemplo: convenio de salud",
+      "descripcion": "Aquí se publicarán convenios verificados.",
+      "requisitos": "Ser socio activo.",
+      "vigencia": "Por confirmar",
+      "contacto": "",
+      "ejemplo": true
+    },
+    {
+      "id": "b-ej-2",
+      "categoria": "Bienestar",
+      "titulo": "Ejemplo: aporte por nacimiento",
+      "descripcion": "Formato de muestra para beneficios del fondo de bienestar.",
+      "requisitos": "Según reglamento.",
+      "vigencia": "Por confirmar",
+      "contacto": "",
+      "ejemplo": true
+    }
+  ],
+  "documentos": [
+    {
+      "id": "d-1",
+      "carpeta": "Estatutos",
+      "titulo": "Estatutos del sindicato",
+      "descripcion": "Pendiente de carga.",
+      "enlace": ""
+    },
+    {
+      "id": "d-2",
+      "carpeta": "Contrato colectivo",
+      "titulo": "Contrato colectivo vigente",
+      "descripcion": "Pendiente de carga.",
+      "enlace": ""
+    },
+    {
+      "id": "d-3",
+      "carpeta": "Actas",
+      "titulo": "Ejemplo: acta asamblea",
+      "descripcion": "Las actas pueden enlazarse desde Google Drive.",
+      "enlace": ""
+    }
+  ],
+  "directiva": [
+    {
+      "cargo": "Presidente(a)",
+      "nombre": "Por confirmar",
+      "telefono": ""
+    },
+    {
+      "cargo": "Secretario(a)",
+      "nombre": "Por confirmar",
+      "telefono": ""
+    },
+    {
+      "cargo": "Tesorero(a)",
+      "nombre": "Por confirmar",
+      "telefono": ""
+    }
+  ]
+}

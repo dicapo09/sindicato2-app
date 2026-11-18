@@ -1,0 +1,530 @@
+<!doctype html>
+<!-- SIN2-APP-OK -->
+<html lang="es-CL">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/>
+<meta name="theme-color" content="#0f4643"/>
+<title>Sindicato N°2 · Minera Pacífico del Sur</title>
+<style>
+:root{--brand:#0f4643;--brand2:#14625a;--accent:#f2b552;--ink:#183235;--muted:#6b8380;--bg:#eef3f1;--line:#e0e8e5;--ok:#2e9b57;--red:#e2552f}
+*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--ink);font-family:Roboto,'Noto Sans',-apple-system,'Segoe UI',sans-serif;font-size:15px;line-height:1.43;-webkit-tap-highlight-color:transparent}
+button,input,textarea,select{font:inherit}button{cursor:pointer;border:0;background:none;color:inherit}
+button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid #ffbc45;outline-offset:2px}
+.hidden{display:none!important}
+/* splash */
+#splash{position:fixed;inset:0;z-index:100;background:var(--brand);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;color:#fff;transition:opacity .4s}
+#splash svg{width:150px;height:150px;filter:drop-shadow(0 10px 24px #0005)}#splash b{font-size:20px}#splash small{opacity:.75;font-size:12px;letter-spacing:.12em}
+#splash.out{opacity:0;pointer-events:none}
+/* login */
+#login{min-height:100vh;background:#fff}
+.login-top{background:linear-gradient(150deg,var(--brand),var(--brand2));color:#fff;text-align:center;padding:40px 20px 30px}
+.login-top svg{width:120px;height:120px}.login-top h1{margin:14px 0 2px;font-size:23px}.login-top p{margin:0;opacity:.85;font-size:13px}
+.login-body{padding:24px 22px;max-width:480px;margin:auto}.login-body p.intro{text-align:center;color:var(--muted);font-size:13px;margin:0 0 18px}
+.uline{border:0;border-bottom:1.5px solid #cfdcd8;border-radius:0;padding:12px 4px;width:100%;background:transparent;color:var(--ink)}.uline:focus{border-color:var(--brand2);outline:none}
+.err{color:#b13b26;font-size:12px;min-height:18px;margin-top:6px}
+.btn{background:var(--brand2);color:#fff;border-radius:10px;padding:13px 18px;font-weight:700;display:block;width:100%;margin-top:14px}
+.btn.green{background:var(--ok)}.btn.light{background:#e6f1ee;color:var(--brand2)}.btn.sm{display:inline-block;width:auto;padding:9px 14px;margin:0;font-size:13px}
+.linkbtn{color:var(--brand2);font-weight:700;font-size:13px;padding:10px;display:block;margin:12px auto 0}
+.legal{font-size:11px;color:var(--muted);text-align:center;margin-top:20px}
+/* shell */
+.app{max-width:680px;margin:auto;min-height:100vh}
+.bar{position:sticky;top:0;z-index:20;background:var(--brand);color:#fff;display:flex;align-items:center;gap:8px;padding:12px 12px;min-height:58px;box-shadow:0 2px 10px #0003}
+.bar .t{flex:1;font-size:16px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar .ib{position:relative;width:40px;height:40px;border-radius:12px;font-size:21px;display:grid;place-items:center}.bar .ib:active{background:#ffffff1f}
+.bar .menu{font-size:15px;width:auto;padding:0 8px;gap:6px;display:flex}
+.badge{position:absolute;top:0;right:0;background:var(--red);color:#fff;border-radius:10px;font-size:10px;font-weight:800;padding:1px 6px;min-width:18px;text-align:center;line-height:16px}
+/* home */
+#home{background:var(--brand);min-height:calc(100vh - 58px);padding-bottom:20px}
+.hello{display:flex;align-items:center;gap:14px;padding:14px 16px 18px;color:#fff}
+.av{width:62px;height:62px;border-radius:50%;background:#e8efed;color:var(--brand);display:grid;place-items:center;font-weight:800;font-size:22px;flex:none;border:3px solid #ffffff40}
+.hello small{display:block;opacity:.85;font-size:14px}.hello b{font-size:21px;line-height:1.2}
+.ticker{background:#fff;overflow:hidden;white-space:nowrap;border-bottom:1px solid var(--line)}
+.ticker-in{display:inline-flex;gap:30px;padding:10px 16px;animation:tick 28s linear infinite}.ticker:active .ticker-in{animation-play-state:paused}
+.ticker span{font-size:14px;color:#6c7f7c}.ticker b{color:var(--ink);margin-left:6px}
+@keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.tiles{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:14px}
+.tile{position:relative;background:#fff;border-radius:14px;min-height:96px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;color:var(--brand2);font-size:16px;box-shadow:0 4px 12px #00000026}
+.tile:active{transform:scale(.97)}.tile .ic{font-size:30px;line-height:1}.tile .lb{display:flex;align-items:center;gap:7px}
+.tile .cnt{background:var(--red);color:#fff;border-radius:50%;min-width:24px;height:24px;font-size:11px;font-weight:800;display:grid;place-items:center;padding:0 5px}
+.mlist{margin-top:8px}.mlist button{display:flex;align-items:center;gap:12px;width:100%;text-align:left;background:#ffffff1c;color:#fff;padding:14px 18px;font-size:16px;border-bottom:3px solid var(--brand)}
+.mlist button:active{background:#ffffff33}
+.ver{color:#ffffffa0;font-size:11px;text-align:center;padding:16px}
+/* pages */
+.page{display:none;padding:14px 14px 40px;animation:in .18s ease-out}.page.active{display:block}@keyframes in{from{opacity:.4;transform:translateY(5px)}to{opacity:1;transform:none}}
+#home.page{padding:0}
+.card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:12px;box-shadow:0 3px 10px #0d3a3510}
+.card h3{margin:6px 0 4px;font-size:17px;line-height:1.3}.card p{margin:4px 0;color:#4e6764;font-size:13.5px}
+.meta{font-size:12px;color:var(--muted)}
+.pill{display:inline-flex;align-items:center;gap:5px;border-radius:20px;padding:4px 10px;font-size:11px;font-weight:700;margin:2px 4px 2px 0}
+.pill.teal{background:#1aa0a0;color:#fff}.pill.yel{background:#ffc93c;color:#5a4000}.pill.grey{background:#e4ebe9;color:#4e6764}.pill.red{background:#fde3dc;color:#b13b26}.pill.gold{background:#fff1d6;color:#8a5a12}
+.empty{text-align:center;color:var(--muted);padding:28px 16px;background:#fff;border-radius:14px;border:1px dashed #c6d6d1}.empty .big{font-size:34px}
+.search{display:flex;gap:10px;align-items:center;background:#e8eeec;border-radius:12px;padding:10px 12px;margin-bottom:12px}.search input{flex:1;border:1px solid #d4dfdb;border-radius:8px;padding:9px 10px;background:#fff}
+.row{display:flex;align-items:center;gap:12px}.grow{flex:1;min-width:0}
+.ctl{border:1px solid #d4e1dc;border-radius:10px;width:100%;background:#fff;padding:11px 12px;color:var(--ink)}textarea.ctl{min-height:110px;resize:vertical}
+.fl{display:grid;gap:5px;margin-bottom:11px}.fl label{font-size:12px;font-weight:700}
+.status{border-radius:10px;padding:9px 11px;font-size:12.5px;margin-top:10px;display:none;background:#e7f3ed;color:#1f6859}.status.show{display:block}.status.bad{background:#fff1ed;color:#a23c2c}
+/* calendar */
+.calh{display:flex;align-items:center;gap:10px;margin-bottom:10px}.calh .m{flex:1;text-align:center;font-weight:800;font-size:17px;text-transform:capitalize}.calh .m small{font-weight:600;font-size:13px}
+.navb{background:#fff;border:1px solid var(--line);border-radius:8px;width:44px;height:40px;color:#2c6fd6;font-size:18px;font-weight:800}
+.cal{display:grid;grid-template-columns:repeat(7,1fr);background:#fff;border-radius:12px;overflow:hidden;border:1px solid var(--line)}
+.cal .dh{font-size:12px;color:var(--muted);padding:8px 6px;background:#f4f7f6}
+.cal .d{min-height:54px;padding:6px;border-top:1px solid #eef2f1;border-left:1px solid #eef2f1;font-size:14px;text-align:left;position:relative}
+.cal .d.o{color:#b8c6c2;background:#fafbfb}.cal .d.today{background:#dff3d8;font-weight:800}.cal .d.sel{outline:2px solid var(--brand2);outline-offset:-2px}
+.cal .d .bars{position:absolute;left:5px;right:5px;bottom:6px;display:flex;flex-direction:column;gap:2px}.cal .d .bars i{height:5px;border-radius:3px;background:#2fd3a2}.cal .d .bars i.p{background:#c56cf0}
+.ev{background:#fff;border:1px solid var(--line);border-left:5px solid #2fd3a2;border-radius:10px;padding:12px 14px;margin-top:10px}.ev.p{border-left-color:#c56cf0}
+.ev small{color:var(--muted);font-size:12px}.ev h4{margin:3px 0;font-size:16px}
+/* biblioteca */
+.fold{display:flex;align-items:center;gap:14px;padding:12px 4px;border-bottom:1px solid #eef2f1;width:100%;text-align:left}
+.fold .fi{width:56px;height:46px;flex:none;border-radius:5px;background:linear-gradient(#f7c948 0 22%,#f9d65c 22%);position:relative}
+.fold .fi::before{content:"";position:absolute;top:-6px;left:0;width:24px;height:10px;background:#f7c948;border-radius:4px 4px 0 0}
+.fold b{color:#2c6fd6;font-size:16px;font-weight:500;display:block}.fold small{color:var(--muted)}
+.ftype{width:46px;height:56px;flex:none;border-radius:4px;background:#e9edec;display:flex;align-items:flex-end;justify-content:center;font-size:11px;font-weight:800;color:#fff;padding-bottom:6px;position:relative;overflow:hidden}
+.ftype::after{content:"";position:absolute;bottom:0;left:0;right:0;height:18px;background:var(--c,#8aa)}.ftype span{position:relative;z-index:1}
+/* polls */
+.opt{display:flex;align-items:center;gap:12px;padding:15px 14px;border:1px solid var(--line);border-top:0;font-size:15px;cursor:pointer}.opt:first-child{border-top:1px solid var(--line);border-radius:10px 10px 0 0}.opt:last-child{border-radius:0 0 10px 10px}
+.opt input{width:20px;height:20px;accent-color:#2c6fd6}.opt.on{background:#f1f5ff}
+.q{background:#fbfcfc;border:1px solid var(--line);border-radius:10px;padding:16px;font-size:16px;margin:10px 0}
+/* modal */
+.dlg{display:none;position:fixed;inset:0;z-index:50;background:#072d2988;padding:16px;align-items:center;justify-content:center}.dlg.open{display:flex}
+.modal{background:#fff;border-radius:18px;padding:20px;width:100%;max-width:460px;max-height:88vh;overflow-y:auto}.modal h2{margin:6px 0 8px;font-size:20px}.mbody{white-space:pre-wrap;font-size:14.5px;color:#33504c;margin-top:12px}
+.acts{display:flex;gap:9px;flex-wrap:wrap;margin-top:16px}.acts>*{flex:1;margin:0}
+.idcard{border-radius:18px;padding:20px;color:#fff;background:linear-gradient(135deg,#0f4643,#1b6d61 60%,#2a8a73);box-shadow:0 14px 30px #0b3b3640;position:relative;overflow:hidden;min-height:200px}
+.idcard .n{font-size:21px;font-weight:800;margin-top:18px}.idcard .l{font-size:10px;letter-spacing:.1em;opacity:.75;text-transform:uppercase;margin-top:10px}.idcard .v{font-weight:700}
+.result{background:var(--brand);color:#fff;border-radius:14px;padding:16px;margin-top:12px}.result .big{font-size:28px;font-weight:800}.kv{display:flex;justify-content:space-between;font-size:13px;padding:5px 0;border-bottom:1px solid #ffffff1c}
+.callout{border-radius:10px;background:#fff6e4;padding:12px;font-size:12px;color:#7f5720;margin:10px 0}
+.seg{display:flex;gap:6px;overflow-x:auto;margin-bottom:12px}.seg button{white-space:nowrap;border:1px solid var(--line);background:#fff;border-radius:18px;padding:7px 12px;font-size:12.5px;font-weight:700;color:#456}.seg button.on{background:var(--brand2);color:#fff;border-color:var(--brand2)}
+.toast{position:fixed;left:50%;bottom:30px;transform:translateX(-50%) translateY(20px);background:#13332f;color:#fff;padding:10px 16px;border-radius:12px;font-size:13px;opacity:0;transition:.25s;z-index:120;pointer-events:none;max-width:90%}.toast.show{opacity:1;transform:translateX(-50%)}
+.pre{white-space:pre-wrap;background:#f5f8f6;border-radius:10px;padding:12px;font-size:12px;line-height:1.6;max-height:220px;overflow:auto}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute"><defs><linearGradient id="lbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14564f"/><stop offset="1" stop-color="#0a2b2d"/></linearGradient><linearGradient id="lgo" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd98e"/><stop offset="1" stop-color="#e9a93f"/></linearGradient>
+<symbol id="logo" viewBox="0 0 512 512"><rect width="512" height="512" rx="112" fill="url(#lbg)"/><path d="M256 70 L404 118 V250 C404 340 342 404 256 440 C170 404 108 340 108 250 V118 Z" fill="none" stroke="url(#lgo)" stroke-width="16" stroke-linejoin="round"/><path d="M138 300 L198 214 L232 258 L276 178 L318 240 L340 214 L374 300 Z" fill="url(#lgo)"/><path d="M150 326 C200 312 236 342 284 328 S340 316 362 326" fill="none" stroke="#7fd3c3" stroke-width="10" stroke-linecap="round"/><g transform="translate(256 140)"><g transform="rotate(-38)"><rect x="-5" y="-46" width="10" height="92" rx="4" fill="#fff"/><path d="M-30 -42 Q0 -60 30 -42 L26 -36 Q0 -48 -26 -36 Z" fill="#fff"/></g><g transform="rotate(38)"><rect x="-5" y="-46" width="10" height="92" rx="4" fill="#fff"/><rect x="-20" y="-52" width="40" height="18" rx="4" fill="#fff"/></g></g><text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="58" fill="#fff">N°2</text></symbol></defs></svg>
+
+<div id="splash"><svg><use href="#logo"/></svg><b>Sindicato N°2</b><small>MINERA PACÍFICO DEL SUR SpA</small></div>
+
+<!-- INGRESO -->
+<section id="login" class="hidden">
+  <div class="login-top"><svg><use href="#logo"/></svg><h1>Sindicato N°2</h1><p>Minera Pacífico del Sur SpA · Alto Mañihuales</p></div>
+  <div class="login-body">
+    <p class="intro">Bienvenido a la aplicación de comunicaciones del sindicato. Ingresa tus datos de socio para comenzar.</p>
+    <input class="uline" id="lRut" placeholder="RUT (12.345.678-9)" maxlength="12" autocomplete="off"/>
+    <input class="uline" id="lName" placeholder="Nombre y apellido" maxlength="60"/>
+    <input class="uline" id="lNum" placeholder="N° de socio (opcional)" maxlength="12"/>
+    <div class="err" id="lErr"></div>
+    <button class="btn" onclick="doLogin()">Ingresar</button>
+    <button class="linkbtn" onclick="guest()">Entrar como invitado</button>
+    <p class="legal">Tus datos se guardan solo en este teléfono y no se envían a ningún servidor.<br/>Sindicato N°2 · v<span class="appv"></span></p>
+  </div>
+</section>
+
+<div class="app hidden" id="shell">
+<div id="updBanner" class="hidden" style="background:#ffc93c;color:#4a3500;padding:10px 14px;font-size:13px;display:flex;gap:10px;align-items:center"><span class="grow" id="updText"></span><button class="btn sm" style="background:#4a3500" id="updBtn">Actualizar</button></div>
+<header class="bar">
+  <button class="ib menu" id="menuBtn" onclick="go('home',true)">☰ <span style="font-size:15px">Menú</span></button>
+  <button class="ib hidden" id="backBtn" onclick="back()" aria-label="Atrás">←</button>
+  <div class="t" id="barTitle">Sindicato N°2 Pacífico del Sur</div>
+  <button class="ib" onclick="go('notif')" aria-label="Avisos">🔔<span class="badge hidden" id="bellBadge"></span></button>
+</header>
+
+<!-- MENÚ PRINCIPAL -->
+<section class="page active" id="home">
+  <div class="hello"><div class="av" id="avatar">?</div><div><small id="saludo">Buenas tardes</small><b id="uname">Socio</b></div></div>
+  <div class="ticker hidden" id="ticker"><div class="ticker-in" id="tickerIn"></div></div>
+  <div class="tiles" id="tiles"></div>
+  <div class="mlist">
+    <button onclick="go('perfil')">👤 Mis ajustes</button>
+    <button onclick="go('ayuda')">ℹ️ Ayuda &amp; soporte técnico</button>
+    <button onclick="logout()">↪ Cerrar mi sesión</button>
+    <button onclick="go('privacidad')">🛡️ Política de privacidad</button>
+  </div>
+  <div class="ver" id="verLine" onclick="verTap()">Versión <span class="appv"></span> · Sindicato N°2 Minera Pacífico del Sur SpA · <span id="syncTxt"></span></div>
+</section>
+
+<section class="page" id="informativos"><div class="seg" id="infSeg"></div><div id="infList"></div></section>
+<section class="page" id="noticias"><div id="newsList"></div></section>
+<section class="page" id="notif"><div id="notifList"></div></section>
+<section class="page" id="calendario">
+  <div class="calh"><button class="navb" onclick="calMove(-1)">«</button><div class="m" id="calTitle"></div><button class="navb" onclick="calMove(1)">»</button></div>
+  <div class="cal" id="cal"></div>
+  <div id="dayList"></div>
+  <button class="btn green" onclick="openEvent()">📅 Agendar actividad para este día</button>
+  <p class="meta" style="margin-top:8px"><span style="color:#2fd3a2">■</span> Actividad del sindicato &nbsp; <span style="color:#c56cf0">■</span> Mi calendario personal</p>
+</section>
+<section class="page" id="biblioteca">
+  <div class="search"><span>📚</span><input id="libQ" placeholder="Buscar un documento..." oninput="renderLib()"/></div>
+  <div class="card" id="libBox"></div>
+</section>
+<section class="page" id="encuestas"><div id="pollList"></div></section>
+<section class="page" id="buzon">
+  <div class="card">
+    <h3>Buzón del socio</h3><p>Envía consultas, reclamos o propuestas a la directiva.</p>
+    <div class="fl" style="margin-top:10px"><label for="bType">Tema</label><select class="ctl" id="bType"><option>Consulta general</option><option>Seguridad y salud en faena</option><option>Turnos y jornada</option><option>Remuneraciones</option><option>Beneficios</option><option>Propuesta</option><option>Reclamo</option></select></div>
+    <div class="fl"><label for="bMsg">Mensaje</label><textarea class="ctl" id="bMsg" maxlength="1500" placeholder="Escribe aquí..."></textarea></div>
+    <label class="row" style="font-size:13px;gap:8px"><input type="checkbox" id="bSign" checked/> Incluir mi nombre</label>
+    <div class="row" style="margin-top:12px"><button class="btn green" style="margin:0" onclick="sendBuzon('wa')">WhatsApp</button><button class="btn light" style="margin:0" onclick="sendBuzon('mail')">Correo</button></div>
+    <div class="status" id="bStatus"></div>
+  </div>
+  <p class="meta">El mensaje se abre en tu WhatsApp o correo para que lo revises antes de enviarlo.</p>
+</section>
+<section class="page" id="beneficios"><div class="seg" id="benSeg"></div><div id="benList"></div></section>
+<section class="page" id="directiva"><div id="boardList"></div></section>
+<section class="page" id="credencial">
+  <div class="idcard">
+    <div class="row"><svg width="40" height="40"><use href="#logo"/></svg><div style="font-size:11px;line-height:1.3">SINDICATO N°2<br/><b>MINERA PACÍFICO DEL SUR SpA</b></div></div>
+    <div class="n" id="cName"></div>
+    <div class="row" style="gap:28px"><div><div class="l">RUT</div><div class="v" id="cRut">—</div></div><div><div class="l">N° socio</div><div class="v" id="cNum">—</div></div></div>
+    <div class="l">Área / turno</div><div class="v" id="cArea">—</div>
+  </div>
+  <p class="meta" style="margin-top:10px">Credencial de referencia guardada en este teléfono. No reemplaza la acreditación oficial del sindicato.</p>
+  <button class="btn light" onclick="go('perfil')">Editar mis datos</button>
+</section>
+<section class="page" id="calculadora">
+  <div class="card">
+    <h3>Horas extra</h3><p>Fórmula de la Dirección del Trabajo, recargo 50%.</p>
+    <div class="fl" style="margin-top:10px"><label for="kS">Sueldo base mensual ($)</label><input class="ctl" id="kS" inputmode="numeric" placeholder="950000" oninput="calc()"/></div>
+    <div class="fl"><label for="kJ">Jornada semanal</label><select class="ctl" id="kJ" onchange="calc()"><option value="42">42 horas (desde 26-abr-2026)</option><option value="44">44 horas</option><option value="45">45 horas</option><option value="40">40 horas</option></select></div>
+    <div class="fl"><label for="kH">Horas extra del mes</label><input class="ctl" id="kH" inputmode="decimal" placeholder="12" oninput="calc()"/></div>
+    <div class="result" id="kR"><small>Ingresa sueldo y horas.</small></div>
+    <div class="callout">Referencial. Los sistemas de turno excepcionales (p. ej. 7×7) pueden tener reglas distintas según su autorización y el contrato colectivo.</div>
+  </div>
+</section>
+<section class="page" id="radio">
+  <div class="card" style="text-align:center"><div style="font-size:48px">📻</div><h3 id="radioName">Radio</h3><p id="radioInfo"></p><audio id="radioAudio" controls preload="none" style="width:100%;margin-top:10px"></audio></div>
+</section>
+<section class="page" id="perfil">
+  <div class="card">
+    <h3>Mis datos</h3>
+    <div class="fl"><label for="pName">Nombre</label><input class="ctl" id="pName" maxlength="60"/></div>
+    <div class="fl"><label for="pRut">RUT</label><input class="ctl" id="pRut" maxlength="12"/></div>
+    <div class="fl"><label for="pNum">N° de socio</label><input class="ctl" id="pNum" maxlength="12"/></div>
+    <div class="fl"><label for="pArea">Área / turno</label><input class="ctl" id="pArea" maxlength="40" placeholder="Mina · Turno A"/></div>
+    <button class="btn" onclick="saveProfile()">Guardar</button><div class="status" id="pStatus"></div>
+  </div>
+  <div class="card"><h3>Versión de la app</h3><p id="verInfo"></p><button class="btn light" onclick="checkUpdate(true)">Buscar actualización de la app</button><div class="status" id="updStatus"></div></div>
+  <div class="card"><h3>Contenido</h3><p id="srcInfo"></p><button class="btn light" onclick="sync(true)">Buscar actualizaciones</button>
+    <details style="margin-top:10px"><summary style="font-weight:700">Fuente de contenido</summary><input class="ctl" id="srcUrl" style="margin-top:8px"/><div class="row" style="margin-top:8px"><button class="btn sm" onclick="saveSrc()">Guardar</button><button class="btn sm light" onclick="resetSrc()">Restablecer</button></div></details>
+    <div class="status" id="srcStatus"></div></div>
+  <div class="card"><h3>Borrar datos</h3><p>Elimina perfil, notas, calendario personal y contenido guardado.</p><button class="btn" style="background:#b13b26" onclick="wipe()">Borrar todo</button></div>
+</section>
+<section class="page" id="admin">
+  <div class="card" id="admLock"><h3>Panel de la directiva</h3><p>Prepara publicaciones y exporta el archivo <b>contenido.json</b> para subirlo a GitHub. Los socios lo reciben al abrir la app.</p>
+    <div class="fl" style="margin-top:10px"><label for="admPin">Clave del panel</label><input class="ctl" id="admPin" type="password" inputmode="numeric" maxlength="8" placeholder="4 a 8 dígitos"/></div>
+    <button class="btn" onclick="admEnter()">Entrar</button><p class="meta" id="admHint"></p><div class="status" id="admErr"></div></div>
+  <div id="admPanel" class="hidden">
+    <div class="seg" id="admSeg"></div>
+    <div class="card" id="admForm"></div>
+    <div class="card"><h3>Publicaciones en el borrador</h3><div id="admItems"></div></div>
+    <div class="card"><h3>Publicar</h3><p>1. Copia el contenido. 2. Abre GitHub, pega reemplazando todo y guarda («Commit changes»).</p>
+      <div class="row" style="margin-top:10px"><button class="btn green" style="margin:0" onclick="admCopy()">1 · Copiar contenido</button><button class="btn" style="margin:0" onclick="admGithub()">2 · Abrir GitHub</button></div>
+      <button class="btn light" onclick="admPreview()">Ver en la app (solo este teléfono)</button>
+      <button class="linkbtn" onclick="admReset()">Descartar borrador</button></div>
+  </div>
+</section>
+<section class="page" id="ayuda"><div id="helpBox"></div></section>
+<section class="page" id="privacidad"><div class="card"><h3>Política de privacidad</h3>
+  <p>Esta aplicación no crea cuentas ni envía datos personales a servidores. Tu nombre, RUT, credencial, notas y calendario personal se guardan solo en la memoria de este teléfono, y puedes borrarlos en Mis ajustes.</p>
+  <p>La app descarga el contenido público del sindicato (informativos, calendario, beneficios, documentos) desde la dirección configurada, y los indicadores económicos desde mindicador.cl.</p>
+  <p>Los mensajes del buzón se envían por tu propia app de WhatsApp o correo, solo cuando tú lo decides.</p></div></section>
+<section class="page" id="notas"><div class="card"><div class="fl"><label for="nT">Título</label><input class="ctl" id="nT" maxlength="80"/></div><div class="fl"><label for="nB">Detalle</label><textarea class="ctl" id="nB" maxlength="2000"></textarea></div><button class="btn" onclick="saveNote()">Guardar nota</button></div><div id="noteList"></div></section>
+</div>
+
+<div class="dlg" id="readDlg"><div class="modal"><div id="rPills"></div><h2 id="rTitle"></h2><div class="meta" id="rMeta"></div><div class="mbody" id="rBody"></div><div class="acts" id="rActs"></div></div></div>
+<div class="dlg" id="evDlg"><div class="modal"><h2>Agendar actividad</h2><p class="meta" id="evDay"></p>
+  <div class="fl"><label for="evT">Actividad</label><input class="ctl" id="evT" maxlength="100" placeholder="Reunión turno A"/></div>
+  <div class="row"><div class="fl grow"><label for="evH">Desde</label><input class="ctl" id="evH" type="time"/></div><div class="fl grow"><label for="evH2">Hasta</label><input class="ctl" id="evH2" type="time"/></div></div>
+  <div class="fl"><label for="evN">Detalle</label><textarea class="ctl" id="evN" style="min-height:70px" maxlength="300"></textarea></div>
+  <div class="acts"><button class="btn light" onclick="closeDlg('evDlg')">Cancelar</button><button class="btn" onclick="saveEvent()">Guardar</button></div></div></div>
+<div class="toast" id="toast"></div>
+
+<script>
+(function(){'use strict';
+var APP_VER=4;var VERSION='1.3';
+var REPO_RAW='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/';
+function apkVer(){try{return +localStorage.getItem('sin2_apk_ver')||0}catch(_){return 0}}
+var DEFAULT_SOURCE='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/contenido.json';
+var GITHUB_EDIT='https://github.com/dicapo09/sindicato2-app/edit/main/contenido.json';
+var DEFAULT_CONTENT={
+ "actualizado":"2026-11-18",
+ "sindicato":{"nombre":"Sindicato N°2","empresa":"Minera Pacífico del Sur SpA","sector":"Alto Mañihuales, Región de Aysén","sede":"","horario":"","telefono":"","whatsapp":"","email":"","radio":"","radioNombre":""},
+ "informativos":[
+  {"id":"i-ej-1","fecha":"2026-11-18","categoria":"Informativo","ejemplo":true,"titulo":"Bienvenidos a la app del Sindicato N°2","resumen":"Un canal directo entre la directiva y los socios.","cuerpo":"Esta aplicación reúne informativos, calendario de asambleas, encuestas, biblioteca de documentos y beneficios del sindicato.\n\nLas publicaciones marcadas como «ejemplo» serán reemplazadas por contenido oficial de la directiva.","enlace":"","fijado":true},
+  {"id":"i-ej-2","fecha":"2026-11-15","categoria":"Citación","ejemplo":true,"titulo":"Ejemplo: citación a asamblea ordinaria","resumen":"Así se verán las citaciones oficiales.","cuerpo":"Formato de ejemplo. Las citaciones reales indicarán fecha, hora, lugar y tabla.","enlace":""}
+ ],
+ "noticias":[
+  {"id":"n-ej-1","fecha":"2026-11-10","titulo":"Ejemplo: noticia del sector minero","resumen":"Las noticias pueden enlazar a medios externos.","cuerpo":"Formato de ejemplo para noticias de interés para los socios.","enlace":"","ejemplo":true}
+ ],
+ "eventos":[
+  {"id":"e-ej-1","fecha":"2026-12-05","hora":"18:00","titulo":"Ejemplo: Asamblea ordinaria","lugar":"Sede sindical (por confirmar)","detalle":"Evento de muestra.","ejemplo":true}
+ ],
+ "encuestas":[
+  {"id":"p-ej-1","titulo":"Ejemplo: tema prioritario","pregunta":"¿Qué tema prefieres tratar en la próxima asamblea?","opciones":["Turnos y jornada","Beneficios de bienestar","Seguridad en faena","Otro"],"cierre":"2026-12-31","enlace":"","ejemplo":true}
+ ],
+ "beneficios":[
+  {"id":"b-ej-1","categoria":"Salud","titulo":"Ejemplo: convenio de salud","descripcion":"Aquí se publicarán convenios verificados.","requisitos":"Ser socio activo.","vigencia":"Por confirmar","contacto":"","ejemplo":true},
+  {"id":"b-ej-2","categoria":"Bienestar","titulo":"Ejemplo: aporte por nacimiento","descripcion":"Formato de muestra para beneficios del fondo de bienestar.","requisitos":"Según reglamento.","vigencia":"Por confirmar","contacto":"","ejemplo":true}
+ ],
+ "documentos":[
+  {"id":"d-1","carpeta":"Estatutos","titulo":"Estatutos del sindicato","descripcion":"Pendiente de carga.","enlace":""},
+  {"id":"d-2","carpeta":"Contrato colectivo","titulo":"Contrato colectivo vigente","descripcion":"Pendiente de carga.","enlace":""},
+  {"id":"d-3","carpeta":"Actas","titulo":"Ejemplo: acta asamblea","descripcion":"Las actas pueden enlazarse desde Google Drive.","enlace":""}
+ ],
+ "directiva":[{"cargo":"Presidente(a)","nombre":"Por confirmar","telefono":""},{"cargo":"Secretario(a)","nombre":"Por confirmar","telefono":""},{"cargo":"Tesorero(a)","nombre":"Por confirmar","telefono":""}]
+};
+
+/* ---------- utilidades ---------- */
+function $(i){return document.getElementById(i)}window.$=$;
+function load(k,d){try{var v=localStorage.getItem(k);return v==null?d:JSON.parse(v)}catch(_){return d}}
+function store(k,v){try{localStorage.setItem(k,JSON.stringify(v));return true}catch(_){return false}}
+function del(k){try{localStorage.removeItem(k)}catch(_){}}
+function esc(v){return String(v==null?'':v).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+function safeUrl(u){u=String(u||'').trim();return /^(https:\/\/|http:\/\/|mailto:|tel:)/i.test(u)?u:''}
+function toast(m){var t=$('toast');t.textContent=m;t.classList.add('show');clearTimeout(toast.t);toast.t=setTimeout(function(){t.classList.remove('show')},2600)}
+function ext(url){url=safeUrl(url);if(!url)return;var a=document.createElement('a');a.href=url;a.target='_blank';a.rel='noopener';document.body.appendChild(a);a.click();a.remove()}window.ext=ext;
+function pd(s){var d=new Date(String(s||'')+'T12:00:00');return isNaN(d)?null:d}
+function fd(s){var d=pd(s);return d?d.toLocaleDateString('es-CL',{weekday:'long',day:'numeric',month:'long',year:'numeric'}):esc(s)}
+function fds(s){var d=pd(s);return d?d.toLocaleDateString('es-CL',{day:'numeric',month:'long',year:'numeric'}):esc(s)}
+function iso(d){return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0')}
+function today(){return iso(new Date())}
+function uid(){return Date.now().toString(36)+Math.random().toString(36).slice(2,6)}
+window.closeDlg=function(i){$(i).classList.remove('open')};
+window.copyText=function(t){var ok=false,x=document.createElement('textarea');x.value=t;x.style.position='fixed';x.style.opacity='0';document.body.appendChild(x);x.select();try{ok=document.execCommand('copy')}catch(_){}x.remove();toast(ok?'Copiado al portapapeles':'No se pudo copiar');return ok};
+
+/* ---------- contenido ---------- */
+function normalize(j){if(!j||typeof j!=='object')return null;if(!Array.isArray(j.informativos)&&Array.isArray(j.comunicados))j.informativos=j.comunicados;if(!Array.isArray(j.informativos))return null;return j}
+var C=normalize(load('sin2_preview',null))||normalize(load('sin2_content',null))||DEFAULT_CONTENT;
+function A(k){return Array.isArray(C[k])?C[k]:[]}function S(){return C.sindicato||{}}
+var seen=load('sin2_seen',[]);if(!Array.isArray(seen))seen=[];
+function isNew(id){return seen.indexOf(id)<0}
+function markSeen(id){if(isNew(id)){seen.push(id);store('sin2_seen',seen)}}
+function unreadInf(){return A('informativos').filter(function(x){return isNew(x.id)}).length}
+function unreadNews(){return A('noticias').filter(function(x){return isNew(x.id)}).length}
+function openPolls(){var v=load('sin2_votes',{});return A('encuestas').filter(function(p){return !(p.cierre&&p.cierre<today())&&!v[p.id]}).length}
+
+/* ---------- perfil / ingreso ---------- */
+function profile(){var p=load('sin2_card',null);return p&&typeof p==='object'?p:null}
+function cleanRut(r){return String(r||'').replace(/[^0-9kK]/g,'').toUpperCase()}
+function validRut(r){r=cleanRut(r);if(r.length<2)return false;var b=r.slice(0,-1),dv=r.slice(-1),s=0,m=2;for(var i=b.length-1;i>=0;i--){s+=parseInt(b[i],10)*m;m=m===7?2:m+1}var e=11-(s%11);return (e===11?'0':e===10?'K':String(e))===dv}
+function fmtRut(r){r=cleanRut(r);if(r.length<2)return r;return r.slice(0,-1).replace(/\B(?=(\d{3})+(?!\d))/g,'.')+'-'+r.slice(-1)}
+function initials(n){return String(n||'?').split(/\s+/).filter(Boolean).slice(0,2).map(function(w){return w[0]}).join('').toUpperCase()||'?'}
+window.doLogin=function(){var rut=cleanRut($('lRut').value),name=$('lName').value.trim();
+ if(!validRut(rut)){$('lErr').textContent='RUT no válido. Revisa el dígito verificador.';return}
+ if(name.length<3){$('lErr').textContent='Escribe tu nombre.';return}
+ var p=profile()||{};p.rut=rut;p.name=name;p.num=$('lNum').value.trim();p.guest=false;store('sin2_card',p);enterApp()};
+window.guest=function(){store('sin2_card',{guest:true,name:''});enterApp()};
+window.logout=function(){if(!confirm('¿Cerrar sesión? Tus notas y calendario personal se mantienen.'))return;del('sin2_card');showLogin()};
+function showLogin(){$('shell').classList.add('hidden');$('login').classList.remove('hidden');$('lErr').textContent='';$('lRut').value='';$('lName').value='';$('lNum').value=''}
+function enterApp(){$('login').classList.add('hidden');$('shell').classList.remove('hidden');hist=['home'];show('home')}
+
+/* ---------- navegación ---------- */
+var TITLES={home:'Sindicato N°2 Pacífico del Sur',informativos:'Informativos',noticias:'Noticias',notif:'Avisos',calendario:'Calendario',biblioteca:'Biblioteca',encuestas:'Encuestas',buzon:'Buzón',beneficios:'Mis beneficios',directiva:'Directiva',credencial:'Mi credencial',calculadora:'Calculadora horas extra',radio:'Radio',perfil:'Mis ajustes',admin:'Administración',ayuda:'Ayuda & soporte',privacidad:'Política de privacidad',notas:'Mis notas'};
+var hist=['home'];
+window.go=function(p,root){if(!$(p))return;if(root)hist=[p];else if(hist[hist.length-1]!==p)hist.push(p);show(p)};
+window.back=function(){if(hist.length>1)hist.pop();show(hist[hist.length-1])};
+function show(p){document.querySelectorAll('.page').forEach(function(s){s.classList.toggle('active',s.id===p)});
+ $('barTitle').textContent=TITLES[p]||'';var root=p==='home';$('menuBtn').classList.toggle('hidden',!root);$('backBtn').classList.toggle('hidden',root);window.scrollTo(0,0);
+ var r={home:renderHome,informativos:renderInf,noticias:renderNews,notif:renderNotif,calendario:renderCal,biblioteca:renderLib,encuestas:renderPolls,beneficios:renderBen,directiva:renderBoard,credencial:renderCard,radio:renderRadio,perfil:renderProfile,admin:renderAdmin,ayuda:renderHelp,notas:renderNotes}[p];if(r)r();updateBell()}
+function updateBell(){var n=unreadInf()+unreadNews()+openPolls();var b=$('bellBadge');b.textContent=n;b.classList.toggle('hidden',!n)}
+
+/* ---------- menú ---------- */
+function renderHome(){var h=new Date().getHours();$('saludo').textContent=h<12?'Buenos días':h<20?'Buenas tardes':'Buenas noches';
+ var p=profile()||{};$('uname').textContent=p.name?(p.num?'[#'+p.num+'] ':'')+p.name.split(' ').slice(0,2).join(' '):'Invitado';$('avatar').textContent=initials(p.name||'?');
+ var T=[['informativos','📋','Informativos',unreadInf()],['encuestas','🗳️','Encuestas',openPolls()],['calendario','📅','Calendario',0],['buzon','📮','Buzón',0],['noticias','📰','Noticias',unreadNews()],['biblioteca','📚','Biblioteca',0],['beneficios','🤝','Mis beneficios',0],['credencial','🪪','Credencial',0],['directiva','👥','Directiva',0],['calculadora','🧮','Horas extra',0],['notas','📝','Mis notas',0]];
+ if(safeUrl(S().radio))T.push(['radio','📻',S().radioNombre||'Radio',0]);
+ $('tiles').innerHTML=T.map(function(t){return '<button class="tile" onclick="go(\''+t[0]+'\')"><span class="ic">'+t[1]+'</span><span class="lb">'+esc(t[2])+(t[3]?'<span class="cnt">'+t[3]+'</span>':'')+'</span></button>'}).join('');
+ $('syncTxt').textContent=syncLabel();renderTicker()}
+
+/* ---------- indicadores ---------- */
+function clp(n,dec){return '$ '+Number(n).toLocaleString('es-CL',{minimumFractionDigits:dec||0,maximumFractionDigits:dec||0})}
+function renderTicker(){var d=load('sin2_ind',null);if(!d||!d.uf){$('ticker').classList.add('hidden');return}
+ var items=[['UF',clp(d.uf,2)],['DÓLAR',clp(d.dolar,2)],['EURO',clp(d.euro,2)],['UTM',clp(d.utm,0)],['LIBRA COBRE (USD)','US$ '+Number(d.cobre).toLocaleString('es-CL',{minimumFractionDigits:2,maximumFractionDigits:2})]].filter(function(x){return x[1].indexOf('NaN')<0});
+ var h=items.map(function(x){return '<span>'+x[0]+'<b>'+x[1]+'</b></span>'}).join('');$('tickerIn').innerHTML=h+h;$('ticker').classList.remove('hidden')}
+function fetchInd(){var last=load('sin2_ind',null);if(last&&last.t&&Date.now()-last.t<3*3600e3)return;
+ fetch('https://mindicador.cl/api',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){
+  var v=function(k){return j[k]&&j[k].valor};var d={uf:v('uf'),dolar:v('dolar'),euro:v('euro'),utm:v('utm'),cobre:v('libra_cobre'),t:Date.now()};
+  if(d.uf){store('sin2_ind',d);if($('home').classList.contains('active'))renderTicker()}}).catch(function(){})}
+
+/* ---------- informativos / noticias ---------- */
+var infCat='Todos';
+function sortD(l){return l.slice().sort(function(a,b){if(!!b.fijado!==!!a.fijado)return b.fijado?1:-1;return String(b.fecha).localeCompare(String(a.fecha))})}
+function postCard(x,kind){return '<div class="card" role="button" onclick="readPost(\''+kind+'\',\''+esc(x.id)+'\')">'+(x.fijado?'<span class="pill grey">📌 Fijado</span>':'')+(isNew(x.id)?'<span class="pill red">Nuevo</span>':'')+'<span class="pill teal">'+esc(x.categoria||(kind==='noticias'?'Noticia':'Informativo'))+'</span>'+(x.ejemplo?'<span class="pill gold">Ejemplo</span>':'')+'<h3>'+esc(x.titulo)+'</h3><p>'+esc(x.resumen||'')+'</p><div class="meta">Publicado por Directiva · '+fds(x.fecha)+'</div></div>'}
+function renderInf(){var cats=['Todos'];A('informativos').forEach(function(x){var k=x.categoria||'Informativo';if(cats.indexOf(k)<0)cats.push(k)});
+ $('infSeg').innerHTML=cats.length>2?cats.map(function(k){return '<button class="'+(k===infCat?'on':'')+'" onclick="setInfCat(\''+esc(k)+'\')">'+esc(k)+'</button>'}).join(''):'';
+ var l=sortD(A('informativos')).filter(function(x){return infCat==='Todos'||(x.categoria||'Informativo')===infCat});
+ $('infList').innerHTML=l.length?l.map(function(x){return postCard(x,'informativos')}).join(''):'<div class="empty"><div class="big">📋</div><b>Sin informativos</b></div>'}
+window.setInfCat=function(k){infCat=k;renderInf()};
+function renderNews(){var l=sortD(A('noticias'));$('newsList').innerHTML=l.length?l.map(function(x){return postCard(x,'noticias')}).join(''):'<div class="empty"><div class="big">📰</div><b>Sin noticias</b></div>'}
+window.readPost=function(kind,id){var x=A(kind).filter(function(i){return i.id===id})[0];if(!x)return;markSeen(id);
+ $('rPills').innerHTML='<span class="pill teal">'+esc(x.categoria||(kind==='noticias'?'Noticia':'Informativo'))+'</span>'+(x.ejemplo?'<span class="pill gold">Ejemplo</span>':'');
+ $('rTitle').textContent=x.titulo||'';$('rMeta').textContent='Publicado por Directiva · '+fds(x.fecha);$('rBody').textContent=x.cuerpo||x.resumen||'';
+ var a='<button class="btn light" onclick="closeDlg(\'readDlg\')">Cerrar</button><button class="btn" onclick="sharePost(\''+kind+'\',\''+esc(x.id)+'\')">Compartir</button>';
+ if(safeUrl(x.enlace))a+='<button class="btn green" style="flex-basis:100%" onclick="ext(\''+esc(x.enlace)+'\')">Abrir enlace / documento</button>';
+ $('rActs').innerHTML=a;$('readDlg').classList.add('open');var cur=hist[hist.length-1];if(cur==='informativos')renderInf();if(cur==='noticias')renderNews();if(cur==='notif')renderNotif();updateBell()};
+window.sharePost=function(kind,id){var x=A(kind).filter(function(i){return i.id===id})[0];if(x)ext('https://wa.me/?text='+encodeURIComponent('*'+x.titulo+'*\n'+(x.resumen||'')+'\n— Sindicato N°2 Minera Pacífico del Sur'))};
+function renderNotif(){var l=[];A('informativos').forEach(function(x){if(isNew(x.id))l.push(['informativos',x])});A('noticias').forEach(function(x){if(isNew(x.id))l.push(['noticias',x])});
+ var polls=A('encuestas').filter(function(p){return !(p.cierre&&p.cierre<today())&&!load('sin2_votes',{})[p.id]});
+ var h=l.map(function(e){return postCard(e[1],e[0])}).join('')+polls.map(function(p){return '<div class="card" role="button" onclick="go(\'encuestas\')"><span class="pill yel">Encuesta abierta</span><h3>'+esc(p.titulo)+'</h3><p>Aún no has votado.</p></div>'}).join('');
+ $('notifList').innerHTML=h||'<div class="empty"><div class="big">🔔</div><b>Estás al día</b><p>No hay avisos nuevos.</p></div>'}
+
+/* ---------- calendario ---------- */
+var calY,calM,calSel=today();(function(){var d=new Date();calY=d.getFullYear();calM=d.getMonth()})();
+function personal(){var a=load('sin2_events',[]);return Array.isArray(a)?a:[]}
+function allEv(){return A('eventos').map(function(e){return {id:e.id,fecha:e.fecha,hora:e.hora,titulo:e.titulo,det:[e.lugar,e.detalle].filter(Boolean).join(' · '),of:true,ej:e.ejemplo}}).concat(personal().map(function(e){return {id:e.id,fecha:e.date,hora:e.time+(e.time2?' a '+e.time2:''),titulo:e.title,det:e.note,of:false}}))}
+window.calMove=function(n){calM+=n;if(calM<0){calM=11;calY--}if(calM>11){calM=0;calY++}renderCal()};
+window.calPick=function(d){calSel=d;renderCal()};
+function renderCal(){var first=new Date(calY,calM,1),start=(first.getDay()+6)%7,days=new Date(calY,calM+1,0).getDate();
+ $('calTitle').innerHTML=esc(first.toLocaleDateString('es-CL',{month:'long'}))+' <small>'+calY+'</small>';
+ var ev=allEv(),h=['lun','mar','mie','jue','vie','sab','dom'].map(function(d){return '<div class="dh">'+d+'</div>'}).join('');
+ var t=today(),cells=Math.ceil((start+days)/7)*7;
+ for(var i=0;i<cells;i++){var d=new Date(calY,calM,1-start+i),k=iso(d),o=d.getMonth()!==calM;var de=ev.filter(function(e){return e.fecha===k}).slice(0,3);
+  h+='<button class="d'+(o?' o':'')+(k===t?' today':'')+(k===calSel?' sel':'')+'" onclick="calPick(\''+k+'\')">'+d.getDate()+(k===t?'<br/><small style="font-size:10px;font-weight:600">(Hoy)</small>':'')+'<span class="bars">'+de.map(function(e){return '<i class="'+(e.of?'':'p')+'"></i>'}).join('')+'</span></button>'}
+ $('cal').innerHTML=h;
+ var mk=calY+'-'+String(calM+1).padStart(2,'0');var list=ev.filter(function(e){return e.fecha===calSel});
+ if(!list.length)list=ev.filter(function(e){return String(e.fecha).slice(0,7)===mk});
+ list.sort(function(a,b){return String(a.fecha+a.hora).localeCompare(String(b.fecha+b.hora))});
+ $('dayList').innerHTML=list.length?list.map(function(e){return '<div class="ev'+(e.of?'':' p')+'"><small>📅 '+(e.of?'Calendario del sindicato':'Calendario personal')+(e.ej?' · ejemplo':'')+'</small><h4>'+esc(e.titulo)+'</h4><small>🕑 '+fd(e.fecha)+(e.hora?' · '+esc(e.hora)+' hrs.':'')+'</small>'+(e.det?'<p class="meta" style="margin:4px 0 0">'+esc(e.det)+'</p>':'')+(e.of?'':'<div style="text-align:right"><button class="pill red" onclick="delEvent(\''+esc(e.id)+'\')">Eliminar</button></div>')+'</div>'}).join(''):'<div class="ev" style="border-left-color:#ccc;text-align:center"><small>No se encontraron actividades para el mes de '+esc(first.toLocaleDateString('es-CL',{month:'long'}))+'</small></div>'}
+window.openEvent=function(){$('evDay').textContent=fd(calSel);['evT','evH','evH2','evN'].forEach(function(i){$(i).value=''});$('evDlg').classList.add('open')};
+window.saveEvent=function(){var t=$('evT').value.trim();if(!t){toast('Escribe el nombre de la actividad');return}var a=personal();a.push({id:uid(),title:t,date:calSel,time:$('evH').value,time2:$('evH2').value,note:$('evN').value.trim()});store('sin2_events',a);closeDlg('evDlg');renderCal();toast('Actividad agendada')};
+window.delEvent=function(id){if(!confirm('¿Eliminar esta actividad?'))return;store('sin2_events',personal().filter(function(e){return e.id!==id}));renderCal()};
+
+/* ---------- biblioteca ---------- */
+var libFolder=null;
+function ftype(u){var m=String(u||'').toLowerCase().match(/\.(pdf|xlsx?|docx?|pptx?|jpg|png)(\?|$)/);var e=m?m[1].replace(/x$/,''):(/docs\.google|drive\.google/.test(u)?'drive':'link');var c={pdf:'#d6453c',xls:'#2e9b57',doc:'#2b6cd4',ppt:'#e07a2e',jpg:'#8a5bd6',png:'#8a5bd6',drive:'#1a9f8f',link:'#7a8c89'}[e];return '<div class="ftype" style="--c:'+c+'"><span>'+e.toUpperCase()+'</span></div>'}
+window.openFolder=function(f){libFolder=f;$('libQ').value='';renderLib()};
+function docRow(d){var u=safeUrl(d.enlace);return '<button class="fold" onclick="'+(u?'ext(\''+esc(u)+'\')':'toast(\'Documento aún no disponible\')')+'">'+ftype(u)+'<span class="grow"><b>'+esc(d.titulo)+'</b><small>'+esc(d.descripcion||(u?'Toca para abrir':'Aún no disponible'))+'</small></span></button>'}
+function renderLib(){var q=$('libQ').value.trim().toLowerCase(),docs=A('documentos'),h='';
+ if(q){var r=docs.filter(function(d){return (d.titulo+' '+(d.descripcion||'')+' '+(d.carpeta||'')).toLowerCase().indexOf(q)>=0});h='<h3>Resultados</h3>'+(r.length?r.map(docRow).join(''):'<p>Sin resultados.</p>')}
+ else if(libFolder){var r2=docs.filter(function(d){return (d.carpeta||'General')===libFolder});h='<h3>'+esc(libFolder)+'</h3><p class="meta">'+r2.length+' elemento(s)</p><button class="linkbtn" style="margin:6px 0;color:#2c6fd6" onclick="openFolder(null)">⇦ Atrás</button>'+r2.map(docRow).join('')}
+ else{var f={};docs.forEach(function(d){var k=d.carpeta||'General';f[k]=(f[k]||0)+1});var ks=Object.keys(f);h='<h3>Biblioteca</h3><p class="meta">'+ks.length+' carpetas, '+docs.length+' elementos</p>'+ks.map(function(k){return '<button class="fold" onclick="openFolder(\''+esc(k)+'\')"><span class="fi"></span><span><b>'+esc(k)+'</b><small>'+f[k]+' elemento(s)</small></span></button>'}).join('')}
+ $('libBox').innerHTML=h}
+
+/* ---------- encuestas ---------- */
+function renderPolls(){var v=load('sin2_votes',{}),l=A('encuestas');
+ $('pollList').innerHTML=l.length?l.map(function(p){var closed=p.cierre&&p.cierre<today(),my=v[p.id],ops=Array.isArray(p.opciones)?p.opciones:[];
+  return '<div class="card"><h3>🗳️ '+esc(p.titulo)+'</h3><div class="meta">Publicado por Directiva</div><div style="margin:8px 0">'+(closed?'<span class="pill grey">🔒 Encuesta cerrada</span>':'<span class="pill teal">🔓 Encuesta abierta</span>')+(my?'<span class="pill grey">✔ Votaste: '+esc(my)+'</span>':(closed?'':'<span class="pill yel">⚠ Aún no has votado</span>'))+(p.ejemplo?'<span class="pill gold">Ejemplo</span>':'')+'</div>'+(p.cierre?'<div class="meta">Finaliza el '+fds(p.cierre)+'</div>':'')+
+  (p.pregunta?'<div class="q">'+esc(p.pregunta)+'</div>':'')+(ops.length?'<div>'+ops.map(function(o,i){return '<label class="opt'+(my===o?' on':'')+'"><input type="radio" name="pl_'+esc(p.id)+'" value="'+esc(o)+'"'+(my===o?' checked':'')+(closed?' disabled':'')+' onchange="this.closest(\'div\').querySelectorAll(\'.opt\').forEach(function(x){x.classList.remove(\'on\')});this.parentNode.classList.add(\'on\')"/>'+esc(o)+'</label>'}).join('')+'</div>':'')+
+  (closed?'':'<div style="text-align:right;margin-top:12px"><button class="btn green sm" onclick="vote(\''+esc(p.id)+'\')">✔ '+(ops.length?'Votar':'Responder')+'</button></div>')+'</div>'}).join(''):'<div class="empty"><div class="big">🗳️</div><b>No hay encuestas abiertas</b></div>'}
+window.vote=function(id){var p=A('encuestas').filter(function(x){return x.id===id})[0];if(!p)return;var ops=Array.isArray(p.opciones)?p.opciones:[];var sel=document.querySelector('input[name="pl_'+id+'"]:checked');
+ if(ops.length&&!sel){toast('Elige una opción');return}var choice=sel?sel.value:'';
+ if(safeUrl(p.enlace)){ext(p.enlace)}else{var w=String(S().whatsapp||'').replace(/\D/g,'');var pr=profile()||{};var msg='Voto encuesta: '+p.titulo+'\nRespuesta: '+choice+(pr.name?'\n— '+pr.name+(pr.num?' (socio N° '+pr.num+')':''):'');
+  if(w)ext('https://wa.me/'+w+'?text='+encodeURIComponent(msg));else{copyText(msg);toast('Voto copiado: la directiva aún no publica su WhatsApp')}}
+ if(choice){var v=load('sin2_votes',{});v[id]=choice;store('sin2_votes',v)}renderPolls();updateBell()};
+
+/* ---------- buzón ---------- */
+window.sendBuzon=function(via){var st=$('bStatus'),m=$('bMsg').value.trim();if(m.length<5){st.textContent='Escribe tu mensaje.';st.className='status show bad';return}
+ var p=profile()||{};var t='Buzón del socio – '+$('bType').value+'\n\n'+m+($('bSign').checked&&p.name?'\n\n— '+p.name+(p.num?' (socio N° '+p.num+')':''):'');
+ if(via==='wa'){var w=String(S().whatsapp||'').replace(/\D/g,'');if(!w){copyText(t);st.textContent='La directiva aún no publica su WhatsApp. El mensaje quedó copiado.';st.className='status show bad';return}ext('https://wa.me/'+w+'?text='+encodeURIComponent(t))}
+ else{var e=String(S().email||'').trim();if(!e){copyText(t);st.textContent='La directiva aún no publica su correo. El mensaje quedó copiado.';st.className='status show bad';return}ext('mailto:'+e+'?subject='+encodeURIComponent('Buzón Sindicato N°2 – '+$('bType').value)+'&body='+encodeURIComponent(t))}
+ st.textContent='Abriendo tu app de mensajería…';st.className='status show'};
+
+/* ---------- beneficios / directiva / credencial / radio ---------- */
+var benCat='Todos';
+function renderBen(){var cats=['Todos'];A('beneficios').forEach(function(b){var k=b.categoria||'General';if(cats.indexOf(k)<0)cats.push(k)});
+ $('benSeg').innerHTML=cats.map(function(k){return '<button class="'+(k===benCat?'on':'')+'" onclick="setBen(\''+esc(k)+'\')">'+esc(k)+'</button>'}).join('');
+ var l=A('beneficios').filter(function(b){return benCat==='Todos'||(b.categoria||'General')===benCat});
+ $('benList').innerHTML=l.length?l.map(function(b){var u=safeUrl(b.contacto);return '<div class="card"><span class="pill teal">'+esc(b.categoria||'General')+'</span>'+(b.ejemplo?'<span class="pill gold">Ejemplo</span>':'')+'<h3>'+esc(b.titulo)+'</h3><p>'+esc(b.descripcion)+'</p>'+(b.requisitos?'<p><b>Requisitos:</b> '+esc(b.requisitos)+'</p>':'')+(b.vigencia?'<p><b>Vigencia:</b> '+esc(b.vigencia)+'</p>':'')+(u?'<button class="btn sm light" onclick="ext(\''+esc(u)+'\')">Más información</button>':'')+'</div>'}).join(''):'<div class="empty"><b>Sin beneficios publicados</b></div>'}
+window.setBen=function(k){benCat=k;renderBen()};
+function tel(t){t=String(t||'').replace(/[^\d+]/g,'');return t?'tel:'+t:''}
+function renderBoard(){var s=S(),h=A('directiva').map(function(p){var t=tel(p.telefono);return '<div class="card row"><div class="av" style="width:48px;height:48px;font-size:17px;border:0">'+esc(initials(p.nombre))+'</div><div class="grow"><h3 style="margin:0">'+esc(p.nombre)+'</h3><p style="margin:0">'+esc(p.cargo)+'</p></div>'+(t?'<button class="btn sm light" onclick="ext(\''+t+'\')">📞</button>':'')+'</div>'}).join('');
+ var c=[];if(s.telefono)c.push(['📞 Llamar',tel(s.telefono)]);if(s.whatsapp)c.push(['💬 WhatsApp','https://wa.me/'+String(s.whatsapp).replace(/\D/g,'')]);if(s.email)c.push(['✉️ Correo','mailto:'+s.email]);if(s.sede)c.push(['📍 Sede','https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(s.sede)]);
+ h+='<div class="card"><h3>'+esc(s.nombre||'Sindicato N°2')+'</h3><p>'+esc(s.empresa||'')+' · '+esc(s.sector||'')+'</p>'+(s.sede?'<p><b>Sede:</b> '+esc(s.sede)+'</p>':'')+(s.horario?'<p><b>Atención:</b> '+esc(s.horario)+'</p>':'')+(c.length?'<div class="acts">'+c.map(function(x){return '<button class="btn sm light" onclick="ext(\''+esc(x[1])+'\')">'+x[0]+'</button>'}).join('')+'</div>':'<p class="meta">Datos de contacto por publicar.</p>')+'</div>';
+ $('boardList').innerHTML=h}
+function renderCard(){var p=profile()||{};$('cName').textContent=p.name||'Invitado';$('cRut').textContent=p.rut?fmtRut(p.rut):'—';$('cNum').textContent=p.num||'—';$('cArea').textContent=p.area||'—'}
+function renderRadio(){var s=S();$('radioName').textContent=s.radioNombre||'Radio del sindicato';var u=safeUrl(s.radio);$('radioInfo').textContent=u?'Transmisión en vivo':'Sin transmisión configurada';if(u&&$('radioAudio').getAttribute('src')!==u)$('radioAudio').setAttribute('src',u)}
+
+/* ---------- calculadora ---------- */
+window.calc=function(){var s=parseFloat(String($('kS').value).replace(/[^\d]/g,'')),j=parseFloat($('kJ').value),h=parseFloat(String($('kH').value).replace(',','.'));
+ if(!(s>0)){$('kR').innerHTML='<small>Ingresa sueldo y horas.</small>';return}var vh=s/30*28/(j*4),he=vh*1.5;
+ $('kR').innerHTML='<small>Total horas extra del mes</small><div class="big">'+clp((h>0?h:0)*he)+'</div><div class="kv"><span>Valor hora ordinaria</span><b>'+clp(vh)+'</b></div><div class="kv"><span>Valor hora extra (+50%)</span><b>'+clp(he)+'</b></div><div class="kv" style="border:0"><span>Factor</span><b>'+(1.5*28/30/(j*4)).toFixed(7).replace('.',',')+'</b></div>'};
+
+/* ---------- notas ---------- */
+function notes(){var a=load('sin2_ideas',[]);return Array.isArray(a)?a:[]}
+function renderNotes(){var a=notes();$('noteList').innerHTML=a.slice().reverse().map(function(x){return '<div class="card"><h3>'+esc(x.title)+'</h3><p style="white-space:pre-wrap">'+esc(x.text)+'</p><div class="acts"><button class="btn sm light" onclick="noteToBuzon(\''+esc(x.id)+'\')">Enviar al buzón</button><button class="btn sm" style="background:#b13b26" onclick="delNote(\''+esc(x.id)+'\')">Borrar</button></div></div>'}).join('')}
+window.saveNote=function(){var t=$('nT').value.trim(),b=$('nB').value.trim();if(!t||!b){toast('Completa título y detalle');return}var a=notes();a.push({id:uid(),title:t,text:b});store('sin2_ideas',a);$('nT').value='';$('nB').value='';renderNotes();toast('Nota guardada')};
+window.delNote=function(id){if(!confirm('¿Borrar nota?'))return;store('sin2_ideas',notes().filter(function(x){return x.id!==id}));renderNotes()};
+window.noteToBuzon=function(id){var x=notes().filter(function(i){return i.id===id})[0];if(!x)return;go('buzon');$('bType').value='Propuesta';$('bMsg').value=x.title+'\n\n'+x.text};
+
+/* ---------- perfil / ajustes ---------- */
+function renderProfile(){$('verInfo').textContent='App '+VERSION+' (código '+APP_VER+') · APK '+(apkVer()||'—');var p=profile()||{};$('pName').value=p.name||'';$('pRut').value=p.rut?fmtRut(p.rut):'';$('pNum').value=p.num||'';$('pArea').value=p.area||'';$('srcUrl').value=src();$('srcInfo').textContent=syncLabel()+'. La app busca novedades cada vez que se abre.'}
+window.saveProfile=function(){var st=$('pStatus'),r=cleanRut($('pRut').value);if(r&&!validRut(r)){st.textContent='RUT no válido.';st.className='status show bad';return}
+ var p=profile()||{};p.name=$('pName').value.trim();p.rut=r;p.num=$('pNum').value.trim();p.area=$('pArea').value.trim();p.guest=!p.name;store('sin2_card',p);st.textContent='Datos guardados.';st.className='status show'};
+window.wipe=function(){if(!confirm('¿Borrar todos los datos de la app en este teléfono?'))return;['sin2_card','sin2_ideas','sin2_events','sin2_seen','sin2_content','sin2_synced','sin2_source','sin2_votes','sin2_ind','sin2_draft','sin2_preview','sin2_pin'].forEach(del);location.reload()};
+
+/* ---------- sincronización ---------- */
+function src(){return load('sin2_source',DEFAULT_SOURCE)}
+function syncLabel(){if(load('sin2_preview',null))return 'Vista previa del borrador';var t=load('sin2_synced',0);return t?'Actualizado '+new Date(t).toLocaleString('es-CL',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}):'Contenido incluido en la app'}
+window.sync=function(manual){var u=src();if(!/^https:\/\//.test(u))return;var done=false,tm=setTimeout(function(){if(!done){done=true;fail()}},12000);
+ function fail(){if(manual){var s=$('srcStatus');s.textContent='No se pudo actualizar (sin conexión o contenido aún no publicado).';s.className='status show bad'}}
+ fetch(u+(u.indexOf('?')<0?'?':'&')+'t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){if(done)return;done=true;clearTimeout(tm);j=normalize(j);if(!j)throw 0;
+  var before=unreadInf()+unreadNews();store('sin2_content',j);store('sin2_synced',Date.now());if(!load('sin2_preview',null))C=j;var after=unreadInf()+unreadNews();
+  if(manual){var s=$('srcStatus');s.textContent='Contenido actualizado ('+(j.actualizado||'sin fecha')+').';s.className='status show'}
+  if(after>before)toast((after-before)+' publicación(es) nueva(s)');else if(manual)toast('Todo al día');if(!$('shell').classList.contains('hidden'))show(hist[hist.length-1])}).catch(function(){if(done)return;done=true;clearTimeout(tm);fail()})};
+window.saveSrc=function(){var u=$('srcUrl').value.trim();if(!/^https:\/\/\S+$/.test(u)){toast('Debe comenzar con https://');return}store('sin2_source',u);sync(true)};
+window.resetSrc=function(){del('sin2_source');renderProfile();toast('Fuente restablecida')};
+
+/* ---------- administración ---------- */
+var admTab='informativos',admOk=false;
+function draft(){var d=load('sin2_draft',null);return normalize(d)||JSON.parse(JSON.stringify(C))}
+function saveDraft(d){d.actualizado=today();store('sin2_draft',d)}
+async function hash(s){try{var b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode('sin2:'+s));return Array.from(new Uint8Array(b)).map(function(x){return x.toString(16).padStart(2,'0')}).join('')}catch(_){var h=0;for(var i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))|0;return 'f'+h}}
+function renderAdmin(){$('admLock').classList.toggle('hidden',admOk);$('admPanel').classList.toggle('hidden',!admOk);$('admHint').textContent=load('sin2_pin',null)?'Ingresa la clave del panel en este teléfono.':'Primera vez: la clave que escribas quedará como clave del panel en este teléfono.';if(admOk)renderAdmPanel()}
+window.admEnter=async function(){var p=$('admPin').value.trim(),e=$('admErr');if(!/^\d{4,8}$/.test(p)){e.textContent='La clave debe tener 4 a 8 dígitos.';e.className='status show bad';return}
+ var h=await hash(p),saved=load('sin2_pin',null);if(!saved){store('sin2_pin',h);saved=h}if(saved!==h){e.textContent='Clave incorrecta.';e.className='status show bad';return}admOk=true;$('admPin').value='';e.className='status';renderAdmin()};
+var FORMS={
+ informativos:{t:'Informativo',f:[['titulo','Título','text'],['categoria','Categoría (Informativo, Citación, Acuerdo...)','text'],['resumen','Resumen corto','text'],['cuerpo','Texto completo','area'],['enlace','Enlace a documento (opcional, https://)','text'],['fijado','Fijar publicación al inicio','check']]},
+ noticias:{t:'Noticia',f:[['titulo','Título','text'],['resumen','Resumen','text'],['cuerpo','Texto','area'],['enlace','Enlace a la noticia (https://)','text']]},
+ eventos:{t:'Evento',f:[['titulo','Actividad','text'],['fecha','Fecha','date'],['hora','Hora','time'],['lugar','Lugar','text'],['detalle','Detalle','area']]},
+ encuestas:{t:'Encuesta',f:[['titulo','Título','text'],['pregunta','Pregunta','text'],['opciones','Opciones (una por línea)','area'],['cierre','Fecha de cierre','date'],['enlace','Formulario externo (opcional, p. ej. Google Forms)','text']]},
+ beneficios:{t:'Beneficio',f:[['titulo','Beneficio','text'],['categoria','Categoría','text'],['descripcion','Descripción','area'],['requisitos','Requisitos','text'],['vigencia','Vigencia','text'],['contacto','Enlace (https://)','text']]},
+ documentos:{t:'Documento',f:[['titulo','Nombre del documento','text'],['carpeta','Carpeta (Actas, Estatutos...)','text'],['descripcion','Descripción','text'],['enlace','Enlace al archivo (Drive, https://)','text']]},
+ sindicato:{t:'Datos del sindicato',f:[['sede','Dirección de la sede','text'],['horario','Horario de atención','text'],['telefono','Teléfono','text'],['whatsapp','WhatsApp (569XXXXXXXX)','text'],['email','Correo','text'],['radioNombre','Nombre de la radio (opcional)','text'],['radio','URL transmisión radio (https://)','text']]}
+};
+window.admSet=function(t){admTab=t;renderAdmPanel()};
+function renderAdmPanel(){$('admSeg').innerHTML=Object.keys(FORMS).map(function(k){return '<button class="'+(k===admTab?'on':'')+'" onclick="admSet(\''+k+'\')">'+FORMS[k].t+'</button>'}).join('');
+ var F=FORMS[admTab],d=draft(),cur=admTab==='sindicato'?(d.sindicato||{}):{};
+ $('admForm').innerHTML='<h3>'+(admTab==='sindicato'?'Editar ':'Nuevo(a) ')+F.t.toLowerCase()+'</h3>'+F.f.map(function(x){var v=esc(cur[x[0]]||'');if(x[2]==='area')return '<div class="fl"><label>'+x[1]+'</label><textarea class="ctl" id="af_'+x[0]+'">'+v+'</textarea></div>';if(x[2]==='check')return '<label class="row" style="font-size:13px;gap:8px;margin-bottom:10px"><input type="checkbox" id="af_'+x[0]+'"/> '+x[1]+'</label>';return '<div class="fl"><label>'+x[1]+'</label><input class="ctl" id="af_'+x[0]+'" type="'+x[2]+'" value="'+v+'"/></div>'}).join('')+'<button class="btn" onclick="admAdd()">'+(admTab==='sindicato'?'Guardar datos':'Publicar en el borrador')+'</button>';
+ var items=admTab==='sindicato'?[]:(Array.isArray(d[admTab])?d[admTab]:[]);
+ $('admItems').innerHTML=admTab==='sindicato'?'<p class="meta">Los datos del sindicato se usan en Contacto, Buzón y Radio.</p>':(items.length?items.map(function(x,i){return '<div class="row" style="border-bottom:1px solid #eef2f1;padding:8px 0"><div class="grow"><b style="font-size:14px">'+esc(x.titulo||x.nombre)+'</b><div class="meta">'+esc(x.fecha||x.carpeta||x.categoria||'')+(x.ejemplo?' · ejemplo':'')+'</div></div><button class="pill red" onclick="admDel('+i+')">Quitar</button></div>'}).join(''):'<p class="meta">Sin elementos.</p>')}
+window.admAdd=function(){var F=FORMS[admTab],d=draft(),o={};F.f.forEach(function(x){var el=$('af_'+x[0]);o[x[0]]=x[2]==='check'?el.checked:el.value.trim()});
+ if(admTab==='sindicato'){d.sindicato=Object.assign({},d.sindicato||{},o);saveDraft(d);toast('Datos guardados en el borrador');return}
+ if(!o.titulo){toast('Falta el título');return}
+ ['enlace','contacto'].forEach(function(k){if(o[k]&&!safeUrl(o[k]))o[k]=''});
+ if(admTab==='encuestas'){o.opciones=o.opciones.split('\n').map(function(s){return s.trim()}).filter(Boolean)}
+ if(admTab==='eventos'&&!/^\d{4}-\d{2}-\d{2}$/.test(o.fecha)){toast('Falta la fecha');return}
+ if(admTab!=='eventos'&&admTab!=='encuestas'&&admTab!=='documentos'&&admTab!=='beneficios')o.fecha=today();
+ if(o.fijado===false)delete o.fijado;if(o.fijado&&Array.isArray(d.informativos))d.informativos.forEach(function(x){delete x.fijado});
+ o.id=admTab.charAt(0)+'-'+uid();if(!Array.isArray(d[admTab]))d[admTab]=[];d[admTab].unshift(o);saveDraft(d);renderAdmPanel();toast(F.t+' agregado al borrador')};
+window.admDel=function(i){var d=draft();if(!confirm('¿Quitar este elemento del borrador?'))return;d[admTab].splice(i,1);saveDraft(d);renderAdmPanel()};
+function exportJson(){var d=draft();d.actualizado=today();delete d.comunicados;return JSON.stringify(d,null,2)}
+window.admCopy=function(){copyText(exportJson())};
+window.admGithub=function(){ext(GITHUB_EDIT)};
+window.admPreview=function(){store('sin2_preview',draft());C=draft();toast('Vista previa activa en este teléfono');go('home',true)};
+window.admReset=function(){if(!confirm('¿Descartar el borrador y la vista previa?'))return;del('sin2_draft');del('sin2_preview');C=normalize(load('sin2_content',null))||DEFAULT_CONTENT;renderAdmPanel();toast('Borrador descartado')};
+
+/* ---------- ayuda ---------- */
+function renderHelp(){$('helpBox').innerHTML='<div class="card"><h3>¿Cómo funciona?</h3><p>📋 <b>Informativos y noticias:</b> los publica la directiva. Te avisamos con el número rojo y la campana.</p><p>📅 <b>Calendario:</b> verde = actividades del sindicato; morado = tu calendario personal.</p><p>🗳️ <b>Encuestas:</b> tu voto se envía a la directiva por WhatsApp o mediante el formulario indicado.</p><p>📮 <b>Buzón:</b> escribe a la directiva por WhatsApp o correo.</p><p>← <b>Volver:</b> usa la flecha de arriba a la izquierda.</p></div><div class="card"><h3>Soporte</h3><p>Ante problemas con la app, contacta a la directiva desde el Buzón.</p><p class="meta">'+esc(syncLabel())+' · v'+VERSION+'</p></div>'}
+
+/* ---------- inicio ---------- */
+document.querySelectorAll('.dlg').forEach(function(d){d.addEventListener('click',function(e){if(e.target===d)d.classList.remove('open')})});
+setTimeout(function(){$('splash').classList.add('out');var p=profile();if(p)enterApp();else showLogin();setTimeout(function(){$('splash').remove()},500)},1300);
+document.querySelectorAll('.appv').forEach(function(e){e.textContent=VERSION});
+var taps=0,tapT=0;window.verTap=function(){var n=Date.now();taps=n-tapT<800?taps+1:1;tapT=n;if(taps>=7){taps=0;go('admin')}};
+function lsGet(k){try{return localStorage.getItem(k)}catch(_){return null}}function lsSet(k,v){try{localStorage.setItem(k,v);return true}catch(_){return false}}
+function banner(txt,btn,fn){$('updText').textContent=txt;$('updBtn').textContent=btn;$('updBtn').onclick=fn;$('updBanner').classList.remove('hidden')}
+window.checkUpdate=function(manual){var st=$('updStatus');
+ fetch(REPO_RAW+'version.json?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(v){
+  var bad=+(lsGet('sin2_app_bad')||0),have=Math.max(APP_VER,+(lsGet('sin2_app_ver')||0)),did=false;
+  if(+v.apk>apkVer()&&safeUrl(v.apkUrl)){did=true;banner('Hay una nueva versión'+(v.apkNombre?' ('+v.apkNombre+')':'')+' de la app para instalar.','Descargar',function(){ext(v.apkUrl)})}
+  if(+v.app>have&&+v.app!==bad&&(!v.minApk||apkVer()>=+v.minApk)){did=true;
+   fetch(REPO_RAW+(v.appFile||'app.html')+'?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.text()}).then(function(h){
+    if(h.indexOf('SIN2-APP-OK')<0||h.indexOf('var APP_VER='+v.app+';')<0)throw 0;
+    if(lsSet('sin2_app_html',h)&&lsSet('sin2_app_ver',String(v.app))){if(!$('updBanner').classList.contains('hidden')&&+v.apk>apkVer())return;banner('Actualización '+(v.nombre||v.app)+' descargada.','Aplicar',function(){location.replace('index.html')});if(manual&&st){st.textContent='Actualización descargada.';st.className='status show'}}
+   }).catch(function(){if(manual&&st){st.textContent='No se pudo descargar la actualización.';st.className='status show bad'}})}
+  if(!did&&manual&&st){st.textContent='Tienes la última versión.';st.className='status show'}
+ }).catch(function(){if(manual&&st){st.textContent='Sin conexión o servidor no disponible.';st.className='status show bad'}})};
+sync(false);fetchInd();setTimeout(function(){checkUpdate(false)},2500);
+try{localStorage.removeItem('sin2_boot_pending')}catch(_){}
+})();
+</script>
+</body></html>

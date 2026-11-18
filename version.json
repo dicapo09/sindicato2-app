@@ -1,0 +1,9 @@
+{
+  "app": 4,
+  "nombre": "1.3",
+  "appFile": "app.html",
+  "apk": 4,
+  "apkNombre": "1.3",
+  "apkUrl": "https://github.com/dicapo09/sindicato2-app/raw/main/apk/SindicatoN2.apk",
+  "notas": "Versión inicial con actualización automática."
+}
