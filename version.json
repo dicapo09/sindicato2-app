@@ -1,9 +1,9 @@
 {
-  "app": 5,
-  "nombre": "1.4",
+  "app": 6,
+  "nombre": "1.5",
   "appFile": "app.html",
   "apk": 5,
   "apkNombre": "1.4",
   "apkUrl": "https://github.com/dicapo09/sindicato2-app/raw/main/apk/SindicatoN2.apk",
-  "notas": "Corrige pantalla verde al abrir."
+  "notas": "Menú lateral, IPC en indicadores, preparación para cuentas de socios."
 }

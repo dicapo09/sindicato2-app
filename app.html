@@ -96,6 +96,12 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 .seg{display:flex;gap:6px;overflow-x:auto;margin-bottom:12px}.seg button{white-space:nowrap;border:1px solid var(--line);background:#fff;border-radius:18px;padding:7px 12px;font-size:12.5px;font-weight:700;color:#456}.seg button.on{background:var(--brand2);color:#fff;border-color:var(--brand2)}
 .toast{position:fixed;left:50%;bottom:30px;transform:translateX(-50%) translateY(20px);background:#13332f;color:#fff;padding:10px 16px;border-radius:12px;font-size:13px;opacity:0;transition:.25s;z-index:120;pointer-events:none;max-width:90%}.toast.show{opacity:1;transform:translateX(-50%)}
 .pre{white-space:pre-wrap;background:#f5f8f6;border-radius:10px;padding:12px;font-size:12px;line-height:1.6;max-height:220px;overflow:auto}
+.drawer{position:fixed;inset:0;z-index:60;background:#0008;display:none}.drawer.open{display:block}
+.drawer .pan{position:absolute;top:0;bottom:0;left:0;width:82%;max-width:330px;background:#fff;overflow-y:auto;box-shadow:4px 0 20px #0004;animation:dr .2s ease-out}@keyframes dr{from{transform:translateX(-100%)}to{transform:none}}
+.drawer .dh{background:var(--brand);color:#fff;padding:22px 18px 16px}.drawer .dh b{display:block;font-size:17px;margin-top:8px}.drawer .dh small{opacity:.8}
+.drawer button.it{display:flex;gap:14px;align-items:center;width:100%;text-align:left;padding:13px 18px;font-size:15px;color:var(--ink);border-bottom:1px solid #f0f3f2}.drawer button.it:active{background:#eef4f2}
+.drawer .sep{height:8px;background:#f2f5f4}
+.vbar{height:8px;border-radius:5px;background:#e3ebe9;overflow:hidden;margin-top:4px}.vbar i{display:block;height:100%;background:#1aa0a0}
 </style>
 </head>
 <body>
@@ -107,7 +113,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 <!-- INGRESO -->
 <section id="login" class="hidden">
   <div class="login-top"><svg><use href="#logo"/></svg><h1>Sindicato N°2</h1><p>Minera Pacífico del Sur SpA · Alto Mañihuales</p></div>
-  <div class="login-body">
+  <div class="login-body" id="loginJson">
     <p class="intro">Bienvenido a la aplicación de comunicaciones del sindicato. Ingresa tus datos de socio para comenzar.</p>
     <input class="uline" id="lRut" placeholder="RUT (12.345.678-9)" maxlength="12" autocomplete="off"/>
     <input class="uline" id="lName" placeholder="Nombre y apellido" maxlength="60"/>
@@ -117,12 +123,44 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
     <button class="linkbtn" onclick="guest()">Entrar como invitado</button>
     <p class="legal">Tus datos se guardan solo en este teléfono y no se envían a ningún servidor.<br/>Sindicato N°2 · v<span class="appv"></span></p>
   </div>
+  <div class="login-body hidden" id="loginFb">
+    <div id="fbLoginBox">
+      <p class="intro">Aplicación exclusiva para socios y socias del Sindicato N°2. Ingresa con tu correo y contraseña.</p>
+      <input class="uline" id="fEmail" type="email" placeholder="Correo electrónico" autocomplete="email"/>
+      <input class="uline" id="fPass" type="password" placeholder="Contraseña" autocomplete="current-password"/>
+      <div class="err" id="fErr"></div>
+      <button class="btn" onclick="fbLogin()">Ingresar</button>
+      <button class="linkbtn" onclick="fbForgot()">🔑 Recuperar contraseña</button>
+      <button class="btn light" onclick="fbShowReg(false)">Soy socio: solicitar acceso</button>
+    </div>
+    <div id="fbRegBox" class="hidden">
+      <p class="intro">Completa tus datos. La directiva revisará que seas socio antes de darte acceso.</p>
+      <input class="uline" id="rName" placeholder="Nombre y apellidos" maxlength="60"/>
+      <input class="uline" id="rRut" placeholder="RUT (12.345.678-9)" maxlength="12"/>
+      <input class="uline" id="rNum" placeholder="N° de socio (si lo sabes)" maxlength="12"/>
+      <input class="uline" id="rTel" placeholder="Teléfono (+56 9 ...)" maxlength="16" inputmode="tel"/>
+      <div id="rCred"><input class="uline" id="rEmail" type="email" placeholder="Correo electrónico"/>
+      <input class="uline" id="rPass" type="password" placeholder="Contraseña (mínimo 6 caracteres)"/>
+      <input class="uline" id="rPass2" type="password" placeholder="Repite la contraseña"/></div>
+      <div class="err" id="rErr"></div>
+      <button class="btn" onclick="fbRegister()">Enviar solicitud</button>
+      <button class="linkbtn" onclick="fbShowLogin()">Ya tengo cuenta: ingresar</button>
+    </div>
+    <div id="fbPendBox" class="hidden" style="text-align:center">
+      <div style="font-size:46px;margin-top:10px" id="pIcon">⏳</div>
+      <h2 style="margin:8px 0" id="pTitle">Solicitud en revisión</h2>
+      <p class="intro" id="pText">La directiva debe confirmar que eres socio. Te avisaremos al abrir la app cuando estés aprobado.</p>
+      <button class="btn" onclick="fbRecheck()">Revisar de nuevo</button>
+      <button class="linkbtn" onclick="logout()">Cerrar sesión</button>
+    </div>
+    <p class="legal">Sindicato N°2 · Minera Pacífico del Sur SpA · v<span class="appv"></span></p>
+  </div>
 </section>
 
 <div class="app hidden" id="shell">
 <div id="updBanner" class="hidden" style="background:#ffc93c;color:#4a3500;padding:10px 14px;font-size:13px;display:flex;gap:10px;align-items:center"><span class="grow" id="updText"></span><button class="btn sm" style="background:#4a3500" id="updBtn">Actualizar</button></div>
 <header class="bar">
-  <button class="ib menu" id="menuBtn" onclick="go('home',true)">☰ <span style="font-size:15px">Menú</span></button>
+  <button class="ib menu" id="menuBtn" onclick="openDrawer()">☰ <span style="font-size:15px">Menú</span></button>
   <button class="ib hidden" id="backBtn" onclick="back()" aria-label="Atrás">←</button>
   <div class="t" id="barTitle">Sindicato N°2 Pacífico del Sur</div>
   <button class="ib" onclick="go('notif')" aria-label="Avisos">🔔<span class="badge hidden" id="bellBadge"></span></button>
@@ -215,15 +253,15 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
   <div id="admPanel" class="hidden">
     <div class="seg" id="admSeg"></div>
     <div class="card" id="admForm"></div>
-    <div class="card"><h3>Publicaciones en el borrador</h3><div id="admItems"></div></div>
-    <div class="card"><h3>Publicar</h3><p>1. Copia el contenido. 2. Abre GitHub, pega reemplazando todo y guarda («Commit changes»).</p>
+    <div class="card"><h3 id="admItemsH">Publicaciones en el borrador</h3><div id="admItems"></div></div>
+    <div class="card" id="admPub"><h3>Publicar</h3><p>1. Copia el contenido. 2. Abre GitHub, pega reemplazando todo y guarda («Commit changes»).</p>
       <div class="row" style="margin-top:10px"><button class="btn green" style="margin:0" onclick="admCopy()">1 · Copiar contenido</button><button class="btn" style="margin:0" onclick="admGithub()">2 · Abrir GitHub</button></div>
       <button class="btn light" onclick="admPreview()">Ver en la app (solo este teléfono)</button>
       <button class="linkbtn" onclick="admReset()">Descartar borrador</button></div>
   </div>
 </section>
 <section class="page" id="ayuda"><div id="helpBox"></div></section>
-<section class="page" id="privacidad"><div class="card"><h3>Política de privacidad</h3>
+<section class="page" id="privacidad"><div class="card"><h3>Política de privacidad</h3><p id="privFb" class="hidden"><b>Cuenta de socio:</b> tu nombre, RUT, N° de socio, teléfono y correo se guardan en el sistema del sindicato (Google Firebase) solo para verificar que eres socio. Solo la directiva puede verlos. Los votos se registran una vez por socio.</p>
   <p>Esta aplicación no crea cuentas ni envía datos personales a servidores. Tu nombre, RUT, credencial, notas y calendario personal se guardan solo en la memoria de este teléfono, y puedes borrarlos en Mis ajustes.</p>
   <p>La app descarga el contenido público del sindicato (informativos, calendario, beneficios, documentos) desde la dirección configurada, y los indicadores económicos desde mindicador.cl.</p>
   <p>Los mensajes del buzón se envían por tu propia app de WhatsApp o correo, solo cuando tú lo decides.</p></div></section>
@@ -236,11 +274,12 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
   <div class="row"><div class="fl grow"><label for="evH">Desde</label><input class="ctl" id="evH" type="time"/></div><div class="fl grow"><label for="evH2">Hasta</label><input class="ctl" id="evH2" type="time"/></div></div>
   <div class="fl"><label for="evN">Detalle</label><textarea class="ctl" id="evN" style="min-height:70px" maxlength="300"></textarea></div>
   <div class="acts"><button class="btn light" onclick="closeDlg('evDlg')">Cancelar</button><button class="btn" onclick="saveEvent()">Guardar</button></div></div></div>
+<div class="drawer" id="drawer" onclick="if(event.target===this)closeDrawer()"><div class="pan"><div class="dh"><svg width="46" height="46"><use href="#logo"/></svg><b id="drName">Sindicato N°2</b><small>Minera Pacífico del Sur SpA</small></div><div id="drList"></div></div></div>
 <div class="toast" id="toast"></div>
 
 <script>
 (function(){'use strict';
-var APP_VER=5;var VERSION='1.4';
+var APP_VER=6;var VERSION='1.5';
 function reboot(){if(typeof window.__sin2Boot==='function')window.__sin2Boot();else location.reload()}
 var REPO_RAW='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/';
 function apkVer(){try{return +localStorage.getItem('sin2_apk_ver')||0}catch(_){return 0}}
@@ -339,12 +378,16 @@ function renderHome(){var h=new Date().getHours();$('saludo').textContent=h<12?'
 /* ---------- indicadores ---------- */
 function clp(n,dec){return '$ '+Number(n).toLocaleString('es-CL',{minimumFractionDigits:dec||0,maximumFractionDigits:dec||0})}
 function renderTicker(){var d=load('sin2_ind',null);if(!d||!d.uf){$('ticker').classList.add('hidden');return}
- var items=[['UF',clp(d.uf,2)],['DÓLAR',clp(d.dolar,2)],['EURO',clp(d.euro,2)],['UTM',clp(d.utm,0)],['LIBRA COBRE (USD)','US$ '+Number(d.cobre).toLocaleString('es-CL',{minimumFractionDigits:2,maximumFractionDigits:2})]].filter(function(x){return x[1].indexOf('NaN')<0});
+ var n2=function(x){return Number(x).toLocaleString('es-CL',{minimumFractionDigits:2,maximumFractionDigits:2})};
+ var items=[['UF',clp(d.uf,2)],['DÓLAR',clp(d.dolar,2)],['EURO',clp(d.euro,2)],['UTM',clp(d.utm,0)],['LIBRA COBRE','US$ '+n2(d.cobre)]];
+ if(d.ipc!=null)items.push(['IPC'+(d.ipcMes?' '+d.ipcMes:''),String(d.ipc).replace('.',',')+'%']);
+ items=items.filter(function(x){return x[1].indexOf('NaN')<0&&x[1].indexOf('undefined')<0});
  var h=items.map(function(x){return '<span>'+x[0]+'<b>'+x[1]+'</b></span>'}).join('');$('tickerIn').innerHTML=h+h;$('ticker').classList.remove('hidden')}
-function fetchInd(){var last=load('sin2_ind',null);if(last&&last.t&&Date.now()-last.t<3*3600e3)return;
- fetch('https://mindicador.cl/api',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){
-  var v=function(k){return j[k]&&j[k].valor};var d={uf:v('uf'),dolar:v('dolar'),euro:v('euro'),utm:v('utm'),cobre:v('libra_cobre'),t:Date.now()};
-  if(d.uf){store('sin2_ind',d);if($('home').classList.contains('active'))renderTicker()}}).catch(function(){})}
+function parseInd(j){var v=function(k){return j[k]&&j[k].valor};var d={uf:v('uf'),dolar:v('dolar'),euro:v('euro'),utm:v('utm'),cobre:v('libra_cobre'),ipc:v('ipc'),t:Date.now()};
+ if(j.ipc&&j.ipc.fecha){var f=new Date(j.ipc.fecha);if(!isNaN(f))d.ipcMes=f.toLocaleDateString('es-CL',{month:'short',timeZone:'UTC'}).replace('.','')}return d}
+function fetchInd(){var last=load('sin2_ind',null);if(last&&last.t&&Date.now()-last.t<2*3600e3)return;
+ function get(u){return fetch(u,{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){var d=parseInd(j);if(!d.uf)throw 0;return d})}
+ get(REPO_RAW+'indicadores.json?t='+Date.now()).catch(function(){return get('https://mindicador.cl/api')}).then(function(d){store('sin2_ind',d);if($('home').classList.contains('active'))renderTicker()}).catch(function(){})}
 
 /* ---------- informativos / noticias ---------- */
 var infCat='Todos';
@@ -503,12 +546,113 @@ window.admGithub=function(){ext(GITHUB_EDIT)};
 window.admPreview=function(){store('sin2_preview',draft());C=draft();toast('Vista previa activa en este teléfono');go('home',true)};
 window.admReset=function(){if(!confirm('¿Descartar el borrador y la vista previa?'))return;del('sin2_draft');del('sin2_preview');C=normalize(load('sin2_content',null))||DEFAULT_CONTENT;renderAdmPanel();toast('Borrador descartado')};
 
+/* ---------- menú lateral ---------- */
+window.openDrawer=function(){var p=profile()||{};$('drName').textContent=p.name||'Sindicato N°2';
+ var L=[['home','🏠','Inicio'],['informativos','📋','Informativos'],['noticias','📰','Noticias'],['calendario','📅','Calendario'],['encuestas','🗳️','Encuestas'],['buzon','📮','Buzón'],['biblioteca','📚','Biblioteca'],['beneficios','🤝','Mis beneficios'],['credencial','🪪','Credencial'],['directiva','👥','Directiva y contacto'],['calculadora','🧮','Horas extra'],['notas','📝','Mis notas']];
+ if(safeUrl(S().radio))L.push(['radio','📻',S().radioNombre||'Radio']);L.push(null,['perfil','👤','Mis ajustes']);
+ if(FB&&fbAdmin)L.push(['admin','⚙️','Administración']);L.push(['ayuda','ℹ️','Ayuda & soporte'],['privacidad','🛡️','Política de privacidad'],['__out','↪','Cerrar sesión']);
+ $('drList').innerHTML=L.map(function(x){return x?'<button class="it" onclick="drGo(\''+x[0]+'\')"><span>'+x[1]+'</span>'+esc(x[2])+'</button>':'<div class="sep"></div>'}).join('');$('drawer').classList.add('open')};
+window.closeDrawer=function(){$('drawer').classList.remove('open')};
+window.drGo=function(p){closeDrawer();if(p==='__out')logout();else go(p,p==='home')};
+
+/* ---------- Firebase: acceso solo para socios aprobados ---------- */
+var FIREBASE_CONFIG=null; /* Se completa con los datos del proyecto Firebase del sindicato */
+var FB=!!(FIREBASE_CONFIG&&FIREBASE_CONFIG.apiKey),fbAuth=null,fbDb=null,fbUser=null,fbAdmin=false,fbRegistering=false,fbRegComplete=false;
+var COLS=['informativos','noticias','eventos','encuestas','beneficios','documentos','directiva'];
+if(FB){var cc=normalize(load('sin2_content',null));C=(cc&&cc.fb)?cc:{fb:true,sindicato:Object.assign({},DEFAULT_CONTENT.sindicato),informativos:[],noticias:[],eventos:[],encuestas:[],beneficios:[],documentos:[],directiva:[]}}
+function withTimeout(p,ms){return Promise.race([p,new Promise(function(_,r){setTimeout(function(){r(new Error('timeout'))},ms)})])}
+function loadScript(src){return new Promise(function(res,rej){var x=document.createElement('script');x.src=src;x.onload=res;x.onerror=rej;document.head.appendChild(x)})}
+function fbInit(){if(fbAuth)return Promise.resolve();var V='https://www.gstatic.com/firebasejs/10.14.1/';
+ var p=window.firebase?Promise.resolve():loadScript(V+'firebase-app-compat.js').then(function(){return Promise.all([loadScript(V+'firebase-auth-compat.js'),loadScript(V+'firebase-firestore-compat.js')])});
+ return withTimeout(p,20000).then(function(){if(!firebase.apps.length)firebase.initializeApp(FIREBASE_CONFIG);fbAuth=firebase.auth();fbDb=firebase.firestore()})}
+function lmsg(id,t){$(id).textContent=t||''}
+function fbPane(which){['fbLoginBox','fbRegBox','fbPendBox'].forEach(function(i){$(i).classList.toggle('hidden',i!==which)})}
+var _showLogin=showLogin;showLogin=function(){_showLogin();if(FB){$('loginJson').classList.add('hidden');$('loginFb').classList.remove('hidden');fbPane('fbLoginBox')}};
+window.fbShowLogin=function(){fbPane('fbLoginBox')};
+window.fbShowReg=function(complete){fbRegComplete=!!complete;$('rCred').classList.toggle('hidden',fbRegComplete);lmsg('rErr','');fbPane('fbRegBox')};
+function errText(e){var c=(e&&e.code)||'';return {'auth/invalid-credential':'Correo o contraseña incorrectos.','auth/wrong-password':'Correo o contraseña incorrectos.','auth/user-not-found':'Correo o contraseña incorrectos.','auth/invalid-email':'El correo no es válido.','auth/email-already-in-use':'Ese correo ya tiene cuenta. Ingresa o recupera tu contraseña.','auth/weak-password':'La contraseña debe tener al menos 6 caracteres.','auth/too-many-requests':'Demasiados intentos. Espera unos minutos.','auth/network-request-failed':'Sin conexión a internet.','permission-denied':'No tienes permiso para esta acción.'}[c]||'No se pudo completar ('+(c||'error')+').'}
+window.fbLogin=function(){var e=$('fEmail').value.trim(),p=$('fPass').value;if(!e||!p){lmsg('fErr','Escribe tu correo y contraseña.');return}lmsg('fErr','Ingresando…');
+ fbInit().then(function(){return fbAuth.signInWithEmailAndPassword(e,p)}).then(function(){$('fPass').value=''}).catch(function(x){lmsg('fErr',x&&x.message==='timeout'?'Sin conexión a internet.':errText(x))})};
+window.fbForgot=function(){var e=$('fEmail').value.trim();if(!e){lmsg('fErr','Escribe tu correo arriba y vuelve a tocar «Recuperar contraseña».');return}
+ fbInit().then(function(){return fbAuth.sendPasswordResetEmail(e)}).then(function(){lmsg('fErr','Te enviamos un correo para crear una nueva contraseña.')}).catch(function(x){lmsg('fErr',errText(x))})};
+window.fbRegister=function(){var n=$('rName').value.trim(),r=cleanRut($('rRut').value),num=$('rNum').value.trim(),tel=$('rTel').value.trim();
+ if(n.length<5){lmsg('rErr','Escribe tu nombre completo.');return}if(!validRut(r)){lmsg('rErr','RUT no válido.');return}if(tel.replace(/\D/g,'').length<8){lmsg('rErr','Escribe tu teléfono.');return}
+ var data={nombre:n,rut:r,num:num,telefono:tel,estado:'pendiente'};
+ function saveDoc(u){data.email=u.email||'';data.creado=firebase.firestore.FieldValue.serverTimestamp();return fbDb.collection('socios').doc(u.uid).set(data)}
+ if(fbRegComplete&&fbUser){lmsg('rErr','Enviando…');saveDoc(fbUser).then(function(){fbAfterLogin(fbUser)}).catch(function(x){lmsg('rErr',errText(x))});return}
+ var e=$('rEmail').value.trim(),p=$('rPass').value;if(!/^\S+@\S+\.\S+$/.test(e)){lmsg('rErr','Correo no válido.');return}if(p.length<6){lmsg('rErr','La contraseña debe tener al menos 6 caracteres.');return}if(p!==$('rPass2').value){lmsg('rErr','Las contraseñas no coinciden.');return}
+ lmsg('rErr','Enviando solicitud…');fbRegistering=true;
+ fbInit().then(function(){return fbAuth.createUserWithEmailAndPassword(e,p)}).then(function(c){return saveDoc(c.user).then(function(){fbRegistering=false;fbAfterLogin(c.user)})}).catch(function(x){fbRegistering=false;lmsg('rErr',x&&x.message==='timeout'?'Sin conexión a internet.':errText(x))})};
+function showPending(estado){$('shell').classList.add('hidden');$('login').classList.remove('hidden');$('loginJson').classList.add('hidden');$('loginFb').classList.remove('hidden');
+ if(estado==='sin-registro'){fbShowReg(true);lmsg('rErr','Falta completar tu solicitud.');return}
+ var blocked=estado==='bloqueado'||estado==='rechazado';$('pIcon').textContent=blocked?'⛔':'⏳';$('pTitle').textContent=blocked?'Acceso no habilitado':'Solicitud en revisión';
+ $('pText').textContent=blocked?'Tu acceso no está habilitado. Si eres socio, contacta a la directiva.':'La directiva debe confirmar que eres socio. Vuelve a abrir la app más tarde o toca «Revisar de nuevo».';fbPane('fbPendBox')}
+window.fbRecheck=function(){if(fbUser)fbAfterLogin(fbUser)};
+function fbAfterLogin(u){Promise.all([fbDb.collection('socios').doc(u.uid).get(),fbDb.collection('admins').doc(u.uid).get().catch(function(){return null})]).then(function(r){
+  var sd=r[0].exists?r[0].data():null;fbAdmin=!!(r[1]&&r[1].exists);var old=profile()||{};
+  store('sin2_card',{name:sd?sd.nombre:(old.name||u.email),rut:sd?sd.rut:'',num:sd?(sd.num||''):'',area:old.area||'',email:u.email});
+  var estado=fbAdmin?'activo':(sd?sd.estado:'sin-registro');store('sin2_fb_session',{uid:u.uid,estado:estado,admin:fbAdmin});
+  if(estado!=='activo'){showPending(estado);return}
+  fbLoad().then(function(){if($('shell').classList.contains('hidden'))enterApp();else show(hist[hist.length-1])})
+ }).catch(function(){var c=load('sin2_fb_session',null);if(c&&c.uid===u.uid&&c.estado==='activo'){fbAdmin=!!c.admin;enterApp();toast('Sin conexión: mostrando lo último guardado')}else{showLogin();lmsg('fErr','No se pudo verificar tu cuenta. Revisa tu conexión.')}})}
+function byFecha(a,b){return String(b.fecha||'').localeCompare(String(a.fecha||''))}
+function fbLoad(){return Promise.all(COLS.map(function(c){return fbDb.collection(c).get().then(function(q){return q.docs.map(function(d){var x=d.data();x.id=d.id;delete x.creado;return x})})}).concat([fbDb.collection('config').doc('sindicato').get().then(function(d){return d.exists?d.data():{}})]))
+ .then(function(r){var o={fb:true,actualizado:today(),sindicato:Object.assign({},DEFAULT_CONTENT.sindicato,r[COLS.length])};COLS.forEach(function(c,i){o[c]=r[i]});
+  o.directiva.sort(function(a,b){return (+a.orden||99)-(+b.orden||99)});o.eventos.sort(function(a,b){return String(a.fecha).localeCompare(String(b.fecha))});
+  var had=A('informativos').length+A('noticias').length>0,before=unreadInf()+unreadNews();C=o;store('sin2_content',o);store('sin2_synced',Date.now());var after=unreadInf()+unreadNews();if(had&&after>before)toast((after-before)+' publicación(es) nueva(s)')}).catch(function(){})}
+function fbStart(){fbInit().then(function(){fbAuth.onAuthStateChanged(function(u){fbUser=u;if(fbRegistering)return;if(!u){del('sin2_fb_session');showLogin();return}fbAfterLogin(u)})})
+ .catch(function(){var c=load('sin2_fb_session',null);if(c&&c.estado==='activo'){fbAdmin=!!c.admin;enterApp();toast('Sin conexión: mostrando lo último guardado')}else{showLogin();lmsg('fErr','Necesitas conexión a internet para ingresar.')}})}
+var _logout=window.logout;window.logout=function(){if(!FB)return _logout();if(!confirm('¿Cerrar sesión?'))return;['sin2_card','sin2_fb_session','sin2_content','sin2_votes'].forEach(del);fbAdmin=false;(fbAuth?fbAuth.signOut():Promise.resolve()).then(function(){showLogin()})};
+var _sync=window.sync;window.sync=function(manual){if(!FB)return _sync(manual);if(!fbDb||!fbUser){if(manual)toast('Sin conexión');return}fbLoad().then(function(){if(manual){var st=$('srcStatus');st.textContent='Contenido actualizado.';st.className='status show'}show(hist[hist.length-1])})};
+var _wipe=window.wipe;window.wipe=function(){if(FB&&fbAuth)fbAuth.signOut();_wipe()};
+/* encuestas con votación real */
+var _renderPolls=renderPolls;renderPolls=function(){_renderPolls();if(!FB||!fbDb||!fbUser)return;
+ A('encuestas').forEach(function(p){var ops=Array.isArray(p.opciones)?p.opciones:[];if(!ops.length)return;
+  fbDb.collection('encuestas').doc(p.id).collection('votos').get().then(function(q){var cnt={},tot=0,mine=null;q.docs.forEach(function(d){var o=d.data().opcion;cnt[o]=(cnt[o]||0)+1;tot++;if(d.id===fbUser.uid)mine=o});
+   var v=load('sin2_votes',{});if(mine&&v[p.id]!==mine){v[p.id]=mine;store('sin2_votes',v)}
+   var el=document.querySelector('input[name="pl_'+p.id+'"]');if(!el)return;var card=el.closest('.card');
+   if(mine||fbAdmin||(p.cierre&&p.cierre<today())){var box=document.createElement('div');box.style.marginTop='10px';box.innerHTML='<div class="meta">Han votado '+tot+' socio(s).</div>'+ops.map(function(o){var pc=tot?Math.round((cnt[o]||0)*100/tot):0;return '<div style="margin-top:8px;font-size:13px">'+esc(o)+' · <b>'+pc+'%</b> ('+(cnt[o]||0)+')<div class="vbar"><i style="width:'+pc+'%"></i></div></div>'}).join('');card.appendChild(box)}
+   if(mine){card.querySelectorAll('input[type=radio]').forEach(function(r){r.disabled=true});var b=card.querySelector('.btn.green');if(b)b.remove()}
+  }).catch(function(){})});updateBell()};
+var _vote=window.vote;window.vote=function(id){if(!FB)return _vote(id);var p=A('encuestas').filter(function(x){return x.id===id})[0];if(!p||!fbUser)return;var sel=document.querySelector('input[name="pl_'+id+'"]:checked');
+ if(safeUrl(p.enlace)&&!(p.opciones||[]).length){ext(p.enlace);return}if(!sel){toast('Elige una opción');return}
+ fbDb.collection('encuestas').doc(id).collection('votos').doc(fbUser.uid).set({opcion:sel.value,t:firebase.firestore.FieldValue.serverTimestamp()})
+ .then(function(){var v=load('sin2_votes',{});v[id]=sel.value;store('sin2_votes',v);toast('Voto registrado');renderPolls()})
+ .catch(function(x){toast(x&&x.code==='permission-denied'?'Ya votaste en esta encuesta.':'No se pudo registrar el voto.')})};
+/* administración en Firebase */
+var _renderAdmin=renderAdmin;renderAdmin=function(){if(!FB){$('admItemsH').classList.remove('hidden');return _renderAdmin()}$('admPub').classList.add('hidden');
+ if(!fbAdmin){$('admLock').classList.remove('hidden');$('admPanel').classList.add('hidden');$('admLock').innerHTML='<h3>Administración</h3><p>Solo la directiva autorizada puede administrar la app.</p>';return}
+ $('admLock').classList.add('hidden');$('admPanel').classList.remove('hidden');if(!FORMS.socios)FORMS=Object.assign({socios:{t:'Socios',f:[]}},FORMS);renderAdmPanel()};
+var _renderAdmPanel=renderAdmPanel;renderAdmPanel=function(){if(!FB)return _renderAdmPanel();
+ $('admItemsH').textContent=admTab==='socios'?'':'Publicado';$('admItemsH').classList.toggle('hidden',admTab==='socios');if(admTab!=='socios'){_renderAdmPanel();var d=C,items=admTab==='sindicato'?[]:A(admTab);$('admItems').innerHTML=admTab==='sindicato'?'<p class="meta">Se usan en Contacto, Buzón y Radio.</p>':(items.length?items.map(function(x){return '<div class="row" style="border-bottom:1px solid #eef2f1;padding:8px 0"><div class="grow"><b style="font-size:14px">'+esc(x.titulo||x.nombre)+'</b><div class="meta">'+esc(x.fecha||x.carpeta||x.categoria||x.cargo||'')+'</div></div><button class="pill red" onclick="admDel(\''+esc(x.id)+'\')">Eliminar</button></div>'}).join(''):'<p class="meta">Sin publicaciones.</p>');
+  var b=$('admForm').querySelector('.btn');if(b)b.textContent=admTab==='sindicato'?'Guardar datos':'Publicar ahora';return}
+ $('admSeg').innerHTML=Object.keys(FORMS).map(function(k){return '<button class="'+(k===admTab?'on':'')+'" onclick="admSet(\''+k+'\')">'+FORMS[k].t+'</button>'}).join('');
+ $('admForm').innerHTML='<h3>Socios</h3><p class="meta">Cargando…</p>';$('admItems').innerHTML='';
+ fbDb.collection('socios').get().then(function(q){var L=q.docs.map(function(d){var x=d.data();x.id=d.id;return x});var g={pendiente:[],activo:[],bloqueado:[],rechazado:[]};L.forEach(function(x){(g[x.estado]||g.pendiente).push(x)});
+  function row(x,acts){return '<div style="border-bottom:1px solid #eef2f1;padding:10px 0"><b>'+esc(x.nombre)+'</b><div class="meta">RUT '+esc(fmtRut(x.rut))+(x.num?' · N° '+esc(x.num):'')+' · '+esc(x.telefono||'')+'<br/>'+esc(x.email||'')+'</div><div class="acts" style="margin-top:6px">'+acts.map(function(a){return '<button class="btn sm '+(a[2]||'')+'" onclick="admSocio(\''+x.id+'\',\''+a[0]+'\')">'+a[1]+'</button>'}).join('')+'</div></div>'}
+  $('admForm').innerHTML='<h3>Solicitudes pendientes ('+g.pendiente.length+')</h3>'+(g.pendiente.map(function(x){return row(x,[['activo','✔ Aprobar','green'],['rechazado','Rechazar','light']])}).join('')||'<p class="meta">No hay solicitudes.</p>');
+  $('admItems').innerHTML='<h3>Socios activos ('+g.activo.length+')</h3>'+g.activo.map(function(x){return row(x,[['bloqueado','Quitar acceso','light']])}).join('')+(g.bloqueado.length+g.rechazado.length?'<h3 style="margin-top:14px">Sin acceso</h3>'+g.bloqueado.concat(g.rechazado).map(function(x){return row(x,[['activo','Dar acceso','green']])}).join(''):'');
+ }).catch(function(x){$('admForm').innerHTML='<p>'+esc(errText(x))+'</p>'})};
+window.admSocio=function(id,estado){fbDb.collection('socios').doc(id).update({estado:estado}).then(function(){toast(estado==='activo'?'Socio aprobado':'Acceso actualizado');renderAdmPanel()}).catch(function(x){toast(errText(x))})};
+var _admAdd=window.admAdd;window.admAdd=function(){if(!FB)return _admAdd();var F=FORMS[admTab],o={};F.f.forEach(function(x){var el=$('af_'+x[0]);o[x[0]]=x[2]==='check'?el.checked:el.value.trim()});
+ var done=function(m){toast(m);fbLoad().then(renderAdmPanel)},fail=function(x){toast(errText(x))};
+ if(admTab==='sindicato'){fbDb.collection('config').doc('sindicato').set(o,{merge:true}).then(function(){done('Datos guardados')}).catch(fail);return}
+ if(!o.titulo){toast('Falta el título');return}['enlace','contacto'].forEach(function(k){if(o[k]&&!safeUrl(o[k]))o[k]=''});
+ if(admTab==='encuestas')o.opciones=o.opciones.split('\n').map(function(x){return x.trim()}).filter(Boolean);
+ if(admTab==='eventos'&&!/^\d{4}-\d{2}-\d{2}$/.test(o.fecha)){toast('Falta la fecha');return}
+ if(['informativos','noticias'].indexOf(admTab)>=0)o.fecha=today();if(o.fijado===false)delete o.fijado;
+ o.creado=firebase.firestore.FieldValue.serverTimestamp();
+ var pre=o.fijado?Promise.all(A('informativos').filter(function(x){return x.fijado}).map(function(x){return fbDb.collection('informativos').doc(x.id).update({fijado:false})})):Promise.resolve();
+ pre.then(function(){return fbDb.collection(admTab).add(o)}).then(function(){done(F.t+' publicado')}).catch(fail)};
+var _admDel=window.admDel;window.admDel=function(i){if(!FB)return _admDel(i);if(!confirm('¿Eliminar esta publicación para todos los socios?'))return;fbDb.collection(admTab).doc(String(i)).delete().then(function(){toast('Eliminado');fbLoad().then(renderAdmPanel)}).catch(function(x){toast(errText(x))})};
+if(FB){$('privFb').classList.remove('hidden');FORMS.directiva={t:'Directiva',f:[['nombre','Nombre','text'],['cargo','Cargo','text'],['telefono','Teléfono','text'],['orden','Orden (1, 2, 3...)','text']]};admTab='socios'}
+
 /* ---------- ayuda ---------- */
 function renderHelp(){$('helpBox').innerHTML='<div class="card"><h3>¿Cómo funciona?</h3><p>📋 <b>Informativos y noticias:</b> los publica la directiva. Te avisamos con el número rojo y la campana.</p><p>📅 <b>Calendario:</b> verde = actividades del sindicato; morado = tu calendario personal.</p><p>🗳️ <b>Encuestas:</b> tu voto se envía a la directiva por WhatsApp o mediante el formulario indicado.</p><p>📮 <b>Buzón:</b> escribe a la directiva por WhatsApp o correo.</p><p>← <b>Volver:</b> usa la flecha de arriba a la izquierda.</p></div><div class="card"><h3>Soporte</h3><p>Ante problemas con la app, contacta a la directiva desde el Buzón.</p><p class="meta">'+esc(syncLabel())+' · v'+VERSION+'</p></div>'}
 
 /* ---------- inicio ---------- */
 document.querySelectorAll('.dlg').forEach(function(d){d.addEventListener('click',function(e){if(e.target===d)d.classList.remove('open')})});
-setTimeout(function(){$('splash').classList.add('out');var p=profile();if(p)enterApp();else showLogin();setTimeout(function(){$('splash').remove()},500)},1300);
+setTimeout(function(){$('splash').classList.add('out');if(FB)fbStart();else{var p=profile();if(p)enterApp();else showLogin()}setTimeout(function(){$('splash').remove()},500)},1300);
 document.querySelectorAll('.appv').forEach(function(e){e.textContent=VERSION});
 var taps=0,tapT=0;window.verTap=function(){var n=Date.now();taps=n-tapT<800?taps+1:1;tapT=n;if(taps>=7){taps=0;go('admin')}};
 function lsGet(k){try{return localStorage.getItem(k)}catch(_){return null}}function lsSet(k,v){try{localStorage.setItem(k,v);return true}catch(_){return false}}

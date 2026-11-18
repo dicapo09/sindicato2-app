@@ -1,0 +1,33 @@
+rules_version = '2';
+// Reglas de seguridad – App Sindicato N°2 Minera Pacífico del Sur SpA
+// Solo socios aprobados leen el contenido; solo administradores (colección admins) publican y aprueban.
+service cloud.firestore {
+  match /databases/{db}/documents {
+    function signedIn() { return request.auth != null; }
+    function isAdmin()  { return signedIn() && exists(/databases/$(db)/documents/admins/$(request.auth.uid)); }
+    function isActive() { return signedIn() && get(/databases/$(db)/documents/socios/$(request.auth.uid)).data.estado == 'activo'; }
+    function contenido(col) { return col in ['informativos','noticias','eventos','encuestas','beneficios','documentos','directiva','config']; }
+
+    match /admins/{uid} {
+      allow read: if signedIn() && request.auth.uid == uid;
+      allow write: if false;               // se crean solo desde la consola de Firebase
+    }
+    match /socios/{uid} {
+      allow read: if (signedIn() && request.auth.uid == uid) || isAdmin();
+      allow create: if signedIn() && request.auth.uid == uid
+        && request.resource.data.estado == 'pendiente'
+        && request.resource.data.keys().hasOnly(['nombre','rut','num','telefono','email','estado','creado']);
+      allow update, delete: if isAdmin();
+    }
+    match /{col}/{id} {
+      allow read: if contenido(col) && (isActive() || isAdmin());
+      allow write: if contenido(col) && isAdmin();
+    }
+    match /encuestas/{pid}/votos/{uid} {
+      allow read: if isActive() || isAdmin();
+      allow create: if (isActive() || isAdmin()) && request.auth.uid == uid
+        && request.resource.data.keys().hasOnly(['opcion','t']);
+      allow update, delete: if false;      // un voto por socio, sin cambios
+    }
+  }
+}
