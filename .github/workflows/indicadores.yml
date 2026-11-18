@@ -12,7 +12,10 @@ jobs:
       - uses: actions/checkout@v4
       - name: Descargar indicadores (mindicador.cl)
         run: |
-          curl -sf --retry 3 https://mindicador.cl/api -o tmp.json
+          curl -sfL --retry 3 https://mindicador.cl/api -o tmp.json \
+            || curl -sfL --retry 3 --ciphers 'DEFAULT:@SECLEVEL=1' https://mindicador.cl/api -o tmp.json \
+            || curl -sfL --retry 3 http://mindicador.cl/api -o tmp.json \
+            || curl -sfL --retry 3 https://www.mindicador.cl/api -o tmp.json
           python3 -c "import json;d=json.load(open('tmp.json'));k=['uf','dolar','euro','utm','ipc','libra_cobre'];o={x:{'valor':d[x]['valor'],'fecha':d[x]['fecha']} for x in k if x in d};assert o.get('uf');json.dump(o,open('indicadores.json','w'),indent=1)"
           rm tmp.json
       - name: Guardar
