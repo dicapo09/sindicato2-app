@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T21:01:08Z",
+ "actualizado": "2026-11-18T21:03:04Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -468,6 +468,57 @@
      "medio": "Dirección del Trabajo"
     }
    ]
+  }
+ ],
+ "redes": [
+  {
+   "red": "Instagram",
+   "nombre": "Minera Pacífico del Sur",
+   "usuario": "@minerapacificodelsur",
+   "url": "https://www.instagram.com/minerapacificodelsur/",
+   "tema": "Empresa"
+  },
+  {
+   "red": "Instagram",
+   "nombre": "Confederación Minera de Chile (CONFEMIN)",
+   "usuario": "@confemin",
+   "url": "https://www.instagram.com/confemin/",
+   "tema": "Sindical minero"
+  },
+  {
+   "red": "Facebook",
+   "nombre": "Confederación Minera de Chile (CONFEMIN)",
+   "usuario": "confeminchile",
+   "url": "https://www.facebook.com/confeminchile/",
+   "tema": "Sindical minero"
+  },
+  {
+   "red": "X",
+   "nombre": "Federación Minera de Chile (FMC)",
+   "usuario": "@fedeminerachile",
+   "url": "https://x.com/fedeminerachile",
+   "tema": "Sindical minero"
+  },
+  {
+   "red": "Instagram",
+   "nombre": "CUT Chile",
+   "usuario": "@cutchileoficial",
+   "url": "https://www.instagram.com/cutchileoficial/",
+   "tema": "Sindical"
+  },
+  {
+   "red": "TikTok",
+   "nombre": "Codelco",
+   "usuario": "@codelco",
+   "url": "https://www.tiktok.com/@codelco",
+   "tema": "Minería"
+  },
+  {
+   "red": "TikTok",
+   "nombre": "Codelco División El Teniente",
+   "usuario": "@codelcoelteniente",
+   "url": "https://www.tiktok.com/@codelcoelteniente",
+   "tema": "Minería subterránea"
   }
  ]
 }
