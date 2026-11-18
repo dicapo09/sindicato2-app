@@ -22,7 +22,17 @@
  "ipc": {
   "valor": 0.5,
   "fecha": "2026-10-01T00:00:00Z",
-  "fuente": "boostr"
+  "fuente": "INE"
+ },
+ "oro": {
+  "valor": 3723.9,
+  "fecha": "2026-11-18T19:47:01Z",
+  "fuente": "gold-api.com"
+ },
+ "plata": {
+  "valor": 44.8,
+  "fecha": "2026-11-18T19:47:00Z",
+  "fuente": "gold-api.com"
  },
  "zinc": {
   "valor": 3776.0,
