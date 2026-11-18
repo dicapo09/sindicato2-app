@@ -32,4 +32,4 @@ html='''<!doctype html>
 </script>
 </body></html>
 ''' % (apk_ver, ver, b64)
-open(out,'w',encoding='utf-8').write(html); print('loader ok, app',ver,'apk',apk_ver,len(html))
+import os; os.makedirs(os.path.dirname(out) or '.', exist_ok=True); open(out,'w',encoding='utf-8').write(html); print('loader ok, app',ver,'apk',apk_ver,len(html))
