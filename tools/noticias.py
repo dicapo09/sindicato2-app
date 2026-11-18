@@ -39,7 +39,7 @@ def parse(raw, nombre):
         out.append({'titulo': t[:200], 'enlace': l, 'fecha': f, 'medio': (src.text.strip() if src is not None and src.text else nombre)})
     return out
 
-res = {'actualizado': datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'), 'fuentes': []}
+res = {'actualizado': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), 'fuentes': []}
 try: prev = {f['clave']: f for f in json.load(open('noticias.json')).get('fuentes', [])}
 except Exception: prev = {}
 for clave, nombre, urls in FUENTES:
@@ -52,6 +52,11 @@ for clave, nombre, urls in FUENTES:
         except Exception as e:
             print(f'{clave}: falla {u[:70]} -> {e}')
     items.sort(key=lambda x: x['fecha'], reverse=True)
+    vistos, unicos = set(), []
+    for x in items:
+        k = re.sub(r'\W+', '', x['titulo'].lower())[:60]
+        if k not in vistos: vistos.add(k); unicos.append(x)
+    items = unicos
     if not items and clave in prev: items = prev[clave]['items']
     res['fuentes'].append({'clave': clave, 'nombre': nombre, 'items': items[:15]})
 json.dump(res, open('noticias.json', 'w'), ensure_ascii=False, indent=1)

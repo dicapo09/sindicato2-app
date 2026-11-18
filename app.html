@@ -181,7 +181,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 </section>
 
 <section class="page" id="informativos"><div class="seg" id="infSeg"></div><div id="infList"></div></section>
-<section class="page" id="noticias"><div id="newsList"></div></section>
+<section class="page" id="noticias"><div class="seg" id="newsSeg"></div><div id="newsList"></div></section>
 <section class="page" id="notif"><div id="notifList"></div></section>
 <section class="page" id="calendario">
   <div class="calh"><button class="navb" onclick="calMove(-1)">«</button><div class="m" id="calTitle"></div><button class="navb" onclick="calMove(1)">»</button></div>
@@ -279,7 +279,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 
 <script>
 (function(){'use strict';
-var APP_VER=9;var VERSION='1.6';
+var APP_VER=10;var VERSION='1.7';
 function reboot(){if(typeof window.__sin2Boot==='function')window.__sin2Boot();else location.reload()}
 var REPO_RAW='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/';
 function apkVer(){try{return +localStorage.getItem('sin2_apk_ver')||0}catch(_){return 0}}
@@ -646,6 +646,26 @@ var _admAdd=window.admAdd;window.admAdd=function(){if(!FB)return _admAdd();var F
  pre.then(function(){return fbDb.collection(admTab).add(o)}).then(function(){done(F.t+' publicado')}).catch(fail)};
 var _admDel=window.admDel;window.admDel=function(i){if(!FB)return _admDel(i);if(!confirm('¿Eliminar esta publicación para todos los socios?'))return;fbDb.collection(admTab).doc(String(i)).delete().then(function(){toast('Eliminado');fbLoad().then(renderAdmPanel)}).catch(function(x){toast(errText(x))})};
 if(FB){$('privFb').classList.remove('hidden');FORMS.directiva={t:'Directiva',f:[['nombre','Nombre','text'],['cargo','Cargo','text'],['telefono','Teléfono','text'],['orden','Orden (1, 2, 3...)','text']]};admTab='socios'}
+
+/* ---------- noticias externas (portales mineros y Minera Pacífico del Sur) ---------- */
+var IG_EMPRESA='https://www.instagram.com/minerapacificodelsur/';
+var newsTab='sindicato';
+function extNews(){var d=load('sin2_extnews',null);return d&&Array.isArray(d.fuentes)?d:{fuentes:[]}}
+function fetchExtNews(force){var d=load('sin2_extnews',null);if(!force&&d&&d.t&&Date.now()-d.t<30*60e3)return Promise.resolve();
+ return fetch(REPO_RAW+'noticias.json?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){if(!j||!Array.isArray(j.fuentes))return;j.t=Date.now();store('sin2_extnews',j);if($('noticias').classList.contains('active'))renderNews()}).catch(function(){})}
+function hace(f){var d=new Date(f);if(isNaN(d))return '';var m=Math.round((Date.now()-d)/6e4);if(m<60)return 'hace '+Math.max(m,1)+' min';var h=Math.round(m/60);if(h<24)return 'hace '+h+' h';var dd=Math.round(h/24);return dd<8?'hace '+dd+' día'+(dd>1?'s':''):d.toLocaleDateString('es-CL',{day:'numeric',month:'short'})}
+var _renderNews=renderNews;renderNews=function(){var F=extNews().fuentes,tabs=[['sindicato','Del sindicato']].concat(F.map(function(f){return [f.clave,f.nombre]}));
+ if(!tabs.some(function(t){return t[0]===newsTab}))newsTab='sindicato';
+ $('newsSeg').innerHTML=tabs.map(function(t){return '<button class="'+(t[0]===newsTab?'on':'')+'" onclick="setNewsTab(\''+esc(t[0])+'\')">'+esc(t[1])+'</button>'}).join('');
+ if(newsTab==='sindicato'){_renderNews();return}
+ var f=F.filter(function(x){return x.clave===newsTab})[0]||{items:[]},h='';
+ if(newsTab==='pds')h+='<div class="card row" role="button" onclick="ext(IG_EMPRESA)"><div style="font-size:30px">📸</div><div class="grow"><h3 style="margin:0">Instagram oficial de la empresa</h3><p style="margin:0">@minerapacificodelsur · Yacimiento El Toqui</p></div><span class="pill teal">Abrir</span></div>';
+ h+=f.items.length?f.items.map(function(n){return '<div class="card" role="button" onclick="ext(\''+esc(n.enlace)+'\')"><span class="pill grey">'+esc(n.medio||f.nombre)+'</span><h3>'+esc(n.titulo)+'</h3><div class="meta">'+esc(hace(n.fecha))+' · Toca para leer en el sitio</div></div>'}).join(''):'<div class="empty"><div class="big">📰</div><b>Sin noticias por ahora</b><p>Se actualizan automáticamente cada 2 horas.</p></div>';
+ h+='<p class="meta" style="text-align:center">Titulares obtenidos automáticamente de cada medio. La noticia completa se abre en el sitio original.</p>';
+ $('newsList').innerHTML=h};
+window.setNewsTab=function(k){newsTab=k;renderNews();window.scrollTo(0,0)};
+window.IG_EMPRESA=IG_EMPRESA;
+fetchExtNews(false);
 
 /* ---------- ayuda ---------- */
 function renderHelp(){$('helpBox').innerHTML='<div class="card"><h3>¿Cómo funciona?</h3><p>📋 <b>Informativos y noticias:</b> los publica la directiva. Te avisamos con el número rojo y la campana.</p><p>📅 <b>Calendario:</b> verde = actividades del sindicato; morado = tu calendario personal.</p><p>🗳️ <b>Encuestas:</b> tu voto se envía a la directiva por WhatsApp o mediante el formulario indicado.</p><p>📮 <b>Buzón:</b> escribe a la directiva por WhatsApp o correo.</p><p>← <b>Volver:</b> usa la flecha de arriba a la izquierda.</p></div><div class="card"><h3>Soporte</h3><p>Ante problemas con la app, contacta a la directiva desde el Buzón.</p><p class="meta">'+esc(syncLabel())+' · v'+VERSION+'</p></div>'}
