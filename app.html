@@ -240,7 +240,8 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 
 <script>
 (function(){'use strict';
-var APP_VER=4;var VERSION='1.3';
+var APP_VER=5;var VERSION='1.4';
+function reboot(){if(typeof window.__sin2Boot==='function')window.__sin2Boot();else location.reload()}
 var REPO_RAW='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/';
 function apkVer(){try{return +localStorage.getItem('sin2_apk_ver')||0}catch(_){return 0}}
 var DEFAULT_SOURCE='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/contenido.json';
@@ -449,7 +450,7 @@ window.noteToBuzon=function(id){var x=notes().filter(function(i){return i.id===i
 function renderProfile(){$('verInfo').textContent='App '+VERSION+' (código '+APP_VER+') · APK '+(apkVer()||'—');var p=profile()||{};$('pName').value=p.name||'';$('pRut').value=p.rut?fmtRut(p.rut):'';$('pNum').value=p.num||'';$('pArea').value=p.area||'';$('srcUrl').value=src();$('srcInfo').textContent=syncLabel()+'. La app busca novedades cada vez que se abre.'}
 window.saveProfile=function(){var st=$('pStatus'),r=cleanRut($('pRut').value);if(r&&!validRut(r)){st.textContent='RUT no válido.';st.className='status show bad';return}
  var p=profile()||{};p.name=$('pName').value.trim();p.rut=r;p.num=$('pNum').value.trim();p.area=$('pArea').value.trim();p.guest=!p.name;store('sin2_card',p);st.textContent='Datos guardados.';st.className='status show'};
-window.wipe=function(){if(!confirm('¿Borrar todos los datos de la app en este teléfono?'))return;['sin2_card','sin2_ideas','sin2_events','sin2_seen','sin2_content','sin2_synced','sin2_source','sin2_votes','sin2_ind','sin2_draft','sin2_preview','sin2_pin'].forEach(del);location.reload()};
+window.wipe=function(){if(!confirm('¿Borrar todos los datos de la app en este teléfono?'))return;['sin2_card','sin2_ideas','sin2_events','sin2_seen','sin2_content','sin2_synced','sin2_source','sin2_votes','sin2_ind','sin2_draft','sin2_preview','sin2_pin'].forEach(del);reboot()};
 
 /* ---------- sincronización ---------- */
 function src(){return load('sin2_source',DEFAULT_SOURCE)}
@@ -519,7 +520,7 @@ window.checkUpdate=function(manual){var st=$('updStatus');
   if(+v.app>have&&+v.app!==bad&&(!v.minApk||apkVer()>=+v.minApk)){did=true;
    fetch(REPO_RAW+(v.appFile||'app.html')+'?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.text()}).then(function(h){
     if(h.indexOf('SIN2-APP-OK')<0||h.indexOf('var APP_VER='+v.app+';')<0)throw 0;
-    if(lsSet('sin2_app_html',h)&&lsSet('sin2_app_ver',String(v.app))){if(!$('updBanner').classList.contains('hidden')&&+v.apk>apkVer())return;banner('Actualización '+(v.nombre||v.app)+' descargada.','Aplicar',function(){location.replace('index.html')});if(manual&&st){st.textContent='Actualización descargada.';st.className='status show'}}
+    if(lsSet('sin2_app_html',h)&&lsSet('sin2_app_ver',String(v.app))){if(!$('updBanner').classList.contains('hidden')&&+v.apk>apkVer())return;banner('Actualización '+(v.nombre||v.app)+' descargada.','Aplicar',function(){reboot()});if(manual&&st){st.textContent='Actualización descargada.';st.className='status show'}}
    }).catch(function(){if(manual&&st){st.textContent='No se pudo descargar la actualización.';st.className='status show bad'}})}
   if(!did&&manual&&st){st.textContent='Tienes la última versión.';st.className='status show'}
  }).catch(function(){if(manual&&st){st.textContent='Sin conexión o servidor no disponible.';st.className='status show bad'}})};
