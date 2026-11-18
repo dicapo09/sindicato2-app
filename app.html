@@ -279,7 +279,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 
 <script>
 (function(){'use strict';
-var APP_VER=6;var VERSION='1.5';
+var APP_VER=7;var VERSION='1.5.1';
 function reboot(){if(typeof window.__sin2Boot==='function')window.__sin2Boot();else location.reload()}
 var REPO_RAW='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/';
 function apkVer(){try{return +localStorage.getItem('sin2_apk_ver')||0}catch(_){return 0}}
@@ -384,7 +384,7 @@ function renderTicker(){var d=load('sin2_ind',null);if(!d||!d.uf){$('ticker').cl
  items=items.filter(function(x){return x[1].indexOf('NaN')<0&&x[1].indexOf('undefined')<0});
  var h=items.map(function(x){return '<span>'+x[0]+'<b>'+x[1]+'</b></span>'}).join('');$('tickerIn').innerHTML=h+h;$('ticker').classList.remove('hidden')}
 function parseInd(j){var v=function(k){return j[k]&&j[k].valor};var d={uf:v('uf'),dolar:v('dolar'),euro:v('euro'),utm:v('utm'),cobre:v('libra_cobre'),ipc:v('ipc'),t:Date.now()};
- if(j.ipc&&j.ipc.fecha){var f=new Date(j.ipc.fecha);if(!isNaN(f))d.ipcMes=f.toLocaleDateString('es-CL',{month:'short',timeZone:'UTC'}).replace('.','')}return d}
+ if(j.ipc&&j.ipc.fecha){var f=new Date(j.ipc.fecha);if(isNaN(f)||Date.now()-f>100*864e5){delete d.ipc}else d.ipcMes=f.toLocaleDateString('es-CL',{month:'short',timeZone:'UTC'}).replace('.','')}else delete d.ipc;return d}
 function fetchInd(){var last=load('sin2_ind',null);if(last&&last.t&&Date.now()-last.t<2*3600e3)return;
  function get(u){return fetch(u,{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){var d=parseInd(j);if(!d.uf)throw 0;return d})}
  get(REPO_RAW+'indicadores.json?t='+Date.now()).catch(function(){return get('https://mindicador.cl/api')}).then(function(d){store('sin2_ind',d);if($('home').classList.contains('active'))renderTicker()}).catch(function(){})}

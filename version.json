@@ -1,9 +1,9 @@
 {
-  "app": 6,
-  "nombre": "1.5",
+  "app": 7,
+  "nombre": "1.5.1",
   "appFile": "app.html",
   "apk": 5,
   "apkNombre": "1.4",
   "apkUrl": "https://github.com/dicapo09/sindicato2-app/raw/main/apk/SindicatoN2.apk",
-  "notas": "Menú lateral, IPC en indicadores, preparación para cuentas de socios."
+  "notas": "Menú lateral, indicadores automáticos (UF, dólar, euro, UTM, cobre), preparación para cuentas de socios."
 }
