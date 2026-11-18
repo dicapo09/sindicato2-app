@@ -279,7 +279,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 
 <script>
 (function(){'use strict';
-var APP_VER=7;var VERSION='1.5.1';
+var APP_VER=8;var VERSION='1.5.2';
 function reboot(){if(typeof window.__sin2Boot==='function')window.__sin2Boot();else location.reload()}
 var REPO_RAW='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/';
 function apkVer(){try{return +localStorage.getItem('sin2_apk_ver')||0}catch(_){return 0}}
@@ -379,13 +379,13 @@ function renderHome(){var h=new Date().getHours();$('saludo').textContent=h<12?'
 function clp(n,dec){return '$ '+Number(n).toLocaleString('es-CL',{minimumFractionDigits:dec||0,maximumFractionDigits:dec||0})}
 function renderTicker(){var d=load('sin2_ind',null);if(!d||!d.uf){$('ticker').classList.add('hidden');return}
  var n2=function(x){return Number(x).toLocaleString('es-CL',{minimumFractionDigits:2,maximumFractionDigits:2})};
- var items=[['UF',clp(d.uf,2)],['DÓLAR',clp(d.dolar,2)],['EURO',clp(d.euro,2)],['UTM',clp(d.utm,0)],['LIBRA COBRE','US$ '+n2(d.cobre)]];
- if(d.ipc!=null)items.push(['IPC'+(d.ipcMes?' '+d.ipcMes:''),String(d.ipc).replace('.',',')+'%']);
+ var items=[['UF',clp(d.uf,2)],['DÓLAR',clp(d.dolar,2)],['EURO',clp(d.euro,2)],['UTM',clp(d.utm,0)],['COBRE','US$ '+n2(d.cobre)+'/lb']];
+ if(d.ipc!=null)items.push(['IPC '+(d.ipcMes?d.ipcMes+' ':''),String(d.ipc).replace('.',',')+'%']);if(d.oro)items.push(['ORO','US$ '+n2(d.oro)+'/oz']);if(d.plata)items.push(['PLATA','US$ '+n2(d.plata)+'/oz']);if(d.zinc)items.push(['ZINC','US$ '+Number(d.zinc).toLocaleString('es-CL',{maximumFractionDigits:0})+'/t']);
  items=items.filter(function(x){return x[1].indexOf('NaN')<0&&x[1].indexOf('undefined')<0});
  var h=items.map(function(x){return '<span>'+x[0]+'<b>'+x[1]+'</b></span>'}).join('');$('tickerIn').innerHTML=h+h;$('ticker').classList.remove('hidden')}
-function parseInd(j){var v=function(k){return j[k]&&j[k].valor};var d={uf:v('uf'),dolar:v('dolar'),euro:v('euro'),utm:v('utm'),cobre:v('libra_cobre'),ipc:v('ipc'),t:Date.now()};
+function parseInd(j){var v=function(k){return j[k]&&j[k].valor};var d={uf:v('uf'),dolar:v('dolar'),euro:v('euro'),utm:v('utm'),cobre:v('libra_cobre'),ipc:v('ipc'),oro:v('oro'),plata:v('plata'),zinc:v('zinc'),t:Date.now()};
  if(j.ipc&&j.ipc.fecha){var f=new Date(j.ipc.fecha);if(isNaN(f)||Date.now()-f>100*864e5){delete d.ipc}else d.ipcMes=f.toLocaleDateString('es-CL',{month:'short',timeZone:'UTC'}).replace('.','')}else delete d.ipc;return d}
-function fetchInd(){var last=load('sin2_ind',null);if(last&&last.t&&Date.now()-last.t<2*3600e3)return;
+function fetchInd(){var last=load('sin2_ind',null);if(last&&last.t&&last.zinc!==undefined&&Date.now()-last.t<2*3600e3)return;
  function get(u){return fetch(u,{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){var d=parseInd(j);if(!d.uf)throw 0;return d})}
  get(REPO_RAW+'indicadores.json?t='+Date.now()).catch(function(){return get('https://mindicador.cl/api')}).then(function(d){store('sin2_ind',d);if($('home').classList.contains('active'))renderTicker()}).catch(function(){})}
 
