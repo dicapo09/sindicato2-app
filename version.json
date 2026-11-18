@@ -1,9 +1,9 @@
 {
-  "app": 11,
-  "nombre": "1.7.1",
+  "app": 12,
+  "nombre": "1.8",
   "appFile": "app.html",
   "apk": 5,
   "apkNombre": "1.4",
   "apkUrl": "https://github.com/dicapo09/sindicato2-app/raw/main/apk/SindicatoN2.apk",
-  "notas": "Noticias mineras, sindicales y redes sociales."
+  "notas": "Asistencia a reuniones con código, lista completa presente/ausente, modo sin internet y dirigentes."
 }

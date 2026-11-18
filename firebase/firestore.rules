@@ -8,9 +8,12 @@ service cloud.firestore {
     function isActive() { return signedIn() && get(/databases/$(db)/documents/socios/$(request.auth.uid)).data.estado == 'activo'; }
     function contenido(col) { return col in ['informativos','noticias','eventos','encuestas','beneficios','documentos','directiva','config']; }
 
+    // admins: rol 'administrador' (dueño de la app, creado en la consola) o 'dirigente' (nombrado por el administrador)
+    function isOwner() { return signedIn() && get(/databases/$(db)/documents/admins/$(request.auth.uid)).data.rol == 'administrador'; }
     match /admins/{uid} {
-      allow read: if signedIn() && request.auth.uid == uid;
-      allow write: if false;               // se crean solo desde la consola de Firebase
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+      allow create, update: if isOwner() && request.resource.data.rol == 'dirigente' && request.resource.data.keys().hasOnly(['rol']);
+      allow delete: if isOwner() && resource.data.rol == 'dirigente';
     }
     match /socios/{uid} {
       allow read: if (signedIn() && request.auth.uid == uid) || isAdmin();
@@ -22,6 +25,23 @@ service cloud.firestore {
     match /{col}/{id} {
       allow read: if contenido(col) && (isActive() || isAdmin());
       allow write: if contenido(col) && isAdmin();
+    }
+    // Asistencia a reuniones: la directiva crea y cierra; cada socio marca con el código mientras el registro está abierto
+    match /asistencias/{rid} {
+      allow read: if isActive() || isAdmin();
+      allow write: if isAdmin();
+      match /privado/{doc} {
+        allow read, write: if isAdmin();
+      }
+      match /presentes/{uid} {
+        allow read: if isActive() || isAdmin();
+        allow create: if isAdmin() || (isActive() && request.auth.uid == uid
+          && get(/databases/$(db)/documents/asistencias/$(rid)).data.abierta == true
+          && request.resource.data.codigo == get(/databases/$(db)/documents/asistencias/$(rid)/privado/clave).data.codigo
+          && request.resource.data.via == 'codigo'
+          && request.resource.data.keys().hasOnly(['nombre','num','codigo','via','t']));
+        allow update, delete: if isAdmin();
+      }
     }
     match /encuestas/{pid}/votos/{uid} {
       allow read: if isActive() || isAdmin();
