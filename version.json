@@ -1,9 +1,9 @@
 {
-  "app": 8,
-  "nombre": "1.5.2",
+  "app": 9,
+  "nombre": "1.6",
   "appFile": "app.html",
   "apk": 5,
   "apkNombre": "1.4",
   "apkUrl": "https://github.com/dicapo09/sindicato2-app/raw/main/apk/SindicatoN2.apk",
-  "notas": "Indicadores: UF, dólar, euro, UTM, cobre, IPC, oro, plata y zinc."
+  "notas": "Acceso solo para socios aprobados (Firebase)."
 }

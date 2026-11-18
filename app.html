@@ -279,7 +279,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 
 <script>
 (function(){'use strict';
-var APP_VER=8;var VERSION='1.5.2';
+var APP_VER=9;var VERSION='1.6';
 function reboot(){if(typeof window.__sin2Boot==='function')window.__sin2Boot();else location.reload()}
 var REPO_RAW='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/';
 function apkVer(){try{return +localStorage.getItem('sin2_apk_ver')||0}catch(_){return 0}}
@@ -556,7 +556,7 @@ window.closeDrawer=function(){$('drawer').classList.remove('open')};
 window.drGo=function(p){closeDrawer();if(p==='__out')logout();else go(p,p==='home')};
 
 /* ---------- Firebase: acceso solo para socios aprobados ---------- */
-var FIREBASE_CONFIG=null; /* Se completa con los datos del proyecto Firebase del sindicato */
+var FIREBASE_CONFIG={apiKey:"AIzaSyALN5yI6LcmgBzByKrFbox6NTKpQ3TPFH4",authDomain:"sindicato2-pds.firebaseapp.com",projectId:"sindicato2-pds",storageBucket:"sindicato2-pds.firebasestorage.app",messagingSenderId:"212281089872",appId:"1:212281089872:web:200e06522f7b033e6a9655"}; /* Proyecto Firebase del sindicato (datos públicos de configuración, no son secretos) */
 var FB=!!(FIREBASE_CONFIG&&FIREBASE_CONFIG.apiKey),fbAuth=null,fbDb=null,fbUser=null,fbAdmin=false,fbRegistering=false,fbRegComplete=false;
 var COLS=['informativos','noticias','eventos','encuestas','beneficios','documentos','directiva'];
 if(FB){var cc=normalize(load('sin2_content',null));C=(cc&&cc.fb)?cc:{fb:true,sindicato:Object.assign({},DEFAULT_CONTENT.sindicato),informativos:[],noticias:[],eventos:[],encuestas:[],beneficios:[],documentos:[],directiva:[]}}
