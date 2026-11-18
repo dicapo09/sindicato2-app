@@ -40,7 +40,17 @@ def parse(raw, nombre):
         out.append({'titulo': t[:200], 'enlace': l, 'fecha': f, 'medio': (src.text.strip() if src is not None and src.text else nombre)})
     return out
 
-res = {'actualizado': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), 'fuentes': []}
+# Redes sociales recomendadas (se muestran como accesos directos; editar esta lista para cambiarlas)
+REDES = [
+    {'red': 'Instagram', 'nombre': 'Minera Pacífico del Sur', 'usuario': '@minerapacificodelsur', 'url': 'https://www.instagram.com/minerapacificodelsur/', 'tema': 'Empresa'},
+    {'red': 'Instagram', 'nombre': 'Confederación Minera de Chile (CONFEMIN)', 'usuario': '@confemin', 'url': 'https://www.instagram.com/confemin/', 'tema': 'Sindical minero'},
+    {'red': 'Facebook', 'nombre': 'Confederación Minera de Chile (CONFEMIN)', 'usuario': 'confeminchile', 'url': 'https://www.facebook.com/confeminchile/', 'tema': 'Sindical minero'},
+    {'red': 'X', 'nombre': 'Federación Minera de Chile (FMC)', 'usuario': '@fedeminerachile', 'url': 'https://x.com/fedeminerachile', 'tema': 'Sindical minero'},
+    {'red': 'Instagram', 'nombre': 'CUT Chile', 'usuario': '@cutchileoficial', 'url': 'https://www.instagram.com/cutchileoficial/', 'tema': 'Sindical'},
+    {'red': 'TikTok', 'nombre': 'Codelco', 'usuario': '@codelco', 'url': 'https://www.tiktok.com/@codelco', 'tema': 'Minería'},
+    {'red': 'TikTok', 'nombre': 'Codelco División El Teniente', 'usuario': '@codelcoelteniente', 'url': 'https://www.tiktok.com/@codelcoelteniente', 'tema': 'Minería subterránea'},
+]
+res = {'actualizado': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), 'fuentes': [], 'redes': REDES}
 try: prev = {f['clave']: f for f in json.load(open('noticias.json')).get('fuentes', [])}
 except Exception: prev = {}
 for clave, nombre, urls in FUENTES:

@@ -1,9 +1,9 @@
 {
-  "app": 10,
-  "nombre": "1.7",
+  "app": 11,
+  "nombre": "1.7.1",
   "appFile": "app.html",
   "apk": 5,
   "apkNombre": "1.4",
   "apkUrl": "https://github.com/dicapo09/sindicato2-app/raw/main/apk/SindicatoN2.apk",
-  "notas": "Noticias de portales mineros y de Minera Pacífico del Sur; Instagram de la empresa."
+  "notas": "Noticias mineras, sindicales y redes sociales."
 }
