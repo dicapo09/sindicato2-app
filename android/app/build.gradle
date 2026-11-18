@@ -36,7 +36,8 @@ android {
     buildTypes {
         release {
             minifyEnabled false
-            signingConfig signingConfigs.release
+            // Sin la llave (secretos de GitHub) se genera sin firmar, solo para comprobar
+            if (System.getenv('SIGN_KEYSTORE')) signingConfig signingConfigs.release
         }
     }
     buildFeatures { buildConfig true }
