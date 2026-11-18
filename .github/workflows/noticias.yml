@@ -1,0 +1,18 @@
+name: Noticias mineras
+on:
+  schedule:
+    - cron: '41 */2 * * *'   # cada 2 horas
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/noticias.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add noticias.json
+          git diff --cached --quiet || (git commit -m "Noticias $(date -u +%F' '%H:%M)" && git pull --rebase -q && git push)
