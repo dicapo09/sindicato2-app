@@ -244,6 +244,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
   <div class="card"><h3>Contenido</h3><p id="srcInfo"></p><button class="btn light" onclick="sync(true)">Buscar actualizaciones</button>
     <details style="margin-top:10px"><summary style="font-weight:700">Fuente de contenido</summary><input class="ctl" id="srcUrl" style="margin-top:8px"/><div class="row" style="margin-top:8px"><button class="btn sm" onclick="saveSrc()">Guardar</button><button class="btn sm light" onclick="resetSrc()">Restablecer</button></div></details>
     <div class="status" id="srcStatus"></div></div>
+  <div class="card hidden" id="delAccCard"><h3>Eliminar mi cuenta</h3><p>Borra tu cuenta de socio y tus datos personales (nombre, RUT, teléfono, correo) del sistema del sindicato. Los registros de asistencia y votos ya emitidos se conservan como actas del sindicato.</p><div class="fl"><label for="delPass">Confirma con tu contraseña</label><input class="ctl" id="delPass" type="password"/></div><button class="btn" style="background:#b13b26" onclick="fbDeleteAccount()">Eliminar mi cuenta definitivamente</button><div class="status" id="delSt"></div></div>
   <div class="card"><h3>Borrar datos</h3><p>Elimina perfil, notas, calendario personal y contenido guardado.</p><button class="btn" style="background:#b13b26" onclick="wipe()">Borrar todo</button></div>
 </section>
 <section class="page" id="admin">
@@ -282,10 +283,11 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 
 <script>
 (function(){'use strict';
-var APP_VER=12;var VERSION='1.8';
+var APP_VER=13;var VERSION='1.9';
 function reboot(){if(typeof window.__sin2Boot==='function')window.__sin2Boot();else location.reload()}
 var REPO_RAW='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/';
 function apkVer(){try{return +localStorage.getItem('sin2_apk_ver')||0}catch(_){return 0}}
+function canal(){try{return localStorage.getItem('sin2_canal')||'directo'}catch(_){return 'directo'}}
 var DEFAULT_SOURCE='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/contenido.json';
 var GITHUB_EDIT='https://github.com/dicapo09/sindicato2-app/edit/main/contenido.json';
 var DEFAULT_CONTENT={
@@ -365,6 +367,8 @@ var TITLES={home:'Sindicato N°2 Pacífico del Sur',informativos:'Informativos',
 var hist=['home'];
 window.go=function(p,root){if(!$(p))return;if(root)hist=[p];else if(hist[hist.length-1]!==p)hist.push(p);show(p)};
 window.back=function(){if(hist.length>1)hist.pop();show(hist[hist.length-1])};
+window.__appBack=function(){var d=document.querySelector('.dlg.open');if(d){d.classList.remove('open');return true}if($('drawer')&&$('drawer').classList.contains('open')){closeDrawer();return true}
+ if(!$('shell').classList.contains('hidden')&&hist.length>1){back();return true}if(!$('login').classList.contains('hidden')&&$('fbRegBox')&&!$('fbRegBox').classList.contains('hidden')){fbShowLogin();return true}return false};
 function show(p){document.querySelectorAll('.page').forEach(function(s){s.classList.toggle('active',s.id===p)});
  $('barTitle').textContent=TITLES[p]||'';var root=p==='home';$('menuBtn').classList.toggle('hidden',!root);$('backBtn').classList.toggle('hidden',root);window.scrollTo(0,0);
  var r={home:renderHome,informativos:renderInf,noticias:renderNews,notif:renderNotif,calendario:renderCal,biblioteca:renderLib,encuestas:renderPolls,beneficios:renderBen,directiva:renderBoard,credencial:renderCard,radio:renderRadio,perfil:renderProfile,admin:renderAdmin,ayuda:renderHelp,notas:renderNotes,asistencia:function(){renderAsis()}}[p];if(r)r();updateBell()}
@@ -493,7 +497,7 @@ window.delNote=function(id){if(!confirm('¿Borrar nota?'))return;store('sin2_ide
 window.noteToBuzon=function(id){var x=notes().filter(function(i){return i.id===id})[0];if(!x)return;go('buzon');$('bType').value='Propuesta';$('bMsg').value=x.title+'\n\n'+x.text};
 
 /* ---------- perfil / ajustes ---------- */
-function renderProfile(){$('verInfo').textContent='App '+VERSION+' (código '+APP_VER+') · APK '+(apkVer()||'—');var p=profile()||{};$('pName').value=p.name||'';$('pRut').value=p.rut?fmtRut(p.rut):'';$('pNum').value=p.num||'';$('pArea').value=p.area||'';$('srcUrl').value=src();$('srcInfo').textContent=syncLabel()+'. La app busca novedades cada vez que se abre.'}
+function renderProfile(){if($('delAccCard'))$('delAccCard').classList.toggle('hidden',!(FB&&fbUser));$('verInfo').textContent='App '+VERSION+' (código '+APP_VER+') · APK '+(apkVer()||'—');var p=profile()||{};$('pName').value=p.name||'';$('pRut').value=p.rut?fmtRut(p.rut):'';$('pNum').value=p.num||'';$('pArea').value=p.area||'';$('srcUrl').value=src();$('srcInfo').textContent=syncLabel()+'. La app busca novedades cada vez que se abre.'}
 window.saveProfile=function(){var st=$('pStatus'),r=cleanRut($('pRut').value);if(r&&!validRut(r)){st.textContent='RUT no válido.';st.className='status show bad';return}
  var p=profile()||{};p.name=$('pName').value.trim();p.rut=r;p.num=$('pNum').value.trim();p.area=$('pArea').value.trim();p.guest=!p.name;store('sin2_card',p);st.textContent='Datos guardados.';st.className='status show'};
 window.wipe=function(){if(!confirm('¿Borrar todos los datos de la app en este teléfono?'))return;['sin2_card','sin2_ideas','sin2_events','sin2_seen','sin2_content','sin2_synced','sin2_source','sin2_votes','sin2_ind','sin2_draft','sin2_preview','sin2_pin'].forEach(del);reboot()};
@@ -743,6 +747,12 @@ window.asisMark=function(id,uid,on){var ref=asisCol().doc(id).collection('presen
  (on?fbDb.collection('socios').doc(uid).get().then(function(d){var s=d.data()||{};return ref.set({nombre:s.nombre||'',num:s.num||'',via:'directiva',t:firebase.firestore.FieldValue.serverTimestamp()})}):ref.delete())
  .then(function(){return asisRecount(id)}).then(function(){toast(on?'✅ Presente':'❌ Ausente');asisAdmin(id)}).catch(function(x){toast(errText(x))})};
 
+window.fbDeleteAccount=function(){var st=$('delSt'),pw=$('delPass').value;if(!fbUser||!fbAuth)return;if(!pw){st.textContent='Escribe tu contraseña.';st.className='status show bad';return}
+ if(!confirm('¿Eliminar tu cuenta definitivamente? Esta acción no se puede deshacer.'))return;
+ var cred=firebase.auth.EmailAuthProvider.credential(fbUser.email,pw);st.textContent='Eliminando…';st.className='status show';
+ fbUser.reauthenticateWithCredential(cred).then(function(){return fbDb.collection('socios').doc(fbUser.uid).delete().catch(function(){})})
+ .then(function(){return fbUser.delete()}).then(function(){['sin2_card','sin2_fb_session','sin2_content','sin2_votes','sin2_misasis','sin2_asis_pend','sin2_asis_list'].forEach(del);toast('Tu cuenta fue eliminada');showLogin()})
+ .catch(function(x){st.textContent=x&&(x.code==='auth/wrong-password'||x.code==='auth/invalid-credential')?'Contraseña incorrecta.':errText(x);st.className='status show bad'})};
 /* ---------- ayuda ---------- */
 function renderHelp(){$('helpBox').innerHTML='<div class="card"><h3>¿Cómo funciona?</h3><p>📋 <b>Informativos y noticias:</b> los publica la directiva. Te avisamos con el número rojo y la campana.</p><p>📅 <b>Calendario:</b> verde = actividades del sindicato; morado = tu calendario personal.</p><p>🗳️ <b>Encuestas:</b> tu voto se envía a la directiva por WhatsApp o mediante el formulario indicado.</p><p>📮 <b>Buzón:</b> escribe a la directiva por WhatsApp o correo.</p><p>← <b>Volver:</b> usa la flecha de arriba a la izquierda.</p></div><div class="card"><h3>Soporte</h3><p>Ante problemas con la app, contacta a la directiva desde el Buzón.</p><p class="meta">'+esc(syncLabel())+' · v'+VERSION+'</p></div>'}
 
@@ -756,7 +766,7 @@ function banner(txt,btn,fn){$('updText').textContent=txt;$('updBtn').textContent
 window.checkUpdate=function(manual){var st=$('updStatus');
  fetch(REPO_RAW+'version.json?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(v){
   var bad=+(lsGet('sin2_app_bad')||0),have=Math.max(APP_VER,+(lsGet('sin2_app_ver')||0)),did=false;
-  if(+v.apk>apkVer()&&safeUrl(v.apkUrl)){did=true;banner('Hay una nueva versión'+(v.apkNombre?' ('+v.apkNombre+')':'')+' de la app para instalar.','Descargar',function(){ext(v.apkUrl)})}
+  if(canal()!=='play'&&+v.apk>apkVer()&&safeUrl(v.apkUrl)){did=true;banner('Hay una nueva versión'+(v.apkNombre?' ('+v.apkNombre+')':'')+' de la app para instalar.','Descargar',function(){ext(v.apkUrl)})}
   if(+v.app>have&&+v.app!==bad&&(!v.minApk||apkVer()>=+v.minApk)){did=true;
    fetch(REPO_RAW+(v.appFile||'app.html')+'?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.text()}).then(function(h){
     if(h.indexOf('SIN2-APP-OK')<0||h.indexOf('var APP_VER='+v.app+';')<0)throw 0;

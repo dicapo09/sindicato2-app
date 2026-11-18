@@ -1,0 +1,43 @@
+name: Compilar app Android
+on:
+  workflow_dispatch:
+    inputs:
+      version_code: { description: 'versionCode (número entero, siempre mayor al anterior)', required: true, default: '10' }
+      version_name: { description: 'versionName (lo que ve el usuario)', required: true, default: '2.0' }
+jobs:
+  compilar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with: { distribution: temurin, java-version: '17' }
+      - uses: gradle/actions/setup-gradle@v4
+        with: { gradle-version: '8.13' }
+      - name: Incluir la app (app.html) en el proyecto
+        run: python3 tools/make_loader.py . ${{ inputs.version_code }} android/app/src/main/assets/index.html
+      - name: Llave de firma (secretos KEYSTORE_B64 y KEYSTORE_PASS del repositorio)
+        env:
+          KS: ${{ secrets.KEYSTORE_B64 }}
+        run: |
+          if [ -n "$KS" ]; then
+            echo "$KS" | base64 -d > "$RUNNER_TEMP/firma.p12"
+            echo "SIGN_KEYSTORE=$RUNNER_TEMP/firma.p12" >> "$GITHUB_ENV"
+          else
+            echo "::warning::Sin llave de firma: se compila sin firmar (solo para comprobar)."
+          fi
+      - name: Compilar APK (enlace directo) y AAB (Google Play)
+        working-directory: android
+        env:
+          SIGN_STORE_PASS: ${{ secrets.KEYSTORE_PASS }}
+          SIGN_KEY_PASS: ${{ secrets.KEYSTORE_PASS }}
+          SIGN_KEY_ALIAS: sindicato2
+        run: gradle --no-daemon assembleDirectoRelease bundlePlayRelease -Pvc=${{ inputs.version_code }} -Pvn=${{ inputs.version_name }}
+      - name: Reunir archivos
+        run: |
+          mkdir salida
+          cp android/app/build/outputs/apk/directo/release/*.apk salida/
+          cp android/app/build/outputs/bundle/playRelease/*.aab salida/
+          rm -f "$RUNNER_TEMP/firma.p12"
+          ls -la salida
+      - uses: actions/upload-artifact@v4
+        with: { name: sindicato2-v${{ inputs.version_name }}, path: salida/ }

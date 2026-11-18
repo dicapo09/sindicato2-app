@@ -1,0 +1,47 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'cl.sindicato.pacificodelsur'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId 'cl.sindicato.pacificodelsur'
+        minSdk 24
+        targetSdk 36
+        // versionCode/versionName se pueden pasar desde GitHub Actions
+        versionCode((project.findProperty('vc') ?: '10') as int)
+        versionName(project.findProperty('vn') ?: '2.0')
+    }
+
+    signingConfigs {
+        release {
+            // La llave se entrega desde los secretos de GitHub Actions (nunca se sube al repositorio)
+            def ks = System.getenv('SIGN_KEYSTORE')
+            if (ks) {
+                storeFile file(ks)
+                storePassword System.getenv('SIGN_STORE_PASS')
+                keyAlias System.getenv('SIGN_KEY_ALIAS')
+                keyPassword System.getenv('SIGN_KEY_PASS')
+                storeType 'pkcs12'
+            }
+        }
+    }
+
+    flavorDimensions 'canal'
+    productFlavors {
+        directo { dimension 'canal'; buildConfigField 'String', 'CANAL', '"directo"' }  // APK que se comparte por enlace
+        play    { dimension 'canal'; buildConfigField 'String', 'CANAL', '"play"' }     // AAB para Google Play
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.release
+        }
+    }
+    buildFeatures { buildConfig true }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}

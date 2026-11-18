@@ -20,7 +20,8 @@ service cloud.firestore {
       allow create: if signedIn() && request.auth.uid == uid
         && request.resource.data.estado == 'pendiente'
         && request.resource.data.keys().hasOnly(['nombre','rut','num','telefono','email','estado','creado']);
-      allow update, delete: if isAdmin();
+      allow update: if isAdmin();
+      allow delete: if isAdmin() || (signedIn() && request.auth.uid == uid);   // el socio puede borrar su propia cuenta
     }
     match /{col}/{id} {
       allow read: if contenido(col) && (isActive() || isAdmin());
