@@ -1,0 +1,6 @@
+body{margin:0;font-family:Roboto,'Segoe UI',Arial,sans-serif;background:#eef3f1;color:#183235;line-height:1.55}
+header{background:#0f4643;color:#fff;padding:28px 20px;text-align:center}header img{width:84px;height:84px}header h1{margin:10px 0 0;font-size:22px}header p{margin:4px 0 0;opacity:.85}
+main{max-width:720px;margin:auto;padding:20px}section{background:#fff;border-radius:14px;padding:18px 20px;margin-bottom:14px;border:1px solid #e0e8e5}
+h2{font-size:18px;margin:0 0 8px}a{color:#14625a}input{width:100%;box-sizing:border-box;padding:12px;border:1px solid #cfdcd8;border-radius:10px;margin:6px 0;font-size:16px}
+button{background:#b13b26;color:#fff;border:0;border-radius:10px;padding:13px 18px;font-weight:700;font-size:15px;width:100%;cursor:pointer}.ok{color:#1f6859}.bad{color:#b13b26}
+.btn{display:inline-block;background:#14625a;color:#fff;padding:12px 18px;border-radius:10px;text-decoration:none;font-weight:700}footer{text-align:center;font-size:12px;color:#6b8380;padding:20px}
