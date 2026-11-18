@@ -40,4 +40,6 @@ jobs:
           rm -f "$RUNNER_TEMP/firma.p12"
           ls -la salida
       - uses: actions/upload-artifact@v4
-        with: { name: sindicato2-v${{ inputs.version_name }}, path: salida/ }
+        with:
+          name: sindicato2-v${{ inputs.version_name }}
+          path: salida/
