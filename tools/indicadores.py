@@ -54,12 +54,11 @@ def westmetall(field):
 def ipc_ine():
     h = get('https://www.ine.gob.cl/estadisticas/economia/indices-de-precio-e-inflacion/indice-de-precios-al-consumidor')
     t = re.sub(r'<[^>]+>', ' ', h); t = re.sub(r'\s+', ' ', t)
-    m = re.search(r'(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+(?:de\s+)?(20\d\d)[^.]{0,160}?variaci[oó]n mensual de\s+(-?\d+(?:,\d+)?)\s*%', t, re.I)
-    print('  INE muestra:', t[t.lower().find('variación mensual')-200:t.lower().find('variación mensual')+80] if 'variación mensual' in t.lower() else t[:200])
+    m = re.search(r'IPC\s+(-?\d+(?:,\d+)?)\s*%\s*Variaci[oó]n mensual\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+(20\d\d)', t, re.I)
     if not m: raise ValueError('patrón IPC no encontrado')
     meses = ['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre']
-    mes = meses.index(m.group(1).lower()) + 1
-    return {'valor': float(m.group(3).replace(',', '.')), 'fecha': f'{m.group(2)}-{mes:02d}-01T00:00:00Z', 'fuente': 'INE'}
+    mes = meses.index(m.group(2).lower()) + 1
+    return {'valor': float(m.group(1).replace(',', '.')), 'fecha': f'{m.group(3)}-{mes:02d}-01T00:00:00Z', 'fuente': 'INE'}
 def ipc_mindicador_serie():
     j = json.loads(get('https://mindicador.cl/api/ipc'))
     x = j['serie'][0]; return {'valor': x['valor'], 'fecha': x['fecha'], 'fuente': 'mindicador'}
@@ -89,9 +88,33 @@ if cands: out['ipc'] = max(cands, key=lambda x: x['fecha'])
 elif 'ipc' in prev: out['ipc'] = prev['ipc']
 if not out.get('uf'): raise SystemExit('sin UF; se conserva el archivo anterior')
 
+def goldapi(sym):
+    def f():
+        j = json.loads(get(f'https://api.gold-api.com/price/{sym}'))
+        print('  gold-api', sym, str(j)[:160])
+        return {'valor': round(float(j['price']), 2), 'fecha': j.get('updatedAt') or datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'), 'fuente': 'gold-api.com'}
+    f.__name__ = 'goldapi_' + sym; return f
+def goldprice_org(key):
+    def f():
+        j = json.loads(get('https://data-asg.goldprice.org/dbXRates/USD'))
+        it = j['items'][0]
+        return {'valor': round(float(it[key]), 2), 'fecha': datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'), 'fuente': 'goldprice.org'}
+    f.__name__ = 'goldprice_' + key; return f
+def boostr_metal(name):
+    def f():
+        j = json.loads(get(f'https://api.boostr.cl/economy/indicator/{name}.json'))
+        print('  boostr', name, str(j)[:160]); d = j['data']
+        return {'valor': round(float(d['value']), 2), 'fecha': d['date'] + 'T00:00:00Z', 'fuente': 'boostr'}
+    f.__name__ = 'boostr_' + name; return f
+try:
+    h = get('https://www.westmetall.com/en/markdaten.php')
+    print('  westmetall campos:', sorted(set(re.findall(r'field=([A-Za-z_]+)', h))))
+except Exception as e:
+    print('  westmetall indice falla', e)
+
 metales = {
-    'oro':   first(stooq('xauusd'), yahoo('GC=F')),
-    'plata': first(stooq('xagusd'), yahoo('SI=F')),
+    'oro':   first(goldapi('XAU'), goldprice_org('xauPrice'), boostr_metal('oro'), stooq('xauusd'), yahoo('GC=F')),
+    'plata': first(goldapi('XAG'), goldprice_org('xagPrice'), boostr_metal('plata'), stooq('xagusd'), yahoo('SI=F')),
     'zinc':  first(westmetall('LME_Zn_cash')),
 }
 for k, v in metales.items():
