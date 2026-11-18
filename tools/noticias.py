@@ -20,6 +20,7 @@ FUENTES = [
     ('mch', 'Minería Chilena', ['https://www.mch.cl/feed/', gnews('site:mch.cl')]),
     ('reporteminero', 'Reporte Minero', ['https://www.reporteminero.cl/rss', 'https://www.reporteminero.cl/feed', gnews('site:reporteminero.cl')]),
     ('aysen', 'Minería en Aysén', [gnews('minería Aysén OR Coyhaique minera')]),
+    ('sindical', 'Mundo sindical', [gnews('"sindicato minero" OR "sindicato de trabajadores" minera OR "Federación Minera" OR "Confederación Minera" OR "Dirección del Trabajo" Chile')]),
 ]
 SPAM = re.compile(r'casino|apuesta|bono|1win|pin.?up|slot|tragamonedas|ruleta|bet', re.I)
 
