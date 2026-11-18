@@ -78,9 +78,21 @@ for u in ['https://mindicador.cl/api', 'http://mindicador.cl/api']:
         d = json.loads(get(u)); break
     except Exception as e:
         print('  falla mindicador', e)
+def boostr_ind(name):
+    def f():
+        j = json.loads(get(f'https://api.boostr.cl/economy/indicator/{name}.json')); x = j['data']
+        return {'valor': float(x['value']), 'fecha': x['date'] + 'T00:00:00Z' if len(x['date']) == 10 else x['date'], 'fuente': 'boostr'}
+    f.__name__ = 'boostr_' + name; return f
+def cobre_lme():
+    v = westmetall('LME_Cu_cash')()
+    return {'valor': round(v['valor'] / 2204.62, 2), 'fecha': v['fecha'], 'fuente': 'LME vía Westmetall'}
+respaldo = {'uf': boostr_ind('uf'), 'dolar': boostr_ind('dolar'), 'euro': boostr_ind('euro'), 'utm': boostr_ind('utm'), 'libra_cobre': cobre_lme}
 for k in ['uf', 'dolar', 'euro', 'utm', 'libra_cobre']:
-    if k in d: out[k] = {'valor': d[k]['valor'], 'fecha': d[k]['fecha']}
-    elif k in prev: out[k] = prev[k]
+    if k in d: out[k] = {'valor': d[k]['valor'], 'fecha': d[k]['fecha'], 'fuente': 'mindicador'}
+    else:
+        v = first(respaldo[k])
+        if v: out[k] = v
+        elif k in prev: out[k] = prev[k]
 cands = [x for x in [first(ipc_ine), first(ipc_boostr), first(ipc_mindicador_serie)] if x]
 if 'ipc' in d: cands.append({'valor': d['ipc']['valor'], 'fecha': d['ipc']['fecha'], 'fuente': 'mindicador'})
 print('IPC candidatos:', cands)
