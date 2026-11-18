@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T21:03:04Z",
+ "actualizado": "2026-11-18T23:27:41Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -30,6 +30,12 @@
      "medio": "El Divisadero"
     },
     {
+     "titulo": "¿Buscas empleo en Minería? Así puedes postular a las vacantes de El Toqui, gigante de Oro y Zinc",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSDF0TXNVdGtRdXZ0V1dOSTRWQ3pFWGs0SVJ5VWJtMTJtQzVCbTR6U2pzODBvMVdOV0tqWFVmb0p0RlRpOXQwX1pLNlpsWnZmNDU1NkExRmtQNmhMQjlyR0ZlYS1ndGJNMFdjYUJCV0p1T0EtTVMzVVhZam9wOTlkZUVqY0dhM0dQeVZoRFVtZ3hRTkloOGMyVnJkZ2d0Z3J1YlpOZHlvMzE4b2hjVUMxS19hbk9ZMDBONGdaMXJsTnZ1RVZGdTNPMw?oc=5",
+     "fecha": "2026-03-14T07:00:00Z",
+     "medio": "El MagallaNews"
+    },
+    {
      "titulo": "Minera Pacífico del Sur inicia plan de cierre del relave Confluencia en Alto Mañihuales",
      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXhTSGVLNVVyVFQyWmdNTHZWS0c2QVFGTVY3NWxHUmtXNExfY3h3endqUk9BcG5qSWl0MlJmT2NKNm1oNFA3cWtLemY2Ykh0ZURjRTAyRkxUWEt2by13eVRCdms2Y2hwLXpLOHpqQkpxNlV0S2w0MWhyQnVpRGU4a0ZWUUlCTkFXUWF6R2N0dDhWc2xfUVlZMVlIWGY3NmVzS1hSdWdiNHRTckd1OURNdmp2ZkZFV1dqaURJVFd3?oc=5",
      "fecha": "2025-10-23T07:00:00Z",
@@ -48,10 +54,22 @@
      "medio": "Fundación Terram"
     },
     {
+     "titulo": "Aysén: SMA formula 4 cargos graves contra la empresa Sociedad Minera Pacífico del Sur SpA titular de la minera El Toqui",
+     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONkdGeXU4X0NiaEV0Vm1TbGRrRG1fOWx3TmtQeWkxcVlUQzB4RWtybnlUc1RKbVhHUmR3STc5V0E5Q3FGN0QtT2tOdUZjQkZxSGZyLVBNZ19jN3prU2IzOUR6c3N3NDY3N1EwX1JCbnE2bXQ4SkFjbXpBbE9xUUJWbTlKYnlLN3gySVp0aWRoY2xGTWwzVVQ3NDZ3TWlVRTJCa21HMjNMek9ZdXFaZ2Nyc3FFSkw3ZnNua3NTanVDRW14eENTdXNaVjYyT2hjcWhUd2ZrX3VxNUN5cWJkVlhTSnFtVzViZDBIbDJv?oc=5",
+     "fecha": "2023-12-15T08:00:00Z",
+     "medio": "Superintendencia Del Medio Ambiente"
+    },
+    {
      "titulo": "Seremi Minería Aysén coordinó convenio colaborativo entre minera Pacífico del Sur y liceo Mañihuales",
      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMTY4bjdPN25qZVU5NHFQbk1iQ2M0a1dXX25lOThiOERQS0NHWjJMUGJ5ZlQwbHZVd1lYa0VPY2JkOUt2dEVBRnh4NXNkVTdHN3V1OHhFaEpaM2hpdmJmeU83a1cxT09OY1o2ajF3NENUYnlYOFl0Z0lDX3dEbXA5N1F4YnpiWTd5RnpBNVo1bjhoWjdoSUtCb2lmNElaYzZFMUhlRTJJbEZsZE9lUEdTRGw3UnBNVnlOampFejROa21wTXhRN3BKN2JQejJVODA?oc=5",
      "fecha": "2022-08-25T07:00:00Z",
      "medio": "radio45sur.cl"
+    },
+    {
+     "titulo": "Sociedad Minera Pacífico del Sur busca posicionarse en nuevos mercados",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYjBNSTFEcXN4ak1RSmptUk1ZSVJoRWtIYm1oek90eFdueXR4bGVldEhReVNlRlZ2TzVRSF9BaVNFQXloWXpNb1ZtV19hWEgtQzR3VElzXzRuWTg0SEU5TlJ0NEc0VG00WDlUNktqaEtsT2pQZzVPLUMtRHdXV1dLZFl0dy1MYS1pdGVWNVdfSVpBb2xQNHlNOEd2bUdWZXJMN1JYNlNJM2JzQkdHdVpGcXJRbGFZTk9DeEhqUzVfeDhVSUFvb3d1MUdXVWhNSGoxVFNZ?oc=5",
+     "fecha": "2021-07-28T07:00:00Z",
+     "medio": "Diario Regional Aysén"
     }
    ]
   },
@@ -222,9 +240,21 @@
    "nombre": "Reporte Minero",
    "items": [
     {
-     "titulo": "Epiroc entrega equipos SmartROC D65 a proyecto Vicuña",
-     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanBQME1BTER4YkNJSWZmZDB0VVcxckxhRWxMMHRPaEctTGxqOEtKeHJ1dGRUSXpxRmczWmhycDlyYV81aEVaWUNCUFZNZkhJeEgxYjFZN0NrUlJwRGNEd3FrYXYtSnI5M2lOSFJZM0hONHZNdlVNQlB1U1VrcTBhOGREeVNjWmtlSjZORmdPeUN3b3dQZ24zeWhmdkN0QjlKdVE?oc=5",
-     "fecha": "2026-11-18T20:48:00Z",
+     "titulo": "Protege tu moto: guía de lubricantes según tipo de conducción",
+     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSEdTdFZDdnVUUHk1aGNNbHp6T05tNXFwY085SklsVDFXdF9YUkdEcnVaUkZMTFFSMDhrR3hMZzUzbEMtaTRWZllyS3V4c2xDQ3paNEhfNHQ3bG9fRThNTmlONkxFa1FwejJyR1F2ZVhxaE5KUjFGRFV4X21OclM4ZjlDbEZrNFROcnM0ZzgtSnhCMlBrLXlMMmREVU5RQQ?oc=5",
+     "fecha": "2026-11-18T23:21:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "AIA realizó rueda de negocios con más de 500 reuniones entre proveedores mineros",
+     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQm0tX1A4dnFMLU1ZNWJtVG92aHEyTHhsQ1A0UFgwYVhyd3ctM3JtRXBWdHNINnI4OGIzOW80WHR2cnliTmFiVktGWV9RbEgzSEFIUE8tZk5LaGxqYzZRYV93aUdTOUkxRG1HdEF3amZQV1g0S1JrQUNxc3JnREllN09pX0k3TVg0NVZZc0lHUUM5MXNMWDR3QVRBVldBakpPWkRtUzlsblg4NW9VV2c?oc=5",
+     "fecha": "2026-11-18T22:57:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "21 empresas responden consulta para energía del Campus IA en Antofagasta",
+     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOE5UN1I0Y1VSY1pDYWdUS3VMMXBTZWpVVDVtMjJteDZuam5VajV6cHlUQjZ3RU1OeEYtT2NKNm5SWTNBbDhQVEVzYTdMb1hIUVZKUHgxU3BHZWNoUXJON3RMc0s3OHFMZDlVd2VUWjFVTGlia1FBdEo4ajFITjVfQ3phUHFLdkJmMG9MeTNmS213Q1BpQmdjeUFnOGdMXzQ4N3l1emNDbnRfRXpWTkQ3TA?oc=5",
+     "fecha": "2026-11-18T22:55:00Z",
      "medio": "Reporte Minero"
     },
     {
@@ -288,12 +318,6 @@
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Argentina desarrolla herramienta satelital para monitorear cambios en Salar del Hombre Muerto",
-     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeHFlUi1wejhZNTJIUFl0OGF0RVI5bjhIbUxPNHl3NEdDTkFZWmdBUm5jVmpCNjRpaWtsREl5UVJYOU5OQ05rbmc5U2FOWWZqaFU5NHl2NFFUTEd6cmc1VlkzSlRibmI0UmptVWd6VGo1NzZzcExOR2VHRkpPMVRaUnVuMGY0MnpzRm04TXkzQnJlOHpRX0g3eEZMYVJRY3NHTXhoNVVOamRiVjB6alE?oc=5",
-     "fecha": "2026-11-17T20:22:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
      "titulo": "Antofagasta será epicentro del VIII Foro del Corredor Bioceánico de Capricornio",
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1A0SWFja2R2OThRa1FaV1pGSV9OVkZJYUplUXE5VFlkUDN4MkhEOEZoamk5aDRRRS1GdWNqVW1aRmZ1UExXVWpYYXBEYXI1UmNtRk0tMUVKMXJBbnN6NU8tMHZSdUhFNmJhc1hIUW5YS0g0bDJoQlJweGZTems5cmxDWGRTQnZvRmYxTXh6cWE2clZZTHhtaVNpMnAzRjJZNmRvUVlETWUxSjNRa01jZTJFVk9WZw?oc=5",
      "fecha": "2026-11-17T17:58:00Z",
@@ -304,12 +328,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTU4OGF3Sk9yNF9uNlExbFFWWnY1Mm03ckJJLUdudzB2cmY0anJVMmx0Sm5BeDhRTmZ5bGs4S2hxOVM0Y1Z4UEZTT1JGcEpsUjRsbWF5Qmk2UUMwLWRBZVpqY21mQ1FIX2FPV1BKSDEwMldQa2N1Y2RXRG9LYWVwUmhUYjNWZUxTUkROMXlBZWZPSmNnelIzaXdTOWpKaFV2MzJ2Nm1jaUp5V0U?oc=5",
      "fecha": "2026-11-17T17:53:00Z",
      "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "Minera Centinela supera 90% de avance en expansión estratégica",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFFwbWw1ZlNvZExYVkNyN1pkRVJhUlFwaVVCdV9FX3FBN3lvSHBWUGhYazNUcjlvbWRva2ktN3U5bWdia0dJSEJCdjRRY0JYUlJxaFktS0FNRW9HdXAtTUI5M25VN016T0pSdGpyU1pLdXVKMVVYVlNjU0YtU2JMWTNvYW1aVVVNclNvM3dBWnJMRXhaYjljLWhLcHFxN0xma051bWUzRGg4X3pkdFg4?oc=5",
-     "fecha": "2026-11-17T17:51:00Z",
-     "medio": "Reporte Minero"
     }
    ]
   },
@@ -317,12 +335,6 @@
    "clave": "aysen",
    "nombre": "Minería en Aysén",
    "items": [
-    {
-     "titulo": "Nueva ley de patentes mineras: más oportunidades para el desarrollo de Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdjdVamQ1UXVFclp1aGVXNEVRSmJSSHo0TzZWX2dZTmx4UnM4NmNJV2NqaXJ6YVVWZnMwMTN0OWVOOXdYQ3JTZTZWaFFYN0E4aEE3UUFselkzNzlwaGlWdjFIOEx0R3NUUzhKZnR3OFVTa0twU3FJdnJoU1pQNHFGdnpDenkzTlhBV1BXcmxURXBxQTdpMUhDb2ZybDh4dzZ1M0dXZ1BORUMzcW0tT2tBStIBuAFBVV95cUxNZWYwaFZMeVVTbmtpYjU0R1BqRGhadVRnRmlGdG01YkMwdXhiZjg4Zk1JSGQ5ZGQ0a291UDZiSzU3SXd6dlZhRkh0RXRKLUEwb3lxOWx3Y2hhS1F1WW9TSDdaUHRBR1BDaG5WcEZFLXNFd1V4Rk1WeWFUUjJGU05kMXh6UExmVzJTTVltUXF6ZFhNWUF1eHJfeTJQVE5RcVptX2ozckRoYTZicHA3X3N1WGphOENONUtS?oc=5",
-     "fecha": "2026-11-05T19:50:37Z",
-     "medio": "Radio Las Nieves"
-    },
     {
      "titulo": "Aysén abre ronda de seguridad minera con El Toqui y apunta a sumar otras faenas",
      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmd4S3NKeDdTNXl5MzhEdEQ3M1E4ekJyZ2VVdEZtaXg5dWVtQi1qZVd3bUVIUDBBaWEtR2dIdXVTUE9zOGxyN1ZhbnVGTlc4LVB4U1V4cmdONG1kM05NbWVMU2pDbVRlbW1YckhtWFhMTmwxVHZJTWJUMFlUblhaVVZhQ1lKbkJKY0h6UzV6MXlXSGpSNkpaNkpDbzRMTnNpMXVVcg?oc=5",
@@ -376,6 +388,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWJSWXJYX3c3R3BPeXI4TzRGb0RfR3N3ZkF2aXJJcEtvclRIT1FNVVR3SnFyQlJza3h0c3NnWnZZTncwZk9jamhBNTlwRWpJWXlfbGNoUWQxdjlDYlU0S1o5Q254VllqeHB6c0J3V1o5NjVLaEc5dzY1R0JtcnlKM1cwZDdvRGxscFJ4Q01MdzVYSEhLdUJrZ25Ma25iZWZPbGh4dnUyQ2pudw?oc=5",
      "fecha": "2026-04-14T07:00:00Z",
      "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "Organizaciones de Aysén acusan responsabilidad de Sernageomin en contaminación de tranque de relaves Confluencia de El Toqui",
+     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeXdLMktnQ3lXNlk5VTQwZE93ZE1tVjR6NTNLUUlycmN1cm1wcFE1S1B4ZHMtcndqWnpYY3NpS3ptOGdxTlVRVTBBYVVRSW1aU2g4N3U3eDFmVVJSTFFkcjlUbTB0RU1RQ2hTSWFLV2tFbHJTMTFiLWVtcGltMEk5R1JSVDNPVTRldmw0ZUxWU05UOUdSVlFyUmk2NFJmbU00cXZadGxYZkpudEpPRVFJdC00LUVXN0ZYUU9tU0pmTVBpQnNsYlRyMnlHRUVzbkNwak5HOGlWcjczVEFFa2MtWk12X0NRUlJQbWFoTEZTTDJrdw?oc=5",
+     "fecha": "2026-03-16T07:00:00Z",
+     "medio": "Universidad de Chile"
     },
     {
      "titulo": "Organizaciones de Aysén recurren a Contraloría por presuntas irregularidades en tranque de relaves de minera El Toqui",
