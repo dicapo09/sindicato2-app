@@ -130,7 +130,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
     <div class="err" id="tErr"></div>
     <button class="btn" onclick="tenGo()">Continuar</button>
     <button class="btn light" onclick="tenDemo()">👀 Probar la demo</button>
-    <p class="meta" style="text-align:center;margin-top:16px" id="platContact">¿Eres dirigente y quieres esta app para tu sindicato? <a href="#" onclick="tenContact();return false" style="color:var(--brand2);font-weight:700">Escríbenos</a></p>
+    <p class="meta" style="text-align:center;margin-top:16px" id="platContact">¿Eres dirigente y quieres esta app para tu sindicato? <a href="#" onclick="tenContact();return false" style="color:var(--brand2);font-weight:700">Escríbenos por WhatsApp</a><br/>o al correo <a href="#" onclick="ext('mailto:dicapo9@gmail.com?subject='+encodeURIComponent('App para mi sindicato'));return false" style="color:var(--brand2)">dicapo9@gmail.com</a></p>
     <p class="legal">v<span class="appv"></span></p>
   </div>
 </section>
@@ -349,7 +349,7 @@ var DEFAULT_CONTENT={
 /* ---------- utilidades ---------- */
 function $(i){return document.getElementById(i)}window.$=$;
 /* ---------- plataforma multi-sindicato ---------- */
-var PLAT={nombre:'Plataforma Sindical',lema:'La app de comunicaciones para tu sindicato',contacto:''};
+var PLAT={nombre:'Plataforma Sindical',lema:'La app de comunicaciones para tu sindicato',contacto:'https://wa.me/56920557434?text='+encodeURIComponent('Hola, soy dirigente sindical y me interesa la app para mi sindicato.'),correo:'dicapo9@gmail.com'};
 var TEN_N2={id:'pds2',root:true,nombre:'Sindicato N°2',titulo:'Sindicato N°2 Pacífico del Sur',empresa:'Minera Pacífico del Sur SpA',sector:'Alto Mañihuales, Región de Aysén',color:'#0f4643',color2:'#14625a'};
 var TEN_DEMO={id:'demo',demo:true,nombre:'Sindicato Demo',titulo:'Sindicato Demo',empresa:'Minera Los Andes (ficticia)',sector:'Región de ejemplo',color:'#23407a',color2:'#3561ad'};
 var MULTI=(function(){try{return localStorage.getItem('sin2_multi')==='1'||localStorage.getItem('sin2_canal')==='plataforma'||/[?&]multi\b/.test(location.search)}catch(_){return false}})();
