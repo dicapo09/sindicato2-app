@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T17:35:22Z",
+ "actualizado": "2026-11-19T19:42:05Z",
  "fuentes": [
   {
    "clave": "forestal",
@@ -234,6 +234,12 @@
      "medio": "Conaf"
     },
     {
+     "titulo": "CONAF abre postulaciones para labores de combate de incendios forestales 2026-2027",
+     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTBFQjRFcVk2YnpDMVhWZVFQeTFNcHBjeDczMFVrZmpBcUljNEN3ZUZVSVFtWUxVU0stajU3TFBqUk51MmhqYUlzRXFyTW13R2IzS2JaVjNmRWZrLTJTZllXYnNRZGZGX1hua3VUXzNhbWdtSUZIcGpKMGg4SjVpYkcyNW5US0ZQSHhLcHFiZEQ5VEhaWVc2SGhmUG80eEVGOFBPVllkdw?oc=5",
+     "fecha": "2026-08-07T07:00:00Z",
+     "medio": "Conaf"
+    },
+    {
      "titulo": "La Araucanía refuerza preparación ante incendios forestales e inicia trabajo preventivo para periodo 2026-2027",
      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYWlQRzM5QW5qc0N5MkViOFU1WlNCQzFUSk1vM1pQT3ZxWUFpWko1cUp0ZVJ0YVNpUjlibW9zMFY4aVFDN2lXVTI0M2p5eDBuR0dYZS1IdWMwYkg5Y3pRN3U3eUtEUXViRUc3Q2pFcFNIZmlXRHlHRGl1X1JTLVc2d3FVTkNPRU96U0x2V1dHZ00tVTFvSWNCVlNEeWR5RzNpRWhERUdkVUxibUVReTZxSnlSaVlMUklvZkZQNC1uYjQ4ZWNyLVZVMjB0b04?oc=5",
      "fecha": "2026-06-03T07:00:00Z",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGVBNS1MaDhYeHlxZVhDTkV6TXVvN1k2WGRYMTRKZWY0WDdlRjE1WndWYmZ0Z2Q5MHJ1SVVyaXBEcUZqN0ZVOU8zUUVCSnJTZndNZnNuTnNYSkR0MF9WTmdCSTVEN1lpVGVkS09kbmVzOVREaWdmMmtjcGFWYTFpd3NzdzVENTY4d0dVeTNqZkNTWVpqdk5McVZMSllMOFNmbF9hVDNySzMwbkVwTFg0eFZsV1B4UQ?oc=5",
      "fecha": "2025-10-13T07:00:00Z",
      "medio": "Conaf"
-    },
-    {
-     "titulo": "CONAF La Araucanía realizó comisión técnica de prevención y mitigación de incendios forestales",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1V2YjB0REw2Vk1iWHVoWmNEdTIxNV8yU0NpRHZ5MFEzV0tvVl9pblVtTXNha3p3ZURWcC0wYktadzhBdGp3VDZ1QzFoRDFrS01oMnM4bTFwVTZEZnlfVzNYRl9XQno4WjNSM0FGR3FObDJDUFktWFZEX2h4ejZ4NXBNZlliVmNJU2plUndmeUdIdjc4czJhZlNEUTczaUpmZWc0WVNkT3U4RHJid0diTWZFdjE0U2M?oc=5",
-     "fecha": "2025-10-09T07:00:00Z",
-     "medio": "Conaf"
     }
    ]
   },
@@ -330,16 +330,16 @@
      "medio": "El Bierzo Digital"
     },
     {
-     "titulo": "Sindicato 3 es la grata revelación del Torneo de Clausura de segunda división",
-     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFJUNTRfMGhDVUhlOXU3S3I0MHptUU1vR2JGQzZpNWY3a0I0VTlneEg1NmktTFRkd2xBWXI1dVlNTXpLOUR2ZXlpN3RUajd0SE5nM0Z5Z0lPNnVKNFlQbW1BWVhZWkdYVkphTUNyYW9DcVBGRDJmOEtqYzl3UW52RlQtWWlqZVFDeHZqckpWczNiMzNPeFBxV2d2NUV4bVVhUG9fQnJB?oc=5",
-     "fecha": "2026-09-28T07:00:00Z",
-     "medio": "Noticias UdeC"
-    },
-    {
      "titulo": "El sindicato CCOO alerta de las deficiencias en las casetas de vigilancia de incendios en El Testeiro y Peñanofre | NOTICIAS VERÍN",
      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkc5NDVrSl91M1BKSlBkVVRTVVR1em8teExyM0FYbUZzRHZQeS1XNjBtbm16Tzg0VWc4TzZ4NmdxaDJnc2Jfc3RVTnRtbHNNQkNrOU9QRzVDN0wxcm0wUG44QkhQdlVKSldvSDJQVFA1WDhEd0dKTzduRENIenhSRlRIa2NTZDVLeVloN3ZFVDZ4Z2tyMmlDSGY5WjEtYS1NOTRsWFVuM0JUX1VJbEJvQ1R5cnViU3R3ZVNKc0FBaW9UUUVSY2g3LUxRUHo5d0VQdk9PcFg2c2hWR25OTkHSAeMBQVVfeXFMUDRvRXQ1cU5GWDFnZmpZT0VkX0NoSFJfajZLc0sybmNzc21qcm4tSjVndWowamdOVGpnOFVaSnBMTG05SkhMZmJNRUNwZFBvQks3TGpsMFBTVjRtNkozZTNORmpvZEZoS1FtOXZpOEJoaWJBN3BSZUpkMFJITVp4M0ZJU25BMTFpS21IWDFQVGdwRHlrbE5KNGY5WWZHUEJTdlhoU19WTHF0MEp5WTBYb2xTZVp1YXFodXVWRmlfbXl1N1VUSTJ5SE92V0tWZHB4WFRrSjlnM0YwM2I5MGhvbDRoXzA?oc=5",
      "fecha": "2026-09-24T07:26:56Z",
      "medio": "Diario do Támega"
+    },
+    {
+     "titulo": "INFOEX: mañana se realiza un nuevo llamamiento de Bombero/a Forestal Conductor/a",
+     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXJNa1U0RFBSNXRveldzbzVoZEtiTmZuXy0yM0QxeWYxMGo3bl8yVjVvdmpaY1JrX09pWEYyaHR0TXFoV0NuZVdhTmdUVjNra18ySTBoYWZ0a1B5cjN5bFlhSDZHX1NsNVExSkVPZkdwX25xajJ0Nlc0eUxwM2xHUW1PVGppSzBsOFlDNWo0WHVZbkN5RjdzQmJCREVDQzRzMlJpVjVUNkVYMFFpaE1WY1l3SDVidU05Z2pUWWp3?oc=5",
+     "fecha": "2026-09-09T07:00:00Z",
+     "medio": "SGTEX Sindicato de Empleados Públicos de Extremadura"
     },
     {
      "titulo": "Periodismo derrotó al vigente campeón del Torneo de Apertura y es escolta del Sindicato 1",
@@ -392,7 +392,7 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T15:29:00Z",
+     "fecha": "2026-11-19T19:13:54Z",
      "medio": "El Mostrador"
     },
     {

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T17:33:36Z",
+ "actualizado": "2026-11-19T19:41:53Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -138,14 +138,14 @@
      "medio": "Portal Minero"
     },
     {
-     "titulo": "Proyecto Nueva Centinela registra más del 90% de avance y avanza hacia su puesta en marcha",
-     "enlace": "https://www.portalminero.com/proyecto-nueva-centinela-registra-mas-del-90-de-avance-y-avanza-hacia-su-puesta-en-marcha",
-     "fecha": "2026-11-18T00:00:00Z",
+     "titulo": "Proyecto eólico de US$150 millones obtiene aprobación ambiental en Ovalle",
+     "enlace": "https://www.portalminero.com/proyecto-eolico-de-us150-millones-obtiene-aprobacion-ambiental-en-ovalle",
+     "fecha": "2026-11-19T00:00:00Z",
      "medio": "Portal Minero"
     },
     {
-     "titulo": "Investigadores de la Universidad de Chile avanzan en el desarrollo de una nueva tecnología para recuperar litio desde salmueras",
-     "enlace": "https://www.portalminero.com/investigadores-de-la-universidad-de-chile-avanzan-en-el-desarrollo-de-una-nueva-tecnologia-para-recuperar-litio-desde-salmueras",
+     "titulo": "Proyecto Nueva Centinela registra más del 90% de avance y avanza hacia su puesta en marcha",
+     "enlace": "https://www.portalminero.com/proyecto-nueva-centinela-registra-mas-del-90-de-avance-y-avanza-hacia-su-puesta-en-marcha",
      "fecha": "2026-11-18T00:00:00Z",
      "medio": "Portal Minero"
     }
@@ -221,6 +221,18 @@
    "clave": "reporteminero",
    "nombre": "Reporte Minero",
    "items": [
+    {
+     "titulo": "Satellite Miner monitorea cambios en Salar del Hombre Muerto con datos abiertos de NASA",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2RpVU9idUlKR1ptM0VWMWlIOXJOMUxMLVNfdm5GTHJaZF9Xdkk0M2lDcUFkZERiQlpGd2xoSFJDTFhqN3NobDNEd0hYalRobkVtRkswZWJiLUdWRWQ4eklTdlRPUUprWkIwbUVna01GS1l3OGVIVGRlYWExZnJyZXBQN1JYdmlYdU9mWmNPbFgzQ1VYX2NWZmJ6VXE2YUcyUEdXMzNld2VxZndaUEtB?oc=5",
+     "fecha": "2026-11-19T17:51:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "Especialistas chilenos presentan experiencias en seguridad de relaves en congresos internacionales",
+     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVmsySlJ5QjRlSFU1dS1LSlRob3pyZ0hDYTBXNUNYY0tCWGZjbnVkUlVEbllCdWVOb0JVZWZQdmRBZHQ1WmhLd1czMFJkM25QQWViU3o0MUlhMjhjaEZrOGpnRkRUOVVSU3dLcHNsb3RIQS1YanNXUTU5Y002MkNORWtEaGtZUDhYR2RhYXVfVFJ5Wm5aYWJuWXl0Ti1qbWZta0xoMmdaMGlCNF92a1dnakktN1Vvd3NYYWt3dw?oc=5",
+     "fecha": "2026-11-19T17:26:00Z",
+     "medio": "Reporte Minero"
+    },
     {
      "titulo": "UCN mapea relaves mineros con tierras raras de valor estratégico global",
      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlJBM3hOUEQwZFNwMHlidWxRQUVzMElXRGlPM0xMR25QekhadFVTNjEybnZKLWFsc2ZkWmJBWWJkYUkzWk9nVS1nZFRPaWhuemMxeDlESUFJd2ttVW41LTBWTGU2SV9QVHl2bUxKZXRMemxuS0RhNUxDYWtUcWdZbzhNN0d3Tjh1NlZFUEhoYk9sZ3poM2VUNG9uWjZaUE85Q1BEU1ktaFRQQ2J0?oc=5",
@@ -298,18 +310,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa1JXa2tBNWNKQkJmOWNzOFhGTXRvV2VaekZrWWIwaC1vdEhoS3hqMDRLVGtYS0RZMXhCWlRPV1BLaThSOXpkYlhITGlONDVtdm9HV2I5anI0dkJrTEltbGwtazlzd01ra3ZvUE9KaU5WWUppanFJNl9YdmtIcmx3QWcwSHV3RXFXQ1FGZVdCclNmaENGbXl0Y2hVSEptT0NVa184cWZ5QXM?oc=5",
      "fecha": "2026-11-19T12:48:00Z",
      "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "Brasil, Argentina y Chile avanzan en fusión nuclear con proyecto trinacional en tokamak",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0tEMVYxbG1rUzhlQkNSb1VmeERSdlV5OUZjVFJ4NHNYMTRKTTNGSmtHdHFyUS03Z2k4UUszSnZ4WmFKTFFzczYwWTdrSTlxZTVqaTRrUThGczdMQ2xqTHJwMVdDc2pCWXBZTGtFRkJTTTZKd3VzMUFGU0lFRk9UeExpZTRCdk9IdFBxYXVxTUVQcUpLUngtSmVOaTEwbVFiLUE0Y1lhamw?oc=5",
-     "fecha": "2026-11-19T12:40:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "Cartera de inversión minera rompe récord de 13 años y supera los US$ 111.000 millones gracias al litio",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFBVM2pCRUpwZEM2MkZUZVUwRXo5Sk10TklUNmF3WHcza0VkOFN4eU5uXy1ieW10bHowZng3aTduck9DVTFxbThtUGlqWThpeG5ERkllU1VQWVhqSDZtTjRoSWNjNlUwbUU3Vkk3Wm9QaHN2U2Q5SHlZUmdIaF9sYko3RkE4S3BoYU1xWG1TNHRoMDcxTVJrWTBCUkoyOUpQRlRWSExiN3NYNTZJZTZKOHZtcTFUb1ZoVXJuaWZHMA?oc=5",
-     "fecha": "2026-11-19T11:57:00Z",
-     "medio": "Reporte Minero"
     }
    ]
   },
@@ -317,12 +317,6 @@
    "clave": "aysen",
    "nombre": "Minería en Aysén",
    "items": [
-    {
-     "titulo": "Aysén abre ronda de seguridad minera con El Toqui y apunta a sumar otras faenas",
-     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmd4S3NKeDdTNXl5MzhEdEQ3M1E4ekJyZ2VVdEZtaXg5dWVtQi1qZVd3bUVIUDBBaWEtR2dIdXVTUE9zOGxyN1ZhbnVGTlc4LVB4U1V4cmdONG1kM05NbWVMU2pDbVRlbW1YckhtWFhMTmwxVHZJTWJUMFlUblhaVVZhQ1lKbkJKY0h6UzV6MXlXSGpSNkpaNkpDbzRMTnNpMXVVcg?oc=5",
-     "fecha": "2026-10-29T07:00:00Z",
-     "medio": "Revista Digital Minera REDIMIN"
-    },
     {
      "titulo": "Seremi de Minería y Sernageomin de Aysén inician reuniones con empresas para fortalecer la seguridad minera",
      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc1ZER2ExaFJYMTl0YUp5STF4SGoxWEFvRmUxcXE4S05PVmxoRWJCYTNTZ0RXci1lQ2RhRXdORzFuMHZ2ME40ekpISF9DbS04ZXloVFNFemdvVWhibXVEaDV4aFlMcDkxTzNud1FXMjZfZzR4eFNYV1RkQ0hJYjBkQWkzSUVJYlV2b050dm8zUElYS3BBdE5SUWU0LXpVUGNVOTZzdWc3THJRT0hiVUJxOGgwcjMxVlFBb0ZoLXZhV2NoenhWd0xSeGx0Z0hjMWJmR2VGRXBieXVKQ0HSAeMBQVVfeXFMTml2bzVJcm9meHpnWDBWQU95YjI1VlhGcjB4QVcxc1FwSFVOanUta3g1SDRzUnZDRFZ0RXZnMDFHN3A1VUtiMWp5N04zTE56MWYtd19qN1lQeDZlM0x0VF9RYm1kRVlfQm54eVZvSHlDeDQ5eDRLTFNRaXhPXzhQMkQ4NkI5a01WUFp5bWp3dmVZUmFqRTBqRXFGS1JSazRSUnh1QjBkQVRHNEVTa3pGVnRGazVMY0hrMUZqMXV2dlJzXzkwSUx4dVFEamQtYzk1NE1WeDlTTmE2aFh3MUhjYWN2YTQ?oc=5",
@@ -394,6 +388,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb080VGtIQnlZS1dROVRhSXhjSFU4djZldzF5aHlMaW54bi11WmNtSW1lMDJDbHRGbUZZQ0o3b2VqdFh4VGRLN2x3QWFaVnVBaXA4M2ZiM1ltVnVfNEp5UjFNWVpldjZ4Wkhwb1RQRkRETGcwbzI4SlRkemJPb1FEUGZXM0Q3SUxQVjRmMjJIc3hPbHhOTXlIbzhGYjdHLXlYdV9Jb3o5RHpPUFQwVmVzYndVTkIzMzQ?oc=5",
      "fecha": "2025-08-12T07:00:00Z",
      "medio": "FIMA ONG"
+    },
+    {
+     "titulo": "Municipios de Aysén recibirán tercera cuota del Royalty Minero en julio",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcndoeGRCczZJQkRmUkNaZ1RFaV9DbFJWYWlNYjZJbTBFcGtLRWhpTUdwcTJFSVl1ZXZXeTRxLW83QWpzOUxRcHZyZmZoRE0wS1ZsNkhsOFVuUFNUYU8xQlhVQTZBVDBycGZJNk1MRkczZjdkNVFWTi1HV05kNWFQbDRTR3VKYUJEN05LM2lfZnJxRDdHazN2ZHV3TWZ3MUxodmlDR2tLakw?oc=5",
+     "fecha": "2025-06-30T07:00:00Z",
+     "medio": "radio45sur.cl"
     },
     {
      "titulo": "Relave minero colapsado contamina el agua de familias rurales en Aysén: Llevan una década esperando medidas",

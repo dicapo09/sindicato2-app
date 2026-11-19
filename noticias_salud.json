@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T17:35:25Z",
+ "actualizado": "2026-11-19T19:42:08Z",
  "fuentes": [
   {
    "clave": "salud",
@@ -102,6 +102,12 @@
    "nombre": "Gremios de salud y públicos",
    "items": [
     {
+     "titulo": "Fenpruss se moviliza en los territorios de todo Chile contra los recortes del Presupuesto 2027",
+     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX25RNW5PdnRJWGw0bUNwWndNTGZxYVdkVnZIbTFIX1oxTFJySy0xdVptRUFwUXo1RDBEWFFyTUp4dUpFMDdKdzNicUhnSGNuOXNTNkpteGV2aWpDWFNuek9OcmN4SU9hODBYUXpFWUxQUnVPRTlST25PbnNyeXJwT1pQU1lBY0praE8yOHRMV1VFcjBSSUx4bENXUXR2eHlmU0VpTkI2RUl0OE03bEFDVHRLYWlpZmUzemlGZQ?oc=5",
+     "fecha": "2026-11-19T17:51:54Z",
+     "medio": "Fenpruss"
+    },
+    {
      "titulo": "ANEF Antofagasta participa en convocatoria multisectorial contra los recortes presupuestarios y en defensa de los servicios públicos",
      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORHlXQ0xEN1pJWEJHOHBTMnFkU0N5dlJzZHdwWEJ2YkZRY2hRZEd2bWNhd0k5TUYtb0IxdWtXNUlQVTBDLTlQLTBNbElVZFhCdTg1QTBUa2hMZGVMVjZkaW95ZUdMWUNwSmhOY19USERVR0hfai1YQk5ZLVNwQnkyTDZES2Q2Y1BhcW9KcmVmRzlFM3ZQeDlsWlAwQ0RDNy1OcVNETUk5QXZwVEJBQmtHZTBwam1NOE5pRVBSWlNGdFpkR0tCTVlxSjBkRVpKazBMYnFWVzFCaGJCekJsbV9JeE5zUQ?oc=5",
      "fecha": "2026-11-19T16:20:42Z",
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0xJd0VJVFhhQTFTMk5NLTkyUHFyaU1odHdqQmI4emMtMXRMUmhKNm1hdzBVSC05dVNGdEN4eWNaTHZCRHZVV1dhZmNrU1puRjJnajBtT19vaHpPNjRBY2lwbnp3M3E5UGVoUTFCRmlIMDd0bXMtRGllU2JHamQtQS1tdFF0YW9zejNORW9oUVUwQ3hHRFlOSmFGQXA4dw?oc=5",
      "fecha": "2026-11-17T14:40:37Z",
      "medio": "anef chile"
-    },
-    {
-     "titulo": "ANEF ÑUBLE ADVIERTE POSIBLES DESPIDOS EN SERVICIOS PÚBLICOS Y AMENAZA CON MOVILIZACIONES: DENUNCIAN DÉFICIT DE 300 FUNCIONARIOS EN LA REGIÓN",
-     "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMjM3TzVYczFUTG1BMDVJRnJrNHAyQTdGREtnTVJZMEFJUlNBWmZVN2FnV3ozZkx4aTNEcnpCVXp0ZDF3a1hRSC1CTzVweUl4QkExOF9aUm5jTlRMdVdqSzVaRDFYQm45dkgwUm56X01Gb0s1R0JMTmNXT1N1TGxFWHpoVkt5SmVTVE84aURxMXdtcHVCZGtsZmdHMnZLWGE1X0FGRHdiX19rQWZEV2pZb29sNU1vM3FLcnhETTBvUFNtWFNyeG1vLXpjamx3cDVGc0ladVBVT3FBV29fM2Q3eXNzUno0NWItTTFZUGpzWHNKek1iR0FkLUZaLS13QnRqRjU1cXRpcw?oc=5",
-     "fecha": "2026-11-16T16:26:24Z",
-     "medio": "Radio Contacto 90.7 FM"
     }
    ]
   },
@@ -197,6 +197,12 @@
    "clave": "publico",
    "nombre": "Sector público",
    "items": [
+    {
+     "titulo": "Seremi CTCI de Aysén destaca acuerdo con OpenAI para capacitar a funcionarios públicos en inteligencia artificial",
+     "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44VEJ5YmxwSXhUUlZib3FYMHl6RXVGdjJ4NzJRRWN1X2JQZ0h5YmhMd0xjVGwyYTd4RDktQWJoMlBHWGRrRGRWYWZDMEQ2QQ?oc=5",
+     "fecha": "2026-11-19T18:27:39Z",
+     "medio": "Radio Revelación FM"
+    },
     {
      "titulo": "Funcionarios públicos protestan en Puerto Montt: alertan por despidos y recortes presupuestarios",
      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUWdfRXFSS3dCUXpVcFRuWjRHbC1QSjNDNGkxNnV1ZEtRX3cyaUdMdGUyckFONEl4UG5sck5EQlYyNEpnalJ2VmxjbkNvdTF3dVNKaDlSZzl3ZEY4c1d6WlFZdUg2MHRzX3VmanhfYzFhN0tqQkxUZWJSazJpdG1iQmhRMDNma2ktYmJNaGdHelFuZERjTlNoR1docHR1NUE4VzEzRF9UWFNNM2hfcGJFemF5TURUc1NkM1VJYzlzcjZmZzY2elUzSVhnZjJJRk1lSzJsRktRQmFyb0FYUnFXeFdEb19CYVAwak82ZW5B?oc=5",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOTdBVWNBTkViWnloQmdCTjlXdkdkSjV4Y0JodWZmaUt0cHJ4b0VPRWk3enZvZnlzWVpORlZQbTRJRzlvM0FHSkVxdm9EMW1YcEFBNzZEN3FKODRVYTNOUW5weGY3aUdma3ViUFhTWlo1SnRlLUg2Qzh1dDZyZ0lZNWJBUzVSZkZ5ZVM3bXBKRFNPdUJ1NkZkQU1lWTMyWkhjbGM1S2dkcXpKajBhUDhRUTB2UmxveWtEanJqb0FGUm1ibXVxMEFkVTBGVDAyUnplRFlrZkZQdnFNR2QtSXR0RDBiZHA?oc=5",
      "fecha": "2026-11-18T13:24:04Z",
      "medio": "EnEstrado.com"
-    },
-    {
-     "titulo": "Contraloría detecta 315 funcionarios públicos con condenas: Carabineros y Ejército lideran la lista",
-     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTjZaZFJrcHNuLV9TNERCY0w5XzFlSXdlR1FtbjZjOUNwc2JOS201SXloaTVvSUJjdEIzWHJJZkZHVzRKWjBrUXVLVWNiTS05cDJDVkpPajRyMGw3UWQyMm80X3dCLU9lVTBHbXoyYUVTY3RJSk9BWEptdUtCVGtZTVpWazRETTVlZGhQdWJCak1FZEJMYnZwNHNaTHZsV1ptaDZKTXpiX2JHekFoNnlPV3U4M0hFVkpzQmNmMnQwSFh6QTdrcTFxTnZtOUlrX2N4c2hiVW5xNmpGbHl1VWJXbmNmRENFMkVm?oc=5",
-     "fecha": "2026-11-18T12:05:56Z",
-     "medio": "Diario El Ranco"
     }
    ]
   },

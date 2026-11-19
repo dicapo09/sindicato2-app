@@ -1,15 +1,27 @@
 {
- "actualizado": "2026-11-19T17:35:29Z",
+ "actualizado": "2026-11-19T19:42:11Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
     {
+     "titulo": "INDAP invierte $1.179 millones en proyectos de riego en la Región Los Lagos",
+     "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsVm96QTdVcHdrd1pmb1A1bF9PSk42OWhTWFFzMTFneUtEa2VXTnZnamlkcHBEVVJOV012RlpVd3U4QkJJVm0yVnNvYUhwZGUxNEkyZ2pxNjJHcVBMVGxfRVItTlRTUXgwY1owTTVRU2thcHIyMk4w?oc=5",
+     "fecha": "2026-11-19T18:54:00Z",
+     "medio": "Paislobo Prensa"
+    },
+    {
      "titulo": "IA, cooperativismo e intercambio global marcan agenda agrícola de Chile en 2026",
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckhEckVlbEV0U0p1MERYSzVwTVJxZHFwRWp3cFM3SUV1dW9WdnN3eWM5Y0VFZEJUemVjVTdRRXoxRlpIaUw2QVp4SHZRaDJEZHZteHFSYnBLVE14eHdpMXg0akJud2hYNlVLdjBnS21PYU1HZUtkUEZJdFRWMlozcHAtOGlRMXVCWFpjYThIUEZaSVBrS2l0QVJ0V0pYdnVtWm1DaEVXVlFjVjZaWmFBZ1o0ZC1Fdw?oc=5",
      "fecha": "2026-11-19T16:35:00Z",
      "medio": "reporteagricola.cl"
+    },
+    {
+     "titulo": "Radio Agricultura se suma a EtMday 2026 con programación EN VIVO sobre emprendimiento y negocios",
+     "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc2tLR2s2SnJMVE5jTEktOVZXeUxpdDFJZjJuN2Y2cXI0U0RXUVVRUUdzcUEzQmd2dEhIZnNEYVJJUHlUblBkWkFvTVUtLUxEdVFsazh2NmZJcTVXd3dTaUhKZjNySjhkeTRyVE5HQ19LSHZ2VUdDQU90a3I0N2J0VXV3aXBzV3R4MUFIcUJVeVlWTms3QjdzaXFpeFlCZ3ZKNUxrYkZDaUV3bF9vSzNuUkN5OWFUdWJKa2hrZTc1eGpkWENjblduZ3NMdldadmdCNnFQVGNaN291YThlUlhHcVBacjl0LUdEbk5WUg?oc=5",
+     "fecha": "2026-11-19T16:05:32Z",
+     "medio": "Radio Agricultura"
     },
     {
      "titulo": "INDAP entregó incentivos de emergencia a 102 agricultores de Pelluhue y Chanco",
@@ -82,18 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlhZLXlpTGxQSnlfS2pValdiTE1XSXhsSHl3R3VQQ1pRaURMQXc2bTdLR0d1RGhFakdHaFotU19CQnJaam95Qkx0NW83dnZGaG8xTG56VFhCdEpTWG5iS1ZLZTViRDJ6X1FJb0JzZ2UzUDNIOEtTOWMwYTZDMmtMdHRYMXdjOEhnYW9ZSnJ1dmgxSXU5YmJnT191ZzdxMUpLY043QzZB?oc=5",
      "fecha": "2026-11-18T18:25:20Z",
      "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Cien años de la Secretaría de Agricultura: SAG destaca el liderazgo de Dilian Francisca Toro en el fortalecimiento del campo",
-     "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWDJaSG1fZjZkM0Y2N0lUNVRFQnd3aVdNVXFsbkdYWFBsY2s2VHJUUi1FeDRvMUVyVjBNOFhqUEQxLXFJcld6QlFkMU5wTnpIX0xCZGxMM0lUVzhxSUwyMnEzWXAxejhHM3owdVBGcE5iLTBfbklYVWU0ZnBlaHdyN1hVcWpuZnZIMmNUeEFSMGYydUxFUzQwRUgzejF1c0VjQWloRlptbjhXSlZQdkZhZXl5eU1FeDU3VW9ncnE4ZTd4ZHdlWmZpRnRPX0plbnJqNHdKcnZsZlRtSEpGQ0NwTmVQVEx1TkhYRnRlaHcyOWxPVDU2WFVfNkpYZGhQbkYza0IwNTZJUXE?oc=5",
-     "fecha": "2026-11-18T14:59:00Z",
-     "medio": "Gobernación del valle"
-    },
-    {
-     "titulo": "Argentina | Chile rompe una barrera para exportar cerezas y apunta a dos frutas más",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVMzS1BDWVZuSXh2ZTR6dHlHSmJhS1czMElORDlvVElnRFdtVGtzRW5HTmw0TnQ0X1gwb01BQWx6NXZoT0wxVG92UFBTcENneHVINmNnNFV0QzVfeGpXblhiMk96aG5jLTk1TFBJdmJyMUtuZUY0Sk9Pb0E5R2RiZkVycTVid1JiMzNxSXVEUnVGSTJwUTU5Q3d5MDJORDFWNmV4cFZhblppMXRmWGF6SGdOOFZhN0ZnQ3RzTGxQRl9zdw?oc=5",
-     "fecha": "2026-11-18T14:47:51Z",
-     "medio": "Portal Agro Chile"
     }
    ]
   },
@@ -110,6 +110,18 @@
     {
      "titulo": "INDAP DESTINA MÁS DE $2.182 MILLONES A PROYECTOS DE RIEGO EN LA ARAUCANÍA PARA FORTALECER LA AGRICULTURA FAMILIAR",
      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ0ktV05BR3QtNkd5QkZtaEFOVVhKSnZLV2JtLTAyVlhVSkJXR0t1SzY2SlR2eTNyMmFNS3o3V0ZfRml4eWhKUFZwOUZJRUlyMUZ4QVpyUEFlMk5nLVpKdXlvN0IzY1hJWUZ6WExUM25WWld3V0NQMFhiRFBDcjQtTWdNQUFFWVZCVXV3ejNiY3Zwc09FQVNXMWE3OERGRzVTeGVaRXpadE5pUVUwY1FhbHNvWlBzQlp5MndJbmNCdFdLc3FkVUUtMkhPMWxfSktGbTNuVWZibUJkQ0hjbm91SHhOYXBWc0R2WGFWYjNn?oc=5",
+     "fecha": "2026-11-19T12:34:58Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "BOMBEROS DE TEMUCO PREPARA PANORAMA GRATUITO CON CARROBOMBAS Y COMPETENCIAS EN LA ISLA CAUTÍN",
+     "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM2FTV0ZwZC1vVEJEcXhBMm0ySk4zYUc0cURPZERwMkp6UGZXRTdBazJDMDZrY2drX1hWcUtCYXZtVTcwTXY5VTYxWHU2R2VsTC1PUjlpeG5PRFc0enZCWjBwQWpiTlZ3ak1Yc2kzSGQyX0FiZElad1lTZko1YV9BX3RQanhqTm9rMGttY3NkZkVmZUN4Vm5yZWRxc2FWc2oxU1NiTVNPU0FmVllVV3MzRjNqQldrdHFpVkY2eEoyQjVyd1BXaUZSbXM4MW85RnVMNll0NQ?oc=5",
+     "fecha": "2026-11-19T12:34:58Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "RED DE DIRECTORES DE VILLARRICA FORTALECE EL TRABAJO COLABORATIVO PARA MEJORAR LA EDUCACIÓN PÚBLICA COMUNAL",
+     "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNX21LaVhBc29zak5iVnF5Nk5HSmtFRWxhQ1FieWNZbHQ3WFMtWDJ0ck1CRmlTNUZmdVl2QnRMWV9hY29URmlCREpxQW5IZHcxNk5sWEVCZnY3cTc0ZkhQejAzandQaXJoYkR2Uk1CbEY0U2FHN1RPWFhGN0x3elhPNVhQd1Npd21EcXRvSTlGMm9XOFlDem9yeDFnR29Pa0V6ejlsX2c0WE01VGk0MmlzUC1EbFdaRGpXd3l0ZFZheE9RTTMxRE01VVp3SmwxOEFqS1ItUUt3NWxiRkhWcmdKdjNQMHBCbmc?oc=5",
      "fecha": "2026-11-19T12:34:58Z",
      "medio": "Araucanía Noticias Temuco"
     },
@@ -178,18 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTVZcXRPTzUzZmNIR01nZDNQY3dIM21kSlQyQ2dFdVVkcnAtRktsZlpLSk1hWnRibTlkQndVLWRNVkRwYS1jSmFwUnlxVktJclNrVTkwR0xlWnJWYnQydTlaZDhPNWxXT0FFemwyazY3UUFuN0R1STExWFQydUNDNTFuTHI?oc=5",
      "fecha": "2026-11-12T13:39:14Z",
      "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "EXPOSOFO 2026 reunirá a toda la agricultura chilena en una versión histórica en Temuco",
-     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNko0VjVyaHp4bF91b1Q3d0thYkpoaGJNYkVwLUh2bWl0MGo4MEIyX1FjQ3lJZDRCdDJfbzV5RmZXV19uRTE3RmVsSUVuR2o1S2c0Mnh0VXgwVW5obVhzLUpIVHd3UThURWFSR1VVOFBrU05xVmhvY3RpQm5VajlEMzFwUkQ0a2E4dE83bmlSQ1B6dVJpc0VOeE42WUlIZERObmxLY3hEdDdoOTJiVjU0TmRXbHJvSE1VOU84Z2ctaU9JWDdjaUVWQUlB?oc=5",
-     "fecha": "2026-11-10T20:54:27Z",
-     "medio": "Temuco Televisión"
-    },
-    {
-     "titulo": "INDAP Araucanía avanza en estrategia 2026–2030 para fortalecer el apoyo productivo a los pequeños agricultores",
-     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXRRZGtVWEZfWXY5WkJTbERlVm1lcmZHVWFTSEtfQmpZRTNLeFN1MjhyXzJsX1l6SThGeHZON2pxRTE0R3RoU1lCU3pGcHlURkhrc3BNN0Z2bjF6VG1tZldremlnWTU5NjUtelM0LXllSVVGNGlCS2tvYVhEMGdSQy0yX2J6aS1PQkhwUDBSOHNocnpqX2M5MlNhM09rMWRsQTJsdk41QTFHaGhMNXVMWEo3TVkxd0NmS2J1Tg?oc=5",
-     "fecha": "2026-10-15T07:00:00Z",
-     "medio": "Indap"
     }
    ]
   },
@@ -294,12 +294,6 @@
    "nombre": "Mundo sindical",
    "items": [
     {
-     "titulo": "Dolores Huerta, la histórica líder campesina, recibirá homenajes póstumos en la tierra de su lucha sindical",
-     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ2ZBV25jcTFvdzRzdTJQa1pQUVJiX0M5MFFnVnJHZ2dOdlp3MEpJaGtWUkRvS1NoMkFtRUFQM3BNUV9EQVpNdGtXLUY3VmF2TDVjVEJYVDc0eTU0blhlSjM5NHBKRy1vbVF5MWd1WVB4ckJOalVRRFFPaUdnUndubXBRYzBDRnZ1OENmYnVqMmI1enczTmZvVDJpZmZuRHFjeEhRcS1LSTVjV0prZ2JQZU5HZm9nSXFac1VXSl9WajJ3aHFKemcxbjc5c09LUHFESUFGYlVUaXJCNlXSAe8BQVVfeXFMTnBRVGRBVXVtZUw1SHNRSEtUNFlSWk1SYmUtazQ5VGdqZ3BrV2Z4SldtX3BVbnB5Skd2RFJvY05Tdk5VTms1emo0VnRjUmRhYUU2ZVhLRmt4ZVhpTmp0WVB2UXBrdDNUaTBOc1lBNC15NjV5MDhrNjI3Rkh6bFdrQnJJdG1FYUlybm9XR2EwXzNFY0Vxb2lCODlPOUh4Z1h5WUxOMjR2UlVlWHd5eDNYbi1Xa0hwUFU2dmxzZU9EQVdHZW1DVWRRZEV0ZTZTcVBUR0t0YTFycElXOTEtX3IxaEhTQ2VzdFltN25aNTRlNWs?oc=5",
-     "fecha": "2026-11-15T21:34:54Z",
-     "medio": "EL PAÍS"
-    },
-    {
      "titulo": "El Sindicato Agrícola de Constantí celebra la tradicional comida del socio con una amplia participación",
      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeXg3WWJQendQUnFGVUhoTXBLVi0wUWJOcEExSjhTZURkVGxsYS1DVWluTXpJRjdJcmpDTkxScGQtT21tMGFCNXFQbUNFRzdQY2IzOHJ3X1diWWtCSUx1THlZbEc3TXkzazNZN2VRbWdQbjJCNHdPZnRDSjdkWHA2QUpEMXo2UFV3VnRIbExkQm0tQUlvd3ZwaU4xSTBnOU5UZ1JIUEVTdktsMFdmcTRTSDQxVGhtbEd6REdpeldrYTRrNU1LYjczYS1YdnQtWHJPWEFPbnQxS1J6M3ItVDlR0gHkAUFVX3lxTE8xcXJjQ3Y2XzNsYVYxc29QWWN6SGtHcFhjVFkzeTZ5ckRyX0REdUl6X1NacFRoX28xUUdDOUZqY2RibUhCcERsb2xzTC1lRmExZkFDcW1FTHo0eWUyM19FX3FVMDdZVXdZTGU5bEZ4cWZucV9sN1RhN0RZR0tJRlVVVjJKU0pyQVY3QzJ4dFdGMUxVWHRfb3daLVMyQ1g1X09wdXJCc012N2xEemtoaG41UjVzUks3VWFRM2hzdlFlemdqRmV0QmJSbmE3TTRBUWRQWEtPWXFmUDJJMUZQRFpYSEJEYQ?oc=5",
      "fecha": "2026-11-08T08:00:00Z",
@@ -336,10 +330,22 @@
      "medio": "El Sol de Yakima"
     },
     {
+     "titulo": "Sindicato Salvador Alvarado interviene por adeudos a trabajadores agrícolas en la Costa de Hermosillo",
+     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLTI2X2tuZUdqcHc0VDR5azdRVkZlSEduSW9QWi1SNkdNdmNQXzEwajE4czRSdHFOZGxXbGY5MjJwcWRXZElzdE4tUlE4am40RzNTWjVzVmlNUVVJVlA2YU9kQTBNM192S0V6Und1TXo2eUx5MU5aTlRSTnY1V21HemxNY0pQdy02VGNUWGVrS3J1LU9PSFFCb1JwdFpmVkVjVzdkTGxLcjM2czV4YlpmS0xiTWxNMEFhbENWOTgxWGxyQlA0Q1JhQUFfcHExakJRc3c?oc=5",
+     "fecha": "2026-06-30T07:00:00Z",
+     "medio": "INFOSON"
+    },
+    {
      "titulo": "El sindicato agrícola UAGA-COAG dona dos corderos a la Casa Palestina Aragón por la Fiesta del Sacrificio",
      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOekp2OVlJMUJhbnpLNXhxTHJvYkpqUmNQYy1rOEY1TnVtVnJERmQzNmd2dGxreXFMeHh3STQxek5oZWRxTHdoSVh0cHRBTEJuMC1xWEY1bGo0RlJrWjFNRldZZUdmd0pJOG5QOGVXNnZQbHZHSVZYTDVVaTVDeDlrbzFfSm9ZTDR4ZzVsMEpMcTlPbnNDTlJtX21NNS1tZURZVmNNcHFaSy1DLVFfQ2NhTEZjQmkwQkZVdnl0TnFJY1RlX1RoMzg2cmllU1REU0tIdkZlRnViNklaanlNeUtaS3FkOUo2NjE2TGppdjRpWjVPSjjSAYcCQVVfeXFMT2N1d2FzaWU5akFrYk5wYXpQWHB1YXBDQ2NySzNxTDVZUHZGaFl0ekRydklqSWFIXzFGa28xb0MxdHdRTF9hNlVXYnVSU2hrZy1WTzRnM2RndUt4UDFHbUY1Rjh6eEczVHpsZ1pLVm5Za0U1WWlBT2IwQVZOVWpFV0lsdk1EUmZteHJEVmt4SS1CVllHWVFGMWNtS0tNVF9qWlNiVDlERm1JUWxtendnZ2x5eFJQTzJuVkpjUzRkMGpXUU5sNzVZMlZSYUhyZWN4TjI1RGlWanpjZWtuNEEzajN5dDNPZWdhbDZCVkFicFlUb05pZXhTNlBDSV9JbEFBWVZQc3JBTXM?oc=5",
      "fecha": "2026-05-27T07:00:00Z",
      "medio": "Cadena SER"
+    },
+    {
+     "titulo": "Sindicatos respaldan a Sheinbaum en defensa de soberanía",
+     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkNXTmpVb2RJd1lpczEzWGZjUnJhQ0h6ZG5yTmJabEs0dUZkOTdVVnQ0ekpCSEpYUmJjTmduMFFxbDBVUWdVRjNKNndPdlJIc2htWkQ1c0xtV3lVUTlFVkxIdXpTNkwzdi13ZDF6VWlMVHRRMElFZkNJTWxPVFlzSXdfVWVkT3pJUGpnT2NHRy0?oc=5",
+     "fecha": "2026-05-01T07:00:00Z",
+     "medio": "IMER Noticias"
     },
     {
      "titulo": "100 años del Sindicato Amarillo",
@@ -376,12 +382,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDdzUkd3Ul9FVURnS1NPb0pIU1lZdmJTa1ZfRlZiTnpBRmpQU2FROTlDUnQtQ1ZsVUZvbHdHa0FVa3FvTEtxcVdEZFh5bXljM1h5S1lsRk9JME8wMEY4OGM2VkctZnNqZWxSR3k0Wm9TLTZKV1B1Sm9XTlhGMTdrNkpMc2JUYm1VLU16V3JoT296VFMzUUFOaXN5aW5FR1RvOE01S3hmZWRRd1MxM1U1TEJ0VTB1NTN6ZXN2RlBOM09hNDhxQTFXNw?oc=5",
      "fecha": "2025-09-04T07:00:00Z",
      "medio": "BÚSQUEDA"
-    },
-    {
-     "titulo": "La Entrevista - El ICE “está prácticamente secuestrando” migrantes, denuncia sindicato agrícola de EE. UU.",
-     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSUdSMWlHSDFIN19oclYxbGRQZHQ2ek52LVR3MEVBRXBfVHRFdE9aYmxQX2tVRldMcEtna2hUVUFrLUJXNUJfQ3dfdjY3XzI5VE5WODF0SUF3S1Z5ZDRoTzZ6X2FKZ0JJZHU1SUFwcVFnZUtwN3prdnEwOVNMeVpvRDdSamVMMkhveTJzY1hndnNhUmc0bjVqSGhRTkpla0h4NVd6TDdpTFZuOElaNlA3Z3ZiVHc2Vl9rbHpEQ1JPMzFtaWk0XzdHWm9BZVcyTFZDbFpwN1BCWGNsWE56bVBHR3FzbVFNY1lvdFRnTFZ2cnlBaXM?oc=5",
-     "fecha": "2025-07-22T07:00:00Z",
-     "medio": "France 24"
     }
    ]
   },
@@ -392,7 +392,7 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T15:29:00Z",
+     "fecha": "2026-11-19T19:13:54Z",
      "medio": "El Mostrador"
     },
     {

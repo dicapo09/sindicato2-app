@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T17:35:23Z",
+ "actualizado": "2026-11-19T19:42:07Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -12,10 +12,10 @@
      "medio": "La Tercera"
     },
     {
-     "titulo": "De Chile al mundo: diez años de WorkCafé, el modelo que transformó las oficinas de Santander",
-     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVTIxNW54TzY5UnlDekN4VGpFVU5rQ3dIVE9vaVp5NEZuUTJJcWlYaTdPaldNRlF3OVk1WTZrX1NaWEtHU0JUdWtvc0xsYUMzWDNsanNwUkRVRHJiZEhtc1o1V2FaVnRoSWpITzMtX29nZ1lyb0hEMjc2UV9wS082S1RsNjRnOHVPX3VCa3pMN2M5YnBlb09xVVJRSUExR05tOWkzZDRIaDFSRy1UTGxGMUphNGVJZ1lzT0VoYUJLRU5PWHR2VzRGYVdOZTVrSldxREFGeGoxWGdrUVJWY1YzSDUydzlHbkhrdVFn0gHwAUFVX3lxTE81TEdfOVZXZjZfdmJpTDJwYTRVZHpWVnRjSmlMWFhKNVJjSWgzSzJ0X2tBSVA3N3VKZU8tTFZOT0Y3UExHZjQ4X1Q4WHROV21WSlZoN1BVMVVFVW0zVDB5azZZdV9EM2JtclY5Umo1dVZ3ejZQcWY2WDdDaFRaNFd3RWkwQkllYTNHbVVSdUlqaXlvWGNNQnY4NGRXSFRvNGNKbl9ibWNsQm4xQlBOaWJMZ0tyd05vd3NMSVZSV2IyQ25jQ25GcDRYbG9tWWZpVDhhaFpPWXE0b21MMTRiU2JkX25MU1hzdlUwanNGdmVKVQ?oc=5",
-     "fecha": "2026-11-18T11:08:36Z",
-     "medio": "Confidencial Digital"
+     "titulo": "El Santander lidera la venta de riesgo de crédito en Europa que la banca usa para subir el dividendo y hacer recompras",
+     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMU5Gem4ySks5a25nTlFldWVQR3RCWFZBSnY4SjNYYk1wMTVrdjg4WVdSeVppRTVuWHo5NElyYklBTDlCaUNCcWcxQXBVQ0FrNFhCQVhLZEpIZk9SbkRSaUxmZHFtVFVzdXIybmlmSHoyRk83ckVNMnlSaUVnWW1OSTkyNXZuZmR6elB6MG4wbjFLcVZreDNhU19RY2lYWkQzYzFocDFWZG9SbnprT2UyN3FZRWcxVWtpNkh1a3R3aTU4MGd3M0lnNVRkNlhZYnpCMjFUTFVoZG9ZUjRvNm05QzBoWVdVckFFclhmR2wzRWY4M09tOXpz0gGLAkFVX3lxTE9xV2pheTBJdFVVcUM1dFpQUlkzaW5fS2JhM3dUMHdtYkJKbmRRR2JDMTNlSEVMX0R6TTk5MDVPaXhMNjFhZGRPX2d3MHZWOWRWTkgyZVhiRnRoUFpNY3BwNzB6Y3VJaUg0ODlNZUNScDJmWXRmbnVvV1BqZTFkUEFvbmJzT01pV0NmdGZSbEF1dk1oYVo5NkZyb0pJelFuX1NaaFFVMVltejNmQmdWcU9VTVNtQzBta1BRMFp6dkVVR2RoU21KYnhsaDZUb0hGdHh4dTZZNWoxOUJ6SmU4SnJMOHlhS3NzVmR1dFRPeGs4anQ4OXEta1J6V3lFSmZTalRLak96bTlpNVk0dw?oc=5",
+     "fecha": "2026-11-18T04:30:01Z",
+     "medio": "Cinco Días"
     },
     {
      "titulo": "Banco de Chile, Bci y BancoEstado entran en la recta final por la compra de Transbank",
@@ -108,6 +108,12 @@
      "medio": "El Comentario"
     },
     {
+     "titulo": "Dólar BCV hoy, jueves 19 de noviembre: Tasa y tipo de cambio oficial en Venezuela",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdTI4WXR3RUcxbHVrbmxBNEstcGZjX084SlBiaG9XZ2M4MkMwX1dVbW9LZExSa3FSakN4aXlzWFZqR1JGNXBFSm1INXVENWNQckp5cmYyeTFMNDR4WEhNTFBYVXFkYmpXSFFBLTNZRmpsTElhVFloVmVOd3BNeFl6Nlp3NUlTYllJc0o1VnpleVYzWGFhUjNWM0p5bVIwTGZncjRaVEF3b25BeUhpWEloeC05WHBXV3BabXNsVU5mR2FiSHVMZXfSAdoBQVVfeXFMT2N5djF6amVZaU9Zbnd1azVKNmFrQ1hBaGFXUDVIbGthSDU1OUNCMzJlcjF4R2RzcGZIcml5WjJuNlV0MVQ4b2RwdUhuQkkwY0tQMWxXT1JMcm9HTEkyXzA2UzdCWWlmSjQ0UlZpZ2ZUeFZJTGYxNGY3SFUzaGxyeGk3dElOeVRtczhuM2VPazN1RmF5U0c1aVBHbWYzblZhdzFZQmFadDh3c0ZVSXRzSmR0NnMyV3pIVXNBNmJnUno3MzhXaEJPU1hQaHZsWnc5dV84Y0JnaXB1RGc?oc=5",
+     "fecha": "2026-11-19T11:00:01Z",
+     "medio": "El Comercio Perú"
+    },
+    {
      "titulo": "Precio del dólar hoy miércoles 18 de noviembre de 2026 en RD: compra a RD$60.01 y venta a RD$60.34",
      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0xwZkFzazBwUy1kWVNBYU1tRGVNSTNKck52Qk44TWd0dXJheXp5ckNpMHBKa0w2TUdDck9fX2ZUZ2wwaU1qaFdoRlNDNC0wSVpVTUp4OGF3SkpWZ0hMX2tTcWlqd19LUDA5QTFicTBvQXJCb3VjMlBoMWxuQ0tHR1JoRHdWSmU3WXFJYkhCZ0lhMGduWC1Mc0xwRWd4Y2M?oc=5",
      "fecha": "2026-11-18T21:09:37Z",
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUlpDWDN1QU1acjNEdWlneFpZTjREMURnVkp5amFPVjNWTGxvaW91UjJtWGQtNHhUT3NpTklRejdSWWNQOHR4ZklrV0hlZTR5dFVmbURNbEZKVkxlWUtkcENwN2FUNWdHODZxdHctZWc4dWNOYTRvS2o2Z0UxdGRMOWc5YXRWZHlJNlNybFRudFpGOVowLUpIMDlIc2ZpNUk5SlpTZzltQVk1d1dDWFN0b3o3a3ZJYlFM?oc=5",
      "fecha": "2026-11-16T20:53:40Z",
      "medio": "Investing.com México - Finanzas, Bolsa y Forex"
-    },
-    {
-     "titulo": "Banco Central mantuvo en 6% la tasa de política monetaria; descarta “presiones inflacionarias generalizadas”",
-     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWFKVWszY0FySDJNeFF4VDlsWFNyRXdVcllNYXctUVZXYTV4N2p5cnVCcHJCSmZCdlRsN05kSE8yTUlWRm5IeV95bkNfcFVDTzJaenJGdEhvMWFWTk1UcUJHN202cTA3YXdZc0RlTFlIak5yV1JMcEVlV2JUcEQzcnFHQ2k2eEZaS2F5YjhVNGVRTm96a001TjRiQ0llclpHQlQwV0YyTTZSc3hJRlhhdGUwMW5aRmxaeWh6WWp0OFNpVFR3UlNhZy1WUjRkNjg1enVBcE50MDFxbTJk?oc=5",
-     "fecha": "2026-11-16T20:50:00Z",
-     "medio": "BÚSQUEDA"
     }
    ]
   },
@@ -296,7 +296,7 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T15:29:00Z",
+     "fecha": "2026-11-19T19:13:54Z",
      "medio": "El Mostrador"
     },
     {
