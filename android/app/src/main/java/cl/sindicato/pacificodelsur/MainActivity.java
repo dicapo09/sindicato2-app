@@ -3,6 +3,7 @@ package cl.sindicato.pacificodelsur;
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.graphics.Insets;
 import android.net.Uri;
 import android.os.Build;
@@ -17,6 +18,8 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.window.OnBackInvokedDispatcher;
+
+import com.google.firebase.messaging.FirebaseMessaging;
 
 /** App del Sindicato N°2: muestra la app web incluida (assets/index.html), que se actualiza sola desde GitHub. */
 public class MainActivity extends Activity {
@@ -35,6 +38,7 @@ public class MainActivity extends Activity {
         s.setDomStorageEnabled(true);
         s.setMediaPlaybackRequiresUserGesture(true);
         web.addJavascriptInterface(new Puente(), "AndroidApp");
+        Avisos.crearCanal(this);
         web.setWebChromeClient(new WebChromeClient() {
             /** Permite a la directiva elegir fotos (JPG) desde la galería o la cámara del teléfono. */
             @Override
@@ -131,9 +135,41 @@ public class MainActivity extends Activity {
         web.saveState(out);
     }
 
+    /** Pide permiso para mostrar notificaciones (Android 13+), solo una vez y tras iniciar sesión. */
+    private void pedirPermisoAvisos() {
+        if (Build.VERSION.SDK_INT < 33) return;
+        if (checkSelfPermission(android.Manifest.permission.POST_NOTIFICATIONS) == PackageManager.PERMISSION_GRANTED) return;
+        if (getPreferences(MODE_PRIVATE).getBoolean("permiso_pedido", false)) return;
+        getPreferences(MODE_PRIVATE).edit().putBoolean("permiso_pedido", true).apply();
+        requestPermissions(new String[]{ android.Manifest.permission.POST_NOTIFICATIONS }, 8);
+    }
+
     /** Lo que la app web puede preguntar a Android. */
-    private static class Puente {
+    private class Puente {
         @JavascriptInterface public String canal() { return BuildConfig.CANAL; }
         @JavascriptInterface public String version() { return BuildConfig.VERSION_NAME; }
+
+        /** true si este APK puede recibir notificaciones push. */
+        @JavascriptInterface public boolean push() {
+            try { FirebaseMessaging.getInstance(); return true; } catch (Exception e) { return false; }
+        }
+
+        /** El socio activo se suscribe a los avisos de su sindicato (tema «sin2» o «s_<código>»). */
+        @JavascriptInterface public boolean suscribir(String tema) {
+            if (!temaValido(tema)) return false;
+            try {
+                FirebaseMessaging.getInstance().subscribeToTopic(tema);
+                runOnUiThread(MainActivity.this::pedirPermisoAvisos);
+                return true;
+            } catch (Exception e) { return false; }
+        }
+
+        /** Al cerrar sesión o cambiar de sindicato deja de recibir esos avisos. */
+        @JavascriptInterface public boolean desuscribir(String tema) {
+            if (!temaValido(tema)) return false;
+            try { FirebaseMessaging.getInstance().unsubscribeFromTopic(tema); return true; } catch (Exception e) { return false; }
+        }
+
+        private boolean temaValido(String t) { return t != null && t.matches("[a-zA-Z0-9_-]{2,60}"); }
     }
 }

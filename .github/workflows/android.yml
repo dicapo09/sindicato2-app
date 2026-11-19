@@ -17,6 +17,15 @@ jobs:
         with: { gradle-version: '8.13' }
       - name: Incluir la app (app.html) en el proyecto
         run: python3 tools/make_loader.py . ${{ inputs.version_code }} android/app/src/main/assets/index.html
+      - name: Configuración de Firebase para notificaciones push (secreto GOOGLE_SERVICES_JSON)
+        env:
+          GS: ${{ secrets.GOOGLE_SERVICES_JSON }}
+        run: |
+          if [ -n "$GS" ]; then
+            printf '%s' "$GS" > android/app/google-services.json
+          else
+            echo "::warning::Sin GOOGLE_SERVICES_JSON: el APK se compila sin notificaciones push."
+          fi
       - name: Llave de firma (secretos KEYSTORE_B64 y KEYSTORE_PASS del repositorio)
         env:
           KS: ${{ secrets.KEYSTORE_B64 }}
@@ -39,7 +48,7 @@ jobs:
           mkdir salida
           cp android/app/build/outputs/apk/directo/release/*.apk salida/
           cp android/app/build/outputs/bundle/playRelease/*.aab salida/
-          rm -f "$RUNNER_TEMP/firma.p12"
+          rm -f "$RUNNER_TEMP/firma.p12" android/app/google-services.json
           ls -la salida
       - uses: actions/upload-artifact@v4
         with:

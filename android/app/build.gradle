@@ -1,4 +1,9 @@
 plugins { id 'com.android.application' }
+// Notificaciones push: google-services.json (Firebase > Configuración > App Android) lo crea GitHub Actions
+// desde el secreto GOOGLE_SERVICES_JSON. Sin ese archivo la app compila igual, pero sin push.
+if (file('google-services.json').exists()) {
+    apply plugin: 'com.google.gms.google-services'
+}
 
 android {
     namespace 'cl.sindicato.pacificodelsur'
@@ -45,4 +50,9 @@ android {
         sourceCompatibility JavaVersion.VERSION_17
         targetCompatibility JavaVersion.VERSION_17
     }
+}
+
+dependencies {
+    implementation platform('com.google.firebase:firebase-bom:34.0.0')
+    implementation 'com.google.firebase:firebase-messaging'
 }
