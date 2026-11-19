@@ -1,0 +1,84 @@
+{
+ "actualizado": "2026-11-19T04:45:00Z",
+ "fuentes": [
+  {
+   "clave": "subpesca",
+   "nombre": "Sernapesca y Subpesca",
+   "items": []
+  },
+  {
+   "clave": "aqua",
+   "nombre": "Aqua",
+   "items": []
+  },
+  {
+   "clave": "salmonexpert",
+   "nombre": "Salmonexpert",
+   "items": []
+  },
+  {
+   "clave": "mundoacuicola",
+   "nombre": "Mundo Acuícola",
+   "items": []
+  },
+  {
+   "clave": "artesanal",
+   "nombre": "Pesca artesanal",
+   "items": []
+  },
+  {
+   "clave": "sur",
+   "nombre": "Pesca en el sur",
+   "items": []
+  },
+  {
+   "clave": "sindical",
+   "nombre": "Mundo sindical",
+   "items": []
+  }
+ ],
+ "redes": [
+  {
+   "red": "Sitio web",
+   "nombre": "Sernapesca",
+   "usuario": "sernapesca.cl",
+   "url": "https://www.sernapesca.cl",
+   "tema": "Servicio Nacional de Pesca"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Subpesca",
+   "usuario": "subpesca.cl",
+   "url": "https://www.subpesca.cl",
+   "tema": "Vedas y normativa"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "CONAPACH",
+   "usuario": "conapach.cl",
+   "url": "https://www.conapach.cl",
+   "tema": "Pescadores artesanales"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Directemar",
+   "usuario": "directemar.cl",
+   "url": "https://www.directemar.cl",
+   "tema": "Autoridad Marítima"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "SHOA",
+   "usuario": "shoa.cl",
+   "url": "https://www.shoa.cl",
+   "tema": "Mareas"
+  },
+  {
+   "red": "Instagram",
+   "nombre": "CUT Chile",
+   "usuario": "@cutchileoficial",
+   "url": "https://www.instagram.com/cutchileoficial/",
+   "tema": "Sindical"
+  }
+ ]
+}

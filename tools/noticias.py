@@ -1,4 +1,4 @@
-"""Genera noticias.json: titulares de portales mineros y de Minera Pacífico del Sur (Google Noticias).
+"""Genera noticias.json (rubro minería) y noticias_pesca.json (rubro pesca y acuicultura) con titulares de cada medio.
 Solo guarda titular, fuente, fecha y enlace: la noticia completa se lee en el sitio original."""
 import json, re, subprocess, html, datetime, urllib.parse
 import xml.etree.ElementTree as ET
@@ -50,26 +50,50 @@ REDES = [
     {'red': 'TikTok', 'nombre': 'Codelco', 'usuario': '@codelco', 'url': 'https://www.tiktok.com/@codelco', 'tema': 'Minería'},
     {'red': 'TikTok', 'nombre': 'Codelco División El Teniente', 'usuario': '@codelcoelteniente', 'url': 'https://www.tiktok.com/@codelcoelteniente', 'tema': 'Minería subterránea'},
 ]
-res = {'actualizado': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), 'fuentes': [], 'redes': REDES}
-try: prev = {f['clave']: f for f in json.load(open('noticias.json')).get('fuentes', [])}
-except Exception: prev = {}
-for clave, nombre, urls in FUENTES:
-    items = []
-    for u in urls:
-        try:
-            items = parse(get(u), nombre)
-            print(f'{clave}: {len(items)} desde {u[:70]}')
-            if items: break
-        except Exception as e:
-            print(f'{clave}: falla {u[:70]} -> {e}')
-    items.sort(key=lambda x: x['fecha'], reverse=True)
-    vistos, unicos = set(), []
-    for x in items:
-        k = re.sub(r'\W+', '', x['titulo'].lower())[:60]
-        if k not in vistos: vistos.add(k); unicos.append(x)
-    items = unicos
-    if not items and clave in prev: items = prev[clave]['items']
-    res['fuentes'].append({'clave': clave, 'nombre': nombre, 'items': items[:15]})
-json.dump(res, open('noticias.json', 'w'), ensure_ascii=False, indent=1)
-for f in res['fuentes']:
-    print('==', f['nombre'], len(f['items'])); [print('  ', x['fecha'][:10], x['medio'], '|', x['titulo'][:90]) for x in f['items'][:3]]
+# ===== Rubro pesca y acuicultura (salmoneros, pesqueros, artesanales, buzos) =====
+FUENTES_PESCA = [
+    ('subpesca', 'Sernapesca y Subpesca', [gnews('Sernapesca OR Subpesca OR "Subsecretaría de Pesca"')]),
+    ('aqua', 'Aqua', ['https://www.aqua.cl/feed/', gnews('site:aqua.cl')]),
+    ('salmonexpert', 'Salmonexpert', ['https://www.salmonexpert.cl/rss', gnews('site:salmonexpert.cl')]),
+    ('mundoacuicola', 'Mundo Acuícola', ['https://www.mundoacuicola.cl/new/feed/', gnews('site:mundoacuicola.cl')]),
+    ('artesanal', 'Pesca artesanal', [gnews('"pesca artesanal" OR "pescadores artesanales" OR caleta OR buzos mariscadores Chile')]),
+    ('sur', 'Pesca en el sur', [gnews('salmonicultura OR acuicultura OR pesca Aysén OR "Los Lagos" OR Chiloé OR Magallanes')]),
+    ('sindical', 'Mundo sindical', [gnews('sindicato salmonero OR "trabajadores del salmón" OR "sindicato pesquero" OR CONAPACH OR "Dirección del Trabajo" pesca')]),
+]
+# Sitios oficiales del rubro (se muestran en la pestaña Redes sociales)
+REDES_PESCA = [
+    {'red': 'Sitio web', 'nombre': 'Sernapesca', 'usuario': 'sernapesca.cl', 'url': 'https://www.sernapesca.cl', 'tema': 'Servicio Nacional de Pesca'},
+    {'red': 'Sitio web', 'nombre': 'Subpesca', 'usuario': 'subpesca.cl', 'url': 'https://www.subpesca.cl', 'tema': 'Vedas y normativa'},
+    {'red': 'Sitio web', 'nombre': 'CONAPACH', 'usuario': 'conapach.cl', 'url': 'https://www.conapach.cl', 'tema': 'Pescadores artesanales'},
+    {'red': 'Sitio web', 'nombre': 'Directemar', 'usuario': 'directemar.cl', 'url': 'https://www.directemar.cl', 'tema': 'Autoridad Marítima'},
+    {'red': 'Sitio web', 'nombre': 'SHOA', 'usuario': 'shoa.cl', 'url': 'https://www.shoa.cl', 'tema': 'Mareas'},
+    {'red': 'Instagram', 'nombre': 'CUT Chile', 'usuario': '@cutchileoficial', 'url': 'https://www.instagram.com/cutchileoficial/', 'tema': 'Sindical'},
+]
+
+def generar(fuentes, redes, archivo):
+    res = {'actualizado': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), 'fuentes': [], 'redes': redes}
+    try: prev = {f['clave']: f for f in json.load(open(archivo)).get('fuentes', [])}
+    except Exception: prev = {}
+    for clave, nombre, urls in fuentes:
+        items = []
+        for u in urls:
+            try:
+                items = parse(get(u), nombre)
+                print(f'{clave}: {len(items)} desde {u[:70]}')
+                if items: break
+            except Exception as e:
+                print(f'{clave}: falla {u[:70]} -> {e}')
+        items.sort(key=lambda x: x['fecha'], reverse=True)
+        vistos, unicos = set(), []
+        for x in items:
+            k = re.sub(r'\W+', '', x['titulo'].lower())[:60]
+            if k not in vistos: vistos.add(k); unicos.append(x)
+        items = unicos
+        if not items and clave in prev: items = prev[clave]['items']
+        res['fuentes'].append({'clave': clave, 'nombre': nombre, 'items': items[:15]})
+    json.dump(res, open(archivo, 'w'), ensure_ascii=False, indent=1)
+    for f in res['fuentes']:
+        print('==', f['nombre'], len(f['items'])); [print('  ', x['fecha'][:10], x['medio'], '|', x['titulo'][:90]) for x in f['items'][:3]]
+
+generar(FUENTES, REDES, 'noticias.json')
+generar(FUENTES_PESCA, REDES_PESCA, 'noticias_pesca.json')
