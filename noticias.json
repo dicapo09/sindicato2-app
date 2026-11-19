@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T03:31:08Z",
+ "actualizado": "2026-11-19T04:43:29Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -33,7 +33,7 @@
      "titulo": "Minera Pacífico del Sur inicia plan de cierre del relave Confluencia en Alto Mañihuales",
      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXhTSGVLNVVyVFQyWmdNTHZWS0c2QVFGTVY3NWxHUmtXNExfY3h3endqUk9BcG5qSWl0MlJmT2NKNm1oNFA3cWtLemY2Ykh0ZURjRTAyRkxUWEt2by13eVRCdms2Y2hwLXpLOHpqQkpxNlV0S2w0MWhyQnVpRGU4a0ZWUUlCTkFXUWF6R2N0dDhWc2xfUVlZMVlIWGY3NmVzS1hSdWdiNHRTckd1OURNdmp2ZkZFV1dqaURJVFd3?oc=5",
      "fecha": "2025-10-23T07:00:00Z",
-     "medio": "radio45sur.cl"
+     "medio": "Radio45Sur.cl"
     },
     {
      "titulo": "Contaminación en Alto Mañihuales: SMA anuncia formulación de cargos contra Minera Pacífico del Sur",
@@ -156,64 +156,94 @@
    "nombre": "Minería Chilena",
    "items": [
     {
-     "titulo": "COEVA de la Región de Antofagasta aprueba proyecto de Codelco",
-     "enlace": "https://www.mch.cl/coeva-de-la-region-de-antofagasta-aprueba-proyecto-de-codelco/",
-     "fecha": "2026-11-18T17:14:00Z",
-     "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "Teck: Las ofertas de empleo disponibles para técnicos y profesionales",
-     "enlace": "https://www.mch.cl/teck-las-ofertas-de-empleo-disponibles-para-tecnicos-y-profesionales-2/",
-     "fecha": "2026-11-18T13:58:00Z",
-     "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "Epiroc suministrará dos equipos de perforación al proyecto minero Vicuña",
-     "enlace": "https://www.mch.cl/epiroc-suministrara-dos-equipos-de-perforacion-al-proyecto-minero-vicuna/",
-     "fecha": "2026-11-18T13:00:00Z",
-     "medio": "Minería Chilena"
-    },
-    {
      "titulo": "Chile y Canadá impulsan agenda de colaboración en minerales críticos e inversiones",
-     "enlace": "https://www.mch.cl/chile-y-canada-impulsan-agenda-de-colaboracion-en-minerales-criticos-e-inversiones/",
-     "fecha": "2026-11-18T12:55:00Z",
-     "medio": "Minería Chilena"
+     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHR6bTUtYVYtWEhnc1E3Y1NqalB4emsta3pLTjJ0Wk5nd01vQzZlUl9aOG1PN3BrdDNvMHRFNHJMN3I3cEZDNDk3R05HOTNBTldUbkpoWkxXNmJUenNlbElXbE12d29HdFRnZHdhS3J3VjFPZ0hRODF3WExkN3hLRm9WRHRPM3oxOU1IclhIRE5sdVhsYlE3ZjlZODdCbDVfMWwyZQ?oc=5",
+     "fecha": "2026-11-18T19:23:25Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
      "titulo": "SQM aumenta 288% sus utilidades durante los primeros nueve meses de 2026",
-     "enlace": "https://www.mch.cl/sqm-aumenta-288-sus-utilidades-durante-los-primeros-nueve-meses-de-2026/",
-     "fecha": "2026-11-18T12:50:00Z",
-     "medio": "Minería Chilena"
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHFZLUpUYkxQZU1yMlU5bFo3WlBoMHYycXAyVEdyUzlJeEtPU2VPQVhDQWxkRlJfazJGNkxpc2VmNVBSQkQxMmZmdVd1LWNnWXpTaWlfWDQtaFFPcXJMbmJlbTkyaGpxVk9Fdkh6bWNLck0wZmZ3aVZfR3BaTmJ4Yk0yMjhYR0huSEVDVHhmSmdQS2pfOEE?oc=5",
+     "fecha": "2026-11-18T19:23:25Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Epiroc suministrará dos equipos de perforación al proyecto minero Vicuña",
+     "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFBHUkp4blRtbGZKdUFKWEVrOXNPM2pUVGthXzFhNlJWV2RJSFFfbjlzSFY4c0NQV3JnZkpXTHpoWC1ocVIxNkFYUmprQXhGLV9uVXliSU5oSTVPZHZCVU5PVDAyeWVfYW5lM1pGeU1QWjMzdXBvcHd5cUx4S1BaRU5LT1gybXJObGRFcWo2M3A3Q05tTWJr?oc=5",
+     "fecha": "2026-11-18T19:23:06Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
      "titulo": "Corte de Rancagua confirma la prisión preventiva de imputados por asociación delictiva y robo de cobre",
-     "enlace": "https://www.mch.cl/corte-de-rancagua-confirma-la-prision-preventiva-de-imputados-por-asociacion-delictiva-y-robo-de-cobre/",
-     "fecha": "2026-11-18T12:40:00Z",
-     "medio": "Minería Chilena"
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNUs2bVJxaWZ1SDBvUkRCaEJLeWg2WDhpdlN3VWI0aDlrWlkwTG5OYXlYVHRUUzZzXzM1NmItMlZsUDZ1Z3ZBbU5aQk9EVnRxRF9tbW9kVk1JaWl2WWU2d0pOUTR0elVGMEM3b2dkX2FtS3hxQ1p0em1IWWFXcndSQXJhVEIxRDRXQXRfekctblhBNGU4aTd2Ymg3RUxRbV8wLTJnNzA0LW5tVHRtNmgyWFl5UVRibzJtaXJ3VE9MNA?oc=5",
+     "fecha": "2026-11-18T19:13:06Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
-     "titulo": "Plataforma digital permite consultar información de 839 depósitos de relaves en Chile",
-     "enlace": "https://www.mch.cl/plataforma-digital-permite-consultar-informacion-de-839-depositos-de-relaves-en-chile/",
-     "fecha": "2026-11-18T12:31:00Z",
-     "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "Codelco Andina y Corfo impulsan vinculación con proveedores mineros de Valparaíso",
-     "enlace": "https://www.mch.cl/codelco-andina-y-corfo-impulsan-vinculacion-con-proveedores-mineros-de-valparaiso/",
-     "fecha": "2026-11-18T12:20:00Z",
-     "medio": "Minería Chilena"
+     "titulo": "COEVA de la Región de Antofagasta aprueba proyecto de Codelco",
+     "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmluMUxYTVRoTzZsR091ZkpkYUFQYVBvalAwV3hxTU1JcGpUVHFTR0hYZzNEWVp6VFhnelVPZ1lzeGNlZWhENjNyWG4xbUM0WURFS2Y4QS1sTXdNdE9QUGtVMUNpTnhOWm0tMXlXVGVTbWY0V2I0UkZHQkszWlFIeW5RY24yVThY?oc=5",
+     "fecha": "2026-11-18T17:23:02Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
      "titulo": "Enami recibe reconocimiento por sus avances en participación femenina",
-     "enlace": "https://www.mch.cl/enami-recibe-reconocimiento-por-sus-avances-en-participacion-femenina/",
-     "fecha": "2026-11-18T12:18:00Z",
-     "medio": "Minería Chilena"
+     "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOENJVW1aeWt5X0VuSVVScmRuUFhnSGh4eG5fUkY3YUd5b2RyRXQwV25oU0xyaHpDLS1yZ0lOZHNscERwUk41YzhnTXJiMTNORHVPcXBva0V1ZXJ6NWJEZXJVOUFXRUp3LUE5a2tHNVBPV2J3S1lyTnFkNUhfTmVlMDR2YjB2amhfNjlOR0k4VjhhTDQ?oc=5",
+     "fecha": "2026-11-18T15:39:00Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
      "titulo": "Kinross Chile transforma residuos históricos de La Coipa en acero verde",
-     "enlace": "https://www.mch.cl/kinross-chile-transforma-residuos-historicos-de-la-coipa-en-acero-verde/",
-     "fecha": "2026-11-18T12:15:00Z",
-     "medio": "Minería Chilena"
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXZzY21qbG5fTmFPbm96d3Z4a21HWTlrTzJZek1zSWhONFdEcnlXMWE0VlVSUHdnRF82dmdiVXdrN1M2QkFpa3hfX3lhMTU5dWx2NlpudmJFNndlb21UZWdDRWtEVEtCX09kV1ZJSHVwX3ZZRlhKVzkwQzd2LU5JZjdPUzQ4Y1F4bGFWMFVNRVd0U1RjQ3c?oc=5",
+     "fecha": "2026-11-18T14:13:51Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Teck: Las ofertas de empleo disponibles para técnicos y profesionales",
+     "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNzVkUkxZeU9HamJNWU9tVHRMb20xSkRhd28yRDlaN1BsczBBMGVhUjhJd3c1NTdVWkNESlBDNXBaVmFjMG9BN3V2SzVCeG9KQV9BWHB0VUVsT1NjVHk2SWpkcmp5Y0FjY0YxVGR2RWw0WXFuV3dld3ZYdTlDSHNoZ3FMZTJsNXlvbjhFMjU5NWZtSzdk?oc=5",
+     "fecha": "2026-11-18T14:03:51Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Codelco Andina y Corfo impulsan vinculación con proveedores mineros de Valparaíso",
+     "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnotbXQtQ0FhZXhwOU5ybkNwNmdmZXVjYWJpNmlUMk5DcHd5NFByMFR6ZTZscmN5a0tSTm1ERHlKeHdUZzl3UHMyaFgtVXhBQ2UwNWNMWWhmdG90YnVUeEdTdDRDN0h3cVkzSjNDT1ZlaTQ5aVJpUUM4M0t3b1g0UlNXZ1VXUjlMdHNjMV9oV0ZTT3lMRzF4VldFTTBVM1l3S0J3?oc=5",
+     "fecha": "2026-11-18T13:03:45Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Plataforma digital permite consultar información de 839 depósitos de relaves en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT0pnQVdvVjNRdnBXR3p5aDRsRlRXN1FPQzRHRVp2TzBWM1JVLUpEY0lDTGxjTTJHeXJJUEQ3T3h6dnlyeTlESmpmVzZTMXZHbU5SRDJqdkJoMGVLOFBYZC1NMVlMRXpENWdyblVtT2hDNVBoVVdTUUl2NHBMQVVGVHhIMURGanVYQk52dUo5dm53U3BTVnlvckVaQ2NEbXU1ZU9yYUlfUl8?oc=5",
+     "fecha": "2026-11-18T12:58:08Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Fundación Minera Escondida anuncia a su nueva directora ejecutiva",
+     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUZPbEFCLVBvRHAtRmFpbnVWN3V1N2U0elpYUFlKSjU3WHVXaUZRcV9hYWc0UTZaNVVPckRuOWh4eEo5a3BmczcxVFJzb1Q2SGpEMlo1ZmRWUmFIYUVGMC1rcW5YMnMxekdhNHNyV3RoSHNjd0wxeWgyQTl2ZnVHYVIyUFI3c042VVgwNDVR?oc=5",
+     "fecha": "2026-11-18T12:16:12Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Chile promueve oportunidades de inversión en minería, litio y energías renovables en China",
+     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTFpSjlnbGNWUVR3ZjFqQm05RU83RGxQNXpDUTlEeFlkQnVNSW5oZWxlWlpSaXVabE4zbEx5Y3BZS3JuUUlCX0tDQUk5dUYzMVBQTlhPUDhidU5BRDVhT1M1NG9fbXJMeHJoaWhuQ0Z3cVhYMExtOGNQZTYwWlQydDRUWnF0d2lFWWRjUm9lbUhoYkpHbWRWWkhIZGk5aEZXc1VpNTRoNXQ4SzIyMEE?oc=5",
+     "fecha": "2026-11-17T19:11:53Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Proyecto de expansión de Minera Centinela alcanza relevante hito",
+     "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHZHYjZMa2RWeGZJUXJRbE5sekp1NHA3UzlSUDJWR1N1OWhFbzVyQ3NQZEVDVTE4QzRMcThVMHgzaDRIUjJoeG14RElHLTRydEh2X2tia2paVjNMbGQ2MnlJeEE0bnQ3ejI4ZVhNbU9Db0FiLVVPZjRwTWZibTZoTXhuemxpM0xDVlNFZg?oc=5",
+     "fecha": "2026-11-17T16:30:09Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Empleo minero en Coquimbo crece 17% pese a caída de la actividad del sector",
+     "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORlAyTG1IZFhoNUlXUXFqOTJPN19nTUZZMnJPbUxISFJCN1QwdGYwMHVQYjBxY05ZOWw4WXc0Ujl1S0hDcGZPSFU3ZTlXdmMxUkNwMVI2ZG9KbzdodzFlUFNYUDIxZ3k2cUdkREo5Zm85eHNfWFBnYW5aX0tLdmtDRUR3NjdMTno1elc1VWVDRGJpSzd5NVNocDhn?oc=5",
+     "fecha": "2026-11-17T15:39:26Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Minera Las Cenizas expone a Sonami su experiencia en recuperación de antiguos tranques de relaves",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX1M5LTJ6YzNrTVBDb0JBdmpuTkdKZENkZ09KUE8ybDU1N28tZ3p0dmFfUXEtWk03bHE0dWlOXzdCclRQWmdWaDR1eUtlelFSalNseHhsZ01vNG1sejN0VjMyblNzV0hjVDQ3NklSVXEzSWw5eFBlRFdsTUVKTXpkcTV3TVA1NHB1Z1VpdU5UWDJIREpoenhyZ3ZwTzZwMzFWcmpyWExUR2RSZUYtcGtEU0Q1Z2pFai03?oc=5",
+     "fecha": "2026-11-17T14:34:35Z",
+     "medio": "Portal Minerí­a Chilena"
     }
    ]
   },
