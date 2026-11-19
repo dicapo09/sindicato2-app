@@ -1,9 +1,9 @@
 {
-  "app": 13,
-  "nombre": "1.9",
-  "appFile": "app.html",
-  "apk": 5,
-  "apkNombre": "1.8",
-  "apkUrl": "https://github.com/dicapo09/sindicato2-app/raw/main/apk/SindicatoN2.apk",
-  "notas": "Eliminar mi cuenta, botón Atrás (app nueva) y preparación para Google Play."
+ "app": 14,
+ "nombre": "2.0",
+ "appFile": "app.html",
+ "apk": 5,
+ "apkNombre": "1.8",
+ "apkUrl": "https://github.com/dicapo09/sindicato2-app/raw/main/apk/SindicatoN2.apk",
+ "notas": "Me gusta y comentarios en informativos, buscador de Biblioteca mejorado, módulos Legal y Previsional."
 }

@@ -44,6 +44,25 @@ service cloud.firestore {
         allow update, delete: if isAdmin();
       }
     }
+    // Me gusta y comentarios en informativos: cada socio activo con su propio nombre; borra el autor o la directiva
+    function miNombre() { return get(/databases/$(db)/documents/socios/$(request.auth.uid)).data.nombre; }
+    match /informativos/{pid}/likes/{uid} {
+      allow read: if isActive() || isAdmin();
+      allow create: if request.auth.uid == uid && request.resource.data.keys().hasOnly(['nombre','t'])
+        && (isAdmin() || (isActive() && request.resource.data.nombre == miNombre()));
+      allow delete: if (signedIn() && request.auth.uid == uid) || isAdmin();
+      allow update: if false;
+    }
+    match /informativos/{pid}/comentarios/{cid} {
+      allow read: if isActive() || isAdmin();
+      allow create: if signedIn() && request.resource.data.uid == request.auth.uid
+        && request.resource.data.keys().hasOnly(['uid','nombre','num','texto','t'])
+        && request.resource.data.texto is string && request.resource.data.texto.size() > 1 && request.resource.data.texto.size() <= 500
+        && exists(/databases/$(db)/documents/informativos/$(pid))
+        && (isAdmin() || (isActive() && request.resource.data.nombre == miNombre()));
+      allow delete: if isAdmin() || (signedIn() && resource.data.uid == request.auth.uid);
+      allow update: if false;
+    }
     match /encuestas/{pid}/votos/{uid} {
       allow read: if isActive() || isAdmin();
       allow create: if (isActive() || isAdmin()) && request.auth.uid == uid
