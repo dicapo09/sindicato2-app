@@ -2,8 +2,8 @@
  "app": 23,
  "nombre": "3.7",
  "appFile": "app.html",
- "apk": 10,
- "apkNombre": "2.1",
+ "apk": 11,
+ "apkNombre": "2.2",
  "apkUrl": "https://github.com/dicapo09/sindicato2-app/raw/main/apk/SindicatoN2.apk",
  "notas": "Socios de otros sindicatos pueden ingresar su código desde la pantalla de inicio de sesión."
 }
