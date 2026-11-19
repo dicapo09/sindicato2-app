@@ -7,6 +7,8 @@ on:
 jobs:
   compilar:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-java@v4
@@ -43,3 +45,13 @@ jobs:
         with:
           name: sindicato2-v${{ inputs.version_name }}
           path: salida/
+      - name: Dejar el APK sin firmar en la rama ci-apk (para firmarlo fuera de GitHub)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git checkout --orphan ci-apk
+          git rm -rq --cached .
+          cp salida/*.apk ci.apk
+          git add ci.apk
+          git commit -qm "APK sin firmar v${{ inputs.version_name }} (${{ inputs.version_code }})"
+          git push -f origin ci-apk
