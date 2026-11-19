@@ -183,7 +183,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
       <button class="btn" onclick="fbRecheck()">Revisar de nuevo</button>
       <button class="linkbtn" onclick="logout()">Cerrar sesión</button>
     </div>
-    <p class="legal"><span class="tNom">Sindicato N°2</span> · <span class="tEmp">Minera Pacífico del Sur SpA</span> · v<span class="appv"></span></p><button class="linkbtn mOnly hidden" onclick="tenSwitch()">⇄ Cambiar de sindicato</button>
+    <p class="legal"><span class="tNom">Sindicato N°2</span> · <span class="tEmp">Minera Pacífico del Sur SpA</span> · v<span class="appv"></span></p><button class="linkbtn" onclick="tenCode()" style="display:block;margin:10px auto 0;font-weight:700">⇄ ¿Eres de otro sindicato? Ingresa tu código</button>
   </div>
 </section>
 
@@ -318,7 +318,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 
 <script>
 (function(){'use strict';
-var APP_VER=21;var VERSION='3.5';
+var APP_VER=22;var VERSION='3.6';
 function reboot(){if(typeof window.__sin2Boot==='function')window.__sin2Boot();else location.reload()}
 var REPO_RAW='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/';
 function apkVer(){try{return +localStorage.getItem('sin2_apk_ver')||0}catch(_){return 0}}
@@ -753,6 +753,7 @@ window.tenGo=function(){var c=$('tCode').value.trim().toLowerCase().replace(/\s+
   if(!x){lmsg('tErr','No encontramos ese código. Pídelo a tu directiva.');return}if(x.activo===false){lmsg('tErr','Este sindicato no está habilitado por ahora.');return}
   setTen({id:c,nombre:x.nombre||c,titulo:x.titulo||x.nombre||c,empresa:x.empresa||'',sector:x.sector||'',color:x.color||'#23407a',color2:x.color2||x.color||'#3561ad',logo:x.logo||'',rubro:x.rubro||'mineria',puerto:x.puerto||''},true)})
  .catch(function(x){lmsg('tErr',x&&x.message==='timeout'?'Sin conexión a internet.':'No se pudo buscar el sindicato. Revisa tu conexión.')})};
+window.tenCode=function(){if(typeof fbUser!=='undefined'&&fbUser)return tenSwitch();try{localStorage.removeItem('sin2_tenant');localStorage.setItem('sin2_multi','1')}catch(_){}reboot()};
 window.tenSwitch=function(){if(!confirm('¿Cambiar de sindicato? Se cerrará tu sesión en este.'))return;var go2=function(){try{localStorage.removeItem('sin2_tenant');localStorage.setItem('sin2_multi','1')}catch(_){}reboot()};
  if(FB&&fbAuth)fbAuth.signOut().then(go2,go2);else go2()};
 /* contenido de la demo: fechas relativas a hoy */

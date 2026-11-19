@@ -1,9 +1,9 @@
 {
- "app": 21,
- "nombre": "3.5",
+ "app": 22,
+ "nombre": "3.6",
  "appFile": "app.html",
  "apk": 10,
  "apkNombre": "2.1",
  "apkUrl": "https://github.com/dicapo09/sindicato2-app/raw/main/apk/SindicatoN2.apk",
- "notas": "Al crear un sindicato, el campo Lugar cambia según el rubro y el puerto solo aparece en Pesca."
+ "notas": "Socios de otros sindicatos pueden ingresar su código desde la pantalla de inicio de sesión."
 }
