@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T04:52:09Z",
+ "actualizado": "2026-11-19T05:40:08Z",
  "fuentes": [
   {
    "clave": "turismo",
@@ -54,12 +54,6 @@
      "medio": "Mi Radio"
     },
     {
-     "titulo": "La temporada alta que se acerca también la viven las personas con discapacidad",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkZRUksxQlE0MWRYZElEclRCWEFxU0kxMGp2M2I5cWFubTJuRVFKVGNjd1JZdHZNRWkxLUlFS0dLVXhrUFQwSVA2c0ZGbXRlbzRsaG5Ybm5Ocl9Ob0tPVzVrel9Qbnp4RTVJOEQ2RmVkbnMtb3NGVFhNQXYyUFktMFF3dUYyVjNyZUhUR1RSS0U2eHVLRjVDTUFXMGd3VWN0cjBoUnpHZ2M1c05HNkplLVJn?oc=5",
-     "fecha": "2026-11-17T23:28:53Z",
-     "medio": "Entorno Turístico"
-    },
-    {
      "titulo": "Presentan plan para capacitar a 10 mil personas y mejorar atención turística en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdjU0R0VVbDFvQ0IzaVpRZzhISFdwZXp2elF5aVNfYUE2UzJ5MFBrZ0E0X19XUUlpeDJZWU1ETVFySFhCZEM4TWFwLUhmUGxQeXJScHNwN09xaFNRd25CNk96Ymp2bmsxWG1IazBuVWxfakNtbjl5dHUtY1lycFBlY0NxdndoQ0Nyd0djckI3eVNURFk3Mk9BbUpuSGU5aWxVVGxmYnQ4d1M1M09FcTJfMzA5SkY2ZV84T1NoZmFLWTFqX0U2LTBtNXRaWXhMNEJicnAzdTBBVFRVUQ?oc=5",
      "fecha": "2026-11-17T18:04:00Z",
@@ -94,6 +88,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BQWFGREJBTXVFRUtsSTFWWU4yWUhaMWs1ZTlJUGRaZHpDdnpuY0V0aUtTQ0w1c2pJQ0tubGhBMjU5eXg1VnhHSDdkZzBMZTE5NHc?oc=5",
      "fecha": "2026-11-12T20:02:21Z",
      "medio": "Instagram"
+    },
+    {
+     "titulo": "Turismo para Todos: inclusión y accesibilidad entre los ganadores de Más Valor Turístico de Sernatur",
+     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb1E3dUZMWDlPbUNrYklHYUhZVUw4NXhzVnFyVVJIN1NwbVhZYl9LVkpMWndjTVhKSEFOSVpORU5ONDRxWnY3TmxJdGFLbDh0V0RFYlp6enF2OUp0MnNPLVNzMjVldk55TUUyMlduY1NBeC1ucThXZjRCdV9vNVhueWszWDVQaTAxVkpSMjgxb3p6SHBnblI1dm96N3pITVg2SW5XOU9xMks0dkVsSXppNjFzSGVqWFFTRVJINERGRFR3Zw?oc=5",
+     "fecha": "2026-11-11T20:22:27Z",
+     "medio": "Servicio Nacional de Turismo - Sernatur"
     }
    ]
   },
@@ -111,7 +111,7 @@
      "titulo": "LICAN RAY CELEBRARÁ EL DÍA MUNDIAL DEL TURISMO CON UNA VARIADA AGENDA DE ACTIVIDADES COMUNITARIAS Y AL AIRE LIBRE",
      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT3RDSlZlbmg3T3MwWjdsNEFGajcxb29GU2lIcVY1WWU0MmxXNlIteWJyd3pzc09wMXJyYklJN21nYzF2VE5rNl9JeGN6d2p3RFlmcWtUSlg2MkY2REotMnlNdEc3RV9OTlhXbVdtUzJCSHp3a0NES2w0cmJRMWZ0RjJNd2xfNEsxZ3llaWV3dFBLcXVOdlZyMTU4MERCdXFENlgzN2p3Ui1XYmJIOVZLbmNoenpIYXVtTUYxV18xLV9RcGVVSUU0c2xUUWtUem5uZVpVMzBIQVp5ekE1QXN6Y0Z2VERzOVBnYWNpblQ0cw?oc=5",
      "fecha": "2026-09-25T07:00:00Z",
-     "medio": "araucanianoticias.cl"
+     "medio": "Araucanía Noticias Temuco"
     },
     {
      "titulo": "APRUEBAN HISTÓRICO PRESUPUESTO DE 1.630 MILLONES PARA POTENCIAR LA ECONOMÍA Y EL TURISMO EN VILLARRICA",
@@ -366,12 +366,6 @@
      "medio": "CNN Chile"
     },
     {
-     "titulo": "Avance de la automatización en Chile: cambios y desafíos por la Ley de 40 Horas y las exigencias del e-commerce",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVnNLcHJvSkxYOEVVdFQta05zOGxGcV9CZmRTMExJbTNkZ2d5Z3Rfa0Uwemp4YW9Xa2U2ZlFFVDlvNDhkeXlJNVpnYzhObmdCcHktZVZQYmYyN1l2cFh6QWFfV1BuQVBSZFZmTXZvZktwcTUtTklBWjJucnVxT3NLUWMxaG9tVThyUE52a0JkdE8zSGkybFJXVjJqZmx4S1ZZLV8ycTZLSDJwcm9hX0VfbG5qa0g0aEJpMzBhTHpVaHBlUjFPU2JPNDdwYlU5Ym40Mkw0?oc=5",
-     "fecha": "2026-11-15T15:05:12Z",
-     "medio": "El Maule Informa"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
      "fecha": "2026-11-10T15:13:28Z",
@@ -423,6 +417,12 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
+     "fecha": "2025-01-15T17:20:30Z",
      "medio": "Dirección del Trabajo"
     }
    ]

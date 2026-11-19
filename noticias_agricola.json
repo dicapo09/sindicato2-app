@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T04:52:11Z",
+ "actualizado": "2026-11-19T05:40:10Z",
  "fuentes": [
   {
    "clave": "agro",
@@ -294,6 +294,12 @@
    "nombre": "Mundo sindical",
    "items": [
     {
+     "titulo": "Dolores Huerta, la histórica líder campesina, recibirá homenajes póstumos en la tierra de su lucha sindical",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ2ZBV25jcTFvdzRzdTJQa1pQUVJiX0M5MFFnVnJHZ2dOdlp3MEpJaGtWUkRvS1NoMkFtRUFQM3BNUV9EQVpNdGtXLUY3VmF2TDVjVEJYVDc0eTU0blhlSjM5NHBKRy1vbVF5MWd1WVB4ckJOalVRRFFPaUdnUndubXBRYzBDRnZ1OENmYnVqMmI1enczTmZvVDJpZmZuRHFjeEhRcS1LSTVjV0prZ2JQZU5HZm9nSXFac1VXSl9WajJ3aHFKemcxbjc5c09LUHFESUFGYlVUaXJCNlXSAe8BQVVfeXFMTnBRVGRBVXVtZUw1SHNRSEtUNFlSWk1SYmUtazQ5VGdqZ3BrV2Z4SldtX3BVbnB5Skd2RFJvY05Tdk5VTms1emo0VnRjUmRhYUU2ZVhLRmt4ZVhpTmp0WVB2UXBrdDNUaTBOc1lBNC15NjV5MDhrNjI3Rkh6bFdrQnJJdG1FYUlybm9XR2EwXzNFY0Vxb2lCODlPOUh4Z1h5WUxOMjR2UlVlWHd5eDNYbi1Xa0hwUFU2dmxzZU9EQVdHZW1DVWRRZEV0ZTZTcVBUR0t0YTFycElXOTEtX3IxaEhTQ2VzdFltN25aNTRlNWs?oc=5",
+     "fecha": "2026-11-15T21:34:54Z",
+     "medio": "EL PAÍS"
+    },
+    {
      "titulo": "El Sindicato Agrícola de Constantí celebra la tradicional comida del socio con una amplia participación",
      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeXg3WWJQendQUnFGVUhoTXBLVi0wUWJOcEExSjhTZURkVGxsYS1DVWluTXpJRjdJcmpDTkxScGQtT21tMGFCNXFQbUNFRzdQY2IzOHJ3X1diWWtCSUx1THlZbEc3TXkzazNZN2VRbWdQbjJCNHdPZnRDSjdkWHA2QUpEMXo2UFV3VnRIbExkQm0tQUlvd3ZwaU4xSTBnOU5UZ1JIUEVTdktsMFdmcTRTSDQxVGhtbEd6REdpeldrYTRrNU1LYjczYS1YdnQtWHJPWEFPbnQxS1J6M3ItVDlR0gHkAUFVX3lxTE8xcXJjQ3Y2XzNsYVYxc29QWWN6SGtHcFhjVFkzeTZ5ckRyX0REdUl6X1NacFRoX28xUUdDOUZqY2RibUhCcERsb2xzTC1lRmExZkFDcW1FTHo0eWUyM19FX3FVMDdZVXdZTGU5bEZ4cWZucV9sN1RhN0RZR0tJRlVVVjJKU0pyQVY3QzJ4dFdGMUxVWHRfb3daLVMyQ1g1X09wdXJCc012N2xEemtoaG41UjVzUks3VWFRM2hzdlFlemdqRmV0QmJSbmE3TTRBUWRQWEtPWXFmUDJJMUZQRFpYSEJEYQ?oc=5",
      "fecha": "2026-11-08T08:00:00Z",
@@ -360,12 +366,6 @@
      "medio": "Los Angeles Times"
     },
     {
-     "titulo": "Sindicato de Trabajadores Agrícolas se retira de homenajes a César Chávez tras acusaciones de abuso",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPanV4SERjMDlqU3EzTlU3OXBCMmVMM1dyWXBoWkxLLVYzMUhpeUVFM0Ric0NDSE9Cb1g3RC0tV0JOZFdCMW9yamZTT0FUX3FNb180RXh3eHNwZ2M2WWlpelYwQ3V6SnU2ZFJfakVyVDdPa1VpNzRnLUlrWS0yRHdOSXNncUhaTGxrbWpJTVpSM0xDX2MzeFRjRkk5a0xEYUpOUmZtOGlHbmdBdHJiRk44TzNvSUFicklZdjZLUVlDMDVFSEViRGk5QkxVOWRuQ2htYkkxWlE1dlpSM0FpZDNFbUhodXM?oc=5",
-     "fecha": "2026-03-18T07:00:00Z",
-     "medio": "El Sol de México"
-    },
-    {
      "titulo": "UFW reconoce acusaciones de abuso “profundamente preocupantes” contra su histórico fundador César Chávez",
      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUERnNzZOOGtJdTlxMlNIUWh1M2pUQXNLSDlmY0xpZTQ2RFVjb0tZSWk0VUtvMlQtWngtWXBlbjVJYmYzOGFrUndRM0d1MW9oQ3V3aWxoZ0NIY3NEV3FYX050QnlzVTNfNEp5bUlINWJIVWlPTVVJbFlXUmZ3SUl3MGtUOGpBU2cwZXgwazh5VzBOYUx6NkgwWHJUNFl6SnNJZXozaWtJVDgtcy0yYzBaZ1duWnlMZ1RBeFMyN3JHZGhTTlBwVnc4U2NSWmV5bWExUGlWbzBFZ9IB6wFBVV95cUxOdGZKLVBPeFpxRlBTZ0tJbkZnMWhhTnRBSnA4UTBaN2szRVFLZlc1Rm1pNVhRb1ZzTTdBdUJnV05vUTRjVEdxSE9KQUtGOFBXd2YycVhkOThVd2ppMmxvR0x3Vzk3SXU4bmRiQXZQRjRUcTk5Q2ZSZzZ2TFh0clpGZHFhZkFVbmF5SFlfSjFhMmUxUFF1ZVBjY3RnQ2dUdHhCdHRkLXUxNlJYRmw5bU1zdF9NeExRd2hlZk90LURrQkYwMDMtb2FnaktUZENiNmRTLUFBQnRnV3k1UG0tZFpXa2l0VTVTVlJQOXBv?oc=5",
      "fecha": "2026-03-17T07:00:00Z",
@@ -420,12 +420,6 @@
      "medio": "CNN Chile"
     },
     {
-     "titulo": "Avance de la automatización en Chile: cambios y desafíos por la Ley de 40 Horas y las exigencias del e-commerce",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVnNLcHJvSkxYOEVVdFQta05zOGxGcV9CZmRTMExJbTNkZ2d5Z3Rfa0Uwemp4YW9Xa2U2ZlFFVDlvNDhkeXlJNVpnYzhObmdCcHktZVZQYmYyN1l2cFh6QWFfV1BuQVBSZFZmTXZvZktwcTUtTklBWjJucnVxT3NLUWMxaG9tVThyUE52a0JkdE8zSGkybFJXVjJqZmx4S1ZZLV8ycTZLSDJwcm9hX0VfbG5qa0g0aEJpMzBhTHpVaHBlUjFPU2JPNDdwYlU5Ym40Mkw0?oc=5",
-     "fecha": "2026-11-15T15:05:12Z",
-     "medio": "El Maule Informa"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
      "fecha": "2026-11-10T15:13:28Z",
@@ -477,6 +471,12 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
+     "fecha": "2025-01-15T17:20:30Z",
      "medio": "Dirección del Trabajo"
     }
    ]
