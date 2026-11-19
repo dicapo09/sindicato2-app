@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T15:36:03Z",
+ "actualizado": "2026-11-19T17:35:19Z",
  "fuentes": [
   {
    "clave": "retail",
@@ -66,6 +66,12 @@
      "medio": "La Tercera"
     },
     {
+     "titulo": "Ripley eleva sus ganancias trimestrales apoyada en la banca y Perú, pese al retroceso del retail chileno",
+     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVRadTl6Y01PeGJ2OS1WZ1R2b1VSaUpNaHgxaHFuRHRQblpqZThoOVRad1lRTnZUM2JhY2lOOVRYNVp2VHl5UkF3TXV6STl1TE5ESkktTTMtM2JxX2UyamZHLUpLTlNzSDdFWXJTREhrd1huRmRvWU1mSzNQdDFwOHBsVmZmNUxtdU1WSGNpUlF4U2h5T2dWU0VyZHhIZHlsa1hvLWhvY1l2WTduSGV6VWZuV0RrMXFpd1JreEVieDhJdw?oc=5",
+     "fecha": "2026-11-17T20:27:00Z",
+     "medio": "Diario Financiero"
+    },
+    {
      "titulo": "Don Salva alcanza 15 tiendas en Chile y prepara más aperturas: ¿qué viene para la cadena?",
      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdG90ekEySG5NMHNiZENiUHA4bVRod2xFeEttZ1YxdWZQcHFsMTRuZVZtcHpENmFrNDRCcFVnb1FYandLc3pQLWI1ZDI2RlVia0N4emNPZ05sV21XT20wMjVyeWc3NDRRd3BrLVFnc3A0WkQ0bVV4cGQzM1ZxT04waVVHdjV5UEtrd2l0S0tPdjQ5aENieVVEeTBLVDlTeG1yLU52cFdCNkZyanhzSEd6TVdRVDI?oc=5",
      "fecha": "2026-11-17T19:59:33Z",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmVkbzBEOW1rT1FYdDZFcG1mcGVhMXhYc1RXc21CYmZpUDVHREJxRnJ2eGNVMGthN2FCOVhwNTM3SnJyeXZjbUpqS0dsRFFscC1BTzNjdTdLZG5WNXBIUG45SzVzUlNITGdVMXBRUFhlUFV3VWVGRUNndnR3VGxnWU10Sm5kZ01qaUltOFcwNkM3ajR2Znc?oc=5",
      "fecha": "2026-11-13T15:59:18Z",
      "medio": "Supermercado Al Día"
-    },
-    {
-     "titulo": "Walmart Chile nombra a Felipe Nicoletti como nuevo Gerente de Ecommerce y Growth",
-     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWhUNEljaVpWMjJfRV80UVN2VmM4RGg1WGFNeWl3d2pQRDRRTDFYUno4d3J1X0I1V2xpb29lRFRaLXJwUmFZOTV1V3I1Skhiek5hN3dCWk9WWjBFQ1dmaDZlOU45eDVRZUxqRC1uQ0JVQ3ZZNkFpakVaZ2RiWUY5andKZHhJVm5lbGRUZlJXWHh1RUtRU3lUVDN5S19VNkRQbmNkLW9OQTNqZ2dMQkE?oc=5",
-     "fecha": "2026-10-27T07:00:00Z",
-     "medio": "Walmart Chile"
     }
    ]
   },
@@ -246,6 +246,12 @@
      "medio": "EL PAÍS"
     },
     {
+     "titulo": "Este viernes 1 de mayo es feriado irrenunciable: estos son los únicos comercios que pueden abrir",
+     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzdVbjdsOW9CZW00cGhjR1J6bzduMnR1aklrb1RoRm1OR3F4ejRJeWNCQ2tweGpWQ3Q3a2diQl9IaWc5QUVkM0NoR1VsMjNxQzFXbjJMNU5kU1l5bm81ckxTWVkzTXZrMHFrYW9ZaDhtTUx4UV9UYTAwQXdPbVlySzAyUl9NOGI0V1JwdDJ6MWNsUXhWbW5nSzFXQkZMQnhoc01YM2Ytcm85ekFsUlFuTw?oc=5",
+     "fecha": "2026-04-29T07:00:00Z",
+     "medio": "Canal 13"
+    },
+    {
      "titulo": "Feriados Chile 2026: ¿Cuándo toca el próximo irrenunciable?",
      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd3lIdXFGU3owMmFEU3ZycXVITjdMQ0o3a19ybEdxd0lnTWNvN3JHNGtwMHNWanFmNEt2WWRMd2JyZXh3ZlJZLWZCYkFfN3NycUpPSV9fSHdkRnlSRkFoU3A5TThKOU8zTmRlQ05TWWg3c01WOWtES3djdDFCNUhWMTZlSWFNN2llVWx4WGRhUk0zeDBYbGfSAZsBQVVfeXFMTmNqSVZTcXN1Z2NjaFlBMW43d2Zmd3BaZG1mQUcyYk5VRVM1YWFpSldLdlhOM1c4M2hiZDR2RjExMGxtZE80c0VDMDYzREEwQ1JTckxBR01jNTQ2R1RsTWdfYzF1WkdyQndvamV0UUJIeXpmNloyOVBuY0tTbVdRa3E0al8tN0ZLOWVxN2pPSF9VVW1BRFp6WGZFeDg?oc=5",
      "fecha": "2026-04-08T14:58:25Z",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWXg4UnBhQ0N5ZEJOemNiYmVSRllaRFZZSGwwTFlMWGYwWEg4cmowOG1JYnVzdVh2YXZuTUNNUjZmNmliWTBsYldPRnp1YlZkV0E5T0dhQjRmTk5PQ3p0N2tpN1ROTmp5X1VBbExwSHRQQkFibGpCNExRanoyYVgtRVFiOWI4ZlFnc0dKTWtjUjBnb2podmhaSXNpUWhYR29uY3RNc2owUFptcXR4M1A2TF85NEJleDRmOUNOVHMzTER5SlMtbkZmc0xYX2JGX296M2VrSE5xM1UtMlpFWWQ2MHhoTzBOMDczR2tGR19xNE85Nm1Xdzd6bE1HR2TSAZACQVVfeXFMTXM0bkU3WkJ4VThydzhKaEYyTDltNnc0ajZGamY1LVZNaDJtVlZFYXM0N3dZVHlLWWhkLUtvZDl1OS1oemFsX1JWYUw5X0N5WE9uazJEbHBzTnY4MThMRnpBMGhibGJtVXVjWHRIT1I0WTMzZ09BeGhCT2RLaUkyRFJoZjVNbUZlek00Q3FRcWwwbUt3N0RMQ0w0bFFEbklZLUJ2WE5GYnNaeFhvZU5yMnpSeEtRejdiUVdhT29xZ1dtZXd5ek1TOWRkQjJ6d2czak9VVXprZVhlSzUybUpTWXlQeno5djdnVEMxT1dDQ09LUjFKR0RpbU9US0tkN2k2aDNkQm9vN2w0T0xPdnVuRHM?oc=5",
      "fecha": "2025-11-14T08:00:00Z",
      "medio": "AS Chile"
-    },
-    {
-     "titulo": "Fiestas Patrias 2025: cuánto debo cobrar si trabajo un feriado irrenunciable",
-     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOXVpUkFBTENtanZtVWU0NkVBbm9IRmh2RVEySm9LMG1id2RCejI0S3VCclNLVElGOS1GTm1SV3pQdWg1V3NwSU9qT09NZHllc2NzVjAtOVFfMHYtdHVwTUFjSEdzc24yblVianpQdVJtOWg4Rkw1dlJKZEl6VzNsaDlVbWtQWEp1OXVRQ2didUg1YWlTOTQtY2t1cXA1NVd6RHRBZDZZZ080N0tsMFJnalhmZmE2blRHTk5yR1FYWnFYQnRJc2c?oc=5",
-     "fecha": "2025-09-19T07:00:00Z",
-     "medio": "El Mostrador"
     }
    ]
   },
@@ -392,7 +392,7 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T15:25:32Z",
+     "fecha": "2026-11-19T15:29:00Z",
      "medio": "El Mostrador"
     },
     {

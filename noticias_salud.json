@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T15:36:10Z",
+ "actualizado": "2026-11-19T17:35:25Z",
  "fuentes": [
   {
    "clave": "salud",
@@ -60,6 +60,12 @@
      "medio": "Ministerio de Salud de Chile"
     },
     {
+     "titulo": "ISP confirma detección de mosquito Aedes Aegypti en aeropuerto de Santiago y autoridades de salud mantienen medidas de vigilancia",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXk3ZmN0RkdlWXNEWEZoT3c2RlJSeFNkNUJHNEcxV1F2UkJZc3oxaW5xQldoNUhlb3dYV2JETEcxS1JqODMxeHVJZEV0XzZvWGxGVVBzUk1mYWFjOFRud1ZMRFVMME9tNFdHQjBjZTlGd29QUkVQSzZzY2RoTjF0U3VET3l1Um5tcWNka1ZsY0NhZUVEYUlWYTZEbWhkUXNsVkJqOFp5blpHSVNMWUY2V2lfWVJBQkRNUmN2TDhBTW01WXBobDl1M2xn?oc=5",
+     "fecha": "2026-01-29T08:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    },
+    {
      "titulo": "Más de 11 millones de chilenos han salido de listas de espera No GES desde 2022, con tiempos de espera en sus niveles más bajos desde 2016",
      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUlFaVXZndHRqX01BYnNZZ1lmYjJnWmVUS25XODlEMWwzMEkyQUFpM1QwVTVISmdfcUdUS25vOVJvRGhucFJtNEhnYklYS3V1YjRDZ1ExSG5HM2g0QmZCUGVBeWVFOEp6TzJDZFpFSDNaR3RSblNITDZjYVJObjUxZEtKYktCdlJGVXlSbmM3c2Z2b0FOR1lKMkJrX1hhUDdMM05VeUFjcHo0b01yX1ZpOWtJS3hSVmM0bHRRS09QUzJkWXJoaXRJSHhFTVUtcEF1RzNQWFVVZVVMMUtqdlJUZzQ3bVJaeXlTUzlzV08zLTkxQQ?oc=5",
      "fecha": "2026-01-14T08:00:00Z",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjRTd1ZzTVEtQjQwOE1YYlRibzJNTnNZYm12VmxRdThWZm93TWtKTVFhUlFaX2I1MmRXZy1rM0I1SEUxREo4aDJCY1hNd3l3TnJxYmRvejlFX1FKOUFYWnJhWkcwbkZJTnFFUnNQdURBSW45TklMakFkRS15LXJTYmk0Z2tOZVV5LVAyMVhnMHNPQnRTeV9wRkZWMThmOVl4TTJCZk5jaTFzVVhjN3FUMExxY3M?oc=5",
      "fecha": "2025-10-06T07:00:00Z",
      "medio": "Ministerio de Salud de Chile"
-    },
-    {
-     "titulo": "Artículo: Salud A La Vanguardia: Inteligencia Artificial Para Mejorar La Gestión En La Salud Pública",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT21DcU52Mll1UXB5Vk1uZWliSVhPRW94Z0g2aTJnbGRPeU9SLWNkNXdYVzVFMGlQcUx4ekNDWjlFR1Roc1RUMHpac0kxZDJ6a3NLRjVzWkZzRzlRWXBPR2g2X2kxbVAwR0k5WlFSTE1yRUJQdTEtZ2UtRzFITHNHeG0zYXFhZU5qcU9QUm9hc0RSWWJkcXNQZXdJbUh6bFJXY3VxZlpMWDM2TnQtakhaaGdidFpNTzBQZEU1dUN2WGVvdmhnaU5EQQ?oc=5",
-     "fecha": "2025-10-01T07:00:00Z",
-     "medio": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación"
     }
    ]
   },
@@ -101,6 +101,24 @@
    "clave": "gremios",
    "nombre": "Gremios de salud y públicos",
    "items": [
+    {
+     "titulo": "ANEF Antofagasta participa en convocatoria multisectorial contra los recortes presupuestarios y en defensa de los servicios públicos",
+     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORHlXQ0xEN1pJWEJHOHBTMnFkU0N5dlJzZHdwWEJ2YkZRY2hRZEd2bWNhd0k5TUYtb0IxdWtXNUlQVTBDLTlQLTBNbElVZFhCdTg1QTBUa2hMZGVMVjZkaW95ZUdMWUNwSmhOY19USERVR0hfai1YQk5ZLVNwQnkyTDZES2Q2Y1BhcW9KcmVmRzlFM3ZQeDlsWlAwQ0RDNy1OcVNETUk5QXZwVEJBQmtHZTBwam1NOE5pRVBSWlNGdFpkR0tCTVlxSjBkRVpKazBMYnFWVzFCaGJCekJsbV9JeE5zUQ?oc=5",
+     "fecha": "2026-11-19T16:20:42Z",
+     "medio": "anef chile"
+    },
+    {
+     "titulo": "ANEF Ñuble exige condiciones dignas para funcionarios de Vialidad y rechaza amenazas de discriminación política",
+     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2poaDNXQU12WDZNOVlRRlRzUmdGWDFEQkV5QXEyWWNNOUViOEpyOHFoMUFvY2xzZHoxM1lvSGVWSXJidFlGQXB1RTg0dl94VWVTMWJXeHFFMHZaWXlndmp2Q3d4Uk5nR0N2MWFUcTA5cXBXTDllTjRVc29HR1BCZ3JGMXhKVXlLS21xem8tM0NzUmlESEc3T3BNWDktcFN1WmxlSU1pWllrRnZqZFlheVhNNzNnTTUyZU0xU05hbjE3VjFJLW00?oc=5",
+     "fecha": "2026-11-19T16:20:23Z",
+     "medio": "anef chile"
+    },
+    {
+     "titulo": "ANEF Arica y Parinacota se moviliza junto a la CUT en marcha contra el recorte presupuestario",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHhOaEVxWmRDamZERE01d3BQVEpieFZ1X0F5NWU1OEltaFBPc0YyXzVRUFgzVlVBQzJ6emo4XzJsMDlVMml2SUQ1WC0wcV9mTm9Gb3k3SFRrTFFWMHpoTGNpSTBOTkhkZDRCM3FpUjlYVmdQRnFGRU1XMGZKVTRwN1lhdkdnM2hNRzZRTzlFNklrOTc0d0hLUGN2LW93OHlpX0VRY01FZndBRVIxcTRB?oc=5",
+     "fecha": "2026-11-19T16:17:10Z",
+     "medio": "anef chile"
+    },
     {
      "titulo": "ANEF Tarapacá realiza jornada de capacitación y sensibilización sobre la violencia contra las mujeres",
      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVhmbDZRZXVxWU5Ga0pFeTFMSVA5eVlWTmFtYTRya3E4clFSRDlXcU5GcTcwak5MbEVmSmMxU2tsMmRaTXg0Uk5QUzBPOEgwbGRPWTdVdTlwMnVZVm9WX2Rwb0IxazFIcGtMc1ktbFdqQjhCZVN6ZFFxUmRpT0pLZllXUmcyV3pXS3JSRHFrR0czTnQxZk9CdHNleTJ3RXZiVkw5REJIZzBzLUhKdlJobnBpdVNkSEJYdlE?oc=5",
@@ -172,24 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMjM3TzVYczFUTG1BMDVJRnJrNHAyQTdGREtnTVJZMEFJUlNBWmZVN2FnV3ozZkx4aTNEcnpCVXp0ZDF3a1hRSC1CTzVweUl4QkExOF9aUm5jTlRMdVdqSzVaRDFYQm45dkgwUm56X01Gb0s1R0JMTmNXT1N1TGxFWHpoVkt5SmVTVE84aURxMXdtcHVCZGtsZmdHMnZLWGE1X0FGRHdiX19rQWZEV2pZb29sNU1vM3FLcnhETTBvUFNtWFNyeG1vLXpjamx3cDVGc0ladVBVT3FBV29fM2Q3eXNzUno0NWItTTFZUGpzWHNKek1iR0FkLUZaLS13QnRqRjU1cXRpcw?oc=5",
      "fecha": "2026-11-16T16:26:24Z",
      "medio": "Radio Contacto 90.7 FM"
-    },
-    {
-     "titulo": "ANEF Magallanes participó en marcha en defensa de la educación pública y los derechos sociales",
-     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWjR5bVBzMjUtb1VKckFLMWZpdmtya090MkljTnBkNmZtb21zczNOdGQ3WGJ3bUY0VzRnZW9hN3RHWF9uLWVkbmZBNWRDYWtBWjR1SHVGc2hRbFdKbzV0SUpqSnQ2cHNzdkNnY1NqUG5DRW54X0MtZEVleUFxajJUcGZUWTBlVFFyenRfT1VrT21lbEFfZk1GdXdDLTRFdWdnRnVPYVFIN01ZdDVKQWgtSw?oc=5",
-     "fecha": "2026-11-16T15:19:22Z",
-     "medio": "anef chile"
-    },
-    {
-     "titulo": "ANEF Biobío lleva las demandas de las y los trabajadores del Estado al Congreso Nacional",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDVuTGpBSmdSZDN4anp1bnl5WFg5dTl5c2lUNTFmSDVwd1NmU0dpRzdPaDNJWkRSVzFDRFM1MWhTN0ZIQTZ5bE1aSEhnSURFYmlDejJPRHlnamRQVjJuN0VYY0VNWHNBV0ExMS02d1BMY0RrY29zTHdtZldJckdwTl95Z1ZjUWQ4akx6WjJsUmcyVXF5UG9nVXBQalJxbk1ySHRuR3cxWDM?oc=5",
-     "fecha": "2026-11-13T17:41:52Z",
-     "medio": "anef chile"
-    },
-    {
-     "titulo": "Presupuesto 2027: Confusam lamenta aprobación del per cápita de APS en la Cámara y afirma que defenderá aumento en el Senado",
-     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSi1rSGo2NzJVaDlPc0FjSGlWNDNmdDgzRE1BT01NSE83TGlLSEdrS3FxRDVhSzMzRXFHSFktRXhaeDRmZ0NYTTVwZHhqQUl2dF9pLXl2MHkyeFg1bklzMWdHUml1MDgtaGZGTjNuelpxSFJMb3NUQUltLVNiQW1DTk5kOGhQVFd1THItTGxReVQtcjNfc1liM3lBWFpycGZtbU1rZ2hJWld1eEZBUGZyTURycFUtNU5fN3BxVWFMeWg5ZUswcEJWSnVUQ0pHLUVmaDI4Y05nVkVnaTZXSnpDckFDcjlLRDZOMGNrS2RfNTgtRlpGQy1wOXF4VdIBnAJBVV95cUxOTVJidUhua2xwX05TQXNvLWVHOVFyR0VselppeEhNOFMtZUI1UTdUZlVuaEdyMHRUYnpDeWRfQW9NNllYTzlJbGNkQWpBY3Z3WmxLNk80SHMyNTRmQUxpUnZYNlUzNE0wZzAxVS03T3pPdUVLNDZhTWd3ZTZDWGdhZ2dnczN3WFQwWS00dEpncGJpUVkyOXNLQUhhVzA5UFk3UUhZdFFnaVdhMjdDcEtxX3VWQTRFbEpjaERYZmhtMENkNVZxSWpINFE4RERETWZXTkFHWmdzRkhUVXY0dE9xMWEwemRpRHBGcnBwbEJ6SzFnYW9iVFN6clBrUUJRbzhGUFJUR3dqZUtDT3RHdjRZczNsTjhCTXA1dUxvcQ?oc=5",
-     "fecha": "2026-11-13T11:37:33Z",
-     "medio": "La Tercera"
     }
    ]
   },
@@ -198,10 +198,16 @@
    "nombre": "Sector público",
    "items": [
     {
+     "titulo": "Funcionarios públicos protestan en Puerto Montt: alertan por despidos y recortes presupuestarios",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUWdfRXFSS3dCUXpVcFRuWjRHbC1QSjNDNGkxNnV1ZEtRX3cyaUdMdGUyckFONEl4UG5sck5EQlYyNEpnalJ2VmxjbkNvdTF3dVNKaDlSZzl3ZEY4c1d6WlFZdUg2MHRzX3VmanhfYzFhN0tqQkxUZWJSazJpdG1iQmhRMDNma2ktYmJNaGdHelFuZERjTlNoR1docHR1NUE4VzEzRF9UWFNNM2hfcGJFemF5TURUc1NkM1VJYzlzcjZmZzY2elUzSVhnZjJJRk1lSzJsRktRQmFyb0FYUnFXeFdEb19CYVAwak82ZW5B?oc=5",
+     "fecha": "2026-11-19T16:11:00Z",
+     "medio": "Diario De Puerto Montt"
+    },
+    {
      "titulo": "Fiscalía, Contraloría y Consejo de Defensa del Estado realizaron taller de probidad para funcionarios públicos",
-     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRWlLaEEwQW1SSEplYVF0d3dYUXRXak5GZ1ZnRnl2MXQwVXhaejJsLUNoN0pSeXQ2Nl9oNWczN0t4VnRNWHFMbVRaZ2JsSlhHTVVnWnQxekRuMWpScDUtTWJIUW1HTHU5ekF6X2t1Z05nNDhsLVZ5VDZvb0NzdDN6aXRMWi1LYVA1ZkxOeGVVbXl0LXhkdS02QndsQUJRVVRKWU0xQXdSa3NIRTdEbGptLTFHYmF3TWxNbXJzcENNTER4OWdUaC12VFJOX1ozTnVkOU1hT1ozcmZPTU0?oc=5",
-     "fecha": "2026-11-19T12:46:46Z",
-     "medio": "G5noticias"
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWY0QWR6NDhPUjdMbWlZUHZIa1BGQXEyXzdnaUVEX3ZyNWZZQ1JsTjVJeHkwenN4MGVReC1sTmJBcHNudVdRZnBOaE9kMzZHNUhKQTMxZVgyNHVmbFJMbkdZRzduTDZnMXVJQS1rX0FMS1FxMzI0NURwWmRjTm14bTJGNXlJYUgwa2xOd3RnZE5YSFBDZGR5d3BQMUtJb0ZfRlU2VEhuYjcyNnVSWHpqVnZIdUdjM05XQ2ladndHMzlSUms?oc=5",
+     "fecha": "2026-11-19T14:10:07Z",
+     "medio": "Fiscalía de Chile"
     },
     {
      "titulo": "El proyecto de ley de presupuestos del Principado incluye 1,4 millones en ayudas por compensaciones de siniestralidad laboral",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTjZaZFJrcHNuLV9TNERCY0w5XzFlSXdlR1FtbjZjOUNwc2JOS201SXloaTVvSUJjdEIzWHJJZkZHVzRKWjBrUXVLVWNiTS05cDJDVkpPajRyMGw3UWQyMm80X3dCLU9lVTBHbXoyYUVTY3RJSk9BWEptdUtCVGtZTVpWazRETTVlZGhQdWJCak1FZEJMYnZwNHNaTHZsV1ptaDZKTXpiX2JHekFoNnlPV3U4M0hFVkpzQmNmMnQwSFh6QTdrcTFxTnZtOUlrX2N4c2hiVW5xNmpGbHl1VWJXbmNmRENFMkVm?oc=5",
      "fecha": "2026-11-18T12:05:56Z",
      "medio": "Diario El Ranco"
-    },
-    {
-     "titulo": "Contraloría detecta 315 funcionarios públicos con condenas vigentes trabajando en el Estado",
-     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQmZpbjNLdkRxSHdGeUtJNGt4S21aNGJIdm1LRHlvbzJSWUp1RHRBV0dtYU9MNEl0ajdnYjVFa0FKRVdZWkcxWE9fWjlxWmk4UXdGcXRtUEpsMGVqUTNjckM4bVhNVnU2QzZUbzVLNDJjVXpSVS1kNzhRWGFLV2oxWnIyU2hFbFZOYmFSYUJUMVZzZ01ic01mNW01aEp2aXdIeHpNWEJXYmNHcldKdnQ5bG5vYXlDTDd4aExoSEp2aEJXYTVH?oc=5",
-     "fecha": "2026-11-18T11:43:56Z",
-     "medio": "La Región Hoy"
     }
    ]
   },

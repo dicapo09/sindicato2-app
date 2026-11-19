@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T15:36:08Z",
+ "actualizado": "2026-11-19T17:35:23Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -102,6 +102,12 @@
    "nombre": "CMF y Banco Central",
    "items": [
     {
+     "titulo": "Junta del Banco de México se divide por el impacto en el peso de recorte a tasa de interés",
+     "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YekJQZkVYdlhPbkxOM3VWV2tnMHljNFgxYVJVakxoU2xybzRKQnNYTUFzSWZiXy12OUcwY1Z2NGdOcWIyM0dVLUVBM3BNdmc?oc=5",
+     "fecha": "2026-11-19T16:59:31Z",
+     "medio": "El Comentario"
+    },
+    {
      "titulo": "Precio del dólar hoy miércoles 18 de noviembre de 2026 en RD: compra a RD$60.01 y venta a RD$60.34",
      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0xwZkFzazBwUy1kWVNBYU1tRGVNSTNKck52Qk44TWd0dXJheXp5ckNpMHBKa0w2TUdDck9fX2ZUZ2wwaU1qaFdoRlNDNC0wSVpVTUp4OGF3SkpWZ0hMX2tTcWlqd19LUDA5QTFicTBvQXJCb3VjMlBoMWxuQ0tHR1JoRHdWSmU3WXFJYkhCZ0lhMGduWC1Mc0xwRWd4Y2M?oc=5",
      "fecha": "2026-11-18T21:09:37Z",
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWFKVWszY0FySDJNeFF4VDlsWFNyRXdVcllNYXctUVZXYTV4N2p5cnVCcHJCSmZCdlRsN05kSE8yTUlWRm5IeV95bkNfcFVDTzJaenJGdEhvMWFWTk1UcUJHN202cTA3YXdZc0RlTFlIak5yV1JMcEVlV2JUcEQzcnFHQ2k2eEZaS2F5YjhVNGVRTm96a001TjRiQ0llclpHQlQwV0YyTTZSc3hJRlhhdGUwMW5aRmxaeWh6WWp0OFNpVFR3UlNhZy1WUjRkNjg1enVBcE50MDFxbTJk?oc=5",
      "fecha": "2026-11-16T20:50:00Z",
      "medio": "BÚSQUEDA"
-    },
-    {
-     "titulo": "El Banco Central del Uruguay mantuvo la tasa en 6% y frenó nuevas subas pese a la presión inflacionaria",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX0NlSG9UOEcxd1BLbUhVUmIzTUZTZXhEb2pPVW5FNXVVbWlUeGlLOHpfMi11M01SMWpHb1FHNGZadkRMbUdZTFA5U0hLZl9Xd0FoNVFaemM0VnJIRjBmNlpPY1RQTFFpRTJIaXhob3NuM3BoaTltaUdCcWlSRWVLNEo4Z0ptb2NRam1YTlM3Z2N4TzdtazNtNjhoaEU4eXRUOEtucnREQmlCbHlZQTFIR0tJdUxXck52eE5INU1leUpVQS0zTjhGRtIBzgFBVV95cUxNalVlcXh4bElEeTUwV3lGaldhdlU5cDEwNkgxSlVaa3hndEpqU3ZOS29SZzNfaUVsS0kyM1UyQlN6LXZSU1JOUnJvZ3dGV1c4Vkt0MGxVLWxManNoWUJZSzVUYVktZ2dpbDdBNTVKTkhGQnNBaWIyY3JhYktxVThaMEU0UEoyNFc4MEE3TmlTNlhXSk9VUVFrWDY1eWJlMlh4ZmRLRDcwdnFsbklCOXphS0NtRmpkM1hDckQ5RkVMYnNNR0xFSlFfNWdPeVI1Zw?oc=5",
-     "fecha": "2026-11-16T20:06:00Z",
-     "medio": "Ambito"
     }
    ]
   },
@@ -252,6 +252,12 @@
      "medio": "Capital-Riesgo.es"
     },
     {
+     "titulo": "Paro bancario: el gremio anunció una huelga en el BCRA para el lunes 27 de abril que podría afectar a los demás bancos",
+     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmktX2xYY1ZMMXBSNFV1VDNEdkFPN3psa1hPa1dtWVloZDhUeDJFODVqNWJzUHhoRGpKY20teG1UUURkcnhMX25QbldXZExqM3NGZjd4ME12clZSOE1jeDFLRVlXeEE0UHFmSU9oZlFURHQtcnVvdW9SMGNBOC1UUjdBOG5Kb05ER0I3amIwRkFSTDBfSlZlN3lJcHZPSlNFaWdGaTRFa2NPLUhpYUtFOW8xS3dSTjF3eVNMdG1n?oc=5",
+     "fecha": "2026-04-23T07:00:00Z",
+     "medio": "Clarin.com"
+    },
+    {
      "titulo": "Grifols duplicará su línea de crédito ‘revolving’ hasta los 2.000 millones de dólares con el respaldo de un sindicato bancario",
      "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObktmLUxJSmpNZnBWMXFNQU9QRWdCRlpPT1E4SXFicEdtSFVuNnZXdFdNSVp5YWVrTmtidFpkc01OTlp4cG92TjdlY3VVNk9WMGE2WnA2WDhhVnBpcEpjRThkdUg3ZGpzVUdzRXNvR0R4amxMbjBDZnpYS1NibkgwQ2E1X0cwYkE4c2E0dzg4d2dJY0cyVHNxR2VLZGRNeDZEeGtHU2kxbnBwbEREeS1Gc3ZBUE0telExbVNmaG1PaU9ONGhJMXNhZEpIdVJSYzNkZVhVMjRrN0trZUVsUmFjNnhOS0E0YXRRTzd4SnFvcVV6S0dNQV9Kb3FXRHVnam1GRU90LUpPUTY2d9IBngJBVV95cUxOYUFVc1JHTVUzOElxTm9RWGZ5NFpKM3JoNFI2VmpfY2hEVFVLMWowLTJ6bXVqY2p5ZHJsX2Z6cEk0ZlhwVVhESTUzYTZnVGtkRDJQcHBEaTNjOEE1dWIxbmtNRlI1THBLQ3hTWUo4REdtZ0MxcFdJRzUzT0lvQVk0WUdBX3FkYnJJeTQxQVVuQmhxaWRIekRCcHU5ZVJrY2tIVmtEUzNRcVhRR25leTNfUDRJM2NxUkVWS2k5QTdibDFmdmNVbUxYTk5fblJCWEpXSnVrOUhpTFg0NXZUT3h6UGpMSTZDU1dXYnNLbjZkWXBsdFppUHBzZWg0azFRT0V5WmQ0eGpSdlNTeHhhT0dTbjlHM2dHcElHSmNwVmt3?oc=5",
      "fecha": "2026-03-16T07:00:00Z",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHNLeXNOektFbHRieTd6QVU3SktmbUtIN2lvNU82QjluYjdrQktjdDVrQkhVdVlqakVUNkIybDRWVmJKbDdqU3RDeUlPcXM3YjB5RnBmcVpxV2U1VjZwU3BsLXJ2bDV3NzBNYzVxVkpVemhhUjI5UU1nNlJ5M3Y3a1M0dVIxQ3o1dVBzYVRqQ3ZnbG9CenRRdGZ0d2R2dXU5NW9fMjR5b2VkaF9qekVoc1NfSmp2c0FpVVNjeUJYMExqOG9iOThGT0FIN3o2c2tBbzYtT2RjMA?oc=5",
      "fecha": "2025-10-31T07:00:00Z",
      "medio": "Errepar"
-    },
-    {
-     "titulo": "UNI Americas el Sindicato de Trabajadores Bancarios de São Paulo denuncian despidos masivos en Itaú Brasil",
-     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNzZ3X1NtZm5GVFUxWVQ3SnVyWi1tT3FNSS1TcURBVFNTSlIxNVlPMTVDN0x0MXc5cExxZXJVU3lSeEIxeGhZblpZbExwVVJHeWZkYm1QYm5COVBvQTh3ZnByT2tTUXJvd051MUdoeUltTFVZUTNWdmpLY0RoMFNyaks3d2szRm56WHFrdnhXQS1YWkx5ZW9CcXVoNHA1WnEtWV9PZTBsc0duUmRCN3M5ci13Q0tKcFFlb3ZoY2hTM0Vod1E?oc=5",
-     "fecha": "2025-09-10T07:00:00Z",
-     "medio": "UNI Global Union"
     }
    ]
   },
@@ -296,7 +296,7 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T15:25:32Z",
+     "fecha": "2026-11-19T15:29:00Z",
      "medio": "El Mostrador"
     },
     {

@@ -1,21 +1,33 @@
 {
- "actualizado": "2026-11-19T15:36:13Z",
+ "actualizado": "2026-11-19T17:35:29Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
     {
-     "titulo": "INDAP destina más de $2.182 millones a proyectos de riego en la araucanía para fortalecer la agricultura familiar",
-     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUXcxeS1FSVFwZkJIcUNDc29fQ3doT2FtajVtcXR5cDVrVkJwR3UwaVNtRVpEYlJJMXRrNGlzaFVfNWs2YlhJbjBJT3pGUGQzTnEzQkNvYnVtcThEYzVoMUNCdTlYUl9HRE5ZUGlMQ3lkUThNaTBBdk91MTd5NGNPb0FSbl9SQlZWdlV1YTJucXVkMXk1Q29WRE5TV3JOdGNqaFdmTEVoYjBqNVkxOXQ2Q01MbUMwcHhqUjMtQzV5VEJQTkFnVWtLZ3o1R0NLZ0dVdy1Ld2Z4NGF2OXI3Z2E2dk5IRFZCbFlKdTdF?oc=5",
-     "fecha": "2026-11-19T14:18:40Z",
-     "medio": "Portal Agro Chile"
+     "titulo": "IA, cooperativismo e intercambio global marcan agenda agrícola de Chile en 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckhEckVlbEV0U0p1MERYSzVwTVJxZHFwRWp3cFM3SUV1dW9WdnN3eWM5Y0VFZEJUemVjVTdRRXoxRlpIaUw2QVp4SHZRaDJEZHZteHFSYnBLVE14eHdpMXg0akJud2hYNlVLdjBnS21PYU1HZUtkUEZJdFRWMlozcHAtOGlRMXVCWFpjYThIUEZaSVBrS2l0QVJ0V0pYdnVtWm1DaEVXVlFjVjZaWmFBZ1o0ZC1Fdw?oc=5",
+     "fecha": "2026-11-19T16:35:00Z",
+     "medio": "reporteagricola.cl"
+    },
+    {
+     "titulo": "INDAP entregó incentivos de emergencia a 102 agricultores de Pelluhue y Chanco",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ21GOXZuNHl1WUJ4MVk1Uy1UTEtHd3Z1cmpJZDVtWE5Wb2RBQmdDUWlKaFE1cmhMR3kzaFJXN1hXOG5MT05YemJPdW9DeEpoMWhVUEpCRGdnOGJvQm9TWHZEeXR2YWREaW9rcW5yajg2dnQwcDgzTzhTZFdsV0xEdmV2d2Vzc2ZteC1FQzlyU1RhX2RfOXI2LWExU3U1eDBvU0dXZzdiMGd4d2loanJV?oc=5",
+     "fecha": "2026-11-19T14:12:39Z",
+     "medio": "MauleHoy"
     },
     {
      "titulo": "Frutas de Chile refuerza estrategia de promoción en Brasil para potenciar el posicionamiento y consumo",
      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaUVUVUJNSWRiRWxqV1BPcV9iYU5IMnNBeEw3cGNRR3RTaEJRcTAycnloQ2hOSVhTUTFuNDJpdnBBUUdPV2xsa0hnNER4cHRCQ1IwNWhlemE0eVAzMHFBbUIxbE9COVlvZVdMSndVUkVzZjNmR0pVMlhyZzV1V0lBOVRTb2xKU1F4ZGRVTFRYcmRHd1gwQWd2NDZVcG9lTHcwZGk1WGh5cm8wdFBoRVlMVjkyeXhicGluclJhekpyWWtrbTdBOFAyd0VjUDRDSWRuekZjeDhlaU4tTG9rd0E?oc=5",
      "fecha": "2026-11-19T12:46:38Z",
      "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "INDAP DESTINA MÁS DE $2.182 MILLONES A PROYECTOS DE RIEGO EN LA ARAUCANÍA PARA FORTALECER LA AGRICULTURA FAMILIAR",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ0ktV05BR3QtNkd5QkZtaEFOVVhKSnZLV2JtLTAyVlhVSkJXR0t1SzY2SlR2eTNyMmFNS3o3V0ZfRml4eWhKUFZwOUZJRUlyMUZ4QVpyUEFlMk5nLVpKdXlvN0IzY1hJWUZ6WExUM25WWld3V0NQMFhiRFBDcjQtTWdNQUFFWVZCVXV3ejNiY3Zwc09FQVNXMWE3OERGRzVTeGVaRXpadE5pUVUwY1FhbHNvWlBzQlp5MndJbmNCdFdLc3FkVUUtMkhPMWxfSktGbTNuVWZibUJkQ0hjbm91SHhOYXBWc0R2WGFWYjNn?oc=5",
+     "fecha": "2026-11-19T12:34:58Z",
+     "medio": "Araucanía Noticias Temuco"
     },
     {
      "titulo": "Ipsos Chile: “Somos uno de los países que está más preocupado por el desempleo en el mundo”",
@@ -82,18 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVMzS1BDWVZuSXh2ZTR6dHlHSmJhS1czMElORDlvVElnRFdtVGtzRW5HTmw0TnQ0X1gwb01BQWx6NXZoT0wxVG92UFBTcENneHVINmNnNFV0QzVfeGpXblhiMk96aG5jLTk1TFBJdmJyMUtuZUY0Sk9Pb0E5R2RiZkVycTVid1JiMzNxSXVEUnVGSTJwUTU5Q3d5MDJORDFWNmV4cFZhblppMXRmWGF6SGdOOFZhN0ZnQ3RzTGxQRl9zdw?oc=5",
      "fecha": "2026-11-18T14:47:51Z",
      "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Impulsan la agricultura regenerativa en fruticultura de O'Higgins",
-     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3VnTHl5dWFXV3M1WWg2TzAtZUVFWFktNUtacU5fUkdkWnBYYWpMWWFxVmNYYU9jLUYtc3Bqb0VEUnk1RV9CVXNOWnlvV1dLU0J0VXN0M2ZmaU5rbU1HYXk0RVFXd001UlUzb3VwZmtSUVd6cTNWRXVFTFVWME1aZlR0NWpJMXd5M1ZEZnNsa3ZoeFJEQjJZaXBHbHUwZw?oc=5",
-     "fecha": "2026-11-18T14:04:59Z",
-     "medio": "El Tipógrafo"
-    },
-    {
-     "titulo": "Un alivio para los productores de maíz en Chile: lanzan incentivos de hasta $2 millones",
-     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXpSTW5taWJSaWZHQjNGc19vOEhUdnZ4UzctdjJ6NkhUQTFaamNDMWg3QmdPUklfTlRsYVhMak9RQ2VPQUh0NEIyVUg1NWxYaFVfN2tUTG1CREJPV3BCNHgyb0xnU0ZTcHpValQ3WF9rM2dZX1BpU1U2WEJWb0xqTjFiUlRXdGpoLUVBTjRES3dDQjBTMnE5cTh3ckk0cE9VaDQ1SUx4ME50NkJCUktIM1M4N1c3ZjFPQnBIZmpMVlhfck1fUEdZYzM0ZXk0aE9qRWc?oc=5",
-     "fecha": "2026-11-18T12:14:19Z",
-     "medio": "AgroLatam"
     }
    ]
   },
@@ -102,10 +102,16 @@
    "nombre": "Agro en La Araucanía",
    "items": [
     {
-     "titulo": "INDAP destina más de $2.182 millones a proyectos de riego en la araucanía para fortalecer la agricultura familiar",
-     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUXcxeS1FSVFwZkJIcUNDc29fQ3doT2FtajVtcXR5cDVrVkJwR3UwaVNtRVpEYlJJMXRrNGlzaFVfNWs2YlhJbjBJT3pGUGQzTnEzQkNvYnVtcThEYzVoMUNCdTlYUl9HRE5ZUGlMQ3lkUThNaTBBdk91MTd5NGNPb0FSbl9SQlZWdlV1YTJucXVkMXk1Q29WRE5TV3JOdGNqaFdmTEVoYjBqNVkxOXQ2Q01MbUMwcHhqUjMtQzV5VEJQTkFnVWtLZ3o1R0NLZ0dVdy1Ld2Z4NGF2OXI3Z2E2dk5IRFZCbFlKdTdF?oc=5",
-     "fecha": "2026-11-19T14:18:40Z",
-     "medio": "Portal Agro Chile"
+     "titulo": "ExpoSofo 2026 comenzó en Temuco con cerca de 1.200 agricultores y proyecta recibir 30 mil visitantes",
+     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRUZWYUJuLTFtZUI1YXhnMHlwTFlJOXMzTUdFd3A4alNDOTE3eVdIVVRLSjhJTWZPVFVvMGhUbWlhT1hHWk02RllqR25xRXBUS1p5MVRITlhJMDRGN3BzamhWbUhXWl9vT0ltY2llb0JaZXlTRU9DRUZNSVcyVkVhcE1tZjBkOUI2djhCeUQyNnBEU3ZBMXJJWFF3dE1IX0ZaQTZmTnl4ZllCNWRqMHQxU1pZRlZnbWRwOFp2bGJVakZPMTVu?oc=5",
+     "fecha": "2026-11-19T15:56:23Z",
+     "medio": "Novena Digital"
+    },
+    {
+     "titulo": "INDAP DESTINA MÁS DE $2.182 MILLONES A PROYECTOS DE RIEGO EN LA ARAUCANÍA PARA FORTALECER LA AGRICULTURA FAMILIAR",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ0ktV05BR3QtNkd5QkZtaEFOVVhKSnZLV2JtLTAyVlhVSkJXR0t1SzY2SlR2eTNyMmFNS3o3V0ZfRml4eWhKUFZwOUZJRUlyMUZ4QVpyUEFlMk5nLVpKdXlvN0IzY1hJWUZ6WExUM25WWld3V0NQMFhiRFBDcjQtTWdNQUFFWVZCVXV3ejNiY3Zwc09FQVNXMWE3OERGRzVTeGVaRXpadE5pUVUwY1FhbHNvWlBzQlp5MndJbmNCdFdLc3FkVUUtMkhPMWxfSktGbTNuVWZibUJkQ0hjbm91SHhOYXBWc0R2WGFWYjNn?oc=5",
+     "fecha": "2026-11-19T12:34:58Z",
+     "medio": "Araucanía Noticias Temuco"
     },
     {
      "titulo": "VINOS, CERVEZAS Y LICORES CON IDENTIDAD LOCAL LLEGAN A EXPOMUNDORURAL DE INDAP EN EXPOSOFO",
@@ -132,7 +138,7 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Gran feria campesina EXPOSOFO 2026 reunirá a la pequeña y gran agricultura chilena en La Araucanía",
+     "titulo": "Feria EXPOSOFO 2026 reunirá en La Araucanía a productores agrícolas y ganaderos del sur de Chile",
      "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeVBmUXNBZzM5UEVOYXFwb0VLX0RjbGwtUEJuVXZsel9DS1BhSkJJZXFxbTdiSWtHQldKd1hZVmlyYVpPTzU5Wm1sWjE5N1kxY0FOUGk3Uk92NnNCOThTOG9oVmx3LU1WRkkyZVVEUjJqOUZoX1QtNWZEZlM1QVZLRG9ybVBhOTNrblprRlRKN25kaS15Rno3VGt6VE04RUxpeFRuSTFmNVExeHNiQk90TEF1WklkQjNGMHlSQi0tZDlIZDlzSUZmOEZ3LWZ3ZU1LRkQwZTFQWlBRdHE3ejdwOUJIOXlvLXdyTG91bzZwQURXdEpiNG5kVWItNTlLN0NhdDhhemlUNURaRDdGeEE?oc=5",
      "fecha": "2026-11-17T18:53:26Z",
      "medio": "BioBioChile"
@@ -183,12 +189,6 @@
      "titulo": "INDAP Araucanía avanza en estrategia 2026–2030 para fortalecer el apoyo productivo a los pequeños agricultores",
      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXRRZGtVWEZfWXY5WkJTbERlVm1lcmZHVWFTSEtfQmpZRTNLeFN1MjhyXzJsX1l6SThGeHZON2pxRTE0R3RoU1lCU3pGcHlURkhrc3BNN0Z2bjF6VG1tZldremlnWTU5NjUtelM0LXllSVVGNGlCS2tvYVhEMGdSQy0yX2J6aS1PQkhwUDBSOHNocnpqX2M5MlNhM09rMWRsQTJsdk41QTFHaGhMNXVMWEo3TVkxd0NmS2J1Tg?oc=5",
      "fecha": "2026-10-15T07:00:00Z",
-     "medio": "Indap"
-    },
-    {
-     "titulo": "INDAP invierte más de $71 millones para fortalecer la productividad y calidad de vida de agricultores de Toltén",
-     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWnhoQVB2YWFJVk5WX2FhUGhWeHNFU2NwellmN1BvdEhmbDFNMDZHcldJemJxMmNUREg4dWtEOHBwc2poSHV3dTYxT0ZlZVFGZFVSTW1zSzdxUkNpY3NTbFRNYzRDMzlxV1UwTTVTYnZhXzBvdE9TU0VCZTFUY0thalRLNkg1TFV0dzRZZ2JGZ0ZOc2FIUnhWNUdSQnE3Z0o4R0cxc1ZxOFF3c0ZpdDNzNURocUFDMk1seUJLSHZB?oc=5",
-     "fecha": "2026-10-05T07:00:00Z",
      "medio": "Indap"
     }
    ]
@@ -392,7 +392,7 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T15:25:32Z",
+     "fecha": "2026-11-19T15:29:00Z",
      "medio": "El Mostrador"
     },
     {

@@ -1,21 +1,27 @@
 {
- "actualizado": "2026-11-19T15:36:11Z",
+ "actualizado": "2026-11-19T17:35:27Z",
  "fuentes": [
   {
    "clave": "turismo",
    "nombre": "Turismo en Chile",
    "items": [
     {
+     "titulo": "Santo Tomás Temuco certifica a 36 estudiantes como guías de turismo general y fortalece su empleabilidad",
+     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeW5BUTJoZVItU2JfdWdBTEJNbTRaN3ZOcWQ1bVdsQVZsX05lRm53Z09Bc3J4UDJqOGRBRHFUQmc0ZlB6NktObzhLWWZITlhjaWlpZ1lwNFBlaGQxYkRNT0preHdqYkxqX0tobWNGUVFvMkc0aWdlWVFBZDNZalRnZw?oc=5",
+     "fecha": "2026-11-19T16:23:37Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Bariloche proyecta una temporada de verano con expectativas moderadas y turismo sostenido",
+     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNckFDUU52ekhSQ3A2UUZYQWxlVFlzMUJRcnQ1Y1lmUFRRNWplYUt4QVQ5VlZBSF8zcVNldWFJVVB6NkxTc0FSMDVqak8xTmFQVzRYS050V25TSGM3OGVlVTM1Mm9iR2tuRVdDUnhaaU1GNmlFYzQxcHFvRWcwTF9XR0x4bDY5NTE1WnE0TVlyYzNUVGJPRXUzeGJpTXpUeDdWWDhScUlENHhYREJnTXZRbzJOR0t2UlpxYV9WbGtLRUc3ZXhyVVBBenlfNmM?oc=5",
+     "fecha": "2026-11-19T16:11:14Z",
+     "medio": "Sin Mordaza"
+    },
+    {
      "titulo": "Chile: Valparaíso enfrenta el desafío de consolidar su recuperación turística y poner en valor su patrimonio",
      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM2JBcE5ETXkwY3JMa21xa1hsVF9saFFqQXl3bUpvbjFlUWhqSk9wMzlycXR1MGpQWHNLdWZRX1ZPMG5SeWRCRHFLUG9RcGQ3VTY3dmJBemdtcVdDbXhNQ3V4VUhMYjJKYUZQVTVLSXU3TFQ5OEYyNV9ieXVyekNXSQ?oc=5",
      "fecha": "2026-11-19T15:21:53Z",
      "medio": "Agencia NOVA"
-    },
-    {
-     "titulo": "Santo Tomás Temuco certifica a 36 estudiantes como guías de turismo general y fortalece su empleabilidad",
-     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeW5BUTJoZVItU2JfdWdBTEJNbTRaN3ZOcWQ1bVdsQVZsX05lRm53Z09Bc3J4UDJqOGRBRHFUQmc0ZlB6NktObzhLWWZITlhjaWlpZ1lwNFBlaGQxYkRNT0preHdqYkxqX0tobWNGUVFvMkc0aWdlWVFBZDNZalRnZw?oc=5",
-     "fecha": "2026-11-19T10:44:54Z",
-     "medio": "Alerta Noticias Temuco.cl"
     },
     {
      "titulo": "El turismo sigue tirando del empleo tras la temporada alta: supera los 3 millones de afiliados en octubre, un 6,2% más que hace un año",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHNXcFZ3RUlBYVo5d2VUaUd4dlhwbHpDb2RSdUpRcGFhVjROOXVrZFBNQUhKOWhRYkI0YzlfdzJ2VFZpcnZsdEhMNUdPRlBfS2l4TUNQN3pWZG5wMVJ0bTR6VmIybVZlUElZT2Jfc3VZX0R0MTJKemxyWTU4M21QLXJ2eG9fM0Zxc2lSbWlCUXA1cHg5bGc4ZHZPNkJlT2hjWWtPbnVzT0hidzAtRUh3dEpXQTNqdw?oc=5",
      "fecha": "2026-11-16T04:23:52Z",
      "medio": "Report News"
-    },
-    {
-     "titulo": "Premios Fedetur 2026 reconocieron a quienes impulsan el turismo y generan nuevas oportunidades para Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON25WN3NPd3docXctVTVzck9oY0l1cUVzZi01eEd0VzZwRDBrMW1KaW9aQ2s3NzE1aXRCTkF5TnNVUHdCdTBhSlBBV3Q5VjQtcTVKVnY4cDQ3MVlSb1dxQkFlSWgzSVpzYlpuelhmOEVfZGRNM0ZlN3RfWVJ2MHgzbGM4SmR6NFRISHhOSldQSVN5bUVuTU1DT0s4bUdvSEZFbVlpZmg2LXduTjJ1Wlk1aTdtMW9iNExLMTYyLVJwOHhoLTB4QkdSS1pnX1hzSTdwTHJGbURR?oc=5",
-     "fecha": "2026-11-13T20:23:42Z",
-     "medio": "Chef & Hotel"
     }
    ]
   },
@@ -171,12 +171,6 @@
      "titulo": "Municipio de Villarrica lanza en Licán Ray actividades de verano y playas 2017",
      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREZUWGUwRDE2Tlo0bEpZb2xEQWVlLTI0UGV0MGhBOEI3VzJqSFhlWFV4LVVRdGxTXzlLZmxtU0ZQcWR6X2lZZ1RWSjdqZTV0SVpmb2REZFk0LWxuQ2E1TmxleUhodmFPYlliQWtFZFZORnpBQ1N5ek5VeTRJR2V4aURYYTN5Ym1wQ19NbFFkNHhCbG85WHZBQXVsWkdHVEpQaEZuSW1ZRlhFVGVwZmtZcXJfNzZYOGRhVDV4ZW9Tcw?oc=5",
      "fecha": "2017-01-16T08:00:00Z",
-     "medio": "araucanianoticias.cl"
-    },
-    {
-     "titulo": "En Villarrica y Licán Ray: Positivo balance de temporada estival",
-     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaWVKNHJzU3FTWk12QWhlanZ1eFVrSjcyU3BOaHYzcFN1MDFLMk5mQVB5Vmg5S0pGNk5yQnIxaXZpNzZza1Zpejl3cUluM1VIWndzY082OER2NE9JMmp2aHhJRTVNTWtZY3dYSHNHOTlXYmwzMU42SVlEaEFOeXdFSHZuMFNCZll3a3Foa3F0RWxvcDFYRE5KdFFiWndfb1RVVXljYTFSWUtmZw?oc=5",
-     "fecha": "2016-03-04T08:00:00Z",
      "medio": "araucanianoticias.cl"
     },
     {
@@ -356,7 +350,7 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T15:25:32Z",
+     "fecha": "2026-11-19T15:29:00Z",
      "medio": "El Mostrador"
     },
     {
