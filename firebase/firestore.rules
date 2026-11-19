@@ -69,5 +69,70 @@ service cloud.firestore {
         && request.resource.data.keys().hasOnly(['opcion','t']);
       allow update, delete: if false;      // un voto por socio, sin cambios
     }
+  
+    // ===== Plataforma multi-sindicato: cada sindicato en sindicatos/{sid}, con sus propios socios y directiva =====
+    function isSuper() { return signedIn() && exists(/databases/$(db)/documents/admins/$(request.auth.uid))
+      && get(/databases/$(db)/documents/admins/$(request.auth.uid)).data.rol == 'administrador'; }
+    match /sindicatos/{sid} {
+      allow get: if true;                 // nombre, colores y logo (para ingresar con el código)
+      allow list: if isSuper();
+      allow write: if isSuper();
+      function tOn()    { return get(/databases/$(db)/documents/sindicatos/$(sid)).data.activo != false; }
+      function tAdmin() { return isSuper() || (signedIn() && exists(/databases/$(db)/documents/sindicatos/$(sid)/admins/$(request.auth.uid))); }
+      function tOwner() { return isSuper() || (signedIn() && exists(/databases/$(db)/documents/sindicatos/$(sid)/admins/$(request.auth.uid))
+        && get(/databases/$(db)/documents/sindicatos/$(sid)/admins/$(request.auth.uid)).data.rol == 'administrador'); }
+      function tActive() { return signedIn() && tOn() && get(/databases/$(db)/documents/sindicatos/$(sid)/socios/$(request.auth.uid)).data.estado == 'activo'; }
+      function tNombre() { return get(/databases/$(db)/documents/sindicatos/$(sid)/socios/$(request.auth.uid)).data.nombre; }
+      match /admins/{uid} {
+        allow read: if signedIn() && (request.auth.uid == uid || tAdmin());
+        allow create, update: if request.resource.data.keys().hasOnly(['rol'])
+          && ((tOwner() && request.resource.data.rol == 'dirigente') || (isSuper() && request.resource.data.rol == 'administrador'));
+        allow delete: if (tOwner() && resource.data.rol == 'dirigente') || isSuper();
+      }
+      match /socios/{uid} {
+        allow read: if (signedIn() && request.auth.uid == uid) || tAdmin();
+        allow create: if signedIn() && request.auth.uid == uid && tOn()
+          && request.resource.data.estado == 'pendiente'
+          && request.resource.data.keys().hasOnly(['nombre','rut','num','telefono','email','estado','creado']);
+        allow update: if tAdmin();
+        allow delete: if tAdmin() || (signedIn() && request.auth.uid == uid);
+      }
+      match /{col}/{id} {
+        allow read: if contenido(col) && (tActive() || tAdmin());
+        allow write: if contenido(col) && tAdmin();
+      }
+      match /asistencias/{rid} {
+        allow read: if tActive() || tAdmin();
+        allow write: if tAdmin();
+        match /privado/{doc} { allow read, write: if tAdmin(); }
+        match /presentes/{uid} {
+          allow read: if tActive() || tAdmin();
+          allow create: if tAdmin() || (tActive() && request.auth.uid == uid
+            && get(/databases/$(db)/documents/sindicatos/$(sid)/asistencias/$(rid)).data.abierta == true
+            && request.resource.data.codigo == get(/databases/$(db)/documents/sindicatos/$(sid)/asistencias/$(rid)/privado/clave).data.codigo
+            && request.resource.data.via == 'codigo'
+            && request.resource.data.keys().hasOnly(['nombre','num','codigo','via','t']));
+          allow update, delete: if tAdmin();
+        }
+      }
+      match /informativos/{pid}/likes/{uid} {
+        allow read: if tActive() || tAdmin();
+        allow create: if request.auth.uid == uid && request.resource.data.keys().hasOnly(['nombre','t'])
+          && (tAdmin() || (tActive() && request.resource.data.nombre == tNombre()));
+        allow delete: if (signedIn() && request.auth.uid == uid) || tAdmin();
+      }
+      match /informativos/{pid}/comentarios/{cid} {
+        allow read: if tActive() || tAdmin();
+        allow create: if signedIn() && request.resource.data.uid == request.auth.uid
+          && request.resource.data.keys().hasOnly(['uid','nombre','num','texto','t'])
+          && request.resource.data.texto is string && request.resource.data.texto.size() > 1 && request.resource.data.texto.size() <= 500
+          && (tAdmin() || (tActive() && request.resource.data.nombre == tNombre()));
+        allow delete: if tAdmin() || (signedIn() && resource.data.uid == request.auth.uid);
+      }
+      match /encuestas/{pid}/votos/{uid} {
+        allow read: if tActive() || tAdmin();
+        allow create: if (tActive() || tAdmin()) && request.auth.uid == uid && request.resource.data.keys().hasOnly(['opcion','t']);
+      }
+    }
   }
 }
