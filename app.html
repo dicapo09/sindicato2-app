@@ -123,7 +123,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 
 <!-- SELECCIÓN DE SINDICATO (plataforma) -->
 <section id="pick" class="hidden" style="min-height:100vh;background:#fff">
-  <div class="login-top"><svg><use href="#logo"/></svg><h1 id="platName">Plataforma Sindical</h1><p id="platLema"></p></div>
+  <div class="login-top"><svg><use href="#logo"/></svg><h1 id="platName">Base Sindical</h1><p id="platLema"></p></div>
   <div class="login-body">
     <p class="intro">Ingresa el código de tu sindicato. Te lo entrega tu directiva.</p>
     <input class="uline" id="tCode" placeholder="Código del sindicato" maxlength="20" autocapitalize="none" autocomplete="off" onkeydown="if(event.key==='Enter')tenGo()"/>
@@ -349,7 +349,7 @@ var DEFAULT_CONTENT={
 /* ---------- utilidades ---------- */
 function $(i){return document.getElementById(i)}window.$=$;
 /* ---------- plataforma multi-sindicato ---------- */
-var PLAT={nombre:'Plataforma Sindical',lema:'La app de comunicaciones para tu sindicato',contacto:'https://wa.me/56920557434?text='+encodeURIComponent('Hola, soy dirigente sindical y me interesa la app para mi sindicato.'),correo:'dicapo9@gmail.com'};
+var PLAT={nombre:'Base Sindical',lema:'La app de tu sindicato, en el bolsillo de cada socio',contacto:'https://wa.me/56920557434?text='+encodeURIComponent('Hola, soy dirigente sindical y me interesa la app para mi sindicato.'),correo:'dicapo9@gmail.com'};
 var TEN_N2={id:'pds2',root:true,nombre:'Sindicato N°2',titulo:'Sindicato N°2 Pacífico del Sur',empresa:'Minera Pacífico del Sur SpA',sector:'Alto Mañihuales, Región de Aysén',color:'#0f4643',color2:'#14625a'};
 var TEN_DEMO={id:'demo',demo:true,nombre:'Sindicato Demo',titulo:'Sindicato Demo',empresa:'Minera Los Andes (ficticia)',sector:'Región de ejemplo',color:'#23407a',color2:'#3561ad'};
 var MULTI=(function(){try{return localStorage.getItem('sin2_multi')==='1'||localStorage.getItem('sin2_canal')==='plataforma'||/[?&]multi\b/.test(location.search)}catch(_){return false}})();
