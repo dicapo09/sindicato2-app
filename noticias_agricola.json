@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-19T21:27:44Z",
+ "actualizado": "2026-11-19T23:26:07Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
+    {
+     "titulo": "Ministro (S) de Agricultura aborda dichos de ministro Campos sobre fruta que no se exportaría en verano",
+     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb3hIeGdFbV80M0hkWWt2R1RvN0JHaTJRQmlqTnpKZ2dvM25fa1RYV0c4YzFZWEcwQmVJRDYzODh3UFNNeHdTWGFjV3lGOEZwSkZpRGVFN0xhaGRsTkpNd1lFT0lMU2ZJblpXZnY2THQxMWgxQzRKTXhXMFZNSG4yRlFEQ2pfTW1UUUxTSjB1TzJPckFIUFRzbjlaaGNhV3pYbk9FNjJ6UUQ3dDdBeDlzRFFmZWdEMVM4TzkxNHNneXlYTy1SV21iN0lieWRQa2Jqb1p2Y2VIVExxRUVKOElJZ3oxNDM?oc=5",
+     "fecha": "2026-11-19T21:13:13Z",
+     "medio": "El Contraste"
+    },
     {
      "titulo": "INDAP invierte $1.179 millones en proyectos de riego en la Región Los Lagos",
      "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsVm96QTdVcHdrd1pmb1A1bF9PSk42OWhTWFFzMTFneUtEa2VXTnZnamlkcHBEVVJOV012RlpVd3U4QkJJVm0yVnNvYUhwZGUxNEkyZ2pxNjJHcVBMVGxfRVItTlRTUXgwY1owTTVRU2thcHIyMk4w?oc=5",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTldPTDRtWlp0OTZCb1RCajVsWjNJSC14eC0xeHZsYjY0V1lHY0N5MktFMDdWcE5BR1U3TXlYYVFEVktUa1Q0YWY0b3hMRXlnd0g5ZXJXaXVKUmMxX2JLUUV6NlFFTGFybkpCQnhlbHI5OWhGWEFBTXdIMExYdUoyRFpaV3gzdng3NW9ZS3lCcmdmLXQzbXEtZUZUUzZRQTdSN0tvYXF4RlZZMlBzbkhQOHNEc09RN01iNjYyc2d3aGRnZjlXV1h1WDRUTGpuSldTY2RNeWRiSGU?oc=5",
      "fecha": "2026-11-18T21:15:05Z",
      "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Ministerio de Agricultura evalúa afectaciones por aumento de caudales de ríos en la región",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWlR5UlhtRG9mWFNtX3ZHMVpVMnBibnF5VTN5SHptMERKUFg1LTlqYWxUTlhZcmpva2Z5a2U0ekRCbG5fOU1qVDFLRFhuWEZwUXlIZnd2clJiUTIwdkFMSVhCSnZzWTRKaC1TbkJCaW45UXBuSnQ0UEU0dXIydUY3SlpGbEUtZ3dXOUdsWS1oeUhPS1BfUWdHdW1BMmpRaE9RS1FaMW5hS1FrYjZ0Mk05QWc4eGdTX0lIWkNCSnhjZ3F1UQ?oc=5",
-     "fecha": "2026-11-18T18:33:33Z",
-     "medio": "https://agustinafm.cl/"
     }
    ]
   },
@@ -138,8 +138,8 @@
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
-     "titulo": "SENADOR BECKER EXIGE ANTICIPAR TRABAJOS CONTRA INCENDIOS FORESTALES Y PIDE CLARIDAD SOBRE RECURSOS EN LA ARAUCANÍA",
-     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNajJuZzkxdU9XQWJqb1ZQRnB5YWd4NExGX2QtNHNyOFJ2TUtmVUxkMzF0bTBta09uRzBBbmtzR0h0bThlYnI3bTlZUGdkOHpBTXFLYXVIdloydVhLUHpzb094cTVuTU1qRGJNaTlQTjJ6MnB4OFE4Z2duVFlkRGpBMVJRQWpOYWV6cTFlX3VET3hOR3VucklVanBaMGV0TExiczRtSzV6ejB4bmtnWVEtVjZjVmxsZVlPYVhudENVY09uUFIxczlnXy1YNTZfaWhiZTJCRVVIM01Sc0ZUdWtIY09xbW4zODB2aWxpbzVzOUY?oc=5",
+     "titulo": "BECKER EXIGE ANTICIPAR LOS TRABAJOS CONTRA INCENDIOS FORESTALES Y PIDE CLARIDAD SOBRE RECURSOS PARA LA ARAUCANÍA",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV2lwVVhKX3I5bnlxZlhTVDBkbzlkcVFaVXdibVVaV3lMOS1GVjhRM0QtRFNHNV9NZU0yZjlFQ3hpd2hKNG52c083aml1aUllZ0dic0U3V0sxYWYxYW1PbFZrSXdCd3BjWFlOemhZalBSa1lFdTcweVVUZkZRVUhod3NTNmh3VlhTMzFuTzhydGpIX0FVN2FlVktxTDVvZmNsMXBJVkwtSDNLZHNSYVZGRHFMenVHaHJfcWNJMmowRmhnN3BFbTFJVXgxWmV4R0pDcWNqUmdQdFllOEYzMFpvdXl3dFZOdjcxcnl0MEhB?oc=5",
      "fecha": "2026-11-18T00:02:57Z",
      "medio": "Araucanía Noticias Temuco"
     },
@@ -150,7 +150,7 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Feria EXPOSOFO 2026 reunirá en La Araucanía a productores agrícolas y ganaderos del sur de Chile",
+     "titulo": "Feria Expo SOFO 2026 reunirá en La Araucanía a productores agrícolas y ganaderos del sur de Chile",
      "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeVBmUXNBZzM5UEVOYXFwb0VLX0RjbGwtUEJuVXZsel9DS1BhSkJJZXFxbTdiSWtHQldKd1hZVmlyYVpPTzU5Wm1sWjE5N1kxY0FOUGk3Uk92NnNCOThTOG9oVmx3LU1WRkkyZVVEUjJqOUZoX1QtNWZEZlM1QVZLRG9ybVBhOTNrblprRlRKN25kaS15Rno3VGt6VE04RUxpeFRuSTFmNVExeHNiQk90TEF1WklkQjNGMHlSQi0tZDlIZDlzSUZmOEZ3LWZ3ZU1LRkQwZTFQWlBRdHE3ejdwOUJIOXlvLXdyTG91bzZwQURXdEpiNG5kVWItNTlLN0NhdDhhemlUNURaRDdGeEE?oc=5",
      "fecha": "2026-11-17T18:53:26Z",
      "medio": "BioBioChile"
@@ -270,12 +270,6 @@
      "medio": "Canal 13"
     },
     {
-     "titulo": "Temporada de cerezas en Chile proyecta generar hasta 600 mil empleos temporales",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0lfeVpyczFEcDcwWEdyQmZjZFZFOUQ4MUVsOTQ5YV80UFhkcTQxVmItMXpzR2xzX3JyM01PZFRQSm9qZUZpNGg2UlkyaFZRb0ctMzgzUWRRMng3Wnk0UDJlS3h3WVBWd3cya21EMEczVHNnN29Pcmh6Q2VpQXNPXzA4SlhJVGE1bExsQkZtdjVxNmhsME9mcTY5SV9tMzhnYmhzX3gycUEwcmlOc3N0M1VUbW14c2tnV3hTckpwOA?oc=5",
-     "fecha": "2025-09-26T07:00:00Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
      "titulo": "Una propuesta para formalizar la situación migratoria de los trabajadores agrícolas agita la campaña presidencial en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRVU1VW1rQnVwd3J0MVpJTUZpYTBWZ1o1SnNyR2tPQldSYzhzLXkzalNIS3pSVDZEc216S3pVRHVvUnMtZlZrYjhEUndTS3AxUk95RDlhWDdoTHlyZG9ZczBMWjYtdENzLVZUOVZiX1Nfc1NvZ183Y3d3VGs0TThsZTdlWjhfM1UxSXBqenZibnF4S3BxbGk2aVhxeE4tclRlN1VUdGhuMzBuN1BKT2xJQ3VIb1VVdFAxMG55MnlQeFhBUzJaSGhPVlhWZ0ZVbW9sZEN2ekY4NEZfbHRqNmU4anI2Y2NDRUNndkhLVmVaTmhTcElFYXfSAYoCQVVfeXFMUG1kZUxDOXNRc0F3dmk1UXdHdlVqdUZDUXhNcmptMjhVN1JuenNuT1JaTWJkRFVpWWdaOUdCOEpOQUIxZEV4b0dWS1kydEszdjQtWmVFaWdfZGJ1U1BicHMwaWRXQ3ZXNklFT0QwOVZpbEctMUlOdDh0N3pXSXZWY2FJUDRhVGtYX0RDUGNUUm1ZaDJuU2dYSkNDUDJJQ3Rxa1hjMGl1SDZwb0RQZEJkRWtOQ01wS1lIcWlldHhCTjVmeC12VjlXUnptMUFmd19QdEo2S2VoTExTZUFJTTVvM2JoYnVDaThQWG9FQ080bXA1dEFLaUhoMWdJUUtSdzFtMUJkWGVPZ1RtNmc?oc=5",
      "fecha": "2025-09-25T07:00:00Z",
@@ -286,6 +280,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPendFWW1sRTNmdEhYaS1YazhYR083V2dlMEwzZ1FRN3Zza180ZnhTVGlTTmpPcWFxd2xHNHJrMU9wOEp0LWpzMGc4UVd2WjZrWncyNVV2NkgzU1BJS0JTRnpzb2VkcU81c2FVUGQ5Z3RtS05kWnA5OUJ6eHRBel9UWHBhb01rNnhQQmE1OFJuT3puSDJ6RDgzUmlscVhFN3JDd1HSAcMBQVVfeXFMT01ybm1aSFN3QVVvWTVwcjlmMmVzU1hPM2k3SVZGWmlid0E2N0JsX1BXRVdqZ2J0MDd4cFM2dnNQenc3ZEc5eXlSb0NqNWpWR29ZVzlCNTVxcDU0SFRkcmxWVlRpaHFUcDhuaU9XNUdBRUdvMnVKdFhSRU1UV002Q2Z4amsydU1Yd0JTMGRZMklMX2hKY3RydzVLTk0yb3ZDc2JOa0NaRVE5WmZvbGhqWDdjeENyTGRnRGlfX3FkT2lra0hF?oc=5",
      "fecha": "2025-07-28T07:00:00Z",
      "medio": "La Tercera"
+    },
+    {
+     "titulo": "Empleo temporal: Española Eurofirms elige a Chile para su hub regional",
+     "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52eTktcElFV3J5VU02WXNaOXlidE5JdEFKX0NBRGxtcnI5S2hxNjBCODA3NUN5UXV5dXhKX2VpTThQelZ1VzU5T0otSlk2dmotdXpHMUJDU21YcW52eUM2UFpma3BiS1FBZlVGUVdXc9IBckFVX3lxTE9mbEZidHdrTUstd2ZxMUxhOGM1WHpPbVhudDdSdndBZi1NQUdLQjRMVE9aNmNSRVNDVFhNaFZpaU5qcUJvMFlKWmZFZWdTcFpta2J3by0xMV9YUzBiblk2WlVzdUxDUzJhSWVsR09BVUhEdw?oc=5",
+     "fecha": "2024-10-22T07:00:00Z",
+     "medio": "InvestChile Blog"
     }
    ]
   },
@@ -403,9 +403,9 @@
     },
     {
      "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmpRNndMNDlVZ0FLZGpaekhqcE4zMHJzUk5aZFNlUERjc0xGY3ZwM1RGcFJscWtUQ3RnODBhMXQ4T2J0am05SzFYLWNzWERBbzJmeDBtcnZQa1VhbFE2MVkzamVXZzFWTWduTXV5cjU2YmM3THBHTHhoeW0wazFFUHNTdHpIS0wtTDFBNlM2VmhCUTJzcGtUMTVIQXFDaVdtTUdQeFVPNDVNZFJNa0tkTXFQZmRGcHdQT2c?oc=5",
-     "fecha": "2026-11-19T19:09:55Z",
-     "medio": "El MorroCotudo"
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnRROW8yVWJ4aktfWDNWZ0tnQU4zalpndTV1a2tBYnR0SHlWOWZPWDJwVThRVHA3NmdOT3VKMzY0c0gzLUxuNTIwcTRLLWR4RUU2MkxfYlN1Y3UxdVZ6SWVGRy1sa0w1WF9JUDBoS1V3eFdGLXN4OXlFQ3dJUTNsZk9OV3V5cmpSZDN0SkhoRmI0Z0xGUkpnaV9XN2MybGg4MzNtUnBrQm51RmpwMk1JM01pYUNJUkFqOXc?oc=5",
+     "fecha": "2026-11-19T19:16:15Z",
+     "medio": "El Observatodo"
     },
     {
      "titulo": "Ley de 40 horas: ¿A quiénes aplica la próxima disminución de la jornada laboral?",

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T21:27:41Z",
+ "actualizado": "2026-11-19T23:26:03Z",
  "fuentes": [
   {
    "clave": "salud",
@@ -102,6 +102,12 @@
    "nombre": "Gremios de salud y públicos",
    "items": [
     {
+     "titulo": "ANEF Ñuble protesta por amenazas en renovación de contratas y exige al Gobierno reactivar mesa de trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX2poUFlWelNqcVpRQk94dWVHUWI5M2pTQkY2Wml6eGk2eVZCLUtodE9UdUxTaHJIQ2tXeFFBUjVwWk1WbzEtM3lPZHdOWVI4TlV6bHFOV3I3azlJYXZHTW1JVWdaNWZIemlqU1hyOXZyRElkRWpZeEdFYmRDSVhvdG01c0kxQ254SnNHSWZKTG9iWW05Y2hMaEhQb0MyeVVrZzN6Wk10SVo5WHRHdVVfZ2htZmUyU3FrZEJ0YUJ2aw?oc=5",
+     "fecha": "2026-11-19T21:33:45Z",
+     "medio": "anef chile"
+    },
+    {
      "titulo": "Fenpruss se moviliza en los territorios de todo Chile contra los recortes del Presupuesto 2027",
      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX25RNW5PdnRJWGw0bUNwWndNTGZxYVdkVnZIbTFIX1oxTFJySy0xdVptRUFwUXo1RDBEWFFyTUp4dUpFMDdKdzNicUhnSGNuOXNTNkpteGV2aWpDWFNuek9OcmN4SU9hODBYUXpFWUxQUnVPRTlST25PbnNyeXJwT1pQU1lBY0praE8yOHRMV1VFcjBSSUx4bENXUXR2eHlmU0VpTkI2RUl0OE03bEFDVHRLYWlpZmUzemlGZQ?oc=5",
      "fecha": "2026-11-19T17:51:54Z",
@@ -110,13 +116,13 @@
     {
      "titulo": "ANEF Antofagasta participa en convocatoria multisectorial contra los recortes presupuestarios y en defensa de los servicios públicos",
      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORHlXQ0xEN1pJWEJHOHBTMnFkU0N5dlJzZHdwWEJ2YkZRY2hRZEd2bWNhd0k5TUYtb0IxdWtXNUlQVTBDLTlQLTBNbElVZFhCdTg1QTBUa2hMZGVMVjZkaW95ZUdMWUNwSmhOY19USERVR0hfai1YQk5ZLVNwQnkyTDZES2Q2Y1BhcW9KcmVmRzlFM3ZQeDlsWlAwQ0RDNy1OcVNETUk5QXZwVEJBQmtHZTBwam1NOE5pRVBSWlNGdFpkR0tCTVlxSjBkRVpKazBMYnFWVzFCaGJCekJsbV9JeE5zUQ?oc=5",
-     "fecha": "2026-11-19T16:20:42Z",
+     "fecha": "2026-11-19T16:22:52Z",
      "medio": "anef chile"
     },
     {
      "titulo": "ANEF Ñuble exige condiciones dignas para funcionarios de Vialidad y rechaza amenazas de discriminación política",
      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2poaDNXQU12WDZNOVlRRlRzUmdGWDFEQkV5QXEyWWNNOUViOEpyOHFoMUFvY2xzZHoxM1lvSGVWSXJidFlGQXB1RTg0dl94VWVTMWJXeHFFMHZaWXlndmp2Q3d4Uk5nR0N2MWFUcTA5cXBXTDllTjRVc29HR1BCZ3JGMXhKVXlLS21xem8tM0NzUmlESEc3T3BNWDktcFN1WmxlSU1pWllrRnZqZFlheVhNNzNnTTUyZU0xU05hbjE3VjFJLW00?oc=5",
-     "fecha": "2026-11-19T16:20:23Z",
+     "fecha": "2026-11-19T16:22:41Z",
      "medio": "anef chile"
     },
     {
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVJIWHY0ZkRUOG1qVU5XX0Vfd3FuUVlJMEVyb0xOVFluZHkxclN4OFlRUU9kSWg4bnV0bEthNUFwUGdqY09tMGhWRGdoU3ZlLTNoRHBadHhCMHpZTmZXR2ZNRU1wRy1hU1pCY2VzdDk3SkpyOS1BLUc2RFRiSE5idzBhV2pEM1BDVlA4Tm9scmtXdldDd2FB?oc=5",
      "fecha": "2026-11-17T15:43:21Z",
      "medio": "anef chile"
-    },
-    {
-     "titulo": "Se realiza la primera reunión de la negociación entre la Mesa del Sector Público y el gobierno: Trabajadores solicitan un reajuste nominal de 6,3%",
-     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0xJd0VJVFhhQTFTMk5NLTkyUHFyaU1odHdqQmI4emMtMXRMUmhKNm1hdzBVSC05dVNGdEN4eWNaTHZCRHZVV1dhZmNrU1puRjJnajBtT19vaHpPNjRBY2lwbnp3M3E5UGVoUTFCRmlIMDd0bXMtRGllU2JHamQtQS1tdFF0YW9zejNORW9oUVUwQ3hHRFlOSmFGQXA4dw?oc=5",
-     "fecha": "2026-11-17T14:40:37Z",
-     "medio": "anef chile"
     }
    ]
   },
@@ -197,6 +197,24 @@
    "clave": "publico",
    "nombre": "Sector público",
    "items": [
+    {
+     "titulo": "(VIDEO) La Contraloría detecta 315 funcionarios públicos asociados a condenas vigentes, incluyendo 84 de Carabineros, a pesar de restricciones legales para cargos estatales. ¿Quién los fiscaliza?",
+     "enlace": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQOXlXclZURUpwUHRLeVNIWEpHMW9FMWV3akRnanA0eWIyQmQzbGZ6VmlKMUlhMWFUYkdTVGg4M0d5Y1E4WXV2MEJwOFFSTDEwMDZTdUJBWjQ0Zl8wUHhVSGxMaUp0eHA5R0dUdElZTEhPSEFvZkV0RFVVeGtkSERYd3hQTzZ1bVBBT0tzTVRmNi02d3RmVUU1Y3pSODZUVnJ1Wm1jWThqcTB0YUlBekxYYkJ2MGRNeHVTWjNESzg2UTlabFNYN2tDdThsYzRkaGE1T2VqLVRNMTk3NUlIMTFxY2tTWEIwVkMyTkZNemRNU19hR0xKemluaFVUdmM3SlEwTTdlek5ubHA1X1ZOcm9xZTlvTDBJblNUcmkyS2UxLVdRTjRvZzlhcnFMc2ZqUnROUjFaLUpqay1LMml6WGcxRGFwaVRESEJGWWN5YjlR?oc=5",
+     "fecha": "2026-11-19T23:00:07Z",
+     "medio": "elciudadano.com"
+    },
+    {
+     "titulo": "Funcionarios públicos con condena vigente: \"Llaman la atención casos de Carabineros y el Ejército\"",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUFVa3o1cUR4OW9HeFZzYW16WjFIZFM0MXRHRzRsc1MtelJneEsweVFod0FDX0tYSzdqRk9vbVRwaVhKMWtwZE50ZHBleDU3VmtGMHF3NEhKNGg2Uk5YV3BOOWtER3NyelpwbVVZV3FZQlRPTEVEMzZoRFhfSTlCaXQzZEJHUk5ITU5hSUlEMVNUZWRWTXNlanpVZGlDeUZTRW1JaGZQZ2F0c002RkxZ?oc=5",
+     "fecha": "2026-11-19T23:00:00Z",
+     "medio": "Teletrece"
+    },
+    {
+     "titulo": "Miguel Treviño: “Los funcionarios públicos deben curar la ciudad aunque duela” | Republicast Ep.87",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVkpJSVZYWkNEeThQNWJkVThtQ1BwY2ladnlZOHRvMU1WZUJrSnNpMU1iM01FZEQtaVM4WjI4VVlKMVVGM1M2Q0I1bFA4cHBfTVZWTDlFWGdyYWZ1YWNhb280YmRBSV9DQUZQWktNS2lpMGt1N2FMR3BkTTJFVUNEV2c3eHdQTVZwZHBaV3ZfOW5CN0E3c25wZkVoZW9WTWZfdHkxVXJjUmZmcElkNnhQREJVWDIxZnYwS0cyVzBPV1JERTNhYldtMw?oc=5",
+     "fecha": "2026-11-19T21:51:42Z",
+     "medio": "republica.com"
+    },
     {
      "titulo": "Capturan en Sosúa a ciudadano ruso buscado por presuntos sobornos a funcionarios públicos en su país",
      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUzBmSnVHZDdyTER3cDZ1WjlqYUhzbFdQUnZTVm4tYjFGbUF6WHI2YWc0RWhqVERGQ2dKUE9VaWt1a3RFXzRZS2Q3QW9VQjk4NVBCY0dNRURDWWd3NmNzRGNfd1J6ZmdyYTJvRF9meFJNZFBvb005bEQzWXU2Y3IzZ2wtRExUZERZb1k4Qm9ydTk1VzNOMUJETko0bTlvTldWWGRmZnd6aXVZbkJ2aXFZc0ZtTmUwQWdiZGs0SUhqSW1TUmZDNl8zaw?oc=5",
@@ -212,14 +230,14 @@
     {
      "titulo": "Seremi CTCI de Aysén destaca acuerdo con OpenAI para capacitar a funcionarios públicos en inteligencia artificial",
      "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44VEJ5YmxwSXhUUlZib3FYMHl6RXVGdjJ4NzJRRWN1X2JQZ0h5YmhMd0xjVGwyYTd4RDktQWJoMlBHWGRrRGRWYWZDMEQ2QQ?oc=5",
-     "fecha": "2026-11-19T18:27:39Z",
+     "fecha": "2026-11-19T18:42:27Z",
      "medio": "Radio Revelación FM"
     },
     {
      "titulo": "Funcionarios públicos protestan en Puerto Montt: alertan por despidos y recortes presupuestarios",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaXJZdU1RNTkzNkVqRk1NVkNSNjJ1dnFsU1ZvSk5kV0VXRGVsMl9qeEVCa21kUkRtT3RiME5lcWRldFN2d0diYXY0dzItODJaTi1qSHUyeFo1VGxWZjNkQlhobnlmZXRvUldzbzA0aHFkVkwxaDVpcklwSUhJYlVqdll0T0FHNm5pRzFFM0tzSVhPU05raU9mdjdtZS1UV3VhUkZJaUVOS2ZXdDRGMXhZRGRkVDZ6SlpQTjY0MV9IU1ZaQ3RSWmRFTzdxcktvUjZEN1lIVXJmelVvdUF4LS1ONkJCSXU?oc=5",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUWdfRXFSS3dCUXpVcFRuWjRHbC1QSjNDNGkxNnV1ZEtRX3cyaUdMdGUyckFONEl4UG5sck5EQlYyNEpnalJ2VmxjbkNvdTF3dVNKaDlSZzl3ZEY4c1d6WlFZdUg2MHRzX3VmanhfYzFhN0tqQkxUZWJSazJpdG1iQmhRMDNma2ktYmJNaGdHelFuZERjTlNoR1docHR1NUE4VzEzRF9UWFNNM2hfcGJFemF5TURUc1NkM1VJYzlzcjZmZzY2elUzSVhnZjJJRk1lSzJsRktRQmFyb0FYUnFXeFdEb19CYVAwak82ZW5B?oc=5",
      "fecha": "2026-11-19T16:11:00Z",
-     "medio": "Diario Chiloé"
+     "medio": "Diario De Puerto Montt"
     },
     {
      "titulo": "Fiscalía, Contraloría y Consejo de Defensa del Estado realizaron taller de probidad para funcionarios públicos",
@@ -264,28 +282,10 @@
      "medio": "Análisis Urbano"
     },
     {
-     "titulo": "El Ministerio del Interior planea reducir el número de funcionarios públicos en un 11% durante los próximos cinco años.",
-     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVJvVUNhNzFVTU1nV1R4YlVuMzVTY1U0ZGRaWVVsa29henh1X29uYmpubVlWNFM1VVFIM1cwV09qTFR3MFpETk9DalhOSGJpRUZCN1VhVnE0NFV6ZDctS2dhX1czTXh5NFRMUE5INEdQTUJ3TXdJVUdPblIxWVBodWJsYkprdldBdGhXZk5B?oc=5",
-     "fecha": "2026-11-18T17:12:16Z",
-     "medio": "Vietnam.vn"
-    },
-    {
-     "titulo": "El Ministerio del Interior prevé reducir el número de funcionarios públicos en un 11% entre 2027 y 2031.",
-     "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakFaSzNLU1YzWnJoQ1BEUThydnBvWGt6M1FjWHYzS291T2hUdE5WN1EyUHp1Ykd5cVdKTGpYejhxYTA0RUdLLWlVdS1OUEhqVW4taTlPc3hpenBNam1UVjllcnpKWHRMU3FSbk9jQlg0Z1BlUm1RMXJUMG9WTURUazFuR3hiWXMyUUs5WDRjWkdSZzhr?oc=5",
-     "fecha": "2026-11-18T14:47:54Z",
-     "medio": "Vietnam.vn"
-    },
-    {
      "titulo": "Contraloría identifica a 315 funcionarios públicos con condenas vigentes y ordena investigaciones en organismos del Estado",
-     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSEtyMEs3OXlMOUZSNEt5YzgxNHhkQmRzZi1nVXBLSTZNWlBXNk85MXlYbEllZTJpanZNaWRIQUpVSWxDZHJURTJnY3FPTmFicldsUUZBSlh0MUlMTnpndkxkajh6VFRUVDlBNDQ1UEtCRllPQ19LRE53UGJuTFVvdU9UczRUZ1REOWNsLXQzV3QwMGtQdTUwb1BGc2ZJUE1pTWtpVXpWTHdqdVlaVFpUcl9zZjFFMHRDcmRnSzN5cWJuSkQ3eF9aT0xaUDNQZVhDcDFDZ3ZuMzB0dFdZOGc?oc=5",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYkRJY0R6dGpSemlwQXl0bzFKRVdkLV8yNl9xX2tSV3BMcmZLWVRuOUNwbkVzUUdWV3MzSTlBdTNIRS1qNTVBanJPLTkzN29UTkVSM3BDWmpOZEVTOXkxc2k1YkdXa0lfU3lZeV9jOGdQaVNDOWN4QW1vUkVaVU9PcGl6R3BmUldGR3R6OXR6ckxLc3RXY3k2aDJuRVdWQUx2MktSZ0RreXdTY0ZjRFd1YVpvZGVJcHFxV3JjcGhqaHlrQm5MMGx4SmxkX0l1S095RElxeWZzUXZwYUpP?oc=5",
      "fecha": "2026-11-18T14:39:12Z",
-     "medio": "Radio Ancoa"
-    },
-    {
-     "titulo": "Contraloría revela que más de 300 funcionarios públicos registran condenas y continúan en sus cargos",
-     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTnRJTmJYMWhURkFRajFHRjI3NGJmamdUUUZXS1hmNXo2ekg4aXAwaXlQeU1EZmdLOUQwZ2plaWhDM2VWVGo1bTRPT0ZwOTFSLUg3RnIzVUJybC1ibFdXUnZXX1owM2tqVmNMMl9OUEJ5Z1dhV21pT2k0NUZfN0VHQTNHTDZJcDZ6XzQ3WURqZHlic3VIMkl4c0c1dndyc2ZISUVqQ18xemNudTNNMlVMc2loMG9wbUlWS2Mzb2tBUzRhMUdFV0lXR0pXaGhlS3NteGREZXpB?oc=5",
-     "fecha": "2026-11-18T13:56:09Z",
-     "medio": "Chicureo Hoy"
+     "medio": "Canal VTV Los Andes"
     }
    ]
   },

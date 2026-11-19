@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-19T21:27:37Z",
+ "actualizado": "2026-11-19T23:25:55Z",
  "fuentes": [
   {
    "clave": "retail",
    "nombre": "Retail en Chile",
    "items": [
+    {
+     "titulo": "Santa Isabel lanza Santo Kiosco con completos a $2.490",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMC1mN2hoWFUyd2RmVjZET0RUUFNwSnNwSFNwODNNQnM4VUsxOEFDT05vdG1pNTd6WVc5Q3k3M2xWaEE4eHNnRDlkdkFsWWJ6d0NseGFkZ0w2WGtOVEtxamlISHR2UWNNTTd5WE93TGphODY4REkzcXFrWW5yOHZrYTkyUV9DT3FYZ2VtQXU0U2xCREJaODQ2SDlnQUF5MDdrZmtNQVMyLUJ4OENCREpFZXR0X1hGeWJBMUE1bHRBTQ?oc=5",
+     "fecha": "2026-11-19T22:03:08Z",
+     "medio": "Supermercado Al Día"
+    },
     {
      "titulo": "Walmart Chile genera 550 empleos con tres nuevos supermercados",
      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTR5dzRnbi1WcEp2TkIzdkk2WmpKa1YyNEtibTZ3RVpIYjJmR0VzX2xuRXBzdGdfWThXOVRoX3JnaGl5eEh0ejVJUVZUdGl6YnNiMjk5N053cXNfbFViMG0zajVUb18zdVQzWVhrUS1rQjE2TUFHR3FFek84WTJVZmxhWmw1bkg2YjVWQWxJU3BZU19RMGVGd1JB?oc=5",
@@ -64,12 +70,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHVZeDBnWTNpcmpwczJHLTRPX1d2WU8tNkx1M3JiVnFrR0Z1Ym1fU1JaTVlCMFlnaTVGOWNPclVlT3lwcGZ1QlQxU29zcWoySGZjalUyYkhuSElCOFREdGdXRnJUM2NZUUZtS3UzaVlsV0tTVHQ2SEczVjFtd3dqcy1RTHVhVUJRNURxS0d1UUI0alkwUmRZLWl3cWlLa1hqUmfSAcMBQVVfeXFMTlZmeTlDRV8xbW9Xb3pQeVMyUzN4bFkyQktaT1d4NktESjBrREVGWmpnYVFPdHdXRF9FX0lMNUZhSnNtMmxxRVhVNU02Z3YxOW9KOU9jV1VVd2tjcDdRWmRJQ0Jwd2FuRHhkMWpFdmFPak01U3JnREVaTnFhb0VsOERxZ0ZzdzU1YnFRTzIyUFlQTGRkUzB4bW1VNkhqWHFDZ2JPc3doOGtOd3JidU9MYklSM1lTd1VVUExyQ0JNaTllUElV?oc=5",
      "fecha": "2026-11-17T22:27:07Z",
      "medio": "La Tercera"
-    },
-    {
-     "titulo": "Ripley eleva sus ganancias trimestrales apoyada en la banca y Perú, pese al retroceso del retail chileno",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVRadTl6Y01PeGJ2OS1WZ1R2b1VSaUpNaHgxaHFuRHRQblpqZThoOVRad1lRTnZUM2JhY2lOOVRYNVp2VHl5UkF3TXV6STl1TE5ESkktTTMtM2JxX2UyamZHLUpLTlNzSDdFWXJTREhrd1huRmRvWU1mSzNQdDFwOHBsVmZmNUxtdU1WSGNpUlF4U2h5T2dWU0VyZHhIZHlsa1hvLWhvY1l2WTduSGV6VWZuV0RrMXFpd1JreEVieDhJdw?oc=5",
-     "fecha": "2026-11-17T20:27:00Z",
-     "medio": "Diario Financiero"
     },
     {
      "titulo": "Don Salva alcanza 15 tiendas en Chile y prepara más aperturas: ¿qué viene para la cadena?",
@@ -204,12 +204,6 @@
      "medio": "CNN Chile"
     },
     {
-     "titulo": "Día de la Virgen del Carmen: ¿Es feriado irrenunciable este jueves 16 de julio?",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN3IydkowMXRmbHRiZ1B0d1VKdFd3NTZiZThCQXExUFhhX21xTDhDYnVTU2VKVGdCMWlDS0FtRlZPMS14RmFWX05XYWl2WGl2dFVWX1dBUUlHTGdtU2xFVVNCdkNrWlhMcm5XODNmNXJaYjQ4MFF6TzMxV0JDR1pGMjdTTUtGVTJzZ2xBVHVqNFBMbDNzLV9VeDNhTmxfR2JOMFJfQVFwLW04eWhOMnVEdmg0LUFMTmx2?oc=5",
-     "fecha": "2026-07-13T07:00:00Z",
-     "medio": "Teletrece"
-    },
-    {
      "titulo": "Avanza proyecto que busca derogar feriado irrenunciable en elecciones: fue despachado al Senado",
      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ0FiZk9lTEdVWHltMHNJUTRNMWQ0VTNzMTFMMFlxR3hHZWt4WTI3VThOWkQtX1lVTnk1OUppZnRKZllFd3pEdW43RE9hV0p5THNYZGo3bFhiNGEteVBUV2s0Wi1DNE5TY2o3S29Vc2p0WVY3RmtoM1JfMFJWZDdVTUc0SnBzLWdWX3dVWFUxRnhyMGpDeG1lQW9tOGpqZFFUZXRSckF2SWszNkhJMjlDVzRsNk5TMUJmRTdPQzVYZHQyQ1lDQ0ZVNFhjZHhobTFPbXBhbzIyVWxBanVZdHY5VjRkNktlcGVPdmJmNDlvamJmV2Rh?oc=5",
      "fecha": "2026-06-12T07:00:00Z",
@@ -286,6 +280,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWXg4UnBhQ0N5ZEJOemNiYmVSRllaRFZZSGwwTFlMWGYwWEg4cmowOG1JYnVzdVh2YXZuTUNNUjZmNmliWTBsYldPRnp1YlZkV0E5T0dhQjRmTk5PQ3p0N2tpN1ROTmp5X1VBbExwSHRQQkFibGpCNExRanoyYVgtRVFiOWI4ZlFnc0dKTWtjUjBnb2podmhaSXNpUWhYR29uY3RNc2owUFptcXR4M1A2TF85NEJleDRmOUNOVHMzTER5SlMtbkZmc0xYX2JGX296M2VrSE5xM1UtMlpFWWQ2MHhoTzBOMDczR2tGR19xNE85Nm1Xdzd6bE1HR2TSAZACQVVfeXFMTXM0bkU3WkJ4VThydzhKaEYyTDltNnc0ajZGamY1LVZNaDJtVlZFYXM0N3dZVHlLWWhkLUtvZDl1OS1oemFsX1JWYUw5X0N5WE9uazJEbHBzTnY4MThMRnpBMGhibGJtVXVjWHRIT1I0WTMzZ09BeGhCT2RLaUkyRFJoZjVNbUZlek00Q3FRcWwwbUt3N0RMQ0w0bFFEbklZLUJ2WE5GYnNaeFhvZU5yMnpSeEtRejdiUVdhT29xZ1dtZXd5ek1TOWRkQjJ6d2czak9VVXprZVhlSzUybUpTWXlQeno5djdnVEMxT1dDQ09LUjFKR0RpbU9US0tkN2k2aDNkQm9vN2w0T0xPdnVuRHM?oc=5",
      "fecha": "2025-11-14T08:00:00Z",
      "medio": "AS Chile"
+    },
+    {
+     "titulo": "Fiestas Patrias 2025: cuánto debo cobrar si trabajo un feriado irrenunciable",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOXVpUkFBTENtanZtVWU0NkVBbm9IRmh2RVEySm9LMG1id2RCejI0S3VCclNLVElGOS1GTm1SV3pQdWg1V3NwSU9qT09NZHllc2NzVjAtOVFfMHYtdHVwTUFjSEdzc24yblVianpQdVJtOWg4Rkw1dlJKZEl6VzNsaDlVbWtQWEp1OXVRQ2didUg1YWlTOTQtY2t1cXA1NVd6RHRBZDZZZ080N0tsMFJnalhmZmE2blRHTk5yR1FYWnFYQnRJc2c?oc=5",
+     "fecha": "2025-09-19T07:00:00Z",
+     "medio": "El Mostrador"
     }
    ]
   },
@@ -403,9 +403,9 @@
     },
     {
      "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmpRNndMNDlVZ0FLZGpaekhqcE4zMHJzUk5aZFNlUERjc0xGY3ZwM1RGcFJscWtUQ3RnODBhMXQ4T2J0am05SzFYLWNzWERBbzJmeDBtcnZQa1VhbFE2MVkzamVXZzFWTWduTXV5cjU2YmM3THBHTHhoeW0wazFFUHNTdHpIS0wtTDFBNlM2VmhCUTJzcGtUMTVIQXFDaVdtTUdQeFVPNDVNZFJNa0tkTXFQZmRGcHdQT2c?oc=5",
-     "fecha": "2026-11-19T19:09:55Z",
-     "medio": "El MorroCotudo"
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnRROW8yVWJ4aktfWDNWZ0tnQU4zalpndTV1a2tBYnR0SHlWOWZPWDJwVThRVHA3NmdOT3VKMzY0c0gzLUxuNTIwcTRLLWR4RUU2MkxfYlN1Y3UxdVZ6SWVGRy1sa0w1WF9JUDBoS1V3eFdGLXN4OXlFQ3dJUTNsZk9OV3V5cmpSZDN0SkhoRmI0Z0xGUkpnaV9XN2MybGg4MzNtUnBrQm51RmpwMk1JM01pYUNJUkFqOXc?oc=5",
+     "fecha": "2026-11-19T19:16:15Z",
+     "medio": "El Observatodo"
     },
     {
      "titulo": "Ley de 40 horas: ¿A quiénes aplica la próxima disminución de la jornada laboral?",
