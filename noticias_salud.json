@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T07:58:26Z",
+ "actualizado": "2026-11-19T09:39:56Z",
  "fuentes": [
   {
    "clave": "salud",
@@ -48,12 +48,6 @@
      "medio": "Ministerio de Salud de Chile"
     },
     {
-     "titulo": "Encuesta Mundial de Tabaco: Uno de cada tres adolescentes chilenos reconoce haber vapeado",
-     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcXk5LWJKdGRaX1BOUGdEUENoc1R0ZUN1VEF1MEcxNFhnUllJYlVSX1U2NTFMRTV2OVB1SEx1VmMwbmYwcjhwMktwb29pOEFoaUdZOU4tM09WWE5Pa2wtVDE4bmJGelM2dWk2ZGJ6OG5iTEIydWp3c2ZYcWVRd3hHM25WUFJ4NkRnX0tiU09EaThxR0FHZHh2WktkTVVibkt5ekNPLXBQd2xDbDNPcmVqanU4bktNVEF6YXFSc3NNVFZqd0ZEN3p5eHBOV0U?oc=5",
-     "fecha": "2026-08-05T07:00:00Z",
-     "medio": "Ministerio de Salud de Chile"
-    },
-    {
      "titulo": "Hospital de Urgencia Asistencia Pública lidera ranking de gestión entre los 62 hospitales de mayor complejidad",
      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSHBhZTJkTEt0RHlONmxJNDRPQjJYOXNfYlYxQTMwc2VYYXZjOFBWRHBndHgtcmVXSFRyZnlNOFVnX2twbm5UcjBNMThNSXNKOU1MdGI3bzh6WG9oWlFDbXJ3WGUwbG1iNUszSU9HcTFpbzRMZG83a0pNM2c5QV9YaEl5LVd5MVFaOVluUENoSHJBRTZXTHFaVzdBMkhuUzQ1R044SkdURXIxc1JxdGVTak1feVZMMk1zVG0wa1BVSjhrc1pjb2dpbDNiS3VFUQ?oc=5",
      "fecha": "2026-08-04T07:00:00Z",
@@ -94,6 +88,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NsYmt1ZmM0YWlCeGJKMW96VzA3RTdRSHhGc1RsZDZlZmJzTkJyOXVESW1aTEtnazU0QlJ0Wm9DRkxTNVZleWRTMDhmdmlXVVh2NDltNDV0QTJ1bGtYbzNMYzlnY1BQUUdva0VMV0tCSVpNTS0tRGhKY19KMUhWcVNYNEhTZDZDMS03UDQtQmk4MjRCWWVFOFVVUTB3aVFPRjhIYVJaYU9ZQWxoQmtlNm9tYWdrSWR5bE1ELUNlV3lFYkhVaGZhN2Jn?oc=5",
      "fecha": "2025-10-09T07:00:00Z",
      "medio": "Ministerio de Salud de Chile"
+    },
+    {
+     "titulo": "Artículo: Salud A La Vanguardia: Inteligencia Artificial Para Mejorar La Gestión En La Salud Pública",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT21DcU52Mll1UXB5Vk1uZWliSVhPRW94Z0g2aTJnbGRPeU9SLWNkNXdYVzVFMGlQcUx4ekNDWjlFR1Roc1RUMHpac0kxZDJ6a3NLRjVzWkZzRzlRWXBPR2g2X2kxbVAwR0k5WlFSTE1yRUJQdTEtZ2UtRzFITHNHeG0zYXFhZU5qcU9QUm9hc0RSWWJkcXNQZXdJbUh6bFJXY3VxZlpMWDM2TnQtakhaaGdidFpNTzBQZEU1dUN2WGVvdmhnaU5EQQ?oc=5",
+     "fecha": "2025-10-01T07:00:00Z",
+     "medio": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación"
     }
    ]
   },
@@ -198,6 +198,12 @@
    "nombre": "Sector público",
    "items": [
     {
+     "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
+     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkRpNW11UnQ4S01aU3M5NkwyNVFXaWFaNHVWV0VNZERIbi14NnR3WGpncjJMamRIMEk4S1hWTE5yV3Y5VWJ5UXU5cWd0dDJ1SkN3X09aYVNvR2x5bkdPc04xUXRQME5aVVVLVHN2OUxjVlUxRGJnTm1KYTdfRjFTTGJsb0tWa0t4RXBIV0kzbWRSZF9fN3dkVGdsdFlhVno4aXo5OFJBVkdGS00?oc=5",
+     "fecha": "2026-11-19T08:36:36Z",
+     "medio": "Diario Concepción"
+    },
+    {
      "titulo": "Protesta: Estudiantes, funcionarios públicos y trabajadores privados se movilizan por el Presupuesto 2027",
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZW1lLWpTbGVtNWNZVXVWRGVNY1JsR1J6R2R1QllBZ3RScnFkbFNFWG5KZkpjY2lRWDliUldnNEdHT2k4OC04UEtuUjVhV1BfUXBPcnU0Z1NGSGJDRjVGVndMelAxa25tOHRuelAwT1ZLT3dIOTY0ZzJPRWZKcHhNRVh4SlBiUFRSMUNYUmNMUGt5WHpLeVU5aDRkSGlCemc3UVJGQ09BTnZSYUpVMG1DXzF3RTN4cFJZd0gwWWJGQjladw?oc=5",
      "fecha": "2026-11-19T01:13:00Z",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnIzdzVGTldHeWVaVVp3bEtWRDJIaHRZRVJCRFd0R2hOSEhhOEEza1pISzhPQ0o3TWh0eEM1cGxTQ2I4U0xkMndjMGZkeEprVkJuc010RklMeGNmR2NGT05SNG9lcjVYNkxIMFlfSkQ5UjluQmcyU19PNks2N2xqamNHbF92d0JWcFEzYnhqZ0QyX09ueDBFN3pxVklIWV9yRVFQOTJxS2RWeE1tZjVvamhtZ1JqWWNkeHNj?oc=5",
      "fecha": "2026-11-18T06:09:22Z",
      "medio": "La Jornada de Oriente – Puebla"
-    },
-    {
-     "titulo": "Contraloría detecta a más de 300 funcionarios públicos condenados por delitos que siguen trabajando en el Estado",
-     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZl93Y2RhYzRMZjFqdTJ3aHlFYUJ6QWxqTlU4SVRvYnpkVjctSlhQTWxWbVRNSHJQNkIybFlZNHYzT2F2ODhMMFV0bWQzNWMwWi1wdkJhVFBpWmphZDJUTEVPV1h5bVlTZEdTMXVTMUx5MTFPblQ2QVR4WUwxVGNtc0lrQzZhTlZqTEE4VHdYWUxqXzJRRjZxdldJRWVwRWdDRm5YZFdSd01mREhOeVpxTlVMV05qcm91bC05Q2hScDh0SGJtWEt5M0Niakk3Vm1SRVRBMTFIOWhQc0k?oc=5",
-     "fecha": "2026-11-18T00:03:21Z",
-     "medio": "CNN Chile"
     }
    ]
   },

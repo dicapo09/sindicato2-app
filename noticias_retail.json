@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T07:58:21Z",
+ "actualizado": "2026-11-19T09:39:50Z",
  "fuentes": [
   {
    "clave": "retail",
@@ -66,6 +66,18 @@
      "medio": "La Tercera"
     },
     {
+     "titulo": "Ripley eleva sus ganancias trimestrales apoyada en la banca y Perú, pese al retroceso del retail chileno",
+     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVRadTl6Y01PeGJ2OS1WZ1R2b1VSaUpNaHgxaHFuRHRQblpqZThoOVRad1lRTnZUM2JhY2lOOVRYNVp2VHl5UkF3TXV6STl1TE5ESkktTTMtM2JxX2UyamZHLUpLTlNzSDdFWXJTREhrd1huRmRvWU1mSzNQdDFwOHBsVmZmNUxtdU1WSGNpUlF4U2h5T2dWU0VyZHhIZHlsa1hvLWhvY1l2WTduSGV6VWZuV0RrMXFpd1JreEVieDhJdw?oc=5",
+     "fecha": "2026-11-17T20:27:00Z",
+     "medio": "Diario Financiero"
+    },
+    {
+     "titulo": "Don Salva alcanza 15 tiendas en Chile y prepara más aperturas: ¿qué viene para la cadena?",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdG90ekEySG5NMHNiZENiUHA4bVRod2xFeEttZ1YxdWZQcHFsMTRuZVZtcHpENmFrNDRCcFVnb1FYandLc3pQLWI1ZDI2RlVia0N4emNPZ05sV21XT20wMjVyeWc3NDRRd3BrLVFnc3A0WkQ0bVV4cGQzM1ZxT04waVVHdjV5UEtrd2l0S0tPdjQ5aENieVVEeTBLVDlTeG1yLU52cFdCNkZyanhzSEd6TVdRVDI?oc=5",
+     "fecha": "2026-11-17T19:59:33Z",
+     "medio": "Perú Retail"
+    },
+    {
      "titulo": "Más de 500 empleos generan los tres nuevos supermercados que Walmart Chile abrió en el último mes",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU01XM1lQODhab0ltZGd1bmk4SW5uQlJoalA2VXFoT1NCSkVmTFZmWFYtWEVxRERBSHZ4eDhjVVZLbFhsd2VMU29qMnVRMzI5dEp4ejVxMUxZOGdEbWRCaUJKam9Idkp1VUtTUzVveW1laUx2YWJIeFBtWXltYkhUdHVMN1c1dmZvVUh2dXp3elNsTjUtTHVIcHlrazQ5QklnckE1YmdZeFQ2VHhBM3cwQjRfb2xBaGpUcHdKc2NIV3R3SlJCWTdkWUN6cw?oc=5",
      "fecha": "2026-11-16T20:21:42Z",
@@ -82,18 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmVkbzBEOW1rT1FYdDZFcG1mcGVhMXhYc1RXc21CYmZpUDVHREJxRnJ2eGNVMGthN2FCOVhwNTM3SnJyeXZjbUpqS0dsRFFscC1BTzNjdTdLZG5WNXBIUG45SzVzUlNITGdVMXBRUFhlUFV3VWVGRUNndnR3VGxnWU10Sm5kZ01qaUltOFcwNkM3ajR2Znc?oc=5",
      "fecha": "2026-11-13T15:59:18Z",
      "medio": "Supermercado Al Día"
-    },
-    {
-     "titulo": "Walmart Chile nombra a Felipe Nicoletti como nuevo Gerente de Ecommerce y Growth",
-     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWhUNEljaVpWMjJfRV80UVN2VmM4RGg1WGFNeWl3d2pQRDRRTDFYUno4d3J1X0I1V2xpb29lRFRaLXJwUmFZOTV1V3I1Skhiek5hN3dCWk9WWjBFQ1dmaDZlOU45eDVRZUxqRC1uQ0JVQ3ZZNkFpakVaZ2RiWUY5andKZHhJVm5lbGRUZlJXWHh1RUtRU3lUVDN5S19VNkRQbmNkLW9OQTNqZ2dMQkE?oc=5",
-     "fecha": "2026-10-27T07:00:00Z",
-     "medio": "Walmart Chile"
-    },
-    {
-     "titulo": "Falabella Retail: perfil de Cristóbal López, nuevo CEO en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWEVxVUpId1pDN0VETDdKQ3JMTDF0VHJCQU5GckZ5M2Q0ZTljc1NlLWlPLTZDLXBUYzZXcnpBMUpGMG9adEstelBKUkdmeXI5RUJVbzZZMWpPZC0zbGVwVjFKYWZwYVY5cTZXWWZhcmc2SmxjQXBRd1U1UnM?oc=5",
-     "fecha": "2026-10-12T07:00:00Z",
-     "medio": "Ex-ante"
     }
    ]
   },
@@ -186,10 +186,10 @@
      "medio": "Interferencia |"
     },
     {
-     "titulo": "Trabajadores de un sindicato de Walmart Chile inician huelga legal emplazando mejoras y beneficios",
-     "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPd0xjV1JNNnJNcXJFYWhmVjU1YXBRRWpoZXcyQUNTdlhTVEU0U2pFMGhwWTlGa19pUi0yV3NQdEU3Rnh5NWZpSzNJbEN4TlZWNHdPV05fRDNMOGFvMm5WNnhWeDhfZk1yWEhoQlFvSlVWS2ZYYi1CZ0wxVGtkeFQ0Z1lHWHA2V1RSRFBlZ193WktpUlJuNzJCQVlJeDMydnpHdjl5aE5PUzZaWUNnQm1OMTAzYXhWRFZtcV84RThsdmZRdjB0YXlmb3NHZEhxQ2VHRVc2bjNkcXFvVGpOWi1yU045b3MtUlppaW0wLTZmaFRkRmlJM0tISkpFaFhQQTdzVkVlNkgyU2dTOTRXSVHSAZMCQVVfeXFMTkdVdS1vVW1IZjNEejdDQ0hjMjROTW5MUUxrX1JTNUhpeHZfekhnTGp0bmZsZG5RRE1NbHVzbHM3TkdYdkJ3WnRJcnkxMTNGYTZxMnluWXpSMWZDNXQ1MTF0ZFlCemgweTV2NWJ0WjZ2UFpmM3ZTT1B0N3dpQlY1UVRndTVmZU5IQlhQYTBQRHBxWGpIZmhwa3B2bzhfZTlyNlhDUFBSV3RqdHc4empmdkdLNnQyRDlLLVozdEVsZnNfdGpxSVk4ZnIzbFR3LU5rU1BOaG1tVmZ5QTRyVjl6OXA2RTYzX1A4aHIyb3FLU1Z4Y3h0aDNyWEV6b080UWE5cjV6ekFwOFJDRFJVZ3NVM0FuMDQ?oc=5",
-     "fecha": "2024-07-10T07:00:00Z",
-     "medio": "BioBioChile"
+     "titulo": "Walmart logró acuerdo con un sindicato, pero siguen en huelga casi 10 mil trabajadores",
+     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUmhFT3R6cFhXdVIyOHB0bGktcnFtWmtuZ0h5cHNXZlFiVUw3T19vY1BYbl9ja1ZPUi1HbkMtN18tTUZLdFp6dzY4cmN3dGFSZDNLNEZmU1NJRExKVlBGSVVQYzk5M2xLWGhXckFOdE0yVGF0V292NmRyQkRpX25nQmUwdHNaZDBwclpVTFJuSi02Z2JJM0dIakx6V0dGcXctbUp6emh5cUozTzBWQXhMWEhhSmZ3c0FSMW8wSDg1QTBlTGhYV3B4WGFBWVBGVVIxbjF5MXJtYldueFVqeGNqRDNRYV9RWlVmWUU2Tm4wYzhBUXpVR0pHQtIBjAFBVV95cUxQTWdad3lLeFBwN210UXBKb196SGJoRTRqSEFZT3RNZ1VCQ0NnMF9icTNFSVNPaDFGZGpGRzMwQzZ0X3BsckRlcThwY3l5djcyS0ZiTi1wSGFHbVZaMlg2SnZUd1FmQkh5VEg5ZlpicHhmODQtX0FYMk9UeWNIUFktTVlvQmtqZHZKSEVVWg?oc=5",
+     "fecha": "2024-07-12T07:00:00Z",
+     "medio": "Cooperativa"
     }
    ]
   },

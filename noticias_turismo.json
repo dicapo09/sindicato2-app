@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T07:58:27Z",
+ "actualizado": "2026-11-19T09:39:57Z",
  "fuentes": [
   {
    "clave": "turismo",
@@ -40,12 +40,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1FZRHprakhfV1RtWGF4Yy1lYTBxZHhaZ3B2WjdNalc0YVU3YVp5TXZIVjgxMXVkQ3B3NnFydjhtam5sTVlqelprTzE2b0pzYUN2SUJjMHhsRHN6WlNOUFhCS291VGlJMUtoOXJtWUdrbVdOWC1JNjRnRFhRTEdpVVlNb3ZpYkZSVDB1SGo5RTl4cWk3bnFLNU5CN1dCVWo5M1VKbnFEOWVvYWRfcE16Y2VuZnoyYTJrbWJN?oc=5",
      "fecha": "2026-11-18T05:31:39Z",
      "medio": "Prensa Mercosur"
-    },
-    {
-     "titulo": "Santa Marta toma impulso turístico y se prepara para la temporada de fin de año",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2xqN3E5bWR1U29DMnBjYi14Z0s5WFZkQ1U2VmpodDMxejRYdEx3VG9DN21jY0NMX0EteGViX25WWHlpM2JoeXBmWk1GNHNzZWZsOHdiT2N6MWx2eEJUaC1WMVU0a0RUTzJXTmdmVXY5QTJjbGhFWlNRakZnV05tYVZXVkRXalhZN2ktX0IwVFJZM2owTWt5SnhzY013ckdacUozTnBPemhKRFd6d3d1eDRTekrSAcgBQVVfeXFMTkhzUFd4VWpjUGFwMWt1eDRZR01KSTFTNzFEeTZOSGZSdXVfWExxOUxINjVnRUUzRS1NSzdkZ1BvNkczbDBCLXVzNHBITnV2bEJUd3N1ZDduRGpEQWI3bjhlYUhnMjFRSERqQ0xxcjhVaGVkUjZaYTg5UDJlaHNIV01ETDJOUmFMVHdzbkRKQ09jVG8yeXNPalNjV1NNRTNLYUtPUzJDUzFReU5WOEFBVTEwNVZTWjdnUGwwTDNFRkljek91QWNOSWg?oc=5",
-     "fecha": "2026-11-18T01:57:12Z",
-     "medio": "Caracol Radio"
     },
     {
      "titulo": "Coquimbo busca conquistar el turismo internacional: compradores de Europa y Norteamérica recorrerán la región en diciembre",
@@ -94,6 +88,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb1E3dUZMWDlPbUNrYklHYUhZVUw4NXhzVnFyVVJIN1NwbVhZYl9LVkpMWndjTVhKSEFOSVpORU5ONDRxWnY3TmxJdGFLbDh0V0RFYlp6enF2OUp0MnNPLVNzMjVldk55TUUyMlduY1NBeC1ucThXZjRCdV9vNVhueWszWDVQaTAxVkpSMjgxb3p6SHBnblI1dm96N3pITVg2SW5XOU9xMks0dkVsSXppNjFzSGVqWFFTRVJINERGRFR3Zw?oc=5",
      "fecha": "2026-11-11T20:22:27Z",
      "medio": "Servicio Nacional de Turismo - Sernatur"
+    },
+    {
+     "titulo": "Sernatur recibe al primer grupo de Turismo Mujer en Ñuble: 320 beneficiarias visitarán el Valle Las Trancas durante 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZlpPQlFhUTdHajlDcEFCTk1Lb05yTXczREtmRGNSR1RuUmtjNGJodEtwc0JQakF1MnBobTc3M3Rmajk1RUJqb25GOW5LVFJqMVlVWGZzcG8xU1l5eTZDNnBLazd5V1RfWkxHN2NmVnV2Zk4wazVvUl9fcllTQmlPRU41UklnSG53aHZIbUV6MjFnQlRkWmR1MjE4NGI1YXpPZnFxdnc3ODdjQy1MVE1JdWlNUHI4X0hHSUV1SmxWVl93S0VPOFBiZ250ZjJCU05rNnctTnRrcm9GeVMw?oc=5",
+     "fecha": "2026-10-19T07:00:00Z",
+     "medio": "Servicio Nacional de Turismo - Sernatur"
     }
    ]
   },
@@ -111,7 +111,7 @@
      "titulo": "LICAN RAY CELEBRARÁ EL DÍA MUNDIAL DEL TURISMO CON UNA VARIADA AGENDA DE ACTIVIDADES COMUNITARIAS Y AL AIRE LIBRE",
      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT3RDSlZlbmg3T3MwWjdsNEFGajcxb29GU2lIcVY1WWU0MmxXNlIteWJyd3pzc09wMXJyYklJN21nYzF2VE5rNl9JeGN6d2p3RFlmcWtUSlg2MkY2REotMnlNdEc3RV9OTlhXbVdtUzJCSHp3a0NES2w0cmJRMWZ0RjJNd2xfNEsxZ3llaWV3dFBLcXVOdlZyMTU4MERCdXFENlgzN2p3Ui1XYmJIOVZLbmNoenpIYXVtTUYxV18xLV9RcGVVSUU0c2xUUWtUem5uZVpVMzBIQVp5ekE1QXN6Y0Z2VERzOVBnYWNpblQ0cw?oc=5",
      "fecha": "2026-09-25T07:00:00Z",
-     "medio": "araucanianoticias.cl"
+     "medio": "Araucanía Noticias Temuco"
     },
     {
      "titulo": "APRUEBAN HISTÓRICO PRESUPUESTO DE 1.630 MILLONES PARA POTENCIAR LA ECONOMÍA Y EL TURISMO EN VILLARRICA",
@@ -228,12 +228,6 @@
      "medio": "Achiga | Asociación Chilena de Gastronomía"
     },
     {
-     "titulo": "Trabajadores de Enjoy Antofagasta inician protesta al no llegar a un acuerdo con la empresa",
-     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbTFFQWdJMWdiNkFmMGQ1LVJWVUJxWjBTZDA5a09MM3ppZnRzalZMYXhsWDk3dDF3ckp1amFyZ244YmpQLXVYRXVuY21lQmhQSlYwLUlsc3JCN3p4Qi12UmhoVEwyVklFZWtsNUxCR096OThYZE4xYnNoNWtqa0EzdUFhcFVzNk1oNmRqdS1kZnBiZmxuODBlbjlMbmZveFN5bEVid1dn?oc=5",
-     "fecha": "2024-06-12T07:00:00Z",
-     "medio": "Focus Gaming News"
-    },
-    {
      "titulo": "¿Quieres trabajar en un centro de ski?",
      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGFYZzNYYmhUcVktb194eHYwaWo3Z2ZBTUIwa1hGM2hrcnhUSlFyZDktTXVVNnhwWnRidnRNOEgxMEVvNFR3dVZEWjEtQXpGQWg1MXR0dnRpTURwSElLZGdHNEtuRjlySHFFSGh1VGtBTE56eXpOTlNrVUFSNVhXRFJqYkZtdw?oc=5",
      "fecha": "2022-05-08T07:00:00Z",
@@ -275,12 +269,6 @@
    "clave": "sindical",
    "nombre": "Mundo sindical",
    "items": [
-    {
-     "titulo": "La Roja recibe una visita especial en Lisboa: “Para lo que necesiten”",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmh6ZjgyQ0ZFSS1JODhWQ2h6NXV4YVNHNGcyY0l2d1dMd3FiU1pnTGQxRUZ6OTVOUTJ5ak9sa0xmQlpSaXlrN2VzV2hkaUozVVRlSjA3d3N5SGpFRnM0ODJHNkV0MjlQLVRUMllKV1phN2k5ZWs4V1BYZzJub3hRMU04eG40V090RFI0TjA3eV9aQmk1VlUyT2duaUx5S1ZqdlI5ZFRyLWHSAbwBQVVfeXFMTS1YOV9ESExoZkdFVTR1cVM0RnpIMVZNOVpRQllUeE4xRWtSSlBsSWllOEk3NVp1a2N5bzQ4dnVNQlJkTG92ZWhTelI4TUV0dTRsU0lTZ2Zabk52ZjdzMHJUNGFxYTJhU3FQYWpfX1NDeVQ2QmFyM1I1NVlUTUk5cXN0NEwzR1U0dUk2elhuVHN2ZXJKYWZkVTFLcEtoTXdDcTloa1kzZDhZeFo1bTIwaHlGa3Atd0E0THgxREY?oc=5",
-     "fecha": "2026-06-04T07:00:00Z",
-     "medio": "AS Chile"
-    },
     {
      "titulo": "Trabajadoras y trabajadores de BlueLink Chile inician huelga tras una votación con un 87% de aprobación",
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTlvNVExdjhVRE1iMGc1ZzBtNGF5eDFRMlBDaEVzbWM4SWY3dlpZMHdTX3VhZWZtRWFvUFZVRGlqZDVIWjZqcXdDcmtVNkxtTEEzWlkwRHFFa2lmdzFQOERzbjAzYzhJdWI3VmRiNU11M2Ftbzl5U0ZtQkxfQU9ZekZBTEpGcTdnY1ZRVUcwZHFlREo5LVR2WlpoY29GMGlNd3MwazdRMUJ2cVhPSGV2MzlsbzRCSFZPaXhvSE9uRkJnZ9IBygFBVV95cUxPNkxObl9FbTExUnR4MGVSaHNvUE1raTAybFVYZjhGd0paZG5pLXhzeHA5VkZkYmtHbkNjVFhtMFJTRlZsVGF4MC1zdFNWT0dJbVlwZUZZZW1FT2JoS21CSUNyZXE4ZGdZNW5VcHhyT2trNWNkWVkyWTFRVzFrUGd3U3dYY3dNTzh2Z3lVUmpGRlVsRmY0UGhMQmM1U1ZzR1dPLTFuQ1UwZDBCOFRhWkxDeGNzX0xDRzdremR0eDlyeEo1TzdsYkJGUkVB?oc=5",
