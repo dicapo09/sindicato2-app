@@ -30,13 +30,13 @@
   "fuente": "INE"
  },
  "oro": {
-  "valor": 3736.95,
-  "fecha": "2026-11-19T07:41:32Z",
+  "valor": 3731.85,
+  "fecha": "2026-11-19T10:25:03Z",
   "fuente": "gold-api.com"
  },
  "plata": {
-  "valor": 45.27,
-  "fecha": "2026-11-19T07:41:31Z",
+  "valor": 45.22,
+  "fecha": "2026-11-19T10:25:02Z",
   "fuente": "gold-api.com"
  },
  "zinc": {
