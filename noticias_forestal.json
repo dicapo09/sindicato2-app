@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T09:39:53Z",
+ "actualizado": "2026-11-19T11:33:49Z",
  "fuentes": [
   {
    "clave": "forestal",
@@ -72,12 +72,6 @@
      "medio": "BioBioChile"
     },
     {
-     "titulo": "Rodrigo O’Ryan presidente de la Corporación Chilena de la Madera (Corma): “Que nos digan (al sector forestal) que hacemos pedazos el medioambiente, nos duele y frustra”",
-     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXZ3TGZ4TmZZNm45QWlkNFRibTd4NGg4LWhBWmJRS2FTME03TmhVQVB3ei1JekFnRU9nbGlLa2hfQk5zOFozU1RnWllReTk4LWRidzN0SVZfU2pnM3p1WWJTVjdibTk2Rng1ZlZFZVdCMDA4dWhrbmVoVllQazN3NWhsRHJ5ZC1LSnFBWVk2Y1MwcFFsb19yUWg0amlfOU5IejJjemM2TFV6UzQ?oc=5",
-     "fecha": "2026-06-10T07:00:00Z",
-     "medio": "Diario Financiero"
-    },
-    {
      "titulo": "Arauco: una empresa clave en el desarrollo forestal de Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFE1bEJ5SWlkRFdFWkFBNWRKaktuVWVKdE1VamtNZ2dsS1cxMHFqbEk2d0FtM3FIUlhEMXNqbGxKdlBZeTEtbnZKcjBnX2FJWHMzUWdzVVk4Vk9sTk9jMU5kUU1IbDUyWEQzRVFZNmlfZ2VKMmV6ZWlVTnI0RVBtVTZnTG0wQXhOUjltTTAxa09teXJPQnVqWmZVaDZ2dUhONTQzT05EZG9iWFJVMS1KeUZXV0YyVWpGY3R30gHDAUFVX3lxTFA2cFRGaWtmaXZvNVExSHI5WW54Y1pKLXF4amZJdG5NcklHVXhZX21QN2xjSDNrNGlsX3lxaVVkTXNoVlhQQ1JoeGlYV0trRm9IcF9LY3JUcTBsSzFRVGRsTzJHazNFTEFCYzgwUmtrZXl4Y1hYUC1pTHUxX2NnZ0JNWUVZQkRraVlOalI3QzVZalhZaWhydl9uM3E0Zm9YbnJIV0hvbmIwWjlQaUcyemFNUUNHOFl0eUJGa3BLeUpIeEJ0NA?oc=5",
      "fecha": "2026-03-03T08:00:00Z",
@@ -94,6 +88,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWUyS3IyQ1NBT0paY2VVS3FPR2R6WHVqbDRiejF2ZVdhY2daclhrVnBlZWp5di0zTGtVVnR1ekVBekpjTzBrME9oRGZfWnFYX19rUEtQR2JSTHdfSTJMZUx6alJmNWhJbWxCaVVoTnE5b1VfNUtaNmpYSFFOQ08wOV91YXYtM1lrNmg4ei15M0JEbzU3YzNjSzJPQXVOWGJDNmlaTGRMNGVFdThnSW5VckY3V0swc2JaeTd3WXlGVjN6Z3d3b0N3YkRCeDhsTUxPOVlF?oc=5",
      "fecha": "2025-10-29T07:00:00Z",
      "medio": "Xunta de Galicia"
+    },
+    {
+     "titulo": "Gigantesco incendio en sector Forestal Alto de Viña del Mar: van cuatro casas consumidas",
+     "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYTNJWVJpalNKVElhQ0VvblIzOG8yakppalJjYlIwZzB0Q041SlRZSmc2dnFhMUFoREI5MmZXUk1GX2JXY3ZySWFlQ3J6aW1lcXhSNDdZVjdpUWJZaXdHOTRwOTlNTkJJZkJ0MFBkU1Exd0Y2WjFxV29zQTFHYkZnSFBFekFOaTVLVEh0LXdtMjlkNmI0RnVLclBOV2lsVy1ZSkVPS2xaNVBVcWlCNllHa2RUbTZOaG5KSUlhTTZrSWVpb0NibXlBYXBjUzVkXzRWRkJRSkk0Njh0N0dybkx1WG40Sm9HWUZYX2fSAe8BQVVfeXFMT2VEXzlORDNwWU5TQ0NuQkxCSjdTZ0dpbjR5aC1zMWhvZ291OGdoNEQ0QU9iMkxCTmd6OUNOLUlUczlzc1RTTkF5NndLSEFyUEMxeVBxYmpYM0ttQU5Wb1Z4VmtPOU1sOUhQR3hVVzlFcWNOOTE4bWlXNUxDeEJYbUVvQ1NMQkdQRGNlQWdsRXB5NG8xM0N4aUt3U2s2X2ZnWkhkS0t6dm9meFVKaWhaLU05UktlMnM1dVVJd1dzb0EtWURWYjV1Z0NUekZVWWc2Qll2TGhiOWNjMVg0ZGYyMWRzRDk2MTcteE9xTkl5RFk?oc=5",
+     "fecha": "2025-09-29T07:00:00Z",
+     "medio": "BioBioChile"
     }
    ]
   },
@@ -198,6 +198,12 @@
    "nombre": "Forestal en La Araucanía",
    "items": [
     {
+     "titulo": "EJÉRCITO REALIZARÁ EN TEMUCO EL EJERCICIO VOLCANO XVI PARA SIMULAR GRANDES INCENDIOS FORESTALES Y EMERGENCIAS",
+     "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeDlyTWVVTkZ6clF5TUhQM1prV3Jka3J5T0gxRHh5aXRlMmhTSExuZUhwempSaDZrTlFGWmNXMkZoNVJ3ZEFVUktHWmhJVFdybHRHMjVDRXVURmx5S3FlbzRETVNCQXNHOEZ4MUZQWlhuaG1iWlRheDFXY3paV1VIb0hja2pnY1Z6ZXExZ1l6TU5Fb2EyUG9GVmc2RnByZUFKWEtzdlNrZTJuZE1yX2VndjByQ2VZZ2tqZlpmaWRWLVhoZjdXd1JXUHVjMDQ1YzlFR0loZjVDd1g4LWxtQzltOFdwWG9pUkUtUFE?oc=5",
+     "fecha": "2026-11-18T12:02:49Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
      "titulo": "SENADOR BECKER EXIGE ANTICIPAR TRABAJOS CONTRA INCENDIOS FORESTALES Y PIDE CLARIDAD SOBRE RECURSOS EN LA ARAUCANÍA",
      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNajJuZzkxdU9XQWJqb1ZQRnB5YWd4NExGX2QtNHNyOFJ2TUtmVUxkMzF0bTBta09uRzBBbmtzR0h0bThlYnI3bTlZUGdkOHpBTXFLYXVIdloydVhLUHpzb094cTVuTU1qRGJNaTlQTjJ6MnB4OFE4Z2duVFlkRGpBMVJRQWpOYWV6cTFlX3VET3hOR3VucklVanBaMGV0TExiczRtSzV6ejB4bmtnWVEtVjZjVmxsZVlPYVhudENVY09uUFIxczlnXy1YNTZfaWhiZTJCRVVIM01Sc0ZUdWtIY09xbW4zODB2aWxpbzVzOUY?oc=5",
      "fecha": "2026-11-18T00:02:57Z",
@@ -243,12 +249,6 @@
      "titulo": "La Araucanía refuerza preparación ante incendios forestales e inicia trabajo preventivo para periodo 2026-2027",
      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYWlQRzM5QW5qc0N5MkViOFU1WlNCQzFUSk1vM1pQT3ZxWUFpWko1cUp0ZVJ0YVNpUjlibW9zMFY4aVFDN2lXVTI0M2p5eDBuR0dYZS1IdWMwYkg5Y3pRN3U3eUtEUXViRUc3Q2pFcFNIZmlXRHlHRGl1X1JTLVc2d3FVTkNPRU96U0x2V1dHZ00tVTFvSWNCVlNEeWR5RzNpRWhERUdkVUxibUVReTZxSnlSaVlMUklvZkZQNC1uYjQ4ZWNyLVZVMjB0b04?oc=5",
      "fecha": "2026-06-03T07:00:00Z",
-     "medio": "Conaf"
-    },
-    {
-     "titulo": "Inédito rescate busca salvar especie en peligro crítico en La Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzZ0U2YyYy1JX2MxX1VIV0FFT2F5UU0yUHpQRVJrTkVUWm5WX2tDLUxtSkgyNDE3YUdWdjAtbUtDZDdPUVJjMzFuT05kTmN2djZlY2MtWXQ4Z0x5ZUpoN2o4WTFMZ1pRZkJ5Q1UxU3hRbTNjMlNmWHdDcl9VRG4zdXk3N3FMTnVYS2RwemlDRTZpRnFTbUx4cA?oc=5",
-     "fecha": "2026-04-21T07:00:00Z",
      "medio": "Conaf"
     },
     {
@@ -324,6 +324,12 @@
      "medio": "Torrijos Today"
     },
     {
+     "titulo": "CCOO alza la voz tras la muerte del trabajador forestal entre Fasgar y Salientes",
+     "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUZYSWhkVzJFMm4wdnBhZDY3UDR4dk1hWFh4aW5veTlfUnQzVll3eFFJOHNDRzlZZGtSbzRUbTcyclItZU9MRWp3VDRSQm94ei1MTm0tLXEzUzhjUzc1Y2M4T2N4em04bjZTMnRtdlBtVGdHaUc0TGRjRE1qWFVzdlJwVHBmTllpbWkwSmxGNC1ZV1kwb25vMXBhc1BueGN3MDk4U1ZobEw1bU4tT3ZQckJMUQ?oc=5",
+     "fecha": "2026-10-01T07:00:00Z",
+     "medio": "El Bierzo Digital"
+    },
+    {
      "titulo": "Sindicato 3 es la grata revelación del Torneo de Clausura de segunda división",
      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFJUNTRfMGhDVUhlOXU3S3I0MHptUU1vR2JGQzZpNWY3a0I0VTlneEg1NmktTFRkd2xBWXI1dVlNTXpLOUR2ZXlpN3RUajd0SE5nM0Z5Z0lPNnVKNFlQbW1BWVhZWkdYVkphTUNyYW9DcVBGRDJmOEtqYzl3UW52RlQtWWlqZVFDeHZqckpWczNiMzNPeFBxV2d2NUV4bVVhUG9fQnJB?oc=5",
      "fecha": "2026-09-28T07:00:00Z",
@@ -370,12 +376,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjRodnpac0FfbXllb3gxdkN3WDI0T1ZiZjUwNWZUdlA1VUZ3ZUlBeGJzYl96VWwtaldFQ2l2U0dLMkFSYi1XYUM2eldJb0Z2NlIybHU4djJKalFtTE1aUlprSDh2ZGNaYU5BdWxLcXYxbmxQZnY1WEtLQTFMQm54TUtEQWhQaUpfMGV4ODZZeHVFV0RSZlk4a3JLaVlwRGF0WmZHd1BXcWNHcUlYU2R3?oc=5",
      "fecha": "2025-11-18T08:00:00Z",
      "medio": "Portal PIT-CNT"
-    },
-    {
-     "titulo": "Coeficientes reductores de jubilación también para agentes forestales",
-     "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXpkNTJTNEstS0c2WGZnb2Mzam5JMEdmU3ZFbzA2LXROQXhudnF4c0FMM0gyOTF1Um1Wb0wzbWY1MEFHRzlMc3dyVlM1TUJNT05OMlByR1hVb0h0akxPOWFxSC1NV2c4TFNPWkVWa1hHakF5LXFobnBjMW1IOGRIVFF6NnhCMlZjUWxab0lOZ1Y0LUE?oc=5",
-     "fecha": "2025-10-20T07:00:00Z",
-     "medio": "Sindicato USO"
     },
     {
      "titulo": "Los bomberos forestales ya tienen derecho a jubilación anticipada con coeficientes reductores",

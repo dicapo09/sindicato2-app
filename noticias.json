@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T09:39:39Z",
+ "actualizado": "2026-11-19T11:32:05Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -33,7 +33,7 @@
      "titulo": "Minera Pacífico del Sur inicia plan de cierre del relave Confluencia en Alto Mañihuales",
      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXhTSGVLNVVyVFQyWmdNTHZWS0c2QVFGTVY3NWxHUmtXNExfY3h3endqUk9BcG5qSWl0MlJmT2NKNm1oNFA3cWtLemY2Ykh0ZURjRTAyRkxUWEt2by13eVRCdms2Y2hwLXpLOHpqQkpxNlV0S2w0MWhyQnVpRGU4a0ZWUUlCTkFXUWF6R2N0dDhWc2xfUVlZMVlIWGY3NmVzS1hSdWdiNHRTckd1OURNdmp2ZkZFV1dqaURJVFd3?oc=5",
      "fecha": "2025-10-23T07:00:00Z",
-     "medio": "radio45sur.cl"
+     "medio": "Radio45Sur.cl"
     },
     {
      "titulo": "Contaminación en Alto Mañihuales: SMA anuncia formulación de cargos contra Minera Pacífico del Sur",
@@ -59,6 +59,18 @@
    "clave": "portalminero",
    "nombre": "Portal Minero",
    "items": [
+    {
+     "titulo": "Codelco proyecta continuidad de Gabriela Mistral hasta 2055 con inversión de US$868 millones",
+     "enlace": "https://www.portalminero.com/codelco-proyecta-continuidad-de-gabriela-mistral-hasta-2055-con-inversion-de-us868-millones",
+     "fecha": "2026-11-19T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Desarrollo País reúne a 21 empresas para analizar alternativas de suministro energético en Antofagasta",
+     "enlace": "https://www.portalminero.com/desarrollo-pais-reune-a-21-empresas-para-analizar-alternativas-de-suministro-energetico-en-antofagasta",
+     "fecha": "2026-11-19T00:00:00Z",
+     "medio": "Portal Minero"
+    },
     {
      "titulo": "Proyecto Nueva Centinela registra más del 90% de avance y avanza hacia su puesta en marcha",
      "enlace": "https://www.portalminero.com/proyecto-nueva-centinela-registra-mas-del-90-de-avance-y-avanza-hacia-su-puesta-en-marcha",
@@ -136,18 +148,6 @@
      "enlace": "https://www.portalminero.com/dos-plataformas-digitales-acercan-informacion-geologica-y-minera-a-la-ciudadania",
      "fecha": "2026-11-18T00:00:00Z",
      "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Biobío aborda oportunidades de la industria de tierras raras con gremios mineros",
-     "enlace": "https://www.portalminero.com/biobio-aborda-oportunidades-de-la-industria-de-tierras-raras-con-gremios-mineros",
-     "fecha": "2026-11-17T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Codelco refuerza su estrategia de incorporación femenina y recibe reconocimientos de WIM Chile",
-     "enlace": "https://www.portalminero.com/codelco-refuerza-su-estrategia-de-incorporacion-femenina-y-recibe-reconocimientos-de-wim-chile",
-     "fecha": "2026-11-17T00:00:00Z",
-     "medio": "Portal Minero"
     }
    ]
   },
@@ -155,6 +155,12 @@
    "clave": "mch",
    "nombre": "Minería Chilena",
    "items": [
+    {
+     "titulo": "FLS fortalece oferta en flotación con renovada planta de poliuretano en Renca",
+     "enlace": "https://www.mch.cl/fls-fortalece-oferta-en-flotacion-con-renovada-planta-de-poliuretano-en-renca/",
+     "fecha": "2026-11-19T09:37:00Z",
+     "medio": "Minería Chilena"
+    },
     {
      "titulo": "COEVA de la Región de Antofagasta aprueba proyecto de Codelco",
      "enlace": "https://www.mch.cl/coeva-de-la-region-de-antofagasta-aprueba-proyecto-de-codelco/",
@@ -207,12 +213,6 @@
      "titulo": "Enami recibe reconocimiento por sus avances en participación femenina",
      "enlace": "https://www.mch.cl/enami-recibe-reconocimiento-por-sus-avances-en-participacion-femenina/",
      "fecha": "2026-11-18T12:18:00Z",
-     "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "Kinross Chile transforma residuos históricos de La Coipa en acero verde",
-     "enlace": "https://www.mch.cl/kinross-chile-transforma-residuos-historicos-de-la-coipa-en-acero-verde/",
-     "fecha": "2026-11-18T12:15:00Z",
      "medio": "Minería Chilena"
     }
    ]
@@ -372,6 +372,12 @@
      "medio": "Reporte Minero"
     },
     {
+     "titulo": "Organizaciones de Aysén acusan responsabilidad de Sernageomin en contaminación de tranque de relaves Confluencia de El Toqui",
+     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeXdLMktnQ3lXNlk5VTQwZE93ZE1tVjR6NTNLUUlycmN1cm1wcFE1S1B4ZHMtcndqWnpYY3NpS3ptOGdxTlVRVTBBYVVRSW1aU2g4N3U3eDFmVVJSTFFkcjlUbTB0RU1RQ2hTSWFLV2tFbHJTMTFiLWVtcGltMEk5R1JSVDNPVTRldmw0ZUxWU05UOUdSVlFyUmk2NFJmbU00cXZadGxYZkpudEpPRVFJdC00LUVXN0ZYUU9tU0pmTVBpQnNsYlRyMnlHRUVzbkNwak5HOGlWcjczVEFFa2MtWk12X0NRUlJQbWFoTEZTTDJrdw?oc=5",
+     "fecha": "2026-03-16T07:00:00Z",
+     "medio": "Universidad de Chile"
+    },
+    {
      "titulo": "Organizaciones de Aysén recurren a Contraloría por presuntas irregularidades en tranque de relaves de minera El Toqui",
      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPajF6c3pPbURJYzJEWThWUG9uLXliM0dqYi1Kc2N3V0poRnoxNmFIZ0pzN2I0NTJGOWg2RFZCNHRZRVhWRUlnOUQ0WWxaNUZsTHBDUFhxWEMtY09rS1M5NElxZmJFQnU4OVB3OEV4MHlVQ3F0RjJ1WW0wU3UxbXBYS3FTcHhtWnptOExSZ05HeEFWWmlwNDl3eERQZ0lMWHBNampJc3pMTlJScmtU?oc=5",
      "fecha": "2026-03-16T07:00:00Z",
@@ -390,22 +396,16 @@
      "medio": "FIMA ONG"
     },
     {
+     "titulo": "Municipios de Aysén recibirán tercera cuota del Royalty Minero en julio",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcndoeGRCczZJQkRmUkNaZ1RFaV9DbFJWYWlNYjZJbTBFcGtLRWhpTUdwcTJFSVl1ZXZXeTRxLW83QWpzOUxRcHZyZmZoRE0wS1ZsNkhsOFVuUFNUYU8xQlhVQTZBVDBycGZJNk1MRkczZjdkNVFWTi1HV05kNWFQbDRTR3VKYUJEN05LM2lfZnJxRDdHazN2ZHV3TWZ3MUxodmlDR2tLakw?oc=5",
+     "fecha": "2025-06-30T07:00:00Z",
+     "medio": "radio45sur.cl"
+    },
+    {
      "titulo": "Relave minero colapsado contamina el agua de familias rurales en Aysén: Llevan una década esperando medidas",
      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb212T3lDbU9JTFd4eW16THQ1U2hpX0pjX1MyaGt0ajJzR1UtZzF3Q3lNSHo5cTVyTTN4S3JyNXRPUlM2LWt1MjRaeFZNWmFMdmV4UlNMM2luRzFzUXViXzlpNDF6Vm1oblVkNXRrY0pkRWl6TXBobzJEdUFhVTBGTXVZdzlCZmNtRzNpUHJTdDIta0g2THFFZHJIeTlzNktZeWw1ZmdtVy1TcDJ2Z1lNNFJqWVk3MzRhTVU2bUY4a2lIS3dvRUtOaWlGYTNKd0NGek9xSGVDMHFBaFHSAeABQVVfeXFMUDA2cHVyZGpvSG5hTWhnR3hVSFhvMmNTeXgwdXNzek1SWklxbXJZcXc5d295dWNJWDlwZF9NYzUyaVJSQ3ptaDB0VVpEbThlMmxpNkRQVlNFaFhiY2NwTkcwTHE1TjlyNXhpZ0c5d2FLWlNmamFJc0FCdW5uQUNia2ZMblVrY1llNXVrMXlGOWs4dm10TVJjcFpsMWlfX1UwX0lTdlgyN2pKc3R3UlJiTUp6YjBFd0tnTFVjWVFHUWEtTk50OUdXQkRtV0Q2OUdwSy1EVC1CV2x0aWRydnk3Nko?oc=5",
      "fecha": "2025-05-21T07:00:00Z",
      "medio": "El Desconcierto"
-    },
-    {
-     "titulo": "Informe deja en evidencia incumplimientos normativos y administrativos de minera en Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0phM0diTjdxVEFRQXBQZFBGZl9HZjE0TllDQWlrOURKWFhRYjBEdlBaTnJXa081azJzdm1YSy1IMVhhY3RBQ0lfZnJKVkFFUi1FNjM0LTVIekpja0xJeXd3d1UzaFUxcEs5LWE5cHdZOFpOX19pSEtScUhXa2xaSUhPd0Roa3h5Tmg0N2lTZUhaUm9TUUtRc3NyQ1FxNEdDY203NE80SUM4RzlLaWxsaF93?oc=5",
-     "fecha": "2025-05-12T07:00:00Z",
-     "medio": "Fundación Terram"
-    },
-    {
-     "titulo": "Seremi de Minería Aysén destaca promulgación de Ley de Royalty Minero",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1V4ejF4WkVIYjVOT3R1YVZ5Qk5MS3lRQjEzWE9OU1VRaWJzRkxxMVFRQWprZFFKRVRIa3VSSkNsYXo0TFVSNHBERS1GZTRSWXlvazg4am45clYxa2NrSDZERTFIOXhsRmN2WkpWYTVpRElWWWxnTmV0bUFyMHd0aWlPUXF2OG04MHItTU1QNWtwbzRfcnRaUE9XYXRnR0FMVDlyYzJPbkLSAbABQVVfeXFMTTl3cFdLbU1xcWdNdGJITnBJazFGRy1BQU04TUhMNzVwelBfSkFQMTNuVGpfY19IcXF2X1hZM25rZ2dqZXVDSXE2RkFtd0x6VWl2MVBtQXhOcXNLcXBjS2gxY21lMnRJNE5VWjJ1NV9RWGt1dEpPNzRselI5emJMZUJTaThUVnhmSGtVVXNsU3dmRXA4MHVzMjJUUjh6cDgtMks2cGZON0dkaEtoeGduMEQ?oc=5",
-     "fecha": "2023-08-09T07:00:00Z",
-     "medio": "Radio Las Nieves"
     }
    ]
   },
@@ -413,12 +413,6 @@
    "clave": "sindical",
    "nombre": "Mundo sindical",
    "items": [
-    {
-     "titulo": "BHP demandó a un sindicato de trabajadores mineros en Chile por paralizar la operación",
-     "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYVRnRFBwOUptR09Pdnhkc1NKR2xlOGVVejkxVm9mUXREeDdRM1R2bjFfa042YUJKR0JJVHNCamxHdXl2Uy1FUzQ5ZlFhOFRMMTZXcVh4SnVTOWs5YmZfellTNHNHa1dGX3JHaFUzY2d0TnBkdS1DZHdOSkwxYVY3QVhrZTBTM09uaGh0RXRNdE9vM1lRQXZneWw3UUpDUjlLNTlGeFpHd1RXUno3OTNwdnoyVHpYdk9MblZxTUdYdzltSUk3ZE5MZ25naThtU1JpYkRxU3N6V0hucGhnOC0tM9IB5gFBVV95cUxQaUtGRjBrYUh3REVLcDNja0pvZUFYT2RyS0RsUWpET0hMdGdBZmh1V0VOZ2lqTEVaRW9zN3ljb0JxM2d6ZVVMTFVqM25laGM3OXU2eWlSbVdSWE9aeG1RMml6OFhXMnJRWkdsdXRoWFJPd0dlZTFsX214SEVRTVAwZ2xnVWVtemtkaXdPVU9sVXZ5Wm9QNXRac19XYmxrRVhZejgxYzVPNW0zeFVjNDFIOVFQY0YydTlDdjF4dmlrREJKZENGMmtCN0NmNzhXaGtvSWY2ckdxWmZWWGdsdndFZTJnQjlaQQ?oc=5",
-     "fecha": "2026-10-16T07:00:00Z",
-     "medio": "Minería & Desarrollo"
-    },
     {
      "titulo": "Mediación obligatoria de Sindicatos de Minera Centinela termina sin acuerdo y se hace efectiva la huelga legal",
      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLXhOUHQzLUtvVzZ1clo1RTZaZGVqN3FpVlFkQ1MtazA2eFNOeWFwSklnVnZaZlpqck43MG9jcjRXUDNqd19wczBnQVN5N0htNER0QWNBa21KaG5JQ0t4ampFNlBaOHE2b3BDODNhQm5RcmRWN1Z1QU93d0NQWERnbzYxQXByUEJzRUNNSEZvZmJwaTBqOW1CTEZXUTFqYTNmbXBiV01UZFZQZ0dYVlhMemhyV20tYk8taDQ4ZTJ2NURGOHZYUlFqM0hB0gHSAUFVX3lxTE16MkJXVWpLNkN4ZWxfNWk1OGt1eXJxbTYzNV9IU0ZRV2l0czhtUDFobGJoWE1qZVJXZWVPam1JTTMyeVk2LXBiOEZDb1NsZzRXZGYtMHJLM1hMQTdlZWR4YW5HVktqVUNZM3Y1UllGeWhVTHUwdkVmOE9FTTg3TDlDOFgyaVl1R242c0tSakRVRHR2ZXA1aW9ZUHhFWC1YU3NSeENCRWtMSDRJVWR5TkJBZ1pwUVJmaE50QjAxR3N2WUFveEE0cVFYREZEbW1oZ3FNZw?oc=5",

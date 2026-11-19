@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T09:39:54Z",
+ "actualizado": "2026-11-19T11:33:50Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -10,6 +10,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN25FdmNETFdnX2hQbGtXS1E0ZldFUW1TVXRIUE0xZllHOTJhT2ZjZVJCTnVLQVBZU1dXR2Q3aTVfWU5Mbk5WSmEyLUdiYUxpVTBzYjM1SmFFZ3FiZzdBZTR0SjIzdDR5WVRHQWVPQVFwYkFEVkJ3Umg0eUliTUpsMUdCR0ZMYkZzbWQ2WWxuQnFsNy01RnZkVHRrUjNWVEU4SW1lZk9RUU1FUThUZWUwc0Y2WkZsNU5xVkJIeXNrYzVjbmRDRHlEd05n0gHrAUFVX3lxTFBPQ014SHBkRmVIUE9vV0ZIb2tPYS1qamotam9ySEJpRUpCQmNla3NfMjh3bXkxeUV4U1U5U2FaX3drRnZfLUJkbTMzejd3V1FYZGhsYjFKOEIzTnhqNnNNc0NfYnhvd1ZBQVFVS09weGdiUnZBcm9DYU1GbXQ0Z1VWN2JkWFNVYU1yaWh0OERIamh5U3RvYjgzTDVOSkc5RW13NU1jWWZpYldZODlsUnkzanQ3anJTVmFEdHBWTU1yR1hEZW5sRDMzcm0zbTNWS2hmTnBCSDFOMWhqYklfeGFiV3N1djNONDVLcFk?oc=5",
      "fecha": "2026-11-18T18:28:49Z",
      "medio": "La Tercera"
+    },
+    {
+     "titulo": "Cambio de era: Bci reordena su primera línea ejecutiva y nombra nuevos gerentes generales",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXhNMHowVm13Y01FOEUteWhGS0VCQWdnVmZzNUVnenJFakdSNFBndkxHYk93UkJmZjdXU2NyVkhmdEY3VDE1Y0ltRi02T3NLSFBUbkZ3cWlGYk1KdWRXOS1mTXBpNjNsMDROaUVlckV2bUNZSUhMSDc1LUx4S2VFUm5lejhDOW55YjNfZndmNklEOVdGMHpFcVRvaVQwRWRWS0lveF9ZN08zbzF1ZHM4?oc=5",
+     "fecha": "2026-11-18T18:27:00Z",
+     "medio": "Diario Financiero"
     },
     {
      "titulo": "De Chile al mundo: diez años de WorkCafé, el modelo que transformó las oficinas de Santander",
@@ -34,12 +40,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmxKb1pBMThBM0kxMWxBRjNYVnBRQzFHMndLa1B4UzJwZUx3Qkl5bnFKazNFbzNZZkpLUUoxQ2VJVE10dkZJb3JEbTZpR3prdlEtYzMwMkpKUi1UaHktdkppTEl5N3ZJbTZuajdwNjlieW1lRjk3T3o4VHpOWFZpOXJrR2JhRUR4dFdNV1NiSkFSOEMwZFE?oc=5",
      "fecha": "2026-11-02T08:00:00Z",
      "medio": "CNN Chile"
-    },
-    {
-     "titulo": "[Columna de Opinión] Banca chilena ante la NIIF 18: un cambio con definiciones pendientes",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFJEcElmUXdDRko2WUtDRXliQnloRG5nT2RleVluN0Jyb0VkZjZTVG5fUXlEcGltMWRuZzFuUkd0ekZMS182WmdJZ28zTkRJOFlpSHE3djJ2NEMyb2NsMjRuZ2gzYVM5SkpCR1BpQ21sSFMtSVh3VWlHU0dpc1dlTFlLRWc3QVc4b3ZrWndBWFJtZ2ktU0NvamRwTnNlVmhHeG9jc0dZUmpwNWQ0RnFRcUtTTHlhd1RhTVlTaUhRcw?oc=5",
-     "fecha": "2026-10-01T07:00:00Z",
-     "medio": "Universidad de Chile"
     },
     {
      "titulo": "10 años de Santander WorkCafé: la innovación chilena que transformó la experiencia bancaria en el mundo",
@@ -252,6 +252,12 @@
      "medio": "Capital-Riesgo.es"
     },
     {
+     "titulo": "Paro bancario: el gremio anunció una huelga en el BCRA para el lunes 27 de abril que podría afectar a los demás bancos",
+     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmktX2xYY1ZMMXBSNFV1VDNEdkFPN3psa1hPa1dtWVloZDhUeDJFODVqNWJzUHhoRGpKY20teG1UUURkcnhMX25QbldXZExqM3NGZjd4ME12clZSOE1jeDFLRVlXeEE0UHFmSU9oZlFURHQtcnVvdW9SMGNBOC1UUjdBOG5Kb05ER0I3amIwRkFSTDBfSlZlN3lJcHZPSlNFaWdGaTRFa2NPLUhpYUtFOW8xS3dSTjF3eVNMdG1n?oc=5",
+     "fecha": "2026-04-23T07:00:00Z",
+     "medio": "Clarin.com"
+    },
+    {
      "titulo": "Grifols duplicará su línea de crédito ‘revolving’ hasta los 2.000 millones de dólares con el respaldo de un sindicato bancario",
      "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObktmLUxJSmpNZnBWMXFNQU9QRWdCRlpPT1E4SXFicEdtSFVuNnZXdFdNSVp5YWVrTmtidFpkc01OTlp4cG92TjdlY3VVNk9WMGE2WnA2WDhhVnBpcEpjRThkdUg3ZGpzVUdzRXNvR0R4amxMbjBDZnpYS1NibkgwQ2E1X0cwYkE4c2E0dzg4d2dJY0cyVHNxR2VLZGRNeDZEeGtHU2kxbnBwbEREeS1Gc3ZBUE0telExbVNmaG1PaU9ONGhJMXNhZEpIdVJSYzNkZVhVMjRrN0trZUVsUmFjNnhOS0E0YXRRTzd4SnFvcVV6S0dNQV9Kb3FXRHVnam1GRU90LUpPUTY2d9IBngJBVV95cUxOYUFVc1JHTVUzOElxTm9RWGZ5NFpKM3JoNFI2VmpfY2hEVFVLMWowLTJ6bXVqY2p5ZHJsX2Z6cEk0ZlhwVVhESTUzYTZnVGtkRDJQcHBEaTNjOEE1dWIxbmtNRlI1THBLQ3hTWUo4REdtZ0MxcFdJRzUzT0lvQVk0WUdBX3FkYnJJeTQxQVVuQmhxaWRIekRCcHU5ZVJrY2tIVmtEUzNRcVhRR25leTNfUDRJM2NxUkVWS2k5QTdibDFmdmNVbUxYTk5fblJCWEpXSnVrOUhpTFg0NXZUT3h6UGpMSTZDU1dXYnNLbjZkWXBsdFppUHBzZWg0azFRT0V5WmQ0eGpSdlNTeHhhT0dTbjlHM2dHcElHSmNwVmt3?oc=5",
      "fecha": "2026-03-16T07:00:00Z",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHNLeXNOektFbHRieTd6QVU3SktmbUtIN2lvNU82QjluYjdrQktjdDVrQkhVdVlqakVUNkIybDRWVmJKbDdqU3RDeUlPcXM3YjB5RnBmcVpxV2U1VjZwU3BsLXJ2bDV3NzBNYzVxVkpVemhhUjI5UU1nNlJ5M3Y3a1M0dVIxQ3o1dVBzYVRqQ3ZnbG9CenRRdGZ0d2R2dXU5NW9fMjR5b2VkaF9qekVoc1NfSmp2c0FpVVNjeUJYMExqOG9iOThGT0FIN3o2c2tBbzYtT2RjMA?oc=5",
      "fecha": "2025-10-31T07:00:00Z",
      "medio": "Errepar"
-    },
-    {
-     "titulo": "UNI Americas el Sindicato de Trabajadores Bancarios de São Paulo denuncian despidos masivos en Itaú Brasil",
-     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNzZ3X1NtZm5GVFUxWVQ3SnVyWi1tT3FNSS1TcURBVFNTSlIxNVlPMTVDN0x0MXc5cExxZXJVU3lSeEIxeGhZblpZbExwVVJHeWZkYm1QYm5COVBvQTh3ZnByT2tTUXJvd051MUdoeUltTFVZUTNWdmpLY0RoMFNyaks3d2szRm56WHFrdnhXQS1YWkx5ZW9CcXVoNHA1WnEtWV9PZTBsc0duUmRCN3M5ci13Q0tKcFFlb3ZoY2hTM0Vod1E?oc=5",
-     "fecha": "2025-09-10T07:00:00Z",
-     "medio": "UNI Global Union"
     }
    ]
   },
