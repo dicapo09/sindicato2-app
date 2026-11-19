@@ -1,0 +1,62 @@
+{
+ "actualizado": "2026-11-19T04:50:00Z",
+ "fuentes": [
+  {
+   "clave": "salud",
+   "nombre": "Salud pública",
+   "items": []
+  },
+  {
+   "clave": "gremios",
+   "nombre": "Gremios de salud y públicos",
+   "items": []
+  },
+  {
+   "clave": "publico",
+   "nombre": "Sector público",
+   "items": []
+  },
+  {
+   "clave": "araucania",
+   "nombre": "Salud en La Araucanía",
+   "items": []
+  }
+ ],
+ "redes": [
+  {
+   "red": "Sitio web",
+   "nombre": "Ministerio de Salud",
+   "usuario": "minsal.cl",
+   "url": "https://www.minsal.cl",
+   "tema": "Salud"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Superintendencia de Salud",
+   "usuario": "supersalud.gob.cl",
+   "url": "https://www.supersalud.gob.cl",
+   "tema": "Salud"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Contraloría",
+   "usuario": "contraloria.cl",
+   "url": "https://www.contraloria.cl",
+   "tema": "Dictámenes sector público"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Superintendencia de Seguridad Social",
+   "usuario": "suseso.cl",
+   "url": "https://www.suseso.cl",
+   "tema": "Licencias y accidentes"
+  },
+  {
+   "red": "Instagram",
+   "nombre": "CUT Chile",
+   "usuario": "@cutchileoficial",
+   "url": "https://www.instagram.com/cutchileoficial/",
+   "tema": "Sindical"
+  }
+ ]
+}

@@ -1,9 +1,9 @@
 {
- "app": 19,
- "nombre": "3.3",
+ "app": 20,
+ "nombre": "3.4",
  "appFile": "app.html",
  "apk": 10,
  "apkNombre": "2.1",
  "apkUrl": "https://github.com/dicapo09/sindicato2-app/raw/main/apk/SindicatoN2.apk",
- "notas": "Nuevo: rubro Pesca y acuicultura. Noticias del mar y la pesca, sitios oficiales y la sección Mar y puertos con olas, viento y temperatura del mar."
+ "notas": "Nuevos rubros: comercio y retail, forestal, banca, salud y sector público, turismo y hotelería, agrícola. Cada uno con sus noticias, sitios oficiales y turnos típicos."
 }

@@ -1,0 +1,60 @@
+{
+ "actualizado": "2026-11-19T04:50:00Z",
+ "fuentes": [
+  {
+   "clave": "turismo",
+   "nombre": "Turismo en Chile",
+   "items": []
+  },
+  {
+   "clave": "lacustre",
+   "nombre": "Villarrica y Pucón",
+   "items": []
+  },
+  {
+   "clave": "hoteleria",
+   "nombre": "Hotelería y gastronomía",
+   "items": []
+  },
+  {
+   "clave": "sindical",
+   "nombre": "Mundo sindical",
+   "items": []
+  },
+  {
+   "clave": "leyes",
+   "nombre": "Leyes laborales",
+   "items": []
+  }
+ ],
+ "redes": [
+  {
+   "red": "Sitio web",
+   "nombre": "Sernatur",
+   "usuario": "sernatur.cl",
+   "url": "https://www.sernatur.cl",
+   "tema": "Turismo"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Dirección del Trabajo",
+   "usuario": "dt.gob.cl",
+   "url": "https://www.dt.gob.cl",
+   "tema": "Derechos laborales"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Superintendencia de Seguridad Social",
+   "usuario": "suseso.cl",
+   "url": "https://www.suseso.cl",
+   "tema": "Licencias y accidentes"
+  },
+  {
+   "red": "Instagram",
+   "nombre": "CUT Chile",
+   "usuario": "@cutchileoficial",
+   "url": "https://www.instagram.com/cutchileoficial/",
+   "tema": "Sindical"
+  }
+ ]
+}

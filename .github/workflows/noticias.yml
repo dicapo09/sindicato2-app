@@ -1,4 +1,4 @@
-name: Noticias (minería y pesca)
+name: Noticias por rubro
 on:
   schedule:
     - cron: '41 */2 * * *'   # cada 2 horas
@@ -14,5 +14,5 @@ jobs:
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add noticias.json noticias_pesca.json
+          git add noticias*.json
           git diff --cached --quiet || (git commit -m "Noticias $(date -u +%F' '%H:%M)" && git pull --rebase -q && git push)

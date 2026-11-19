@@ -318,7 +318,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 
 <script>
 (function(){'use strict';
-var APP_VER=19;var VERSION='3.3';
+var APP_VER=20;var VERSION='3.4';
 function reboot(){if(typeof window.__sin2Boot==='function')window.__sin2Boot();else location.reload()}
 var REPO_RAW='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/';
 function apkVer(){try{return +localStorage.getItem('sin2_apk_ver')||0}catch(_){return 0}}
@@ -359,6 +359,8 @@ function $(i){return document.getElementById(i)}window.$=$;
 var PLAT={nombre:'Base Sindical',lema:'La app de tu sindicato, en el bolsillo de cada socio',contacto:'https://wa.me/56920557434?text='+encodeURIComponent('Hola, soy dirigente sindical y me interesa la app para mi sindicato.'),correo:'dicapo9@gmail.com'};
 var TEN_N2={id:'pds2',root:true,nombre:'Sindicato N°2',titulo:'Sindicato N°2 Pacífico del Sur',empresa:'Minera Pacífico del Sur SpA',sector:'Alto Mañihuales, Región de Aysén',color:'#0f4643',color2:'#14625a'};
 var TEN_DEMO={id:'demo',demo:true,nombre:'Sindicato Demo',titulo:'Sindicato Demo',empresa:'Minera Los Andes (ficticia)',sector:'Región de ejemplo',color:'#23407a',color2:'#3561ad'};
+var RUBROS={mineria:['Minería','⛏️'],pesca:['Pesca y acuicultura','🐟'],retail:['Comercio y retail','🛒'],forestal:['Forestal','🌲'],banca:['Banca y finanzas','🏦'],salud:['Salud y sector público','🏥'],turismo:['Turismo y hotelería','🏨'],agricola:['Agrícola y agroindustria','🌾']};
+var PUERTOS=[['arica','Arica',-18.50,-70.40],['iquique','Iquique',-20.20,-70.20],['antofagasta','Antofagasta',-23.63,-70.45],['caldera','Caldera',-27.05,-70.90],['coquimbo','Coquimbo',-29.93,-71.40],['valparaiso','Valparaíso',-33.00,-71.68],['sanantonio','San Antonio',-33.58,-71.68],['talcahuano','Talcahuano',-36.65,-73.12],['coronel','Coronel / Lota',-37.03,-73.22],['lebu','Lebu',-37.60,-73.72],['corral','Corral / Valdivia',-39.85,-73.50],['puertomontt','Puerto Montt',-41.55,-72.95],['calbuco','Calbuco',-41.80,-73.15],['ancud','Ancud',-41.83,-73.90],['castro','Castro',-42.48,-73.70],['quellon','Quellón',-43.15,-73.55],['melinka','Melinka',-43.90,-73.80],['cisnes','Puerto Cisnes',-44.75,-72.80],['chacabuco','Puerto Aysén / Chacabuco',-45.45,-72.90],['natales','Puerto Natales',-51.75,-72.55],['puntaarenas','Punta Arenas',-53.15,-70.85]];
 var MULTI=(function(){try{return localStorage.getItem('sin2_multi')==='1'||localStorage.getItem('sin2_canal')==='plataforma'||/[?&]multi\b/.test(location.search)}catch(_){return false}})();
 var TEN=(function(){var t=null;try{t=JSON.parse(localStorage.getItem('sin2_tenant')||'null')}catch(_){}
  if(t&&t.id==='demo')return TEN_DEMO;if(t&&t.id==='pds2')return TEN_N2;if(t&&/^[a-z0-9-]{3,20}$/.test(t.id||''))return t;return MULTI?null:TEN_N2})();
@@ -428,7 +430,7 @@ var TU_TIPOS={D:{n:'Día',ic:'☀️',c:'td'},N:{n:'Noche',ic:'🌙',c:'tn'},T:{
 var TU_PRESETS=[
  ['m10dn','Minería 10x10 día/noche','10D 10L 10N 10L'],['m7dn','Minería 7x7 día/noche','7D 7L 7N 7L'],['m14dn','Minería 14x14 (7 día + 7 noche)','7D 7N 14L'],
  ['m4dn','Minería 4x4 día/noche','4D 4L 4N 4L'],['d10','10x10 solo día','10D 10L'],['d7','7x7 solo día','7D 7L'],['d14','14x14 (centros de cultivo)','14D 14L'],
- ['d4x3','4x3','4D 3L'],['d14x7','14x7','14D 7L'],['d10x5','10x5 (pisciculturas)','10D 5L'],['d20x10','20x10','20D 10L'],['d5x2','5x2 semanal (lunes a viernes)','5D 2L'],
+ ['d4x3','4x3','4D 3L'],['d14x7','14x7','14D 7L'],['d10x5','10x5 (pisciculturas)','10D 5L'],['d20x10','20x10','20D 10L'],['d5x2','5x2 semanal (lunes a viernes)','5D 2L'],['d6x1','6x1 (comercio, turismo, agrícola)','6D 1L'],['s4t','Cuarto turno salud (largo, noche, libre, libre)','1D 1N 2L'],['t3t','Tres turnos rotativos (mañana, tarde, noche)','5D 2L 5T 2L 5N 2L'],['d4x4','4x4 (12 horas)','4D 4L'],
  ['otro','Otro (escribir mi turno)','']];
 function tuParse(s){var r=[],m,re=/(\d{1,2})\s*([DNTL])/gi;s=String(s||'');while((m=re.exec(s))){var n=+m[1];if(n>0)r.push([m[2].toUpperCase(),n])}var tot=r.reduce(function(a,b){return a+b[1]},0);return r.length&&tot<=120?r:null}
 function tuTxt(seq){return seq.map(function(b){return b[1]+b[0]}).join(' ')}
@@ -489,7 +491,7 @@ function renderTicker(){var d=load('sin2_ind',null);if(!d||!d.uf){$('ticker').cl
  var n2=function(x){return Number(x).toLocaleString('es-CL',{minimumFractionDigits:2,maximumFractionDigits:2})};
  var items=[['UF',clp(d.uf,2)],['DÓLAR',clp(d.dolar,2)],['EURO',clp(d.euro,2)],['UTM',clp(d.utm,0)],['COBRE','US$ '+n2(d.cobre)+'/lb']];
  if(d.ipc!=null)items.push(['IPC '+(d.ipcMes?d.ipcMes+' ':''),String(d.ipc).replace('.',',')+'%']);if(d.oro)items.push(['ORO','US$ '+n2(d.oro)+'/oz']);if(d.plata)items.push(['PLATA','US$ '+n2(d.plata)+'/oz']);if(d.zinc)items.push(['ZINC','US$ '+Number(d.zinc).toLocaleString('es-CL',{maximumFractionDigits:0})+'/t']);
- items=items.filter(function(x){return x[1].indexOf('NaN')<0&&x[1].indexOf('undefined')<0});if(RUB()==='pesca')items=items.filter(function(x){return !/^(COBRE|ORO|PLATA|ZINC)/.test(x[0])});
+ items=items.filter(function(x){return x[1].indexOf('NaN')<0&&x[1].indexOf('undefined')<0});if(RUB()!=='mineria')items=items.filter(function(x){return !/^(COBRE|ORO|PLATA|ZINC)/.test(x[0])});
  var h=items.map(function(x){return '<span>'+x[0]+'<b>'+x[1]+'</b></span>'}).join('');$('tickerIn').innerHTML=h+h;$('ticker').classList.remove('hidden')}
 function parseInd(j){var v=function(k){return j[k]&&j[k].valor};var d={uf:v('uf'),dolar:v('dolar'),euro:v('euro'),utm:v('utm'),cobre:v('libra_cobre'),ipc:v('ipc'),oro:v('oro'),plata:v('plata'),zinc:v('zinc'),t:Date.now()};
  if(j.ipc&&j.ipc.fecha){var f=new Date(j.ipc.fecha);if(isNaN(f)||Date.now()-f>100*864e5){delete d.ipc}else d.ipcMes=f.toLocaleDateString('es-CL',{month:'short',timeZone:'UTC'}).replace('.','')}else delete d.ipc;return d}
@@ -764,18 +766,18 @@ window.tenLogoSel=function(inp){var f=inp.files&&inp.files[0];tenLogo='';if(!f)r
 function renderPlat(){$('admItemsH').classList.add('hidden');
  $('admForm').innerHTML='<div class="acts" style="margin-bottom:12px"><button class="btn sm light" onclick="tenDemo()">👀 Ver la demo</button><button class="btn sm light" onclick="tenSwitch()">⇄ Pantalla de código</button></div><h3>➕ Nuevo sindicato</h3><p class="meta">Crea el espacio de otro sindicato. Sus socios entran con el código.</p>'+
   '<div class="fl"><label>Nombre corto (ej: Sindicato N°1)</label><input class="ctl" id="tnNom" maxlength="40"/></div><div class="fl"><label>Empresa</label><input class="ctl" id="tnEmp" maxlength="60"/></div><div class="fl"><label>Lugar (faena, región)</label><input class="ctl" id="tnSec" maxlength="60"/></div>'+
-  '<div class="fl"><label>Rubro</label><select class="ctl" id="tnRub"><option value="mineria">Minería</option><option value="pesca">Pesca y acuicultura (salmoneros, pesqueros, artesanales, buzos)</option></select></div><div class="fl"><label>Puerto o zona de mar (para rubro pesca)</label><select class="ctl" id="tnPto">'+ptoOpts('chacabuco')+'</select></div>'+
+  '<div class="fl"><label>Rubro</label><select class="ctl" id="tnRub">'+rubOpts('mineria')+'</select></div><div class="fl"><label>Puerto o zona de mar (para rubro pesca)</label><select class="ctl" id="tnPto">'+ptoOpts('chacabuco')+'</select></div>'+
   '<div class="fl"><label>Código de ingreso (letras y números, ej: sindicato1-xyz)</label><input class="ctl" id="tnCod" maxlength="20" autocapitalize="none"/></div><div class="fl"><label>Color principal</label><input class="ctl" id="tnCol" type="color" value="#23407a" style="height:44px"/></div>'+
   '<div class="fl"><label>Logo (JPG o PNG, cuadrado)</label><input class="ctl" type="file" accept="image/*" onchange="tenLogoSel(this)"/><div id="tenLogoPrev"></div></div><button class="btn" onclick="tenCreate()">Crear sindicato</button>';
  $('admItems').innerHTML='<p class="meta">Cargando sindicatos…</p>';
  fbDb.collection('sindicatos').get().then(function(q){var L=q.docs.map(function(d){var x=d.data();x.id=d.id;return x});
-  $('admItems').innerHTML='<h3>Sindicatos en la plataforma ('+L.length+')</h3>'+(L.map(function(x){return '<div style="border-bottom:1px solid #eef2f1;padding:10px 0"><div class="row" style="gap:10px">'+(x.logo?'<img src="'+esc(x.logo)+'" style="width:40px;height:40px;border-radius:10px"/>':'<span style="width:40px;height:40px;border-radius:10px;background:'+esc(x.color||'#23407a')+'"></span>')+'<div class="grow"><b>'+esc(x.nombre)+'</b><div class="meta">Código: <b>'+esc(x.id)+'</b> · '+esc(x.empresa||'')+' · '+(x.rubro==='pesca'?'🐟 Pesca':'⛏️ Minería')+'</div></div><span class="pill '+(x.activo===false?'red':'green')+'">'+(x.activo===false?'Suspendido':'Activo')+'</span></div><div class="acts" style="margin-top:6px"><button class="btn sm" onclick="tenEnter(\''+esc(x.id)+'\')">Entrar</button><button class="btn sm light" onclick="tenRubro(\''+esc(x.id)+'\',\''+(x.rubro==='pesca'?'pesca':'mineria')+'\')">Cambiar rubro</button><button class="btn sm light" onclick="tenToggle(\''+esc(x.id)+'\','+(x.activo===false?'true':'false')+')">'+(x.activo===false?'Reactivar':'Suspender')+'</button></div></div>'}).join('')||'<p class="meta">Aún no hay otros sindicatos.</p>')})
+  $('admItems').innerHTML='<h3>Sindicatos en la plataforma ('+L.length+')</h3>'+(L.map(function(x){return '<div style="border-bottom:1px solid #eef2f1;padding:10px 0"><div class="row" style="gap:10px">'+(x.logo?'<img src="'+esc(x.logo)+'" style="width:40px;height:40px;border-radius:10px"/>':'<span style="width:40px;height:40px;border-radius:10px;background:'+esc(x.color||'#23407a')+'"></span>')+'<div class="grow"><b>'+esc(x.nombre)+'</b><div class="meta">Código: <b>'+esc(x.id)+'</b> · '+esc(x.empresa||'')+' · '+rubLbl(x.rubro)+'</div></div><span class="pill '+(x.activo===false?'red':'green')+'">'+(x.activo===false?'Suspendido':'Activo')+'</span></div><div class="acts" style="margin-top:6px"><button class="btn sm" onclick="tenEnter(\''+esc(x.id)+'\')">Entrar</button><button class="btn sm light" onclick="tenRubro(\''+esc(x.id)+'\',\''+esc(RUBROS[x.rubro]?x.rubro:'mineria')+'\')">Cambiar rubro</button><button class="btn sm light" onclick="tenToggle(\''+esc(x.id)+'\','+(x.activo===false?'true':'false')+')">'+(x.activo===false?'Reactivar':'Suspender')+'</button></div></div>'}).join('')||'<p class="meta">Aún no hay otros sindicatos.</p>')})
  .catch(function(x){$('admItems').innerHTML='<p>'+esc(errText(x))+'</p>'})}
 window.tenCreate=function(){var n=$('tnNom').value.trim(),c=$('tnCod').value.trim().toLowerCase(),col=$('tnCol').value;
  if(n.length<3){toast('Escribe el nombre');return}if(!/^[a-z0-9-]{3,20}$/.test(c)||c==='demo'||c==='pds2'){toast('Código no válido (3 a 20 letras, números o guiones)');return}
  var ref=fbDb.collection('sindicatos').doc(c);ref.get().then(function(d){if(d.exists)throw {code:'ya-existe'};
   var dark=function(h){var v=parseInt(h.slice(1),16),r=Math.min(255,((v>>16)&255)+30),g=Math.min(255,((v>>8)&255)+30),b=Math.min(255,(v&255)+30);return '#'+((1<<24)+(r<<16)+(g<<8)+b).toString(16).slice(1)};
-  return ref.set({nombre:n,titulo:n,empresa:$('tnEmp').value.trim(),sector:$('tnSec').value.trim(),rubro:$('tnRub').value==='pesca'?'pesca':'mineria',puerto:$('tnPto').value,color:col,color2:dark(col),logo:tenLogo||'',activo:true,creado:firebase.firestore.FieldValue.serverTimestamp()})})
+  return ref.set({nombre:n,titulo:n,empresa:$('tnEmp').value.trim(),sector:$('tnSec').value.trim(),rubro:RUBROS[$('tnRub').value]?$('tnRub').value:'mineria',puerto:$('tnPto').value,color:col,color2:dark(col),logo:tenLogo||'',activo:true,creado:firebase.firestore.FieldValue.serverTimestamp()})})
  .then(function(){tenLogo='';toast('Sindicato creado. Código: '+c);renderPlat()}).catch(function(x){toast(x&&x.code==='ya-existe'?'Ese código ya existe':errText(x))})};
 window.tenToggle=function(id,on){if(!on&&!confirm('¿Suspender este sindicato? Sus socios no podrán ver el contenido.'))return;fbDb.collection('sindicatos').doc(id).update({activo:on}).then(function(){toast(on?'Reactivado':'Suspendido');renderPlat()}).catch(function(x){toast(errText(x))})};
 window.tenEnter=function(id){fbDb.collection('sindicatos').doc(id).get().then(function(d){var x=d.data()||{};setTen({id:id,nombre:x.nombre||id,titulo:x.titulo||x.nombre||id,empresa:x.empresa||'',sector:x.sector||'',color:x.color||'#23407a',color2:x.color2||'#3561ad',logo:x.logo||'',rubro:x.rubro||'mineria',puerto:x.puerto||''},true)})};
@@ -1054,15 +1056,17 @@ window.checkUpdate=function(manual){var st=$('updStatus');
   if(!did&&manual&&st){st.textContent='Tienes la última versión.';st.className='status show'}
  }).catch(function(){if(manual&&st){st.textContent='Sin conexión o servidor no disponible.';st.className='status show bad'}})};
 /* ---------- rubro del sindicato (minería / pesca) y Mar y puertos ---------- */
-function RUB(){return (TEN&&TEN.rubro==='pesca')?'pesca':'mineria'}
-function newsKey(){return RUB()==='pesca'?'sin2_extnews_pesca':'sin2_extnews'}
-function newsFile(){return RUB()==='pesca'?'noticias_pesca.json':'noticias.json'}
-var PUERTOS=[['arica','Arica',-18.50,-70.40],['iquique','Iquique',-20.20,-70.20],['antofagasta','Antofagasta',-23.63,-70.45],['caldera','Caldera',-27.05,-70.90],['coquimbo','Coquimbo',-29.93,-71.40],['valparaiso','Valparaíso',-33.00,-71.68],['sanantonio','San Antonio',-33.58,-71.68],['talcahuano','Talcahuano',-36.65,-73.12],['coronel','Coronel / Lota',-37.03,-73.22],['lebu','Lebu',-37.60,-73.72],['corral','Corral / Valdivia',-39.85,-73.50],['puertomontt','Puerto Montt',-41.55,-72.95],['calbuco','Calbuco',-41.80,-73.15],['ancud','Ancud',-41.83,-73.90],['castro','Castro',-42.48,-73.70],['quellon','Quellón',-43.15,-73.55],['melinka','Melinka',-43.90,-73.80],['cisnes','Puerto Cisnes',-44.75,-72.80],['chacabuco','Puerto Aysén / Chacabuco',-45.45,-72.90],['natales','Puerto Natales',-51.75,-72.55],['puntaarenas','Punta Arenas',-53.15,-70.85]];
+function RUB(){return (TEN&&RUBROS[TEN.rubro])?TEN.rubro:'mineria'}
+function rubLbl(r){var x=RUBROS[r]||RUBROS.mineria;return x[1]+' '+x[0]}
+function rubOpts(sel){return Object.keys(RUBROS).map(function(k){return '<option value="'+k+'"'+(k===sel?' selected':'')+'>'+esc(RUBROS[k][1]+' '+RUBROS[k][0])+'</option>'}).join('')}
+function newsKey(){var r=RUB();return r==='mineria'?'sin2_extnews':'sin2_extnews_'+r}
+function newsFile(){var r=RUB();return r==='mineria'?'noticias.json':'noticias_'+r+'.json'}
 function ptoOpts(sel){return PUERTOS.map(function(p){return '<option value="'+p[0]+'"'+(p[0]===sel?' selected':'')+'>'+esc(p[1])+'</option>'}).join('')}
 function marPto(){var k=load('sin2_mar_pto',null)||(TEN&&TEN.puerto)||'chacabuco';return PUERTOS.filter(function(p){return p[0]===k})[0]||PUERTOS[18]}
 window.marSet=function(v){store('sin2_mar_pto',v);renderMar()};
-window.tenRubro=function(id,cur){var nuevo=cur==='pesca'?'mineria':'pesca';
- if(!confirm('¿Cambiar el rubro de este sindicato a '+(nuevo==='pesca'?'Pesca y acuicultura':'Minería')+'? Cambian las noticias, redes, indicadores y la sección Mar y puertos.'))return;
+window.tenRubro=function(id,cur){var ks=Object.keys(RUBROS);
+ var nuevo=prompt('Rubro actual: '+rubLbl(cur)+'\nEscribe el código del nuevo rubro:\n'+ks.map(function(k){return k+' = '+RUBROS[k][0]}).join('\n'),cur);if(nuevo==null)return;nuevo=nuevo.trim().toLowerCase();
+ if(!RUBROS[nuevo]){toast('Código de rubro no válido');return}if(nuevo===cur)return;
  var up={rubro:nuevo};if(nuevo==='pesca'){var pt=prompt('Puerto o zona de mar. Escribe uno de estos códigos:\n'+PUERTOS.map(function(p){return p[0]+' = '+p[1]}).join('\n'),'chacabuco');if(pt&&PUERTOS.some(function(p){return p[0]===pt.trim().toLowerCase()}))up.puerto=pt.trim().toLowerCase()}
  fbDb.collection('sindicatos').doc(id).update(up).then(function(){toast('Rubro actualizado');renderPlat()}).catch(function(x){toast(errText(x))})};
 function rumbo(g){return g==null?'':['N','NE','E','SE','S','SO','O','NO'][Math.round(((g%360)+360)%360/45)%8]}
@@ -1099,7 +1103,7 @@ function marHtml(d){var kn=function(x){return x==null?'':' ('+f1(x/1.852)+' nudo
 /* Si la directiva cambia el rubro o el puerto, los socios lo reciben al abrir la app */
 setTimeout(function(){try{if(!TEN||TEN.root||TEN.demo||typeof FB==='undefined'||!FB)return;
  fbInit().then(function(){return fbDb.collection('sindicatos').doc(TEN.id).get()}).then(function(d){var x=d&&d.exists?d.data():null;if(!x)return;
-  var r=x.rubro==='pesca'?'pesca':'mineria',pt=x.puerto||'';if(r===(TEN.rubro==='pesca'?'pesca':'mineria')&&pt===(TEN.puerto||''))return;
+  var r=RUBROS[x.rubro]?x.rubro:'mineria',pt=x.puerto||'';if(r===RUB()&&pt===(TEN.puerto||''))return;
   TEN.rubro=r;TEN.puerto=pt;try{localStorage.setItem('sin2_tenant',JSON.stringify(TEN))}catch(_){}if($('home').classList.contains('active'))renderHome()}).catch(function(){})}catch(_){}},4000);
 sync(false);fetchInd();setTimeout(function(){checkUpdate(false)},2500);
 try{localStorage.removeItem('sin2_boot_pending')}catch(_){}

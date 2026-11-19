@@ -1,0 +1,55 @@
+{
+ "actualizado": "2026-11-19T04:50:00Z",
+ "fuentes": [
+  {
+   "clave": "banca",
+   "nombre": "Banca y finanzas",
+   "items": []
+  },
+  {
+   "clave": "economia",
+   "nombre": "CMF y Banco Central",
+   "items": []
+  },
+  {
+   "clave": "sindical",
+   "nombre": "Mundo sindical",
+   "items": []
+  },
+  {
+   "clave": "leyes",
+   "nombre": "Leyes laborales",
+   "items": []
+  }
+ ],
+ "redes": [
+  {
+   "red": "Sitio web",
+   "nombre": "Comisión para el Mercado Financiero",
+   "usuario": "cmfchile.cl",
+   "url": "https://www.cmfchile.cl",
+   "tema": "Regulador"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Banco Central de Chile",
+   "usuario": "bcentral.cl",
+   "url": "https://www.bcentral.cl",
+   "tema": "Economía"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Dirección del Trabajo",
+   "usuario": "dt.gob.cl",
+   "url": "https://www.dt.gob.cl",
+   "tema": "Derechos laborales"
+  },
+  {
+   "red": "Instagram",
+   "nombre": "CUT Chile",
+   "usuario": "@cutchileoficial",
+   "url": "https://www.instagram.com/cutchileoficial/",
+   "tema": "Sindical"
+  }
+ ]
+}

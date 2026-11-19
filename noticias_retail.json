@@ -1,0 +1,60 @@
+{
+ "actualizado": "2026-11-19T04:50:00Z",
+ "fuentes": [
+  {
+   "clave": "retail",
+   "nombre": "Retail en Chile",
+   "items": []
+  },
+  {
+   "clave": "sindical",
+   "nombre": "Mundo sindical",
+   "items": []
+  },
+  {
+   "clave": "comercio",
+   "nombre": "Jornada y comercio",
+   "items": []
+  },
+  {
+   "clave": "araucania",
+   "nombre": "Comercio en La Araucanía",
+   "items": []
+  },
+  {
+   "clave": "leyes",
+   "nombre": "Leyes laborales",
+   "items": []
+  }
+ ],
+ "redes": [
+  {
+   "red": "Sitio web",
+   "nombre": "Dirección del Trabajo",
+   "usuario": "dt.gob.cl",
+   "url": "https://www.dt.gob.cl",
+   "tema": "Derechos laborales"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Superintendencia de Seguridad Social",
+   "usuario": "suseso.cl",
+   "url": "https://www.suseso.cl",
+   "tema": "Licencias y accidentes"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Ministerio del Trabajo",
+   "usuario": "mintrab.gob.cl",
+   "url": "https://www.mintrab.gob.cl",
+   "tema": "Leyes laborales"
+  },
+  {
+   "red": "Instagram",
+   "nombre": "CUT Chile",
+   "usuario": "@cutchileoficial",
+   "url": "https://www.instagram.com/cutchileoficial/",
+   "tema": "Sindical"
+  }
+ ]
+}

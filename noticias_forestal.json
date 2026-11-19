@@ -1,0 +1,67 @@
+{
+ "actualizado": "2026-11-19T04:50:00Z",
+ "fuentes": [
+  {
+   "clave": "forestal",
+   "nombre": "Sector forestal",
+   "items": []
+  },
+  {
+   "clave": "incendios",
+   "nombre": "Incendios forestales",
+   "items": []
+  },
+  {
+   "clave": "araucania",
+   "nombre": "Forestal en La Araucanía",
+   "items": []
+  },
+  {
+   "clave": "sindical",
+   "nombre": "Mundo sindical",
+   "items": []
+  },
+  {
+   "clave": "leyes",
+   "nombre": "Leyes laborales",
+   "items": []
+  }
+ ],
+ "redes": [
+  {
+   "red": "Sitio web",
+   "nombre": "CONAF",
+   "usuario": "conaf.cl",
+   "url": "https://www.conaf.cl",
+   "tema": "Incendios y bosques"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Corma",
+   "usuario": "corma.cl",
+   "url": "https://www.corma.cl",
+   "tema": "Gremio forestal"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Dirección del Trabajo",
+   "usuario": "dt.gob.cl",
+   "url": "https://www.dt.gob.cl",
+   "tema": "Derechos laborales"
+  },
+  {
+   "red": "Sitio web",
+   "nombre": "Superintendencia de Seguridad Social",
+   "usuario": "suseso.cl",
+   "url": "https://www.suseso.cl",
+   "tema": "Licencias y accidentes"
+  },
+  {
+   "red": "Instagram",
+   "nombre": "CUT Chile",
+   "usuario": "@cutchileoficial",
+   "url": "https://www.instagram.com/cutchileoficial/",
+   "tema": "Sindical"
+  }
+ ]
+}

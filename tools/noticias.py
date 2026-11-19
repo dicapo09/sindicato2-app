@@ -70,6 +70,50 @@ REDES_PESCA = [
     {'red': 'Instagram', 'nombre': 'CUT Chile', 'usuario': '@cutchileoficial', 'url': 'https://www.instagram.com/cutchileoficial/', 'tema': 'Sindical'},
 ]
 
+LEYES = ('leyes', 'Leyes laborales', [gnews('"Dirección del Trabajo" OR "40 horas" OR "Código del Trabajo" OR "negociación colectiva" Chile')])
+def web(nombre, dominio, tema): return {'red': 'Sitio web', 'nombre': nombre, 'usuario': dominio, 'url': 'https://www.' + dominio, 'tema': tema}
+CUT = {'red': 'Instagram', 'nombre': 'CUT Chile', 'usuario': '@cutchileoficial', 'url': 'https://www.instagram.com/cutchileoficial/', 'tema': 'Sindical'}
+DT = web('Dirección del Trabajo', 'dt.gob.cl', 'Derechos laborales')
+SUSESO = web('Superintendencia de Seguridad Social', 'suseso.cl', 'Licencias y accidentes')
+
+OTROS_RUBROS = {
+    'retail': ([
+        ('retail', 'Retail en Chile', [gnews('retail OR supermercados OR "grandes tiendas" Chile Cencosud OR Walmart OR Falabella OR SMU OR Ripley')]),
+        ('sindical', 'Mundo sindical', [gnews('sindicato Walmart OR Líder OR Cencosud OR Jumbo OR "Santa Isabel" OR Falabella OR Sodimac OR Tottus OR Unimarc OR Ripley OR Paris')]),
+        ('comercio', 'Jornada y comercio', [gnews('"cierre del comercio" OR "feriado irrenunciable" OR "trabajadores del comercio" Chile')]),
+        ('araucania', 'Comercio en La Araucanía', [gnews('comercio Temuco OR Villarrica OR Pucón OR Araucanía')]),
+        LEYES], [DT, SUSESO, web('Ministerio del Trabajo', 'mintrab.gob.cl', 'Leyes laborales'), CUT]),
+    'forestal': ([
+        ('forestal', 'Sector forestal', [gnews('sector forestal OR CMPC OR Arauco OR celulosa OR aserradero Chile')]),
+        ('incendios', 'Incendios forestales', [gnews('"incendio forestal" OR Conaf brigadistas Araucanía OR Biobío OR Ñuble OR Maule OR "Los Ríos"')]),
+        ('araucania', 'Forestal en La Araucanía', [gnews('forestal Araucanía OR Malleco OR Cautín OR Villarrica')]),
+        ('sindical', 'Mundo sindical', [gnews('sindicato forestal OR "trabajadores forestales" OR "contratistas forestales" OR "transportistas forestales"')]),
+        LEYES], [web('CONAF', 'conaf.cl', 'Incendios y bosques'), web('Corma', 'corma.cl', 'Gremio forestal'), DT, SUSESO, CUT]),
+    'banca': ([
+        ('banca', 'Banca y finanzas', [gnews('banca Chile OR bancos chilenos OR BancoEstado OR Santander OR BCI OR "Banco de Chile"')]),
+        ('economia', 'CMF y Banco Central', [gnews('"Banco Central" tasa OR IPoM OR "Comisión para el Mercado Financiero"')]),
+        ('sindical', 'Mundo sindical', [gnews('sindicato bancario OR "sindicato BancoEstado" OR "Confederación Bancaria" OR "trabajadores bancarios"')]),
+        LEYES], [web('Comisión para el Mercado Financiero', 'cmfchile.cl', 'Regulador'), web('Banco Central de Chile', 'bcentral.cl', 'Economía'), DT, CUT]),
+    'salud': ([
+        ('salud', 'Salud pública', [gnews('Minsal OR "atención primaria" OR CESFAM OR hospitales públicos Chile')]),
+        ('gremios', 'Gremios de salud y públicos', [gnews('CONFUSAM OR FENPRUSS OR ANEF OR FENATS OR "asistentes de la educación"')]),
+        ('publico', 'Sector público', [gnews('"reajuste del sector público" OR "funcionarios públicos" OR "Ley de Presupuestos"')]),
+        ('araucania', 'Salud en La Araucanía', [gnews('"Servicio de Salud Araucanía" OR "Hospital de Villarrica" OR CESFAM Temuco OR Villarrica OR Pucón')]),
+        ], [web('Ministerio de Salud', 'minsal.cl', 'Salud'), web('Superintendencia de Salud', 'supersalud.gob.cl', 'Salud'), web('Contraloría', 'contraloria.cl', 'Dictámenes sector público'), SUSESO, CUT]),
+    'turismo': ([
+        ('turismo', 'Turismo en Chile', [gnews('turismo Chile OR Sernatur OR temporada turística')]),
+        ('lacustre', 'Villarrica y Pucón', [gnews('turismo Villarrica OR Pucón OR "Araucanía Lacustre" OR Licán Ray')]),
+        ('hoteleria', 'Hotelería y gastronomía', [gnews('hotelería OR gastronomía OR casino OR "centro de ski" Chile trabajadores')]),
+        ('sindical', 'Mundo sindical', [gnews('sindicato hotel OR "trabajadores gastronómicos" OR "trabajadores de casino" OR "sindicato de turismo" Chile')]),
+        LEYES], [web('Sernatur', 'sernatur.cl', 'Turismo'), DT, SUSESO, CUT]),
+    'agricola': ([
+        ('agro', 'Agro en Chile', [gnews('agricultura Chile OR fruticultura OR "exportación de fruta" OR SAG OR Indap')]),
+        ('araucania', 'Agro en La Araucanía', [gnews('agricultura Araucanía OR berries Araucanía OR Indap Araucanía OR lechería Araucanía')]),
+        ('temporeros', 'Temporeros', [gnews('temporeros OR temporeras OR "trabajadores agrícolas" Chile')]),
+        ('sindical', 'Mundo sindical', [gnews('sindicato agrícola OR "sindicato de temporeros" OR "trabajadores agrícolas" sindicato')]),
+        LEYES], [web('SAG', 'sag.gob.cl', 'Servicio Agrícola y Ganadero'), web('INDAP', 'indap.gob.cl', 'Pequeña agricultura'), DT, SUSESO, CUT]),
+}
+
 def generar(fuentes, redes, archivo):
     res = {'actualizado': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), 'fuentes': [], 'redes': redes}
     try: prev = {f['clave']: f for f in json.load(open(archivo)).get('fuentes', [])}
@@ -97,3 +141,5 @@ def generar(fuentes, redes, archivo):
 
 generar(FUENTES, REDES, 'noticias.json')
 generar(FUENTES_PESCA, REDES_PESCA, 'noticias_pesca.json')
+for rubro, (fuentes, redes) in OTROS_RUBROS.items():
+    generar(fuentes, redes, f'noticias_{rubro}.json')
