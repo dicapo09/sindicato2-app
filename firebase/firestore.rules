@@ -6,7 +6,7 @@ service cloud.firestore {
     function signedIn() { return request.auth != null; }
     function isAdmin()  { return signedIn() && exists(/databases/$(db)/documents/admins/$(request.auth.uid)); }
     function isActive() { return signedIn() && get(/databases/$(db)/documents/socios/$(request.auth.uid)).data.estado == 'activo'; }
-    function contenido(col) { return col in ['informativos','noticias','eventos','encuestas','beneficios','documentos','directiva','config']; }
+    function contenido(col) { return col in ['informativos','noticias','eventos','encuestas','beneficios','documentos','directiva','config','fotos']; }
 
     // admins: rol 'administrador' (dueño de la app, creado en la consola) o 'dirigente' (nombrado por el administrador)
     function isOwner() { return signedIn() && get(/databases/$(db)/documents/admins/$(request.auth.uid)).data.rol == 'administrador'; }

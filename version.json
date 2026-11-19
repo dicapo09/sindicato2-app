@@ -1,9 +1,9 @@
 {
- "app": 14,
- "nombre": "2.0",
+ "app": 15,
+ "nombre": "2.1",
  "appFile": "app.html",
  "apk": 5,
  "apkNombre": "1.8",
  "apkUrl": "https://github.com/dicapo09/sindicato2-app/raw/main/apk/SindicatoN2.apk",
- "notas": "Me gusta y comentarios en informativos, buscador de Biblioteca mejorado, módulos Legal y Previsional."
+ "notas": "Fotos JPG en informativos y Biblioteca (las sube la directiva)."
 }

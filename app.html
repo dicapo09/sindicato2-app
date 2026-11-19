@@ -92,6 +92,9 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 .idcard{border-radius:18px;padding:20px;color:#fff;background:linear-gradient(135deg,#0f4643,#1b6d61 60%,#2a8a73);box-shadow:0 14px 30px #0b3b3640;position:relative;overflow:hidden;min-height:200px}
 .idcard .n{font-size:21px;font-weight:800;margin-top:18px}.idcard .l{font-size:10px;letter-spacing:.1em;opacity:.75;text-transform:uppercase;margin-top:10px}.idcard .v{font-weight:700}
 .result{background:var(--brand);color:#fff;border-radius:14px;padding:16px;margin-top:12px}.result .big{font-size:28px;font-weight:800}.kv{display:flex;justify-content:space-between;font-size:13px;padding:5px 0;border-bottom:1px solid #ffffff1c}
+.fgal{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0}.fgal img{width:31%;aspect-ratio:1;object-fit:cover;border-radius:8px;background:#e9edec}.fgal.big img{width:100%;aspect-ratio:auto;min-height:120px;object-fit:contain;cursor:zoom-in}.fgal img.off{min-height:40px}
+.pmini{width:100%;max-height:200px;object-fit:cover;border-radius:10px;margin:6px 0;display:block;background:#e9edec}
+.fotodlg{position:fixed;inset:0;z-index:90;background:#000;display:none;overflow:auto}.fotodlg.open{display:block}.fotodlg img{width:100%;min-height:100%;object-fit:contain;display:block}.fotodlg button{position:fixed;top:14px;right:14px;background:#fff;color:#000;border-radius:22px;padding:8px 14px;font-weight:800}
 .soc{border-top:1px solid var(--line);margin-top:14px;padding-top:12px}.soc .lk{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .likeb{border:1.5px solid #2c6fd6;color:#2c6fd6;border-radius:22px;padding:7px 14px;font-weight:700;font-size:14px;background:#fff}.likeb.on{background:#2c6fd6;color:#fff}
 .cmt{background:#f4f7f6;border-radius:12px;padding:9px 12px;margin:8px 0;font-size:13.5px}.cmt b{font-size:12.5px;color:#1d4f49}.cmt small{color:#7a8c89;font-size:11px;margin-left:6px}.cmt p{margin:3px 0 0;white-space:pre-wrap;color:#33504c}
@@ -281,7 +284,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 <section class="page" id="notas"><div class="card"><div class="fl"><label for="nT">Título</label><input class="ctl" id="nT" maxlength="80"/></div><div class="fl"><label for="nB">Detalle</label><textarea class="ctl" id="nB" maxlength="2000"></textarea></div><button class="btn" onclick="saveNote()">Guardar nota</button></div><div id="noteList"></div></section>
 </div>
 
-<div class="dlg" id="readDlg"><div class="modal"><div id="rPills"></div><h2 id="rTitle"></h2><div class="meta" id="rMeta"></div><div class="mbody" id="rBody"></div><div id="rSocial"></div><div class="acts" id="rActs"></div></div></div>
+<div class="dlg" id="readDlg"><div class="modal"><div id="rPills"></div><h2 id="rTitle"></h2><div class="meta" id="rMeta"></div><div class="mbody" id="rBody"></div><div id="rFotos"></div><div id="rSocial"></div><div class="acts" id="rActs"></div></div></div>
 <div class="dlg" id="evDlg"><div class="modal"><h2>Agendar actividad</h2><p class="meta" id="evDay"></p>
   <div class="fl"><label for="evT">Actividad</label><input class="ctl" id="evT" maxlength="100" placeholder="Reunión turno A"/></div>
   <div class="row"><div class="fl grow"><label for="evH">Desde</label><input class="ctl" id="evH" type="time"/></div><div class="fl grow"><label for="evH2">Hasta</label><input class="ctl" id="evH2" type="time"/></div></div>
@@ -289,11 +292,12 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
   <div class="acts"><button class="btn light" onclick="closeDlg('evDlg')">Cancelar</button><button class="btn" onclick="saveEvent()">Guardar</button></div></div></div>
 <div class="drawer" id="drawer" onclick="if(event.target===this)closeDrawer()"><div class="pan"><div class="dh"><svg width="46" height="46"><use href="#logo"/></svg><b id="drName">Sindicato N°2</b><small>Minera Pacífico del Sur SpA</small></div><div id="drList"></div></div></div>
 <div class="dlg" id="acDlg"><div class="modal" style="text-align:center"><h2>✋ Marcar asistencia</h2><p class="meta">Escribe el código de 4 dígitos que entrega la directiva en la reunión.</p><input class="ctl" id="acCode" inputmode="numeric" maxlength="4" style="font-size:32px;text-align:center;letter-spacing:.3em" placeholder="0000"/><div class="err" id="acErr"></div><div class="acts"><button class="btn light" onclick="closeDlg('acDlg')">Cancelar</button><button class="btn green" onclick="asisSend()">Registrar</button></div></div></div>
+<div class="fotodlg" id="fotoDlg" onclick="this.classList.remove('open')"><img id="fotoFull" alt="Foto"/><button>✕ Cerrar</button></div>
 <div class="toast" id="toast"></div>
 
 <script>
 (function(){'use strict';
-var APP_VER=14;var VERSION='2.0';
+var APP_VER=15;var VERSION='2.1';
 function reboot(){if(typeof window.__sin2Boot==='function')window.__sin2Boot();else location.reload()}
 var REPO_RAW='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/';
 function apkVer(){try{return +localStorage.getItem('sin2_apk_ver')||0}catch(_){return 0}}
@@ -409,7 +413,7 @@ function fetchInd(){var last=load('sin2_ind',null);if(last&&last.t&&last.zinc!==
 /* ---------- informativos / noticias ---------- */
 var infCat='Todos';
 function sortD(l){return l.slice().sort(function(a,b){if(!!b.fijado!==!!a.fijado)return b.fijado?1:-1;return String(b.fecha).localeCompare(String(a.fecha))})}
-function postCard(x,kind){return '<div class="card" role="button" onclick="readPost(\''+kind+'\',\''+esc(x.id)+'\')">'+(x.fijado?'<span class="pill grey">📌 Fijado</span>':'')+(isNew(x.id)?'<span class="pill red">Nuevo</span>':'')+'<span class="pill teal">'+esc(x.categoria||(kind==='noticias'?'Noticia':'Informativo'))+'</span>'+(x.ejemplo?'<span class="pill gold">Ejemplo</span>':'')+'<h3>'+esc(x.titulo)+'</h3><p>'+esc(x.resumen||'')+'</p><div class="meta">Publicado por Directiva · '+fds(x.fecha)+'</div>'+(kind==='informativos'?'<div class="socc" data-soc="'+esc(x.id)+'"></div>':'')+'</div>'}
+function postCard(x,kind){return '<div class="card" role="button" onclick="readPost(\''+kind+'\',\''+esc(x.id)+'\')">'+(x.fijado?'<span class="pill grey">📌 Fijado</span>':'')+(isNew(x.id)?'<span class="pill red">Nuevo</span>':'')+'<span class="pill teal">'+esc(x.categoria||(kind==='noticias'?'Noticia':'Informativo'))+'</span>'+(x.ejemplo?'<span class="pill gold">Ejemplo</span>':'')+(x.mini&&/^data:image\/jpeg;base64,/.test(x.mini)?'<img class="pmini" src="'+x.mini+'" alt=""/>':'')+'<h3>'+esc(x.titulo)+'</h3><p>'+esc(x.resumen||'')+'</p><div class="meta">Publicado por Directiva · '+fds(x.fecha)+'</div>'+(kind==='informativos'?'<div class="socc" data-soc="'+esc(x.id)+'"></div>':'')+'</div>'}
 function renderInf(){var cats=['Todos'];A('informativos').forEach(function(x){var k=x.categoria||'Informativo';if(cats.indexOf(k)<0)cats.push(k)});
  $('infSeg').innerHTML=cats.length>2?cats.map(function(k){return '<button class="'+(k===infCat?'on':'')+'" onclick="setInfCat(\''+esc(k)+'\')">'+esc(k)+'</button>'}).join(''):'';
  var l=sortD(A('informativos')).filter(function(x){return infCat==='Todos'||(x.categoria||'Informativo')===infCat});
@@ -421,7 +425,7 @@ window.readPost=function(kind,id){var x=A(kind).filter(function(i){return i.id==
  $('rTitle').textContent=x.titulo||'';$('rMeta').textContent='Publicado por Directiva · '+fds(x.fecha);$('rBody').textContent=x.cuerpo||x.resumen||'';
  var a='<button class="btn light" onclick="closeDlg(\'readDlg\')">Cerrar</button><button class="btn" onclick="sharePost(\''+kind+'\',\''+esc(x.id)+'\')">Compartir</button>';
  if(safeUrl(x.enlace))a+='<button class="btn green" style="flex-basis:100%" onclick="ext(\''+esc(x.enlace)+'\')">Abrir enlace / documento</button>';
- $('rActs').innerHTML=a;$('rSocial').innerHTML='';if(kind==='informativos'&&typeof socOpen==='function')socOpen(x.id);$('readDlg').classList.add('open');var cur=hist[hist.length-1];if(cur==='informativos')renderInf();if(cur==='noticias')renderNews();if(cur==='notif')renderNotif();updateBell()};
+ $('rActs').innerHTML=a;$('rSocial').innerHTML='';$('rFotos').innerHTML='';if(Array.isArray(x.fotos)&&x.fotos.length){$('rFotos').innerHTML=fotosHtml(x.fotos);fotosCargar($('rFotos'))}if(kind==='informativos'&&typeof socOpen==='function')socOpen(x.id);$('readDlg').classList.add('open');var cur=hist[hist.length-1];if(cur==='informativos')renderInf();if(cur==='noticias')renderNews();if(cur==='notif')renderNotif();updateBell()};
 window.sharePost=function(kind,id){var x=A(kind).filter(function(i){return i.id===id})[0];if(x)ext('https://wa.me/?text='+encodeURIComponent('*'+x.titulo+'*\n'+(x.resumen||'')+'\n— Sindicato N°2 Minera Pacífico del Sur'))};
 function renderNotif(){var l=[];A('informativos').forEach(function(x){if(isNew(x.id))l.push(['informativos',x])});A('noticias').forEach(function(x){if(isNew(x.id))l.push(['noticias',x])});
  var polls=A('encuestas').filter(function(p){return !(p.cierre&&p.cierre<today())&&!load('sin2_votes',{})[p.id]});
@@ -455,7 +459,7 @@ function ftype(u){var m=String(u||'').toLowerCase().match(/\.(pdf|xlsx?|docx?|pp
 window.openFolder=function(f){libFolder=f;$('libQ').value='';renderLib()};
 function fold(t){return String(t||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}
 function docNew(d){var t=d._t||(d.fecha?Date.parse(d.fecha+'T12:00:00'):0);return t&&(Date.now()-t)<30*864e5}
-function docRow(d,showF){var u=safeUrl(d.enlace);return '<button class="fold" onclick="'+(u?'ext(\''+esc(u)+'\')':'toast(\'Documento aún no disponible\')')+'">'+ftype(u)+'<span class="grow"><b>'+esc(d.titulo)+(docNew(d)?' <span class="pill red" style="font-size:10px;padding:2px 7px">¡Nuevo!</span>':'')+'</b><small>'+(showF?'📁 '+esc(d.carpeta||'General')+' · ':'')+esc(d.descripcion||(u?'Toca para abrir':'Aún no disponible'))+'</small></span></button>'}
+function docRow(d,showF){var u=safeUrl(d.enlace),fo=Array.isArray(d.fotos)&&d.fotos.length;return '<button class="fold" onclick="'+(u?'ext(\''+esc(u)+'\')':fo?'docFotos(\''+esc(d.id)+'\')':'toast(\'Documento aún no disponible\')')+'">'+(fo&&!u?'<div class="ftype" style="--c:#8a5bd6"><span>JPG</span></div>':ftype(u))+'<span class="grow"><b>'+esc(d.titulo)+(docNew(d)?' <span class="pill red" style="font-size:10px;padding:2px 7px">¡Nuevo!</span>':'')+'</b><small>'+(showF?'📁 '+esc(d.carpeta||'General')+' · ':'')+esc(d.descripcion||(u?'Toca para abrir':fo?'Toca para ver '+d.fotos.length+' foto(s)':'Aún no disponible'))+'</small></span></button>'}
 function renderLib(){var q=fold($('libQ').value.trim()),docs=A('documentos'),h='';
  if(q){var W=q.split(/\s+/);var r=docs.filter(function(d){var t=fold(d.titulo+' '+(d.descripcion||'')+' '+(d.carpeta||''));return W.every(function(w){return t.indexOf(w)>=0})});h='<h3>Resultados</h3><p class="meta">'+r.length+' documento(s) para «'+esc($('libQ').value.trim())+'»</p>'+(r.length?r.map(function(d){return docRow(d,true)}).join(''):'<p>Sin resultados. Prueba con otra palabra, por ejemplo «contrato», «estatutos» o «formulario».</p>')}
  else if(libFolder){var r2=docs.filter(function(d){return (d.carpeta||'General')===libFolder});h='<h3>'+esc(libFolder)+'</h3><p class="meta">'+r2.length+' elemento(s)</p><button class="linkbtn" style="margin:6px 0;color:#2c6fd6" onclick="openFolder(null)">⇦ Atrás</button>'+r2.map(function(d){return docRow(d,false)}).join('')}
@@ -538,21 +542,21 @@ function renderAdmin(){$('admLock').classList.toggle('hidden',admOk);$('admPanel
 window.admEnter=async function(){var p=$('admPin').value.trim(),e=$('admErr');if(!/^\d{4,8}$/.test(p)){e.textContent='La clave debe tener 4 a 8 dígitos.';e.className='status show bad';return}
  var h=await hash(p),saved=load('sin2_pin',null);if(!saved){store('sin2_pin',h);saved=h}if(saved!==h){e.textContent='Clave incorrecta.';e.className='status show bad';return}admOk=true;$('admPin').value='';e.className='status';renderAdmin()};
 var FORMS={
- informativos:{t:'Informativo',f:[['titulo','Título','text'],['categoria','Categoría (Informativo, Citación, Acuerdo...)','text'],['resumen','Resumen corto','text'],['cuerpo','Texto completo','area'],['enlace','Enlace a documento (opcional, https://)','text'],['fijado','Fijar publicación al inicio','check']]},
+ informativos:{t:'Informativo',f:[['titulo','Título','text'],['categoria','Categoría (Informativo, Citación, Acuerdo...)','text'],['resumen','Resumen corto','text'],['cuerpo','Texto completo','area'],['enlace','Enlace a documento (opcional, https://)','text'],['fotos','Fotos JPG (opcional, hasta 4)','fotos'],['fijado','Fijar publicación al inicio','check']]},
  noticias:{t:'Noticia',f:[['titulo','Título','text'],['resumen','Resumen','text'],['cuerpo','Texto','area'],['enlace','Enlace a la noticia (https://)','text']]},
  eventos:{t:'Evento',f:[['titulo','Actividad','text'],['fecha','Fecha','date'],['hora','Hora','time'],['lugar','Lugar','text'],['detalle','Detalle','area']]},
  encuestas:{t:'Encuesta',f:[['titulo','Título','text'],['pregunta','Pregunta','text'],['opciones','Opciones (una por línea)','area'],['cierre','Fecha de cierre','date'],['enlace','Formulario externo (opcional, p. ej. Google Forms)','text']]},
  beneficios:{t:'Beneficio',f:[['titulo','Beneficio','text'],['categoria','Categoría','text'],['descripcion','Descripción','area'],['requisitos','Requisitos','text'],['vigencia','Vigencia','text'],['contacto','Enlace (https://)','text']]},
- documentos:{t:'Documento',f:[['titulo','Nombre del documento','text'],['carpeta','Carpeta (Actas, Estatutos...)','text'],['descripcion','Descripción','text'],['enlace','Enlace al archivo (Drive, https://)','text']]},
+ documentos:{t:'Documento',f:[['titulo','Nombre del documento','text'],['carpeta','Carpeta (Actas, Estatutos...)','text'],['descripcion','Descripción','text'],['enlace','Enlace al archivo (Drive, https://, opcional si subes fotos)','text'],['fotos','Fotos JPG (opcional, hasta 4)','fotos']]},
  sindicato:{t:'Datos del sindicato',f:[['sede','Dirección de la sede','text'],['horario','Horario de atención','text'],['telefono','Teléfono','text'],['whatsapp','WhatsApp (569XXXXXXXX)','text'],['email','Correo','text'],['radioNombre','Nombre de la radio (opcional)','text'],['radio','URL transmisión radio (https://)','text']]}
 };
 window.admSet=function(t){admTab=t;renderAdmPanel()};
 function renderAdmPanel(){$('admSeg').innerHTML=Object.keys(FORMS).map(function(k){return '<button class="'+(k===admTab?'on':'')+'" onclick="admSet(\''+k+'\')">'+FORMS[k].t+'</button>'}).join('');
  var F=FORMS[admTab],d=draft(),cur=admTab==='sindicato'?(d.sindicato||{}):{};
- $('admForm').innerHTML='<h3>'+(admTab==='sindicato'?'Editar ':'Nuevo(a) ')+F.t.toLowerCase()+'</h3>'+F.f.map(function(x){var v=esc(cur[x[0]]||'');if(x[2]==='area')return '<div class="fl"><label>'+x[1]+'</label><textarea class="ctl" id="af_'+x[0]+'">'+v+'</textarea></div>';if(x[2]==='check')return '<label class="row" style="font-size:13px;gap:8px;margin-bottom:10px"><input type="checkbox" id="af_'+x[0]+'"/> '+x[1]+'</label>';return '<div class="fl"><label>'+x[1]+'</label><input class="ctl" id="af_'+x[0]+'" type="'+x[2]+'" value="'+v+'"/></div>'}).join('')+'<button class="btn" onclick="admAdd()">'+(admTab==='sindicato'?'Guardar datos':'Publicar en el borrador')+'</button>';
+ $('admForm').innerHTML='<h3>'+(admTab==='sindicato'?'Editar ':'Nuevo(a) ')+F.t.toLowerCase()+'</h3>'+F.f.map(function(x){var v=esc(cur[x[0]]||'');if(x[2]==='area')return '<div class="fl"><label>'+x[1]+'</label><textarea class="ctl" id="af_'+x[0]+'">'+v+'</textarea></div>';if(x[2]==='fotos')return FB?'<div class="fl"><label>'+x[1]+'</label><input class="ctl" id="af_fotos" type="file" accept="image/*" multiple onchange="fotoElegir(this)"/><div id="fotoPrev"></div></div>':'';if(x[2]==='check')return '<label class="row" style="font-size:13px;gap:8px;margin-bottom:10px"><input type="checkbox" id="af_'+x[0]+'"/> '+x[1]+'</label>';return '<div class="fl"><label>'+x[1]+'</label><input class="ctl" id="af_'+x[0]+'" type="'+x[2]+'" value="'+v+'"/></div>'}).join('')+'<button class="btn" onclick="admAdd()">'+(admTab==='sindicato'?'Guardar datos':'Publicar en el borrador')+'</button>';
  var items=admTab==='sindicato'?[]:(Array.isArray(d[admTab])?d[admTab]:[]);
  $('admItems').innerHTML=admTab==='sindicato'?'<p class="meta">Los datos del sindicato se usan en Contacto, Buzón y Radio.</p>':(items.length?items.map(function(x,i){return '<div class="row" style="border-bottom:1px solid #eef2f1;padding:8px 0"><div class="grow"><b style="font-size:14px">'+esc(x.titulo||x.nombre)+'</b><div class="meta">'+esc(x.fecha||x.carpeta||x.categoria||'')+(x.ejemplo?' · ejemplo':'')+'</div></div><button class="pill red" onclick="admDel('+i+')">Quitar</button></div>'}).join(''):'<p class="meta">Sin elementos.</p>')}
-window.admAdd=function(){var F=FORMS[admTab],d=draft(),o={};F.f.forEach(function(x){var el=$('af_'+x[0]);o[x[0]]=x[2]==='check'?el.checked:el.value.trim()});
+window.admAdd=function(){var F=FORMS[admTab],d=draft(),o={};F.f.forEach(function(x){if(x[2]==='fotos')return;var el=$('af_'+x[0]);o[x[0]]=x[2]==='check'?el.checked:el.value.trim()});
  if(admTab==='sindicato'){d.sindicato=Object.assign({},d.sindicato||{},o);saveDraft(d);toast('Datos guardados en el borrador');return}
  if(!o.titulo){toast('Falta el título');return}
  ['enlace','contacto'].forEach(function(k){if(o[k]&&!safeUrl(o[k]))o[k]=''});
@@ -574,7 +578,7 @@ function socOk(){return FB&&fbDb&&fbUser}
 function socRef(id){return fbDb.collection('informativos').doc(id)}
 function socMeDoc(){if(socMe)return Promise.resolve(socMe);return fbDb.collection('socios').doc(fbUser.uid).get().then(function(d){var s=d.exists?d.data():{},p=profile()||{};socMe={nombre:String(s.nombre||p.name||'Directiva'),num:String(s.num||'')};return socMe})}
 function socWhen(t){var d=t&&t.toDate?t.toDate():null;if(!d)return 'Hace un momento';var m=Math.round((Date.now()-d)/6e4);if(m<1)return 'Hace un momento';if(m<60)return 'Hace '+m+' min';if(m<1440)return 'Hace '+Math.round(m/60)+' h';return d.toLocaleDateString('es-CL',{day:'numeric',month:'short'})}
-window.socOpen=function(id){socCur=id;if(!socOk()){$('rSocial').innerHTML='';return}$('rSocial').innerHTML='<div class="soc"><div class="meta">Cargando me gusta y comentarios…</div></div>';socLoad(id)};
+window.socOpen=function(id){socCur=id;if(!socOk()){$('rSocial').innerHTML='';$('rFotos').innerHTML='';return}$('rSocial').innerHTML='<div class="soc"><div class="meta">Cargando me gusta y comentarios…</div></div>';socLoad(id)};
 function socLoad(id){Promise.all([socRef(id).collection('likes').get(),socRef(id).collection('comentarios').orderBy('t','asc').limit(300).get()]).then(function(r){if(socCur!==id)return;
  var keep=$('socTxt')?$('socTxt').value:'';var likes=r[0].docs.map(function(d){var x=d.data();x.uid=d.id;return x}),mine=likes.some(function(l){return l.uid===fbUser.uid});
  var cm=r[1].docs.map(function(d){var x=d.data();x.id=d.id;return x});
@@ -620,6 +624,25 @@ var PREV=[
 function modFoot(){return '<div class="callout">ℹ️ Información general actualizada a noviembre de 2026. No reemplaza la asesoría de un abogado o asesor previsional. Ante un caso concreto, consulta a la directiva.</div><button class="btn green" onclick="go(\'buzon\')">📮 Consultar a la directiva</button><button class="btn light" onclick="go(\'biblioteca\')">📚 Ver contrato colectivo y documentos</button>'}
 function renderLegal(){$('legalBox').innerHTML='<div class="card"><h3>⚖️ Módulo legal</h3><p>Tus principales derechos laborales en simple. Toca un tema para verlo.</p></div>'+accHtml(LEGAL)+modFoot()}
 function renderPrev(){$('prevBox').innerHTML='<div class="card"><h3>🐷 Módulo previsional</h3><p>Pensiones, cotizaciones, cesantía y seguros. Toca un tema para verlo.</p></div>'+accHtml(PREV)+modFoot()}
+
+/* ---------- fotos JPG (solo directiva): se achican en el teléfono y se guardan en Firebase ---------- */
+var fotoSel=[],fotoMini='',fotoCache={};
+function fotoLeer(file,max,q0,lim){return new Promise(function(ok,no){var r=new FileReader();r.onerror=function(){no(new Error('No se pudo leer la foto'))};
+ r.onload=function(){var im=new Image();im.onerror=function(){no(new Error('Formato de imagen no soportado'))};im.onload=function(){var w=im.naturalWidth,h=im.naturalHeight,k=Math.min(1,max/Math.max(w,h));
+  var c=document.createElement('canvas');c.width=Math.round(w*k);c.height=Math.round(h*k);var g=c.getContext('2d');g.fillStyle='#fff';g.fillRect(0,0,c.width,c.height);g.drawImage(im,0,0,c.width,c.height);
+  var q=q0,u=c.toDataURL('image/jpeg',q);while(u.length>lim&&q>0.3){q-=0.1;u=c.toDataURL('image/jpeg',q)}if(u.length>lim)no(new Error('La foto es demasiado grande'));else ok(u)};im.src=r.result};r.readAsDataURL(file)})}
+window.fotoElegir=function(inp){var fs=Array.prototype.slice.call(inp.files||[],0,4);fotoSel=[];fotoMini='';var pv=$('fotoPrev');if(!fs.length){pv.innerHTML='';return}
+ pv.innerHTML='<p class="meta">Preparando '+fs.length+' foto(s)…</p>';
+ Promise.all(fs.map(function(f){return fotoLeer(f,1280,0.75,600000)})).then(function(us){fotoSel=us;return fotoLeer(fs[0],360,0.65,60000)}).then(function(m){fotoMini=m;
+  pv.innerHTML='<div class="fgal">'+fotoSel.map(function(u){return '<img src="'+u+'"/>'}).join('')+'</div><p class="meta">'+fotoSel.length+' foto(s) lista(s) · '+Math.round(fotoSel.reduce(function(a,u){return a+u.length},0)*0.75/1024)+' KB en total</p>'})
+ .catch(function(x){fotoSel=[];fotoMini='';pv.innerHTML='<p class="meta" style="color:#b13b26">'+esc(x.message||x)+'</p>'})};
+function fotoSubir(){if(!fotoSel.length)return Promise.resolve(null);return Promise.all(fotoSel.map(function(u){return fbDb.collection('fotos').add({img:u,t:firebase.firestore.FieldValue.serverTimestamp()}).then(function(r){return r.id})}))}
+function fotoGet(id){if(fotoCache[id])return Promise.resolve(fotoCache[id]);return fbDb.collection('fotos').doc(id).get().then(function(d){var u=d.exists?d.data().img:'';if(u)fotoCache[id]=u;return u})}
+function fotosHtml(ids){return '<div class="fgal big">'+ids.map(function(id){return '<img data-foto="'+esc(id)+'" alt="Foto" onclick="fotoVer(this)"/>'}).join('')+'</div>'}
+function fotosCargar(box){if(!(FB&&fbDb&&fbUser))return;box.querySelectorAll('img[data-foto]').forEach(function(im){fotoGet(im.getAttribute('data-foto')).then(function(u){if(u)im.src=u;else im.alt='Foto no disponible'}).catch(function(){im.alt=navigator.onLine?'Foto no disponible':'Foto disponible con internet';im.classList.add('off')})})}
+window.fotoVer=function(im){if(!im.src)return;$('fotoFull').src=im.src;$('fotoDlg').classList.add('open')};
+window.docFotos=function(i){var d=A('documentos').filter(function(x){return x.id===i})[0];if(!d)return;$('rPills').innerHTML='<span class="pill teal">'+esc(d.carpeta||'Biblioteca')+'</span>';$('rTitle').textContent=d.titulo||'';$('rMeta').textContent=d.descripcion||'';$('rBody').textContent='';$('rSocial').innerHTML='';
+ $('rFotos').innerHTML=fotosHtml(d.fotos);fotosCargar($('rFotos'));$('rActs').innerHTML='<button class="btn light" onclick="closeDlg(\'readDlg\')">Cerrar</button>';$('readDlg').classList.add('open')};
 
 /* ---------- menú lateral ---------- */
 window.openDrawer=function(){var p=profile()||{};$('drName').textContent=p.name||'Sindicato N°2';
@@ -711,17 +734,18 @@ var _renderAdmPanel=renderAdmPanel;renderAdmPanel=function(){if(!FB)return _rend
 window.admSocio=function(id,estado){if(estado==='__dirigente'){if(!confirm('¿Dar a este socio permisos de dirigente? Podrá aprobar socios, publicar y pasar asistencia.'))return;fbDb.collection('admins').doc(id).set({rol:'dirigente'}).then(function(){toast('Ahora es dirigente');renderAdmPanel()}).catch(function(x){toast(errText(x))});return}
  if(estado==='__quitar'){fbDb.collection('admins').doc(id).delete().then(function(){toast('Rol de dirigente quitado');renderAdmPanel()}).catch(function(x){toast(errText(x))});return}
  fbDb.collection('socios').doc(id).update({estado:estado}).then(function(){toast(estado==='activo'?'Socio aprobado':'Acceso actualizado');renderAdmPanel()}).catch(function(x){toast(errText(x))})};
-var _admAdd=window.admAdd;window.admAdd=function(){if(!FB)return _admAdd();var F=FORMS[admTab],o={};F.f.forEach(function(x){var el=$('af_'+x[0]);o[x[0]]=x[2]==='check'?el.checked:el.value.trim()});
+var _admAdd=window.admAdd;window.admAdd=function(){if(!FB)return _admAdd();var F=FORMS[admTab],o={};F.f.forEach(function(x){if(x[2]==='fotos')return;var el=$('af_'+x[0]);o[x[0]]=x[2]==='check'?el.checked:el.value.trim()});
  var done=function(m){toast(m);fbLoad().then(renderAdmPanel)},fail=function(x){toast(errText(x))};
  if(admTab==='sindicato'){fbDb.collection('config').doc('sindicato').set(o,{merge:true}).then(function(){done('Datos guardados')}).catch(fail);return}
- if(!o.titulo){toast('Falta el título');return}['enlace','contacto'].forEach(function(k){if(o[k]&&!safeUrl(o[k]))o[k]=''});
+ if(!o.titulo){toast('Falta el título');return}if(admTab==='documentos'&&!safeUrl(o.enlace)&&!fotoSel.length){toast('Agrega un enlace o al menos una foto');return}['enlace','contacto'].forEach(function(k){if(o[k]&&!safeUrl(o[k]))o[k]=''});
  if(admTab==='encuestas')o.opciones=o.opciones.split('\n').map(function(x){return x.trim()}).filter(Boolean);
  if(admTab==='eventos'&&!/^\d{4}-\d{2}-\d{2}$/.test(o.fecha)){toast('Falta la fecha');return}
  if(['informativos','noticias','documentos'].indexOf(admTab)>=0)o.fecha=today();if(o.fijado===false)delete o.fijado;
  o.creado=firebase.firestore.FieldValue.serverTimestamp();
  var pre=o.fijado?Promise.all(A('informativos').filter(function(x){return x.fijado}).map(function(x){return fbDb.collection('informativos').doc(x.id).update({fijado:false})})):Promise.resolve();
- pre.then(function(){return fbDb.collection(admTab).add(o)}).then(function(){done(F.t+' publicado')}).catch(fail)};
-var _admDel=window.admDel;window.admDel=function(i){if(!FB)return _admDel(i);if(!confirm('¿Eliminar esta publicación para todos los socios?'))return;fbDb.collection(admTab).doc(String(i)).delete().then(function(){toast('Eliminado');fbLoad().then(renderAdmPanel)}).catch(function(x){toast(errText(x))})};
+ var usaF=F.f.some(function(x){return x[2]==='fotos'})&&fotoSel.length;if(usaF)toast('Subiendo fotos…');
+ pre.then(function(){return usaF?fotoSubir():null}).then(function(ids){if(ids){o.fotos=ids;if(admTab==='informativos'&&fotoMini)o.mini=fotoMini}return fbDb.collection(admTab).add(o)}).then(function(){fotoSel=[];fotoMini='';done(F.t+' publicado')}).catch(fail)};
+var _admDel=window.admDel;window.admDel=function(i){if(!FB)return _admDel(i);var it=A(admTab).filter(function(x){return x.id===String(i)})[0];if(it&&Array.isArray(it.fotos)&&confirm('¿Eliminar esta publicación para todos los socios?')){Promise.all(it.fotos.map(function(f){return fbDb.collection('fotos').doc(f).delete().catch(function(){})})).then(function(){return fbDb.collection(admTab).doc(String(i)).delete()}).then(function(){toast('Eliminado');fbLoad().then(renderAdmPanel)}).catch(function(x){toast(errText(x))});return}if(it&&Array.isArray(it.fotos))return;if(!confirm('¿Eliminar esta publicación para todos los socios?'))return;fbDb.collection(admTab).doc(String(i)).delete().then(function(){toast('Eliminado');fbLoad().then(renderAdmPanel)}).catch(function(x){toast(errText(x))})};
 if(FB){$('privFb').classList.remove('hidden');FORMS.directiva={t:'Directiva',f:[['nombre','Nombre','text'],['cargo','Cargo','text'],['telefono','Teléfono','text'],['orden','Orden (1, 2, 3...)','text']]};admTab='socios'}
 
 /* ---------- noticias externas (portales mineros y Minera Pacífico del Sur) ---------- */
@@ -791,12 +815,12 @@ window.asisVer=function(id){asisCol().doc(id).get().then(function(d){var r=d.dat
    $('rPills').innerHTML='<span class="pill teal">Lista completa</span>'+(r.abierta?'<span class="pill yel">Registro abierto</span>':'');$('rTitle').textContent=r.titulo||'';
    $('rMeta').textContent=fd(r.fecha)+' · '+np+' de '+L.length+' presentes ('+Math.round(np*100/L.length)+'%)';
    $('rBody').innerHTML=L.map(function(x,i){return '<div style="padding:7px 0;border-bottom:1px solid #eef2f1;display:flex;gap:8px"><span>'+(x.p?'✅':'❌')+'</span><span class="grow"><b>'+esc(x.n)+'</b>'+(x.num?' <span class="meta">N° '+esc(x.num)+'</span>':'')+(x.d?' <span class="meta">(marcado por directiva)</span>':'')+'</span><span class="meta">'+(x.p?'Presente':'Ausente')+'</span></div>'}).join('');
-   $('rSocial').innerHTML='';$('rActs').innerHTML='<button class="btn light" onclick="closeDlg(\'readDlg\')">Cerrar</button><button class="btn green" onclick="asisShare(\''+id+'\',\'wa\')">WhatsApp</button><button class="btn" onclick="asisShare(\''+id+'\',\'copy\')">Copiar</button>';$('readDlg').classList.add('open');return}
+   $('rSocial').innerHTML='';$('rFotos').innerHTML='';$('rActs').innerHTML='<button class="btn light" onclick="closeDlg(\'readDlg\')">Cerrar</button><button class="btn green" onclick="asisShare(\''+id+'\',\'wa\')">WhatsApp</button><button class="btn" onclick="asisShare(\''+id+'\',\'copy\')">Copiar</button>';$('readDlg').classList.add('open');return}
   return asisCol().doc(id).collection('presentes').get().then(function(q){
   var P=q.docs.map(function(x){return x.data()}).sort(function(a,b){return String(a.nombre).localeCompare(String(b.nombre))});
   $('rPills').innerHTML='<span class="pill teal">Asistencia</span>';$('rTitle').textContent=r.titulo||'';$('rMeta').textContent=fd(r.fecha)+' · '+P.length+' asistente(s)';
   $('rBody').innerHTML=P.length?P.map(function(p,i){return '<div style="padding:7px 0;border-bottom:1px solid #eef2f1">'+(i+1)+'. <b>'+esc(p.nombre)+'</b>'+(p.num?' <span class="meta">N° '+esc(p.num)+'</span>':'')+(p.via==='directiva'?' <span class="meta">(marcado por directiva)</span>':'')+'</div>'}).join(''):'<p class="meta">Nadie ha marcado asistencia todavía.</p>';
-  $('rSocial').innerHTML='';$('rActs').innerHTML='<button class="btn light" onclick="closeDlg(\'readDlg\')">Cerrar</button>';$('readDlg').classList.add('open')})}).catch(function(x){toast(errText(x))})};
+  $('rSocial').innerHTML='';$('rFotos').innerHTML='';$('rActs').innerHTML='<button class="btn light" onclick="closeDlg(\'readDlg\')">Cerrar</button>';$('readDlg').classList.add('open')})}).catch(function(x){toast(errText(x))})};
 window.asisAdmin=function(id){go('asisadm');asisRecount(id).catch(function(){});$('aaBox').innerHTML='<p class="meta">Cargando…</p>';
  Promise.all([asisCol().doc(id).get(),asisCol().doc(id).collection('privado').doc('clave').get(),asisCol().doc(id).collection('presentes').get(),fbDb.collection('socios').get()]).then(function(R){
   var r=R[0].data()||{},code=R[1].exists?R[1].data().codigo:'—',pres={};R[2].docs.forEach(function(d){pres[d.id]=d.data()});

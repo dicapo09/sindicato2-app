@@ -10,6 +10,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.WindowInsets;
 import android.webkit.JavascriptInterface;
+import android.webkit.ValueCallback;
 import android.webkit.WebChromeClient;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebSettings;
@@ -21,6 +22,8 @@ import android.window.OnBackInvokedDispatcher;
 public class MainActivity extends Activity {
     private static final String INICIO = "file:///android_asset/index.html";
     private WebView web;
+    private static final int ELEGIR_FOTO = 7;
+    private ValueCallback<Uri[]> fotoCallback;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,7 +35,25 @@ public class MainActivity extends Activity {
         s.setDomStorageEnabled(true);
         s.setMediaPlaybackRequiresUserGesture(true);
         web.addJavascriptInterface(new Puente(), "AndroidApp");
-        web.setWebChromeClient(new WebChromeClient());
+        web.setWebChromeClient(new WebChromeClient() {
+            /** Permite a la directiva elegir fotos (JPG) desde la galería o la cámara del teléfono. */
+            @Override
+            public boolean onShowFileChooser(WebView view, ValueCallback<Uri[]> cb, FileChooserParams params) {
+                if (fotoCallback != null) fotoCallback.onReceiveValue(null);
+                fotoCallback = cb;
+                Intent i = new Intent(Intent.ACTION_GET_CONTENT);
+                i.addCategory(Intent.CATEGORY_OPENABLE);
+                i.setType("image/*");
+                i.putExtra(Intent.EXTRA_ALLOW_MULTIPLE, params.getMode() == FileChooserParams.MODE_OPEN_MULTIPLE);
+                try {
+                    startActivityForResult(Intent.createChooser(i, "Elegir foto"), ELEGIR_FOTO);
+                } catch (ActivityNotFoundException e) {
+                    fotoCallback = null;
+                    return false;
+                }
+                return true;
+            }
+        });
         web.setWebViewClient(new WebViewClient() {
             @Override
             public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest req) {
@@ -84,6 +105,24 @@ public class MainActivity extends Activity {
     public void onBackPressed() {
         if (Build.VERSION.SDK_INT >= 33) { super.onBackPressed(); return; }
         atras();
+    }
+
+    @Override
+    protected void onActivityResult(int req, int res, Intent data) {
+        super.onActivityResult(req, res, data);
+        if (req != ELEGIR_FOTO || fotoCallback == null) return;
+        Uri[] r = null;
+        if (res == RESULT_OK && data != null) {
+            if (data.getClipData() != null) {
+                int n = data.getClipData().getItemCount();
+                r = new Uri[n];
+                for (int k = 0; k < n; k++) r[k] = data.getClipData().getItemAt(k).getUri();
+            } else if (data.getData() != null) {
+                r = new Uri[]{ data.getData() };
+            }
+        }
+        fotoCallback.onReceiveValue(r);
+        fotoCallback = null;
     }
 
     @Override
