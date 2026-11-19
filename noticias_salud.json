@@ -1,25 +1,389 @@
 {
- "actualizado": "2026-11-19T04:50:00Z",
+ "actualizado": "2026-11-19T04:52:07Z",
  "fuentes": [
   {
    "clave": "salud",
    "nombre": "Salud pública",
-   "items": []
+   "items": [
+    {
+     "titulo": "Las Higueras de Talcahuano lidera en reputación entre los hospitales públicos de la Región del Biobío",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVl9QZjJMRTB4WnkzdExJYWROTi1yWU5WaWloWmwyQ09KUWt0LWIzMnhDZ1NhS001SDQ1MElaWmo5Qkd1NTdZUV9QNW55UF8yS2xwYlZvU2NKOWxBd3ZHYXRKWXU3a3czUTV2WEJIRzh1RGlFSkFDcG9MbnBocFFhMGpjal9nVWh1amhrTjVMdDc2REFrU0tZV2RYMVF2Y28zbGtEQUNhc1ZyQndiZjNnaFdZVmd1VE1md2FyNjhpemxUTEJ6dVE?oc=5",
+     "fecha": "2026-11-18T19:39:53Z",
+     "medio": "Radio UdeC"
+    },
+    {
+     "titulo": "Los centros asistenciales con mejor reputación de Chile en 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORENYUmdkLUI3ZHduYjhvaUxneVZtNEVPYmdWQU9Ya3FGOUpXZ3JlODRfN3M1b1NDSzZUYkdJX1Zpd3MwbUE4dGVOMGdLWnZWeFk1REFiclZSZ1IxdG40THRvVGY0QkFWUzY4c0FYYUpVdENGTlpNYk5DWWh5dWJLdUN3RV9vSXFwVW9EUnBtZUIzR01URzVFaUNsUjR5cE9XV3diR3JyWUVkTGxTTTBwejA2RTFic25D?oc=5",
+     "fecha": "2026-11-18T10:44:07Z",
+     "medio": "Tour Innovación"
+    },
+    {
+     "titulo": "Hospital Las Higueras es el primero en la región y el tercero en Chile con mejor reputación según ranking Merco salud",
+     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRXFucWx4NHY0WDVFcDk0ZlhyUE5JUzMtQUNZYkpybVBmcGJ0WjFFcnc0Q2lpcU9OaElyNURSdHRfaUMydW84SnNJdmRmME9ma3pCbzhlWGJXZ0xUSXFtZkV0ajhiOXhubHFSVGtWWFFhdnAyc1d0NkJXQ1JjZjNycmZ0ZnVLQ2haRVNtMHFLYjY4Q1M3M0lxZjRYdDBBc29NQklGZ0RCc1l0cmJ1Y1RPYl9fN3Y3aVZRTFE5UmM4TWEtVWxvcVFscHFFa0pwekhqaERFWUllcURxWXl1aE5PSlByTQ?oc=5",
+     "fecha": "2026-11-16T20:02:51Z",
+     "medio": "Canal 9 Bío Bío Televisión"
+    },
+    {
+     "titulo": "Merco Salud 2026: estos son los hospitales y clínicas con mejor reputación de Chile (Hospital del Salvador y Clínica Alemana lideran)",
+     "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMVJwdGNuMFowZHA1dlBNTDNJV1c3TVRFVzcxbFBVeGZTOFJyak54OVpwXzRGRHNaUmRMV2ZYS0lsWjQ2aUsyR1ZXQjJxTGN3WlZVV1I2dnctalRtV1dhUDYwdkQ4NmkweTB5MXc3Qnk1RDNsTllGUTdCTjZKS0JUdHFaVy1Xeng0X2lZRUEzUWxRU1NPSTdTNzVPbEFxN3p6cnBwWU9PNEE4bFJ6OGhQNzJRVU1nVGgyX3ZFWEhBMEM2dGRNV2o5dHdaTzJKTXNQczlYYUVMTU9WNUExNlpuZ0hYNkNTZVhMSjd1MlBTSnBpUnR2M0Iwc0ZlUlFPZXNhSF93?oc=5",
+     "fecha": "2026-11-13T19:20:56Z",
+     "medio": "Diario Sustentable"
+    },
+    {
+     "titulo": "HOSPITAL DE TEMUCO ENTRA AL TOP 10 DE LOS CENTROS PÚBLICOS CON MEJOR REPUTACIÓN DE CHILE TRAS GRAN SALTO EN EL RANKING MERCO SALUD 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUXNMOTFKOXgzZm4xazE5YlFrZ0dLVlhjYmZiMWJZV0RrUF8tbE5KRk9MLTJyWEJHUjhuMkhLQWVzcFNpZTRSZGpLR05LZUl5SHRuMm5KN2lncWtBUXQxSngyOVdTSlNvMERBMGkwb3hrWEpIYlVfdDQwMjk5VGJsbHA3NDVMcV9WakxUYzJUc2piaTJVaEF2WmdrN3NsUHNyVkZoVXZkdjJaQ2wzam9HWE9DMWxQUldqYktRdlBjalQ2SHd2OTRxVWtvVWNLeUg5ZmpaczJDS09yeWdhS25WdU1xQnNZME1KTjE1NmhRX1kyQXZna3MyVnpVX21sRk5EWGFBOWFGaDUwOC1S?oc=5",
+     "fecha": "2026-11-12T22:00:29Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "Ministerio de Salud presenta proyectos de inversión 2026-2030 para fortalecer la atención oncológica en la red pública del país",
+     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQckhya2FlR3IwUENPNy1ELVVyNm5ZSWYwX3JPWlFRcTMyN3V0aktnQVJRclRRZ0Q0V0RENGJKYlhZa0NrS21pejJ6NXFiQUFVSEpfV3RfN2JoYk1oNnd1NlluMWVVVWcxVElfcldvLXJ5Zmk5bzRrcUFpZE9iX1pFNUFFakNHenpFazM4U3h0a19EQmc5QTRERGxkVkxfeS1PQUw3QmlwVTlyTHZYZHNNU1QzS3Q0eHFubGhNTEl0ZWxOZWxsMnlLcnNnUGFjREg2VEtwUjNRVkQyOWg0R05lbnhBYzM?oc=5",
+     "fecha": "2026-08-31T07:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    },
+    {
+     "titulo": "Presidente Kast encabeza firma de acuerdo de colaboración entre el Minsal y Caja Los Andes para atender a 50 mil casos en lista de espera No GES",
+     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOb2RtcUpseExxQkdVNHlNZkI3Q1NJVUFLN2d3b3lQNVR3M1FNVkVQUFBUbDF4MFdZZy1nZHl6U3dLOF9CelJZRWtRQ3VnN053SktXR3ZGTG9DZHFpcFM0YnJVdVpoMWo0RDBHREFlZnZiVkhBM2Z4TUZCLUV2bjc2Mmk0SC16cjhaRHlhRC11V2N6OG5DMFZmbjBxMFYwY2pKN1NyWDJtOXk3NjVGTkRQaWxzNVpDMWttVTJBZkJ6LVdLbzRKWjQ2TEZGZ0p2dWdiYTgwUkJleEl3VGxiMElzQjNIUEViYWVtdUE2UGNRNkpHZ014M3o1dTVBUQ?oc=5",
+     "fecha": "2026-08-14T07:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    },
+    {
+     "titulo": "Hospital de Urgencia Asistencia Pública lidera ranking de gestión entre los 62 hospitales de mayor complejidad",
+     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSHBhZTJkTEt0RHlONmxJNDRPQjJYOXNfYlYxQTMwc2VYYXZjOFBWRHBndHgtcmVXSFRyZnlNOFVnX2twbm5UcjBNMThNSXNKOU1MdGI3bzh6WG9oWlFDbXJ3WGUwbG1iNUszSU9HcTFpbzRMZG83a0pNM2c5QV9YaEl5LVd5MVFaOVluUENoSHJBRTZXTHFaVzdBMkhuUzQ1R044SkdURXIxc1JxdGVTak1feVZMMk1zVG0wa1BVSjhrc1pjb2dpbDNiS3VFUQ?oc=5",
+     "fecha": "2026-08-04T07:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    },
+    {
+     "titulo": "De donantes vivos: Cuatro hospitales públicos realizan inédito trasplante quíntuple cruzado de riñón en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOemhhNEFDQU9WekY5OThoYW9iUWdSSGRGMHBDYUJsQUNRWnlrdU5ER2VYWHhfenIxUjhGakdZYkFDTHd6WHYyWThuaUJWU0R4T1gwamdFSVJXWTNEeXUyaUI2Y3dhMVMyYnhHRE1rZjUtSU1LQWs3NXFIVUVlRGY0MjN1eWRPUTZLSkxEWUlWM1VMQ3ZLOXVpVFlpd2hYeUEtaFNFU2lydFFkM1FkUlBsdWs5dHo2UmpGWHpjNVJtcndBMTd2UkNpS3Vhaw?oc=5",
+     "fecha": "2026-06-04T07:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    },
+    {
+     "titulo": "ISP confirma detección de mosquito Aedes Aegypti en aeropuerto de Santiago y autoridades de salud mantienen medidas de vigilancia",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXk3ZmN0RkdlWXNEWEZoT3c2RlJSeFNkNUJHNEcxV1F2UkJZc3oxaW5xQldoNUhlb3dYV2JETEcxS1JqODMxeHVJZEV0XzZvWGxGVVBzUk1mYWFjOFRud1ZMRFVMME9tNFdHQjBjZTlGd29QUkVQSzZzY2RoTjF0U3VET3l1Um5tcWNka1ZsY0NhZUVEYUlWYTZEbWhkUXNsVkJqOFp5blpHSVNMWUY2V2lfWVJBQkRNUmN2TDhBTW01WXBobDl1M2xn?oc=5",
+     "fecha": "2026-01-29T08:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    },
+    {
+     "titulo": "Más de 11 millones de chilenos han salido de listas de espera No GES desde 2022, con tiempos de espera en sus niveles más bajos desde 2016",
+     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUlFaVXZndHRqX01BYnNZZ1lmYjJnWmVUS25XODlEMWwzMEkyQUFpM1QwVTVISmdfcUdUS25vOVJvRGhucFJtNEhnYklYS3V1YjRDZ1ExSG5HM2g0QmZCUGVBeWVFOEp6TzJDZFpFSDNaR3RSblNITDZjYVJObjUxZEtKYktCdlJGVXlSbmM3c2Z2b0FOR1lKMkJrX1hhUDdMM05VeUFjcHo0b01yX1ZpOWtJS3hSVmM0bHRRS09QUzJkWXJoaXRJSHhFTVUtcEF1RzNQWFVVZVVMMUtqdlJUZzQ3bVJaeXlTUzlzV08zLTkxQQ?oc=5",
+     "fecha": "2026-01-14T08:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    },
+    {
+     "titulo": "Día Mundial de la Alimentación: Minsal presenta herramienta digital para monitorear el estado nutricional de la población",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYlVNQmxid3JFdjRFRUIyOWM1NHNFTkZhckhvcU5salJZcWgxYWozUnoydk9jM0d5RE8zLU54dmhWaUItMjB3RjNaRUotR2FvSjNQODc2eVFtaFEzS2FlcTRnWXU0VVNqbXJxNjJfOVZVenNyWFJXWmlrc1o2X296djF6OE1uQ1BtRjV0WFRsRnBkMXFYNlJoMUQ2YjNkclB2SjB4dEwwbFptUGdCdFZndElJSE4zSThSMmViNmZObkFpeW01Ymd1VEhLclA5YXA2VHJoRS1jVU53Z2c?oc=5",
+     "fecha": "2025-10-16T07:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    },
+    {
+     "titulo": "Ministerio de Salud presenta en el Congreso el Proyecto de Presupuesto 2026: aumento de 30% respecto del 2022",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NsYmt1ZmM0YWlCeGJKMW96VzA3RTdRSHhGc1RsZDZlZmJzTkJyOXVESW1aTEtnazU0QlJ0Wm9DRkxTNVZleWRTMDhmdmlXVVh2NDltNDV0QTJ1bGtYbzNMYzlnY1BQUUdva0VMV0tCSVpNTS0tRGhKY19KMUhWcVNYNEhTZDZDMS03UDQtQmk4MjRCWWVFOFVVUTB3aVFPRjhIYVJaYU9ZQWxoQmtlNm9tYWdrSWR5bE1ELUNlV3lFYkhVaGZhN2Jn?oc=5",
+     "fecha": "2025-10-09T07:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    },
+    {
+     "titulo": "Artículo: Salud A La Vanguardia: Inteligencia Artificial Para Mejorar La Gestión En La Salud Pública",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT21DcU52Mll1UXB5Vk1uZWliSVhPRW94Z0g2aTJnbGRPeU9SLWNkNXdYVzVFMGlQcUx4ekNDWjlFR1Roc1RUMHpac0kxZDJ6a3NLRjVzWkZzRzlRWXBPR2g2X2kxbVAwR0k5WlFSTE1yRUJQdTEtZ2UtRzFITHNHeG0zYXFhZU5qcU9QUm9hc0RSWWJkcXNQZXdJbUh6bFJXY3VxZlpMWDM2TnQtakhaaGdidFpNTzBQZEU1dUN2WGVvdmhnaU5EQQ?oc=5",
+     "fecha": "2025-10-01T07:00:00Z",
+     "medio": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación"
+    },
+    {
+     "titulo": "Las propuestas de la Agenda de Transformaciones",
+     "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Lel9jUVYtOHMxWTAwRWlILXRTSk03VFBoYWJtM29YVUZHM1VYTkRldWZ3WjJVRmlVbjkxTEFKNVNZTFl1c0ZrbHVfWVlIVVNnTk5LSU01NjdVYXI0YXY5bzc2bEJ3MkdWUmMyRmV6ZXJTT083V1lFM1Fn?oc=5",
+     "fecha": "2025-03-04T08:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    }
+   ]
   },
   {
    "clave": "gremios",
    "nombre": "Gremios de salud y públicos",
-   "items": []
+   "items": [
+    {
+     "titulo": "Marcha de CUT y Anef contra el presupuesto para 2027 termina con detenidos en Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTG5WLTg4Qm45NHhYWHhKLTRyMnVfR21zOGZycVc1aW53QWZyRHp2M2JqR09uNmU0MzhucVJNaDkxeWhOUkFpc1lnSHZhakRHamNMNm02c2JmWllqT1lubEViMUZOeHFHUHdpOUtUem1nOXFGRXZxWXo2ZnFQWDFKU1I2YVFMMTJ6dGpheFZ1OC1aNTZLeFE?oc=5",
+     "fecha": "2026-11-19T01:00:46Z",
+     "medio": "SoyChile.cl"
+    },
+    {
+     "titulo": "Alerta gremial en Punta Arenas: CUT y Fenpruss rechazan recortes del Presupuesto 2027 y advierten déficit del 25,1% en salud",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSHdWdUp3TEVMSVVSbTMtUEsySHJJWmlKWGZTVGRSeklfOGQ2eEdYS2NYUDNEWmszS0NjaHJpNHJPSEYzXzMwREVydkFvVTNESjZZODFfTmp5cElmYl9IRE5Sb0dCNU9aUExlRDVFQVdvTFJkbzI0TGZDMGZWOTBKdEI0bEtySkVEYmVKcHl5T3FrMUw4cHAxUHZNNndYZi1UNUFBT0VuMW80TVMwdHNnYlZTRWdOcXpueEowM1dheHMwZUdmbGpod01JYWNUcXJrNzRJaW05RVJuMkM1OUhFc3NkQ24zYURYbmhWTnlR?oc=5",
+     "fecha": "2026-11-18T20:11:33Z",
+     "medio": "El Pingüino"
+    },
+    {
+     "titulo": "​ANEF Atacama se manifiesta en Copiapó y exige reajuste salarial del 6,3% para trabajadores del sector público",
+     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVBVYU1FUkNQSUF2a3lsaGNaUFNGT1hIeWkxRUZ3aUNTSXQ0TGc1TXRkN1NrTWFjOUZ4b0JaMVVJNlJQcG5Nd3NCSGY0dnlDNlhxVkNSZFdjZm9Yc0VCWi1yUzI5N2d1M2ZKaVNKVlhxS3hFaGE1SS1XLVNibExsMzRIMmNVNDhFZ2FZMzdaZjV4MXNDS1Q3Q3RteWQ2T3Ftb19kcGZoYnlXeWFibklEMXoxMG1TdkZYQ1EzWHpnSzk?oc=5",
+     "fecha": "2026-11-18T15:13:00Z",
+     "medio": "Radio Atacama"
+    },
+    {
+     "titulo": "ASISTENTES DE LA EDUCACIÓN DE LAS CORPORACIONES MUNICIPALES DE CHILE, FENASICOM, SE SUMAN A LA MARCHA Y PARO DEL 24 DE NOVIEMBRE",
+     "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb0JDSGF1RTFPeDdpeW10cDhfOTVPYkRYLWpwYzJjdjFKb1hhMHhGUXhPeWZnRktYSTI3dUdKUG5RMDF4cnl5YWZScHZqd3RmUDJyZHFNbTlOd0pVMU9rSFo0bW9XejJTOWUwNUNYOEpMSVlpQl9pc3VxWUp0RVdfSjE1cVhZcll4S2Rxc3haTHRHTXBwQjFEMFdram5EMThjMDNReG5xMWpwend2ODFvSzl5bXRYRmpOVVhSaEVpUmRQLW4tVFRuSFdRTHZZNnU2QmRpYTJuSFdtdzV5dUFKOENQOUpJM0tfeEoyVVFvRGwtTEstRTlheTVjTkhROUJWUEFN?oc=5",
+     "fecha": "2026-11-18T14:59:30Z",
+     "medio": "Colegio de Profesores"
+    },
+    {
+     "titulo": "Anef y asociaciones acompañan asamblea de ANFUSEPU: funcionarios advierten riesgo de despidos masivos en servicio para el 30 de noviembre",
+     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQU80b2tHbnhXT3RRQmZ6U2xzT3Z0SWdxSDAzQVZOM1MyMEd3Z3hPQk4zVXVXcEQxS2dlM3BtVEtrRnNTZVJzbHJVQi1kT01Ka2pkaUl4QXQ2dVdMQ3hLV2hfeXNUVGxzQTYzdVFWUkc5WFZMSXVrb0g3bEFCS2hCdV9DLTNIN3BERGxGZ1pOMXdleklGTy13ak5BbDNWZUFlS2NBNnRjVWtfby1qeHNwZHI3UXJlb1NYTnRaVV90czNTV250MEZLcXZUUkF0bzhDcVZOdUExbDFTeXZDU1A2cHp2UGRiSjct?oc=5",
+     "fecha": "2026-11-18T13:29:48Z",
+     "medio": "anef chile"
+    },
+    {
+     "titulo": "Los campeones de la Olimpíada Anef Magallanes",
+     "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2laR1dXUWg4TnZyNzdha2xtTmpGbkxhOHk4TXhwcldHZGltdkJodkZWeE5FbW5LYkRiRnBvcXN6eEVBUFNLWlVYT2QtbzdhTzJtcnNhMEQtM0xfMjVSR2Q1LUQ3aGZoajZTcDZSMTZPUElFRzJxVWpodk9MNG54cjlCdjhXa2xmdDNwZg?oc=5",
+     "fecha": "2026-11-18T11:00:30Z",
+     "medio": "La Prensa Austral"
+    },
+    {
+     "titulo": "Fenpruss abre diálogo en Hacienda por reajuste 2027 y exige proteger poder adquisitivo en salud",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSko4ZC1PQWFoX1VLV0VuZDJjdmswal9aSzRzR2FlZm5aQXVjdXZNbFRNRnc4YS1RWmpiY1hWS09aV3k3NXYteTVRZUxuSjl1NmdDS3NjWURvdVZINnY0dE1uRFhxcWZJbDNScDZ2c2k3QnZpV1poSEJtQk44NkVsRGtTWm96YVVBSWtvR3ZCbGJFWGVSLVNWaDFMekJqU21rdndCOTlwTWo5c2dtdG9udVFGZEVrb1ZzTG5QNkNFUkFGNEw4RlY5SWhyWQ?oc=5",
+     "fecha": "2026-11-17T19:00:00Z",
+     "medio": "El Desconcierto"
+    },
+    {
+     "titulo": "Coordinación Fenpruss Arauco intensifica gestiones parlamentarias con senador Gastón Saavedra por presupuesto de salud y regularización de honorarios",
+     "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNaWNSVVJ0amR5emotcDBzX2ZFUjk3TUdaaGFFeTlTOTh1dE9VZTYzSWNPWHRIT1hScTN1NnJJY2dPQXJzMEdTUVg5X2h4dVIyaEtlbXdkSF9lYlpjb0hrY0xZV3pZUTRuMjZaN2F3TWtBNGlFRERyOXlaLWlLbXBFMWljMkViT1hWcmloZ0dWYlU0VmpOc2FZZGhtWW5tX3ZET1NXYmlfMGtnMFlyTmpSQ3I1TDkxajlzY0xFQTNVZlk4eGlRTmcyTGtaT21vQjlGMFg5V3RuR1RvX1UyekVmWFNtdTk0dWh5czhFMmk1TnRKM2UzckItQ1d5alF6a0l2UFZRNTV3?oc=5",
+     "fecha": "2026-11-17T17:08:50Z",
+     "medio": "Fenpruss"
+    },
+    {
+     "titulo": "Senador Ibáñez denuncia despidos masivos de profesores y asistentes de la educación en Valparaíso y llama a rechazar la partida de Educación del Presupuesto 2027",
+     "enlace": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOYnQwY0JuWVVqTHVsS2RBUV9IWVQxOXZJYXVUNEVBRmFxWGgyRjBwb1hYUXVsbVYxRG1EYWExbGc2MVVubXZSQzhvMll4eXdEbVVfWHlwWnpSWlk5OVZUOXJYODN1RkMwSzU3X1pnb19zb1ViVDhMcVB0UmNNMkNvY1RuZmdXN3RkZXMtZFRfSWt6aVktX0pXTEpUamRobndaY1h3aC1PblJiMktGOFZlU3R2RlVXRXVfY19BODFlbHFGZW4yMWFPVXRpSXhjRk1qTFdybzYzVnBYRzk3cERHYmxFd05YbzJtakpkRlpnbmJ5aGNlWWRsVXFmaTRKbUYtQUxXYkx1dUthZWVIQ0hpOG4xT3ZoYTVOSjE3clU1cWY?oc=5",
+     "fecha": "2026-11-17T16:03:20Z",
+     "medio": "G5noticias"
+    },
+    {
+     "titulo": "ANEF Los Lagos adhiere a movilización nacional de la CONFECH y sostiene reunión con el Seremi de Educación en defensa de la educación pública",
+     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd3p0dUl2dy04TEM0STU4a2FXU0pXOWFyT1B0Mko4TnR0X0hkTG5yN2U1UkQ1dExkYXFKd291b3Nmc2R5d0FCVk9Sc3JmNHkzaEJmLWhCWG9PdWRObnNMTVdzYmpMX01IS0RIcTRDZ2s1SU9uN0lOZnNTejNIVkxqVUtzX3VRejBNWjF4NkEwb214N2F1ekwydGViVFh3bnhqRDJmNkJSdWpkRGdKaU1scTROZDl4OFNuaDJqb2k4aUVtLVh3N25uOHFsR0hsekVwYVJ4LVpOZll2cjliVW1DbGhZaElBUWxRdlFXejNyUQ?oc=5",
+     "fecha": "2026-11-17T15:58:02Z",
+     "medio": "anef chile"
+    },
+    {
+     "titulo": "ANEF Los Ríos participa en coordinación de movilización del 18 de noviembre",
+     "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVJIWHY0ZkRUOG1qVU5XX0Vfd3FuUVlJMEVyb0xOVFluZHkxclN4OFlRUU9kSWg4bnV0bEthNUFwUGdqY09tMGhWRGdoU3ZlLTNoRHBadHhCMHpZTmZXR2ZNRU1wRy1hU1pCY2VzdDk3SkpyOS1BLUc2RFRiSE5idzBhV2pEM1BDVlA4Tm9scmtXdldDd2FB?oc=5",
+     "fecha": "2026-11-17T15:43:21Z",
+     "medio": "anef chile"
+    },
+    {
+     "titulo": "Se realiza la primera reunión de la negociación entre la Mesa del Sector Público y el gobierno: Trabajadores solicitan un reajuste nominal de 6,3%",
+     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0xJd0VJVFhhQTFTMk5NLTkyUHFyaU1odHdqQmI4emMtMXRMUmhKNm1hdzBVSC05dVNGdEN4eWNaTHZCRHZVV1dhZmNrU1puRjJnajBtT19vaHpPNjRBY2lwbnp3M3E5UGVoUTFCRmlIMDd0bXMtRGllU2JHamQtQS1tdFF0YW9zejNORW9oUVUwQ3hHRFlOSmFGQXA4dw?oc=5",
+     "fecha": "2026-11-17T14:40:37Z",
+     "medio": "anef chile"
+    },
+    {
+     "titulo": "Fenpruss Coquimbo intensifica gestiones parlamentarias por más de 800 trabajadores a honorarios sin cupos de traspaso a contrata",
+     "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeDZva3o5dXVfSWVrX2NWcDVzbVM0RDByaVlNTTQyT05zaDE4X0oyTnVsQnU4RmtZNU1OR0FlY2N5bDlqOUpvU2cwdkpxZ196QVd4STNfMk1ldHNtaWVCT3ZhY0FKS1BXbkJkZE0wNzFQOUVqeWJ3cmxpNS1vNmRzbkdFNS1tejdRX2VLSEpZYUR0UDZQeDJNT2oyTTY5dXdmTEVWYXVibzh6S2RDVldEU3FKM1pZNUpkSzF1STJwUk0yaGM2cFhvaThHd0lpMlE3U202dWtYX25qN24xSFg3WlJyTjZIVHNTTlE?oc=5",
+     "fecha": "2026-11-16T18:14:26Z",
+     "medio": "Fenpruss"
+    },
+    {
+     "titulo": "Fenpruss Región del Biobío logra compromiso del gobernador Sergio Giacaman para crear Mesa Regional de Salud con participación de organizaciones gremiales",
+     "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNGZ5YmpUeHhTbjk2QW5BN3J4SFo3MDFUNWZveTZlMWtEQjBjT01PcXRVcmJaLVZSM0xWejZrY0tjaURyaHRXYjBVWUJ1Q3ZBb3RCc3Y0cXBHbnhpVVlkNTRLZ2VCeTBmTWIyTDVfSTR4VWF6NXBRU3NJY0lmV2J6UlN4TUl3aHBvWXltYUVXbTVsRXZYck9qWGZUVlllN2ppZW5tS2d0Y19kRnoxWFl6VWZQTHNxWmtHdTgySjhIM0tkamlsSzdLWkZiUWJ2YUtqVEtXV3lfREU2ak5NZXNPaU9NR3hFSDFqNGZRZGJXcXZUN0hMemRlc3JuSjRZdG9TY1RRZjlaeFJ1TVhO?oc=5",
+     "fecha": "2026-11-16T18:09:13Z",
+     "medio": "Fenpruss"
+    },
+    {
+     "titulo": "ANEF ÑUBLE ADVIERTE POSIBLES DESPIDOS EN SERVICIOS PÚBLICOS Y AMENAZA CON MOVILIZACIONES: DENUNCIAN DÉFICIT DE 300 FUNCIONARIOS EN LA REGIÓN",
+     "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMjM3TzVYczFUTG1BMDVJRnJrNHAyQTdGREtnTVJZMEFJUlNBWmZVN2FnV3ozZkx4aTNEcnpCVXp0ZDF3a1hRSC1CTzVweUl4QkExOF9aUm5jTlRMdVdqSzVaRDFYQm45dkgwUm56X01Gb0s1R0JMTmNXT1N1TGxFWHpoVkt5SmVTVE84aURxMXdtcHVCZGtsZmdHMnZLWGE1X0FGRHdiX19rQWZEV2pZb29sNU1vM3FLcnhETTBvUFNtWFNyeG1vLXpjamx3cDVGc0ladVBVT3FBV29fM2Q3eXNzUno0NWItTTFZUGpzWHNKek1iR0FkLUZaLS13QnRqRjU1cXRpcw?oc=5",
+     "fecha": "2026-11-16T16:26:24Z",
+     "medio": "Radio Contacto 90.7 FM"
+    }
+   ]
   },
   {
    "clave": "publico",
    "nombre": "Sector público",
-   "items": []
+   "items": [
+    {
+     "titulo": "Protesta: Estudiantes, funcionarios públicos y trabajadores privados se movilizan por el Presupuesto 2027",
+     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZW1lLWpTbGVtNWNZVXVWRGVNY1JsR1J6R2R1QllBZ3RScnFkbFNFWG5KZkpjY2lRWDliUldnNEdHT2k4OC04UEtuUjVhV1BfUXBPcnU0Z1NGSGJDRjVGVndMelAxa25tOHRuelAwT1ZLT3dIOTY0ZzJPRWZKcHhNRVh4SlBiUFRSMUNYUmNMUGt5WHpLeVU5aDRkSGlCemc3UVJGQ09BTnZSYUpVMG1DXzF3RTN4cFJZd0gwWWJGQjladw?oc=5",
+     "fecha": "2026-11-19T01:13:00Z",
+     "medio": "24horas"
+    },
+    {
+     "titulo": "Contraloría detecta a 315 funcionarios públicos con condenas vigentes por crímenes o simples delitos",
+     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbExXa0hwV0w4OFZSZjByMm5ydFJ1RVNRb0VMY3EyZjNQWmZsaUNwRXVFa3ZlR1U4UlN1QkNjX25VdVFaWGl3WHRoMVRxVWNoRS1zdFYwSjJWWGVWQ09vZFJwbzlMRTR6WXc5Y3U2REhrakNzUkxEMXVXRENFUWxxRWZhdTJSb2RNTGQzbVFrUnFITzJJOFdYeWFRV0dMZldDcDBGZWtIbkMwWDAwa3hpSFdRbGFOTi1qNmNBRHcwSjdxcXJQ?oc=5",
+     "fecha": "2026-11-18T21:01:27Z",
+     "medio": "UCV radio"
+    },
+    {
+     "titulo": "Contraloría detecta a 315 funcionarios públicos con condenas desempeñándose en el Estado",
+     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1ZNc05pUFU4N1B0eHFyR2t4VVZGR2lKQTZwaWFKOHc4SThDMzBTcVFqckR0RmtpUG5iMFlOUGdsS1p0S1FRdC1IbnpwRWYwMzNyVWRqSkZUa0JkM0dzUk56aTF5VkhoNnVBV21hN0tDNE1lZGVYN0ZaVHU2UVVqQ09IYVJ6OGM2QjY2SUN6Q0wwbGdlbVB5SE40MGhKYS1KV2xSb2N6Rmh3TzQxd0I5VVVydXVFbm41MzJaOUNaWmc1SEQ0?oc=5",
+     "fecha": "2026-11-18T19:45:34Z",
+     "medio": "https://auroranoticias.cl/"
+    },
+    {
+     "titulo": "Funcionarios públicos y directivos empresariales capturados por presunto fraude con el IVA",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHZSdmxwMnJ2d2E0RWUxdzh5N1pyNzRNTjJsVGhTU0M0WkpVWm9BT3BjdVcwcmpZTHhobEJlSzZPZDdqXzctZHBoUlBRd29ERXlCTENUQVJGREtlQURZbEw0Z1ZxYzFaWGRxUWtETWxac19ycm9ER0g3YlZsSFpSZkNGR3JCSnZXLUVPNUxCeVJ4MVBHN2xGU0piM3ZHTTFwMlBGQ05Dbjd2THlWQXktWDVmYUdxd0FwUlZJWnFRQ1dFRTQ?oc=5",
+     "fecha": "2026-11-18T17:40:26Z",
+     "medio": "Análisis Urbano"
+    },
+    {
+     "titulo": "El Ministerio del Interior planea reducir el número de funcionarios públicos en un 11% durante los próximos cinco años.",
+     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVJvVUNhNzFVTU1nV1R4YlVuMzVTY1U0ZGRaWVVsa29henh1X29uYmpubVlWNFM1VVFIM1cwV09qTFR3MFpETk9DalhOSGJpRUZCN1VhVnE0NFV6ZDctS2dhX1czTXh5NFRMUE5INEdQTUJ3TXdJVUdPblIxWVBodWJsYkprdldBdGhXZk5B?oc=5",
+     "fecha": "2026-11-18T17:12:16Z",
+     "medio": "Vietnam.vn"
+    },
+    {
+     "titulo": "Ley de Presupuestos 2027: Irarrázaval denuncia nuevo golpe al transporte rural y arremete contra Orrego: “Somos el patio trasero de la Región Metropolitana”",
+     "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOcmpsNU0zcjA3cW1CbnhqOWNGRzJGcDVWeldBYnFHRDNlaFFBaGpZdUJoQTBHM3BYcERoZ2VJNFdLNUQzZlNpTklZa2xNSi1JNHluTDMtR3lYSThFTGVOMUxyUlZNVTJkMHIyT0hfZDhzcWJTVFMtUWhXRXZmaDJ6T3Y3ck0tMWlTcFU2N2U4czREQ3ROQjg1MW1YMjVXYlgyXzNGeFAxb0pTb09PME9yY0dkT1dkRzBjTlFrQmJCMzJZZkwxQjBMUzZxZnZHbW5aUVlVREdTQ2FPa3Bhb003MjU1Y0QtZ3ROVjZTejVpaXo1dFBRaVJ2cjV5ZDk5MmQ4RVpsa3M4eTBjdTNJb1JHSGNSLXY?oc=5",
+     "fecha": "2026-11-18T16:42:12Z",
+     "medio": "G5noticias"
+    },
+    {
+     "titulo": "El Ministerio del Interior prevé reducir el número de funcionarios públicos en un 11% entre 2027 y 2031.",
+     "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOakFaSzNLU1YzWnJoQ1BEUThydnBvWGt6M1FjWHYzS291T2hUdE5WN1EyUHp1Ykd5cVdKTGpYejhxYTA0RUdLLWlVdS1OUEhqVW4taTlPc3hpenBNam1UVjllcnpKWHRMU3FSbk9jQlg0Z1BlUm1RMXJUMG9WTURUazFuR3hiWXMyUUs5WDRjWkdSZzhr?oc=5",
+     "fecha": "2026-11-18T14:47:54Z",
+     "medio": "Vietnam.vn"
+    },
+    {
+     "titulo": "Contraloría identifica a 315 funcionarios públicos con condenas vigentes y ordena investigaciones en organismos del Estado",
+     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSEtyMEs3OXlMOUZSNEt5YzgxNHhkQmRzZi1nVXBLSTZNWlBXNk85MXlYbEllZTJpanZNaWRIQUpVSWxDZHJURTJnY3FPTmFicldsUUZBSlh0MUlMTnpndkxkajh6VFRUVDlBNDQ1UEtCRllPQ19LRE53UGJuTFVvdU9UczRUZ1REOWNsLXQzV3QwMGtQdTUwb1BGc2ZJUE1pTWtpVXpWTHdqdVlaVFpUcl9zZjFFMHRDcmRnSzN5cWJuSkQ3eF9aT0xaUDNQZVhDcDFDZ3ZuMzB0dFdZOGc?oc=5",
+     "fecha": "2026-11-18T14:39:12Z",
+     "medio": "Radio Ancoa"
+    },
+    {
+     "titulo": "Contraloría revela que más de 300 funcionarios públicos registran condenas y continúan en sus cargos",
+     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTnRJTmJYMWhURkFRajFHRjI3NGJmamdUUUZXS1hmNXo2ekg4aXAwaXlQeU1EZmdLOUQwZ2plaWhDM2VWVGo1bTRPT0ZwOTFSLUg3RnIzVUJybC1ibFdXUnZXX1owM2tqVmNMMl9OUEJ5Z1dhV21pT2k0NUZfN0VHQTNHTDZJcDZ6XzQ3WURqZHlic3VIMkl4c0c1dndyc2ZISUVqQ18xemNudTNNMlVMc2loMG9wbUlWS2Mzb2tBUzRhMUdFV0lXR0pXaGhlS3NteGREZXpB?oc=5",
+     "fecha": "2026-11-18T13:56:09Z",
+     "medio": "Chicureo Hoy"
+    },
+    {
+     "titulo": "Contraloría detecta que 315 funcionarios públicos continúan en sus cargos pese a registrar condenas vigentes: 84 son carabineros",
+     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOTdBVWNBTkViWnloQmdCTjlXdkdkSjV4Y0JodWZmaUt0cHJ4b0VPRWk3enZvZnlzWVpORlZQbTRJRzlvM0FHSkVxdm9EMW1YcEFBNzZEN3FKODRVYTNOUW5weGY3aUdma3ViUFhTWlo1SnRlLUg2Qzh1dDZyZ0lZNWJBUzVSZkZ5ZVM3bXBKRFNPdUJ1NkZkQU1lWTMyWkhjbGM1S2dkcXpKajBhUDhRUTB2UmxveWtEanJqb0FGUm1ibXVxMEFkVTBGVDAyUnplRFlrZkZQdnFNR2QtSXR0RDBiZHA?oc=5",
+     "fecha": "2026-11-18T13:24:04Z",
+     "medio": "EnEstrado.com"
+    },
+    {
+     "titulo": "Contraloría detecta 315 funcionarios públicos con condenas: Carabineros y Ejército lideran la lista",
+     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTjZaZFJrcHNuLV9TNERCY0w5XzFlSXdlR1FtbjZjOUNwc2JOS201SXloaTVvSUJjdEIzWHJJZkZHVzRKWjBrUXVLVWNiTS05cDJDVkpPajRyMGw3UWQyMm80X3dCLU9lVTBHbXoyYUVTY3RJSk9BWEptdUtCVGtZTVpWazRETTVlZGhQdWJCak1FZEJMYnZwNHNaTHZsV1ptaDZKTXpiX2JHekFoNnlPV3U4M0hFVkpzQmNmMnQwSFh6QTdrcTFxTnZtOUlrX2N4c2hiVW5xNmpGbHl1VWJXbmNmRENFMkVm?oc=5",
+     "fecha": "2026-11-18T12:05:56Z",
+     "medio": "Diario El Ranco"
+    },
+    {
+     "titulo": "Contraloría detecta 315 funcionarios públicos con condenas vigentes trabajando en el Estado",
+     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQmZpbjNLdkRxSHdGeUtJNGt4S21aNGJIdm1LRHlvbzJSWUp1RHRBV0dtYU9MNEl0ajdnYjVFa0FKRVdZWkcxWE9fWjlxWmk4UXdGcXRtUEpsMGVqUTNjckM4bVhNVnU2QzZUbzVLNDJjVXpSVS1kNzhRWGFLV2oxWnIyU2hFbFZOYmFSYUJUMVZzZ01ic01mNW01aEp2aXdIeHpNWEJXYmNHcldKdnQ5bG5vYXlDTDd4aExoSEp2aEJXYTVH?oc=5",
+     "fecha": "2026-11-18T11:43:56Z",
+     "medio": "La Región Hoy"
+    },
+    {
+     "titulo": "Ley de Presupuestos 2027: despachan primeras partidas",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHF2WWNOWXB5TFJPekVhSlRGTzUxaDNoV29zZlRKM1NtdnZycDRwSFN3MWdsblhzY3ZHV0lzMU1VdzRRWXd0eldRY3BqQnNuNW40VGNBbFVRbllVTGo4V1ozbnlPTThIXzlSSE1BQ2FaWUpxaHpfcmc5andiWDVnYjNDYW9WdlExZEpPVktlMzVFbWRMNTJqR3YyVlVzUUdTYjczT1NnVGYycHhSR180?oc=5",
+     "fecha": "2026-11-18T11:25:52Z",
+     "medio": "Diario Estrategia"
+    },
+    {
+     "titulo": "Van al menos 30 funcionarios públicos detenidos en el gobierno de Armenta",
+     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnIzdzVGTldHeWVaVVp3bEtWRDJIaHRZRVJCRFd0R2hOSEhhOEEza1pISzhPQ0o3TWh0eEM1cGxTQ2I4U0xkMndjMGZkeEprVkJuc010RklMeGNmR2NGT05SNG9lcjVYNkxIMFlfSkQ5UjluQmcyU19PNks2N2xqamNHbF92d0JWcFEzYnhqZ0QyX09ueDBFN3pxVklIWV9yRVFQOTJxS2RWeE1tZjVvamhtZ1JqWWNkeHNj?oc=5",
+     "fecha": "2026-11-18T06:09:22Z",
+     "medio": "La Jornada de Oriente – Puebla"
+    },
+    {
+     "titulo": "Contraloría detecta a más de 300 funcionarios públicos condenados por delitos que siguen trabajando en el Estado",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZl93Y2RhYzRMZjFqdTJ3aHlFYUJ6QWxqTlU4SVRvYnpkVjctSlhQTWxWbVRNSHJQNkIybFlZNHYzT2F2ODhMMFV0bWQzNWMwWi1wdkJhVFBpWmphZDJUTEVPV1h5bVlTZEdTMXVTMUx5MTFPblQ2QVR4WUwxVGNtc0lrQzZhTlZqTEE4VHdYWUxqXzJRRjZxdldJRWVwRWdDRm5YZFdSd01mREhOeVpxTlVMV05qcm91bC05Q2hScDh0SGJtWEt5M0Niakk3Vm1SRVRBMTFIOWhQc0k?oc=5",
+     "fecha": "2026-11-18T00:03:21Z",
+     "medio": "CNN Chile"
+    }
+   ]
   },
   {
    "clave": "araucania",
    "nombre": "Salud en La Araucanía",
-   "items": []
+   "items": [
+    {
+     "titulo": "Trekking interescolar fortalece la participación juvenil y abre espacios de diálogo sobre salud mental en Villarrica",
+     "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMUVHY3c2T1BWXzM0bWFOYXFOalo0dUE3WmxqQ1cwVE5vS0ZYRVBWUTkzV0hLQk1SQmtzZm5fOTEzaUVabkpHRURBUE54VGVpQ2FmSG9peWU3ZF9TWjRrdUFIMHEyQXE1WnBxRlgyTXlLbllxQkVfbjM2V2xCZDhUNFNaRlIwcmJablh1eE9nZw?oc=5",
+     "fecha": "2026-11-18T14:45:36Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Asaltan por tercera vez en una semana Cesfam El Carmen en Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMC01ZjVJMW1tZE5ham9VaEtGbTJheVNqRHJIb1VpSkxLMWhMdVJ1ODJObm5selY0RDJ0aHV3YlBvSklOTTFwVjl1RTBvV1l1Q0cxZ2ZUWVBrTkl6cHJFS3Uyenp0X2ZIUENzVFVVQmdkRWdvU3V4aEl5d2xNZ2RXSndYU0JsTlRONENwM1BHSjlha2hmQ1JQaHFWR0Rvb3p6WXRfcEpVUEVtNktFR292UTY0b1d4azhhZFRUMTh3bDF0VGFsZ09tSEd5QzB2aFlFdFkwUXZkZkRfekdoTXdVamdvQQ?oc=5",
+     "fecha": "2026-11-15T14:10:08Z",
+     "medio": "BioBioChile"
+    },
+    {
+     "titulo": "Unidad de endoscopía del Cesfam Labranza se posiciona como referente regional en atención primaria",
+     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHZPZmdHTmJQdHRIRWtpZHBqOERRMjdFaVhFbE1yZjlpNWkyY0Z1RVVUTUJ6TnhnSk1VYnVxbmVWMExtY2FRSnVjWnBGNnRYa3o0S21HbDAzejFndHB2ODRCTDBoeG55RTY0TDNONTF3X1E5ODUzTkRuZEFsaUI1bk1rcWpvMi1uVWJ1ZVJlYTd2bGU0UFptQTdzQ2Q4MmM2TkVKamlwLVh2bXItRWN1X1kzSlMzblpKdHRvRjFn?oc=5",
+     "fecha": "2026-08-21T07:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    },
+    {
+     "titulo": "Nuevo Cesfam Milano de Temuco recibirá la mitad de usuarios de recinto Amanecer",
+     "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRWFpWjdTR1JsemNFaF8xZ1F6UG9vMXF3TC1RM1d3RUlUMkY0MEVNRldHdFI0UUpQSE0tQzE3T1JIX1VaOGZwbzFfY1BvbVpCQ05qY3NqUmN2MnJhX094VVBkUG52QnBFaE9TRHBwMjU5LXJqQU12S281M2c4Y3ZNa3dFSmYzcy1EeDFEOHp0MDktU2ozZGpTTlVnU3ZKMWMwc19yZ2E2dnZ5QUlfTnNRZEFvUVE5OXVpYTVnY1M0NXFSUUhKcV9GaDg5TV90MHU1S0dhZ21oX0RtSVFzbUljR196a3pac20wY1Rucm00bE9xcmpEbDM4NVZNdnBVZ1NnX0lKZlFR?oc=5",
+     "fecha": "2026-08-04T07:00:00Z",
+     "medio": "BioBioChile"
+    },
+    {
+     "titulo": "Luz verde para el nuevo Cesfam Villa Alegre en el macrosector de Pedro de Valdivia de Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamt4V2tONk4wb1BNazdyNl9DTE5pLWtmR3hYd1ZCSDEyeFk4NkkxYXExMkkzTVJ2cWNpSzhHZzkzNkE1R2ZqM09WbWdRQWFBRHFBd3hEeERGZmRIamtJLU5oM2l3bGdIOU1KdU1TbEstbWlMdTl1NFhycHFYeUt6dU9NNnNmYVhfMi05MFJTWFFCZV9KUFJCNmZ1c0pJRmZRd2gtYVJYaGowYl9wcDNraG9wTDFKZw?oc=5",
+     "fecha": "2026-06-12T07:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    },
+    {
+     "titulo": "Vecinos y vecinas de Temuco definen identidad visual de nuevo Cesfam Milano y consolidan proyecto con sello participativo – Municipalidad de Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQUtQZFZmUkZZU2JpRjNmQUg5SnRPUjFoVE1OLVNtbFV5MVZCT0Z3V1p4QkVnYzNlS1BoMVkxSVhzSXlQMFlJZm9LUmxEa1k2UW9mZEZYbl8zQThhMGhMTmNPMWFwWk5JNU1EUkxjdUZRWnR4U0c0cE9DLXl0WnQ0VE41bmpJMzN2bkFOcThocHc2a0pjcG9LV294RmFLWTVrUHRmNzFsa1FIN1AtVk9OWGpuZmdKalVCSktFMkZWUDBjMTc1eC1jY0I2NTJ5Q1liOHM0MDU1c1czRmhD?oc=5",
+     "fecha": "2026-06-08T07:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    },
+    {
+     "titulo": "Temuco inaugura su primera sala de calma en la urgencia del Cesfam Labranza",
+     "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNHFsQ0J5QkpqWDZMbm5ON0RLRFpmZS1qbW0zamY5NmlFZ0poRXVMV2E1LXMtcFFBU1FYbmFza3pqbHJJeE9ILW5wTGpyM0ppZzB1cjd3QXN5d1NLc1Q3YW5pUjk4UmdrRTZnS3lCUEpCOVNKQ3lOYnB2OElQcXZweFBSaU9GSEUwZnBiSlQ5MkpzYTFOM2xOX0dYS2lraGs?oc=5",
+     "fecha": "2026-06-08T07:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    },
+    {
+     "titulo": "Con 68% de avance, nuevo Cesfam Milano incorpora apoyo de la Universidad Autónoma para mejorar la atención en salud – Municipalidad de Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYnBSTUxKTDlxRmhKenU0aDNOX2d2bEVrUzk4TVJ3ZjJmRXVPaW05UnJMb0J3QUlwV2dlNnpJVXZTR056cVZzV1F4S2UwajYtZHh3WEFBcktjUnRsUHdyNDQ2RWxCbnhyZUJrbUhtbE1qTGpHRDFIWDZmLXV0S0tON1VCR3ZzRWpxWXhRalR4TU1seTlpWHZYMExuWF82NFhCX29nVFlLSXhsb0FFNU9xV1pWMGJvSVVHMVFWQ1RZRTd0Uzktb0FKcnpRU1dTVXliTlE?oc=5",
+     "fecha": "2025-12-22T08:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    },
+    {
+     "titulo": "Vitalidad Integrada concluye en Temuco con impacto en personas mayores del Cesfam Villa Alegre – Pedro Pastor Araya",
+     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWHVEajZFaXFGc0pXMzBielZlZW5EblhDZFNRR3hBeTN1ck1vVlhkaW5vWVlJaDNlU1pWQUtHbU9hbHRlNkdKbkpyd2NuZlNwaTZMU3BzSnpBVmlOZk5ZTzROZXYyS3BTQm01Uk1jRzVoY3hLTHg5TGU5cW96SVA0LWozOGtDZUVUd1RHZ2V4c0VCWm9qSFZfQUFqelJZTVI1YTZyVlBsNWM0eEJjUm9fSG16VHZ3LThvWF9QQ1RIdlNBU0JFc011amZqak0xZ3g4Z0tNVVUwR3MweFJ6V1l4Vk93?oc=5",
+     "fecha": "2025-12-16T08:00:00Z",
+     "medio": "Universidad Autónoma de Chile"
+    },
+    {
+     "titulo": "Obras del Centro de Salud Familiar “Milano” ya supera el 50% de avance en el macrosector Amanecer",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMEp4SV9idlZjeUFYemJCWktQQjJ5VHdueW5SejFnWVZVcVM5Z2s0U3A2Q0RncXhGS3pDSFRoTzF2V0dsVlBLUzh5OEhpWkxMMDdaSnU3YVhIcWZDRWZlMGZSMVV5VFQ4RW5mMU9mZExmU3lHTkJsUEQySDJSYTdsRWpZT2VWTEVHOGNsQmYwNjBxTlVvRnQ1YjlVNU9sQXNhOHhjUWdNUThjclNyeXFzZDVGMm9pYllt?oc=5",
+     "fecha": "2025-11-21T08:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    },
+    {
+     "titulo": "Municipalidad de Temuco activa medidas de seguridad y protección tras violento incidente en Cesfam Amanecer",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVVxcVg3U0dZeGpVTzZLYVJtMTJwYmZxcnZFWWhJNU5VTUpsNlNsUkhYWmF6UFBnenZyMkFTeExOTkY4TDZYRVJWdUlhTHZidEtnQlRGclN5T1VjajVES2hsRFRuNDRGOTBvck1pTmZoWE9RYzRqS0FqNGxzZEJBMmFzRlpHUy1hTDEzSWJHQzVBOGp0R3V0dEVvdHVfMXlzVlRlWEVONlZmUXdrNkpCMjNHUTc4SkJUVGg1Ry1MSXpDNnhaWTBBN0lR?oc=5",
+     "fecha": "2025-11-05T08:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    },
+    {
+     "titulo": "Ruka en Cesfam Monseñor Valech de Temuco marca un hito en la integración de saberes ancestrales",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRGlYUExJT2VtdHdPTkZhSWRmNTdUVTNYcXl3XzRpYWlMUUh4ckJhRmF0bXZsemVJQ3lzVm1TZG54T3FCV0Z0b2tVLWU3OWNXekJvbVYzemFCZGZKVFNqb3pDSWtwZUctQWpkT2pyUVNqd2lqamwwMms4cURWNU00My1PNmZsYjIxRUQtN2xDV3RKdUFuN284N25BbmZia29fUWh5UXdrR01LSkZfZnRhdkFMTHBNNGdvcGc?oc=5",
+     "fecha": "2025-10-30T07:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    },
+    {
+     "titulo": "¿Quién era Valentina Fuentes, doctora que fue hallada sin vida en Hospital de Villarrica?",
+     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzZnVUNiVGpwajhXSXdpbV9iNG5EanppcE0tWTVudUdrWDhDYXNkQzRkUDlUZzIxRXRCdmdkWlhqVkRjckdnSnJYcHJOYTlaUXhLVHR6TVpvdFFNa0g2RzJyeXY5eXBHZ29iMEVHYUh0MzJCSjd5amh2OU1TbWpaZFhtUE45dWZmN1F0LUg0M2xSSzR4aWI2YVFnSGUxaTh2MlVubkcxOEJ2SHlXX3ZaTjZWZTZpQjVHRWxZZ0Q3ZHM?oc=5",
+     "fecha": "2025-10-28T07:00:00Z",
+     "medio": "Teletrece"
+    },
+    {
+     "titulo": "Municipalidad de Temuco y Servicio de Salud Araucanía Sur forman alianza para construir el nuevo Centro Comunitario Pudeto – Municipalidad de Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd0NqTTl3Wnk1emo3YUNxY1JmSE9qb3lfZjBtaXNKYk5DMlF5WEVwZ1I2ckhYY0N2WGM2TVFjYkpnVHJ0QjBKbHVIV2x1cElaUTN6MjJyQnF3MG9aTWEwRjdOXzZVYkl3NmFNS0djM2x6R0hMVFFHTG5UOEh2cEtSUGxQb3VFUFQxcmNQX0xKS1Rnd0p2cTN2R3EtQlhSZUdKcFk2eFpDT21Zc1I4YzhQanJ4d1hGaExMYWJfNy1yNEdDSWM3TjVFdEVmMXBwOHVZOUFFOEtZV3FaRlFTWkE?oc=5",
+     "fecha": "2025-06-26T07:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    },
+    {
+     "titulo": "Temuco avanza en salud: firman convenio para construir nuevo CESFAM Villa Alegre",
+     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWpfa1pkeld6emF0TnpIOEVyN014aERNWHItRk1zS0c4d3pjcG90clNPZHJ4MDZnUVNlZzVVQ1pRd2o5WlZBQUpNNjZtTDFNa0FVeXNvSy14VXFtQ1Y2UTh6Nnp0QUVqVHF2Vk9KYkFPQ0xrdGtUaWo2dnlQWF9aYmJLRHRmSnIxd29iNWxRUnRoZTB1QmlZdWttLUZvS0cxZGNLcQ?oc=5",
+     "fecha": "2025-04-24T07:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    }
+   ]
   }
  ],
  "redes": [

@@ -1,25 +1,389 @@
 {
- "actualizado": "2026-11-19T04:50:00Z",
+ "actualizado": "2026-11-19T04:52:06Z",
  "fuentes": [
   {
    "clave": "banca",
    "nombre": "Banca y finanzas",
-   "items": []
+   "items": [
+    {
+     "titulo": "Bci se suma al recambio generacional de la banca: Eugenio von Chrismar dejará gerencia general y lo reemplaza Gerardo Spoerer",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN25FdmNETFdnX2hQbGtXS1E0ZldFUW1TVXRIUE0xZllHOTJhT2ZjZVJCTnVLQVBZU1dXR2Q3aTVfWU5Mbk5WSmEyLUdiYUxpVTBzYjM1SmFFZ3FiZzdBZTR0SjIzdDR5WVRHQWVPQVFwYkFEVkJ3Umg0eUliTUpsMUdCR0ZMYkZzbWQ2WWxuQnFsNy01RnZkVHRrUjNWVEU4SW1lZk9RUU1FUThUZWUwc0Y2WkZsNU5xVkJIeXNrYzVjbmRDRHlEd05n0gHrAUFVX3lxTFBPQ014SHBkRmVIUE9vV0ZIb2tPYS1qamotam9ySEJpRUpCQmNla3NfMjh3bXkxeUV4U1U5U2FaX3drRnZfLUJkbTMzejd3V1FYZGhsYjFKOEIzTnhqNnNNc0NfYnhvd1ZBQVFVS09weGdiUnZBcm9DYU1GbXQ0Z1VWN2JkWFNVYU1yaWh0OERIamh5U3RvYjgzTDVOSkc5RW13NU1jWWZpYldZODlsUnkzanQ3anJTVmFEdHBWTU1yR1hEZW5sRDMzcm0zbTNWS2hmTnBCSDFOMWhqYklfeGFiV3N1djNONDVLcFk?oc=5",
+     "fecha": "2026-11-18T18:28:49Z",
+     "medio": "La Tercera"
+    },
+    {
+     "titulo": "De Chile al mundo: diez años de WorkCafé, el modelo que transformó las oficinas de Santander",
+     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVTIxNW54TzY5UnlDekN4VGpFVU5rQ3dIVE9vaVp5NEZuUTJJcWlYaTdPaldNRlF3OVk1WTZrX1NaWEtHU0JUdWtvc0xsYUMzWDNsanNwUkRVRHJiZEhtc1o1V2FaVnRoSWpITzMtX29nZ1lyb0hEMjc2UV9wS082S1RsNjRnOHVPX3VCa3pMN2M5YnBlb09xVVJRSUExR05tOWkzZDRIaDFSRy1UTGxGMUphNGVJZ1lzT0VoYUJLRU5PWHR2VzRGYVdOZTVrSldxREFGeGoxWGdrUVJWY1YzSDUydzlHbkhrdVFn0gHwAUFVX3lxTE81TEdfOVZXZjZfdmJpTDJwYTRVZHpWVnRjSmlMWFhKNVJjSWgzSzJ0X2tBSVA3N3VKZU8tTFZOT0Y3UExHZjQ4X1Q4WHROV21WSlZoN1BVMVVFVW0zVDB5azZZdV9EM2JtclY5Umo1dVZ3ejZQcWY2WDdDaFRaNFd3RWkwQkllYTNHbVVSdUlqaXlvWGNNQnY4NGRXSFRvNGNKbl9ibWNsQm4xQlBOaWJMZ0tyd05vd3NMSVZSV2IyQ25jQ25GcDRYbG9tWWZpVDhhaFpPWXE0b21MMTRiU2JkX25MU1hzdlUwanNGdmVKVQ?oc=5",
+     "fecha": "2026-11-18T11:08:36Z",
+     "medio": "Confidencial Digital"
+    },
+    {
+     "titulo": "Banco de Chile, Bci y BancoEstado entran en la recta final por la compra de Transbank",
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObHpxY0JKRTduNDI4RWQ5eEtGZGdfUmsyUDBmQjZJMndLZDdUVWdGamVBR0w4cW1Wcy1TTFFjeDFabG8zYnE5SE50bl9MSlQ1RnV5cGdXU2piaDZFVkkxNEJRWHpKcFp0VWNobDNPZlU5cUVMVWkyRTh0Z3Rha01JU3dVbC1yeVBIdDUyYVNNYVlJMTR0akM0czMxb3dTb0drRzM4NFZMQmU2bjkzTUx4RDRIT3htdw?oc=5",
+     "fecha": "2026-11-17T07:00:00Z",
+     "medio": "Diario Financiero"
+    },
+    {
+     "titulo": "Ni Santander ni BBVA: el banco que está presente en el 45% del territorio de España y domina buena parte del mapa bancario",
+     "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcGhHeGR3d2ZqcFByc0ltSlQyZGJyeUNOWW5vVUU0alR2cjlnd2p6RTF0U2txY0lDNWlLUkh1S3doVUh3RXRRNmRoS1plSDlNWjZET3QyV1VGN191eXBrdjItTGEyVmRmN1pGVENCN1NvYTVDaVR3Vk9pcURYZm10RGM5WHRGWl9kSHpBVFNRbEt0aHlrOTRIRnJIb0hBOXFfQWFseWhTLTRvbWpoNUxpb2RaWVRZTC0tSTdtcFAtZU50ckN5RHBVYXcwTVd6TmJHb2cxT3BPNjkyNWdKalBTZkdVNFJtcTJXNTE0aWY0RTZsZ1ZyaTBEYlU2bXRiSUFf0gGbAkFVX3lxTE5CUEpqQW0zYUh0R0E4ZHFPU2ZZUjRzYjZsb2ZwZzlFSFJ3S1cySEVHMENKUjJ2X09pc2pPX2JhRmI0NkFITlJWOThLaG5mVjZNTDBYSkxXcC1QaVNPU19tOUR2STkwRnh1RVJHWG05VkFHNFR0TXFpQnpjMzBoWGpuMXAtN0VqQXBaMlN2V0VMZ1FGa3h3VE5NY2FCWUNlb1liOGc5bW9TV2oyQXMxYTN6Q1h0SGlHTi1GNFJ4OUxmRFJDU1Fxa2lPV3YwdG0zcG5jUnpJVXZscmhmTm5CMHF6TG53U29Hb3ZkSVVTdEJVZFpFWlNURU54ejJGMDcwVzczQkNiUmtheXJRTkYwZWc5cllhN2YtUnpkSms?oc=5",
+     "fecha": "2026-11-16T14:42:32Z",
+     "medio": "El Cronista"
+    },
+    {
+     "titulo": "Banca gana más de US$ 4.400 millones a septiembre y Banco de Chile lidera el ranking de utilidades seguido de Santander y BCI",
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmxKb1pBMThBM0kxMWxBRjNYVnBRQzFHMndLa1B4UzJwZUx3Qkl5bnFKazNFbzNZZkpLUUoxQ2VJVE10dkZJb3JEbTZpR3prdlEtYzMwMkpKUi1UaHktdkppTEl5N3ZJbTZuajdwNjlieW1lRjk3T3o4VHpOWFZpOXJrR2JhRUR4dFdNV1NiSkFSOEMwZFE?oc=5",
+     "fecha": "2026-11-02T08:00:00Z",
+     "medio": "CNN Chile"
+    },
+    {
+     "titulo": "[Columna de Opinión] Banca chilena ante la NIIF 18: un cambio con definiciones pendientes",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFJEcElmUXdDRko2WUtDRXliQnloRG5nT2RleVluN0Jyb0VkZjZTVG5fUXlEcGltMWRuZzFuUkd0ekZMS182WmdJZ28zTkRJOFlpSHE3djJ2NEMyb2NsMjRuZ2gzYVM5SkpCR1BpQ21sSFMtSVh3VWlHU0dpc1dlTFlLRWc3QVc4b3ZrWndBWFJtZ2ktU0NvamRwTnNlVmhHeG9jc0dZUmpwNWQ0RnFRcUtTTHlhd1RhTVlTaUhRcw?oc=5",
+     "fecha": "2026-10-01T07:00:00Z",
+     "medio": "Universidad de Chile"
+    },
+    {
+     "titulo": "10 años de Santander WorkCafé: la innovación chilena que transformó la experiencia bancaria en el mundo",
+     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZUgxZEJmTG1xaGM0Q0dOSFEtSVl4V0dSUXZ6THN3YVhjNm15dnFqb2pLQ3dMRHA0WE40YzlENDZBcEd1NHBjZVBuRUxEcTgtWDl4SnVKMXItX0V5Z2Q1cDRyQ3JzQ2t5QjZsaVBGb3NKOXhxMUwzOE1BUl9nd3kzbGg0LThPOXFyLXNzbWdES0lQWWptdldIV01ZUExMTXBHSVY4V2NWTWFTSC1Vdk1rQkhySkEyVVhaVmdIVk9nVC1IYW1tOHVFak9aM1Z6QnFVc0FJd1c4WEp4NEN0OWx2YkIzRmtVZ09VT1lwMHBZSkQwZw?oc=5",
+     "fecha": "2026-09-30T07:00:00Z",
+     "medio": "Banco Santander Chile"
+    },
+    {
+     "titulo": "Nicolás Trajtman, gerente de banca empresas de Santander Chile: “Las firmas están dispuestas a invertir, se ve un cambio”",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNand4dmp0VjRWZEpCNUJIZVY2Q2pnbHFZeWRSODBzNWRJT1dqUjYzU2ozLUVIeGd4QTF3LTF2a25SdkF1VXhzWkg5RVBuRW9pa2JjanNwZndaYmJBc2JOYUU4ZHpEQXJERXB6aUlQc0U4VVdmekVTMmhBS0ZNeUI2dVp1WDR3OGZyZXM3eDdMdlF5S29seWZvMlU1Y1NSa0lkc2ttQWlmak5iOE0zQjBuQnlhRFJReDZEbG84Z2pyM01EMXl2MjZIb2M5M1ltTGxfOUtKeWU1eFQ5V243RWxiWTllb2YwRTBEZ1JjdlNB0gGPAkFVX3lxTE0wT1cyMXJ0ZVJuZDJvTGJpcG5xQUhQcVgzUUZEc1Fmb29xNlZlUl96bHl2bUFBXzJGV1p0a1F4UHBlNW93RlJKV1pRN3Q2OWhIcjBrWUpMeTU1VjdpS28xcHVueDc3VjFVcTdENHNkV2hiOXRYWEM2OWljOEJxcXp0UXBRMjFyVXJnNThIQVpXOXNlSndWUXJDcGVNbWF2X3plaXJoWHNHV3hiaTVMeklNOFczbzQyUThkSnM4bmZkZmgwNnR1T0VjS3NOMmRMYzRJcUNMOHZmZGdHcFVZSUZwTEcyT1RLOE9WTEVlVzduVGlLOU5RUFhKV0M0blVONGVCUDY3ZW5mQkF6XzZGS1k?oc=5",
+     "fecha": "2026-09-15T07:00:00Z",
+     "medio": "La Tercera"
+    },
+    {
+     "titulo": "FEN y We Are Mef reunieron a líderes de la banca chilena para analizar tecnología, datos y confianza en el sector financiero",
+     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUDlhSXRWRG9hc0hKVFZuRmVEX0ZqcHdISDBoUEV5U05BNVIyUEY4WkF0Q2RYSVFkcmZjb1hxQlRXdXhEbjZfSjlTa3VfbG1iMTFORU5ET1FKVnJHbEJ4YVpZRkdPWWNkeVNZSDhJQkxzMmo0M0h3MFJrbFFIQm1wS1VMOGNmOExLc1BIVXpiX21rX3hpODl6WmJ3OU1xclNpOE9nZkFKLXdvcUVzemgzN05mbkJvODZNTWx1RHlJd3dRWHowYzZhSmdkcWNwYTlTcHFxY0twWUpXM181QWUw?oc=5",
+     "fecha": "2026-09-08T07:00:00Z",
+     "medio": "Universidad de Chile"
+    },
+    {
+     "titulo": "¿Por qué Banco de Chile constituyó $ 50 mil millones en provisiones adicionales en el primer semestre?",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmtCeFktc1ZDWENGZm9ITXYxRlNxSFIwNWxqX2x2a0FHLTV2cnZwZzRLWUVWRl9ENGJ5MGpaYjRRRndmU2xsMFFKOVllM0FDMy1BeDdkT3duYWR3QnZVZzkyQUdjb1dZVjNmWkxZNWE2QkZNT2QxZGNxZEJFYzkxYnJMM0h6ZWpnUTh5SDZ2TkIzYlRPb3lGWnVaSkI3QTIzUDE4bjZmQ3U?oc=5",
+     "fecha": "2026-08-03T07:00:00Z",
+     "medio": "Diario Financiero"
+    },
+    {
+     "titulo": "De una idea innovadora a una nueva manera de hacer banca: los 10 años de Santander WorkCafé",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdGJBZ3ZFeDI1cHVrTjA3amYzSndDemdGTDZsb2UxLUF5T3VUOFd5ZVJHTVNEd1ZvMzRyNEtKVm9LbHZTWWpoMFgxM1l2XzhqT1d5SDI0X2REelhpeEcta09kNHI5WGxkZ1VtMk53RUxieFZfdjliUDlVTnlVWVE2Z2JKdUhhd0tnX1U1NjBnaE1lQUlhbVUtZFNGT1VnTml1NmVYaG41N3Y4akYtd2huN2ZWRlNoVHpYN0E3ajZqYzhiR2xFbXNvWjRHTDRjYVNOY19yMkYwc19vM0ppN25hZmU5ZmxUM0YwcEdVSWVR?oc=5",
+     "fecha": "2026-07-12T07:00:00Z",
+     "medio": "Banco Santander Chile"
+    },
+    {
+     "titulo": "Cae la red más grande de lavado de dinero del Tren de Aragua: detenido ejecutivo del Banco Santander",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeTg0Wm1wc2R5QkNsc3JVaE5Sek5UeVI1ZlF3YXlHaU1jMHdua21hOXBpOG9RZ2xaanhwVDFwbWt6bl9kYWpzb0hCeTBXNFRWOE9QdmJDcGdITVJqVkFnakpFNEs0WVZyalBBLTZtNElHeGdvMjBiQXA0Xy10TUVxQzU2YkR6anpMb2xvQ1UxdjQ0dElCUlNQS0F5dkYzQ3E5NUNTM3ZBZ2M0NENjOGxiZTZQX1lGV1JhdUpXR21nNm45dW5BRmttYTZiRVJKVHE5Yjlr?oc=5",
+     "fecha": "2026-06-02T07:00:00Z",
+     "medio": "- CIPER Chile"
+    },
+    {
+     "titulo": "Santander, Mejor Banca Privada para clientes HNW en el mundo",
+     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOTN1RHRJNHJMdmJ6NkFZTnBUVGpHUmtlZkUtamlud00tTlRsMDJOTjdOM1Z0Uk5sT2oyc2ltWFNmTUdfVnFQTElQbDl5Nnc2OWNqRV8zZ1lZZHNqbzBmZG96WFgyOF9jSERjeTMwa2x1clVkMVJBMGVLdENXdVRrTzl6cGpfUGRrNjZMSDd6MVJablZXVTdaSzBQc2ZXVTR6cUQ2YXBfaWdNUGN6TEdVUDNHcGl5SllFRjJDZWlReS1KY25pX0RKVlJxRUFwQQ?oc=5",
+     "fecha": "2026-03-20T07:00:00Z",
+     "medio": "Banco Santander Chile"
+    },
+    {
+     "titulo": "Bancos cerraron 27 sucursales en 2025 y disminuyeron en 738 personas el número de empleados",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVZZOVc0MUtqV3F0T0ZIMkx5MFZ3UUMxMVowX19WdGlZc2c4MDIyeGFHLVd4M29leTF3UHN6QUM4c1piSWRaTkQwdmxka0RaR0pZMkFUeEJpRXVPRnJVMHpTajl3NkRPZnJKd3Zab0xhNmR1aGNxcmhxSjJtZ3hEYWgyenlHd0Jtbi1PQ1NTbjUyQTRlUURNR1dzSkd4Skh1TTM0UDhDcTlVc3ZDZGRsaWVB?oc=5",
+     "fecha": "2026-02-16T08:00:00Z",
+     "medio": "Diario Financiero"
+    },
+    {
+     "titulo": "Santander y Banco de Chile aplauden iniciativa del Presidente electo que reduce la tasa del impuesto corporativo",
+     "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYkxHWEpEb0ZybVAzMTc1VloxbTBtbmNBam00MEM5eTJtbzU0RXQtS1FIZ3dLTTd1THZqdmZuZHVQcFhodm4zcG00N3lFWnhpamlzTndGbTk5M3NETWdUeDJBMGtzNkdYR2lhd2VOMmxJY2p2TnRfRXNqcjBrcDUteW1tejBHLWxPYzhDVjFOZjBhVGVpYUJLYTZJdUk0WkwxdjhDMW4wNEF1UlVNM1BjdXk4aw?oc=5",
+     "fecha": "2026-02-05T08:00:00Z",
+     "medio": "Diario Financiero"
+    }
+   ]
   },
   {
    "clave": "economia",
    "nombre": "CMF y Banco Central",
-   "items": []
+   "items": [
+    {
+     "titulo": "Precio del dólar hoy miércoles 18 de noviembre de 2026 en RD: compra a RD$60.01 y venta a RD$60.34",
+     "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0xwZkFzazBwUy1kWVNBYU1tRGVNSTNKck52Qk44TWd0dXJheXp5ckNpMHBKa0w2TUdDck9fX2ZUZ2wwaU1qaFdoRlNDNC0wSVpVTUp4OGF3SkpWZ0hMX2tTcWlqd19LUDA5QTFicTBvQXJCb3VjMlBoMWxuQ0tHR1JoRHdWSmU3WXFJYkhCZ0lhMGduWC1Mc0xwRWd4Y2M?oc=5",
+     "fecha": "2026-11-18T21:09:37Z",
+     "medio": "Revista Mercado"
+    },
+    {
+     "titulo": "Subgobernador Omar Mejía defiende recorte en la tasa de Banxico ante el repunte de la inflación; “No hubo sorpresas”",
+     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTGJDRDlpMmN5T3BBX0MweXJNMHBhRVBKdEpBMXFKaXlrY1Nsd0tjTG1NSzRSVWZVNFhibWY4NHNpT01NRlN3V21qNVllUVBKZTl3MXNNYm9tYV9OeWVMX083MTJtQmJLUDZ3cnZoa2QzbENWelhhaWlmRnY4a1Y0WTEtN2YxSTNONG1zbFdEN2gweGtVSGtKZDhRaFVSSVVsTTkzbWlkNWNZc2tOb194ejI3ckhKSjBXbWt4Sm9KQ1BnU3AyMkZIUDZVdHB0cW9QMzBGSm43VUdpVDQyYWtxak4xa3RCenhsRWFhQm1LUdIB_AFBVV95cUxOTTktSzJ6dldiOFpybzdBVzBIYVFjVGVpRm5aTkRmMlFUWTVNMTk3TlZKSmxQbW4tcGtJUnVfOWh5RkdkNktFcUNDNURabjdWdVJqVXpidk1Kc0pDSHN6ZkxZR0h1bDVNM3lwRDZGRzliQlA1ZnhqT2NsTVE4VElEWVd2emJBNm1aNmk2WGJnSDJTOWI3UTI1NnRaenJxYVBzRjFsbWlBWF8zNXJWZll5U2tDWEtOMVRsLTU5SjJRdHl2Y1I1SlhQY2dtQUpYR1dCek5aNnFoQVhJREVfZzFnaklhSkVXekhDRzZ5RE5MWmNuakVVVlJ4aHo1NWw?oc=5",
+     "fecha": "2026-11-18T18:45:00Z",
+     "medio": "Expansión"
+    },
+    {
+     "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este miércoles 18 de noviembre",
+     "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0tfdWQ1M2EzZXNKLUd6dkswZC1rTW5oZGdYZ1Z3NTVRcGY0Wi1FZ2QwNTB2Z0pOYWNWYTZSUDctOGJkVGE3TVdhMzRrWVBtWDMwMzB3Vk53cEFPdjk0cDh3RGpMb21iUUJDMGtJY1ZubVZWbHoyYnRfdDIwcEQxSWl1T0hmZWJ0enRoYlFidkF4aHE5TGgyT18wVUs2TFFJdnBSeS1oR0Y4Nk5TX1Jjd0I0eF9McmJCRDI0cUtWcjFJYnU3MG1xTzhLUG94b1E?oc=5",
+     "fecha": "2026-11-18T14:22:00Z",
+     "medio": "La Nación"
+    },
+    {
+     "titulo": "Subgobernadora del Banco de México no baja la guardia y observa “riesgos al alza” en torno a la inflación en México",
+     "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNEFsYzFXUHo3S0xaVkczakxXMWlMUHp3cTM3MUxSRW02LVU2YmRsNGpaUzRxWXZaTUk1QzdfMFQwd29BVE15V1R1NkhRSkRsYXlOTGtMX2pQZV84RlVfbWFmVk4yUE9uNmk2MkJHVzduSDB4X3BwUV9TMm5nSkRBWFZJOXFRRENYVmVGVThscUxfNmczTk9SUlhRd2pvaVJYRktSV09UV2hmVWpsd1NnTFZZYklmQlcwOE5mR0hwVUhDcUZEdWFtdldoblA5Sk9sWTgwd2FVUWVPS0E3V1FmcVdyakpFaU15WjRDUtIBhwJBVV95cUxPMDlMRGtPTkJKWkRxa2REaV9yeTExNW4zWUdtODlZbkNxLWF1ZE5ueFFJZjMyRm14dERoUlkxSExkUUhRNWRjOG1pR3dvSlFvT21qTkJGcElILXVLY3hIcTJCdmZadEtUTGMxd1BpaVUxclAzMWRUSGxFenUyMUo0Nl9tYm5jNzVnTEQwbjg4NFNQellRa1dsSDUwbXlTcUhXdnlkX2ZCN3RmSE4yZ2J3Q252MC04eEV4R3lxTDBydmtkUk5SS0lFdzkwLXp0QWtTWDQ1QVBjRDFJbTVWcU9kUzNLZmctWFdwTmE0R2c0VzlCdDQ0cVplYUNiVmE2Q0dadEZMMzI2NA?oc=5",
+     "fecha": "2026-11-17T21:22:00Z",
+     "medio": "Infobae"
+    },
+    {
+     "titulo": "Subgobernadora banco central México Borja afirma no está clara duración de pausa en tasa de interés, advierte riesgos para inflación",
+     "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHRzA3V29pTHlxZTg1bmdUb0FDdGIxNkF4Nk9NblZVWm1yeTA0RUxpR2YtRzJKZGpVN25NRGRGME1xTFpSSE10Unl6UV8tRmF6MXpRbERnUlE1dWx0a1pjZXZIOFhUTHJSNGJVRU52Q182UUdNT25F?oc=5",
+     "fecha": "2026-11-17T19:04:02Z",
+     "medio": "TradingView"
+    },
+    {
+     "titulo": "El Banco Central mantiene \"el precio del dinero\", pero estará \"atento a riesgos\" de la situación global y su impacto local",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYlc3QU1rWTJhSjFHTm41RkN4eGRXUTliMnZpU28wY0hsdkZjNEdjN3dYNWRfc1lYaFpBVlBTTERUVmJUQnZSMDQ0WUlCczVYN0ItbGxKZU1ORkxqS09Tck1fdmhkaDEySHpPOTNhSG9wNEUxc3JxZ1hwR2hMc2pCMG9aMlFiYUhlMmlJdUhpZElYaUhaeGd4WlRwczlIYUNnRm1yZjJjT3VsV25ueVU3dlJQRW54RXRZcGVvcVJGTkMzb1lIVVZMQlZHblJXdmdVRTBNcVY3aC1PMC1ROFNsNVpCWXVCQTVCRkw1VGtVd2UtU2c?oc=5",
+     "fecha": "2026-11-17T19:00:04Z",
+     "medio": "EL PAÍS Uruguay"
+    },
+    {
+     "titulo": "Precio del dólar bajó hoy en Perú: Así cerró el tipo de cambio del 17 de noviembre",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWZyb1ZkbWM5UTdsRzJJTXVOYWNHZFhpTmVtMzdxT1JMRkZHZmtTSjZmWHRQdEdNSDhYeXpzTkRYdk5XVWRZOEE2R294OWotMlh3TlNwT1l5Um8ydTlQMkpNQ1BsUzBSMm5jMXVwT0pvdE5kdDgySlhHUVA0MVRTaU5BcTB5M1VuLXdGUUtCd2EyNU8wbndzcU1nZnE5WVA0SFpZX0VSVGVFY09VQS01Z1Bn0gHMAUFVX3lxTE1Ia3NlVzJTYzBNSTdJem9GT3hoOTZSRU9vQUpOdDRnOTJ0UFdPd0FuN3hsNm53cFJUeFk3RW1DQS1qUnBHdGRBbkNPZFNqSnRYVVhDR2Z3UUNIalJ0ZUxMSmkyNDh3cV9jVEVPTUotYWMxYmJSdTJUX3FwaVVSUG1tdWpPZzFEanJBVU1VZUhKZXlUZjg0ckV0dlo1Q2wwcE5xOVFrdWxjNmhuMlQ4TDhTS1FTZTNVY3otWE5TSGdxWjJwSThZX3ZBREFLQg?oc=5",
+     "fecha": "2026-11-17T18:54:00Z",
+     "medio": "Infobae"
+    },
+    {
+     "titulo": "El Banco Central del Uruguay sigue de cerca la actividad económica para su próxima decisión sobre las tasas",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFlQdGJPWGNUTDdNQTZaR2VmaGFpeWVzZHhzR3dFc0EzVGtTMjhEY1FaVm5nb1dEdUNZMFFwcWhZR1QxUXl4VVI5Q1F2ZVVDVW1reTBKb2w0RlVhaFlnRlB5Z1M5SV9lMzRoaW1xWXB0aVg2REtOMFZzOGR4eDhleGZBd21hMVhxdlI1OFk5THBwZjZZN3N6eWY0VlhnaE1UOERuUzlkZ1I2RHlqbFdDSnM1cDZSX1lMaGFtZVQ2ZnZ6RkHSAcgBQVVfeXFMTjBiR3RZWXFTMXpxZFlrdGlyTkhCWktjNC1mekUzd1VlMU5YYzNtM1hvUTVEckJUOWIwbWcyVGVzYTQ2OTNSTGwtZnJ4eTQ3SUlLWEFISEVQZi1jdXhOYTNXdHRqRUh4VnJtT0F5Z1JNOWhXUFdKcXRXanlnVGE4QjdaNzh5R29SVzBXMFBHRFI5MGh4N0MyM0pmeVZ6bGk1LVl3NXVxNFZWcjAtb3dGaEZTVVg2VWRXWE9BclFvdEFYLWs0bGhtX3I?oc=5",
+     "fecha": "2026-11-17T18:26:15Z",
+     "medio": "Ambito"
+    },
+    {
+     "titulo": "El BCU mantuvo la tasa de interés en 6% y prevé que la inflación converja al 4,5%",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc0lKWjFWb2lzTXBRNnl3SklNa3Nab2VTWDVGR1d6TnBTNDJTRUo0Q1VSQl9iY2VXc2U1d1EzVVJuM2ozVVNOUlc4T1ptZV91MUYyZ0RrMWJOZzg4bGd5UlBtNGJYRFlheHBBX28wUENMOU02ZHFjTW1aeXVxUnd1OGV5MHN1TEl1MEgzSnlsQm9sS2cxa0h4Q2NuNEZYWFVROEZfanU0R2dhdExJUkd4dWpSSmU5ZnM?oc=5",
+     "fecha": "2026-11-17T09:50:45Z",
+     "medio": "El Eco Digital"
+    },
+    {
+     "titulo": "El Banco Central mantuvo la tasa en 6% y advierte sobre los precios",
+     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUUd5aGx1Qlk0UGpPZnBhbzJkUDR6S0JPN1Z5LXhLcjJROE9OS3dMM0wyYkFUbTEyYlBLZ3dJSnNrQVU4VFUzMWJILWVzZWZoRWpaUWhrZG9KR0NyNmd0S0hkbnNvM2oxVHNPVEhWTTdfdVR2akt2aDcwUzNWbVpwaGMzbXdfaW0xc2czYkFsejBfWVozQ3dhWkFMMzdWaUFDRlVZd21MdTZhczVw?oc=5",
+     "fecha": "2026-11-17T06:56:47Z",
+     "medio": "uy press"
+    },
+    {
+     "titulo": "Banco Central de Uruguay mantuvo la tasa de interés en 6% ante un escenario de inflación",
+     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVldLZWUxcXFFLVZvRjU2UnM1UFNkbFNoenBqWkRYMzl2TzRTV2t0cWZuYWI3OVl0WmlsUWhyS0cxYnFzTHJzU29kVVVDY0R2MU9oQVA2dl81eTdOR2NEUG03ajJ3MzZEbkRVS1RtUDdGVmZobHQ4M3Z3ZzczWGc4YtIBgAFBVV95cUxQSjJobEg5bHp6d1Y2eU45WW5hcDRpdlJXWUoyT2xOcGFwZmlfX1pFN3p6dkZKcmxtV2R6WVZOdVozRzMxaHMyb1U1eE9TREZsTnZab284RXRxYkQybXpjNHpPend5SlNvYzYtNkdMMVR0djhYd2RGNkdUWFprNlh0bg?oc=5",
+     "fecha": "2026-11-16T22:05:13Z",
+     "medio": "LaRepublica.co"
+    },
+    {
+     "titulo": "Banco Central de Uruguay mantiene tasa en 6% con riesgos equilibrados",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUlpDWDN1QU1acjNEdWlneFpZTjREMURnVkp5amFPVjNWTGxvaW91UjJtWGQtNHhUT3NpTklRejdSWWNQOHR4ZklrV0hlZTR5dFVmbURNbEZKVkxlWUtkcENwN2FUNWdHODZxdHctZWc4dWNOYTRvS2o2Z0UxdGRMOWc5YXRWZHlJNlNybFRudFpGOVowLUpIMDlIc2ZpNUk5SlpTZzltQVk1d1dDWFN0b3o3a3ZJYlFM?oc=5",
+     "fecha": "2026-11-16T20:53:40Z",
+     "medio": "Investing.com México - Finanzas, Bolsa y Forex"
+    },
+    {
+     "titulo": "Banco Central mantuvo en 6% la tasa de política monetaria; descarta “presiones inflacionarias generalizadas”",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWFKVWszY0FySDJNeFF4VDlsWFNyRXdVcllNYXctUVZXYTV4N2p5cnVCcHJCSmZCdlRsN05kSE8yTUlWRm5IeV95bkNfcFVDTzJaenJGdEhvMWFWTk1UcUJHN202cTA3YXdZc0RlTFlIak5yV1JMcEVlV2JUcEQzcnFHQ2k2eEZaS2F5YjhVNGVRTm96a001TjRiQ0llclpHQlQwV0YyTTZSc3hJRlhhdGUwMW5aRmxaeWh6WWp0OFNpVFR3UlNhZy1WUjRkNjg1enVBcE50MDFxbTJk?oc=5",
+     "fecha": "2026-11-16T20:50:00Z",
+     "medio": "BÚSQUEDA"
+    },
+    {
+     "titulo": "El Banco Central del Uruguay mantuvo la tasa en 6% y frenó nuevas subas pese a la presión inflacionaria",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX0NlSG9UOEcxd1BLbUhVUmIzTUZTZXhEb2pPVW5FNXVVbWlUeGlLOHpfMi11M01SMWpHb1FHNGZadkRMbUdZTFA5U0hLZl9Xd0FoNVFaemM0VnJIRjBmNlpPY1RQTFFpRTJIaXhob3NuM3BoaTltaUdCcWlSRWVLNEo4Z0ptb2NRam1YTlM3Z2N4TzdtazNtNjhoaEU4eXRUOEtucnREQmlCbHlZQTFIR0tJdUxXck52eE5INU1leUpVQS0zTjhGRtIBzgFBVV95cUxNalVlcXh4bElEeTUwV3lGaldhdlU5cDEwNkgxSlVaa3hndEpqU3ZOS29SZzNfaUVsS0kyM1UyQlN6LXZSU1JOUnJvZ3dGV1c4Vkt0MGxVLWxManNoWUJZSzVUYVktZ2dpbDdBNTVKTkhGQnNBaWIyY3JhYktxVThaMEU0UEoyNFc4MEE3TmlTNlhXSk9VUVFrWDY1eWJlMlh4ZmRLRDcwdnFsbklCOXphS0NtRmpkM1hDckQ5RkVMYnNNR0xFSlFfNWdPeVI1Zw?oc=5",
+     "fecha": "2026-11-16T20:06:00Z",
+     "medio": "Ambito"
+    },
+    {
+     "titulo": "El Banco Central de la República informó que las tasas de cambio para la compra y venta del Dólar Estadounidense para este 15 de noviembre de 2026, son de RD$60.3636/US$ y RD$60.8132/US$, respectivame",
+     "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnb1dGdEt1azV1eGVvZTV5MDdWdklfNmhPdkJ3VHZJOUpBODNoTV83N0UyWW9faXNXYmh4RTJ6TTVCOHdOR05qMXU1N2NFZjd2VmpWQzNR?oc=5",
+     "fecha": "2026-11-15T18:01:23Z",
+     "medio": "Instagram"
+    }
+   ]
   },
   {
    "clave": "sindical",
    "nombre": "Mundo sindical",
-   "items": []
+   "items": [
+    {
+     "titulo": "El salario inicial de los bancarios supera los $2,6 millones: así quedó la escala salarial en noviembre",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZlhKU1dsRjJzSkQ3R0pkUFNvVXZNNTlNQlR5VkF1MFZZYXFFek41TzBHQURjR3lTenJxU3N3RXNIT2U2UXFCdkc5TDJUY21ZNGY5eGV0Z3hnTzdkZ3J1NVdWSWttYTdqMno2bGdVRGRmNnREc08xa29XMnByWkRSakhfUVZueFlNOENiLXd2QTFabHFoUzFDYWdPWGdfdnludWdjd19scXdIR2xJOFhKM2VOOTdYNnVDd0F6VzY0V2p3c0tGMnVRc19LcUpCUEdSeU93SVppT3RVSE3SAeABQVVfeXFMTzFyd3RkcWNPbDJFZTBIUG9ZWk1PakJ6Y0hBOUVXTmZnaFlrQjh2UHBBT0FkSTdhQjhFc1JLWVB6OGw4T183eGR0MWs3Sk81UHh1UWtoV2Y5VVlqQ3hsS3d4ZnQzbEQ5eDhhbEdpNndydERaYVBLeVUxVkRXck10ZlJERlE0NjJqYUZOemhzdXBVVlNWUExQV3pnS1FMUTJVckY2cnZwZzVjYy00X0pvQ3hzWmxYS1g1ZlAtdDFpUUsyUWxUbGFibW03bXlmZXFqN0RKMmF1QlN2ODd6enc1OVc?oc=5",
+     "fecha": "2026-11-17T17:29:00Z",
+     "medio": "Sitio Andino"
+    },
+    {
+     "titulo": "Sindicato bancario:2,2% de aumento y participación en las ganancias",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcG54Y2xSaFpGZmxzSDc3bzVJdDVPVHhTUGJkWVlCOXpMRFF2dlY2cWxPOTNYSG9NNXNqczhvTHQwdnF0THVEVDNvU2YxTl9FVngxaE9ueDFvdXEzV3pvVHkyeTE3Z3EtaTBlQnNXY2pTbTJyeDVmSXFWbGFGdTVVbExpU2RxMXBXV3FvZktQeTBUM09NS0FzeFhTcXBqWnozbF9wTUx5Mzl6VWZQd1VaRzV6cmdzN2pCenc?oc=5",
+     "fecha": "2026-11-16T17:49:03Z",
+     "medio": "Diario Lo Nuestro"
+    },
+    {
+     "titulo": "Merlin suscribe una financiación sostenible por 3.750 millones con un sindicato bancario",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW5rUENJZ0ZFZHAzRUg4NktPQm1uZ3ZOVnlXU3ZYUzRUeXNtZWNIeEQzUXFPcUZmQVhfWC10NG1sVVktRHB4VFplTkhZX2FJUi0wRmlKR215SDlWWkFsMnQ0Qmtha3dVdVlSY3k0RTVvTlNobUk0ZE5kaS15UlFwU1lBZnFzNENTbW9iWVdaNXNNVUQteUNvMDRPYmx1SFBVZnZKUlAxc0NXLWl2UndlMm9R?oc=5",
+     "fecha": "2026-11-02T08:00:00Z",
+     "medio": "El Confidencial"
+    },
+    {
+     "titulo": "Otro golpe a Zanola: intervinieron el sindicato bancario",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUjFfanVNYTRONHotNVJNbVNIQzB0SnN1U2VCT3d5bUdyOEFGZ0l0R3MzQVYzMUVGc1pQeGF5Q2gxUjlzS0RWUEIyRGczcE9GYTNKLWdFWmY3VTNucHRVaWprOExlNlM3MVJ6dnYtaUNQemFnWGd2NHE3bEE0al9FUExpbzJvbW5oVFVzNlo4aW9TTnNwYWMzRTVrX1M1SWNhX3pNaWdzVmFiSW9tOFpoUnhaS1dqQUE?oc=5",
+     "fecha": "2026-08-24T07:00:00Z",
+     "medio": "Perfil"
+    },
+    {
+     "titulo": "“Profundo dolor”: sindicato bancario se expresó ante femicidio de una trabajadora",
+     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUkpCZEg3akRYR28zVklGSEJXZ0NGQVBCR2ZXM1BMNVpybjQ1c0ZwbnJycnZMeGdsLW9rVDE3TlFRWWZuV2RKZ1RZMllzVzJ1ejQxZ1puNFc4QjR4MUZobk9udmgycDRZRUFnSTQ0UC1UY0c3cHpxUGQ4QXMxamxiSFFBeC1keHJOWE5SZ0E3My16RmR1X0dYbHFQWDVkRWRGTExvX3hycmE3SVhveDNwakxCUUY1ZjI4NnJabFBQdk9WUGVmalpn0gHrAUFVX3lxTE5OeHUzVjBrNXh0THRVNGMyNFQ2NXdSdVZPWUp6VDIzNXcydTJTSExYLU9SdzdMdldFS3pUcmI0bHZKTUQ3RmdIR3NtYURFdVRMTXNPVC1aZUgyRTd2ZVBiM25rb05VTVQ3NWkwYTgwdnR1UEJ2dDJ6YXV4QjROMlA0MnZ0SmtibjlUSWhqWkJnSVdYUVdzcVRfeGxZWjBiS2MxV3I0SDJyV0xNUlk2SUNtOEpmUUE3TVI2T1NEeFJieHktMlFnLW8zdW5MeGlQRlFJbDdxZ2NqNUhsUWUtUkNsVFFjejF3NkhISzA?oc=5",
+     "fecha": "2026-08-19T07:00:00Z",
+     "medio": "Montevideo Portal"
+    },
+    {
+     "titulo": "Empleados bancarios: cuánto cobrarán en agosto tras el nuevo acuerdo paritario",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWWhwVTQwT1pic25rV2lPbHpTMVlkakx0cWRnMnA5LVZNd0g4cjg3ZWxSeHRUYTJHWDFtY0tBZm10d1diTHJSQ2RQR1dHOFlVb1VTY3k0NmNrMjU5UWhKTkVzLUh2SEhLb1FLOEhFNlM5UjIxUTlxUU5hcVJTV29peXkwajVLOGl0WHBBREw3ZGVVTGUtVjZpZ09qTXhTTEQ4ejRVend6UVZsdlM1QWpfRlpfOUh2dGNzZ25DQUpvb9IB2gFBVV95cUxQTVI4dXdJV1MwY3JMODBWMWVKMG91UXgxMXdaVE1PX19BT2wzN0hLRzJWWnZVMVNpZkxVN2xCai1Mb0NNaFBJM2hLTDNaTzQ4MTZfalVMbDVrNS12VHBNN1hNVERnODNmWEI1UnQxcVFOal95ZlFuZ1dwQWdJQjczZk5XLWdtcFM1V2l6blI0d3lFblV5WlZCcGQwaG54M2VSQTM1RTZUbGhkWndOUXBiMTZtVVdYTFMwNWVRRWlzWnRjTnk1eTY5NW9DVHpqQWd0ekpQTFNFdThRUQ?oc=5",
+     "fecha": "2026-07-18T07:00:00Z",
+     "medio": "Infobae"
+    },
+    {
+     "titulo": "Ignis completa el 'pool' bancario para su salida a Bolsa en octubre",
+     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTTRDMkpMYlNIU01TT3RyRElpcTNTN3V6eHQ1UTM0bWFtcHJjX0lCdnc2SHNBazVWdXNGR24zdTR4dnZuN3VsN2MtSnYzeUVlTEl5MVFWY2lzdFpaUUhORmFaajFnWXZMWTJtNHNENXdIanVMc1JnMGcxTzE2OUhTNNIBgAFBVV95cUxQRkMxMzZUSFlfVUotYXFSeUFTbXpoRzFBSDJUWEFjV0FkcjZjVjhFRmFuWDlBbXJ1WHZXc0syeG5icDJGWTRRaHlZNEQxUk1HMU1USmlCWTlXQmxsOU5DR1REUFkydUVLenYzS2tXZEdJLURodUpyNk9zc1B6aW5SLQ?oc=5",
+     "fecha": "2026-07-08T07:00:00Z",
+     "medio": "Expansión"
+    },
+    {
+     "titulo": "Siresa Campus (Grupo Resa) cierra acuerdo de financiación con un sindicato de entidades financieras",
+     "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVVM1MnNyV0lvbGdRNE4tN2hlNmVuQnJGZnN5RUN1NFFQRUJNbFFmckhaTmtTRGVRSUU0SkNhajlTSEFuOEhOa1JqOWZqcFNkTHh5MHRXSnEyQmNYQmh4VldhbGlBTWNuNWlHYXBPdk42Y0ZFX0kxcExBeXV6UmtVdXR5RUdLMkJpNm5pM1J1dEVLckpvTDVfdHNUMVdnSG9oRWo5T0d1SUxhaWJJYmdrLVRwOGREVlNaNG40ZVNwaklHUktmeENMVHVxazdrMXR2V19jeA?oc=5",
+     "fecha": "2026-07-07T07:00:00Z",
+     "medio": "Cuatrecasas"
+    },
+    {
+     "titulo": "Cuatrecasas asesora a un sindicato bancario en el acuerdo para refinanciar a Grupo Resa su deuda y fortalecer su crecimiento orgánico",
+     "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRnlnUHh5dzlobTBuSUE3UmNOU2lPUWJtbHJpNGFxUHdvVXU1R0dwc1pDWnNYeFk5TUVXdDZzckc1QU1rV2swNkJOSVI1NWtFS0FZM0wtSlh5MWNhQi1ka0JpS1pQd21YR2p6UUdEcUwwcEdCbzZoSnhpREZhUUpGWFdBNEZwcnlfd2RrWHFYOGY0c1NxYzZKSW1SZXJJUDdVV1lFdG05VUZjekxUYVJWbDV6NTBLS2NINTdJMTNoOWthbmVSZlFmZjAzcE9EQkVBQ2cxUFVrYVRac1hiTjRhN3pBNUZLRTctYmVkLWJlbzVDbHVsa1V1X19VSmxfN055VVE?oc=5",
+     "fecha": "2026-07-07T07:00:00Z",
+     "medio": "Capital-Riesgo.es"
+    },
+    {
+     "titulo": "Grifols duplicará su línea de crédito ‘revolving’ hasta los 2.000 millones de dólares con el respaldo de un sindicato bancario",
+     "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObktmLUxJSmpNZnBWMXFNQU9QRWdCRlpPT1E4SXFicEdtSFVuNnZXdFdNSVp5YWVrTmtidFpkc01OTlp4cG92TjdlY3VVNk9WMGE2WnA2WDhhVnBpcEpjRThkdUg3ZGpzVUdzRXNvR0R4amxMbjBDZnpYS1NibkgwQ2E1X0cwYkE4c2E0dzg4d2dJY0cyVHNxR2VLZGRNeDZEeGtHU2kxbnBwbEREeS1Gc3ZBUE0telExbVNmaG1PaU9ONGhJMXNhZEpIdVJSYzNkZVhVMjRrN0trZUVsUmFjNnhOS0E0YXRRTzd4SnFvcVV6S0dNQV9Kb3FXRHVnam1GRU90LUpPUTY2d9IBngJBVV95cUxOYUFVc1JHTVUzOElxTm9RWGZ5NFpKM3JoNFI2VmpfY2hEVFVLMWowLTJ6bXVqY2p5ZHJsX2Z6cEk0ZlhwVVhESTUzYTZnVGtkRDJQcHBEaTNjOEE1dWIxbmtNRlI1THBLQ3hTWUo4REdtZ0MxcFdJRzUzT0lvQVk0WUdBX3FkYnJJeTQxQVVuQmhxaWRIekRCcHU5ZVJrY2tIVmtEUzNRcVhRR25leTNfUDRJM2NxUkVWS2k5QTdibDFmdmNVbUxYTk5fblJCWEpXSnVrOUhpTFg0NXZUT3h6UGpMSTZDU1dXYnNLbjZkWXBsdFppUHBzZWg0azFRT0V5WmQ0eGpSdlNTeHhhT0dTbjlHM2dHcElHSmNwVmt3?oc=5",
+     "fecha": "2026-03-16T07:00:00Z",
+     "medio": "Cinco Días"
+    },
+    {
+     "titulo": "Trafigura se alía con Alemania y un sindicato bancario para convertirse en proveedor estratégico de la industria germana",
+     "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSXFTTFdVSmhmNmdKTG1LWHpKSDVVSTJ4dU9naFFzY3MtcG1uUVFKX21DSlAxQzBzM1dtN3kzamJ2UDdudUUyV2REcHF3TERNUkdoVU8zRU84bmdqX1ItWWRSdl85WC05M2xsd24tdHp4UVdfNzBWamlYSkdMaTdPMUNkMjRHUzFiUlJJam5XUVI1Qmx1T1R3LWloeGZvdjFkd3RsQWczdks1TGVVNS1GZ3VjQURkNTZuQjRISjRaTzVlVHV4OFFJZWtSUDZzNlppTnZvTENRbm5vUWkwZmpLRUVMbWFGTUpJWHlGSHJzTUhCMUxRRkwtcmRPUnplRkp5aU01RlFWblBoVGRkSi1GMlJNQdIB_gFBVV95cUxQbXlBUXlXdW1ycTFBQm43dU5jNVpKTmM4RHNMd29yV01vZXJIN3l6S183elJUUExxdVRia3FaSnd3UVJ4aTd4cmlzY2xQQ1ZwdmlPVHNjSmJfQlBwdHN0bi14LTVWNkJJVXZrc1I4bl9tNlNPNHVVT3ZDMHRrZm1zVEtIUUIwdnFwMXRaRHZvelRnOTJUbWk4STYtTHRQOWlWWktxNGZHZGc1ZGp6RUozMzB0aXJLM0V3M2U3Ym1oMzVlR2NwTWQ0SFVCSmM0OVdRV3JzR1o5dy1fU0M1a19JNVJ3RTEzZ1hlblJtQ0RUVWZGam1qakpVNFVpdDg0dw?oc=5",
+     "fecha": "2026-02-23T08:00:00Z",
+     "medio": "El Economista"
+    },
+    {
+     "titulo": "Cuánto cobrará un empleado bancario en febrero, tras el último acuerdo paritario",
+     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQclVTRWZPWkJiNUpNLWZpNXVJVTNTN0ZvNDJNTzE0XzF3bEtFRXRZTjQ5MWJnTjdoTjUzbmI0T01TUjg3cXV4UmxvZGY1c3ZnU19PNFdfMllORzZyaU90MWFLRXVwbGItZ2hNUS1fajZPNnhVUy03U1JTSEEtdE5HcGpMekxXc2tONkpPTWFORG1fa1NFNW9TQmVXY0RkaVY1eE1FVm1KVUlxYUp6a1V3S0l6NUd3WFp4SktMTm1Ld0VQd9IB3AFBVV95cUxONGtZU3hyTFYwVC1JZlV5aFBkc2Utc0tzOXplcTZHeS11QnNDRWxlNkZQdS16b1J6WGNtbnVfRTExWDktOU5QajJuRVlPSl92ODJ6VnFhdkxRRkVkM000WWo4U042TkU5TXF3c1RxbWlNRVVLMU5XLVI1bmNUdzc1eDRlNjVCQ2RCajRjeDY2UE9DUFVMZVU4dEVrU28wbEdtMF94RUVBUG5fVFliR1JWbmszSVp2NzJaUlluLTBDc2VIZHJBVFpBblBCMllIVUdockdsVDNDYmltWEpS?oc=5",
+     "fecha": "2026-02-13T08:00:00Z",
+     "medio": "Infobae"
+    },
+    {
+     "titulo": "Ya es ley: sindicatos logran mantener el feriado bancario",
+     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOek82a3UxMzdYN3pGaC00N2ZYeTU3Q0JjSjh3QUFtb19ZTDNTTXIyWF9kaVQwUExXbDY5LWZQWXFKTUdnWDFTTklzc2hvcHZZS0pTSl9pQnpJSlVJY3c1Mm1JY0dVQkwyZTRlRjBzamdPdmFRNnhac0ZoaUlpUkhLNkowYkVjR1BmeXZKY2Q3Y3A5Tm9ZY1pWWWVGMXUzd9IBvwFBVV95cUxObDZuZmlvQnhISFZ1dHFndTNMRkVSYnV4elN2T1N2Um41YlVPUk93bWVLLURXV18xWi1HVUEwU3BSeWVISVJnYTVKVHJGQVhLbHNKZndmQmZzV2NLb0luRkhreG1ta3ZFaUs1cXZCMXNYWnY0YXZETndYb3Etam5fZVZIaDRfdG9qYVN1X1ZoeW00SnFlQ2I5a2c1czNGTjlaeVlwNXo4QjV6dGxIYnNRQnNyZnJMREk2WFMtbkJKVQ?oc=5",
+     "fecha": "2025-12-17T08:00:00Z",
+     "medio": "La Tercera"
+    },
+    {
+     "titulo": "Día del Trabajador Bancario: ¿qué servicios estarán disponibles este 6 de noviembre?",
+     "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHNLeXNOektFbHRieTd6QVU3SktmbUtIN2lvNU82QjluYjdrQktjdDVrQkhVdVlqakVUNkIybDRWVmJKbDdqU3RDeUlPcXM3YjB5RnBmcVpxV2U1VjZwU3BsLXJ2bDV3NzBNYzVxVkpVemhhUjI5UU1nNlJ5M3Y3a1M0dVIxQ3o1dVBzYVRqQ3ZnbG9CenRRdGZ0d2R2dXU5NW9fMjR5b2VkaF9qekVoc1NfSmp2c0FpVVNjeUJYMExqOG9iOThGT0FIN3o2c2tBbzYtT2RjMA?oc=5",
+     "fecha": "2025-10-31T07:00:00Z",
+     "medio": "Errepar"
+    },
+    {
+     "titulo": "UNI Americas el Sindicato de Trabajadores Bancarios de São Paulo denuncian despidos masivos en Itaú Brasil",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNzZ3X1NtZm5GVFUxWVQ3SnVyWi1tT3FNSS1TcURBVFNTSlIxNVlPMTVDN0x0MXc5cExxZXJVU3lSeEIxeGhZblpZbExwVVJHeWZkYm1QYm5COVBvQTh3ZnByT2tTUXJvd051MUdoeUltTFVZUTNWdmpLY0RoMFNyaks3d2szRm56WHFrdnhXQS1YWkx5ZW9CcXVoNHA1WnEtWV9PZTBsc0duUmRCN3M5ci13Q0tKcFFlb3ZoY2hTM0Vod1E?oc=5",
+     "fecha": "2025-09-10T07:00:00Z",
+     "medio": "UNI Global Union"
+    }
+   ]
   },
   {
    "clave": "leyes",
    "nombre": "Leyes laborales",
-   "items": []
+   "items": [
+    {
+     "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTlYNXpQTVdzMnJJT3ZTY3ktcDFaWi1BWm1BMExXQW9hQkVDZDZJeldlbURFNGYxLXhSdXQ0YS1VWUIxMjh6T0ZzOF9zZGFQRGRYUWZPUFBTTldJWUtaRU5OdF9PNC1ZM3h3N0tRXzRFMWRiSnljRzZIX1NqV05WZ2N5TVJTVjQyNkRURlBDYkh3OWg0Q3ZaNTQyQTVRcjUySWVmWjlndm5JUTNQVW5oM3J2Y2s3ekU1ZEtpTE9tTnl3TDMwblpNbWQtZw?oc=5",
+     "fecha": "2026-11-18T15:23:32Z",
+     "medio": "El Mostrador"
+    },
+    {
+     "titulo": "Ley de 40 horas: ¿A quiénes aplica la próxima disminución de la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcHI3V3FSQ0JFSHdTZHFmeThEaHYwZW9ndkZ4NFQ4eWJvTE9Wd1RWWTl4X25zeTVsd2ZDVHpqNTFvN3dBemdDdURtOEJyZWFwSmlFSW44bHZwVkVFMUU1OTB4RUF3VHhEUTdPSjUta0Z2QlViZmQwSHcyZWowdU13VE9DNjRLaWliUkc4bEFuVVJmTG11djIxZXY1Vk4yOTRDbkdub2M3SUNXUkRDUUU0WUllZTB6OXRZdDBGZEkwekNCWk9kU1U2djliRktTNzkxUW52UkhDSFpsMkNDR0dtTVI0VEF4RWlkSWx4c19B0gHzAUFVX3lxTE9id2o1ZzR6b0V0SzFkVnNicjlKUjhJcTRub0pkY1ZlbUw4ai16Y05PbHdQV01yWmp3SWtIZktGLTh2SmNTc2tOV0lDZlhKQ042QUtWZXByWmM3V1VTVGUyR3lQcDhzWDE2MGI3cmxmQkJfWjJwQkhhLXNyamdIV1NadDdONTJjMldPTXhXUXVOYWtacjhFRFV4aGhzTHFTb1VodVVuYnFHclJLTU40dzhLRU9XMWhRckdGbkxEZ05zdkpCR0pUbEtNM3M0alRoVjdkSGNPNG93RUlRaVd2bDIta1E2a211Q2loY1loXzl4NkdWWQ?oc=5",
+     "fecha": "2026-11-18T12:00:00Z",
+     "medio": "Meganoticias"
+    },
+    {
+     "titulo": "Ley 40 Horas: ¿Cuándo será la próxima reducción de la jornada laboral en Chile?",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXpmWVNTa3dsSFFqUHY0MlVXWFdwNXlzenJkeW1Od1p6QTdkYU9IU1VVRDZkRDJETE9iSGt4cnAxNVJCNmJrZ052ajRFYWZGRjlQSFFuSXFHTlVQS0Rld3VZVnBLdVVRai14SVdXbzNHR096Ykw4OTc2c1BFNkhpV3o2VXpQc1EzMlVvSzJTMXdrVVkwWnJBd0RqRVZMYnpzd0RfdXhua2dVX2Fab2FYa29PLVlpX2I0?oc=5",
+     "fecha": "2026-11-16T19:54:02Z",
+     "medio": "Canal 13"
+    },
+    {
+     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
+     "fecha": "2026-11-16T13:14:42Z",
+     "medio": "Soy de Osorno"
+    },
+    {
+     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
+     "fecha": "2026-11-15T21:03:47Z",
+     "medio": "CNN Chile"
+    },
+    {
+     "titulo": "Avance de la automatización en Chile: cambios y desafíos por la Ley de 40 Horas y las exigencias del e-commerce",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVnNLcHJvSkxYOEVVdFQta05zOGxGcV9CZmRTMExJbTNkZ2d5Z3Rfa0Uwemp4YW9Xa2U2ZlFFVDlvNDhkeXlJNVpnYzhObmdCcHktZVZQYmYyN1l2cFh6QWFfV1BuQVBSZFZmTXZvZktwcTUtTklBWjJucnVxT3NLUWMxaG9tVThyUE52a0JkdE8zSGkybFJXVjJqZmx4S1ZZLV8ycTZLSDJwcm9hX0VfbG5qa0g0aEJpMzBhTHpVaHBlUjFPU2JPNDdwYlU5Ym40Mkw0?oc=5",
+     "fecha": "2026-11-15T15:05:12Z",
+     "medio": "El Maule Informa"
+    },
+    {
+     "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
+     "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
+     "fecha": "2026-11-10T15:13:28Z",
+     "medio": "EL PAÍS"
+    },
+    {
+     "titulo": "Kast quiere modificar la ley de 40 horas y flexibilizar los contratos de trabajo por turno",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmxfdTFvbkFqNzFBbFo1ZXF2SGRFR0VkOUFsTjVzUkZrXzlMMTk0bTVLdTd2TEwzSkRsMTVxMmU2NmdGTzFlZ1prUFBiTGdoWktES1VWZzdBaWFuTmJaeWFqYmhGMnFMVHhBYkFRbHBQZU5ERE1DWGMxd1VDUllZRlEwRXJIWUsxMzlCeXc5MFd6VUF1LVM2TVNobW1MaE82dlVxcl9CeGhha296N29YNDE3VjgtT2lYNTFFbHNiT3JOZjhEUUZnOTVPc9IB3wFBVV95cUxOUWtERVpjUm9YWVg4VjRKNG9YRnFvRDk0VU5QQ0djWVNXWFNjcGMwVi1zWGpqaHc0VUdqajFyclFPNHNJS3hzMkoxendMUDFBM1Q1TFNlNnlKa3BmN2JUYzRCWTZXMWF6d2hzejZhZGdIVG1QQjRLUC1MaEx4N3BoT3BVcEg5WEtBcTNaVlZjdVFfRWpNQUZsUXFucDdWXzVDZXU2VzZ2dUhHNm9CbmZIZkluejR1bnRrS3I0YUttR2EzamY2REVWcFpaSlhWd0lObGw5Y3hNOWFMWWs3c0JB?oc=5",
+     "fecha": "2026-06-25T07:00:00Z",
+     "medio": "EL PAÍS"
+    },
+    {
+     "titulo": "Ley de 40 horas en Chile: cómo y a quiénes beneficia la nueva reducción de la jornada laboral a 42 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbkFKaS1IWS1BSm9LWXBvUXIwQWYxc1hHc0tmRTNpR3JYU09TOTVfUnpBM29SaEh2bzdGTGNTY2MyRV9kWHlYVnBhU1JPeTNhdWo2RjF1MzY5UTRpMkV1RFAzcVVsRDFYRW5NNjRacldVRUxTekQ2S2lhWHdycjlqZUpnS3o3VU45UVV2bGpSTGhSREZaTFoxRS1ndEk5LS10dFp3NWpnWkFJSFZUS0lyTUN2czc4azB3SV9SM0ctS1AzSHFkZnBTM3Ixb1lsc2N4d1YwcnhzSEVMQi1S0gHwAUFVX3lxTE1FVjhOWm41eXNFeFdXSWpaYUMtbUlLb1hBRWFsdEFnVHAzVnA4aTJqQ2tna3lDX0VJSlNoTWNzRGJ2TUxQMk1XM3BhU1U0OWU4SmpXcFJQR3JRcnhnbjFHQmVheWlseElpd3hvSFRJeFg0Q3JXc0Yxb0FUekpLQkJEQ3ozRE1XME1tMWhMT0xZWWNXZFE4cW80dTFNclYzNnZTSEtQUkhKMWZ1UjRJSFU5OFhEZXl2czNGVTRNZ1lWN2pRWlIxOGpMNGZxU0k1cVNvaVV6Rmp1dDlHUGpBTnE0bGZza3lUYktnQTA5dThWNg?oc=5",
+     "fecha": "2026-04-21T07:00:00Z",
+     "medio": "EL PAÍS"
+    },
+    {
+     "titulo": "Ley de 40 horas: Contraloría excluye el tiempo de colación de la jornada de los trabajadores públicos regidos por el Código del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPM3RlZUZhQkttWGM2azVWcFozazM5OWJFQzlEdENjTFM3NElvVkdoN0dmYVhZMnAxNFM5RklCOEUyX1VSTFNxQlFGNUxGc3dBUTA2Qjg1ODhlZG9RYnZMSGI2cTU3SXZxaWNHYmFMdkRrYVVidk5GcEZqTVRXdERRdTlRTDg1QmNud2NXT2xrU0JuUE9XZWcyV0pSTmg1ekZiZV9XT1d2WndLQnBkMG1VRVVyRWJILWRvREJQeG1pZDBGM1dkUHAwNjRZeVJlSGdVZzdiRkx2bFh2ckQ1ZmpYYXpnOXBNeTROZ2FCc2NMWXFOOFpaVmoyaExSREJJZ1FtRXc?oc=5",
+     "fecha": "2026-04-20T07:00:00Z",
+     "medio": "- CIPER Chile"
+    },
+    {
+     "titulo": "Nuevo dictamen amplía criterios para negociación colectiva de sindicatos interempresa",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iTmpwWDAycjZLaVp6YmlqSG1QcXJRU2tCb29kdFQ1ME55ejlzYWFZOE1fM3hjZ1F5RlVKb3Y5Q2JJUjY1NlE0bnNDV3BDTWZHYWZ0SGpVWThHTm9iTV9HNVQtSUFnTWc?oc=5",
+     "fecha": "2025-07-25T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Dirección del Trabajo analiza efectos de las leyes de 40 Horas, Karin, salario mínimo y conciliación de la vida personal y laboral",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5ZmVwM1ViV1RoZTRCZkpBYndLM21hTGRwVEZLam9ndWdIWjhKNldWNHlITW9SUzA5NUM0NTRBa1hwbWk4aXljeVJfRHItZGlzLXFrdkE0Qy1tREh3eS1NTFdyUi1CRkU?oc=5",
+     "fecha": "2025-07-15T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Cumplimiento de reducción efectiva de la jornada laboral a un año de la nueva Ley de 40 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRnlQVEdjQ25saDNmaHdLSTFodk9pdkVMdWZNa2dpZmEzdHBmb2RZZmJYWEhqZXdBMjNGcHgyU3JZYS1oVG01STBUTTVfUWczTktVek1PcE8tb3g0dWx4R1dQNHREeGM?oc=5",
+     "fecha": "2025-07-14T21:58:48Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
+     "fecha": "2025-01-15T17:57:43Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
+     "fecha": "2025-01-15T17:33:27Z",
+     "medio": "Dirección del Trabajo"
+    }
+   ]
   }
  ],
  "redes": [

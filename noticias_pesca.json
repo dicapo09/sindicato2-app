@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T04:45:06Z",
+ "actualizado": "2026-11-19T04:51:58Z",
  "fuentes": [
   {
    "clave": "subpesca",
@@ -54,12 +54,6 @@
      "medio": "Diario Acuícola"
     },
     {
-     "titulo": "Comenzó la temporada de pesca recreativa con captura de peces en la región de Los Lagos",
-     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYzRzR3VlV3BFSGU3QTV1VmFXVWg2aFFNclpTRm1zRkgtNEgwYXZYV2IzVTNhVnlXM1VzVDFjWjdfdjNOemxrOERqZ3JidlZXUW9KTTBOdDZrbWF5ZXRqRjc3OXRhenlaLWthNTIzZ3AyT1pfeFZZeXVUR0RWbVRpWER0R05BQ29IcmRsT202Z3J4TnlZTHFRcUQ3QUFjNHJRakZIcEVBZHFUQ0ZWTzJ2SHdmNFIyYzVmVW5kZnEtZ08?oc=5",
-     "fecha": "2026-11-13T19:26:27Z",
-     "medio": "Diario Digital El Calbucano"
-    },
-    {
      "titulo": "Intermitencias en servicios tecnológicos de Microsoft",
      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmlaZ2ZmR0JTTGFIU1FuSE14eHYtZFRwMXF1Vk5YYm1wRW9qOF81NXFIcVl3Zm1QMnVCdXFjMnpMbmxfY2JLQTF1bmdPVFZhM0VWam5nRmYzNnU2dm44UmFrRDdGRmdWZDFaMlA1RkRVbEtDbjdFMk1GLTFFTEZQZkxDamIzak9WLTJVb0hybjFXWlE?oc=5",
      "fecha": "2026-11-13T17:36:42Z",
@@ -94,6 +88,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tQndxa2hSTkxBbmZLYlJlVlBMb19DU1AtckRDOXdReWZSZ1MzUk5nS1BXZm1FLUsyVU9rTXRWMmNEd2gyVWtyMTVNZzVweEdjRXVseE9QSDZXYUU4QXNfRDhB?oc=5",
      "fecha": "2026-10-23T07:00:00Z",
      "medio": "SII"
+    },
+    {
+     "titulo": "Sernapesca y Armada de Chile refuerzan vigilancia de la extracción de centolla en los canales del sur de la región de Magallanes",
+     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRWgweHNfRE9zU3RhUkFMemE5YnBHOGd6Q2M5c1RieGdwbkxjRml3SnJBUkw2eGVQOGlfSG9oWDQwVWpITVI4RUpQYnltZ29IaUdnZkU3MFAtRFpaZkZ2MkViQTZsQW1KNU5vX1hGRGR4eGU5Z2hmcUQxaTVXZThmNThPMGVaSUJLRy02U0QxSkZBS2NGT1VXVGZRVzhfTFF5NTZxbzI3c2ZObGV2TlJGTkRKQW1xMTRZUGxFN0tLY1dCci1zZzI1ZHU4akJfWTQybFd6OHZucGN1bkptcHlNMkkwWGw3XzZpdmhhUUpmMkZJQVFvV25F?oc=5",
+     "fecha": "2026-10-15T07:00:00Z",
+     "medio": "Sernapesca"
     }
    ]
   },
@@ -103,93 +103,63 @@
    "items": [
     {
      "titulo": "OMSA publica guía sobre uso de antimicrobianos en acuicultura y destaca experiencia de Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNklRRldDS1M2YXBMREdnWkwwOG5ZMjBzVmxDdHNrckYzcEhvWWlIMk1Kd1FTRjFlUTZTSDJpUTRzbl9lNHBqbWU1dExiamhBcGxtWnBIQTd1NFk4YWdkT3NYMFVXNGtPZkF1WmR0ZVFfbVdsWWdPbGszNjZ4TXNkZFJjSFU0dmxsN0RwVGJUZ2Y4QS1LZlltTElPd29GN2lvSXpZTTZ1RVN1ZXJnS3RVU2VDbw?oc=5",
-     "fecha": "2026-11-18T18:03:19Z",
-     "medio": "Aqua.cl"
+     "enlace": "https://www.aqua.cl/omsa-publica-guia-sobre-uso-de-antimicrobianos-en-acuicultura-y-destaca-experiencia-de-chile/",
+     "fecha": "2026-11-18T18:00:00Z",
+     "medio": "Aqua"
     },
     {
      "titulo": "Valoran esfuerzos por destrabar habilitación de plantas de salmón para exportar a Vietnam",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3NFUDBGZmExalp5MURDSzZET1Nxc1AtX2h6ejItNnVrRUNtWU5IVEo5bjk5WDdKLXZ5VDRxQ1RtZGtqZ08xQjJoUWw4dVQyQ0xvT1l1ZzI0X3NTa2szdzlZVDc4R3gxZVdfYmd0cFJEY0YwSnNrLTdGQi0wVTNTRzd1YTFrT3Z6ekE3ZWt6M01PdDVhOXAwOGt3c1ZNQW85R1VWQ1A0OVhPQTZiNWJF?oc=5",
-     "fecha": "2026-11-18T16:03:20Z",
-     "medio": "Aqua.cl"
+     "enlace": "https://www.aqua.cl/valoran-esfuerzos-por-destrabar-habilitacion-de-plantas-de-salmon-para-exportar-a-vietnam/",
+     "fecha": "2026-11-18T16:00:00Z",
+     "medio": "Aqua"
     },
     {
      "titulo": "Marcela Delgado lleva a la COP31 el bienestar animal en la salmonicultura chilena",
-     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0ZJcHZpTHBEMHNITjBNSllsUlZMa3J2OGhJV0UyVU9Sd1RmMnhTelpTVndWUm5mdmcyLU0ybE1KbzV3ZlBza3ZwVnlCRV8zUDV4Tjg4Q2RXVXVjVlU3NG1wYmNsQlNUNXpJNENsbTdrYjRaVG9NWXVQYy1mc3JGcC1vWTRlbWlIc3NBZ2tMWlNwZzgxeDBEOHpvLXUwdmhxZjBGLQ?oc=5",
-     "fecha": "2026-11-18T14:03:16Z",
-     "medio": "Aqua.cl"
+     "enlace": "https://www.aqua.cl/marcela-delgado-lleva-a-la-cop31-el-bienestar-animal-en-la-salmonicultura-chilena/",
+     "fecha": "2026-11-18T14:00:00Z",
+     "medio": "Aqua"
     },
     {
      "titulo": "Chile impulsa la cooperación internacional para proteger las pesquerías de calamar",
-     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMFloWjZaNTdob0RRcVFuVzh0T3QyeVVRUlFNeVZ5NHNUZHFPZmNfZFFkbDR6dmhueFl2N2tHUHEwckRhYnZPczQ2YkxxVUhPY3JqNlUxdzlXMW5sMlI3b3FPUUJKTzdSNjc5ZkNiQXk0WWJsQVVIaEpnZjFrbDAwVV9XMnB0MnJMT09IY2I5VUR3UzFYUTN5cEtJYVkwYTh0ZGlGZ2lB?oc=5",
-     "fecha": "2026-11-18T13:02:43Z",
-     "medio": "Aqua.cl"
-    },
-    {
-     "titulo": "Empleos en la industria acuícola: nuevas vacantes en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnBreVptd2ZaOVM4MnVTbDVHMEpxak1iYnNYTnRDdHlzZVZIMllyUzdhWnpDbHZZOHdydmJyOXFhcWZ4MEdvMWhWa2t6cjY4Q040ZkVQLWNNSF9kTnNXcmR3cVVxVlJ3TlV5MHJMMmtZeG1YXzFGOVdOclJod25xZUYxdHM1U2dCYXBHbTdOVEJMT1F3aHJqWUJSOUdZNjRMUVRIVVNoRzV5dw?oc=5",
-     "fecha": "2026-11-18T09:59:59Z",
-     "medio": "Aqua.cl"
-    },
-    {
-     "titulo": "BioMar presenta plan de transición climática con certificación independiente",
-     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUNNQnA3aUtKS2M2c0UzVFRXczVRVU1SWF90eDRleFJsUkNYTXdVZXhycGMzM0ZzMWt3bHZGbXVJSE52b1FHYlYtdE04d28tNmFBNUpDZG0tZGR1UWh0bGFKSkpUbGVkX2J3VzFmaWVET05wVWhEbTBQc01oaXVXQkc3MlZ0Ukh4UWk0NXhTTGJmMnd4RXhwLTM2bWdzQQ?oc=5",
-     "fecha": "2026-11-18T09:51:07Z",
-     "medio": "Aqua.cl"
+     "enlace": "https://www.aqua.cl/chile-impulsa-la-cooperacion-internacional-para-proteger-las-pesquerias-de-calamar/",
+     "fecha": "2026-11-18T13:00:00Z",
+     "medio": "Aqua"
     },
     {
      "titulo": "{LA + LEÍDA EL MIÉRCOLES] Loreto Seguel llama a fortalecer la competitividad de Chile en Brasil",
-     "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVVlSa2xObHZHREpubThhbzVaRHVZQjRyV3U4aGRxQU13T1czOHhpM3RSZy1VRzZxY3VSZzRXY3JBc0xvRVAzYV95OE0xdHRTdzFFdVZCWnJuaktFNHlYNmVfYThjNWItOERfM2FQbjFMSDEya3dhVV9NcWIyaElUc0FUS2ZlT05rS3BERzlxcWdlQ3d5cnBCbm1Obw?oc=5",
-     "fecha": "2026-11-18T09:51:07Z",
-     "medio": "Aqua.cl"
-    },
-    {
-     "titulo": "El gremio participa en la gira presidencial por Vietnam, China y Japón, con foco en ampliar mercados y fortalecer la presencia internacional del salmón chileno.",
-     "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTzE5Q0JrNjBQRGstMVhHOWQyOEh5NTV0azEzcUVJcUlVZ1JyYTZ0bTBNd2o1bk50WndDUmxCZk9GYXlaN3A3cFpBTVlkWW9MZU1udURkbExWOTJvRzhTMDRna1JTeTktS01aSjJySGdBUU9Yczlfb1ViVVF5Z0dPd2x2b0tBYnM1dm5GYzNfWHgzUQ?oc=5",
-     "fecha": "2026-11-18T09:51:07Z",
-     "medio": "Aqua.cl"
+     "enlace": "https://www.aqua.cl/consejo-del-salmon-llama-a-fortalecer-la-competitividad-de-chile-en-brasil/",
+     "fecha": "2026-11-18T09:50:00Z",
+     "medio": "Aqua"
     },
     {
      "titulo": "Feria Tecnológica INACAP Puerto Montt 2026: innovación y tecnología para las profesiones del futuro",
-     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZGhMOWZNX2VCS0theHQ3dGdwVUZ2QThobDBqWjQ4NGtScDhSQXBORTZfYWJBX2l2OTlGYlhBaWJucWRiV0h4N2E2NFVTcF9qck9VdHFSdFZKVTVOdkE3VUtkekwzdmpqQ1FnVExhUUFVV1dhOUNBeTAyN3ltN0htci1MTk1DbXNtbGtEa0NXazUyNzlMWU5BSUVFc0ZXc3dvS0ctX3JkTnowU2k0cWVCWWNVeGxocU55d25N?oc=5",
-     "fecha": "2026-11-18T09:51:07Z",
-     "medio": "Aqua.cl"
+     "enlace": "https://www.aqua.cl/feria-tecnologica-inacap-puerto-montt-2026-innovacion-y-tecnologia-para-las-profesiones-del-futuro/",
+     "fecha": "2026-11-18T09:49:00Z",
+     "medio": "Aqua"
+    },
+    {
+     "titulo": "Producción, mantenimiento y operaciones: nuevas oportunidades de empleo en la industria",
+     "enlace": "https://www.aqua.cl/produccion-mantenimiento-y-operaciones-nuevas-oportunidades-de-empleo-en-la-industria/",
+     "fecha": "2026-11-18T09:48:00Z",
+     "medio": "Aqua"
+    },
+    {
+     "titulo": "Consejo del Salmón refuerza presencia en Asia durante gira presidencial y ChileWeek China",
+     "enlace": "https://www.aqua.cl/consejo-del-salmon-proyecta-el-salmon-chileno-en-mercados-asiaticos/",
+     "fecha": "2026-11-18T09:47:00Z",
+     "medio": "Aqua"
+    },
+    {
+     "titulo": "BioMar presenta plan de transición climática con certificación independiente",
+     "enlace": "https://www.aqua.cl/biomar-presenta-plan-de-transicion-climatica-con-certificacion-independiente/",
+     "fecha": "2026-11-18T09:46:00Z",
+     "medio": "Aqua"
     },
     {
      "titulo": "ProShield de Garware: una nueva alternativa para reforzar la protección lobera en la acuicultura",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeTNUbVpBVC1pTjZaQmtUQW55UHZaT2xPdWI3SFFZV2owUVhQMTNZek9EQlVOMFhMNTBmcjhTbkgwSy1JZlotaVB3Y3VKUDZMWjRMQTlrWHBCUlV0dDVCMjRFaUJrVU9pTDBQc0R6SkpmTk5uVXo0SE1oUmVucXVQY25XWjMyU2lqd3RJdDg2UzFkZXFocVd5R0Z6ak1FSGhXSWE4N0xZcWFPYlQtYnFvMUZiaGVnbGc?oc=5",
-     "fecha": "2026-11-18T09:46:06Z",
-     "medio": "Aqua.cl"
-    },
-    {
-     "titulo": "Control de polvo en plantas de alimento: seguridad y eficiencia para la industria acuícola",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaTlvT25nLTQyWFhQQWRTc3ExT1hyYmNVbEVwZlM3bTNrTnJmWWp2T2ZzYWZDTE4wc2Z6U3c5WkxCMEd1TVFHVUY5ZHZMT0VtN2QwazNmT2hHem5RTzhHaVRfYm5JM1VjazBFLWM2RGtLdG9vMmpPT0FsVGNQN0wyWTlpUjhoWUg3ZXd4UGQxZ1gtNDVtYWFZbDhhQkxGX1lKZnhBVjFwYno5TFNMWTQ0?oc=5",
-     "fecha": "2026-11-18T09:46:06Z",
-     "medio": "Aqua.cl"
-    },
-    {
-     "titulo": "Blumar financiará atención para 30 niños y jóvenes con síndrome de Down en Magallanes",
-     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHNMZUFCbXJ3ai1hR0F6bXZNNzItTWs0bEdMaU55bktCTHh5RXFlNHdHUXRsZUJJY1pDRkd1SjVDV1pkOG9iblBLdERqSVMyYTltYmJOa0tHSFpSc1dCcmFubTVqUGcwYmZnWmp5cG4zejBWV2paZmhEeVZJMW1QRjdhdU13TjMtdGt0UEg4SWdncXdaRHpYdjFUcVk0TmkwMEZjUkV3YmRyQQ?oc=5",
-     "fecha": "2026-11-18T09:46:06Z",
-     "medio": "Aqua.cl"
-    },
-    {
-     "titulo": "OMSA impulsa estrategia regional para fortalecer la sanidad de animales acuáticos",
-     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHFSQ1lTLXdXUm5HMlVIMjdUZG5vcWN0bEV2OGlUWjJZTU51WEJEYlZYUk5tOEgzQ3RJWUFSS0RmckgzWTNMaWRXeGFaTmluRjNwMVNiT0RIZ0stTk9jUEtMekYzLVplcDVUS1ZMTkFqYWV2Ui1pRDJEVDNubG5vTm9wTTVVT2NMbG5tdzczQmlIbHpvMEhNSXd0N3k0ZDVKSEFZNQ?oc=5",
-     "fecha": "2026-11-17T13:02:11Z",
-     "medio": "Aqua.cl"
-    },
-    {
-     "titulo": "SMA aprueba planes por $9.500 millones para centros de cultivo en Los Lagos y Magallanes",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0FlQ0VGTGJTSzlpWXB1azVrdGtNY0IwN3l4V0M1WjB1NXVGRVg3ZGRQcDdpMGZnRDZOdHlpSmF4dVp0eUItTHZPSkZackFVcFdSNldRODJnaWx4cnl4OUlfTGlFSWRsVndFUVc0b0J4OFV1Rmp0STh5Y2kzaVM2X2ZnMXp3YVdpWnBzdl9YMHhKTmFkOGN0QUxaM1JZMkhrRzRUNTgxdDNhRVc2?oc=5",
-     "fecha": "2026-11-17T10:03:25Z",
-     "medio": "Aqua.cl"
-    },
-    {
-     "titulo": "Tras siete años de restricción: El debate por el retorno de la pesca industrial de la jibia",
-     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3N0NzBqd242ZnQ3UGxFU3NUdDVYanc4VEZ0ZjF4dzBiZW5QM2ZuQU1sQldWLTFoTW5qSElmRU0zOFFlUUd4ZUcwMHFVeTJRUUhnLU9LQUZSUHNldGV3ZktEQnFWSzZlaGJfenZPTURVYUJQY0I4TjFWZm1mOVc2Tm1lMUhZOVZhMWNzcnpFMkNNQXdKdUpOd2NYSXNhdnBzeThhRlE2QTJ0YXB3N3V4cg?oc=5",
-     "fecha": "2026-11-17T09:53:23Z",
-     "medio": "Aqua.cl"
+     "enlace": "https://www.aqua.cl/proshield-de-garware-una-nueva-alternativa-para-reforzar-la-proteccion-lobera-en-la-acuicultura/",
+     "fecha": "2026-11-18T09:45:00Z",
+     "medio": "Aqua"
     }
    ]
   },
