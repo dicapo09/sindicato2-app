@@ -440,18 +440,20 @@ function tuProx(t,k){var a=tuEstado(t,k).tipo,c=t.seq.reduce(function(s,b){retur
 var tuY,tuM;(function(){var d=new Date();tuY=d.getFullYear();tuM=d.getMonth()})();
 window.tuMove=function(n){tuM+=n;if(tuM<0){tuM=11;tuY--}if(tuM>11){tuM=0;tuY++}renderTurnos()};
 window.tuHoy=function(){var d=new Date();tuY=d.getFullYear();tuM=d.getMonth();renderTurnos()};
+function tuH(t,x){var h=t['h'+x]||{D:'07:00-19:00',N:'19:00-07:00',T:'15:00-23:00'}[x];var m=/^(\d\d:\d\d)-(\d\d:\d\d)$/.exec(h||'');return m?[m[1],m[2]]:null}
+function tuHs(t,x){var h=tuH(t,x);return h?h[0]+' a '+h[1]:''}
 function fdc(s){var d=pd(s);return d?d.toLocaleDateString('es-CL',{weekday:'long',day:'numeric',month:'long'}):s}
 function renderTurnos(){var t=miTurno(),box=$('tuBox');if(!t){tuForm(null);$('tuCal').innerHTML='';$('tuHoy').innerHTML='<div class="card"><h3>🗓️ Mi turno</h3><p>Configura tu sistema de turno una sola vez y la app te mostrará todos tus días de trabajo, descanso, subidas y bajadas.</p></div>';box.classList.remove('hidden');return}
- box.classList.add('hidden');var k=today(),e=tuDia(t,k),nx=tuProx(t,k),bj=t.bajada||'07:00';
- var msg=e.tipo==='L'?(e.bajada?'Hoy bajas a las '+esc(bj)+' y empiezas tu descanso.':'Estás de descanso (día '+e.dia+' de '+e.de+').'):'Estás de turno de '+TU_TIPOS[e.tipo].n.toLowerCase()+' (día '+e.dia+' de '+e.de+').';
- var nm='';if(nx){if(nx.tipo==='L')nm=(nx.de==='N'?'Bajas el '+fdc(nx.fecha)+' a las '+esc(bj):'Tu último día de turno es el '+fdc(addD(nx.fecha,-1)))+'.';else nm='Subes de '+TU_TIPOS[nx.tipo].n.toLowerCase()+' el '+fdc(nx.fecha)+(nx.en===1?' (mañana)':' (en '+nx.en+' días)')+'.'}
+ box.classList.add('hidden');var k=today(),e=tuDia(t,k),nx=tuProx(t,k),bj=(tuH(t,'N')||[])[1]||t.bajada||'07:00';
+ var msg=e.tipo==='L'?(e.bajada?'Hoy bajas a las '+esc(bj)+' y empiezas tu descanso.':'Estás de descanso (día '+e.dia+' de '+e.de+').'):'Estás de turno de '+TU_TIPOS[e.tipo].n.toLowerCase()+', '+tuHs(t,e.tipo)+' (día '+e.dia+' de '+e.de+').';
+ var nm='';if(nx){if(nx.tipo==='L')nm=(nx.de==='N'?'Bajas el '+fdc(nx.fecha)+' a las '+esc(bj):'Tu último día de turno es el '+fdc(addD(nx.fecha,-1)))+'.';else nm='Subes de '+TU_TIPOS[nx.tipo].n.toLowerCase()+' el '+fdc(nx.fecha)+((tuH(t,nx.tipo)||[])[0]?' a las '+tuH(t,nx.tipo)[0]:'')+(nx.en===1?' (mañana)':' (en '+nx.en+' días)')+'.'}
  $('tuHoy').innerHTML='<div class="card tuhoy '+TU_TIPOS[e.tipo].c+'"><div class="row" style="gap:12px"><span style="font-size:38px">'+(e.bajada?'🚐':TU_TIPOS[e.tipo].ic)+'</span><div class="grow"><b style="font-size:17px">'+(e.bajada?'Bajada':TU_TIPOS[e.tipo].n)+'</b><p style="margin:2px 0 0">'+msg+'</p></div></div>'+(nm?'<p class="meta" style="margin-top:8px">➡️ '+nm+'</p>':'')+'</div>';
  var first=new Date(tuY,tuM,1),start=(first.getDay()+6)%7,days=new Date(tuY,tuM+1,0).getDate(),cells=Math.ceil((start+days)/7)*7,cnt={D:0,N:0,T:0,L:0};
  var h='<div class="calh"><button class="navb" onclick="tuMove(-1)">«</button><div class="m" onclick="tuHoy()">'+esc(first.toLocaleDateString('es-CL',{month:'long'}))+' <small>'+tuY+'</small></div><button class="navb" onclick="tuMove(1)">»</button></div><div class="cal tucal">'+['lun','mar','mié','jue','vie','sáb','dom'].map(function(d){return '<div class="dh">'+d+'</div>'}).join('');
  for(var i=0;i<cells;i++){var d=new Date(tuY,tuM,1-start+i),kk=iso(d),o=d.getMonth()!==tuM,s=tuDia(t,kk);if(!o)cnt[s.tipo]++;
   var lab=s.bajada?'<span class="tub">B '+esc(bj)+'</span>':(s.tipo==='L'?'':s.tipo+(s.subida?'<small>↑</small>':''));
   h+='<div class="d '+TU_TIPOS[s.tipo].c+(s.bajada?' tubj':'')+(o?' o':'')+(kk===k?' today':'')+'"><span class="n">'+d.getDate()+'</span><span class="tl2">'+lab+'</span></div>'}
- h+='</div><p class="meta" style="margin-top:8px"><span class="sw td"></span> Día &nbsp;<span class="sw tn"></span> Noche'+(t.seq.some(function(b){return b[0]==='T'})?' &nbsp;<span class="sw tt"></span> Tarde':'')+' &nbsp;<span class="sw tl"></span> Descanso &nbsp;<span class="sw tubj"></span> Bajada &nbsp;↑ Subida</p>';
+ h+='</div><p class="meta" style="margin-top:8px"><span class="sw td"></span> Día '+tuHs(t,'D')+(t.seq.some(function(b){return b[0]==='N'})?' &nbsp;<span class="sw tn"></span> Noche '+tuHs(t,'N'):'')+(t.seq.some(function(b){return b[0]==='T'})?' &nbsp;<span class="sw tt"></span> Tarde '+tuHs(t,'T'):'')+'<br/>'+' &nbsp;<span class="sw tl"></span> Descanso &nbsp;<span class="sw tubj"></span> Bajada &nbsp;↑ Subida</p>';
  h+='<div class="card" style="margin-top:10px"><b>Este mes:</b> '+[['D','días'],['N','noches'],['T','tardes'],['L','descanso']].filter(function(x){return cnt[x[0]]}).map(function(x){return cnt[x[0]]+' '+x[1]}).join(' · ')+'<div class="meta" style="margin-top:6px">'+esc(t.nombre||'Mi turno')+' · '+esc(tuTxt(t.seq))+'</div><button class="btn light" onclick="tuEditar()">✏️ Cambiar mi turno</button></div>';
  $('tuCal').innerHTML=h}
 window.tuEditar=function(){var b=$('tuBox');b.classList.toggle('hidden');if(!b.classList.contains('hidden')){tuForm(miTurno());b.scrollIntoView({behavior:'smooth'})}};
@@ -460,15 +462,15 @@ function tuForm(t){var cur=t?(TU_PRESETS.filter(function(p){return p[2]===t.txt}
  +'<div class="fl" id="tuOtroF"><label for="tuTxt">Mi secuencia</label><input class="ctl" id="tuTxt" placeholder="10D 10L 10N 10L" oninput="tuBloques()" value="'+esc(t?t.txt:'')+'"/><p class="meta">D = día, N = noche, T = tarde, L = libre/descanso. Ej.: «12D 9L».</p></div>'
  +'<div class="fl"><label for="tuB">¿En qué parte del turno estás (o estuviste)?</label><select class="ctl" id="tuB"></select></div>'
  +'<div class="fl"><label for="tuF">¿Qué día empezó esa parte?</label><input class="ctl" id="tuF" type="date"/></div>'
- +'<div class="fl"><label for="tuBj">Hora de bajada después de la noche</label><input class="ctl" id="tuBj" type="time" value="'+esc(t&&t.bajada||'07:00')+'"/></div>'
+ +[['D','☀️ Horario turno de día'],['N','🌙 Horario turno de noche'],['T','🌇 Horario turno de tarde']].map(function(x){var h=tuH(t||{},x[0]);return '<div class="fl" id="tuHF'+x[0]+'"><label>'+x[1]+'</label><div class="row"><input class="ctl grow" id="tuH'+x[0]+'a" type="time" value="'+h[0]+'"/><span>a</span><input class="ctl grow" id="tuH'+x[0]+'b" type="time" value="'+h[1]+'"/></div></div>'}).join('')
  +'<button class="btn" onclick="tuGuardar()">Guardar mi turno</button>'+(t?'<button class="linkbtn" onclick="tuBorrar()">Quitar mi turno</button>':'')+'<p class="meta">Tu turno se guarda solo en este teléfono.</p></div>';
  tuPreset(t)}
 window.tuPreset=function(t){var p=TU_PRESETS.filter(function(x){return x[0]===$('tuP').value})[0];$('tuOtroF').classList.toggle('hidden',p[0]!=='otro');if(p[0]!=='otro')$('tuTxt').value=p[2];tuBloques(t)};
 window.tuBloques=function(t){var seq=tuParse($('tuTxt').value)||[],sel=$('tuB'),o=0,opts=[];seq.forEach(function(b,i){opts.push('<option value="'+o+'">'+(i+1)+'. '+TU_TIPOS[b[0]].ic+' '+TU_TIPOS[b[0]].n+' ('+b[1]+' días)</option>');o+=b[1]});
- sel.innerHTML=opts.join('')||'<option value="">Escribe tu secuencia</option>';if(t&&t.inicio&&t.txt===$('tuTxt').value){$('tuB').value='0';$('tuF').value=t.inicio}};
+ sel.innerHTML=opts.join('')||'<option value="">Escribe tu secuencia</option>';['D','N','T'].forEach(function(x){var f=$('tuHF'+x);if(f)f.classList.toggle('hidden',!seq.some(function(b){return b[0]===x}))});if(t&&t.inicio&&t.txt===$('tuTxt').value){$('tuB').value='0';$('tuF').value=t.inicio}};
 window.tuGuardar=function(){var p=$('tuP').value,txt=$('tuTxt').value.trim(),seq=tuParse(txt),f=$('tuF').value;
  if(!seq){toast('Revisa la secuencia, por ejemplo «10D 10L»');return}if(!/^\d{4}-\d{2}-\d{2}$/.test(f)){toast('Elige la fecha en que empezó esa parte del turno');return}
- var pre=TU_PRESETS.filter(function(x){return x[0]===p})[0];store('sin2_turno',{txt:tuTxt(seq),nombre:p==='otro'?'Turno '+tuTxt(seq):pre[1],inicio:addD(f,-(+$('tuB').value||0)),bajada:$('tuBj').value||'07:00'});
+ var pre=TU_PRESETS.filter(function(x){return x[0]===p})[0];store('sin2_turno',{txt:tuTxt(seq),nombre:p==='otro'?'Turno '+tuTxt(seq):pre[1],inicio:addD(f,-(+$('tuB').value||0)),hD:$('tuHDa').value+'-'+$('tuHDb').value,hN:$('tuHNa').value+'-'+$('tuHNb').value,hT:$('tuHTa').value+'-'+$('tuHTb').value});
  var d=new Date();tuY=d.getFullYear();tuM=d.getMonth();toast('Turno guardado');renderTurnos();window.scrollTo(0,0)};
 window.tuBorrar=function(){if(!confirm('¿Quitar tu turno de este teléfono?'))return;del('sin2_turno');renderTurnos()};
 /* ---------- menú ---------- */
