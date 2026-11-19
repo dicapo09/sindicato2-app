@@ -27,6 +27,8 @@ service cloud.firestore {
       allow read: if contenido(col) && (isActive() || isAdmin());
       allow write: if contenido(col) && isAdmin();
     }
+    // Plantillas de citaciones y eventos: solo administrador y dirigentes
+    match /plantillas/{id} { allow read, write: if isAdmin(); }
     // Asistencia a reuniones: la directiva crea y cierra; cada socio marca con el código mientras el registro está abierto
     match /asistencias/{rid} {
       allow read: if isActive() || isAdmin();
@@ -101,6 +103,7 @@ service cloud.firestore {
         allow read: if contenido(col) && (tActive() || tAdmin());
         allow write: if contenido(col) && tAdmin();
       }
+      match /plantillas/{id} { allow read, write: if tAdmin(); }
       match /asistencias/{rid} {
         allow read: if tActive() || tAdmin();
         allow write: if tAdmin();
