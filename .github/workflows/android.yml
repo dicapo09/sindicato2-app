@@ -52,6 +52,7 @@ jobs:
           git checkout --orphan ci-apk
           git rm -rq --cached .
           cp salida/*.apk ci.apk
-          git add ci.apk
+          cp salida/*.aab ci.aab
+          git add ci.apk ci.aab
           git commit -qm "APK sin firmar v${{ inputs.version_name }} (${{ inputs.version_code }})"
           git push -f origin ci-apk
