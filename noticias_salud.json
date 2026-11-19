@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T05:40:05Z",
+ "actualizado": "2026-11-19T07:58:26Z",
  "fuentes": [
   {
    "clave": "salud",
@@ -36,21 +36,15 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Presupuesto 2027: Cámara despacha partida de Salud en medio de críticas por financiamiento de la red pública",
-     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONThsMWVWNGY3M1gtdDhCdVQ2RnZ2RUhpai1oMGFtdkN3VElPcklpR0pxdXdBdGVVSEREV0lQdTdiNW9Tem5yeWRxS2d5ZExkWjFCRG1Va0hKU1hHd3ZZSjdWTHZHcjU1TURGRW5NLThHNXRyQndUcjZITEdOdmdmYmFvNG9JbDVOa01XYUVycVIwM1c0NGgtQW1nbVJ5UTRsNjQxWWRrdDBXUzRuaGdPV3E1R0RUNHZnTUJZYUJoZzFkSzZsMTY4VWlQRnBKSHlCZnVURlYyWjRMcEE?oc=5",
-     "fecha": "2026-11-12T21:43:49Z",
-     "medio": "Universidad de Chile"
+     "titulo": "Ministerio de Salud y Cajas de Chile firman convenio de colaboración para reducir tiempos de espera de las listas No Ges para beneficiarios de Fonasa",
+     "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQM0tsaXB1dDVOLVRRMTRqMzBEWlQ0QW9hd2l2eDA5R2hPMmRrWTBUUWpndHVGemk5U3E1OTR6WTN1dE1WdTYwVWJIQ3o5dklwQUhfOUhveDNvVG10ZUpaZFlVemNRZU9ZLURoVlJTOEs1RzNKV1IzME8xbHNWSDV6cnF3Mm4wRmxkY0JSYlFMbTVUNmItaW11V1pZVkZzZWhJUVJnc0FfNXY1bC1zMHMyTkNlOTNOMml4dXY0SDJneG9Va2wyMzFnaUlKZXk5V3N4dmhHT2dwMFd3T01lMFNZUmpEQTV3bENSajJYMVRHTDl0ZzBJU1k0b3d5OTVvRnFxcEE?oc=5",
+     "fecha": "2026-09-23T07:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
     },
     {
      "titulo": "Ministerio de Salud presenta proyectos de inversión 2026-2030 para fortalecer la atención oncológica en la red pública del país",
      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQckhya2FlR3IwUENPNy1ELVVyNm5ZSWYwX3JPWlFRcTMyN3V0aktnQVJRclRRZ0Q0V0RENGJKYlhZa0NrS21pejJ6NXFiQUFVSEpfV3RfN2JoYk1oNnd1NlluMWVVVWcxVElfcldvLXJ5Zmk5bzRrcUFpZE9iX1pFNUFFakNHenpFazM4U3h0a19EQmc5QTRERGxkVkxfeS1PQUw3QmlwVTlyTHZYZHNNU1QzS3Q0eHFubGhNTEl0ZWxOZWxsMnlLcnNnUGFjREg2VEtwUjNRVkQyOWg0R05lbnhBYzM?oc=5",
      "fecha": "2026-08-31T07:00:00Z",
-     "medio": "Ministerio de Salud de Chile"
-    },
-    {
-     "titulo": "Presidente Kast encabeza firma de acuerdo de colaboración entre el Minsal y Caja Los Andes para atender a 50 mil casos en lista de espera No GES",
-     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOb2RtcUpseExxQkdVNHlNZkI3Q1NJVUFLN2d3b3lQNVR3M1FNVkVQUFBUbDF4MFdZZy1nZHl6U3dLOF9CelJZRWtRQ3VnN053SktXR3ZGTG9DZHFpcFM0YnJVdVpoMWo0RDBHREFlZnZiVkhBM2Z4TUZCLUV2bjc2Mmk0SC16cjhaRHlhRC11V2N6OG5DMFZmbjBxMFYwY2pKN1NyWDJtOXk3NjVGTkRQaWxzNVpDMWttVTJBZkJ6LVdLbzRKWjQ2TEZGZ0p2dWdiYTgwUkJleEl3VGxiMElzQjNIUEViYWVtdUE2UGNRNkpHZ014M3o1dTVBUQ?oc=5",
-     "fecha": "2026-08-14T07:00:00Z",
      "medio": "Ministerio de Salud de Chile"
     },
     {
@@ -81,6 +75,12 @@
      "titulo": "Más de 11 millones de chilenos han salido de listas de espera No GES desde 2022, con tiempos de espera en sus niveles más bajos desde 2016",
      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUlFaVXZndHRqX01BYnNZZ1lmYjJnWmVUS25XODlEMWwzMEkyQUFpM1QwVTVISmdfcUdUS25vOVJvRGhucFJtNEhnYklYS3V1YjRDZ1ExSG5HM2g0QmZCUGVBeWVFOEp6TzJDZFpFSDNaR3RSblNITDZjYVJObjUxZEtKYktCdlJGVXlSbmM3c2Z2b0FOR1lKMkJrX1hhUDdMM05VeUFjcHo0b01yX1ZpOWtJS3hSVmM0bHRRS09QUzJkWXJoaXRJSHhFTVUtcEF1RzNQWFVVZVVMMUtqdlJUZzQ3bVJaeXlTUzlzV08zLTkxQQ?oc=5",
      "fecha": "2026-01-14T08:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    },
+    {
+     "titulo": "Chile garantiza 90 problemas de salud con inversión récord de $100 mil millones anuales",
+     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlo3VloyelNtcnkyZ3VXY0tlRVEtM0NPb1h2VmxtYXR1N3NpVks0NmxtajRTb2E2SEJyRy1uY25BS29MOHpvRzNOajFWQ04yalQ0MHV4Z3EwdGR1RUpYV3ZpU1Y5ajhzT01CcV8tMjVxVEZ0b3pUb2l6UkF0MUN1SjF1LW5oRjZLV1cwaUY4YWRtYVd6OWpHN0hnbmx4SFZPcGxNRmFDUC0tcVhHV0E?oc=5",
+     "fecha": "2025-12-01T08:00:00Z",
      "medio": "Ministerio de Salud de Chile"
     },
     {
@@ -144,12 +144,6 @@
      "medio": "El Desconcierto"
     },
     {
-     "titulo": "Coordinación Fenpruss Arauco intensifica gestiones parlamentarias con senador Gastón Saavedra por presupuesto de salud y regularización de honorarios",
-     "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNaWNSVVJ0amR5emotcDBzX2ZFUjk3TUdaaGFFeTlTOTh1dE9VZTYzSWNPWHRIT1hScTN1NnJJY2dPQXJzMEdTUVg5X2h4dVIyaEtlbXdkSF9lYlpjb0hrY0xZV3pZUTRuMjZaN2F3TWtBNGlFRERyOXlaLWlLbXBFMWljMkViT1hWcmloZ0dWYlU0VmpOc2FZZGhtWW5tX3ZET1NXYmlfMGtnMFlyTmpSQ3I1TDkxajlzY0xFQTNVZlk4eGlRTmcyTGtaT21vQjlGMFg5V3RuR1RvX1UyekVmWFNtdTk0dWh5czhFMmk1TnRKM2UzckItQ1d5alF6a0l2UFZRNTV3?oc=5",
-     "fecha": "2026-11-17T17:08:50Z",
-     "medio": "Fenpruss"
-    },
-    {
      "titulo": "Senador Ibáñez denuncia despidos masivos de profesores y asistentes de la educación en Valparaíso y llama a rechazar la partida de Educación del Presupuesto 2027",
      "enlace": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOYnQwY0JuWVVqTHVsS2RBUV9IWVQxOXZJYXVUNEVBRmFxWGgyRjBwb1hYUXVsbVYxRG1EYWExbGc2MVVubXZSQzhvMll4eXdEbVVfWHlwWnpSWlk5OVZUOXJYODN1RkMwSzU3X1pnb19zb1ViVDhMcVB0UmNNMkNvY1RuZmdXN3RkZXMtZFRfSWt6aVktX0pXTEpUamRobndaY1h3aC1PblJiMktGOFZlU3R2RlVXRXVfY19BODFlbHFGZW4yMWFPVXRpSXhjRk1qTFdybzYzVnBYRzk3cERHYmxFd05YbzJtakpkRlpnbmJ5aGNlWWRsVXFmaTRKbUYtQUxXYkx1dUthZWVIQ0hpOG4xT3ZoYTVOSjE3clU1cWY?oc=5",
      "fecha": "2026-11-17T16:03:20Z",
@@ -174,22 +168,28 @@
      "medio": "anef chile"
     },
     {
-     "titulo": "Fenpruss Coquimbo intensifica gestiones parlamentarias por más de 800 trabajadores a honorarios sin cupos de traspaso a contrata",
-     "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeDZva3o5dXVfSWVrX2NWcDVzbVM0RDByaVlNTTQyT05zaDE4X0oyTnVsQnU4RmtZNU1OR0FlY2N5bDlqOUpvU2cwdkpxZ196QVd4STNfMk1ldHNtaWVCT3ZhY0FKS1BXbkJkZE0wNzFQOUVqeWJ3cmxpNS1vNmRzbkdFNS1tejdRX2VLSEpZYUR0UDZQeDJNT2oyTTY5dXdmTEVWYXVibzh6S2RDVldEU3FKM1pZNUpkSzF1STJwUk0yaGM2cFhvaThHd0lpMlE3U202dWtYX25qN24xSFg3WlJyTjZIVHNTTlE?oc=5",
-     "fecha": "2026-11-16T18:14:26Z",
-     "medio": "Fenpruss"
-    },
-    {
-     "titulo": "Fenpruss Región del Biobío logra compromiso del gobernador Sergio Giacaman para crear Mesa Regional de Salud con participación de organizaciones gremiales",
-     "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNGZ5YmpUeHhTbjk2QW5BN3J4SFo3MDFUNWZveTZlMWtEQjBjT01PcXRVcmJaLVZSM0xWejZrY0tjaURyaHRXYjBVWUJ1Q3ZBb3RCc3Y0cXBHbnhpVVlkNTRLZ2VCeTBmTWIyTDVfSTR4VWF6NXBRU3NJY0lmV2J6UlN4TUl3aHBvWXltYUVXbTVsRXZYck9qWGZUVlllN2ppZW5tS2d0Y19kRnoxWFl6VWZQTHNxWmtHdTgySjhIM0tkamlsSzdLWkZiUWJ2YUtqVEtXV3lfREU2ak5NZXNPaU9NR3hFSDFqNGZRZGJXcXZUN0hMemRlc3JuSjRZdG9TY1RRZjlaeFJ1TVhO?oc=5",
-     "fecha": "2026-11-16T18:09:13Z",
-     "medio": "Fenpruss"
-    },
-    {
      "titulo": "ANEF ÑUBLE ADVIERTE POSIBLES DESPIDOS EN SERVICIOS PÚBLICOS Y AMENAZA CON MOVILIZACIONES: DENUNCIAN DÉFICIT DE 300 FUNCIONARIOS EN LA REGIÓN",
      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMjM3TzVYczFUTG1BMDVJRnJrNHAyQTdGREtnTVJZMEFJUlNBWmZVN2FnV3ozZkx4aTNEcnpCVXp0ZDF3a1hRSC1CTzVweUl4QkExOF9aUm5jTlRMdVdqSzVaRDFYQm45dkgwUm56X01Gb0s1R0JMTmNXT1N1TGxFWHpoVkt5SmVTVE84aURxMXdtcHVCZGtsZmdHMnZLWGE1X0FGRHdiX19rQWZEV2pZb29sNU1vM3FLcnhETTBvUFNtWFNyeG1vLXpjamx3cDVGc0ladVBVT3FBV29fM2Q3eXNzUno0NWItTTFZUGpzWHNKek1iR0FkLUZaLS13QnRqRjU1cXRpcw?oc=5",
      "fecha": "2026-11-16T16:26:24Z",
      "medio": "Radio Contacto 90.7 FM"
+    },
+    {
+     "titulo": "ANEF Magallanes participó en marcha en defensa de la educación pública y los derechos sociales",
+     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWjR5bVBzMjUtb1VKckFLMWZpdmtya090MkljTnBkNmZtb21zczNOdGQ3WGJ3bUY0VzRnZW9hN3RHWF9uLWVkbmZBNWRDYWtBWjR1SHVGc2hRbFdKbzV0SUpqSnQ2cHNzdkNnY1NqUG5DRW54X0MtZEVleUFxajJUcGZUWTBlVFFyenRfT1VrT21lbEFfZk1GdXdDLTRFdWdnRnVPYVFIN01ZdDVKQWgtSw?oc=5",
+     "fecha": "2026-11-16T15:19:22Z",
+     "medio": "anef chile"
+    },
+    {
+     "titulo": "ANEF Biobío lleva las demandas de las y los trabajadores del Estado al Congreso Nacional",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDVuTGpBSmdSZDN4anp1bnl5WFg5dTl5c2lUNTFmSDVwd1NmU0dpRzdPaDNJWkRSVzFDRFM1MWhTN0ZIQTZ5bE1aSEhnSURFYmlDejJPRHlnamRQVjJuN0VYY0VNWHNBV0ExMS02d1BMY0RrY29zTHdtZldJckdwTl95Z1ZjUWQ4akx6WjJsUmcyVXF5UG9nVXBQalJxbk1ySHRuR3cxWDM?oc=5",
+     "fecha": "2026-11-13T17:41:52Z",
+     "medio": "anef chile"
+    },
+    {
+     "titulo": "Presupuesto 2027: Confusam lamenta aprobación del per cápita de APS en la Cámara y afirma que defenderá aumento en el Senado",
+     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSi1rSGo2NzJVaDlPc0FjSGlWNDNmdDgzRE1BT01NSE83TGlLSEdrS3FxRDVhSzMzRXFHSFktRXhaeDRmZ0NYTTVwZHhqQUl2dF9pLXl2MHkyeFg1bklzMWdHUml1MDgtaGZGTjNuelpxSFJMb3NUQUltLVNiQW1DTk5kOGhQVFd1THItTGxReVQtcjNfc1liM3lBWFpycGZtbU1rZ2hJWld1eEZBUGZyTURycFUtNU5fN3BxVWFMeWg5ZUswcEJWSnVUQ0pHLUVmaDI4Y05nVkVnaTZXSnpDckFDcjlLRDZOMGNrS2RfNTgtRlpGQy1wOXF4VdIBnAJBVV95cUxOTVJidUhua2xwX05TQXNvLWVHOVFyR0VselppeEhNOFMtZUI1UTdUZlVuaEdyMHRUYnpDeWRfQW9NNllYTzlJbGNkQWpBY3Z3WmxLNk80SHMyNTRmQUxpUnZYNlUzNE0wZzAxVS03T3pPdUVLNDZhTWd3ZTZDWGdhZ2dnczN3WFQwWS00dEpncGJpUVkyOXNLQUhhVzA5UFk3UUhZdFFnaVdhMjdDcEtxX3VWQTRFbEpjaERYZmhtMENkNVZxSWpINFE4RERETWZXTkFHWmdzRkhUVXY0dE9xMWEwemRpRHBGcnBwbEJ6SzFnYW9iVFN6clBrUUJRbzhGUFJUR3dqZUtDT3RHdjRZczNsTjhCTXA1dUxvcQ?oc=5",
+     "fecha": "2026-11-13T11:37:33Z",
+     "medio": "La Tercera"
     }
    ]
   },

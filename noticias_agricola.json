@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T05:40:10Z",
+ "actualizado": "2026-11-19T07:58:29Z",
  "fuentes": [
   {
    "clave": "agro",
@@ -10,6 +10,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeFM2N2RCU0xBWDF3d3ZORXdNNTcwaEgyejFYNm1Ea3R1dTJwdC04M01UV0x5SUpoNmdOSWRfNFppWllvLUQtYTYydThKbGMzbGtmc0VaNnVnSjUtRUxjZGtOZjktN2FtTzUtRmR5bEhBQWxnbGFjUXZOeTJGaXNCdm01NUVXTldlRFVlTkx5N0ItUVRRZmZGeFRfWnNrRlFER3Vla2ctSno0LWFvckJjQVFyQW9GYS00WWZIZ2VXVDhXNVBwZEU1NkZNVDlPXzQ?oc=5",
      "fecha": "2026-11-19T01:47:39Z",
      "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "Gobierno Regional destinó $689 millones a 81 proyectos de riego para pequeños agricultores de O’Higgins",
+     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR2hWejFidjZ2ZWZxZlFZeERhOFUtRlQtRXl6Q3lBcjNrTWtzaTZ1cTFjV05XSmNWSWVBY1V4QU5qazdFOXRhY2xYNzdzRU1xdnJIeVVmeHgtMUhNYUFGSHViQ2RXSFdTTEhfdHlwa1Z6Z0twcjFoMnFpY056LXpQb2Jjck13YWNGdnRoX1JyYi1WLVRRSnQ4OGhTdHdESXFESUl1elJfX0VqTnFqZVo1Z2xaOGFEOG90Z1FzYUV4M1VDN0tkT2hMdlM5VlRWdVRkdnk4RWpB?oc=5",
+     "fecha": "2026-11-19T00:25:20Z",
+     "medio": "hora de noticias"
     },
     {
      "titulo": "Ministro (s) de Agricultura aborda recuperación del sector forestal en ExpoCorma 2026",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcXNacWpxTlV4WHJJQjBwUWtWRDJPTnNOa1VRRzZlaTNOUVVoRW85T0lQdlBabVNhMWo0ZXM2cHJWcGVMdm1LLXRlblRxcnl2VDNudnR1YjhWcVJOS3JkOWt6TlFCNmprQy1YV2JCN3d4SmJLR3pqSncxU29IZ3laWV95RkEtMHl4bGd2c3VDX242MS13MGs5U1pYWTBHQmNocVJweUxPcnAtM3ZDLUcybFY1SWNlNlFyR3BJQklFelBtZnphczRIdTVnRmlBckN0N2t4M3l5eHVCWk9qVDZwdWxfQ25fb0I4RUxxUzNYeFNiU18wMGFFWnNwWWtYYi1NRm15ZnFDbGZVcnEwdGlhNXdqaUE?oc=5",
      "fecha": "2026-11-18T09:22:00Z",
      "medio": "Diario Frutícola"
-    },
-    {
-     "titulo": "La familia campesina elige a sus representantes: asumió el nuevo Consejo Asesor Regional de INDAP Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYnZtbm13Uk01U0YwbDVudWZVVVdnT3QxcnhRY3d3X1VqZGY3Yml5QVlURXd3NzFlXzVMcUhHa01zVzB5SjBHa1JWNXVfWkJxMGNsZjVFel9WSU1TUlNMT1ZucGlYUnBoLWVtT255SjlUQUsxTHdIS1BrbDhaaVF3dzMtS2h4NXVMWDFNbVVwYm5Ca0JjbnVZVE5ydjRWeVp5UW5Lc3NVeEVEeTlxY3FBeHljQXJvUTJKMEVhYzl4VGdCRlZVWDNVaGRBZEtObzJCLXlXMllRTUF4REZKeXc?oc=5",
-     "fecha": "2026-11-18T02:57:35Z",
-     "medio": "Portal Agro Chile"
     }
    ]
   },
@@ -120,6 +120,12 @@
      "medio": "Indap"
     },
     {
+     "titulo": "Expo Mundo Rural debuta en EXPOSOFO 2026 con 50 productores campesinos en Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xSUhnODB2NGZZZExoR29ISWdrcEJIRURXY3NXOG5NU1JiWEZMQk5oeFQyNUM5Mm1hLV9TOWZjSkxERmg5OHpQd0pyU3Y1RW1qaFd5cFhIWmVHbmlnMEh1TnVRZEVjNFRXZVlxaHhTWVJZMlM5RUhTb1VR?oc=5",
+     "fecha": "2026-11-18T15:00:05Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
      "titulo": "MINISTRO SUBROGANTE DE AGRICULTURA DESTACA EL POTENCIAL EXPORTADOR DE LA AVENA CHILENA EN LA ARAUCANÍA",
      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQkpHRmhvZThqQ2ZRMWhHd1hRN1ZPVXVyanppZk1udkFLMndkWk1McU90Z2ZYVGptU29qc1NzeVBJZmZGNzJWQUlidGNPTTZWTkpGUDhzb1I4ZlBldkJqT2R3Y1NaZkgwU3VOUFJTUFpQbHBMZTJBVVY2UE5wR0x3RnIzaVh2SDhIZjNURVJzWnF6LUczX3JEazhnSmVjTHpTYVJ2ZWFPS1dtLUhoSjFKazdtcmI0M20tLVJTQUpJZUU4ZTRQd1RmWXNFU0J1V09CN0tvZk56SUdkSTJ6MjFDMQ?oc=5",
      "fecha": "2026-11-17T21:47:48Z",
@@ -142,18 +148,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeGMxTWZGV3hrM1d1cEo3dFpHWGN5dExZXzkyN2t0em9zRF9ldlZVWjhyV01kcnk0cXZ4QTFKaklBWEFtUS0yNHpGdGY4Z2N1Zi15LVFqb2dHY2NFeEdwVG5fb2x3TWZjdmpYWU9UajU0UmFaNTlQV2xEMkxkdXBweXBDc2NtX3RLRkRoQVNPY3lxU1lRZ1picFFCaGhvbVdDNmVBRHZWbzRzWGtvS1Zxc3ZlSGxNcmd6UmtFdGh3?oc=5",
      "fecha": "2026-11-17T00:50:17Z",
      "medio": "Araucanía Noticias Temuco"
-    },
-    {
-     "titulo": "PRODUCTOR DE GORBEA FORTALECE SU CAPACIDAD POSTCOSECHA DE AVELLANO EUROPEO CON APOYO DEL GOBIERNO REGIONAL",
-     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMjFjRlBQblRxYmxoMlhHS3RVbjBnclhITktjbHBacVpEVVRNTDBISHFPMGE0NWlPSE5fOUhsekpLamhIMkFyNG50WXpsckZIQXhFMVdhekhfbHRtcFpkdkRIb0x3V0dFXzFLZGxnV19ydTV4R3prc2VkVkhpd2x0QkVjdmJFWVQyUER2ZlpqclA1ZVB3SFJodElvM3drdllHd0VJeEVWazJGaUwyc2NhLWFnVmhkcElFTUFlRGtOR3l0YVo1QXp4NmZyQkUxNE1STUZmODlIdW9iRF9YaWNYalQ1U0hlUQ?oc=5",
-     "fecha": "2026-11-16T21:47:38Z",
-     "medio": "Araucanía Noticias Temuco"
-    },
-    {
-     "titulo": "Expo Mundo Rural debuta en EXPOSOFO 2026 con 50 productores campesinos en Temuco",
-     "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xSUhnODB2NGZZZExoR29ISWdrcEJIRURXY3NXOG5NU1JiWEZMQk5oeFQyNUM5Mm1hLV9TOWZjSkxERmg5OHpQd0pyU3Y1RW1qaFd5cFhIWmVHbmlnMEh1TnVRZEVjNFRXZVlxaHhTWVJZMlM5RUhTb1VR?oc=5",
-     "fecha": "2026-11-16T19:17:55Z",
-     "medio": "Alerta Noticias Temuco.cl"
     },
     {
      "titulo": "Productores de castañas de Malleco reciben asesoría tecnológica para mejorar la calidad de sus cosechas",
@@ -189,6 +183,12 @@
      "titulo": "INDAP Araucanía avanza en estrategia 2026–2030 para fortalecer el apoyo productivo a los pequeños agricultores",
      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXRRZGtVWEZfWXY5WkJTbERlVm1lcmZHVWFTSEtfQmpZRTNLeFN1MjhyXzJsX1l6SThGeHZON2pxRTE0R3RoU1lCU3pGcHlURkhrc3BNN0Z2bjF6VG1tZldremlnWTU5NjUtelM0LXllSVVGNGlCS2tvYVhEMGdSQy0yX2J6aS1PQkhwUDBSOHNocnpqX2M5MlNhM09rMWRsQTJsdk41QTFHaGhMNXVMWEo3TVkxd0NmS2J1Tg?oc=5",
      "fecha": "2026-10-15T07:00:00Z",
+     "medio": "Indap"
+    },
+    {
+     "titulo": "INDAP invierte más de $71 millones para fortalecer la productividad y calidad de vida de agricultores de Toltén",
+     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWnhoQVB2YWFJVk5WX2FhUGhWeHNFU2NwellmN1BvdEhmbDFNMDZHcldJemJxMmNUREg4dWtEOHBwc2poSHV3dTYxT0ZlZVFGZFVSTW1zSzdxUkNpY3NTbFRNYzRDMzlxV1UwTTVTYnZhXzBvdE9TU0VCZTFUY0thalRLNkg1TFV0dzRZZ2JGZ0ZOc2FIUnhWNUdSQnE3Z0o4R0cxc1ZxOFF3c0ZpdDNzNURocUFDMk1seUJLSHZB?oc=5",
+     "fecha": "2026-10-05T07:00:00Z",
      "medio": "Indap"
     }
    ]
@@ -462,6 +462,12 @@
      "medio": "Dirección del Trabajo"
     },
     {
+     "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
+     "fecha": "2025-04-25T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
      "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
      "fecha": "2025-01-15T17:57:43Z",
@@ -471,12 +477,6 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
-     "fecha": "2025-01-15T17:20:30Z",
      "medio": "Dirección del Trabajo"
     }
    ]

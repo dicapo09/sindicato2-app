@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T05:40:04Z",
+ "actualizado": "2026-11-19T07:58:24Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -10,12 +10,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN25FdmNETFdnX2hQbGtXS1E0ZldFUW1TVXRIUE0xZllHOTJhT2ZjZVJCTnVLQVBZU1dXR2Q3aTVfWU5Mbk5WSmEyLUdiYUxpVTBzYjM1SmFFZ3FiZzdBZTR0SjIzdDR5WVRHQWVPQVFwYkFEVkJ3Umg0eUliTUpsMUdCR0ZMYkZzbWQ2WWxuQnFsNy01RnZkVHRrUjNWVEU4SW1lZk9RUU1FUThUZWUwc0Y2WkZsNU5xVkJIeXNrYzVjbmRDRHlEd05n0gHrAUFVX3lxTFBPQ014SHBkRmVIUE9vV0ZIb2tPYS1qamotam9ySEJpRUpCQmNla3NfMjh3bXkxeUV4U1U5U2FaX3drRnZfLUJkbTMzejd3V1FYZGhsYjFKOEIzTnhqNnNNc0NfYnhvd1ZBQVFVS09weGdiUnZBcm9DYU1GbXQ0Z1VWN2JkWFNVYU1yaWh0OERIamh5U3RvYjgzTDVOSkc5RW13NU1jWWZpYldZODlsUnkzanQ3anJTVmFEdHBWTU1yR1hEZW5sRDMzcm0zbTNWS2hmTnBCSDFOMWhqYklfeGFiV3N1djNONDVLcFk?oc=5",
      "fecha": "2026-11-18T18:28:49Z",
      "medio": "La Tercera"
-    },
-    {
-     "titulo": "De Chile al mundo: diez años de WorkCafé, el modelo que transformó las oficinas de Santander",
-     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVTIxNW54TzY5UnlDekN4VGpFVU5rQ3dIVE9vaVp5NEZuUTJJcWlYaTdPaldNRlF3OVk1WTZrX1NaWEtHU0JUdWtvc0xsYUMzWDNsanNwUkRVRHJiZEhtc1o1V2FaVnRoSWpITzMtX29nZ1lyb0hEMjc2UV9wS082S1RsNjRnOHVPX3VCa3pMN2M5YnBlb09xVVJRSUExR05tOWkzZDRIaDFSRy1UTGxGMUphNGVJZ1lzT0VoYUJLRU5PWHR2VzRGYVdOZTVrSldxREFGeGoxWGdrUVJWY1YzSDUydzlHbkhrdVFn0gHwAUFVX3lxTE81TEdfOVZXZjZfdmJpTDJwYTRVZHpWVnRjSmlMWFhKNVJjSWgzSzJ0X2tBSVA3N3VKZU8tTFZOT0Y3UExHZjQ4X1Q4WHROV21WSlZoN1BVMVVFVW0zVDB5azZZdV9EM2JtclY5Umo1dVZ3ejZQcWY2WDdDaFRaNFd3RWkwQkllYTNHbVVSdUlqaXlvWGNNQnY4NGRXSFRvNGNKbl9ibWNsQm4xQlBOaWJMZ0tyd05vd3NMSVZSV2IyQ25jQ25GcDRYbG9tWWZpVDhhaFpPWXE0b21MMTRiU2JkX25MU1hzdlUwanNGdmVKVQ?oc=5",
-     "fecha": "2026-11-18T11:08:36Z",
-     "medio": "Confidencial Digital"
     },
     {
      "titulo": "Banco de Chile, Bci y BancoEstado entran en la recta final por la compra de Transbank",
@@ -30,70 +24,76 @@
      "medio": "El Cronista"
     },
     {
+     "titulo": "Jugador chileno revela cómo lo afectó la crisis bancaria en Paraguay: “Me pagaban el sueldo en Ueno Bank”",
+     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTURINnBWQTBIYzYyVnJjZlJ2X2gwbFpHUnF1MGRhUlVscEhTTnJmZ1ZMMmNZZlZOU3ZfNDRBeWVNSnNnd0loNGdsM2pWR29hbXZLd1hsSE5WMjhvcmN5UXF0XzFCUllocWl2YWxFWDA5bDBqUnBWRUE4OHpSRk1nc3NpNml3NkpKbVIxUGhKMExQcFhVSS1PREYwSVJxcjVDX2MxajR2cjRrdmtraXphNEhmeFAxSnpWa2lfWGhVcmx4bW1KSzJOdnpPb3p6blNDV3FnM3RQRmFSaUVYQWpPZm5TclZmd9IB-gFBVV95cUxPSFVxbUVBdUxiRzhfWDlEYmQ5N2JHYUZtOFVELWxCMDFDTHJ2YkE5WkQ0Tl9wMWlPZ01ZTFFXQXBYN0luTXNkcUMwV0FBRFBPbEZoejB5NGlEeWN4dDJyZmNLbFVKQkZZWFZ4aW13YkFjNlBGVEE0d040OVduZlJGQzBlQ2RFVmZfSGtyQzAweGhHdWZldlBHakVwekItRkI4ZVgtSl9STkk3bEo3cmZXOEp1V3FYX1MyYk9XaE1Kbkp5Nzl4U1ZLYmpIenhtRHR1MWJTaUk5ZlhhLWZ6MC1XQUU0UXNYTTFtOHI0ZE9nSld3b25CU0dfT1VR?oc=5",
+     "fecha": "2026-11-14T20:09:36Z",
+     "medio": "AS Chile"
+    },
+    {
+     "titulo": "BBVA, Banamex, Santander y HSBC cierran sucursales el lunes 16 de noviembre por feriado: qué bancos sí abren y desde qué horario",
+     "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdHNZbFZKSC00Y1FWWVNLUHI4UmNaNkJGNGVZb2UycDVEc1J2Z29kQzUtdUdWeTJSd3A5cVVPSHBkcmt1N2ZMd2xLbTY0dGxaWjE4UG93RnIxbVJJUkx4VnN3c1J6Z2ZNUk1feTVBQXB4bmxXWDFxVkxrVWNjeUllYTVvNGdkZ0Q4RWVnam9JMmRtMVIzSlFmX2k1V05JOGdackU2M1YtOVRsU2lVMW9pY2Flc0lrTFQ2dzVkbFhMZXQ0MHBJZ3NhUzJoSHQ1bHlvU25iQ2VNc19hSVhIQUl5ZXF2bHgzNnAwZlVGRDZ4Y01OZDdJRDRtRXZFSTPSAZcCQVVfeXFMUHViNDg4dG5Ka3JUbS1nMjl0b2VRNHhUUDZ6VDBjNTQ5M2FqU2g0THRIUVcxSWxzVGkxX2JWQzBZNUVWM2hlZ1J3Uk1EajJicEtBMXdMOC1COFdhUWxoY21zWDVTYTd3NDRMRzhhd2FLSG5ZcW94RV9RUzhRSC1Pd09NazVMeFpPLXR0d2RGSGZCWVRXaHlZbXBaTzBjUnJKZXYzZ1ZSa3BncXRtMWllREN2NmtlRzRHcFlsYVdvQmJDd1FxaUVsbVR4UVJuVmNPaGp6bkFVOEJqemJDaDdpSGJOT0xEd2RMUVFvMDAyLVFhUTRYR19vdUtBRGdJUHRTeXJhZTBRdV9rXy0wdFpralF4TF9WUTFN?oc=5",
+     "fecha": "2026-11-11T18:04:00Z",
+     "medio": "Infobae"
+    },
+    {
+     "titulo": "BancoEstado discrepa con el gremio bancario por duración del Fondo Nacional de Vivienda en debate por reforma al mercado de capitales",
+     "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPc1JVQ0FvR1lZNlhsaWJNRHdjaGVmelExdk9FZS1WTXFfSGtJaExaYlJrblRvYUpZVHpzRVRGSk9xWWY0bGpuQUdfV05uLS1RaTEzaXdJZnJWektmZC00c05LLWpXUXNqQ3FWcHpxSWhULUZZWDhGcmxpZW80UHhvdXlaSVhucmNEUkVIT1E4eFJXc0hzaEdReGRLQk51RHJtM0twcFYxMWFCWTBLU0IxSVBWRnotWWUyQ2hZempGTm1UOF9mT2s4MkxmTERNUnpqUEcwa29CS2thNGY3SmozVXc1clliM3ZUaHhQVGtYZGtmYWNNOGFPTU5xZ0JvbEE?oc=5",
+     "fecha": "2026-11-10T22:03:59Z",
+     "medio": "The Clinic"
+    },
+    {
+     "titulo": "Ana Botín: Chile, ejemplo de respeto a las instituciones",
+     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXlSZ0hBRkxwbUIzdnhrNG5EclJUSmR1U0NWWjZRMV9hajJ2LWVRUDRlbkRzREszSXRpM2cwTmxYNF9wVlhQTUlMMHlUejN3S29qQjhQTUtiVGZrdDJ3Qm5VcEwtSzdBcmR4X1Y4VHVCbEk1MUZkMEFDMFNmSGV6dTBMOUlqVVlEbE90amhn?oc=5",
+     "fecha": "2026-11-04T15:03:28Z",
+     "medio": "El Ecosistema Startup"
+    },
+    {
      "titulo": "Banca gana más de US$ 4.400 millones a septiembre y Banco de Chile lidera el ranking de utilidades seguido de Santander y BCI",
      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmxKb1pBMThBM0kxMWxBRjNYVnBRQzFHMndLa1B4UzJwZUx3Qkl5bnFKazNFbzNZZkpLUUoxQ2VJVE10dkZJb3JEbTZpR3prdlEtYzMwMkpKUi1UaHktdkppTEl5N3ZJbTZuajdwNjlieW1lRjk3T3o4VHpOWFZpOXJrR2JhRUR4dFdNV1NiSkFSOEMwZFE?oc=5",
      "fecha": "2026-11-02T08:00:00Z",
      "medio": "CNN Chile"
     },
     {
-     "titulo": "[Columna de Opinión] Banca chilena ante la NIIF 18: un cambio con definiciones pendientes",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFJEcElmUXdDRko2WUtDRXliQnloRG5nT2RleVluN0Jyb0VkZjZTVG5fUXlEcGltMWRuZzFuUkd0ekZMS182WmdJZ28zTkRJOFlpSHE3djJ2NEMyb2NsMjRuZ2gzYVM5SkpCR1BpQ21sSFMtSVh3VWlHU0dpc1dlTFlLRWc3QVc4b3ZrWndBWFJtZ2ktU0NvamRwTnNlVmhHeG9jc0dZUmpwNWQ0RnFRcUtTTHlhd1RhTVlTaUhRcw?oc=5",
-     "fecha": "2026-10-01T07:00:00Z",
-     "medio": "Universidad de Chile"
+     "titulo": "El Santander supera los dos billones de activos tras la compra de Webster y pugna por el trono de la banca europea",
+     "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNN21LYTM0TXhyTGpPMjNUaG1tcDZSeGpjWkcwemRwRElQZ1ZmVjNBdGdSaDNtR3RjUXFFV05STjlOZHJmajNmYkxMUW9KTEpDYktRanU4WWlUbm1jdWI1QlpTMm1QWnh2Z3IxNlFJcGc5RVRHLU00SmJNdnR3bno0VEZ1dFlINzNUdHRpTUs1bUFuXzlGeEcwaEVHYk5VMFVFeVNWYWJTNWdVTktmR0JFalhsMDJLb0s3NWZ4TFRkTEZVTTFsUEdHM082Z3NMRzA5a05MenZ6Wi1qQ2dmZl9HQk0yTWdNLXR3ekxtN2F6cXo5YlJEWUhuNWxDYmctQdIBkgJBVV95cUxQNlE3WlVkREFHREF2R1FtZVcxQnlJSl9zTkF6bzFtN1dsV192Q0kyYWFBek11bHFfODVvLTFSS0NRWDNZT1JQZDY0V3dQZ0daWUpHSUVkdVI4Y2pnQ2RhVlg2OFNCbnQ4eUZMUjN0RTMwQ2p0Y2ktb3BHU0JqRkg4R1RhbGt6cGJFeUFwSWRGcVFrQU9SV3dQSDIya2xtampPaDZwQy1TRTl2SDVrcjQyeF8zT0J0elN5c0ltMm4zLW1MRlpyMlBuTmNuZmFwZ2lYR1N0QkpKQ1Y0RmRPbkVnY0xQWGZYNk5IbFdzRFppQUU2dEk2THU1NDFmLUV4MDRvRW9YcnpOMHVvTWhLMDhYY3F3?oc=5",
+     "fecha": "2026-11-02T08:00:00Z",
+     "medio": "Cinco Días"
     },
     {
-     "titulo": "10 años de Santander WorkCafé: la innovación chilena que transformó la experiencia bancaria en el mundo",
-     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZUgxZEJmTG1xaGM0Q0dOSFEtSVl4V0dSUXZ6THN3YVhjNm15dnFqb2pLQ3dMRHA0WE40YzlENDZBcEd1NHBjZVBuRUxEcTgtWDl4SnVKMXItX0V5Z2Q1cDRyQ3JzQ2t5QjZsaVBGb3NKOXhxMUwzOE1BUl9nd3kzbGg0LThPOXFyLXNzbWdES0lQWWptdldIV01ZUExMTXBHSVY4V2NWTWFTSC1Vdk1rQkhySkEyVVhaVmdIVk9nVC1IYW1tOHVFak9aM1Z6QnFVc0FJd1c4WEp4NEN0OWx2YkIzRmtVZ09VT1lwMHBZSkQwZw?oc=5",
-     "fecha": "2026-09-30T07:00:00Z",
-     "medio": "Banco Santander Chile"
+     "titulo": "La banca española no toca techo: sus beneficios se disparan y rozan los 30.000 millones hasta septiembre, un 15% más",
+     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSVo4cWRMRjhqTThYRE5kVU5KSU1wZ3l5ODZpT0dYWWxIQnB2UHhLNE5oYmlUYzRoRXczRFIzY09kTWlpU2tid29wYkhaSVl0bTVPb2RwbUl5SkNRcFZXOHFBbmdacjREUDg1TldPdzRjcmo4MFVwZkYxRXFnM3lEbDAzSTVSbG9hemN5VThWRWpWZWVTS1dRUzRFRHRUdmZBM19TQUNJSkZnNDlacXE1R05yZ0JVNUFGOGotZUpBeXVJYnVQM3g3ZzNIczJlSG1kNS1kNDE2d2tMcVdobUllY2lCdFN4M2NFdE5Z0gGGAkFVX3lxTE1YcnJoUFRWaTR5WXNOc05tSU1rbXJ6U0xEZDROZTdfbnJxbTc0YkpQaThkd2txM3pzRWhKcmlkbVZIaGVJUUxhaGZuTmVxS0NobHRLS2R6REtESEk3QnBwNWdVY0lRRDc3TTN1SWRvVGZ1clRPMTVGWFZFcVJlOUlZV013TmpHQjVTN0VhekI5Y0FORm1KN1VudVdENXlHVHZQZ1k5UmtjbFoyX0Y2WFpZaTEyWnpNaU55Y3ZWMDlLV3J0M2FlT0dmQmdRMVB6STVoNi1lSDdCN3R3QWFfSzA3X2JYUjBOakgxOTNud2hqWXgwaGxLbHBWV2hzYTcxcHNYYjRjQVE?oc=5",
+     "fecha": "2026-10-30T07:00:00Z",
+     "medio": "Infobae"
     },
     {
-     "titulo": "Nicolás Trajtman, gerente de banca empresas de Santander Chile: “Las firmas están dispuestas a invertir, se ve un cambio”",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNand4dmp0VjRWZEpCNUJIZVY2Q2pnbHFZeWRSODBzNWRJT1dqUjYzU2ozLUVIeGd4QTF3LTF2a25SdkF1VXhzWkg5RVBuRW9pa2JjanNwZndaYmJBc2JOYUU4ZHpEQXJERXB6aUlQc0U4VVdmekVTMmhBS0ZNeUI2dVp1WDR3OGZyZXM3eDdMdlF5S29seWZvMlU1Y1NSa0lkc2ttQWlmak5iOE0zQjBuQnlhRFJReDZEbG84Z2pyM01EMXl2MjZIb2M5M1ltTGxfOUtKeWU1eFQ5V243RWxiWTllb2YwRTBEZ1JjdlNB0gGPAkFVX3lxTE0wT1cyMXJ0ZVJuZDJvTGJpcG5xQUhQcVgzUUZEc1Fmb29xNlZlUl96bHl2bUFBXzJGV1p0a1F4UHBlNW93RlJKV1pRN3Q2OWhIcjBrWUpMeTU1VjdpS28xcHVueDc3VjFVcTdENHNkV2hiOXRYWEM2OWljOEJxcXp0UXBRMjFyVXJnNThIQVpXOXNlSndWUXJDcGVNbWF2X3plaXJoWHNHV3hiaTVMeklNOFczbzQyUThkSnM4bmZkZmgwNnR1T0VjS3NOMmRMYzRJcUNMOHZmZGdHcFVZSUZwTEcyT1RLOE9WTEVlVzduVGlLOU5RUFhKV0M0blVONGVCUDY3ZW5mQkF6XzZGS1k?oc=5",
-     "fecha": "2026-09-15T07:00:00Z",
-     "medio": "La Tercera"
+     "titulo": "Tener cuenta bancaria no basta: persisten las brechas de inclusión financiera en Chile | Economía",
+     "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRy1rWVJQMG1fSjZBemc2X2hTODBlclN5Vmh4ZFdnVjNJeGJUdlNueGNWd1l1U2l2RGNtaUwyVGV3OVJ2aXVtSXlpamVzZVdsM21BZ2NlbXBfWVNkSjA5S0NQdzBxY1VpTU1YdWc0d2hYX2NQZ0JSOWlQRENlU1YxT1o2XzVBRWtaaTN1VjBIX3RXTUYwNEh4VUVueUMwYmw4a1JEQVlPSVdxMllHSkREVnVxOXR4Z0tVZ1RIalRJSXdzc3U4dHVXNWdLUWFnZC15dW9IVFl5U3ROVnJMcmdWSWRuaFJYckcxZ3NyOGx5YlhnYzM3S19LZmNldnc?oc=5",
+     "fecha": "2026-10-29T07:00:00Z",
+     "medio": "BioBioChile"
     },
     {
-     "titulo": "FEN y We Are Mef reunieron a líderes de la banca chilena para analizar tecnología, datos y confianza en el sector financiero",
-     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUDlhSXRWRG9hc0hKVFZuRmVEX0ZqcHdISDBoUEV5U05BNVIyUEY4WkF0Q2RYSVFkcmZjb1hxQlRXdXhEbjZfSjlTa3VfbG1iMTFORU5ET1FKVnJHbEJ4YVpZRkdPWWNkeVNZSDhJQkxzMmo0M0h3MFJrbFFIQm1wS1VMOGNmOExLc1BIVXpiX21rX3hpODl6WmJ3OU1xclNpOE9nZkFKLXdvcUVzemgzN05mbkJvODZNTWx1RHlJd3dRWHowYzZhSmdkcWNwYTlTcHFxY0twWUpXM181QWUw?oc=5",
-     "fecha": "2026-09-08T07:00:00Z",
-     "medio": "Universidad de Chile"
-    },
-    {
-     "titulo": "¿Por qué Banco de Chile constituyó $ 50 mil millones en provisiones adicionales en el primer semestre?",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmtCeFktc1ZDWENGZm9ITXYxRlNxSFIwNWxqX2x2a0FHLTV2cnZwZzRLWUVWRl9ENGJ5MGpaYjRRRndmU2xsMFFKOVllM0FDMy1BeDdkT3duYWR3QnZVZzkyQUdjb1dZVjNmWkxZNWE2QkZNT2QxZGNxZEJFYzkxYnJMM0h6ZWpnUTh5SDZ2TkIzYlRPb3lGWnVaSkI3QTIzUDE4bjZmQ3U?oc=5",
-     "fecha": "2026-08-03T07:00:00Z",
+     "titulo": "Cambio de era en Banco de Chile: Eduardo Ebensperger deja la gerencia general tras una década",
+     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORHVmV28yV1cyc3VpSThxWWNMZ2lMdkYyVW5Keng5NUFOLTlmOGwxTXppcVNvVkhyME4yWndZTEp6RU9xaFJwU2hoV0ZOeUtUa1plSTZjamF0ckhwbWZsM2NEekE5dzRaMFBVXzllclVmdlB5R0RGU3ZLMDFYRkNyWlYzeW1mbm03amxMczBZOGNTOHZlTEFabDlJbFg3OVk0M1hoUzJ1X3JjNlFkVVE?oc=5",
+     "fecha": "2026-10-29T07:00:00Z",
      "medio": "Diario Financiero"
     },
     {
-     "titulo": "De una idea innovadora a una nueva manera de hacer banca: los 10 años de Santander WorkCafé",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdGJBZ3ZFeDI1cHVrTjA3amYzSndDemdGTDZsb2UxLUF5T3VUOFd5ZVJHTVNEd1ZvMzRyNEtKVm9LbHZTWWpoMFgxM1l2XzhqT1d5SDI0X2REelhpeEcta09kNHI5WGxkZ1VtMk53RUxieFZfdjliUDlVTnlVWVE2Z2JKdUhhd0tnX1U1NjBnaE1lQUlhbVUtZFNGT1VnTml1NmVYaG41N3Y4akYtd2huN2ZWRlNoVHpYN0E3ajZqYzhiR2xFbXNvWjRHTDRjYVNOY19yMkYwc19vM0ppN25hZmU5ZmxUM0YwcEdVSWVR?oc=5",
-     "fecha": "2026-07-12T07:00:00Z",
-     "medio": "Banco Santander Chile"
+     "titulo": "Ranking de bancos europeos: los bancos más grandes de Europa en 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOEJySFpVbU1oRk9MTVlyLTdTTHpMQndvSTRvZnVtWmRfeUctS0k1LXVEUnNIQlRxRkRVNUlfV0p3czZsb0RsN1RJWTBmTW5JdGpYVEY2ZGp1eUd4V0d1RXI1OVpmeXpGeGxRb2NmZ0tiS0tRU1M0U0tKWEppTXUyTUtSaw?oc=5",
+     "fecha": "2026-10-29T07:00:00Z",
+     "medio": "Rankia"
     },
     {
-     "titulo": "Cae la red más grande de lavado de dinero del Tren de Aragua: detenido ejecutivo del Banco Santander",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeTg0Wm1wc2R5QkNsc3JVaE5Sek5UeVI1ZlF3YXlHaU1jMHdua21hOXBpOG9RZ2xaanhwVDFwbWt6bl9kYWpzb0hCeTBXNFRWOE9QdmJDcGdITVJqVkFnakpFNEs0WVZyalBBLTZtNElHeGdvMjBiQXA0Xy10TUVxQzU2YkR6anpMb2xvQ1UxdjQ0dElCUlNQS0F5dkYzQ3E5NUNTM3ZBZ2M0NENjOGxiZTZQX1lGV1JhdUpXR21nNm45dW5BRmttYTZiRVJKVHE5Yjlr?oc=5",
-     "fecha": "2026-06-02T07:00:00Z",
-     "medio": "- CIPER Chile"
+     "titulo": "Banco deberá restituir fraude de $5,8 millones a clienta en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOODNCLTBOQXVkZHJrSUd6QWhNQWNuY1NVLVN3Y09tM1hHcmxuaFg1cFJTZlZxdHc2SkNHLTlFazZqLWJZUjR4LVN1dDA4bGdqaU51VDN4emN4SWpPeUlUTlpSb0lxOEtKZmpMWi1USklfUDdoQmFBYkQtRmlUOHRkdTRCTE5CUGdRajQ4M0pweUJoN1NJS1A0cWNIZmowQWR3M09XLUtTNWQ5OF9nNWFXajBtdXk4WHBHZUU1VmVteHMtSm9mdVlCR3V1bThfbm9BWFpGMmMxMUdPSkJhNzVzdWRFS0dhSUw0M2JkUHZUTEhrR1RnX1dvWWlsQmU1V29SQVlN?oc=5",
+     "fecha": "2026-10-27T07:00:00Z",
+     "medio": "Diario Constitucional"
     },
     {
-     "titulo": "Santander, Mejor Banca Privada para clientes HNW en el mundo",
-     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOTN1RHRJNHJMdmJ6NkFZTnBUVGpHUmtlZkUtamlud00tTlRsMDJOTjdOM1Z0Uk5sT2oyc2ltWFNmTUdfVnFQTElQbDl5Nnc2OWNqRV8zZ1lZZHNqbzBmZG96WFgyOF9jSERjeTMwa2x1clVkMVJBMGVLdENXdVRrTzl6cGpfUGRrNjZMSDd6MVJablZXVTdaSzBQc2ZXVTR6cUQ2YXBfaWdNUGN6TEdVUDNHcGl5SllFRjJDZWlReS1KY25pX0RKVlJxRUFwQQ?oc=5",
-     "fecha": "2026-03-20T07:00:00Z",
-     "medio": "Banco Santander Chile"
-    },
-    {
-     "titulo": "Bancos cerraron 27 sucursales en 2025 y disminuyeron en 738 personas el número de empleados",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVZZOVc0MUtqV3F0T0ZIMkx5MFZ3UUMxMVowX19WdGlZc2c4MDIyeGFHLVd4M29leTF3UHN6QUM4c1piSWRaTkQwdmxka0RaR0pZMkFUeEJpRXVPRnJVMHpTajl3NkRPZnJKd3Zab0xhNmR1aGNxcmhxSjJtZ3hEYWgyenlHd0Jtbi1PQ1NTbjUyQTRlUURNR1dzSkd4Skh1TTM0UDhDcTlVc3ZDZGRsaWVB?oc=5",
-     "fecha": "2026-02-16T08:00:00Z",
-     "medio": "Diario Financiero"
-    },
-    {
-     "titulo": "Bci y Santander elevan sus utilidades en más de 20% en enero, Banco de Chile anota una caída de 4% y Scotiabank revierte pérdidas",
-     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdm8zT1ZJZGtkRUcwMWJjX0N4eE9ZRmZNZXN2MUphS1k3d0wwcHRGX05KMENpbHdEb3BTb2hxQXIzUnplY2I0aUx1ZW1XanNrZm1Tc2JjeWpuRHM1cGtxa0kxVTlJZXNFc1h3Z3c0OXJpZ0pGRUVHT1FLQmZreGtyTllJRDVuXzNvN2JiOURCYTlqS3Z1WWxsN3g1VVhxcUUzODNVc24zZWlYZGN1N2c?oc=5",
-     "fecha": "2026-02-11T08:00:00Z",
-     "medio": "Diario Financiero"
+     "titulo": "A los 92 años fallece Jacob Ergas, histórico empresario de la banca e inmobiliario chileno",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlRaNWtaVXdYcmJzUmp3enRZbmVjUXZrRkNpRExXZjJQYUtsOEs4N056VEtUQjl4T1FXQ2cyeU9JSHlfOHFHd1VrWUUyRjYyYXRmdUs3ak1NM2lMaUh1Y2trd2I1S3VTRXlaZ1BOdkdyc1BCYnRkV3piUVViT3Q5YjRwbVdBOWptNHdnRDlvMzdTV3c0UEpUOUFZeVRqejI1NWsyWkh4UkVRbXlKdzFnMXd4YkMtX3M?oc=5",
+     "fecha": "2026-10-27T07:00:00Z",
+     "medio": "Nuevo Poder"
     }
    ]
   },
@@ -366,6 +366,12 @@
      "medio": "Dirección del Trabajo"
     },
     {
+     "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
+     "fecha": "2025-04-25T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
      "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
      "fecha": "2025-01-15T17:57:43Z",
@@ -375,12 +381,6 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
-     "fecha": "2025-01-15T17:20:30Z",
      "medio": "Dirección del Trabajo"
     }
    ]

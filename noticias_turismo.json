@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T05:40:08Z",
+ "actualizado": "2026-11-19T07:58:27Z",
  "fuentes": [
   {
    "clave": "turismo",
@@ -111,7 +111,7 @@
      "titulo": "LICAN RAY CELEBRARÁ EL DÍA MUNDIAL DEL TURISMO CON UNA VARIADA AGENDA DE ACTIVIDADES COMUNITARIAS Y AL AIRE LIBRE",
      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT3RDSlZlbmg3T3MwWjdsNEFGajcxb29GU2lIcVY1WWU0MmxXNlIteWJyd3pzc09wMXJyYklJN21nYzF2VE5rNl9JeGN6d2p3RFlmcWtUSlg2MkY2REotMnlNdEc3RV9OTlhXbVdtUzJCSHp3a0NES2w0cmJRMWZ0RjJNd2xfNEsxZ3llaWV3dFBLcXVOdlZyMTU4MERCdXFENlgzN2p3Ui1XYmJIOVZLbmNoenpIYXVtTUYxV18xLV9RcGVVSUU0c2xUUWtUem5uZVpVMzBIQVp5ekE1QXN6Y0Z2VERzOVBnYWNpblQ0cw?oc=5",
      "fecha": "2026-09-25T07:00:00Z",
-     "medio": "Araucanía Noticias Temuco"
+     "medio": "araucanianoticias.cl"
     },
     {
      "titulo": "APRUEBAN HISTÓRICO PRESUPUESTO DE 1.630 MILLONES PARA POTENCIAR LA ECONOMÍA Y EL TURISMO EN VILLARRICA",
@@ -222,16 +222,16 @@
      "medio": "Universidad de Chile"
     },
     {
-     "titulo": "Aramark busca trabajadores con urgencia en varias regiones de Chile: así puedes enviar tu CV",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQlRPcWxDMGQ2bzVfN3NjVE5aREp3bVAxc20xYUdacVA4dkFIM00wTXpQSXg0cHlXT3BIQWtQNlJBR3hFeDBVVW9PZXNrNXV3UGR2OUFYYTMyMldJdHE5RjdIRUhBTUc4Q2VnZ2F1Slk5WllRSWF4cDlGeW80eUxMaUZLbG9Da2x5bVJoMkRvWFp1aGQwdkRjcHJtSnBvaUR6T2RnZHNhRWZ5cGJmUXZObTdQVGRnU1ZySlFrdkk4eHBPdHJMZl9acg?oc=5",
-     "fecha": "2026-03-03T08:00:00Z",
-     "medio": "El ConceCuente"
-    },
-    {
      "titulo": "LEY KARIN Y SU IMPACTO EN LOS RESTAURANTES: UNA OPORTUNIDAD PARA MEJORAR EL CLIMA LABORAL",
      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYWZnM2xPNHhrTUlYZ3ZNcFJobTl2OWp6WVBSN3EzWUdUYl80cENRM2pwV1ptU3JCZHdVMjZ2bHEtajdlZVRDTEFzVmJWckJDLVZrOGhBVW9jQ2txMDlOUjNRdS04RVROTjRvc2lyNUFTWGNYSDNNOU03YTBCRjd5dWZhR0NQdVlPWGVPZjZkQWZoSWpsS2paLWx6Z3hrYmFVdGdaSWg0YlJSM0U3V3BRN0dFS05nRG9XZUFEcU1KRQ?oc=5",
      "fecha": "2025-02-07T08:00:00Z",
      "medio": "Achiga | Asociación Chilena de Gastronomía"
+    },
+    {
+     "titulo": "Trabajadores de Enjoy Antofagasta inician protesta al no llegar a un acuerdo con la empresa",
+     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbTFFQWdJMWdiNkFmMGQ1LVJWVUJxWjBTZDA5a09MM3ppZnRzalZMYXhsWDk3dDF3ckp1amFyZ244YmpQLXVYRXVuY21lQmhQSlYwLUlsc3JCN3p4Qi12UmhoVEwyVklFZWtsNUxCR096OThYZE4xYnNoNWtqa0EzdUFhcFVzNk1oNmRqdS1kZnBiZmxuODBlbjlMbmZveFN5bEVid1dn?oc=5",
+     "fecha": "2024-06-12T07:00:00Z",
+     "medio": "Focus Gaming News"
     },
     {
      "titulo": "¿Quieres trabajar en un centro de ski?",
@@ -408,6 +408,12 @@
      "medio": "Dirección del Trabajo"
     },
     {
+     "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
+     "fecha": "2025-04-25T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
      "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
      "fecha": "2025-01-15T17:57:43Z",
@@ -417,12 +423,6 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
-     "fecha": "2025-01-15T17:20:30Z",
      "medio": "Dirección del Trabajo"
     }
    ]
