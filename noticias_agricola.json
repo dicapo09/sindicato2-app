@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T19:42:11Z",
+ "actualizado": "2026-11-19T21:27:44Z",
  "fuentes": [
   {
    "clave": "agro",
@@ -22,6 +22,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc2tLR2s2SnJMVE5jTEktOVZXeUxpdDFJZjJuN2Y2cXI0U0RXUVVRUUdzcUEzQmd2dEhIZnNEYVJJUHlUblBkWkFvTVUtLUxEdVFsazh2NmZJcTVXd3dTaUhKZjNySjhkeTRyVE5HQ19LSHZ2VUdDQU90a3I0N2J0VXV3aXBzV3R4MUFIcUJVeVlWTms3QjdzaXFpeFlCZ3ZKNUxrYkZDaUV3bF9vSzNuUkN5OWFUdWJKa2hrZTc1eGpkWENjblduZ3NMdldadmdCNnFQVGNaN291YThlUlhHcVBacjl0LUdEbk5WUg?oc=5",
      "fecha": "2026-11-19T16:05:32Z",
      "medio": "Radio Agricultura"
+    },
+    {
+     "titulo": "INDAP impulsa la recuperación de infraestructura de riego con inversión cercana a los $370 millones",
+     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeW5nZFFCd0w1aGloRWROSGlFSzJwNGptejR1R0FIQ0FwSldueHdUYW9VbjZYS3FzelZQc0c3Z0ZjdW1QSnBJdlZMNjE0cHVycmJoRlRqLXJlcXJvNW9WRXZLZXlPVGloWlpWb2c5VU1JR0dSYUk5dHVjM0VBTWVxOGlELUlrb19hVmwxVHhzQ2pGenZ3b2dfTE5vSmhqNEdtc1FmYlhmWnRDN0JoQmN2Q3BFc3o3WUxOMzF3eFdEVGRoN1ZYaFYzZU9ncWg?oc=5",
+     "fecha": "2026-11-19T14:12:54Z",
+     "medio": "https://agustinafm.cl/"
     },
     {
      "titulo": "INDAP entregó incentivos de emergencia a 102 agricultores de Pelluhue y Chanco",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWlR5UlhtRG9mWFNtX3ZHMVpVMnBibnF5VTN5SHptMERKUFg1LTlqYWxUTlhZcmpva2Z5a2U0ekRCbG5fOU1qVDFLRFhuWEZwUXlIZnd2clJiUTIwdkFMSVhCSnZzWTRKaC1TbkJCaW45UXBuSnQ0UEU0dXIydUY3SlpGbEUtZ3dXOUdsWS1oeUhPS1BfUWdHdW1BMmpRaE9RS1FaMW5hS1FrYjZ0Mk05QWc4eGdTX0lIWkNCSnhjZ3F1UQ?oc=5",
      "fecha": "2026-11-18T18:33:33Z",
      "medio": "https://agustinafm.cl/"
-    },
-    {
-     "titulo": "Presidente Kast da inicio a la temporada de cerezas chilenas 2026-2027 en China junto a Frutas de Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlhZLXlpTGxQSnlfS2pValdiTE1XSXhsSHl3R3VQQ1pRaURMQXc2bTdLR0d1RGhFakdHaFotU19CQnJaam95Qkx0NW83dnZGaG8xTG56VFhCdEpTWG5iS1ZLZTViRDJ6X1FJb0JzZ2UzUDNIOEtTOWMwYTZDMmtMdHRYMXdjOEhnYW9ZSnJ1dmgxSXU5YmJnT191ZzdxMUpLY043QzZB?oc=5",
-     "fecha": "2026-11-18T18:25:20Z",
-     "medio": "Portal Agro Chile"
     }
    ]
   },
@@ -132,16 +132,16 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Becker exige anticipar los trabajos contra incendios forestales en La Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFk5b29raERUcmYyUTRySmRGSGNhM09KczhVWlFaaXJoanRaUl80QmxlMnJnd0tGME5lTUtCbUxmR1ZOajc5YVFTaEo0ajVka0s2S043cmxvQXJKVlVlODJNcFU4X1RQLXBIZm9UUzBoc2pCVDAtYkV2RXRQcG9TWGZjdG56clc3QW04bjVRRFAwLUE5bnpqLXpHV3BjcmsxNDVZdExpa3dTSlB5a2w4RnE5WC1hM2FXS1ROYmNFRHY?oc=5",
-     "fecha": "2026-11-18T23:54:35Z",
-     "medio": "Temuco Televisión"
-    },
-    {
      "titulo": "Expo Mundo Rural debuta en EXPOSOFO 2026 con 50 productores campesinos en Temuco",
      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xSUhnODB2NGZZZExoR29ISWdrcEJIRURXY3NXOG5NU1JiWEZMQk5oeFQyNUM5Mm1hLV9TOWZjSkxERmg5OHpQd0pyU3Y1RW1qaFd5cFhIWmVHbmlnMEh1TnVRZEVjNFRXZVlxaHhTWVJZMlM5RUhTb1VR?oc=5",
      "fecha": "2026-11-18T15:00:05Z",
      "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "SENADOR BECKER EXIGE ANTICIPAR TRABAJOS CONTRA INCENDIOS FORESTALES Y PIDE CLARIDAD SOBRE RECURSOS EN LA ARAUCANÍA",
+     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNajJuZzkxdU9XQWJqb1ZQRnB5YWd4NExGX2QtNHNyOFJ2TUtmVUxkMzF0bTBta09uRzBBbmtzR0h0bThlYnI3bTlZUGdkOHpBTXFLYXVIdloydVhLUHpzb094cTVuTU1qRGJNaTlQTjJ6MnB4OFE4Z2duVFlkRGpBMVJRQWpOYWV6cTFlX3VET3hOR3VucklVanBaMGV0TExiczRtSzV6ejB4bmtnWVEtVjZjVmxsZVlPYVhudENVY09uUFIxczlnXy1YNTZfaWhiZTJCRVVIM01Sc0ZUdWtIY09xbW4zODB2aWxpbzVzOUY?oc=5",
+     "fecha": "2026-11-18T00:02:57Z",
+     "medio": "Araucanía Noticias Temuco"
     },
     {
      "titulo": "MINISTRO SUBROGANTE DE AGRICULTURA DESTACA EL POTENCIAL EXPORTADOR DE LA AVENA CHILENA EN LA ARAUCANÍA",
@@ -392,8 +392,20 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T19:13:54Z",
+     "fecha": "2026-11-19T21:27:03Z",
      "medio": "El Mostrador"
+    },
+    {
+     "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
+     "fecha": "2026-11-19T19:41:17Z",
+     "medio": "Publimetro"
+    },
+    {
+     "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmpRNndMNDlVZ0FLZGpaekhqcE4zMHJzUk5aZFNlUERjc0xGY3ZwM1RGcFJscWtUQ3RnODBhMXQ4T2J0am05SzFYLWNzWERBbzJmeDBtcnZQa1VhbFE2MVkzamVXZzFWTWduTXV5cjU2YmM3THBHTHhoeW0wazFFUHNTdHpIS0wtTDFBNlM2VmhCUTJzcGtUMTVIQXFDaVdtTUdQeFVPNDVNZFJNa0tkTXFQZmRGcHdQT2c?oc=5",
+     "fecha": "2026-11-19T19:09:55Z",
+     "medio": "El MorroCotudo"
     },
     {
      "titulo": "Ley de 40 horas: ¿A quiénes aplica la próxima disminución de la jornada laboral?",
@@ -465,18 +477,6 @@
      "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
      "fecha": "2025-04-25T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
-     "fecha": "2025-01-15T17:57:43Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
-     "fecha": "2025-01-15T17:33:27Z",
      "medio": "Dirección del Trabajo"
     }
    ]

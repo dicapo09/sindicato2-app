@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T19:42:03Z",
+ "actualizado": "2026-11-19T21:27:37Z",
  "fuentes": [
   {
    "clave": "retail",
@@ -392,8 +392,20 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T19:13:54Z",
+     "fecha": "2026-11-19T21:27:03Z",
      "medio": "El Mostrador"
+    },
+    {
+     "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
+     "fecha": "2026-11-19T19:41:17Z",
+     "medio": "Publimetro"
+    },
+    {
+     "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmpRNndMNDlVZ0FLZGpaekhqcE4zMHJzUk5aZFNlUERjc0xGY3ZwM1RGcFJscWtUQ3RnODBhMXQ4T2J0am05SzFYLWNzWERBbzJmeDBtcnZQa1VhbFE2MVkzamVXZzFWTWduTXV5cjU2YmM3THBHTHhoeW0wazFFUHNTdHpIS0wtTDFBNlM2VmhCUTJzcGtUMTVIQXFDaVdtTUdQeFVPNDVNZFJNa0tkTXFQZmRGcHdQT2c?oc=5",
+     "fecha": "2026-11-19T19:09:55Z",
+     "medio": "El MorroCotudo"
     },
     {
      "titulo": "Ley de 40 horas: ¿A quiénes aplica la próxima disminución de la jornada laboral?",
@@ -465,18 +477,6 @@
      "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
      "fecha": "2025-04-25T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
-     "fecha": "2025-01-15T17:57:43Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
-     "fecha": "2025-01-15T17:33:27Z",
      "medio": "Dirección del Trabajo"
     }
    ]

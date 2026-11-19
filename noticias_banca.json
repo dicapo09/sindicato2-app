@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T19:42:07Z",
+ "actualizado": "2026-11-19T21:27:40Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -10,6 +10,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN25FdmNETFdnX2hQbGtXS1E0ZldFUW1TVXRIUE0xZllHOTJhT2ZjZVJCTnVLQVBZU1dXR2Q3aTVfWU5Mbk5WSmEyLUdiYUxpVTBzYjM1SmFFZ3FiZzdBZTR0SjIzdDR5WVRHQWVPQVFwYkFEVkJ3Umg0eUliTUpsMUdCR0ZMYkZzbWQ2WWxuQnFsNy01RnZkVHRrUjNWVEU4SW1lZk9RUU1FUThUZWUwc0Y2WkZsNU5xVkJIeXNrYzVjbmRDRHlEd05n0gHrAUFVX3lxTFBPQ014SHBkRmVIUE9vV0ZIb2tPYS1qamotam9ySEJpRUpCQmNla3NfMjh3bXkxeUV4U1U5U2FaX3drRnZfLUJkbTMzejd3V1FYZGhsYjFKOEIzTnhqNnNNc0NfYnhvd1ZBQVFVS09weGdiUnZBcm9DYU1GbXQ0Z1VWN2JkWFNVYU1yaWh0OERIamh5U3RvYjgzTDVOSkc5RW13NU1jWWZpYldZODlsUnkzanQ3anJTVmFEdHBWTU1yR1hEZW5sRDMzcm0zbTNWS2hmTnBCSDFOMWhqYklfeGFiV3N1djNONDVLcFk?oc=5",
      "fecha": "2026-11-18T18:28:49Z",
      "medio": "La Tercera"
+    },
+    {
+     "titulo": "Cambio de era: Bci reordena su primera línea ejecutiva y nombra nuevos gerentes generales",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXhNMHowVm13Y01FOEUteWhGS0VCQWdnVmZzNUVnenJFakdSNFBndkxHYk93UkJmZjdXU2NyVkhmdEY3VDE1Y0ltRi02T3NLSFBUbkZ3cWlGYk1KdWRXOS1mTXBpNjNsMDROaUVlckV2bUNZSUhMSDc1LUx4S2VFUm5lejhDOW55YjNfZndmNklEOVdGMHpFcVRvaVQwRWRWS0lveF9ZN08zbzF1ZHM4?oc=5",
+     "fecha": "2026-11-18T18:27:00Z",
+     "medio": "Diario Financiero"
     },
     {
      "titulo": "El Santander lidera la venta de riesgo de crédito en Europa que la banca usa para subir el dividendo y hacer recompras",
@@ -24,16 +30,16 @@
      "medio": "Diario Financiero"
     },
     {
-     "titulo": "Ni Santander ni BBVA: el banco que está presente en el 45% del territorio de España y domina buena parte del mapa bancario",
-     "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcGhHeGR3d2ZqcFByc0ltSlQyZGJyeUNOWW5vVUU0alR2cjlnd2p6RTF0U2txY0lDNWlLUkh1S3doVUh3RXRRNmRoS1plSDlNWjZET3QyV1VGN191eXBrdjItTGEyVmRmN1pGVENCN1NvYTVDaVR3Vk9pcURYZm10RGM5WHRGWl9kSHpBVFNRbEt0aHlrOTRIRnJIb0hBOXFfQWFseWhTLTRvbWpoNUxpb2RaWVRZTC0tSTdtcFAtZU50ckN5RHBVYXcwTVd6TmJHb2cxT3BPNjkyNWdKalBTZkdVNFJtcTJXNTE0aWY0RTZsZ1ZyaTBEYlU2bXRiSUFf0gGbAkFVX3lxTE5CUEpqQW0zYUh0R0E4ZHFPU2ZZUjRzYjZsb2ZwZzlFSFJ3S1cySEVHMENKUjJ2X09pc2pPX2JhRmI0NkFITlJWOThLaG5mVjZNTDBYSkxXcC1QaVNPU19tOUR2STkwRnh1RVJHWG05VkFHNFR0TXFpQnpjMzBoWGpuMXAtN0VqQXBaMlN2V0VMZ1FGa3h3VE5NY2FCWUNlb1liOGc5bW9TV2oyQXMxYTN6Q1h0SGlHTi1GNFJ4OUxmRFJDU1Fxa2lPV3YwdG0zcG5jUnpJVXZscmhmTm5CMHF6TG53U29Hb3ZkSVVTdEJVZFpFWlNURU54ejJGMDcwVzczQkNiUmtheXJRTkYwZWc5cllhN2YtUnpkSms?oc=5",
-     "fecha": "2026-11-16T14:42:32Z",
-     "medio": "El Cronista"
-    },
-    {
      "titulo": "Banca gana más de US$ 4.400 millones a septiembre y Banco de Chile lidera el ranking de utilidades seguido de Santander y BCI",
      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmxKb1pBMThBM0kxMWxBRjNYVnBRQzFHMndLa1B4UzJwZUx3Qkl5bnFKazNFbzNZZkpLUUoxQ2VJVE10dkZJb3JEbTZpR3prdlEtYzMwMkpKUi1UaHktdkppTEl5N3ZJbTZuajdwNjlieW1lRjk3T3o4VHpOWFZpOXJrR2JhRUR4dFdNV1NiSkFSOEMwZFE?oc=5",
      "fecha": "2026-11-02T08:00:00Z",
      "medio": "CNN Chile"
+    },
+    {
+     "titulo": "[Columna de Opinión] Banca chilena ante la NIIF 18: un cambio con definiciones pendientes",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFJEcElmUXdDRko2WUtDRXliQnloRG5nT2RleVluN0Jyb0VkZjZTVG5fUXlEcGltMWRuZzFuUkd0ekZMS182WmdJZ28zTkRJOFlpSHE3djJ2NEMyb2NsMjRuZ2gzYVM5SkpCR1BpQ21sSFMtSVh3VWlHU0dpc1dlTFlLRWc3QVc4b3ZrWndBWFJtZ2ktU0NvamRwTnNlVmhHeG9jc0dZUmpwNWQ0RnFRcUtTTHlhd1RhTVlTaUhRcw?oc=5",
+     "fecha": "2026-10-01T07:00:00Z",
+     "medio": "Universidad de Chile"
     },
     {
      "titulo": "10 años de Santander WorkCafé: la innovación chilena que transformó la experiencia bancaria en el mundo",
@@ -54,12 +60,6 @@
      "medio": "Universidad de Chile"
     },
     {
-     "titulo": "¿Por qué Banco de Chile constituyó $ 50 mil millones en provisiones adicionales en el primer semestre?",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmtCeFktc1ZDWENGZm9ITXYxRlNxSFIwNWxqX2x2a0FHLTV2cnZwZzRLWUVWRl9ENGJ5MGpaYjRRRndmU2xsMFFKOVllM0FDMy1BeDdkT3duYWR3QnZVZzkyQUdjb1dZVjNmWkxZNWE2QkZNT2QxZGNxZEJFYzkxYnJMM0h6ZWpnUTh5SDZ2TkIzYlRPb3lGWnVaSkI3QTIzUDE4bjZmQ3U?oc=5",
-     "fecha": "2026-08-03T07:00:00Z",
-     "medio": "Diario Financiero"
-    },
-    {
      "titulo": "De una idea innovadora a una nueva manera de hacer banca: los 10 años de Santander WorkCafé",
      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdGJBZ3ZFeDI1cHVrTjA3amYzSndDemdGTDZsb2UxLUF5T3VUOFd5ZVJHTVNEd1ZvMzRyNEtKVm9LbHZTWWpoMFgxM1l2XzhqT1d5SDI0X2REelhpeEcta09kNHI5WGxkZ1VtMk53RUxieFZfdjliUDlVTnlVWVE2Z2JKdUhhd0tnX1U1NjBnaE1lQUlhbVUtZFNGT1VnTml1NmVYaG41N3Y4akYtd2huN2ZWRlNoVHpYN0E3ajZqYzhiR2xFbXNvWjRHTDRjYVNOY19yMkYwc19vM0ppN25hZmU5ZmxUM0YwcEdVSWVR?oc=5",
      "fecha": "2026-07-12T07:00:00Z",
@@ -78,9 +78,9 @@
      "medio": "Banco Santander Chile"
     },
     {
-     "titulo": "Bancos cerraron 27 sucursales en 2025 y disminuyeron en 738 personas el número de empleados",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVZZOVc0MUtqV3F0T0ZIMkx5MFZ3UUMxMVowX19WdGlZc2c4MDIyeGFHLVd4M29leTF3UHN6QUM4c1piSWRaTkQwdmxka0RaR0pZMkFUeEJpRXVPRnJVMHpTajl3NkRPZnJKd3Zab0xhNmR1aGNxcmhxSjJtZ3hEYWgyenlHd0Jtbi1PQ1NTbjUyQTRlUURNR1dzSkd4Skh1TTM0UDhDcTlVc3ZDZGRsaWVB?oc=5",
-     "fecha": "2026-02-16T08:00:00Z",
+     "titulo": "Bci y Santander elevan sus utilidades en más de 20% en enero, Banco de Chile anota una caída de 4% y Scotiabank revierte pérdidas",
+     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdm8zT1ZJZGtkRUcwMWJjX0N4eE9ZRmZNZXN2MUphS1k3d0wwcHRGX05KMENpbHdEb3BTb2hxQXIzUnplY2I0aUx1ZW1XanNrZm1Tc2JjeWpuRHM1cGtxa0kxVTlJZXNFc1h3Z3c0OXJpZ0pGRUVHT1FLQmZreGtyTllJRDVuXzNvN2JiOURCYTlqS3Z1WWxsN3g1VVhxcUUzODNVc24zZWlYZGN1N2c?oc=5",
+     "fecha": "2026-02-11T08:00:00Z",
      "medio": "Diario Financiero"
     },
     {
@@ -296,8 +296,20 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T19:13:54Z",
+     "fecha": "2026-11-19T21:27:03Z",
      "medio": "El Mostrador"
+    },
+    {
+     "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
+     "fecha": "2026-11-19T19:41:17Z",
+     "medio": "Publimetro"
+    },
+    {
+     "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmpRNndMNDlVZ0FLZGpaekhqcE4zMHJzUk5aZFNlUERjc0xGY3ZwM1RGcFJscWtUQ3RnODBhMXQ4T2J0am05SzFYLWNzWERBbzJmeDBtcnZQa1VhbFE2MVkzamVXZzFWTWduTXV5cjU2YmM3THBHTHhoeW0wazFFUHNTdHpIS0wtTDFBNlM2VmhCUTJzcGtUMTVIQXFDaVdtTUdQeFVPNDVNZFJNa0tkTXFQZmRGcHdQT2c?oc=5",
+     "fecha": "2026-11-19T19:09:55Z",
+     "medio": "El MorroCotudo"
     },
     {
      "titulo": "Ley de 40 horas: ¿A quiénes aplica la próxima disminución de la jornada laboral?",
@@ -369,18 +381,6 @@
      "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
      "fecha": "2025-04-25T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
-     "fecha": "2025-01-15T17:57:43Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
-     "fecha": "2025-01-15T17:33:27Z",
      "medio": "Dirección del Trabajo"
     }
    ]

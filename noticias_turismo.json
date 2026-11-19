@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-19T19:42:10Z",
+ "actualizado": "2026-11-19T21:27:43Z",
  "fuentes": [
   {
    "clave": "turismo",
    "nombre": "Turismo en Chile",
    "items": [
+    {
+     "titulo": "SERNATUR y Servicio de Protección Especializada concretan inédita experiencia turística para adolescentes de residencia LIPNATUR de Antofagasta",
+     "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYkdicy1XVm8wU1ViaDh5RnlmaHhiWThBSWhyUmkwcEg4MWZxZlpsZFFhRHRtTVg1S2lNbkpBN0pqQ1pjZEt6U1hnLWlnWGhwdi1LdWF4YWhMU2JUb2F2bEVZNElhdDB3T3JfV0dIRHV3OWdOaXU0VGRZbTc3THBQRkM0MjVKT1hncHBCT05vR1dLU1B6WWZpMWItd0FwZ3dRRC13d2wwV3VuNjJvOFZQa3NZSzNYcTRkaUVMam0xMERMTTJ6UWJXU2wwMWVOTnVLaERxQm5Sb0dsY2pUWTE5ZHlKNHA5YzB5ckpmMFBvdTR0enJUekttdGh2SHlBSk10TVJJUHJ2QQ?oc=5",
+     "fecha": "2026-11-19T20:22:59Z",
+     "medio": "Diario El America"
+    },
     {
      "titulo": "Santo Tomás Temuco certifica a 36 estudiantes como guías de turismo general y fortalece su empleabilidad",
      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeW5BUTJoZVItU2JfdWdBTEJNbTRaN3ZOcWQ1bVdsQVZsX05lRm53Z09Bc3J4UDJqOGRBRHFUQmc0ZlB6NktObzhLWWZITlhjaWlpZ1lwNFBlaGQxYkRNT0preHdqYkxqX0tobWNGUVFvMkc0aWdlWVFBZDNZalRnZw?oc=5",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmgtQzAwX2tOcFJSMzR3WS1qd3VxUVJIVy1VYldtZWhhTURRbzJ2UTJUcHNDSnBiUnJGSk96eC11cHZvaGl0SDhNQ09kQkJvb0pCMWpvdW44MUFzdmVrcTE1S09ZUF9zTjd1R051RTZNeEhzRC1XU0JrT3RBVkVCdHNtczZTcnQzSUhOa1dxUmJBZHUzdjJWM1lKdUdGYk9zcjN6eVVoX1I0S292N0V0UWs0SGpKWTRNdFJOSThtRQ?oc=5",
      "fecha": "2026-11-16T12:00:00Z",
      "medio": "El Financiero Costa Rica"
-    },
-    {
-     "titulo": "Río Negro busca turistas en Córdoba, la Patagonia y Chile para el verano 2027",
-     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHNXcFZ3RUlBYVo5d2VUaUd4dlhwbHpDb2RSdUpRcGFhVjROOXVrZFBNQUhKOWhRYkI0YzlfdzJ2VFZpcnZsdEhMNUdPRlBfS2l4TUNQN3pWZG5wMVJ0bTR6VmIybVZlUElZT2Jfc3VZX0R0MTJKemxyWTU4M21QLXJ2eG9fM0Zxc2lSbWlCUXA1cHg5bGc4ZHZPNkJlT2hjWWtPbnVzT0hidzAtRUh3dEpXQTNqdw?oc=5",
-     "fecha": "2026-11-16T04:23:52Z",
-     "medio": "Report News"
     }
    ]
   },
@@ -192,6 +192,18 @@
    "nombre": "Hotelería y gastronomía",
    "items": [
     {
+     "titulo": "SalmonChile y destacados chefs de Les Toques Blanches visitan centro de cultivo de Marine Farm en Puerto Cisnes",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSERoTEhtQ3JPb2VYc0tNaVpQRjBKQUhuRFgzRFBua014NGsweUdNenB6cDJOTXR4aWZPUXEzOTNwdU1wLU5aS05oRDVab2pWRUtZNkJzYjdoeWRBMlEzRS03VmJQcjhRdWNXYzZib2ZsVTh6TDBWb0FpdnBaRWdrcWUzam9YSzlaZkc2ZzJycGVFalZsdTRsN2pPbG45emZXMjlQT2dRT0xOUmU0STFnNnd5ZFdQTVZjdDZQQjRTa0lMMmVTRmJkeTZWLUhMV2Z5d3BVRUdOSXdRNE1m?oc=5",
+     "fecha": "2026-11-19T21:08:28Z",
+     "medio": "SalmonChile"
+    },
+    {
+     "titulo": "Miles de personas marcharon en Chile contra los recortes de José Antonio Kast: “Ni un peso menos”",
+     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY09kRGFUSExIemk4V1J6V0otemdMbUs3a1JYTTlUcWpUVk9NREYtaVhnX05VMlNoRUtRVVdMdHFKeDlESERLU0xYbE9oc0JZVFlYb0FFVGtCMWZrUC16UnN0QmRINk9NYlVIdXFZZEgwa1RrNGs2RWZGRm13d2NwcVh6MGNjYy1MYnk2OEFCaHZ1UlZmVTdpU3U1UWFNRDdIUUlHS2U3R0FrbWt4akFDNHphOUxtUTBQVFRnRlp3?oc=5",
+     "fecha": "2026-11-19T02:27:58Z",
+     "medio": "La 4x4 radio"
+    },
+    {
      "titulo": "Junto a Desafío Levantemos Chile cerramos el programa que apoyó a 120 emprendedores del Biobío tras los incendios de enero",
      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVWM4dFJzZU5yRFJ6T2Z1Z016V0NJZVduR3pzQ1lFM1cweW1fMElnQjR0YUJ0RlNXWnAydHZGeUtlRTh3OGJiMWJHT0UzX0t4SnhUdk5EVW5BaDBHNHV3eWptSjRKbnRXdnUxME9EU2cyQjc4YXI3RVliM3g3a0pKYjAwMGVCZkNLMzR5NzdsSzNBWGlDLWZqdUJtaTcxV082YVdrcndfQU1tTHpCdHl2M0JqYWVsc0Mxa2N5ekJ3M21HY2pZRXV6MlY5ZTRJZVN2Q1p4Rm41RDR1dzRUYlJxVzJTU2FjZw?oc=5",
      "fecha": "2026-11-17T21:36:05Z",
@@ -228,12 +240,6 @@
      "medio": "Universidad de Chile"
     },
     {
-     "titulo": "Trabajadores de Enjoy Antofagasta inician protesta al no llegar a un acuerdo con la empresa",
-     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbTFFQWdJMWdiNkFmMGQ1LVJWVUJxWjBTZDA5a09MM3ppZnRzalZMYXhsWDk3dDF3ckp1amFyZ244YmpQLXVYRXVuY21lQmhQSlYwLUlsc3JCN3p4Qi12UmhoVEwyVklFZWtsNUxCR096OThYZE4xYnNoNWtqa0EzdUFhcFVzNk1oNmRqdS1kZnBiZmxuODBlbjlMbmZveFN5bEVid1dn?oc=5",
-     "fecha": "2024-06-12T07:00:00Z",
-     "medio": "Focus Gaming News"
-    },
-    {
      "titulo": "¿Quieres trabajar en un centro de ski?",
      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGFYZzNYYmhUcVktb194eHYwaWo3Z2ZBTUIwa1hGM2hrcnhUSlFyZDktTXVVNnhwWnRidnRNOEgxMEVvNFR3dVZEWjEtQXpGQWg1MXR0dnRpTURwSElLZGdHNEtuRjlySHFFSGh1VGtBTE56eXpOTlNrVUFSNVhXRFJqYkZtdw?oc=5",
      "fecha": "2022-05-08T07:00:00Z",
@@ -262,12 +268,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDBSM055UkFFc3doVWZseXRubnhTMjRneU9RY3gxWDg5ZkVRby1QZk9fMTZyYUxkSFJCSVA2MjVGQUpPRW1nYUZZanZQemh4OEl2MDg2Vnlvd1RJV0JTU2V4SnVRem9XSV9kMVVIZm1MSThOdWlubmRlRmU2VjUtaNIBiAFBVV95cUxQV1d2TVRBYnlHNzU5RTY1WndGdldKbVo0Z2ZweC1EMFBLSWtYZzdJZHpYbnhqMV9YMTJ6dDAxbVNWT3ZQVnV3UFJrWHlVSHpFZXVQMHYtNWVBWjN6aXJNR1FiWElrMy04blM2MVpCTmk5NU5JLV90SjZSR0hGUDdpRXpLR1kwREZu?oc=5",
      "fecha": "2019-10-20T07:00:00Z",
      "medio": "La Izquierda Diario Chile"
-    },
-    {
-     "titulo": "Correos de Chile viola los derechos fundamentales de sus trabajadores",
-     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGFwNmpFZnFaX0hKdnpWZ25sQ09JS2s2bF85S295Z1pyM3Z0eWJ1RjA5d1hkRm1zWXBQQ2hNUHZSU1pYYWRiNGFoNV83SlNRUFpLQ0U0dlV1VEdPRmZDcnIyeDFMS0FFQUI4alA4ZjZTa1RGNkN6ZmVSNFRTRnMtZWxCd1RzS2x0ZjI0UjdiR0Y4ZlVRdEh2cjllNjloSnVPRzRSNNIBrAFBVV95cUxOQUFKQlVyVEVKRDlad1pNbWxsSEt5cU5ZTUI4X0tvcmdwQUJhMXZ5WFM0RnZWM25udWxjaEVBeGdodVBSWjRQeUZwS0pFSmVzenZrMl8ySUpFOVpRYS1uLWdoUG1SdjF2U25xUTdVRW1XUzFnSUN0TmxnbHBtS05sMGk1RjRaa2o5LUZWSzMzT0hvR0FsbFNmU2VCcTh5RmNyczVnTWpJaVlPSUtN?oc=5",
-     "fecha": "2017-03-13T07:00:00Z",
-     "medio": "laizquierdadiario.cl"
     }
    ]
   },
@@ -276,76 +276,94 @@
    "nombre": "Mundo sindical",
    "items": [
     {
+     "titulo": "Sifup cumple 62 años y celebra un presente de acompañamiento integral a futbolistas y exfutbolistas",
+     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZFozSENBVHhOUVlNNW8wdWNmNGdGaTMwTkFMbGhJcHhPb0FxXzg5dGJ3b0ltUzAyTV9LV0dyVlVKNWNKYXZHZGlMVkhFNGxCX0s3ZVVZbVBhV3B1cExPZjJodWp5Qjl3SVdDdjVzSURNNHlSWi1yNUxRNU5aUFMzODFheV94Yk5lSzB6QXRCWU9pSmVrZTlCck5ldGFRNWcxQ1hYYm90YkpDSUJLZWszbFROdEcxSnBsRFhmdjhtR1ljeGl5cVdzajk2WGg0QQ?oc=5",
+     "fecha": "2026-11-16T16:26:21Z",
+     "medio": "G5noticias"
+    },
+    {
+     "titulo": "Este 5 de agosto, en dependencias del Hotel Radisson de Puerto Varas se dio inicio a la celebración del Día Mundial de la Ostra, actividad que reunió a productores, autoridades y representantes de dis",
+     "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZmcwd0tLSExoQS1aZ21GU2xOYXloTzNlYmtGZVZldU00NlhBR3pOUUduREFSWDBKWkh4dGJmMUJHOXUySTVBQUQ4QWdTb2JRMWc?oc=5",
+     "fecha": "2026-08-08T07:00:00Z",
+     "medio": "Instagram"
+    },
+    {
+     "titulo": "Escándalo en Camioneros: Hugo Moyano fue estafado por una dirigente de su extrema confianza",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZjNFZEtrYjk3NDAySkVIaWlNaFRnNnJGOFBmVTRlbkVSZGZ3WmtON0t1bGhCd09rQ1JaSVAxc0Juak5WVzFiTUJUUGJSQ3RIQXotRlJyRFdrZU5YNGJRUmI0NnV4VlQ3SEJYVXRTUlV3MlZKZUlqV1ZKb0ZvV0ZtTUhYWm9IMjRxWEl2QW1EemxWdHVUZWtDZi1TVk1fczVoRDRkQnluNXA1MS1nMHN0d3hkSVJITWhQdlVlczJzbDlDNjJfMjZyWkxn0gHPAUFVX3lxTE5TX2xzSlFNTHBPUVUwUkVweDY0U2prdXVsaFFKQkVTQWkzcEYwR0NCajl4OVJCblBHNzMxMHVhN2o2ZU1fV01zbjJ1dXAtS3lUaXVXbjgxZFRFSFc1T0xVaVBTRFoxZTEyMUFWVXB3WWRNNGZUU1IzMzlpS19sS3lXOUxBZ3BqSnc1aGxXVGJTOTZscXc2aFF2ZmtGbnhxWnNNWjJDY2lQOUlQWkVGZUY5WTJPbkNhMUJiNEhVc2JlZG9Wbi13ODQxNWpNVkFLMA?oc=5",
+     "fecha": "2026-07-23T07:00:00Z",
+     "medio": "Urgente24"
+    },
+    {
+     "titulo": "“El viejo hotel Conrad va a cambiar mucho”: trabajadores advierten por impacto laboral tras venta de Enjoy al grupo JHSF",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbFQ4OXJwYVZnRW5CY1VpeDAxdVlENVVBRVdERFF1Vnk5el9tZnFFQzEtNk1HZUctcGFVZFZqT1FEMkRkUmx5WjEzREYxUDN2Y1NDQmtUa2w2TzNNYlE3RHZFbmxRVWdEY0hhMkR3d1VpSzZTU0twVzlzTld6amhEVEdtOUFzOXZNMEc3by1KZG9xZ0pUV2UxaHNGTTRYcTU4M19ub3hXeWl3VHFkVzhTV2liejZzVVhsODBQUTl4VHNldDFqQy0xbUxxZHJpTl9Nem1scjlaOHNDVjJERVFZcHZuX2xocmNtcllxSXVOR2J0VWs?oc=5",
+     "fecha": "2026-05-19T07:00:00Z",
+     "medio": "EL PAÍS Uruguay"
+    },
+    {
+     "titulo": "Cambio de dueños en Enjoy Punta del Este: sindicato reclama diálogo urgente y advierte por la incertidumbre laboral",
+     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZEVWcnNqeVZ1S0REQTZXc1ByaTkxZU43R0JhZVU3RlBoOHRjV2JOUlNma1IxMmZNVl9Qc09qWjR5VVc0eFJhRGtKOFY0QUR6c0h6cEtCTkFDYlZvQk0wWjBfLWUtbF9zNExWRTUzZXJ5Z0N0RzZCVXdVaVhqT1R0MVZCMWczQ09IWDdzcmlBcGY5Rl93X21zWEViVF9FODdPSnJvbTBsNlM2aDNhMm12bG1DQ1lqR3JVYVRzcU9wbHVBMzA2VGE3VXRILWJLU2hwZVhxRXFFOEZKMFlyd2pxd0pmc1ViVzNLcHNZ?oc=5",
+     "fecha": "2026-05-05T07:00:00Z",
+     "medio": "soloazar.com"
+    },
+    {
+     "titulo": "Miles marchan en Chile y acusan \"amenaza\" a derechos sociales bajo el Gobierno de Kast - La Prensa Gráfica",
+     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSDV5NUIxYjE1aUVtWjdLdS1MaTMzdXNERVlFc1l4TndsT3RDR3hRSTh5Z21IUW9aU1kyYnBfLUdzNENkVDVMMzRfVlZJaWJWcDE3WC1QTF95a2ZnZWdkYW9Oa2xuRGNYSzVOVnRXdW1IZGNPSVl0RVRPRjByYlpTNzQ2UkRlR3FyRjBlaEpubDBYelVldGlNN1N6NWRweHFveEVoNUdxdWtVc0ZfTW9JSUlfSEc0NTFJYk1XWHZWdWNrLVVVRG5oRk5UNVdNNHczTGNjazc5UlRtRkFsdC1QYm4wNNIB6AFBVV95cUxPa0h2WDBUY1g4dWgxVFNlQmJQNU1qM0ZEUXY4VFlONWJOSWhISUFrbWIybWpkLUxJcXNfQjZhSlZMWHFZQm1sWnpPeV9FQUEwOWVqX1FSQXVFTkxONkM1Ukw5ZTljTlMtTW93T2dVWHVvYkVVMkZQbXozNVgyZS1kYU5WcGhsNVlpVXJfOURKTnIzV0FOd0t1SjNzVlJtQjQ5LVlBS1FfdXY2c2VodnZhU2Jjc3FhTDlIcG9qejRoWFJLWVA1Z1QxMjNvNVIxemRSbDgyOWQyY21DamRleXFVMFloQnZ4VnNw?oc=5",
+     "fecha": "2026-05-01T07:00:00Z",
+     "medio": "La Prensa Gráfica"
+    },
+    {
+     "titulo": "Condenan en Chile a militar retirado por el secuestro de una mujer uruguaya en 1973 - Teledoce.com",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbnlHRVV2eDlDWDNsQTZiQmt0WlgwOGh6VlNwNmVIdVVSc2k0VFRoREs4NnZuVm9IRHpBRXZCdGVnLXpSams0WDNSUGl4VkJ5dGxkRFB1Z3ZtU1RqT1BCRlFnSVYtMnNCQlI3NHFfeXgxMFAtTWpDY2hrMUNZblZYc2thTFZfS0pxSHFtVEt6UlJMUUF3VHRKaTlBaDVFWFpMakJ1WWNkclJkdG94UDR3SHJhYUxQTkR1VktSTE5MNXFLTmNzZm1SUzJ30gHPAUFVX3lxTFBJd1dPNWdpZHhBLTFfUENfR1d1X0lrdXdQLUVRWnRfT205cUR0b21WVmlIamNQc1ZyOTdQN0JwLXFVUGxMTHZzaUhFT1R6T2lXbGhxUFBQOE4tRG9kSTlDRDk4bEZUc0FsNHVZb0ZuTnltbTVNalgwWUQxeUpGYjg4T2xEbks1VG1zbzBEU0o0U191bFpiM1NlRDJIcHF3SmU1UVU2SG9fSzlvc2ZYQjRveE1pUU5taGNOM0xqelVoOUZGVGJ6amd3enFvM1dPdw?oc=5",
+     "fecha": "2026-02-19T08:00:00Z",
+     "medio": "Teledoce.com"
+    },
+    {
+     "titulo": "Uno por uno, los paquetes que ofrecen los sindicatos sanjuaninos a sus socios en estas vacaciones de verano",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaUcxcnFKMm9NY1lhWlNVdEtVMVJqWDhPdmlXcmVQX1Vhc1VNNW9vd3VzWG40MTBzWW14WkdCZUlEZ3Nrc25mSkFFeThhNmhGTUNPMGI2NUhoQnUtNklYMXhhRFpiZHItNXpQS012X1BuUk9RcFJReGFYOGVCNzhfR2lPTkxUbmFfMGZaSlNQUWN6VW1VNnVXTUc1M0UyVk9QLUNKak83OEx5TEl6aW1LOFdRZm1hU0lCUEwwUHFXQlN2blZGYzdDOFVUbWFEZkszaTQ1TF9QT1FCcW8?oc=5",
+     "fecha": "2025-12-16T08:00:00Z",
+     "medio": "Tiempo de San Juan"
+    },
+    {
+     "titulo": "Segunda versión de Dilmah Tea Mixology: Creatividad, técnica y té en la gran final realizada en Artemisa",
+     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzVfaTRRTzVfa294N1lTdGR2RUY0RThBNGRzamhLYjJOd2hfTWVmNzNrcWMxOTlwZ0d3eEtoSWRneFkzVzJIRjhNenMtS3Z6bXRhb3M4YUhBanJGTmZjeEc1TTlZVzlLbktrbDdGM19mYUJwbmJDQ1F3QzlhS2QzZXFCU1ptbkh5Zi1CWXc4bUFheERBejhWQXdkU2Jfdk8ycnM2NHVmYVp3dkl1UWgtYXpmY2RydXpXbVd3ekxxZ3Z4dGVfbDZQdEJKTHZUeFBURGc?oc=5",
+     "fecha": "2025-11-27T08:00:00Z",
+     "medio": "Chef & Hotel"
+    },
+    {
      "titulo": "Trabajadoras y trabajadores de BlueLink Chile inician huelga tras una votación con un 87% de aprobación",
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTlvNVExdjhVRE1iMGc1ZzBtNGF5eDFRMlBDaEVzbWM4SWY3dlpZMHdTX3VhZWZtRWFvUFZVRGlqZDVIWjZqcXdDcmtVNkxtTEEzWlkwRHFFa2lmdzFQOERzbjAzYzhJdWI3VmRiNU11M2Ftbzl5U0ZtQkxfQU9ZekZBTEpGcTdnY1ZRVUcwZHFlREo5LVR2WlpoY29GMGlNd3MwazdRMUJ2cVhPSGV2MzlsbzRCSFZPaXhvSE9uRkJnZ9IBygFBVV95cUxPNkxObl9FbTExUnR4MGVSaHNvUE1raTAybFVYZjhGd0paZG5pLXhzeHA5VkZkYmtHbkNjVFhtMFJTRlZsVGF4MC1zdFNWT0dJbVlwZUZZZW1FT2JoS21CSUNyZXE4ZGdZNW5VcHhyT2trNWNkWVkyWTFRVzFrUGd3U3dYY3dNTzh2Z3lVUmpGRlVsRmY0UGhMQmM1U1ZzR1dPLTFuQ1UwZDBCOFRhWkxDeGNzX0xDRzdremR0eDlyeEo1TzdsYkJGUkVB?oc=5",
      "fecha": "2025-11-19T08:00:00Z",
      "medio": "laizquierdadiario.cl"
     },
     {
-     "titulo": "Denuncia de acoso de dirigente a funcionaria interrumpió negociación colectiva anticipada en El Teniente",
-     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDU2U0NDYmF2NjRwVlpydngxOXNRaFg1cnpKTkY5YUhzN1Atdnc0S2ZCaXhpeUhfdFU2MnB0azhTbmluSGRUQl90SlBRSWFYeXdoUERTZEtOQVhfRF8xNGNnSkh3RlFyV1FFczFpTldRTG1QVl9ob0pMVUlqMkZFSE11Q3pGejBFNmtzem5mWkxFRFY5SDVYczNJYi1jM2FFUGpUYXlkOFhKamxMVDQ4RXU4bFp1X1JxMTB5TjFuRU5xUnM?oc=5",
-     "fecha": "2024-08-25T07:00:00Z",
-     "medio": "Interferencia |"
+     "titulo": "Pilotos de Latam critican no cobrar más ante un 62% de cuota en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTU1N3FQVF9vUmRiUloxS240cDV6ZmxqanZaVS1PRHR6UWxBYjlvWTRxYnlBS0xYcG15VE1ZbHZmOExGdmNPMHpycFp5VXh4YlhKcUxjWmZ5cGJGLTM4WWwtMGtyRi1oa2d5dWtuQzUzM0xFQW96bHQxU2FvX0M1ZWZGeXp4d0FKajNTNnZHVE92S09kRTVyNEp3dmFzV1dIa1NaY0Jod0RLc0Rfbl9Eb2JSbmxFdw?oc=5",
+     "fecha": "2025-11-17T08:00:00Z",
+     "medio": "REPORTUR.com"
     },
     {
-     "titulo": "Por primera vez un sindicato abre un hotel boutique en Mar del Plata",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2JfZGNEY0pxaUxadUVrVm5mc204V01JSFUwN1VBVmZ5dmMxVVg2bHFla3hKazFZWjlPZzN5YTRCUGlEakN5WGIya29JNW1wd0FudnJ5M3NQQVJFYU1ubzFsY3RxU3U4WTFicmJHX2tuMmtGQXpGZWtLQ0tzOVF1Y2dSY2Z3YUZ6Rm1UX0lYWk1wbENDMzFYTDI2ZkxNcUdOOGd0djdnMHhzRk1y0gGsAUFVX3lxTE1zYl9kY0RjSnFpTFp1RWtWbmZzbThXTUlIVTA3VUFWZnl2YzFVWDZscWVreEprMVlaOU9nM3lhNEJQaURqQ3lYYjJrb0k1bXB3QW52cnkzc1BBUkVhTW5vMWxjdHFTdThZMWJyYkdfa24ya0ZBekZla0tDS3M5UXVjZ1JjZndhRnpGbVRfSVhaTXBsQ0MzMVhMMjZmTE1xR044Z3R2N2cweHNGTXI?oc=5",
-     "fecha": "2023-07-31T07:00:00Z",
-     "medio": "Ladevi"
+     "titulo": "La Ronería se coronó el ganador de la decimotercera edición Negroni Week Chile 2025",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUFoVUF3TE4za0JuaWVtWjdUTy13eENqR3N1MjVYUmFPZHd4YjJsVUw5aWM2UTJYMlYwTlpzQUU3SktnQmpFT1Y0UElTOW85MldkcUZ2X0JTaHRTZTFTa21nWjRaOXZ0REREenBDOWxyZG92eEsxWENWejFHYXVXWDVxcGw1bmtkcW1EYmdvOHU0X0pjN1VTSFRDcGRvTTMzaWVCX2wwX2xDWU1URUxYUjFJX01OUVd1?oc=5",
+     "fecha": "2025-10-10T07:00:00Z",
+     "medio": "Chef & Hotel"
     },
     {
-     "titulo": "Iquique: Dirigentes sindicales acusan haber sido agredidos por sindicalistas rivales",
-     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3pxejBJTzh1NlVzTVhYZHB6NXgwdnBlUVlxTHdkaTVVTWJpVWFlOEdRQzNsYUdoRzJaSElyNkszWktjLXVLSVZhTEkwNDNKTUhlTUowSzdoNVl0Z19YaHJmSnJ2VnBlX3JXT2xHa29HSUEwMHBPTzY5YndSQXZWZVFDU2ozQml5aklVY3N2eVRKZDl6TW15WGkwd3htZ25GSWFrQkV3YW1uMVR0azg2RjF6bDVTZjdUdllMLTcybzRINU8yajhoU2drM3JQUHZvVWNNeWV2dTN3Z03SAYwBQVVfeXFMTS0yQ3pkbHZnaTV2QkFLdTRLUEdxNnM5UWd1cDlXR2hGcDNpTXA4R29QWFdfTEIxbFR4cDNoM0pObVN1WXhHdXY2bGd2am5RckpjXzQtV2c3VUJSUENvOEVlSDJuZGFQRzNOMUtlRUFGc0JXaTZPNU9hSGNZLVE0NXNGc1hIOVVYZDJ6ckg?oc=5",
-     "fecha": "2023-07-27T07:00:00Z",
-     "medio": "Cooperativa"
+     "titulo": "\"Si ellos tienen 20 años...\": Nigeria se prepara para el Mundial Sub 20 en Chile y se llenó de comentarios",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTVdmM2NfcUpab0lmUW9LSlVMLWg1LW9NNkFqajNMMFN2RkV3RTB5UjE2dlJXUmdXcXc3MXlaRFdpV0ZSSFRUNG5VWGRhMmdQY29tSExaYkoxYlQ4TDlaQjVQdzhwb3hva1g3RGNLbnBXMnBsTWlIamNheEVXT1BSOGcxWDZXalIzRkt6b1ZMb1FsOVJHa2lvOENTbnQ1U2xZV25JbTlhSjdJNlZaTXZGWDJB?oc=5",
+     "fecha": "2025-09-25T07:00:00Z",
+     "medio": "Teletrece"
     },
     {
-     "titulo": "Sindicatos y trabajadores de la región fueron parte del primer diálogo sobre Derechos Laborales",
-     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMk9YVEtkN0lXZFR4OEtwSGVwRXEtY2hWTnNTaWNsLTZtZkdxNFJZNjE3VERyZzk3ZTJReGFCZ29lUFQ2WUF2QXNhUHZCOHROVFBPWFlfNjJmVWZ5cnQ5Q2NHTlJucnhhamFsVHZBdzBsTlAxWkpSd3dIYnMtU0FNQkVBNnBkR0phNWZEbmJ2eE9SRlgzM3o4Q3hLbVVmVF9Ga0N5UXoyTk9jWnpld3JsU0RqYmU3ZGNHTjQxRDZLTDg1ZTcyMlhtd1V2UFdkTEkxR0dGM01EY2FMU3pBb0tDSG42WlhHOFBEdE9fWkl5WQ?oc=5",
-     "fecha": "2022-08-29T06:42:25Z",
-     "medio": "https://www.mintrab.gob.cl"
+     "titulo": "Hermoso homenaje a Luis María Bonini: gimnasio para futbolistas lleva su nombre",
+     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTmVMd1UxQXJRcHgycDVOTGFVSHItaUlydGtTemkxa1hqbXZjYlhuS19mLWhIUFE1VnJ3eUJXRHp6c08yR0loSUxCa0l2dU40TC1ZMklSRzRZdS1pbVdlMkVkWHZNQVZFRVItZGRsZVpxQjVodU1KbHhfUG95YXZ5NXM5TndNVTIyd0I0b0pOcXhDaFNMQjJqTWZfZ3BiODdtQk9LZtIBqgFBVV95cUxPTEVxaWRaQzJGUGM2MDhRZVlqbDdhbjZYMnY2cFhrbk9hNEgxTDlDdnRBQkpRSW1lUXlBU2FTMGRXUVppbjJvYWlkZ2pKdVZ0ektyNTl5djBMS1FSSlZ5NUxZV05wRGRrQ3lTR1dkaGxXc0JzVTQ4SFJ6V29haGxKZFFnSXo5N0RyVXhLeE9NZl9GRVkyYVA4MTliejFPNTR5MVJqWXhGTEFYUQ?oc=5",
+     "fecha": "2025-09-12T07:00:00Z",
+     "medio": "RedGol"
     },
     {
-     "titulo": "Sindicatos de Finning denuncian que empresa \"está vulnerando los derechos y la salud psíquica\" de los trabajadores",
-     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzN0b1AzSXpyRHduc29QcnFhUUNNNjd2d1otMVhYY1FOWjdIMURHS0NxdGQ2MEVkS3lDaGNBa0o5TkhXenRCTGZTdHNnLXZuaEpjMmtNZmFzaGtMLTRIRmk3TDZsYnhZOVlibmNfWXZTVXBGd1hYUVB4aUIxMzRCSHFlTE5WSjRyYVg1Nlh6QjBEUjlyYktsa3NUUlR5dE5GNnFvTndvY2VWZDJuQ3FUOGt3MDhwakppTGU1Sm1WN3FnYmlhbE91d0V2WXXSAdQBQVVfeXFMUEdnSVFNN2ozUVZEREdHOTg1MVdxZkxXaFNwX3RubDlqcXJrVWF5VFY3Y2VpZk5lNm4tZHJaMzlUejcxNW0yeWdjQVZ4MkM0QXBCQ09RNzZEQXhWcEFSMlYzNThNSDI0dXVLUHlwWlk5bTVvSG5oOFBKTDhpMl9LQUhZbG5GeUNqODRrWDQ5ZXhyTk13VG9ETVBYYy1NalNlZVFJODJidG1FanJ4WWVRU1NfTlJtdnh2S1MtRUx5XzhZSW5nb1NXaVBmUzZWQ1AyRzZEbkc?oc=5",
-     "fecha": "2020-07-10T07:00:00Z",
-     "medio": "laizquierdadiario.cl"
-    },
-    {
-     "titulo": "Sindicato del Conrad en conflicto",
-     "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkp2R3E5VmlqT0JWRnFQYUdBTm8xWlRUemV0bXc1WFV5RVlvemYwVW5CUjlqeERRcEVaclhrQ0JZY3FQWkdjOWJsbDhvdW00OXRsY3ZEcnViN25ma2J1UVlOY0FfR0pzMlRyQzRXQThDNDNGdXdkNHBiOGZyWEtpbjRkMVZ5M0820gGsAUFVX3lxTE5fZ3pGU2VaanVlcGNvc2F2VHpqVFdUbld6ZzlUZG9FV1NxQTQzVkttNEg3dHlHMTR6ZDA0V2o0Wk5uVWFheUVwYllfckdRV3pNTUFWallxcjdqUVFIZkNta0VtckR5czkxWElMUWpXTVNpUDlEdE4yTEQybnFLMndVcVFtdUtwZERYMzF1bDJRazlBamVzaWlfVmt6UFNrX1ZsZGk3aFNLLTR0RXM?oc=5",
-     "fecha": "2018-08-03T11:44:50Z",
-     "medio": "Montevideo Portal"
-    },
-    {
-     "titulo": "Trabajadores Hotel D. de Almagro contra recortes en propinas",
-     "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORExsTGhTQ2Rlb3RnYUdkWUpOWG42b3lqdnFHdlFhd2lpeWhZQ0daUmJrclJRSkFJV3J0TkltcnB3Mi00X3NGSHg3bEdvbmhYcWRJVHRuV1FHSWhNbGR3eFdfT3owRERWcUh0dV9BWkJ1RXhTaXNzT2o1NkQxYndTLXlGSlNHZHdwUWU2QjdIcFpIZlZHZ3lN0gGfAUFVX3lxTFAxVl9XZTd3NWQ3cFpYUUZtOHFKVUFUdmN2NG44X1h0Qk8wbjBqVFZTSEtCU3ZseGtFMXg1TjFsZndlWlVNNGNXbS1hTkw3c3g1b0FyeEhsNUJSejVWRk1SRVBkLTcwUGY3SXA3WmxTaHdVdmNFc2RJM2Z4eU51X3M0T1EwdC0zblFELVdsTTJYdWZmSllGeHBXcjJOVlR6QQ?oc=5",
-     "fecha": "2018-03-24T07:00:00Z",
-     "medio": "laizquierdadiario.cl"
-    },
-    {
-     "titulo": "Cientos de organizaciones y personalidades por la reincorporación de despedidos en Antofagasta",
-     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTFpkZlgyUjRNTjBwX3lqZFVWd3NmTllMRm81S21rOHhGWkdrMGRCZVR2cERuQlJucTlPMG5vOGUxNGg0b0JweUpyYk9UUHlxY2NTbE9qRWh1cnN4YjlzelBLSEVHMVhSYnRvWTliWFZQTnFZeEppQk1vRFM0MnlxUTZ2V3djR2VNd0sxNWVoZWMxUTZUcFozSzR2STlhLTlySG5Na2Q5RmsxSEpTTkowQkZ4c2RocGdjN2F0Tk1GbHllOUtMWUHSAc4BQVVfeXFMTjVhVi1HVmxUZVZlS1ViclhfcGdBdWp3YnRyR2J4Q2M3VU4tTm5PTDAzWXdIdllGV290bFpSb2hEQzZTUTZQZEVLZ3NPZDZWdEo2aHdMVjMtRFFQU09Wd08xV05QS1E5NGFfaWhuelcyRDBLZGJLYVpaNXBjS0xEY25mZTdGeXJSazBObkZwMERaMDMxSkp2cnFkTVRTS2tyX09CcVJWTEI2VFJjZ2NqWWlpbVB4dnNBTk1RMVdZaHBDU0VlOVZfY0VyZnVxVmc?oc=5",
-     "fecha": "2018-02-26T08:00:00Z",
-     "medio": "La Izquierda Diario Chile"
-    },
-    {
-     "titulo": "Hotel Diego de Almagro: Intransigencia patronal e invisibilización mediática",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1d1TnhwVjg5MzhtaVFyOXMySThHanp4VTN4ZUNFbmh2Y0dfdFNCRl9ScWNlWGlRcXB0TlFnZ2tiQ1paaUh2c3NUbGxMMnlaWlJFblpPb1Zndjl2Z0Y0VHMweXFoTUFmWDNkUE9TRnlKZVZVbDExUzdWdFBPQ2pjTG9QeTNVZml3MC1SUlZJVklFV0ZhS01aWU80MDJ0U3FQSW4tdGVrM3lqcTJidllkQW1vaWHSAbwBQVVfeXFMTmF1WDVObUtfQUZlQ3hwRVgxQ2NjNUNQajRERDNsY05oeUpBZWtVdzNudmZoUG52dHZWdk5FLTNwSnRMd1pOYzdJYmhoM1phd05ZY0ZLVU1oWXRMci1FeUluYTJFYnRldll2dDdybWhPeDdQLXRCZjFHRzdQU09oYy1idFBBcTIyNlZ0dnR1Q0dIaVFUempMbmllWUgtRVJyTWQ4Ni1zWmZoWFJZOTk2OVlSaXBWeTRiM1lyZkU?oc=5",
-     "fecha": "2017-02-27T08:00:00Z",
-     "medio": "La Izquierda Diario Chile"
-    },
-    {
-     "titulo": "Trabajadores de Hotel Diego de Almagro deponen su huelga",
-     "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWk5SHRLbkNkMFhhSVhfdmpBZnpVVDkzSGp4SnpEY3JXdjY2VmpfTUh1VmRKWVd6WERfTUpOc2MzdkZ6akVOYU1xMnRsc29DVUZ1OVRPU1c2Wl9RTVJhU3djWHJEbmw2NXRWUHFNaGw2ZWt3djE5ejNVZXktX0p0UHhiY3pybnFnX2szY0V6aGV1Z3d2cFU4NU9mMXNKSy1ORUVv?oc=5",
-     "fecha": "2012-06-20T07:00:00Z",
-     "medio": "www.elrepuertero.cl"
-    },
-    {
-     "titulo": "Sindicato de trabajadores de Hotel Diego de Almagro en Puerto Montt inicia huelga legal",
-     "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONXFrcU9Xc0oxYzNiV3dZMXZneUFNaWZfUlJFdWRpbUFPZUgtSFlaWk9PUDZvU1VqU0ItNmVkZXVBd1B6RU1SSG4yX2NGdjVyZWE2T1hJejJiTjdYNWtEal80cThvQ0Rhd2M2MENWenZvVktCU2Vhb2JPblV3emllekxTN0Y3NFlYZkFjcDNDRXFvT0NzTk9rWk0tVUtvX2l3bTNfalJ4OVo0X2NuNzJ1dHBwbmhlYUpKek1Ybm4zamc1S2VSdVEyWUMtS1NZSXlSandpdDl5QQ?oc=5",
-     "fecha": "2012-06-11T07:00:00Z",
-     "medio": "BioBioChile"
+     "titulo": "Qué es la carne halal, la particular exigencia de la selección de Australia para el Mundial Sub 20 en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY1lsRnNaNkR1cXRaOVdJRnFHeEpORmU2Q2N1Zlc2MktPRWRRXzZDS3ppX0c0akFkZUo0YjdEMWp3X3duV2lxVlpYeXFwWE5ZUUFzMFU2OVdzcGNoWG45WFlrd3hoaEJUTnF2b2NBRUdjVXliNzRrcXNuTFpUY1g4TDFfLWJvcl9JYWtYS0Z6NDNfRmprU3hMcl9uRTNlUW9lZ3FRUi1YdUhlODdscFp5Z01icGdiMGU5Y3FrNDU5ZzJtZVJieHJMRXQyVGhMekEtdFREZ0dmSC16bll0WFA4eGFaMU9Xdw?oc=5",
+     "fecha": "2025-09-11T07:00:00Z",
+     "medio": "El Dínamo"
     }
    ]
   },
@@ -356,8 +374,20 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T19:13:54Z",
+     "fecha": "2026-11-19T21:27:03Z",
      "medio": "El Mostrador"
+    },
+    {
+     "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
+     "fecha": "2026-11-19T19:41:17Z",
+     "medio": "Publimetro"
+    },
+    {
+     "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmpRNndMNDlVZ0FLZGpaekhqcE4zMHJzUk5aZFNlUERjc0xGY3ZwM1RGcFJscWtUQ3RnODBhMXQ4T2J0am05SzFYLWNzWERBbzJmeDBtcnZQa1VhbFE2MVkzamVXZzFWTWduTXV5cjU2YmM3THBHTHhoeW0wazFFUHNTdHpIS0wtTDFBNlM2VmhCUTJzcGtUMTVIQXFDaVdtTUdQeFVPNDVNZFJNa0tkTXFQZmRGcHdQT2c?oc=5",
+     "fecha": "2026-11-19T19:09:55Z",
+     "medio": "El MorroCotudo"
     },
     {
      "titulo": "Ley de 40 horas: ¿A quiénes aplica la próxima disminución de la jornada laboral?",
@@ -429,18 +459,6 @@
      "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
      "fecha": "2025-04-25T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
-     "fecha": "2025-01-15T17:57:43Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
-     "fecha": "2025-01-15T17:33:27Z",
      "medio": "Dirección del Trabajo"
     }
    ]

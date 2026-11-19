@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-19T19:42:05Z",
+ "actualizado": "2026-11-19T21:27:39Z",
  "fuentes": [
   {
    "clave": "forestal",
    "nombre": "Sector forestal",
    "items": [
+    {
+     "titulo": "ExpoCorma muestra cómo el sector forestal se prepara para un verano bajo amenaza de incendios",
+     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSGlhWExHUnhTbk9idGtCOFFsNmR5Z21qeS1ZS2QzbWtsVWFXTHJBcVVEMmVTUUpfaWwyUmNsUkVEbk5qb2FOV1VBMDAzMzFUdHJWcjRiN2swZHB5RlRwTjlnUFN3X3FGMVpfR2wyanMzM3pOVi1HSThXZEhMUGRyOXpXaGMzVjRtZVZiUGNQLVNOeTRiT0F3aEFVb1dIdjNzN3dmR2lrdzIyYWJ0MlVfa3FPdkNrZTExekoyVEgtcmNqRi1ZYks1aW1VQm11TUJoOFE?oc=5",
+     "fecha": "2026-11-19T21:22:05Z",
+     "medio": "Portal Agro Chile"
+    },
     {
      "titulo": "Ministro (s) de Agricultura aborda recuperación del sector forestal en ExpoCorma 2026",
      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWs2cFpIdkRIR0NPeUtzRmdQMVpIbXZoY2ZucG5vMzRGMFJiWk4wSzV6YkFFUnBrQVNQa1gtUWRzQnl4QjlNblNnaHJvVmNmN0xOMDBiQVdhaUhIcU9jTWZOdGxKcDR0VUlxaHItOVBISHhwY1dNdDhsS29XVWltNExCaEo2emUyWldEWTg3aUlHdzQ0X1o3M2hsVE02SmZKVkQyV0J3NElPRGotdEF1WnFHa0tnbEJubGtXN1d5a1hwMk02?oc=5",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWUyS3IyQ1NBT0paY2VVS3FPR2R6WHVqbDRiejF2ZVdhY2daclhrVnBlZWp5di0zTGtVVnR1ekVBekpjTzBrME9oRGZfWnFYX19rUEtQR2JSTHdfSTJMZUx6alJmNWhJbWxCaVVoTnE5b1VfNUtaNmpYSFFOQ08wOV91YXYtM1lrNmg4ei15M0JEbzU3YzNjSzJPQXVOWGJDNmlaTGRMNGVFdThnSW5VckY3V0swc2JaeTd3WXlGVjN6Z3d3b0N3YkRCeDhsTUxPOVlF?oc=5",
      "fecha": "2025-10-29T07:00:00Z",
      "medio": "Xunta de Galicia"
-    },
-    {
-     "titulo": "Gigantesco incendio en sector Forestal Alto de Viña del Mar: van cuatro casas consumidas",
-     "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYTNJWVJpalNKVElhQ0VvblIzOG8yakppalJjYlIwZzB0Q041SlRZSmc2dnFhMUFoREI5MmZXUk1GX2JXY3ZySWFlQ3J6aW1lcXhSNDdZVjdpUWJZaXdHOTRwOTlNTkJJZkJ0MFBkU1Exd0Y2WjFxV29zQTFHYkZnSFBFekFOaTVLVEh0LXdtMjlkNmI0RnVLclBOV2lsVy1ZSkVPS2xaNVBVcWlCNllHa2RUbTZOaG5KSUlhTTZrSWVpb0NibXlBYXBjUzVkXzRWRkJRSkk0Njh0N0dybkx1WG40Sm9HWUZYX2fSAe8BQVVfeXFMT2VEXzlORDNwWU5TQ0NuQkxCSjdTZ0dpbjR5aC1zMWhvZ291OGdoNEQ0QU9iMkxCTmd6OUNOLUlUczlzc1RTTkF5NndLSEFyUEMxeVBxYmpYM0ttQU5Wb1Z4VmtPOU1sOUhQR3hVVzlFcWNOOTE4bWlXNUxDeEJYbUVvQ1NMQkdQRGNlQWdsRXB5NG8xM0N4aUt3U2s2X2ZnWkhkS0t6dm9meFVKaWhaLU05UktlMnM1dVVJd1dzb0EtWURWYjV1Z0NUekZVWWc2Qll2TGhiOWNjMVg0ZGYyMWRzRDk2MTcteE9xTkl5RFk?oc=5",
-     "fecha": "2025-09-29T07:00:00Z",
-     "medio": "BioBioChile"
     }
    ]
   },
@@ -318,16 +318,16 @@
      "medio": "El Correo"
     },
     {
-     "titulo": "UGT C-LM denuncia el cierre de tres torres de vigilancia forestal y acusa a Geacam y Junta de temeridad",
-     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNmFKYWxEbUphWnMyRFNwaFpncFV0YlFab2xxUG1yTTE5cEJUWGFyTVR1ZGVub3pub2JXTFM4UlQ3d1ZDeF9YUG9Qb2lBd3pYaHNUa0ZELTJmZGFmVTkxTWs3STRuV0RkNGpsOWtRTHJLR3JibmJtXzRQREktWUpxbVRraWtRN1F2b3hUOWNWWW1SS0FzVHFDdURIRHg1SVEtMERXbUZhVmYxdFhLN3BGekY1eS1Ja2xqenFpaERITHZ4NFc5Wjczb0gwc3lNaGczaTNGeUQ0V3l4VTJGbXBrUUdMcw?oc=5",
-     "fecha": "2026-11-03T08:00:00Z",
-     "medio": "Torrijos Today"
-    },
-    {
      "titulo": "CCOO alza la voz tras la muerte del trabajador forestal entre Fasgar y Salientes",
      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUZYSWhkVzJFMm4wdnBhZDY3UDR4dk1hWFh4aW5veTlfUnQzVll3eFFJOHNDRzlZZGtSbzRUbTcyclItZU9MRWp3VDRSQm94ei1MTm0tLXEzUzhjUzc1Y2M4T2N4em04bjZTMnRtdlBtVGdHaUc0TGRjRE1qWFVzdlJwVHBmTllpbWkwSmxGNC1ZV1kwb25vMXBhc1BueGN3MDk4U1ZobEw1bU4tT3ZQckJMUQ?oc=5",
      "fecha": "2026-10-01T07:00:00Z",
      "medio": "El Bierzo Digital"
+    },
+    {
+     "titulo": "Sindicato 3 es la grata revelación del Torneo de Clausura de segunda división",
+     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFJUNTRfMGhDVUhlOXU3S3I0MHptUU1vR2JGQzZpNWY3a0I0VTlneEg1NmktTFRkd2xBWXI1dVlNTXpLOUR2ZXlpN3RUajd0SE5nM0Z5Z0lPNnVKNFlQbW1BWVhZWkdYVkphTUNyYW9DcVBGRDJmOEtqYzl3UW52RlQtWWlqZVFDeHZqckpWczNiMzNPeFBxV2d2NUV4bVVhUG9fQnJB?oc=5",
+     "fecha": "2026-09-28T07:00:00Z",
+     "medio": "Noticias UdeC"
     },
     {
      "titulo": "El sindicato CCOO alerta de las deficiencias en las casetas de vigilancia de incendios en El Testeiro y Peñanofre | NOTICIAS VERÍN",
@@ -392,8 +392,20 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T19:13:54Z",
+     "fecha": "2026-11-19T21:27:03Z",
      "medio": "El Mostrador"
+    },
+    {
+     "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
+     "fecha": "2026-11-19T19:41:17Z",
+     "medio": "Publimetro"
+    },
+    {
+     "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmpRNndMNDlVZ0FLZGpaekhqcE4zMHJzUk5aZFNlUERjc0xGY3ZwM1RGcFJscWtUQ3RnODBhMXQ4T2J0am05SzFYLWNzWERBbzJmeDBtcnZQa1VhbFE2MVkzamVXZzFWTWduTXV5cjU2YmM3THBHTHhoeW0wazFFUHNTdHpIS0wtTDFBNlM2VmhCUTJzcGtUMTVIQXFDaVdtTUdQeFVPNDVNZFJNa0tkTXFQZmRGcHdQT2c?oc=5",
+     "fecha": "2026-11-19T19:09:55Z",
+     "medio": "El MorroCotudo"
     },
     {
      "titulo": "Ley de 40 horas: ¿A quiénes aplica la próxima disminución de la jornada laboral?",
@@ -465,18 +477,6 @@
      "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
      "fecha": "2025-04-25T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
-     "fecha": "2025-01-15T17:57:43Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
-     "fecha": "2025-01-15T17:33:27Z",
      "medio": "Dirección del Trabajo"
     }
    ]

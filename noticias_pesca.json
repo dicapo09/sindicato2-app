@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T19:41:59Z",
+ "actualizado": "2026-11-19T21:27:33Z",
  "fuentes": [
   {
    "clave": "subpesca",
@@ -32,7 +32,7 @@
     {
      "titulo": "Sernapesca entregó reconocimiento a establecimientos del Biobío por los 10 años del Sello Azul",
      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVjBHaFk0V3lnVGhPbms0Z0VQclNQYVVvTEVPTk1ET3B5RUI3elpEMjlYbmRuUFdKblV3YUdpWTk0aFFoXzNGV29ieHdKanZSOEVaY2s0V0xVOUZzdjB5N2NKTmNvdnRqNXZqVERsVWJNV2NVS0c3cWh0eFZxd21fZTF2ZnpzUmkxcHlRa0I5TFVNQ1JjTThnY3ZPNUw2ejlKS0NjQnlyNHlOeEQwa0pCVEdnTkxlODNYOWVpWUN0bE9NUkFuYjVvWlVR?oc=5",
-     "fecha": "2026-11-19T14:44:16Z",
+     "fecha": "2026-11-19T14:43:59Z",
      "medio": "Sernapesca"
     },
     {
@@ -52,12 +52,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMU1jQ0NuTEhWSHhaYXhNVE5ZbEFqbkRZa0o5cy1UeHNNTEJSMW9seWJoZ1JfMFFSemV4SFVfSXNxQnBvcERaLXU0dUJoZE02aENnZUFmVkZrSDBwQmZvU2J1Mno2UVlTbmdEYk5FTVlBZzBpRFNlTDVWOE5iUU5Rd1ZEQU80M1hNaml4RkdFbzM3WkhZUXQxNVpHaGpHenpnUldz?oc=5",
      "fecha": "2026-11-19T11:05:42Z",
      "medio": "Atacama Noticias"
-    },
-    {
-     "titulo": "Corte Suprema confirma destitución de jefa de Auditoría de Subpesca por maltrato laboral y falta a la probidad",
-     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONTh5amJSbFVHTFFtM2FrdzFWTXZONVdfVUhFYlBVcVBuZ0M3WGJkamg5NU1wWC1GRDRTWFo4bU8wbWlEYlZjSmt0eXd1VXRJX0R1dlB4QUFuc1JqWFpJVnpkUTgtR1dYRXY5b014S2RTME5HWDlWdUM3Y2JfTEc3UVJNWU02ZjJLVGNwQjBNOS1iamc2eHFjd3ZSRGFDNDNsNUFBbTlfMzhxOHU2d1VjQ25EYVRxS0VwcTBtS3ZUS25QUmlwX2RHUnpwd0RIUQ?oc=5",
-     "fecha": "2026-11-19T10:37:44Z",
-     "medio": "veredictum.cl"
     },
     {
      "titulo": "Sernapesca y USACh avanzan en herramientas para la trazabilidad de la mitilicultura",
@@ -94,6 +88,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41V0VSUXdvRGR1b1JWSUVDR3RobDNzRHZlYXVmM3pDSjRXWjg2TWZ4SEN6V21xMmhUUnNKaWc4WkNHTFNRc3phdnlwV19FNlBVMFE?oc=5",
      "fecha": "2026-11-17T20:45:14Z",
      "medio": "Instagram"
+    },
+    {
+     "titulo": "Fenómeno del Niño y sus efectos fueron abordados en webinar para Centinelas del Mar",
+     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGoyT0IyejhDenV0NGlLMW5XQTJBTlNTTVFadEd6Zk53cHpQd0NuOUhuQzk5TEJXcTF2dVpGem9NYjVFOEZsWkpXZjVGREhxUlN1ZXNPUVAycTUyRFhSTzVjUFpscWVWSTgwTmVDeE5mZmxpMmlWNFJnZl92UHBzQlpzQnJXc3ktTnY0dGtCQ1kwTVFJYndiMzBqN0lGQlRyNXRta1o1X0l2czBWS2l3TEFrVmdxWTB2ZnJB?oc=5",
+     "fecha": "2026-11-17T20:22:55Z",
+     "medio": "Sernapesca"
     }
    ]
   },
@@ -258,6 +258,36 @@
    "nombre": "Mundo Acuícola",
    "items": [
     {
+     "titulo": "ADL presenta avances en detección temprana de P. salmonis en SRS International Conference 2026",
+     "enlace": "https://www.mundoacuicola.cl/new/adl-presenta-avances-en-deteccion-temprana-de-p-salmonis-en-srs-international-conference-2026/",
+     "fecha": "2026-11-19T21:08:34Z",
+     "medio": "Mundo Acuícola"
+    },
+    {
+     "titulo": "Control de polvo en plantas de alimento: un desafío clave para la seguridad y eficiencia de la industria",
+     "enlace": "https://www.mundoacuicola.cl/new/control-de-polvo-en-plantas-de-alimento-un-desafio-clave-para-la-seguridad-y-eficiencia-de-la-industria/",
+     "fecha": "2026-11-19T21:04:26Z",
+     "medio": "Mundo Acuícola"
+    },
+    {
+     "titulo": "Quisimos dejar de hablar de salmones para ver cómo lo están haciendo otras industrias en la adopción de la IA",
+     "enlace": "https://www.mundoacuicola.cl/new/quisimos-dejar-de-hablar-de-salmones-para-ver-como-lo-estan-haciendo-otras-industrias-en-la-adopcion-de-la-ia/",
+     "fecha": "2026-11-19T20:58:23Z",
+     "medio": "Mundo Acuícola"
+    },
+    {
+     "titulo": "Corfo Los Lagos abre postulaciones al DFL-15 2027",
+     "enlace": "https://www.mundoacuicola.cl/new/corfo-los-lagos-abre-postulaciones-al-dfl-15-2027/",
+     "fecha": "2026-11-19T20:46:46Z",
+     "medio": "Mundo Acuícola"
+    },
+    {
+     "titulo": "Consejo del Salmón impulsa diplomacia empresarial en gira presidencial por Asia",
+     "enlace": "https://www.mundoacuicola.cl/new/consejo-del-salmon-impulsa-diplomacia-empresarial-en-gira-presidencial-por-asia/",
+     "fecha": "2026-11-19T20:37:07Z",
+     "medio": "Mundo Acuícola"
+    },
+    {
      "titulo": "Blumar financiará atención especializada gratuita para 30 niños y jóvenes con síndrome de Down en Magallanes",
      "enlace": "https://www.mundoacuicola.cl/new/blumar-financiara-atencion-especializada-gratuita-para-30-ninos-y-jovenes-con-sindrome-de-down-en-magallanes/",
      "fecha": "2026-11-19T18:04:08Z",
@@ -286,36 +316,6 @@
      "enlace": "https://www.mundoacuicola.cl/new/congreso-agua-mar-reunira-lecciones-del-virus-isa-y-nuevos-avances-en-srs/",
      "fecha": "2026-11-18T18:31:57Z",
      "medio": "Mundo Acuícola"
-    },
-    {
-     "titulo": "Sudvet expone avances en bienestar animal de la salmonicultura chilena durante la COP31",
-     "enlace": "https://www.mundoacuicola.cl/new/sudvet-expone-avances-en-bienestar-animal-de-la-salmonicultura-chilena-durante-la-cop31/",
-     "fecha": "2026-11-18T17:55:31Z",
-     "medio": "Mundo Acuícola"
-    },
-    {
-     "titulo": "Camanchaca apoya programa que ha formado a cerca de 1.500 mentores comunitarios",
-     "enlace": "https://www.mundoacuicola.cl/new/camanchaca-apoya-programa-que-ha-formado-a-cerca-de-1-500-mentores-comunitarios/",
-     "fecha": "2026-11-18T17:49:19Z",
-     "medio": "Mundo Acuícola"
-    },
-    {
-     "titulo": "Pesquería de Krill Antártico recertificada por el MSC",
-     "enlace": "https://www.mundoacuicola.cl/new/pesqueria-de-krill-antartico-recertificada-por-el-msc/",
-     "fecha": "2026-11-18T13:05:21Z",
-     "medio": "Mundo Acuícola"
-    },
-    {
-     "titulo": "Consejo del Salmón valora impulso presidencial para destrabar habilitación de plantas salmonicultoras en Vietnam",
-     "enlace": "https://www.mundoacuicola.cl/new/consejo-del-salmon-valora-impulso-presidencial-para-destrabar-habilitacion-de-plantas-salmonicultoras-en-vietnam/",
-     "fecha": "2026-11-18T12:25:06Z",
-     "medio": "Mundo Acuícola"
-    },
-    {
-     "titulo": "Una protección lobera más competitiva para la acuicultura",
-     "enlace": "https://www.mundoacuicola.cl/new/una-proteccion-lobera-mas-competitiva-para-la-acuicultura/",
-     "fecha": "2026-11-17T23:11:06Z",
-     "medio": "Mundo Acuícola"
     }
    ]
   },
@@ -328,12 +328,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlRKNTd3QVZVSnNHUDA1QW9qbjRrdlJXeG9mX1dmTkVTV3ZrMkVaZkllMzJ0R3pVRWpIMUppRllFQXdmNnhIX0oxb1p1ZlNFOXVFTTBwQzVKbkRzT0hMQnZWLVFTZ0paRjlucmRKakxXV0tuMW1yVm9vTVhKaElWdGtrUHZ2X1hRbkZKMXFDd1dEOC10ZXBoZkhvY2lDX0h6WmtjS0Z4alVfTW1wVV9WSnBOOW43WkVILTdpY1U5Q1hmS1BqRkZz?oc=5",
      "fecha": "2025-12-29T08:00:00Z",
      "medio": "Pontificia Universidad Católica de Chile"
-    },
-    {
-     "titulo": "Caleta Llico destaca como modelo para la pesca artesanal del Biobío",
-     "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd255dng3Z0FBSVpaQjhCUGpndkZKY01qYnhHU2pDWkpMbXZXOHdNS3psT2VIdXl1RHZwSDhhQk51VlZKZXE1TkFFcFNFaUZvNDNzM0RXU3M2bnJqak5xblZaNlhySEJjMXh1VW9KNFUxQ3FlcElWcHRvVXFiMktJSDUzb2hnbTRmYWVPa2lEOGxFRzAzcTJIRS1rY3l0MVVOUXFV?oc=5",
-     "fecha": "2025-12-09T08:00:00Z",
-     "medio": "Mundoacuicola"
     },
     {
      "titulo": "Sindicato de pescadores y mariscadores recibe concesión marítima para administrar caleta Coloso",
