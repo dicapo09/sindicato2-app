@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T11:33:47Z",
+ "actualizado": "2026-11-19T13:56:12Z",
  "fuentes": [
   {
    "clave": "retail",
@@ -72,6 +72,12 @@
      "medio": "Perú Retail"
     },
     {
+     "titulo": "Más de 500 empleos generan los tres nuevos supermercados que Walmart Chile abrió en el último mes",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU01XM1lQODhab0ltZGd1bmk4SW5uQlJoalA2VXFoT1NCSkVmTFZmWFYtWEVxRERBSHZ4eDhjVVZLbFhsd2VMU29qMnVRMzI5dEp4ejVxMUxZOGdEbWRCaUJKam9Idkp1VUtTUzVveW1laUx2YWJIeFBtWXltYkhUdHVMN1c1dmZvVUh2dXp3elNsTjUtTHVIcHlrazQ5QklnckE1YmdZeFQ2VHhBM3cwQjRfb2xBaGpUcHdKc2NIV3R3SlJCWTdkWUN6cw?oc=5",
+     "fecha": "2026-11-16T20:21:42Z",
+     "medio": "G5noticias"
+    },
+    {
      "titulo": "Más de 500 empleos generan los tres nuevos supermercados que abrimos en el último mes",
      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJvbXdzVlVma3BEY0VpZVBZejl4VTNOdFMzSS1fR0VZdW45SlF6VWxNZEJHSmh3cmU2bllrVU1fdlFKdTVKSVBjTTJmbVU3dy1BWWJVbENHWTJUT0FWektGN0EzNHBWR3RFQXJlY2ppbzRKUGlwQ0lpV25GaGlUdlRnNWNsZkR6RzJXUk13djlvWUg1R1Uya2c0OWtsVmY2RTlvMjIxWTFXZWVsOFVqRmx3dUE?oc=5",
      "fecha": "2026-11-16T13:59:06Z",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWhUNEljaVpWMjJfRV80UVN2VmM4RGg1WGFNeWl3d2pQRDRRTDFYUno4d3J1X0I1V2xpb29lRFRaLXJwUmFZOTV1V3I1Skhiek5hN3dCWk9WWjBFQ1dmaDZlOU45eDVRZUxqRC1uQ0JVQ3ZZNkFpakVaZ2RiWUY5andKZHhJVm5lbGRUZlJXWHh1RUtRU3lUVDN5S19VNkRQbmNkLW9OQTNqZ2dMQkE?oc=5",
      "fecha": "2026-10-27T07:00:00Z",
      "medio": "Walmart Chile"
-    },
-    {
-     "titulo": "Falabella Retail: perfil de Cristóbal López, nuevo CEO en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWEVxVUpId1pDN0VETDdKQ3JMTDF0VHJCQU5GckZ5M2Q0ZTljc1NlLWlPLTZDLXBUYzZXcnpBMUpGMG9adEstelBKUkdmeXI5RUJVbzZZMWpPZC0zbGVwVjFKYWZwYVY5cTZXWWZhcmc2SmxjQXBRd1U1UnM?oc=5",
-     "fecha": "2026-10-12T07:00:00Z",
-     "medio": "Ex-ante"
     }
    ]
   },
@@ -372,16 +372,16 @@
      "medio": "Teletrece"
     },
     {
+     "titulo": "CÁMARA DE COMERCIO DE LA ARAUCANÍA VALORA AVANCES MUNICIPALES CONTRA EL COMERCIO ILEGAL Y PIDE PERSEGUIR A LOS PROVEEDORES",
+     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUkZuWWMycEYtRDVpcDJnQzFDbk4yazNnaUhlQTQtaW9Qc2tfY2VkMG0zWlFBWEFzc3ZvYzFNakhtMTMyZ29ibExubGRhdzhDVnlyS1drS2lwVmNPNGpBcjd4RkdrZUNCUExKbjZwUVlHODIwMU9EVUxiT09jbUoxcVYwUVVtLUF4SDI1OUVwU3FnM0RsaFFIQUxKZ3A4alRpMERFSnVZVURSN01XVnV4Yk02ekZwaXNkanNVQjlKUGJrSDd5SEhLMFFISVJIaXhPeE9TQ29iTkIyZXR6T2dNZl9yeWZHNEdFT2k0c2ZwVXJ4VU5WQ2NXeV84cw?oc=5",
+     "fecha": "2026-09-13T19:31:11Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
      "titulo": "Temuco: Operativo contra el comercio ambulante dejó cinco detenidos y ocho guardias lesionados",
      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZE9wY2xVa28yd2d1cjMtR1hYdEZCNnJUNVNWZjg1VXk0eXI1dXVrRndBYTB4T0VTRHRfSTdQckc1Yng0bjBSMmdGZ2R2ekw2Q0lkVmtzVlRyblM5RDE3b21YRFBYY3NITzI0YnE4Njd0cHFyMWM5S3NJSEhLOU5JVFRTcmt3TllzZDVTcHh0bDdQay1aeGppTm1EZGNTbVZzZzNDM05JZ0EwUXNkZDNJbWhrSjl4S0hCYXA2MVVaRU53bGdNVGwtQjYtTFlSOFJhWV9DZHNQYzYxb1ZtMDRHeXBCN2lrQkhMY2Rz0gGMAUFVX3lxTE0xWVh4R2FWeXp6TVI0Y1E0RGNyUjVmbmV3YkowRXhEMHhtY0F1cTQwemhoVmh2WUxId2Y4ZUF5Y2Z0ZlNyOF9CZklvMk9iZWRiMlZBRGZjbzZZZGNQbkw0SlpMMnpxeG1uVU1CZmhIRWtwd1VNOVFkTWFIZ05qMHAzaVMyNmZYVm9mRGZ4?oc=5",
      "fecha": "2026-09-01T07:00:00Z",
      "medio": "Cooperativa"
-    },
-    {
-     "titulo": "Clan familiar dedicado al comercio ilegal agrede a inspectores municipales de Temuco: hay 5 detenidos",
-     "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOHFHRjZjelNwbjJFcU1DbEdBSDA5WEJUc2U3VWt3cWtUdGxuQjJ1a0puWC1rcUxocDZ3RTViUkF6UVc3ajRpOTZyTWEteXRhaGhnOWx3dlVHWGl1THk1SFZiMkVaMlJBeTFWRk1MWDVualNYZk5aQ29kU2taUU0xcEY1Yi1aWTAwX0h1SjZhNkpEVjRiRXozSjJuMm5mVVlpZG9CMXlSV3lyN2RQT2VnUElHSUpFeEVkZzlZUFpITC1uOW1tYy1WZnhRQVVqZlB0MzJmMHAzRVdCSE9uZXlMRU5MVHlXYnoyYTZ2YmpwOW96TG9OdFM4V3lnRHNjZUFJdUpneDhoSkk2UGIycDVHd0dSTQ?oc=5",
-     "fecha": "2026-09-01T07:00:00Z",
-     "medio": "BioBioChile"
     }
    ]
   },
@@ -408,21 +408,9 @@
      "medio": "Canal 13"
     },
     {
-     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
-     "fecha": "2026-11-16T13:14:42Z",
-     "medio": "Soy de Osorno"
-    },
-    {
-     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
-     "fecha": "2026-11-15T21:03:47Z",
-     "medio": "CNN Chile"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
-     "fecha": "2026-11-10T15:13:28Z",
+     "fecha": "2026-11-10T08:00:00Z",
      "medio": "EL PAÍS"
     },
     {
@@ -477,6 +465,18 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
+     "fecha": "2025-01-15T17:20:30Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Los 100 años de la Dirección del Trabajo en Chile - Aporte al Debate Número Especial",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMXZIY1dKSS1DbjEwZkJPWnc1Sl9TS0JrSFdDUnBPMUx4cE0zUDNKME80Tm5hZHBCRlVpcnN6cDd0QXgzeERJYUk5dm9JVzMyV05FY0xaNjVxdXVZaDlHUWZFVHZYVWM?oc=5",
+     "fecha": "2024-09-30T07:00:00Z",
      "medio": "Dirección del Trabajo"
     }
    ]

@@ -1,10 +1,34 @@
 {
- "actualizado": "2026-11-19T11:33:54Z",
+ "actualizado": "2026-11-19T13:56:22Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
+    {
+     "titulo": "Frutas de Chile refuerza estrategia de promoción en Brasil para potenciar el posicionamiento y consumo",
+     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaUVUVUJNSWRiRWxqV1BPcV9iYU5IMnNBeEw3cGNRR3RTaEJRcTAycnloQ2hOSVhTUTFuNDJpdnBBUUdPV2xsa0hnNER4cHRCQ1IwNWhlemE0eVAzMHFBbUIxbE9COVlvZVdMSndVUkVzZjNmR0pVMlhyZzV1V0lBOVRTb2xKU1F4ZGRVTFRYcmRHd1gwQWd2NDZVcG9lTHcwZGk1WGh5cm8wdFBoRVlMVjkyeXhicGluclJhekpyWWtrbTdBOFAyd0VjUDRDSWRuekZjeDhlaU4tTG9rd0E?oc=5",
+     "fecha": "2026-11-19T12:46:38Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "INDAP DESTINA MÁS DE $2.182 MILLONES A PROYECTOS DE RIEGO EN LA ARAUCANÍA PARA FORTALECER LA AGRICULTURA FAMILIAR",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ0ktV05BR3QtNkd5QkZtaEFOVVhKSnZLV2JtLTAyVlhVSkJXR0t1SzY2SlR2eTNyMmFNS3o3V0ZfRml4eWhKUFZwOUZJRUlyMUZ4QVpyUEFlMk5nLVpKdXlvN0IzY1hJWUZ6WExUM25WWld3V0NQMFhiRFBDcjQtTWdNQUFFWVZCVXV3ejNiY3Zwc09FQVNXMWE3OERGRzVTeGVaRXpadE5pUVUwY1FhbHNvWlBzQlp5MndJbmNCdFdLc3FkVUUtMkhPMWxfSktGbTNuVWZibUJkQ0hjbm91SHhOYXBWc0R2WGFWYjNn?oc=5",
+     "fecha": "2026-11-19T12:34:58Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "Ipsos Chile: “Somos uno de los países que está más preocupado por el desempleo en el mundo”",
+     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPXy1xSnBPUUU4bXNCdjRnRktQSHhKTHNhTVVfVnJYMVI0ZVZmTGpvcWVvZllRcC1lMlVXZXZFa0hlYjVrMlFQWkdKYjZKZ2RhbFJHdDl6LU90ME9VSDhOSEVfaUtIZGt5UHVIZS05MTZTcU1Cd3ZLZWN6bThKaEk4TEY3RkF4Y0Mzb25uY2ZPcnhjdDBVai1KaU9RbkdGdk5jZU1yWVNrZ2NHWkNHdTlPWkJxb1JjOWdDLWs2YmRtRU81WVFJby1OUEN1TGYwZWYyZFRTaUNVWFVqeEE2RkJVd0JR?oc=5",
+     "fecha": "2026-11-19T12:16:21Z",
+     "medio": "Radio Agricultura"
+    },
+    {
+     "titulo": "La fruta chilena busca superar las trabas para exportar a EE.UU.: qué está en juego",
+     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ3RxT2RmNVd5WnJSN2ZSekx5bnpUODVQWWFqbkh1OWhDUlp6REozcHNyeTBZbVQ4VGtyZE1FS21EV0h0bWZDZUYteHJlUmJOTUNYcHZjcWhiV0c0a3ZPSG5WeGQ3TjNQVmZNbTZZYmpGZEJmSnd5SF9heDRoYkRneEc2Skh5UHdpRlJhWGhYNkJqWDZITFZ4MG96N3VoNmw2UU5tQTEzWE94OUV4V08tbkpQMzJjWWlWX0pDM2lqYUNrbWtqNDluYzJZQW8?oc=5",
+     "fecha": "2026-11-19T12:12:46Z",
+     "medio": "AgroLatam"
+    },
     {
      "titulo": "VINOS, CERVEZAS Y LICORES CON IDENTIDAD LOCAL LLEGAN A EXPOMUNDORURAL DE INDAP EN EXPOSOFO",
      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeFM2N2RCU0xBWDF3d3ZORXdNNTcwaEgyejFYNm1Ea3R1dTJwdC04M01UV0x5SUpoNmdOSWRfNFppWllvLUQtYTYydThKbGMzbGtmc0VaNnVnSjUtRUxjZGtOZjktN2FtTzUtRmR5bEhBQWxnbGFjUXZOeTJGaXNCdm01NUVXTldlRFVlTkx5N0ItUVRRZmZGeFRfWnNrRlFER3Vla2ctSno0LWFvckJjQVFyQW9GYS00WWZIZ2VXVDhXNVBwZEU1NkZNVDlPXzQ?oc=5",
@@ -34,12 +58,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTldPTDRtWlp0OTZCb1RCajVsWjNJSC14eC0xeHZsYjY0V1lHY0N5MktFMDdWcE5BR1U3TXlYYVFEVktUa1Q0YWY0b3hMRXlnd0g5ZXJXaXVKUmMxX2JLUUV6NlFFTGFybkpCQnhlbHI5OWhGWEFBTXdIMExYdUoyRFpaV3gzdng3NW9ZS3lCcmdmLXQzbXEtZUZUUzZRQTdSN0tvYXF4RlZZMlBzbkhQOHNEc09RN01iNjYyc2d3aGRnZjlXV1h1WDRUTGpuSldTY2RNeWRiSGU?oc=5",
      "fecha": "2026-11-18T21:15:05Z",
      "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "INDAP destina más de $2.182 millones a proyectos de riego en La Araucanía para fortalecer la agricultura familiar",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUG91cnd4RTFOUXFNMEc2VDF3RVg2ZTBWMUR0bGFtX2NZRG80c2Q2eWdxLXZKT0Rua1pUT3NwbExmMEJ4ZEhYdVJoUEo2cFNsOVdqZnliUnlqRUFqdF9ZUWNET0tmT2lvNTF1RnhjVjU0YmV0QmhQS1JUYzRBOEY0UVNibDVYZXlTZmEtd3JMVGk2UzRyaWtXTElUbnJPR0I0WlFLRGVVOWxENTZvaGxFVC1jU1lYQzNzX0IzSUc2cw?oc=5",
-     "fecha": "2026-11-18T19:24:40Z",
-     "medio": "Indap"
     },
     {
      "titulo": "Ministerio de Agricultura evalúa afectaciones por aumento de caudales de ríos en la región",
@@ -76,24 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXpSTW5taWJSaWZHQjNGc19vOEhUdnZ4UzctdjJ6NkhUQTFaamNDMWg3QmdPUklfTlRsYVhMak9RQ2VPQUh0NEIyVUg1NWxYaFVfN2tUTG1CREJPV3BCNHgyb0xnU0ZTcHpValQ3WF9rM2dZX1BpU1U2WEJWb0xqTjFiUlRXdGpoLUVBTjRES3dDQjBTMnE5cTh3ckk0cE9VaDQ1SUx4ME50NkJCUktIM1M4N1c3ZjFPQnBIZmpMVlhfck1fUEdZYzM0ZXk0aE9qRWc?oc=5",
      "fecha": "2026-11-18T12:14:19Z",
      "medio": "AgroLatam"
-    },
-    {
-     "titulo": "Sofofa destaca gira asiática de Kast: “Chile no puede perderse estas oportunidades”",
-     "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ0pwNHE5eUxpQTVmR0ZiSTN5WW5SQmNFY3o0WXRuU0pxS3VPOHRQX0lweWoxY3FXbXl2NllrRFFRNFIxcGVsUm54SUVNMHU4dFloTlR6WTJFODRTUjhzWUc3MVh6ZkRhbWxnNmY3dXlNVk1TRE9xUktlNEZoaGhKYTdTS181aHJPajJEY2Q3Y2tMS24tZmVtbWJLZEFkd1BtRzNEejJjVnYtLVZhWVJXVEl3ckpSN2NGUFBPbm5oc0ZFRnBhUjVSb0xZT3hXeTZOMUFXc2VTSQ?oc=5",
-     "fecha": "2026-11-18T12:03:14Z",
-     "medio": "Radio Agricultura"
-    },
-    {
-     "titulo": "Intercambio internacional, cooperativas e IA: Estos temas y más estarán en el Encuentro Chile Agrícola",
-     "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTc4Z2QySjRTZE1SWnJENUp0UGVVeGYwdmhSNzRVR1VUOThTUWZCcnZ3SlBUQ2s3c09IVXBZSDA2eUpIb0tvNm5JTkpoMVBzeW1BcnVkUExPUHpINExwcGNQTG4wc29QR2tUREUxSkUyZjBaZ3phaXUyLXl1NmhGa3NGb0lVaTFlQzJsd2xrb1N4Y2tNNkRKQTI0MldCc2Zkd1JlaVFjS1J1UWNpeXV0ZWdydWY1RnJ2SU1rV3Qwd1hQWGRGWW1DUjN2TXFLWTQ?oc=5",
-     "fecha": "2026-11-18T09:41:33Z",
-     "medio": "G5noticias"
-    },
-    {
-     "titulo": "Chile y EE.UU. exploran oportunidades de cooperación para reducir barreras al comercio agrícola y fortalecer exportaciones",
-     "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcXNacWpxTlV4WHJJQjBwUWtWRDJPTnNOa1VRRzZlaTNOUVVoRW85T0lQdlBabVNhMWo0ZXM2cHJWcGVMdm1LLXRlblRxcnl2VDNudnR1YjhWcVJOS3JkOWt6TlFCNmprQy1YV2JCN3d4SmJLR3pqSncxU29IZ3laWV95RkEtMHl4bGd2c3VDX242MS13MGs5U1pYWTBHQmNocVJweUxPcnAtM3ZDLUcybFY1SWNlNlFyR3BJQklFelBtZnphczRIdTVnRmlBckN0N2t4M3l5eHVCWk9qVDZwdWxfQ25fb0I4RUxxUzNYeFNiU18wMGFFWnNwWWtYYi1NRm15ZnFDbGZVcnEwdGlhNXdqaUE?oc=5",
-     "fecha": "2026-11-18T09:22:00Z",
-     "medio": "Diario Frutícola"
     }
    ]
   },
@@ -101,6 +101,12 @@
    "clave": "araucania",
    "nombre": "Agro en La Araucanía",
    "items": [
+    {
+     "titulo": "INDAP DESTINA MÁS DE $2.182 MILLONES A PROYECTOS DE RIEGO EN LA ARAUCANÍA PARA FORTALECER LA AGRICULTURA FAMILIAR",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ0ktV05BR3QtNkd5QkZtaEFOVVhKSnZLV2JtLTAyVlhVSkJXR0t1SzY2SlR2eTNyMmFNS3o3V0ZfRml4eWhKUFZwOUZJRUlyMUZ4QVpyUEFlMk5nLVpKdXlvN0IzY1hJWUZ6WExUM25WWld3V0NQMFhiRFBDcjQtTWdNQUFFWVZCVXV3ejNiY3Zwc09FQVNXMWE3OERGRzVTeGVaRXpadE5pUVUwY1FhbHNvWlBzQlp5MndJbmNCdFdLc3FkVUUtMkhPMWxfSktGbTNuVWZibUJkQ0hjbm91SHhOYXBWc0R2WGFWYjNn?oc=5",
+     "fecha": "2026-11-19T12:34:58Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
     {
      "titulo": "VINOS, CERVEZAS Y LICORES CON IDENTIDAD LOCAL LLEGAN A EXPOMUNDORURAL DE INDAP EN EXPOSOFO",
      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeFM2N2RCU0xBWDF3d3ZORXdNNTcwaEgyejFYNm1Ea3R1dTJwdC04M01UV0x5SUpoNmdOSWRfNFppWllvLUQtYTYydThKbGMzbGtmc0VaNnVnSjUtRUxjZGtOZjktN2FtTzUtRmR5bEhBQWxnbGFjUXZOeTJGaXNCdm01NUVXTldlRFVlTkx5N0ItUVRRZmZGeFRfWnNrRlFER3Vla2ctSno0LWFvckJjQVFyQW9GYS00WWZIZ2VXVDhXNVBwZEU1NkZNVDlPXzQ?oc=5",
@@ -112,12 +118,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFk5b29raERUcmYyUTRySmRGSGNhM09KczhVWlFaaXJoanRaUl80QmxlMnJnd0tGME5lTUtCbUxmR1ZOajc5YVFTaEo0ajVka0s2S043cmxvQXJKVlVlODJNcFU4X1RQLXBIZm9UUzBoc2pCVDAtYkV2RXRQcG9TWGZjdG56clc3QW04bjVRRFAwLUE5bnpqLXpHV3BjcmsxNDVZdExpa3dTSlB5a2w4RnE5WC1hM2FXS1ROYmNFRHY?oc=5",
      "fecha": "2026-11-18T23:54:35Z",
      "medio": "Temuco Televisión"
-    },
-    {
-     "titulo": "INDAP destina más de $2.182 millones a proyectos de riego en La Araucanía para fortalecer la agricultura familiar",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUG91cnd4RTFOUXFNMEc2VDF3RVg2ZTBWMUR0bGFtX2NZRG80c2Q2eWdxLXZKT0Rua1pUT3NwbExmMEJ4ZEhYdVJoUEo2cFNsOVdqZnliUnlqRUFqdF9ZUWNET0tmT2lvNTF1RnhjVjU0YmV0QmhQS1JUYzRBOEY0UVNibDVYZXlTZmEtd3JMVGk2UzRyaWtXTElUbnJPR0I0WlFLRGVVOWxENTZvaGxFVC1jU1lYQzNzX0IzSUc2cw?oc=5",
-     "fecha": "2026-11-18T19:24:40Z",
-     "medio": "Indap"
     },
     {
      "titulo": "Expo Mundo Rural debuta en EXPOSOFO 2026 con 50 productores campesinos en Temuco",
@@ -170,7 +170,7 @@
     {
      "titulo": "Senador Becker alerta por impacto del paro de camioneros en las exportaciones de fruta de La Araucanía",
      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTVZcXRPTzUzZmNIR01nZDNQY3dIM21kSlQyQ2dFdVVkcnAtRktsZlpLSk1hWnRibTlkQndVLWRNVkRwYS1jSmFwUnlxVktJclNrVTkwR0xlWnJWYnQydTlaZDhPNWxXT0FFemwyazY3UUFuN0R1STExWFQydUNDNTFuTHI?oc=5",
-     "fecha": "2026-11-12T13:39:59Z",
+     "fecha": "2026-11-12T13:39:14Z",
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
@@ -408,21 +408,9 @@
      "medio": "Canal 13"
     },
     {
-     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
-     "fecha": "2026-11-16T13:14:42Z",
-     "medio": "Soy de Osorno"
-    },
-    {
-     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
-     "fecha": "2026-11-15T21:03:47Z",
-     "medio": "CNN Chile"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
-     "fecha": "2026-11-10T15:13:28Z",
+     "fecha": "2026-11-10T08:00:00Z",
      "medio": "EL PAÍS"
     },
     {
@@ -477,6 +465,18 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
+     "fecha": "2025-01-15T17:20:30Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Los 100 años de la Dirección del Trabajo en Chile - Aporte al Debate Número Especial",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMXZIY1dKSS1DbjEwZkJPWnc1Sl9TS0JrSFdDUnBPMUx4cE0zUDNKME80Tm5hZHBCRlVpcnN6cDd0QXgzeERJYUk5dm9JVzMyV05FY0xaNjVxdXVZaDlHUWZFVHZYVWM?oc=5",
+     "fecha": "2024-09-30T07:00:00Z",
      "medio": "Dirección del Trabajo"
     }
    ]

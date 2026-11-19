@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T11:33:50Z",
+ "actualizado": "2026-11-19T13:56:15Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -10,12 +10,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN25FdmNETFdnX2hQbGtXS1E0ZldFUW1TVXRIUE0xZllHOTJhT2ZjZVJCTnVLQVBZU1dXR2Q3aTVfWU5Mbk5WSmEyLUdiYUxpVTBzYjM1SmFFZ3FiZzdBZTR0SjIzdDR5WVRHQWVPQVFwYkFEVkJ3Umg0eUliTUpsMUdCR0ZMYkZzbWQ2WWxuQnFsNy01RnZkVHRrUjNWVEU4SW1lZk9RUU1FUThUZWUwc0Y2WkZsNU5xVkJIeXNrYzVjbmRDRHlEd05n0gHrAUFVX3lxTFBPQ014SHBkRmVIUE9vV0ZIb2tPYS1qamotam9ySEJpRUpCQmNla3NfMjh3bXkxeUV4U1U5U2FaX3drRnZfLUJkbTMzejd3V1FYZGhsYjFKOEIzTnhqNnNNc0NfYnhvd1ZBQVFVS09weGdiUnZBcm9DYU1GbXQ0Z1VWN2JkWFNVYU1yaWh0OERIamh5U3RvYjgzTDVOSkc5RW13NU1jWWZpYldZODlsUnkzanQ3anJTVmFEdHBWTU1yR1hEZW5sRDMzcm0zbTNWS2hmTnBCSDFOMWhqYklfeGFiV3N1djNONDVLcFk?oc=5",
      "fecha": "2026-11-18T18:28:49Z",
      "medio": "La Tercera"
-    },
-    {
-     "titulo": "Cambio de era: Bci reordena su primera línea ejecutiva y nombra nuevos gerentes generales",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXhNMHowVm13Y01FOEUteWhGS0VCQWdnVmZzNUVnenJFakdSNFBndkxHYk93UkJmZjdXU2NyVkhmdEY3VDE1Y0ltRi02T3NLSFBUbkZ3cWlGYk1KdWRXOS1mTXBpNjNsMDROaUVlckV2bUNZSUhMSDc1LUx4S2VFUm5lejhDOW55YjNfZndmNklEOVdGMHpFcVRvaVQwRWRWS0lveF9ZN08zbzF1ZHM4?oc=5",
-     "fecha": "2026-11-18T18:27:00Z",
-     "medio": "Diario Financiero"
     },
     {
      "titulo": "De Chile al mundo: diez años de WorkCafé, el modelo que transformó las oficinas de Santander",
@@ -94,6 +88,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNmFLaXFtV00zT21XQTJsRkhzS2s2OUlvbmpUUC12cHQ3WU5YbENuSWppajRtV1l1TzZrMmwtNVBLdmIzZW84UnlxU3luWUFnN19TMzFhbHAxRncyNGJ5Z0RKRDRENks0TzZJdS1NankwZ254aDkwM2dxRGsxT1F5N1pNUWVYUkp0R3dSQ2dMS3UyRm9qYUxSWlhjNnVRbHBsaVBTNVpGUnFQZEJudnVuSUVlSWU5ei1EeXRwblc1WDA4Y3NUQkFBQ29aT3BWZjhjWkt2aTNiTmdFWHF2YXpTSFJ5LWFkZFpPVFIxa0hielFyUjBhMG9Ueg?oc=5",
      "fecha": "2025-08-01T07:00:00Z",
      "medio": "Banco Santander Chile"
+    },
+    {
+     "titulo": "Chile avanza hacia una banca más sostenible 90% de los bancos ya integra criterios ambientales y sociales",
+     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZEQtX1BhMHNRM1pFWG1YWFEtUWRRVURXMUFMNjBFSC1BWUZ6eHVvSndfU2lseHhPTE1BYWFTZE1wNnYwX05ITG4tcmZRWW85SDNjejZNdDY1ZTBUMDdiemszdWdDMmhJd2xidHg5SXJoV3h1VzI3dkRTWkd5T29mdEYyaDBvTTh2MVlsTE5uNG5jZC1PM081R3UzbXA5dkpQRXE4aEVmSW9BZXlKZDJqXzVwb0RNR3dnWHJId21ySlppc2ZINVhSalB4TnNXMHY1bGlUM3UtMFVvMldRWEh0RXln?oc=5",
+     "fecha": "2025-06-27T07:00:00Z",
+     "medio": "CAF -banco de desarrollo de América Latina"
     }
    ]
   },
@@ -106,6 +106,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0xwZkFzazBwUy1kWVNBYU1tRGVNSTNKck52Qk44TWd0dXJheXp5ckNpMHBKa0w2TUdDck9fX2ZUZ2wwaU1qaFdoRlNDNC0wSVpVTUp4OGF3SkpWZ0hMX2tTcWlqd19LUDA5QTFicTBvQXJCb3VjMlBoMWxuQ0tHR1JoRHdWSmU3WXFJYkhCZ0lhMGduWC1Mc0xwRWd4Y2M?oc=5",
      "fecha": "2026-11-18T21:09:37Z",
      "medio": "Revista Mercado"
+    },
+    {
+     "titulo": "Precio del dólar subió hoy en Perú: Así cerró el tipo de cambio del 18 de noviembre",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnlod24tM1E0ckpFanptbmpNZTJzTFZkY3VNd2ZLbGt5SG03V3Aza3JGcTdRREJhVklUVE41VGZTbF9pVmdLTXJDREt1Z3Yxb1o3eVlHQ2lDRlJRanJOa09Kb1AwMGhaQ2NvMFp1UnhMblNzcmxLcU9CenVQM0oxVFltbmJMUFFiMU5tc3JIS0MyOWFiSTA1M0lvY3R4U3JBRDgxV2JmTDZYLTR3dGp5WUNJOFRfR3NmMVdZM0p3ONIB2gFBVV95cUxPNWZ6VXo4b001SHozY3ZzeElUQ2tnb1R6SVdoOUlycTE3TWNkUl82ajFBNW04RnNKNkJWWTFCMUF5UjNuVUxuQXhJakRhaWd3U3pIbDdtTDhiLUstMjVZRnlTRDYyd1hHWHVVaEFFMXE4M1N1US1xc1dESEJZeFA0VFdnNXZHUDdIMmgyRFNFbEI3eW5KQm5sUzVlMl9hd1RJSUJoSFE4ZWp3dDNQTTh2aldIYjJFbXJISTBuWkpfeXJ5TGFydDMydHZKQU1pZUJOUFVKNFBJYWRCQQ?oc=5",
+     "fecha": "2026-11-18T18:58:00Z",
+     "medio": "Infobae"
     },
     {
      "titulo": "Subgobernador Omar Mejía defiende recorte en la tasa de Banxico ante el repunte de la inflación; “No hubo sorpresas”",
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX0NlSG9UOEcxd1BLbUhVUmIzTUZTZXhEb2pPVW5FNXVVbWlUeGlLOHpfMi11M01SMWpHb1FHNGZadkRMbUdZTFA5U0hLZl9Xd0FoNVFaemM0VnJIRjBmNlpPY1RQTFFpRTJIaXhob3NuM3BoaTltaUdCcWlSRWVLNEo4Z0ptb2NRam1YTlM3Z2N4TzdtazNtNjhoaEU4eXRUOEtucnREQmlCbHlZQTFIR0tJdUxXck52eE5INU1leUpVQS0zTjhGRtIBzgFBVV95cUxNalVlcXh4bElEeTUwV3lGaldhdlU5cDEwNkgxSlVaa3hndEpqU3ZOS29SZzNfaUVsS0kyM1UyQlN6LXZSU1JOUnJvZ3dGV1c4Vkt0MGxVLWxManNoWUJZSzVUYVktZ2dpbDdBNTVKTkhGQnNBaWIyY3JhYktxVThaMEU0UEoyNFc4MEE3TmlTNlhXSk9VUVFrWDY1eWJlMlh4ZmRLRDcwdnFsbklCOXphS0NtRmpkM1hDckQ5RkVMYnNNR0xFSlFfNWdPeVI1Zw?oc=5",
      "fecha": "2026-11-16T20:06:00Z",
      "medio": "Ambito"
-    },
-    {
-     "titulo": "El Banco Central de la República informó que las tasas de cambio para la compra y venta del Dólar Estadounidense para este 15 de noviembre de 2026, son de RD$60.3636/US$ y RD$60.8132/US$, respectivame",
-     "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnb1dGdEt1azV1eGVvZTV5MDdWdklfNmhPdkJ3VHZJOUpBODNoTV83N0UyWW9faXNXYmh4RTJ6TTVCOHdOR05qMXU1N2NFZjd2VmpWQzNR?oc=5",
-     "fecha": "2026-11-15T18:01:23Z",
-     "medio": "Instagram"
     }
    ]
   },
@@ -312,21 +312,9 @@
      "medio": "Canal 13"
     },
     {
-     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
-     "fecha": "2026-11-16T13:14:42Z",
-     "medio": "Soy de Osorno"
-    },
-    {
-     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
-     "fecha": "2026-11-15T21:03:47Z",
-     "medio": "CNN Chile"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
-     "fecha": "2026-11-10T15:13:28Z",
+     "fecha": "2026-11-10T08:00:00Z",
      "medio": "EL PAÍS"
     },
     {
@@ -381,6 +369,18 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
+     "fecha": "2025-01-15T17:20:30Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Los 100 años de la Dirección del Trabajo en Chile - Aporte al Debate Número Especial",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMXZIY1dKSS1DbjEwZkJPWnc1Sl9TS0JrSFdDUnBPMUx4cE0zUDNKME80Tm5hZHBCRlVpcnN6cDd0QXgzeERJYUk5dm9JVzMyV05FY0xaNjVxdXVZaDlHUWZFVHZYVWM?oc=5",
+     "fecha": "2024-09-30T07:00:00Z",
      "medio": "Dirección del Trabajo"
     }
    ]

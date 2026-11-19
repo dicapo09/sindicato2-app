@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-19T11:33:51Z",
+ "actualizado": "2026-11-19T13:56:16Z",
  "fuentes": [
   {
    "clave": "salud",
    "nombre": "Salud pública",
    "items": [
     {
+     "titulo": "Según estudio de CLAPES UC y Cajas de Chile: Sector privado absorbió mayor demanda en área de la salud en última década",
+     "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQl9lQUx0S05ISm0xUk8xbVJrLUQ5QW90bXFoRFhPMDBMVXBrbzFRNHhsMDh4OUp6ak9LOWMyZWQ2bHBpS2twZkJwaHpPZEUzYVliVGdCQ2wzRWdtekprQ1lnV0NNVUJ5OXVjQld0b09LRE40VkUzbFBjSFd0emNMV3Raa0JjZU9FNWdJYTFPaVZUZVlhYUpmaEREdHVVOFl6SEFDLXpmVkd2Y1lzdFFMMnNKUDB1OTVlN0E4VHo1MGxNRF82OWNxeWxJelcwWHVUR25QZGpJWEFBc3RGZXBMMjRXRDdRT1E?oc=5",
+     "fecha": "2026-11-19T12:18:18Z",
+     "medio": "Clapes UC"
+    },
+    {
      "titulo": "Las Higueras de Talcahuano lidera en reputación entre los hospitales públicos de la Región del Biobío",
      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVl9QZjJMRTB4WnkzdExJYWROTi1yWU5WaWloWmwyQ09KUWt0LWIzMnhDZ1NhS001SDQ1MElaWmo5Qkd1NTdZUV9QNW55UF8yS2xwYlZvU2NKOWxBd3ZHYXRKWXU3a3czUTV2WEJIRzh1RGlFSkFDcG9MbnBocFFhMGpjal9nVWh1amhrTjVMdDc2REFrU0tZV2RYMVF2Y28zbGtEQUNhc1ZyQndiZjNnaFdZVmd1VE1md2FyNjhpemxUTEJ6dVE?oc=5",
      "fecha": "2026-11-18T19:39:53Z",
      "medio": "Radio UdeC"
-    },
-    {
-     "titulo": "Los centros asistenciales con mejor reputación de Chile en 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORENYUmdkLUI3ZHduYjhvaUxneVZtNEVPYmdWQU9Ya3FGOUpXZ3JlODRfN3M1b1NDSzZUYkdJX1Zpd3MwbUE4dGVOMGdLWnZWeFk1REFiclZSZ1IxdG40THRvVGY0QkFWUzY4c0FYYUpVdENGTlpNYk5DWWh5dWJLdUN3RV9vSXFwVW9EUnBtZUIzR01URzVFaUNsUjR5cE9XV3diR3JyWUVkTGxTTTBwejA2RTFic25D?oc=5",
-     "fecha": "2026-11-18T10:44:07Z",
-     "medio": "Tour Innovación"
     },
     {
      "titulo": "Hospital Las Higueras es el primero en la región y el tercero en Chile con mejor reputación según ranking Merco salud",
@@ -60,12 +60,6 @@
      "medio": "Ministerio de Salud de Chile"
     },
     {
-     "titulo": "Dra. May Chomali asume como Ministra de Salud junto a nuevas autoridades en las subsecretarías de la cartera",
-     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTRoU05xOVFvU09uTHNwcFVjVU5YaUU4bjlWeUtrekszSHA4RkdQcXRSZEVBSGdnYmc2d0V2R3Z1djNFTmo0RkpCMFRYdFlJSWlqQVZKYVQwbWkxb3pZZldBTXBwYVpJZ3VWbGkzMVhPMEY5STRneUp6Y2dQSXBUdE5UWU9JMVNQNEk2ejJWQzE3QW5NUlNxMjdrUjlaSTFlY3ZqTzFBYkNmekNOX1V3ODN3TEJyV25tYlVDeUFRRVlMbklWTUJUVThR?oc=5",
-     "fecha": "2026-03-11T07:00:00Z",
-     "medio": "Ministerio de Salud de Chile"
-    },
-    {
      "titulo": "Más de 11 millones de chilenos han salido de listas de espera No GES desde 2022, con tiempos de espera en sus niveles más bajos desde 2016",
      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUlFaVXZndHRqX01BYnNZZ1lmYjJnWmVUS25XODlEMWwzMEkyQUFpM1QwVTVISmdfcUdUS25vOVJvRGhucFJtNEhnYklYS3V1YjRDZ1ExSG5HM2g0QmZCUGVBeWVFOEp6TzJDZFpFSDNaR3RSblNITDZjYVJObjUxZEtKYktCdlJGVXlSbmM3c2Z2b0FOR1lKMkJrX1hhUDdMM05VeUFjcHo0b01yX1ZpOWtJS3hSVmM0bHRRS09QUzJkWXJoaXRJSHhFTVUtcEF1RzNQWFVVZVVMMUtqdlJUZzQ3bVJaeXlTUzlzV08zLTkxQQ?oc=5",
      "fecha": "2026-01-14T08:00:00Z",
@@ -87,6 +81,12 @@
      "titulo": "Ministerio de Salud presenta en el Congreso el Proyecto de Presupuesto 2026: aumento de 30% respecto del 2022",
      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NsYmt1ZmM0YWlCeGJKMW96VzA3RTdRSHhGc1RsZDZlZmJzTkJyOXVESW1aTEtnazU0QlJ0Wm9DRkxTNVZleWRTMDhmdmlXVVh2NDltNDV0QTJ1bGtYbzNMYzlnY1BQUUdva0VMV0tCSVpNTS0tRGhKY19KMUhWcVNYNEhTZDZDMS03UDQtQmk4MjRCWWVFOFVVUTB3aVFPRjhIYVJaYU9ZQWxoQmtlNm9tYWdrSWR5bE1ELUNlV3lFYkhVaGZhN2Jn?oc=5",
      "fecha": "2025-10-09T07:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    },
+    {
+     "titulo": "Gobierno impulsa primera Campaña Nacional de Salud Mental en la historia sanitaria en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjRTd1ZzTVEtQjQwOE1YYlRibzJNTnNZYm12VmxRdThWZm93TWtKTVFhUlFaX2I1MmRXZy1rM0I1SEUxREo4aDJCY1hNd3l3TnJxYmRvejlFX1FKOUFYWnJhWkcwbkZJTnFFUnNQdURBSW45TklMakFkRS15LXJTYmk0Z2tOZVV5LVAyMVhnMHNPQnRTeV9wRkZWMThmOVl4TTJCZk5jaTFzVVhjN3FUMExxY3M?oc=5",
+     "fecha": "2025-10-06T07:00:00Z",
      "medio": "Ministerio de Salud de Chile"
     },
     {
@@ -198,6 +198,18 @@
    "nombre": "Sector público",
    "items": [
     {
+     "titulo": "Fiscalía, Contraloría y Consejo de Defensa del Estado realizaron taller de probidad para funcionarios públicos",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRWlLaEEwQW1SSEplYVF0d3dYUXRXak5GZ1ZnRnl2MXQwVXhaejJsLUNoN0pSeXQ2Nl9oNWczN0t4VnRNWHFMbVRaZ2JsSlhHTVVnWnQxekRuMWpScDUtTWJIUW1HTHU5ekF6X2t1Z05nNDhsLVZ5VDZvb0NzdDN6aXRMWi1LYVA1ZkxOeGVVbXl0LXhkdS02QndsQUJRVVRKWU0xQXdSa3NIRTdEbGptLTFHYmF3TWxNbXJzcENNTER4OWdUaC12VFJOX1ozTnVkOU1hT1ozcmZPTU0?oc=5",
+     "fecha": "2026-11-19T12:46:46Z",
+     "medio": "G5noticias"
+    },
+    {
+     "titulo": "El proyecto de ley de presupuestos del Principado incluye 1,4 millones en ayudas por compensaciones de siniestralidad laboral",
+     "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVWppRnIxak94QkJVT3djR3VtczBNYk5wUWZmQ3cwRDdBOUxMSERzNU1rMXBxVm5GYUtibEd0OG5WZnRXWEVMeHVFTTdqV1pOMGtwRWlwbXY2RGVzMjA4dmVfN3N4aDlXcTJySTdoZVFrSTBXUHViaGRhTXNySENhNWx0Q08wNUNxM3M1dExmeDNPNlg3LVc1bmpSMlluRjlfYkhuZldnOVhGWWhkRXZiNlVvTUVITHFOMUF5S0J4a3IyTXR4R0xsSEtQd1VlSkFRbFJURFFsTmNvQ3ktallOR09oMXphM1hGNVB6V3NoaVVEMWphTEZIcGVqWkfSAZgCQVVfeXFMUG5BaTdXU2t4UFo1SF9uNnNSSlBDX1RFSXRIZVlYX094ZkFmYUttSXh4Qy1VSzM3b05YTnhYd2U3d1dvR0hmaGhkUUFxSVR1WWt3V3VrLU9DOXFhbHZKaDctM2JSUl9jczlJOHZpbDhORDlndkVGTE02eVBLbVhQalRWNUI5S0ZjY0J6TEtOdGM3VnU1V1BmeWNHQkV0aEo0RW8xSzNidnRWNkpUclk3NV9GWkpzUVZkMi1qX2pCZ1FrQUM5OURaQlZaR25sZ29pbUZkT2FNdVlmYW9BdWx2UU1ncmJsWDZoNElaWjR3RnNoWlp1dV9KV1N1R29yWHJ6RTV6LWtCSGxaYzdpLWI2NGRXVm90Uy1ZVg?oc=5",
+     "fecha": "2026-11-19T11:23:15Z",
+     "medio": "La Voz de Asturias"
+    },
+    {
      "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkRpNW11UnQ4S01aU3M5NkwyNVFXaWFaNHVWV0VNZERIbi14NnR3WGpncjJMamRIMEk4S1hWTE5yV3Y5VWJ5UXU5cWd0dDJ1SkN3X09aYVNvR2x5bkdPc04xUXRQME5aVVVLVHN2OUxjVlUxRGJnTm1KYTdfRjFTTGJsb0tWa0t4RXBIV0kzbWRSZF9fN3dkVGdsdFlhVno4aXo5OFJBVkdGS00?oc=5",
      "fecha": "2026-11-19T08:36:36Z",
@@ -274,18 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQmZpbjNLdkRxSHdGeUtJNGt4S21aNGJIdm1LRHlvbzJSWUp1RHRBV0dtYU9MNEl0ajdnYjVFa0FKRVdZWkcxWE9fWjlxWmk4UXdGcXRtUEpsMGVqUTNjckM4bVhNVnU2QzZUbzVLNDJjVXpSVS1kNzhRWGFLV2oxWnIyU2hFbFZOYmFSYUJUMVZzZ01ic01mNW01aEp2aXdIeHpNWEJXYmNHcldKdnQ5bG5vYXlDTDd4aExoSEp2aEJXYTVH?oc=5",
      "fecha": "2026-11-18T11:43:56Z",
      "medio": "La Región Hoy"
-    },
-    {
-     "titulo": "Ley de Presupuestos 2027: despachan primeras partidas",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHF2WWNOWXB5TFJPekVhSlRGTzUxaDNoV29zZlRKM1NtdnZycDRwSFN3MWdsblhzY3ZHV0lzMU1VdzRRWXd0eldRY3BqQnNuNW40VGNBbFVRbllVTGo4V1ozbnlPTThIXzlSSE1BQ2FaWUpxaHpfcmc5andiWDVnYjNDYW9WdlExZEpPVktlMzVFbWRMNTJqR3YyVlVzUUdTYjczT1NnVGYycHhSR180?oc=5",
-     "fecha": "2026-11-18T11:25:52Z",
-     "medio": "Diario Estrategia"
-    },
-    {
-     "titulo": "Contraloría detecta a más de 300 funcionarios públicos condenados por delitos que siguen trabajando en el Estado",
-     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZl93Y2RhYzRMZjFqdTJ3aHlFYUJ6QWxqTlU4SVRvYnpkVjctSlhQTWxWbVRNSHJQNkIybFlZNHYzT2F2ODhMMFV0bWQzNWMwWi1wdkJhVFBpWmphZDJUTEVPV1h5bVlTZEdTMXVTMUx5MTFPblQ2QVR4WUwxVGNtc0lrQzZhTlZqTEE4VHdYWUxqXzJRRjZxdldJRWVwRWdDRm5YZFdSd01mREhOeVpxTlVMV05qcm91bC05Q2hScDh0SGJtWEt5M0Niakk3Vm1SRVRBMTFIOWhQc0k?oc=5",
-     "fecha": "2026-11-18T00:03:21Z",
-     "medio": "CNN Chile"
     }
    ]
   },

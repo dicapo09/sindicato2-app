@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-19T11:32:10Z",
+ "actualizado": "2026-11-19T13:54:35Z",
  "fuentes": [
   {
    "clave": "subpesca",
    "nombre": "Sernapesca y Subpesca",
    "items": [
+    {
+     "titulo": "Pescadores Industriales cuestiona recorte presupuestario a Sernapesca y advierte impacto en control de la pesca ilegal",
+     "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbklVQnV5RmlIRG5nYzZhNGRiWUhQMEo1MC0zV1AzMVd6OHBEdXBSUDg5SlpjeXBZR2txZzdqbW44aFZNS1JzbC1OajBZUEhLNmE0UTJockt1WWFGOFJMamtBdFpGbEZlaThUYTlGSTJobmJLY3BqTnc4QUdsRTBZdXdEZlotM2JrR2NUV0wtLTJRS1VqQkx6SlVYLVRQT0U?oc=5",
+     "fecha": "2026-11-19T13:25:00Z",
+     "medio": "Diario Financiero"
+    },
     {
      "titulo": "Corte Suprema confirma destitución de jefa de Auditoría de Subpesca por maltrato laboral y falta a la probidad",
      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONTh5amJSbFVHTFFtM2FrdzFWTXZONVdfVUhFYlBVcVBuZ0M3WGJkamg5NU1wWC1GRDRTWFo4bU8wbWlEYlZjSmt0eXd1VXRJX0R1dlB4QUFuc1JqWFpJVnpkUTgtR1dYRXY5b014S2RTME5HWDlWdUM3Y2JfTEc3UVJNWU02ZjJLVGNwQjBNOS1iamc2eHFjd3ZSRGFDNDNsNUFBbTlfMzhxOHU2d1VjQ25EYVRxS0VwcTBtS3ZUS25QUmlwX2RHUnpwd0RIUQ?oc=5",
@@ -22,6 +28,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbldidVo0QkVZcDhmd1V1cm9GRTlSNmtxQ2VZVm1vV0dvQk11RXpheUFCUW5LdWZZSmZqWWswVmNVbndpMzE4VUlKVTJIeTkzTENGd0RjNzJBb29nS3B1bDhqdzVQakxMZUNsSVJyUVpQNDZSbXdMMmdJYllsN0ExcENJNGtjcU1xR0ZjdjBYd2VYV3VYc3BadFowUTJPYTVXVmtoVnBvdmRhR2RETTNrbjUtNldtbjFLT29qSk5IdjdXTWtHdVpyYjVnMDZGVGJzLTUzLWQxSDRHM0NTZ1pHcVVKLTJ5Z3Bqb19TLW9yLW41TG8?oc=5",
      "fecha": "2026-11-19T03:00:00Z",
      "medio": "El Divisadero"
+    },
+    {
+     "titulo": "Pionero en Chile: Caleta en Línea supera las 1.100 atenciones a pescadores artesanales de zonas aisladas de Aysén",
+     "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VNVVyaE1nNVVoTHJRX0ZvUTdZTWxLUTFnOVBjcE1ldlhFb0c4UWdSTTJ2ZHpuNkVaSXgyejZzQzFlLXhEZ0tIN3BSejBMQQ?oc=5",
+     "fecha": "2026-11-18T20:08:00Z",
+     "medio": "Radio Revelación FM"
     },
     {
      "titulo": "Taller colaborativo aborda mejoras de nuevas herramientas para fortalecer la trazabilidad de la mitilicultura",
@@ -66,6 +78,12 @@
      "medio": "Diario Acuícola"
     },
     {
+     "titulo": "Funcionarios de Sernapesca se certifican para reforzar controles a naves de pabellón extranjero en puertos australes del país.",
+     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcS0tdVRxNWlfa3pTNnRIUk9ibVpoeEZQZ1ZqWmZoMWd0NU9mZVFiWGJLczVHUDJ6X0o0YTI4OUlFYThaRG9URmFxSmVleDI5TXc1UUhfdnVrQWNHZkFpN2VROVJhekQtWVBlLTdIbm00eHpjZUZCWFpzRF9oSndfZVRIRklNbDBlTkRxUVR4V1ZaU0xpbVNFLWQxWWtIZHBqend2eHhfZGZzQnVkdC1QTkxlWXowOEJRTkdwUDd3RV9IMjE3QkF0WUxwN2NSNEpWajllTmZnVThMRlZqZ3ZwMzl5dUQ?oc=5",
+     "fecha": "2026-11-14T14:19:26Z",
+     "medio": "Pepe Noticias"
+    },
+    {
      "titulo": "Comenzó la temporada de pesca recreativa con captura de peces en la región de Los Lagos",
      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYzRzR3VlV3BFSGU3QTV1VmFXVWg2aFFNclpTRm1zRkgtNEgwYXZYV2IzVTNhVnlXM1VzVDFjWjdfdjNOemxrOERqZ3JidlZXUW9KTTBOdDZrbWF5ZXRqRjc3OXRhenlaLWthNTIzZ3AyT1pfeFZZeXVUR0RWbVRpWER0R05BQ29IcmRsT202Z3J4TnlZTHFRcUQ3QUFjNHJRakZIcEVBZHFUQ0ZWTzJ2SHdmNFIyYzVmVW5kZnEtZ08?oc=5",
      "fecha": "2026-11-13T19:26:27Z",
@@ -76,24 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmlaZ2ZmR0JTTGFIU1FuSE14eHYtZFRwMXF1Vk5YYm1wRW9qOF81NXFIcVl3Zm1QMnVCdXFjMnpMbmxfY2JLQTF1bmdPVFZhM0VWam5nRmYzNnU2dm44UmFrRDdGRmdWZDFaMlA1RkRVbEtDbjdFMk1GLTFFTEZQZkxDamIzak9WLTJVb0hybjFXWlE?oc=5",
      "fecha": "2026-11-13T17:36:42Z",
      "medio": "Sernapesca"
-    },
-    {
-     "titulo": "Armada de Chile y Sernapesca mantienen estricto monitoreo sobre dos pesqueros extranjeros que transitan por aguas interiores",
-     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdjBKbDlXT3JiMG91NDFicWNRaHV0Mm1PUlkyNm4wVHFZVVBSUzRNSVFqMkl4T3BnWjRveDNrRVVxMTBFVVYtbWtITGxUWmVOaXNMMUJQeUh6dFJZeDQxSUFtdlV6T1NYTXdpVV9iTDNnZGpFUUhwSF82QnNuLUF1WTdlX19PekpsTEVSZmIzekVRRWM1NEliYmdFM1ZjdTdJR2JoQVFYNi1WZlo0Y3RWdFlUdzhqeHkydkZ3aVc1ckJweFZxLVEyWHpydXNZdEE1REVwQVVuZ2UtM2dac1M2NE1jaldRSDZVNF8wdEpVMndSZw?oc=5",
-     "fecha": "2026-11-13T13:10:44Z",
-     "medio": "Sernapesca"
-    },
-    {
-     "titulo": "Pesca artesanal y fiscalización en riesgo: cuestionan millonarios recortes en Sernapesca e Indespa",
-     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNjJGdlktM0NRRVR2SjRJSVpqT1l3bDBpTVBhbVAtWFNLY0FNam9RaTJGWGplWURXeXppSTVjeFBfczE3eGN5Z0o4QVlUSG9xSkJpT2FjdFJaZEd0cnhxWU1CZGd5eWRKNS1DSDQ1MTJZbUNUcEtzWElIZHhDYUxBaWlNTTg3TmFhTUM0akZwZEliQko2VEJJMHJvOEwxOVNXelpWbGM3VE81RlRGUDVJQWZtTy1DOVhBU0M5S2dURjhzemdpZndaQnRJWXh0eHNaTWJYOTBkazFsc09BSUctX3I2X0dERTBJY3pRT2NTVzAzaE1tSlBzTQ?oc=5",
-     "fecha": "2026-11-10T08:00:00Z",
-     "medio": "BioBioChile"
-    },
-    {
-     "titulo": "Sernapesca fortalece la implementación de la Ley de Caletas y el acompañamiento técnico en la Región del Maule",
-     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTjBTNzRudExEUi1JRVh1TnBoMWFEQUZsVm9kejduNGRuZmtXREV6a09VbVdnMGFVVzctOEZNV0k1UDBSakFGZ3ZFdklwNjJ3OWdJYXVSWGtIUVg1ZFVuVnloNVcyWXRJMFFpUzBodlZ6WkpFSmF1MXhQeHplNThZcnhsXzhfdWtYS2FRYkVzYVh6NVExUHlRd212dkpEbjZIM1RSSXhmTExfNDRfTzUydC1qUlVDNHNSQ2NJU080RUhTVDJvV0VUN1BSWmg3eXdjcTFyZ2tXeHBKMUZzOEZz?oc=5",
-     "fecha": "2026-10-26T07:00:00Z",
-     "medio": "Sernapesca"
     }
    ]
   },
@@ -101,6 +101,12 @@
    "clave": "aqua",
    "nombre": "Aqua",
    "items": [
+    {
+     "titulo": "El impacto de El Niño en el océano: fauna marina y acuicultura entre los principales focos",
+     "enlace": "https://www.aqua.cl/el-impacto-de-el-nino-en-el-oceano-fauna-marina-y-acuicultura-entre-los-principales-focos/",
+     "fecha": "2026-11-19T13:00:00Z",
+     "medio": "Aqua"
+    },
     {
      "titulo": "Patricio Walker: El cumplimiento “tiene que gestionarse con la misma disciplina que la producción”",
      "enlace": "https://www.aqua.cl/patricio-walker-el-cumplimiento-tiene-que-gestionarse-con-la-misma-disciplina-que-la-produccion/",
@@ -148,12 +154,6 @@
      "enlace": "https://www.aqua.cl/valoran-esfuerzos-por-destrabar-habilitacion-de-plantas-de-salmon-para-exportar-a-vietnam/",
      "fecha": "2026-11-18T16:00:00Z",
      "medio": "Aqua"
-    },
-    {
-     "titulo": "Marcela Delgado lleva a la COP31 el bienestar animal en la salmonicultura chilena",
-     "enlace": "https://www.aqua.cl/marcela-delgado-lleva-a-la-cop31-el-bienestar-animal-en-la-salmonicultura-chilena/",
-     "fecha": "2026-11-18T14:00:00Z",
-     "medio": "Aqua"
     }
    ]
   },
@@ -180,6 +180,12 @@
      "medio": "Salmonexpert"
     },
     {
+     "titulo": "SMA formula cargos contra salmonicultora por sobreproducción en centro de Aysén",
+     "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdzFXYllzMHhPSHhZMGFuZHFrdG9kUmh1Z3JXSTNGcWtqSmdTbzlwVi1UWEhtOW5oMjEtM05scF9HM29TMFlFdnRSaXVFY1F2MFY2aEJTNEtYTUdtTWR0S1pCWThYVGpLZ2dhaWl0V0ZZeGtjS3FlVUxiZXNzU04wZkNOWXN5MHVuWXlSVUxYRHlabE1Ra3BtVU8tbXZXcmZlRzY4QVJOcjZDYU5peDZkSUtqSWpMT1hKclhKdlNtTWxtc1JONDNOMXBlQTREQnpwOUZqMw?oc=5",
+     "fecha": "2026-11-19T08:30:00Z",
+     "medio": "Salmonexpert"
+    },
+    {
      "titulo": "Participó chilena: OMSA publica nueva guía para monitorear uso de antimicrobianos en acuicultura",
      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU3JoaGllSHRRTzlpS0pkT3dhVG4xdFpLamdFQ1dBZXhzQjdRN0lDQW80TTNMYzU3ZzN5djFGblRaWEVDdGlEXzBLZXRPaEpxOGFWRkRsUUtWckRWS210WldTLWl1UFZGTUxHbTdhcEhSV3d1cHcxZnZWcFBFM2lrTGc2bDJLaWtwR1FPSXdmcDhfX2dzd2tiUnJfX3d2bFVvTm0wSE5FSUNCVFJnYjFiRG5laGEtZTdub3ZNY1FvNWszYUZnZnNxR0lhSE5uQ2lpVm80OVNOcl9ITm5CRjE0aTczVklHajAxRVM5bENiSm1rZWtnYWpDeQ?oc=5",
      "fecha": "2026-11-19T08:10:00Z",
@@ -189,12 +195,6 @@
      "titulo": "MSD Salud Animal refuerza su operación acuícola en Chile tras reorganización global",
      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYkZWMnBldmlRZ3BPM1QwQ1M3LThPeExWZTJvbWxjTFh4bDlMYmNEV3Q4cHZ6Vkk2VXpMTU1ocnV4aVZhcEFLQ0s5ZUlfT19wOGVRNnZDcmVRWTl3dUV3dC1nci1ISmFXdjlaNV85N0lQaHFkTXlpUGZNMEdiVTAwdmFsWWVaZVlZY2hDV0JxR3c3d3ZneGRqUVVDZzhSaDNOc0syYkZtQmVHRjZJTlFCR3Fjczc3QW8xVnpqMXFKaW9VVTl3MGxMbUdId2FnMGwzRnJkb1RQWFZtNnV6N2VqU3djM3hvV0p5X2dF?oc=5",
      "fecha": "2026-11-18T18:10:00Z",
-     "medio": "Salmonexpert"
-    },
-    {
-     "titulo": "SMA formula cargos contra salmonicultora por sobreproducción en centro de Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdzFXYllzMHhPSHhZMGFuZHFrdG9kUmh1Z3JXSTNGcWtqSmdTbzlwVi1UWEhtOW5oMjEtM05scF9HM29TMFlFdnRSaXVFY1F2MFY2aEJTNEtYTUdtTWR0S1pCWThYVGpLZ2dhaWl0V0ZZeGtjS3FlVUxiZXNzU04wZkNOWXN5MHVuWXlSVUxYRHlabE1Ra3BtVU8tbXZXcmZlRzY4QVJOcjZDYU5peDZkSUtqSWpMT1hKclhKdlNtTWxtc1JONDNOMXBlQTREQnpwOUZqMw?oc=5",
-     "fecha": "2026-11-18T09:10:00Z",
      "medio": "Salmonexpert"
     },
     {
@@ -222,12 +222,6 @@
      "medio": "Salmonexpert"
     },
     {
-     "titulo": "Piden 5 años de cárcel para dos extrabajadores acusados de robar salmón en Punta Arenas",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDloMVRoaFg1Y0VzWnoyZ2YtRW9zc3kxenQ2dmRlY2JkdjZJUWVHRXdjZ0VDMmx0d1NKRWZ1UlQ5bjNYOUFTeHF0N2dxWW12NFVmWmpIcmxCNml2ZVJ2Nk1oTlRDcjlrZjZER0JJQ0xpRzZ0ekM1emxBSnY4RFRRUWFRdEtGTUxDekdMSEd5dW5ZbXV3YXg4bElEV2pGY01OcUh3MjdyU09aSnI1OFRKZXJLV3ZleGE3X0NDX1Z6VWxrZG04Mmt5TVQyVS1hZzI0VDJJOXF1TlJEVmVDUDVRdDZPc3M?oc=5",
-     "fecha": "2026-11-18T08:20:00Z",
-     "medio": "Salmonexpert"
-    },
-    {
      "titulo": "ChileWeek China 2026: El salmón brilla en la cena encabezada por el Presidente Kast",
      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbDRiREU2TGZ3ZlBXZVdjaERiWHV2UXpLcFFaWmZwOUZUcmFiMVNyYlpqRmE3YUo4ejI3X2JCTGctM290WmJwV1J1RzMxSjZfdldpUFhsZW95VWs4YVozN1pqYXJuQVBPRW5wM2kyRGFpY01TSndqRjNYbVNTU09mV1lOX1g0a3VtQmh6QW9rejZ6T3NnZG82M3NxV0dmbHNtdW5WM2JSX0o0Ny1pdkllR21DalN6YWEtMTEtZXc3bnBnS2J6dUdQSVlYVTY3TTA4V3FUdg?oc=5",
      "fecha": "2026-11-17T09:20:00Z",
@@ -249,6 +243,12 @@
      "titulo": "El Niño aún no alcanza su máximo y ya moviliza medidas preventivas para la acuicultura",
      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPb2MxVURDZnZCbVF4SWVQUVhwRHdDdFptYlJ0NzhicmtoSFgxMGlTdmFZZFY4VFFKWUs4eEs4bGFEWWd4NUdvUGVBZ2xmS1I1dXJjc0lDR3pvZ1VTZkFBMlhodkQxTC14MDZjWksycWJWSjNzaERlTnpZbGtDY0lmZ0dSM1RUUDRfUUlNZkRHRER2VTBqREZ0RU81OWhQR3FFMG9CbC14RWVuWmhzOExERGx2ZHV6UDlfci1BRXExNE9vOUZ5X3oya3p0enFSWDQ5SlRrNGtoMnFxMlpNUUtfQ01SSUVuaVU1S09tMTlIcjFiU3Fob09Wbm9n?oc=5",
      "fecha": "2026-11-17T08:40:00Z",
+     "medio": "Salmonexpert"
+    },
+    {
+     "titulo": "Denuncia de Miss Mundo Chile contra la salmonicultura genera críticas en redes sociales",
+     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeFB1SUgza0dULVVUbzZRV3J1dWxXSW5jRlRDZVBzbUxGV3NicHVHakhodGJadUFuMy1aVF9VSl9lTTBPdi1XWHZiYk5WTlhnYTQ5ZDNPa2JjUUlRM3Y4allLRnBEZVZpWE1Bb1N2aVowSW1ldlhVTzMyUURNN1UxWS04YWR2T1cxSi1UaE52YzhUaF95NVEwRGJjRWw0akduVjVvSkgwX1JwQWpwQnFibkxQRTU2Z2FhT0gtSjY4MHZrOTh0V1pVa2M2OERmbXc0QVlKM0ZFUl9rMmVLS2xEeHRaM3Rndw?oc=5",
+     "fecha": "2026-11-17T08:30:00Z",
      "medio": "Salmonexpert"
     }
    ]
@@ -474,12 +474,6 @@
      "medio": "Sernapesca"
     },
     {
-     "titulo": "Operación Froward: Autoridad Marítima se despliega en el Estrecho de Magallanes",
-     "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFJUd3RrVDdPS3V4bzNaS3hTR2lHallsZmw2NVVMTnh0bDBwSWxrbGYwVG5SNV90clZvbEFaaXc5S25sTGtNZTYwZzJJM2VidFlIajFraTBvek5VaUVpN3BUcUtGdTNWb3FDb09EMG1kX2h6ZkhKdHZxOS1teVlpSURsdm0wRnhiZE00VjZqdWg4a3M?oc=5",
-     "fecha": "2026-10-08T07:00:00Z",
-     "medio": "| Armada de Chile"
-    },
-    {
      "titulo": "Aysén: Sorprenden a 7 embarcaciones ilegales extrayendo merluza austral",
      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWF5STJydENCNzlmU2hrVzJsYVpzdGliOE9VNUkweU5yZXAwUkVHNTF4Z1EtWWptbDNFR05rV01WMXpnNUdESmZwUGJEb3hoelFONjQxckZwdzhLT3Jwc3llOE03NUl3ZjNSb3F3dGhuRnJFVnhNNFVQQXV4b2t0aTBhTFBWVEN6d0FxWjVqdndNOVFxcFVHMHNUY1VyajBab2ppb2NqOUFwQQ?oc=5",
      "fecha": "2026-10-02T07:00:00Z",
@@ -496,6 +490,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOejlXTWF4Z1FqVFdRTHFSSHI4V0p1S1lhUTJxOUlOSnVuSXpTTlRYR2JsMnhBX3MxSFJudWg5MkpUaThmT25rR2pYSUR6ZWxncUMtUnE3ZlhDcjdNbmR5TURnLU8zanpQbGNYY2dTR3o3T1l5Mlg2RW5LbHhBUUhhSVMyUUx4NUFSQ0F4RGl3QlVQUzhnc0hZQ2Q1dDRlQS15NnhiQUM5NF9WTmpFeXY2NlJ6YkhWeFNfQzh3TmV5NkpYd1ZvMVVNdTdjdUFUSTdGSlBhdXM5Y3hjeHhRV3Rja2w2ZkZyb0RlYUE?oc=5",
      "fecha": "2026-09-30T07:00:00Z",
      "medio": "Salmonexpert"
+    },
+    {
+     "titulo": "Sernapesca toma medidas ante detección de virus ISA en la región de Aysén",
+     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOczBHS3ZzSjdONnZZV0xCVGRrMXI2U2JzSXE4dFdXU2YzdDB5bFpqaFI3SGJ6ZEc5c0hQQWJwQ1JCLXFoeXRNbHVwS2pFbC1EMERXUzZVcGg0OU4zLTRrZ1RTT3BQRWVJaUJGNkxXQUdhN1lDMWNGS01GbDlrR3lTM3dkZkpIdTEwMFFabF9wTkU4ZHFpeEhybTVUV2l0c0hqZnctRFNvc2VXc0p5VGc?oc=5",
+     "fecha": "2026-09-24T07:00:00Z",
+     "medio": "Sernapesca"
     }
    ]
   },
@@ -514,6 +514,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN2t4LVM4OG9Jb1BESkxzRlZWTkFwNjljdUw5dExKSE9hekpvYWxMVXRVNDlhenlZRnZ0dzF6X3RPUkRqTWxQbDZLelM4ek16MmpYNVZQb3ZKQ01QZFVzbkgwZFZjako0OVc3dm9MOFNYbjBGNFBDem1GR2JDZFNmX3ExazlVU01WeXZIQWVEZEVKVDBEdzVLTzFvbFBOMjJrZldkaVYtRWwzTkYyNTIzS21n?oc=5",
      "fecha": "2026-09-29T20:57:24Z",
      "medio": "Mundoacuicola"
+    },
+    {
+     "titulo": "Conapach rechaza dichos sobre venta de pescado en la calle y defiende a pesca artesanal",
+     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQW0xWWNheElrZlcwRnNiSmxwY2FoYkNMcTdQVG9KOEJCeFdQQkJVUERaWmJLbEVvQl9JNFVrSXowX0RMZUVQc3Q5Ymk5cWhoZ1REallQcmV0VlZiUk1XLWI2ZnFFOUp4ZlFJUGJidW01bDhqRnVXcFRRTzdCd2ZTM0pOdFdETGR1TnJGZnZWd01OREtaZTRQLWp1Q0I0Rk1RUHlNWVI3LW40VWw3?oc=5",
+     "fecha": "2026-09-04T07:00:00Z",
+     "medio": "aqua.cl"
     },
     {
      "titulo": "Sindicato pesquero retuvo barco congelador durante cuatro horas exigiendo que partiera con personal agremiado",

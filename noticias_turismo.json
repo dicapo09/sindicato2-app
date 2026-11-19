@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T11:33:53Z",
+ "actualizado": "2026-11-19T13:56:21Z",
  "fuentes": [
   {
    "clave": "turismo",
@@ -16,12 +16,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbDRvU2JZckZMQXJINFhvenhMUmZVMWZtcFZpSnE2ZnJjWlBnYjVTVFRGLXYzazdId1BLRW5OVFZraUQ1YzRoSGY1SVZfaWJqZ0s5bzRTbEdaQmhqZUxVMVluVDRVMDJsb29BVmV5Yk1hRktuZEN5bVZPWTF1MkhFazNud0tyUHhvdF9fSl96U1oyTVMxN09pS2Y3SDU3VFpkZ1p2SWpOX0tTSzVZLXFWNk9mamo3U291dTdNUXlOb1FSQlBkbHdHdkh4bkxRSWxfeHNqem5PMWx6UFRPY2x4UVhyRUhBNVk5RlFxWjc5a2UwYTBrSzJLenlxZVprUdIBkgJBVV95cUxQMEw5a3RQZjM2SWcyNzh5T19meFBKME9sVlRwQ0ZtYzJLdy15bGN2LUJ3LXdzSDdrS19WZnhQVEhEVGRrSTczaWlxbGtlYTQxbjdMQTZ4RFhVVTl3cjdJakJ0SVFneDZoTUxQbnRMbWVQdV96TjdGbjNOWVBrNFdmWktUOEFCd0lnRENjQ0F3TEQyZl9wRDZRUngyd3ppckRsRjYyOWJ3N0pabHhDUHhnVUFzc3RqaFZncUxqVG5iMU1JT3ktV1NlUl9XTi1yLTBhcDNjbXFmeDFwdklSUXA4NEhfbmdtYXZ0c2E4UFJTREZjNk1HZnlxSlBfcXNieXJwX1lQaDNZVGo1YkJqZ1haNm9R?oc=5",
      "fecha": "2026-11-19T09:37:32Z",
      "medio": "La Razón"
-    },
-    {
-     "titulo": "Llegada de turistas al país cae por tercer mes consecutivo",
-     "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ2NIZTlQUkJBNUlGaDlESUloekVzeGc3VkVTb3dXcmRwVmhTMUQxMkl1ZHFPV3JxQXBvOEd6RldEVVRkQ3lXeWgyOG1XSHFER2xkWFdXZXNsc3F3UV9scmV4LXBSSDZKZG4yRnBmZFBMYVg0Z3RFc3ZEZVhIcWUxZjQ4dGNkR2FqMzgxeFNNNjQwZ3ZocUNXTHdxQURYM2hx?oc=5",
-     "fecha": "2026-11-19T04:47:50Z",
-     "medio": "Teletica"
     },
     {
      "titulo": "Turismo del Quindío busca recuperarse con influenciadores que suman 5,5 millones de seguidores",
@@ -94,6 +88,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHNXcFZ3RUlBYVo5d2VUaUd4dlhwbHpDb2RSdUpRcGFhVjROOXVrZFBNQUhKOWhRYkI0YzlfdzJ2VFZpcnZsdEhMNUdPRlBfS2l4TUNQN3pWZG5wMVJ0bTR6VmIybVZlUElZT2Jfc3VZX0R0MTJKemxyWTU4M21QLXJ2eG9fM0Zxc2lSbWlCUXA1cHg5bGc4ZHZPNkJlT2hjWWtPbnVzT0hidzAtRUh3dEpXQTNqdw?oc=5",
      "fecha": "2026-11-16T04:23:52Z",
      "medio": "Report News"
+    },
+    {
+     "titulo": "Premios Fedetur 2026 reconocieron a quienes impulsan el turismo y generan nuevas oportunidades para Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON25WN3NPd3docXctVTVzck9oY0l1cUVzZi01eEd0VzZwRDBrMW1KaW9aQ2s3NzE1aXRCTkF5TnNVUHdCdTBhSlBBV3Q5VjQtcTVKVnY4cDQ3MVlSb1dxQkFlSWgzSVpzYlpuelhmOEVfZGRNM0ZlN3RfWVJ2MHgzbGM4SmR6NFRISHhOSldQSVN5bUVuTU1DT0s4bUdvSEZFbVlpZmg2LXduTjJ1Wlk1aTdtMW9iNExLMTYyLVJwOHhoLTB4QkdSS1pnX1hzSTdwTHJGbURR?oc=5",
+     "fecha": "2026-11-13T20:23:42Z",
+     "medio": "Chef & Hotel"
     }
    ]
   },
@@ -222,12 +222,6 @@
      "medio": "Universidad de Chile"
     },
     {
-     "titulo": "LEY KARIN Y SU IMPACTO EN LOS RESTAURANTES: UNA OPORTUNIDAD PARA MEJORAR EL CLIMA LABORAL",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYWZnM2xPNHhrTUlYZ3ZNcFJobTl2OWp6WVBSN3EzWUdUYl80cENRM2pwV1ptU3JCZHdVMjZ2bHEtajdlZVRDTEFzVmJWckJDLVZrOGhBVW9jQ2txMDlOUjNRdS04RVROTjRvc2lyNUFTWGNYSDNNOU03YTBCRjd5dWZhR0NQdVlPWGVPZjZkQWZoSWpsS2paLWx6Z3hrYmFVdGdaSWg0YlJSM0U3V3BRN0dFS05nRG9XZUFEcU1KRQ?oc=5",
-     "fecha": "2025-02-07T08:00:00Z",
-     "medio": "Achiga | Asociación Chilena de Gastronomía"
-    },
-    {
      "titulo": "Trabajadores de Enjoy Antofagasta inician protesta al no llegar a un acuerdo con la empresa",
      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbTFFQWdJMWdiNkFmMGQ1LVJWVUJxWjBTZDA5a09MM3ppZnRzalZMYXhsWDk3dDF3ckp1amFyZ244YmpQLXVYRXVuY21lQmhQSlYwLUlsc3JCN3p4Qi12UmhoVEwyVklFZWtsNUxCR096OThYZE4xYnNoNWtqa0EzdUFhcFVzNk1oNmRqdS1kZnBiZmxuODBlbjlMbmZveFN5bEVid1dn?oc=5",
      "fecha": "2024-06-12T07:00:00Z",
@@ -276,6 +270,12 @@
    "nombre": "Mundo sindical",
    "items": [
     {
+     "titulo": "La Roja recibe una visita especial en Lisboa: “Para lo que necesiten”",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmh6ZjgyQ0ZFSS1JODhWQ2h6NXV4YVNHNGcyY0l2d1dMd3FiU1pnTGQxRUZ6OTVOUTJ5ak9sa0xmQlpSaXlrN2VzV2hkaUozVVRlSjA3d3N5SGpFRnM0ODJHNkV0MjlQLVRUMllKV1phN2k5ZWs4V1BYZzJub3hRMU04eG40V090RFI0TjA3eV9aQmk1VlUyT2duaUx5S1ZqdlI5ZFRyLWHSAbwBQVVfeXFMTS1YOV9ESExoZkdFVTR1cVM0RnpIMVZNOVpRQllUeE4xRWtSSlBsSWllOEk3NVp1a2N5bzQ4dnVNQlJkTG92ZWhTelI4TUV0dTRsU0lTZ2Zabk52ZjdzMHJUNGFxYTJhU3FQYWpfX1NDeVQ2QmFyM1I1NVlUTUk5cXN0NEwzR1U0dUk2elhuVHN2ZXJKYWZkVTFLcEtoTXdDcTloa1kzZDhZeFo1bTIwaHlGa3Atd0E0THgxREY?oc=5",
+     "fecha": "2026-06-04T07:00:00Z",
+     "medio": "AS Chile"
+    },
+    {
      "titulo": "Trabajadoras y trabajadores de BlueLink Chile inician huelga tras una votación con un 87% de aprobación",
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTlvNVExdjhVRE1iMGc1ZzBtNGF5eDFRMlBDaEVzbWM4SWY3dlpZMHdTX3VhZWZtRWFvUFZVRGlqZDVIWjZqcXdDcmtVNkxtTEEzWlkwRHFFa2lmdzFQOERzbjAzYzhJdWI3VmRiNU11M2Ftbzl5U0ZtQkxfQU9ZekZBTEpGcTdnY1ZRVUcwZHFlREo5LVR2WlpoY29GMGlNd3MwazdRMUJ2cVhPSGV2MzlsbzRCSFZPaXhvSE9uRkJnZ9IBygFBVV95cUxPNkxObl9FbTExUnR4MGVSaHNvUE1raTAybFVYZjhGd0paZG5pLXhzeHA5VkZkYmtHbkNjVFhtMFJTRlZsVGF4MC1zdFNWT0dJbVlwZUZZZW1FT2JoS21CSUNyZXE4ZGdZNW5VcHhyT2trNWNkWVkyWTFRVzFrUGd3U3dYY3dNTzh2Z3lVUmpGRlVsRmY0UGhMQmM1U1ZzR1dPLTFuQ1UwZDBCOFRhWkxDeGNzX0xDRzdremR0eDlyeEo1TzdsYkJGUkVB?oc=5",
      "fecha": "2025-11-19T08:00:00Z",
@@ -292,6 +292,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3pxejBJTzh1NlVzTVhYZHB6NXgwdnBlUVlxTHdkaTVVTWJpVWFlOEdRQzNsYUdoRzJaSElyNkszWktjLXVLSVZhTEkwNDNKTUhlTUowSzdoNVl0Z19YaHJmSnJ2VnBlX3JXT2xHa29HSUEwMHBPTzY5YndSQXZWZVFDU2ozQml5aklVY3N2eVRKZDl6TW15WGkwd3htZ25GSWFrQkV3YW1uMVR0azg2RjF6bDVTZjdUdllMLTcybzRINU8yajhoU2drM3JQUHZvVWNNeWV2dTN3Z03SAYwBQVVfeXFMTS0yQ3pkbHZnaTV2QkFLdTRLUEdxNnM5UWd1cDlXR2hGcDNpTXA4R29QWFdfTEIxbFR4cDNoM0pObVN1WXhHdXY2bGd2am5RckpjXzQtV2c3VUJSUENvOEVlSDJuZGFQRzNOMUtlRUFGc0JXaTZPNU9hSGNZLVE0NXNGc1hIOVVYZDJ6ckg?oc=5",
      "fecha": "2023-07-27T07:00:00Z",
      "medio": "Cooperativa"
+    },
+    {
+     "titulo": "Sindicatos de Finning denuncian que empresa \"está vulnerando los derechos y la salud psíquica\" de los trabajadores",
+     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzN0b1AzSXpyRHduc29QcnFhUUNNNjd2d1otMVhYY1FOWjdIMURHS0NxdGQ2MEVkS3lDaGNBa0o5TkhXenRCTGZTdHNnLXZuaEpjMmtNZmFzaGtMLTRIRmk3TDZsYnhZOVlibmNfWXZTVXBGd1hYUVB4aUIxMzRCSHFlTE5WSjRyYVg1Nlh6QjBEUjlyYktsa3NUUlR5dE5GNnFvTndvY2VWZDJuQ3FUOGt3MDhwakppTGU1Sm1WN3FnYmlhbE91d0V2WXXSAdQBQVVfeXFMUEdnSVFNN2ozUVZEREdHOTg1MVdxZkxXaFNwX3RubDlqcXJrVWF5VFY3Y2VpZk5lNm4tZHJaMzlUejcxNW0yeWdjQVZ4MkM0QXBCQ09RNzZEQXhWcEFSMlYzNThNSDI0dXVLUHlwWlk5bTVvSG5oOFBKTDhpMl9LQUhZbG5GeUNqODRrWDQ5ZXhyTk13VG9ETVBYYy1NalNlZVFJODJidG1FanJ4WWVRU1NfTlJtdnh2S1MtRUx5XzhZSW5nb1NXaVBmUzZWQ1AyRzZEbkc?oc=5",
+     "fecha": "2020-07-10T07:00:00Z",
+     "medio": "laizquierdadiario.cl"
     },
     {
      "titulo": "Sindicato del Conrad en conflicto",
@@ -348,21 +354,9 @@
      "medio": "Canal 13"
     },
     {
-     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
-     "fecha": "2026-11-16T13:14:42Z",
-     "medio": "Soy de Osorno"
-    },
-    {
-     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
-     "fecha": "2026-11-15T21:03:47Z",
-     "medio": "CNN Chile"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
-     "fecha": "2026-11-10T15:13:28Z",
+     "fecha": "2026-11-10T08:00:00Z",
      "medio": "EL PAÍS"
     },
     {
@@ -417,6 +411,18 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
+     "fecha": "2025-01-15T17:20:30Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Los 100 años de la Dirección del Trabajo en Chile - Aporte al Debate Número Especial",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMXZIY1dKSS1DbjEwZkJPWnc1Sl9TS0JrSFdDUnBPMUx4cE0zUDNKME80Tm5hZHBCRlVpcnN6cDd0QXgzeERJYUk5dm9JVzMyV05FY0xaNjVxdXVZaDlHUWZFVHZYVWM?oc=5",
+     "fecha": "2024-09-30T07:00:00Z",
      "medio": "Dirección del Trabajo"
     }
    ]
