@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T13:56:12Z",
+ "actualizado": "2026-11-19T15:36:03Z",
  "fuentes": [
   {
    "clave": "retail",
@@ -306,12 +306,6 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Cámara de Comercio y Municipalidad de Temuco firman convenio de apoyo en seguridad",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkpiZE9WMXJqdkFRcTBRNHMtOV80Q0lVWWRIbVVUZTBNMTQwNklDblhsejZlelhxNWl3SEozX0h6Qm54b29mQkF1aUdYZ2xDU0w4THJObU9FdHhRRzljeFpBbzM3ZHhIS1BOOFhLWkp5STl6ZklXTUVQN3lrcEdvUWNDNWQ?oc=5",
-     "fecha": "2026-11-11T15:33:20Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
      "titulo": "Temuco lanza plataforma para denunciar comercio irregular de forma anónima",
      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTJDSkdLMU9rNDRQNTVHVmN2TS1mbUtHRnlyNGpCcDJ4MmNWaVVxMWJaQVNOYXh1Tzh1clNzSmxJZldLTmZIalFqNU1GR2hoQmJJeVNNLVVoNndBNUdhTFFJTXhvc25Ec1I2aHdOd29NNW5xY0Y1TWtVTmd6aGpOajZEOUJtU19SV29qVTVLaU5famRlT0xoYkZZRdIBoAFBVV95cUxQel9ZSFZiN0hjQ2dBQWhHcFdPN1RiV2lSNUZDS2RkRmZSYkE4S2lld1NMSDFmdDBtUHZ0TkRTdmxlSkNTRkFTSlMxYTFGVWp1eHAtX2ZhaEJ1aU0wdEdZSnBnUzhjQmhxUzdVLWhWLVFMaEktNmdjRTFqQ1BOT1RNNUt6ZTdtT2tiNTNrOGRpREd1M0czbWhnT04zUzBUc1FW?oc=5",
      "fecha": "2026-11-10T02:52:37Z",
@@ -382,6 +376,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZE9wY2xVa28yd2d1cjMtR1hYdEZCNnJUNVNWZjg1VXk0eXI1dXVrRndBYTB4T0VTRHRfSTdQckc1Yng0bjBSMmdGZ2R2ekw2Q0lkVmtzVlRyblM5RDE3b21YRFBYY3NITzI0YnE4Njd0cHFyMWM5S3NJSEhLOU5JVFRTcmt3TllzZDVTcHh0bDdQay1aeGppTm1EZGNTbVZzZzNDM05JZ0EwUXNkZDNJbWhrSjl4S0hCYXA2MVVaRU53bGdNVGwtQjYtTFlSOFJhWV9DZHNQYzYxb1ZtMDRHeXBCN2lrQkhMY2Rz0gGMAUFVX3lxTE0xWVh4R2FWeXp6TVI0Y1E0RGNyUjVmbmV3YkowRXhEMHhtY0F1cTQwemhoVmh2WUxId2Y4ZUF5Y2Z0ZlNyOF9CZklvMk9iZWRiMlZBRGZjbzZZZGNQbkw0SlpMMnpxeG1uVU1CZmhIRWtwd1VNOVFkTWFIZ05qMHAzaVMyNmZYVm9mRGZ4?oc=5",
      "fecha": "2026-09-01T07:00:00Z",
      "medio": "Cooperativa"
+    },
+    {
+     "titulo": "Clan familiar dedicado al comercio ilegal agrede a inspectores municipales de Temuco: hay 5 detenidos",
+     "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOHFHRjZjelNwbjJFcU1DbEdBSDA5WEJUc2U3VWt3cWtUdGxuQjJ1a0puWC1rcUxocDZ3RTViUkF6UVc3ajRpOTZyTWEteXRhaGhnOWx3dlVHWGl1THk1SFZiMkVaMlJBeTFWRk1MWDVualNYZk5aQ29kU2taUU0xcEY1Yi1aWTAwX0h1SjZhNkpEVjRiRXozSjJuMm5mVVlpZG9CMXlSV3lyN2RQT2VnUElHSUpFeEVkZzlZUFpITC1uOW1tYy1WZnhRQVVqZlB0MzJmMHAzRVdCSE9uZXlMRU5MVHlXYnoyYTZ2YmpwOW96TG9OdFM4V3lnRHNjZUFJdUpneDhoSkk2UGIycDVHd0dSTQ?oc=5",
+     "fecha": "2026-09-01T07:00:00Z",
+     "medio": "BioBioChile"
     }
    ]
   },
@@ -391,8 +391,8 @@
    "items": [
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTlYNXpQTVdzMnJJT3ZTY3ktcDFaWi1BWm1BMExXQW9hQkVDZDZJeldlbURFNGYxLXhSdXQ0YS1VWUIxMjh6T0ZzOF9zZGFQRGRYUWZPUFBTTldJWUtaRU5OdF9PNC1ZM3h3N0tRXzRFMWRiSnljRzZIX1NqV05WZ2N5TVJTVjQyNkRURlBDYkh3OWg0Q3ZaNTQyQTVRcjUySWVmWjlndm5JUTNQVW5oM3J2Y2s3ekU1ZEtpTE9tTnl3TDMwblpNbWQtZw?oc=5",
-     "fecha": "2026-11-18T15:23:32Z",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
+     "fecha": "2026-11-19T15:25:32Z",
      "medio": "El Mostrador"
     },
     {
@@ -406,6 +406,18 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXpmWVNTa3dsSFFqUHY0MlVXWFdwNXlzenJkeW1Od1p6QTdkYU9IU1VVRDZkRDJETE9iSGt4cnAxNVJCNmJrZ052ajRFYWZGRjlQSFFuSXFHTlVQS0Rld3VZVnBLdVVRai14SVdXbzNHR096Ykw4OTc2c1BFNkhpV3o2VXpQc1EzMlVvSzJTMXdrVVkwWnJBd0RqRVZMYnpzd0RfdXhua2dVX2Fab2FYa29PLVlpX2I0?oc=5",
      "fecha": "2026-11-16T19:54:02Z",
      "medio": "Canal 13"
+    },
+    {
+     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
+     "fecha": "2026-11-16T13:14:42Z",
+     "medio": "Soy de Osorno"
+    },
+    {
+     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
+     "fecha": "2026-11-15T21:03:47Z",
+     "medio": "CNN Chile"
     },
     {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
@@ -465,18 +477,6 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
-     "fecha": "2025-01-15T17:20:30Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Los 100 años de la Dirección del Trabajo en Chile - Aporte al Debate Número Especial",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMXZIY1dKSS1DbjEwZkJPWnc1Sl9TS0JrSFdDUnBPMUx4cE0zUDNKME80Tm5hZHBCRlVpcnN6cDd0QXgzeERJYUk5dm9JVzMyV05FY0xaNjVxdXVZaDlHUWZFVHZYVWM?oc=5",
-     "fecha": "2024-09-30T07:00:00Z",
      "medio": "Dirección del Trabajo"
     }
    ]

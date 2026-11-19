@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-19T13:54:35Z",
+ "actualizado": "2026-11-19T15:35:58Z",
  "fuentes": [
   {
    "clave": "subpesca",
    "nombre": "Sernapesca y Subpesca",
    "items": [
+    {
+     "titulo": "Sernapesca entregó reconocimiento a establecimientos del Biobío por los 10 años del Sello Azul",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVjBHaFk0V3lnVGhPbms0Z0VQclNQYVVvTEVPTk1ET3B5RUI3elpEMjlYbmRuUFdKblV3YUdpWTk0aFFoXzNGV29ieHdKanZSOEVaY2s0V0xVOUZzdjB5N2NKTmNvdnRqNXZqVERsVWJNV2NVS0c3cWh0eFZxd21fZTF2ZnpzUmkxcHlRa0I5TFVNQ1JjTThnY3ZPNUw2ejlKS0NjQnlyNHlOeEQwa0pCVEdnTkxlODNYOWVpWUN0bE9NUkFuYjVvWlVR?oc=5",
+     "fecha": "2026-11-19T14:44:16Z",
+     "medio": "Sernapesca"
+    },
     {
      "titulo": "Pescadores Industriales cuestiona recorte presupuestario a Sernapesca y advierte impacto en control de la pesca ilegal",
      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbklVQnV5RmlIRG5nYzZhNGRiWUhQMEo1MC0zV1AzMVd6OHBEdXBSUDg5SlpjeXBZR2txZzdqbW44aFZNS1JzbC1OajBZUEhLNmE0UTJockt1WWFGOFJMamtBdFpGbEZlaThUYTlGSTJobmJLY3BqTnc4QUdsRTBZdXdEZlotM2JrR2NUV0wtLTJRS1VqQkx6SlVYLVRQT0U?oc=5",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYzRzR3VlV3BFSGU3QTV1VmFXVWg2aFFNclpTRm1zRkgtNEgwYXZYV2IzVTNhVnlXM1VzVDFjWjdfdjNOemxrOERqZ3JidlZXUW9KTTBOdDZrbWF5ZXRqRjc3OXRhenlaLWthNTIzZ3AyT1pfeFZZeXVUR0RWbVRpWER0R05BQ29IcmRsT202Z3J4TnlZTHFRcUQ3QUFjNHJRakZIcEVBZHFUQ0ZWTzJ2SHdmNFIyYzVmVW5kZnEtZ08?oc=5",
      "fecha": "2026-11-13T19:26:27Z",
      "medio": "Diario Digital El Calbucano"
-    },
-    {
-     "titulo": "Intermitencias en servicios tecnológicos de Microsoft",
-     "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmlaZ2ZmR0JTTGFIU1FuSE14eHYtZFRwMXF1Vk5YYm1wRW9qOF81NXFIcVl3Zm1QMnVCdXFjMnpMbmxfY2JLQTF1bmdPVFZhM0VWam5nRmYzNnU2dm44UmFrRDdGRmdWZDFaMlA1RkRVbEtDbjdFMk1GLTFFTEZQZkxDamIzak9WLTJVb0hybjFXWlE?oc=5",
-     "fecha": "2026-11-13T17:36:42Z",
-     "medio": "Sernapesca"
     }
    ]
   },
@@ -102,58 +102,94 @@
    "nombre": "Aqua",
    "items": [
     {
+     "titulo": "Biotecnología busca mejorar sobrevivencia y tiempos de cultivo de ostra japonesa en APE",
+     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVlZhRzNVdWZoRjVYNndVdWlhdlJkMGdiYk93Y2dGNDdjMEhYcUFlQmtZNmF4QnVsYUVwZ0NhNFFOWlNXSXhWc0dLaU5FQUVuSVFKVG9uWF9rb1BRQS1VQzVRQmFwaHUwWWlrSmNmRHJPNEtYNFVhUHpmNmIxXzM1VkI2dklYZnVhaWFwcUpnd0k0SG0zT2lZNjhfR1BQY09QQ2NCUjh6amo4NmVB?oc=5",
+     "fecha": "2026-11-19T15:01:28Z",
+     "medio": "Aqua.cl"
+    },
+    {
+     "titulo": "UCN impulsa tecnología biofloc para camarón de río y pejerrey",
+     "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUmRHQzZDZWlnbE5UV0tqUHMzUE4zOENDaW1RbnI2bTlnZ0xDNjhzdXpBSHd4YnB0YXMxZWRwZnJYOXVVTFI2RXZiVnVxcU51eWRvZWlBa3RWMWFJdkdrSzJxRHJjNzB5ZDc5R1J6YWVKZVVkVlBuQl9nMEhxeEk2SEhSYWtMdXVGeUVqbUtHbk0wS1Y2eHMyQnNYLVgxNGFN?oc=5",
+     "fecha": "2026-11-19T14:02:51Z",
+     "medio": "www.aqua.cl"
+    },
+    {
      "titulo": "El impacto de El Niño en el océano: fauna marina y acuicultura entre los principales focos",
-     "enlace": "https://www.aqua.cl/el-impacto-de-el-nino-en-el-oceano-fauna-marina-y-acuicultura-entre-los-principales-focos/",
-     "fecha": "2026-11-19T13:00:00Z",
-     "medio": "Aqua"
-    },
-    {
-     "titulo": "Patricio Walker: El cumplimiento “tiene que gestionarse con la misma disciplina que la producción”",
-     "enlace": "https://www.aqua.cl/patricio-walker-el-cumplimiento-tiene-que-gestionarse-con-la-misma-disciplina-que-la-produccion/",
-     "fecha": "2026-11-19T09:50:00Z",
-     "medio": "Aqua"
-    },
-    {
-     "titulo": "Innovación energética y conectividad: prioridades de los proveedores acuícolas de Aysén",
-     "enlace": "https://www.aqua.cl/innovacion-energetica-y-conectividad-prioridades-de-los-proveedores-acuicolas-de-aysen/",
-     "fecha": "2026-11-19T09:49:00Z",
-     "medio": "Aqua"
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21ObURZYjZ4dFNmZkhoYXpYa2EtM0hXTGZ6eUxaMXFXbjROcFNaVW5nNEJZLUo0Y19oU2FiY1FBTWlsSG45T3RhTDMyNlVKNEZkd25haFZ5d1praURnQmhiejdZQUVXXzBNaklKQnBJMHVkZVF6bjE4cXh3ZXFhcXVST3FEWnZhcVdlUXJDQl9KcEFvYlhIMzZIeU5aN2laQWRXeU1Zc3M5X2x3ZWcw?oc=5",
+     "fecha": "2026-11-19T13:01:12Z",
+     "medio": "Aqua.cl"
     },
     {
      "titulo": "AquaChile impulsó la proyección internacional de Magallanes en misión empresarial a México",
-     "enlace": "https://www.aqua.cl/aquachile-impulso-la-proyeccion-internacional-de-magallanes-en-mision-empresarial-a-mexico/",
-     "fecha": "2026-11-19T09:48:00Z",
-     "medio": "Aqua"
+     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWt1VC1mclUtM2N4RlZWS1VPVDQ4SWF5S2pwQ2ctZEdsR25paElUQWY3SjdjREg5VDJKa2xPZ3Z6T0VLUTNXSUxKZ0JlS1U5UjVyUHF2NmtZOWpwVGgyOGNIVjBEWU5JV2pHS2ItekMwUV9vUC1mTDNjZnpDTVRlWmM5WTdNN0FwcGoxV0RsSjJUY2p4cy1lM2RBV3hOWWw1bUNKZG1STzFYMS1sb1llZQ?oc=5",
+     "fecha": "2026-11-19T09:54:32Z",
+     "medio": "www.aqua.cl"
+    },
+    {
+     "titulo": "Acuiprov destaca desafíos de conectividad y energía en Aysén",
+     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUNKUWhhSU1WRlpWTThfRVhzSkRIbF95ZXVpSmQxM3ZRQVk5dTdFS216VFhPVDRSRVFWNUhpZlk2aUdkTDFUdkNwc2thZmp3SDhTa291V1BOa2NoX29ral9aU0ZMQVFsZllsN0NCOXZ6UXZVdnZxMTBScHJTVHZOVjNmZk1EM2x3dGl0OUt2emNtclJzQjJZOTlUU2czaHZBeE9fcFhOWGRjT00?oc=5",
+     "fecha": "2026-11-19T09:54:27Z",
+     "medio": "www.aqua.cl"
+    },
+    {
+     "titulo": "Patricio Walker: El cumplimiento “tiene que gestionarse con la misma disciplina que la producción”",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXI5ZW9XeVBIc3ZuYWVPMFByb2ZadWFuME14OGliNVg4WGhuQjRSckJRdEg5Z1BIVnJZdE5vcFRKSzdncG1GUENWZ1QxX2w4eFE4YWhPWGIzeUM5ZUZHdnZkaHFtWE15NnBVam0wRG1TZ2paWmp5UEx4VDg4djJBOHlpcERrSHZqeGlVYUdLOWIzWVdYQ0xVd096MWxpcUdkTW9EeWRORW81a2ZhVGU4VnJLMHdwT0k?oc=5",
+     "fecha": "2026-11-19T09:53:39Z",
+     "medio": "Aqua.cl"
     },
     {
      "titulo": "Innovación molecular busca fortalecer la vigilancia de la resistencia del piojo de mar",
-     "enlace": "https://www.aqua.cl/innovacion-molecular-busca-fortalecer-la-vigilancia-de-la-resistencia-del-piojo-de-mar/",
-     "fecha": "2026-11-19T09:47:00Z",
-     "medio": "Aqua"
-    },
-    {
-     "titulo": "Proveedores acuícolas chilenos viajarán a Israel para explorar nuevas tecnologías",
-     "enlace": "https://www.aqua.cl/proveedores-acuicolas-chilenos-viajaran-a-israel-para-explorar-nuevas-tecnologias/",
-     "fecha": "2026-11-19T09:45:00Z",
-     "medio": "Aqua"
+     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV2NqV29rdkRkbWI4TWtZeExyUndQc3lHN19ubFJqOHF2RzhwcngtTV9vajAyR2xCU3VFWnE0Unh2M0lqUGpUV0o2ZVF2WjBkQllWZFhST252MG9BSkNXMmFFSGJnSEtuUU1hR0xLVHozbnlfcTBhVnhyTGlDUVNXeE1jNC16Q3YxakFYRUdMNno4THFfWllDWXlKTGNoMFhQMlF1a042dk5vc0E?oc=5",
+     "fecha": "2026-11-19T09:53:39Z",
+     "medio": "Aqua.cl"
     },
     {
      "titulo": "Sernapesca y USACh avanzan en herramientas para la trazabilidad de la mitilicultura",
-     "enlace": "https://www.aqua.cl/sernapesca-y-usach-avanzan-en-herramientas-para-fortalecer-la-trazabilidad-de-la-mitilicultura/",
-     "fecha": "2026-11-19T09:44:00Z",
-     "medio": "Aqua"
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHRtcDhNZGQ3WlhtNmhJZWdFcjFvMDZudVBkc2pvVlpjX3A3QklyM2RCNkNUZ1dOdklfMGxYRTZHd1lsNk5RY0lfN3UxcFVVeW53cVpJblNXbkxNZW1tOVRRYW01a1ZkTklPeE9wT3dXLV9lWlJFV1Z6dVNpZkE2WkVuSDBYSW0wSzNPRDUxS3psRGNSajMzMG1WYUhnTFpLM1pEYVlkc3dNcmZYQnVBbkNueTlZQQ?oc=5",
+     "fecha": "2026-11-19T09:48:50Z",
+     "medio": "Aqua.cl"
+    },
+    {
+     "titulo": "Proveedores acuícolas chilenos viajarán a Israel para explorar nuevas tecnologías",
+     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1lBcFlxOXNPSU5CWmhrWTdselRoc0VsdndDcHJnbjdfdGZ1b3JIMDFxMWJvbVF1dHN5bnU2OTFRMWwyVnVQZ3lMUEZmUFVSV2FJalByYjlvOHFaVzQ5dkVWVmFQT2xocjlwUlpQNi1wcTZsVngwT1VFRmhRRFpOTS1KTlJCbkZpTGplX0laZ1ZPcGVKMlJTRkd2dVN2YXU0NWVwbQ?oc=5",
+     "fecha": "2026-11-19T09:48:39Z",
+     "medio": "Aqua.cl"
     },
     {
      "titulo": "OMSA publica guía sobre uso de antimicrobianos en acuicultura y destaca experiencia de Chile",
-     "enlace": "https://www.aqua.cl/omsa-publica-guia-sobre-uso-de-antimicrobianos-en-acuicultura-y-destaca-experiencia-de-chile/",
-     "fecha": "2026-11-18T18:00:00Z",
-     "medio": "Aqua"
+     "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNklRRldDS1M2YXBMREdnWkwwOG5ZMjBzVmxDdHNrckYzcEhvWWlIMk1Kd1FTRjFlUTZTSDJpUTRzbl9lNHBqbWU1dExiamhBcGxtWnBIQTd1NFk4YWdkT3NYMFVXNGtPZkF1WmR0ZVFfbVdsWWdPbGszNjZ4TXNkZFJjSFU0dmxsN0RwVGJUZ2Y4QS1LZlltTElPd29GN2lvSXpZTTZ1RVN1ZXJnS3RVU2VDbw?oc=5",
+     "fecha": "2026-11-18T18:03:19Z",
+     "medio": "Aqua.cl"
     },
     {
      "titulo": "Valoran esfuerzos por destrabar habilitación de plantas de salmón para exportar a Vietnam",
-     "enlace": "https://www.aqua.cl/valoran-esfuerzos-por-destrabar-habilitacion-de-plantas-de-salmon-para-exportar-a-vietnam/",
-     "fecha": "2026-11-18T16:00:00Z",
-     "medio": "Aqua"
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3NFUDBGZmExalp5MURDSzZET1Nxc1AtX2h6ejItNnVrRUNtWU5IVEo5bjk5WDdKLXZ5VDRxQ1RtZGtqZ08xQjJoUWw4dVQyQ0xvT1l1ZzI0X3NTa2szdzlZVDc4R3gxZVdfYmd0cFJEY0YwSnNrLTdGQi0wVTNTRzd1YTFrT3Z6ekE3ZWt6M01PdDVhOXAwOGt3c1ZNQW85R1VWQ1A0OVhPQTZiNWJF?oc=5",
+     "fecha": "2026-11-18T16:03:20Z",
+     "medio": "Aqua.cl"
+    },
+    {
+     "titulo": "Marcela Delgado lleva a la COP31 el bienestar animal en la salmonicultura chilena",
+     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0ZJcHZpTHBEMHNITjBNSllsUlZMa3J2OGhJV0UyVU9Sd1RmMnhTelpTVndWUm5mdmcyLU0ybE1KbzV3ZlBza3ZwVnlCRV8zUDV4Tjg4Q2RXVXVjVlU3NG1wYmNsQlNUNXpJNENsbTdrYjRaVG9NWXVQYy1mc3JGcC1vWTRlbWlIc3NBZ2tMWlNwZzgxeDBEOHpvLXUwdmhxZjBGLQ?oc=5",
+     "fecha": "2026-11-18T14:03:16Z",
+     "medio": "Aqua.cl"
+    },
+    {
+     "titulo": "Chile impulsa la cooperación internacional para proteger las pesquerías de calamar",
+     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMFloWjZaNTdob0RRcVFuVzh0T3QyeVVRUlFNeVZ5NHNUZHFPZmNfZFFkbDR6dmhueFl2N2tHUHEwckRhYnZPczQ2YkxxVUhPY3JqNlUxdzlXMW5sMlI3b3FPUUJKTzdSNjc5ZkNiQXk0WWJsQVVIaEpnZjFrbDAwVV9XMnB0MnJMT09IY2I5VUR3UzFYUTN5cEtJYVkwYTh0ZGlGZ2lB?oc=5",
+     "fecha": "2026-11-18T13:02:43Z",
+     "medio": "Aqua.cl"
+    },
+    {
+     "titulo": "Empleos en la industria acuícola: nuevas vacantes en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnBreVptd2ZaOVM4MnVTbDVHMEpxak1iYnNYTnRDdHlzZVZIMllyUzdhWnpDbHZZOHdydmJyOXFhcWZ4MEdvMWhWa2t6cjY4Q040ZkVQLWNNSF9kTnNXcmR3cVVxVlJ3TlV5MHJMMmtZeG1YXzFGOVdOclJod25xZUYxdHM1U2dCYXBHbTdOVEJMT1F3aHJqWUJSOUdZNjRMUVRIVVNoRzV5dw?oc=5",
+     "fecha": "2026-11-18T09:59:59Z",
+     "medio": "Aqua.cl"
+    },
+    {
+     "titulo": "El gremio participa en la gira presidencial por Vietnam, China y Japón, con foco en ampliar mercados y fortalecer la presencia internacional del salmón chileno.",
+     "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTzE5Q0JrNjBQRGstMVhHOWQyOEh5NTV0azEzcUVJcUlVZ1JyYTZ0bTBNd2o1bk50WndDUmxCZk9GYXlaN3A3cFpBTVlkWW9MZU1udURkbExWOTJvRzhTMDRna1JTeTktS01aSjJySGdBUU9Yczlfb1ViVVF5Z0dPd2x2b0tBYnM1dm5GYzNfWHgzUQ?oc=5",
+     "fecha": "2026-11-18T09:51:07Z",
+     "medio": "Aqua.cl"
     }
    ]
   },
@@ -222,6 +258,12 @@
      "medio": "Salmonexpert"
     },
     {
+     "titulo": "AquaChile integra delegación público-privada de Magallanes en gira por México",
+     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSHc2aXhIdVJDcHdScE85V0loSE1uYjlhT2drOThFNmhXNW5wcDkzVWdJTW1Dc1JETVlSZF9NNnlzSi1KektJQllQQWFzTW1SOEwwUy0xNmwtOEJCcjlkejRUOVRVaVBnbTdIUllHclJqMjNFVWxsUmEtMHpjbmhNMElRejF3blZHWUJlZ3h1WUItZzEwM0ZqQVJNZm1IdVlOSWJPcUwzejNYekoyeHJYV1BDMlUtb2h5dVRWZlBHZzJ1RTQwamN5VnRZZ2YxRU1RWkZ5RXVta1U?oc=5",
+     "fecha": "2026-11-17T13:50:00Z",
+     "medio": "Salmonexpert"
+    },
+    {
      "titulo": "ChileWeek China 2026: El salmón brilla en la cena encabezada por el Presidente Kast",
      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbDRiREU2TGZ3ZlBXZVdjaERiWHV2UXpLcFFaWmZwOUZUcmFiMVNyYlpqRmE3YUo4ejI3X2JCTGctM290WmJwV1J1RzMxSjZfdldpUFhsZW95VWs4YVozN1pqYXJuQVBPRW5wM2kyRGFpY01TSndqRjNYbVNTU09mV1lOX1g0a3VtQmh6QW9rejZ6T3NnZG82M3NxV0dmbHNtdW5WM2JSX0o0Ny1pdkllR21DalN6YWEtMTEtZXc3bnBnS2J6dUdQSVlYVTY3TTA4V3FUdg?oc=5",
      "fecha": "2026-11-17T09:20:00Z",
@@ -244,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPb2MxVURDZnZCbVF4SWVQUVhwRHdDdFptYlJ0NzhicmtoSFgxMGlTdmFZZFY4VFFKWUs4eEs4bGFEWWd4NUdvUGVBZ2xmS1I1dXJjc0lDR3pvZ1VTZkFBMlhodkQxTC14MDZjWksycWJWSjNzaERlTnpZbGtDY0lmZ0dSM1RUUDRfUUlNZkRHRER2VTBqREZ0RU81OWhQR3FFMG9CbC14RWVuWmhzOExERGx2ZHV6UDlfci1BRXExNE9vOUZ5X3oya3p0enFSWDQ5SlRrNGtoMnFxMlpNUUtfQ01SSUVuaVU1S09tMTlIcjFiU3Fob09Wbm9n?oc=5",
      "fecha": "2026-11-17T08:40:00Z",
      "medio": "Salmonexpert"
-    },
-    {
-     "titulo": "Denuncia de Miss Mundo Chile contra la salmonicultura genera críticas en redes sociales",
-     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeFB1SUgza0dULVVUbzZRV3J1dWxXSW5jRlRDZVBzbUxGV3NicHVHakhodGJadUFuMy1aVF9VSl9lTTBPdi1XWHZiYk5WTlhnYTQ5ZDNPa2JjUUlRM3Y4allLRnBEZVZpWE1Bb1N2aVowSW1ldlhVTzMyUURNN1UxWS04YWR2T1cxSi1UaE52YzhUaF95NVEwRGJjRWw0akduVjVvSkgwX1JwQWpwQnFibkxQRTU2Z2FhT0gtSjY4MHZrOTh0V1pVa2M2OERmbXc0QVlKM0ZFUl9rMmVLS2xEeHRaM3Rndw?oc=5",
-     "fecha": "2026-11-17T08:30:00Z",
-     "medio": "Salmonexpert"
     }
    ]
   },
@@ -259,93 +295,63 @@
    "items": [
     {
      "titulo": "AquaChile y Fundación Musicarte reunieron a 12 jóvenes talentos",
-     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWnZyWjJCOTk1T3k4dDZIdXNPOW1ZZG9WQkh3MUFnWFEtRXdsNkV0MllJT3VhcktvZXdHQ2R5cmJjajJBamZJcXZLdWg4WmZvdmx0cEwzVE9vYVc3VzFqX2pKRktZdGZqRFFnX2dhOWh3LTZMTkdwTXF1OURGMjM3QVljdWJ1bWdWNEJOaHdUU0Z4dXd1NUhRa2hmVFk5UQ?oc=5",
-     "fecha": "2026-11-18T18:43:51Z",
-     "medio": "Mundoacuicola"
+     "enlace": "https://www.mundoacuicola.cl/new/aquachile-y-fundacion-musicarte-reunieron-a-12-jovenes-talentos/",
+     "fecha": "2026-11-18T18:42:06Z",
+     "medio": "Mundo Acuícola"
     },
     {
      "titulo": "Congreso Agua Mar reunirá lecciones del virus ISA y nuevos avances en SRS",
-     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ3h0MGRoVWtwbnZWbHU3WE5jZ1JtYTN5ZUNMYllSdDJFWnVxOXRLNVNEd0FSTkJ3WUNzNGk4NF9nNmtNazhwaHIwQzd2NU1rMFdUSFNoaVFqdnY2SExVNXNCV1lMd2Zsd3B6Qnd3VEJXdnVKeGtuaDU1S2pBMjF2bHB0NlJjTGZvaGdRNnZkdzRMV0JUcjlzSjZqMFM3NURLSEprYUcxQWFNUlU?oc=5",
-     "fecha": "2026-11-18T18:36:56Z",
-     "medio": "Mundoacuicola"
+     "enlace": "https://www.mundoacuicola.cl/new/congreso-agua-mar-reunira-lecciones-del-virus-isa-y-nuevos-avances-en-srs/",
+     "fecha": "2026-11-18T18:31:57Z",
+     "medio": "Mundo Acuícola"
     },
     {
      "titulo": "Sudvet expone avances en bienestar animal de la salmonicultura chilena durante la COP31",
-     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNW1lbUt5dmhXa056aGwyM1c5YTZxeU5fUVhhMXJFcVlyRlZyOTVvUzNwOTJYeVY1bDgwWUhUT2lGd3MwVXloVjh5TW5URnJsck1NclVpQ0hFdTBraTRJaW9BOWhMeGRncjJIbElYaFI5UGNfbmhfalZfSl9nQWJHVlI2bHB6SXBvLWREQ2ZXNk1MZ0daV1FvRjB0MDBucnFubnlQUVVfZ1dHemZHVXpORUpzSWdQWVRvMGZSZENB?oc=5",
-     "fecha": "2026-11-18T17:56:01Z",
-     "medio": "Mundoacuicola"
+     "enlace": "https://www.mundoacuicola.cl/new/sudvet-expone-avances-en-bienestar-animal-de-la-salmonicultura-chilena-durante-la-cop31/",
+     "fecha": "2026-11-18T17:55:31Z",
+     "medio": "Mundo Acuícola"
     },
     {
      "titulo": "Camanchaca apoya programa que ha formado a cerca de 1.500 mentores comunitarios",
-     "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWdueFV1c3g4aE0wUnd6Vkh0XzRUV3AtWnNYbVE4S1o4NDlnOUZidGcyd3Rwa2hieTBLZ01janRtYm1Ka0RXUGxUdlY2YzRvOTZ0T3BxcFBxZFVkbXV2OXpIclB3S0l6bXFNcHZ1bnNqc3JNVUtxYllWLVlQQ3poWUZlTjhkN29QRmwycTNkWTJHTE11OW1ES1ZzVVBPei1pSEhCX3JYLVpaS2VZV1dqTkg5Yw?oc=5",
-     "fecha": "2026-11-18T17:51:25Z",
-     "medio": "Mundoacuicola"
+     "enlace": "https://www.mundoacuicola.cl/new/camanchaca-apoya-programa-que-ha-formado-a-cerca-de-1-500-mentores-comunitarios/",
+     "fecha": "2026-11-18T17:49:19Z",
+     "medio": "Mundo Acuícola"
     },
     {
      "titulo": "Pesquería de Krill Antártico recertificada por el MSC",
-     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGRreEtRbTVtNUZPNjROWmFIQmtSMjNIYi1NSTJvOERfZHFwVnhiSUNXRkFuS3RUS1llZ3VBOHFyRmNmcHlHYTdpT2xvRXhvbjBSU2xMbU1lNXRFWEZkMWVfeHFXdHdBek5qa2cxQllybTJrS2ZkVS1xbTFUYy1tZ0lvMWtTRFRCMTRfdHp1S3g?oc=5",
-     "fecha": "2026-11-18T13:09:40Z",
-     "medio": "Mundoacuicola"
+     "enlace": "https://www.mundoacuicola.cl/new/pesqueria-de-krill-antartico-recertificada-por-el-msc/",
+     "fecha": "2026-11-18T13:05:21Z",
+     "medio": "Mundo Acuícola"
     },
     {
      "titulo": "Consejo del Salmón valora impulso presidencial para destrabar habilitación de plantas salmonicultoras en Vietnam",
-     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMFNNNV9HOFhSSHlzbTZIQjliTUZ6ckQ2QkFCOUI1UnNNbnlEdVNCREFOUGxxUTVpUnJQR1k4eFVkY0RLdm9zVTRoM2VhQ3JGcXI1S3NBeTJUSlM5OUJZaTdEd2xxM3h4U01pMWo5T203RnhjdTJOQmF2c2l4Y1ltUTFseVpSV0NXUXNkTGJScUk0NEUtLV9QalFJcTlXR3BSQkQzUmduU2pCRXlVakdPYkZzZUtrWkZhUmRsdTRyT1pKYVN4ZVNOYkRxYXZ1X1UzZUVjWV80S1lBOEp6eWtv?oc=5",
-     "fecha": "2026-11-18T12:27:14Z",
-     "medio": "Mundoacuicola"
+     "enlace": "https://www.mundoacuicola.cl/new/consejo-del-salmon-valora-impulso-presidencial-para-destrabar-habilitacion-de-plantas-salmonicultoras-en-vietnam/",
+     "fecha": "2026-11-18T12:25:06Z",
+     "medio": "Mundo Acuícola"
     },
     {
-     "titulo": "Chiloé impulsa el talento local: Profesionales se convierten en mentores",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkJZSXRZRGFtTXhkZGFJSzVwdzFrN285ZWctTVZrRDVyZFlMUEZjU0YwanAybHBmX24tdkgtaFltT0xyVGlsZHQ2ZXVXYmlOUUpGSXhZcEEweFBoYjFMLWkzN2ZQeF9ZMkNHRllKNmRiZ1BROFM5RUd5akxoclpvc3phNGFtR0lWYUFCNzNRNmlfdG9RY042clAtUUNNSzZkc2dDdDJxYUg?oc=5",
-     "fecha": "2026-11-17T19:15:06Z",
-     "medio": "Mundoacuicola"
+     "titulo": "Una protección lobera más competitiva para la acuicultura",
+     "enlace": "https://www.mundoacuicola.cl/new/una-proteccion-lobera-mas-competitiva-para-la-acuicultura/",
+     "fecha": "2026-11-17T23:11:06Z",
+     "medio": "Mundo Acuícola"
     },
     {
-     "titulo": "El Niño expone riesgos de FAN y brechas de monitoreo en mitilicultura",
-     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDIwS3pZVm9vcnlMU3ZFeHhLNjF6SERSS2pabXdfNjhvZnE0OWRmcGtUT0ZCMTAwY3d1ZlBTUkNGLVdQa1QxSnBPUm4tTHdjMVZMTTEtLVdNMEc4b0ZyYTJNUXRCdEpWV1BVV3BuRGJHbWZvOXJCVWZEaVFZR1FCeUZhUWlMckdOQWhiZHQ3bXFqU3VoblV2SEVpRGQ1Q3hnc0Z3WHNB?oc=5",
-     "fecha": "2026-11-17T12:06:16Z",
-     "medio": "Mundoacuicola"
+     "titulo": "CASA destaca la participación de sus representantes en la 28ª Conferencia Regional de la OMSA",
+     "enlace": "https://www.mundoacuicola.cl/new/casa-destaca-la-participacion-de-sus-representantes-en-la-28a-conferencia-regional-de-la-omsa/",
+     "fecha": "2026-11-17T23:03:48Z",
+     "medio": "Mundo Acuícola"
     },
     {
-     "titulo": "Centro INCAR² realizará webinar de cierre de proyecto FONDEF",
-     "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXh5NnFQaUdtaTRCWDR4SzR4V1JMWFBlTm02LVVnWF81ZjEwNElzcTQ4aGxGc3d3MGtuVUtOT04tcUljQ0JwMlV3MVM2bVRTS1RHT1pzS1QtMzF0UDZjbnZLZXRFZ0ZWSDhXSjdzTzVfVUJrdnRyMkpidlRHYkpNX29mX3VkaGZtRG5aSFZDTktUck1xZXY0Y2tqd1NTcTBD?oc=5",
-     "fecha": "2026-11-13T15:40:34Z",
-     "medio": "Mundoacuicola"
+     "titulo": "Congreso Agua Mar Bloque AM: preparación de la salmonicultura ante El Niño y las FAN",
+     "enlace": "https://www.mundoacuicola.cl/new/congreso-agua-mar-bloque-am-preparacion-de-la-salmonicultura-ante-el-nino-y-las-fan/",
+     "fecha": "2026-11-17T23:00:09Z",
+     "medio": "Mundo Acuícola"
     },
     {
-     "titulo": "Embarcación de apoyo a la salmonicultura vara cerca de Melinka",
-     "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTzZOcktjbkpDOExUeDQyazFfVTRjMFVZYzRZYW81Z2o1S0dWazZhcGs0WTVSLXl1YnNfbzhnX3hoUC10OEN5NG5MYjZ6NXB4MngwanJMQ19JV1RxRTRxb3ZZVjlWQU9VLURnWmlKVWNRTWdmZGw0OUhFakRwNzdrWEx1U0RtT1ZMYzUzNW83R2dWWXZkc2ZwejdhSEU?oc=5",
-     "fecha": "2026-10-13T07:00:00Z",
-     "medio": "Mundoacuicola"
-    },
-    {
-     "titulo": "Gobierno solicita renuncia a María Soledad Tapia, directora nacional de Sernapesca",
-     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1FLTFR4QzJ0ckVkMG5jN0hCT0tRVnBZWGZGN3Bmek5FbkVPNUNzWU91YkJjZ2MxaUFvdWZvTlZyWThJMVdjblhCYkRWSEROeU9IVkgzckFiYlZfdnRSemFjWW1Obm5CVHktaW5GLUtOT3FGT1pnd05sdGpPNnF5aHBRVnozb0hBdTVmclZxZ2hKZ3FnVml6NDNyUzhqRDQ4dGY2a0tLdEloUFU0TWdTNmtpRWhnZw?oc=5",
-     "fecha": "2026-10-08T07:00:00Z",
-     "medio": "Mundoacuicola"
-    },
-    {
-     "titulo": "Sernapesca detecta virus ISA en centro de Cermaq en Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkZHNWp5cWRtZzNobkM5RmpBNHg5S2V4cmd6angtNlFmZlBlcUNVVkM1Q2ZiVE81a2V4bGM3R2VtWi1DTFF0MllNc0xiM3pIb2JwTVE5MGgweXJBNm9tNFBCYk1OZnVxdHZ4M0xCNHVDaFFQLUZWYmNqcFRidklmbEtINjh3WDhrOXJ4TzI2MUlMR1RMNXc?oc=5",
-     "fecha": "2026-10-02T00:22:48Z",
-     "medio": "Mundoacuicola"
-    },
-    {
-     "titulo": "Virus ISA en Aysén: confirman variante HPR5a y amplían vigilancia sanitaria",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcy1pek5Cem5FWE9fMktRY3FPckRGa3I3eUotT2hIV0xzMXlPXy1SVTN5cU9vYzQ3YUIzNzU2d0tKUlhudVdtRGE2ZUZzQmI2X1plaDlxSkRDV2hnVElBQlVhLUdOZ3YxWkxQRDVIall0ckNJb1lTT0NGeVQya1ZTbUowdnZkdXNDWC1vNnEwNVlGYnlnUE5saC1VZUFweU43RENRWUtUN0N6VFZP?oc=5",
-     "fecha": "2026-09-30T07:00:00Z",
-     "medio": "Mundoacuicola"
-    },
-    {
-     "titulo": "Estudiantes y chefs de Puerto Montt promueven gastronomía local con choritos",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1UwNEhZR0NsUEpKdm9uMDVDWXVYT0VlUUxWbEFRUUFZMDM1WTJnZTl4NzBwUlJoc1JaNnBKbFp3bFFJM3cwTk5qWllkSG1hRjRHa0hrQ0xkbUNCeWxyUEx1ZHNoS2lwUUl4SFZ4YTU3TC1lODFMeHlUaTBBMW9GQ3MzbnVvVWZMdFRzclExRmZLeXpLNXBwUUV0WGlod1NoRGRvczJjdHNxc0tDaVRn?oc=5",
-     "fecha": "2026-09-25T20:10:55Z",
-     "medio": "Mundoacuicola"
-    },
-    {
-     "titulo": "Actualizan situación ante caso positivo de virus ISA en Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnVVTmd0ZVBjbjl1dXcyMjNLTHlkX3hfZHN5UVIzRTJhRWlteTJNS2pHWlVrOWdQWU9WMUNHTzNjWXRsTnlKaHpkXzJIQ3J4SVE5OVA4UllqOHJKaHR3WXJGMkFHdHA2QzNFQzVNSGE0OVdGMnNNeC1tWWVZLW1TMmdDSFJEM1NLRTRMd3pDTlQ0X0RGMkRiUk51ZFlmTGQyTnI0Z2JscEY?oc=5",
-     "fecha": "2026-09-21T07:00:00Z",
-     "medio": "Mundoacuicola"
+     "titulo": "Consejo del Salmón pide medidas ante interés noruego en Brasil",
+     "enlace": "https://www.mundoacuicola.cl/new/consejo-del-salmon-pide-medidas-ante-interes-noruego-en-brasil/",
+     "fecha": "2026-11-17T19:19:44Z",
+     "medio": "Mundo Acuícola"
     }
    ]
   },
@@ -358,6 +364,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlRKNTd3QVZVSnNHUDA1QW9qbjRrdlJXeG9mX1dmTkVTV3ZrMkVaZkllMzJ0R3pVRWpIMUppRllFQXdmNnhIX0oxb1p1ZlNFOXVFTTBwQzVKbkRzT0hMQnZWLVFTZ0paRjlucmRKakxXV0tuMW1yVm9vTVhKaElWdGtrUHZ2X1hRbkZKMXFDd1dEOC10ZXBoZkhvY2lDX0h6WmtjS0Z4alVfTW1wVV9WSnBOOW43WkVILTdpY1U5Q1hmS1BqRkZz?oc=5",
      "fecha": "2025-12-29T08:00:00Z",
      "medio": "Pontificia Universidad Católica de Chile"
+    },
+    {
+     "titulo": "Caleta Llico destaca como modelo para la pesca artesanal del Biobío",
+     "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd255dng3Z0FBSVpaQjhCUGpndkZKY01qYnhHU2pDWkpMbXZXOHdNS3psT2VIdXl1RHZwSDhhQk51VlZKZXE1TkFFcFNFaUZvNDNzM0RXU3M2bnJqak5xblZaNlhySEJjMXh1VW9KNFUxQ3FlcElWcHRvVXFiMktJSDUzb2hnbTRmYWVPa2lEOGxFRzAzcTJIRS1rY3l0MVVOUXFV?oc=5",
+     "fecha": "2025-12-09T08:00:00Z",
+     "medio": "Mundoacuicola"
     },
     {
      "titulo": "Sindicato de pescadores y mariscadores recibe concesión marítima para administrar caleta Coloso",

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T13:56:15Z",
+ "actualizado": "2026-11-19T15:36:08Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -252,12 +252,6 @@
      "medio": "Capital-Riesgo.es"
     },
     {
-     "titulo": "Paro bancario: el gremio anunció una huelga en el BCRA para el lunes 27 de abril que podría afectar a los demás bancos",
-     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmktX2xYY1ZMMXBSNFV1VDNEdkFPN3psa1hPa1dtWVloZDhUeDJFODVqNWJzUHhoRGpKY20teG1UUURkcnhMX25QbldXZExqM3NGZjd4ME12clZSOE1jeDFLRVlXeEE0UHFmSU9oZlFURHQtcnVvdW9SMGNBOC1UUjdBOG5Kb05ER0I3amIwRkFSTDBfSlZlN3lJcHZPSlNFaWdGaTRFa2NPLUhpYUtFOW8xS3dSTjF3eVNMdG1n?oc=5",
-     "fecha": "2026-04-23T07:00:00Z",
-     "medio": "Clarin.com"
-    },
-    {
      "titulo": "Grifols duplicará su línea de crédito ‘revolving’ hasta los 2.000 millones de dólares con el respaldo de un sindicato bancario",
      "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObktmLUxJSmpNZnBWMXFNQU9QRWdCRlpPT1E4SXFicEdtSFVuNnZXdFdNSVp5YWVrTmtidFpkc01OTlp4cG92TjdlY3VVNk9WMGE2WnA2WDhhVnBpcEpjRThkdUg3ZGpzVUdzRXNvR0R4amxMbjBDZnpYS1NibkgwQ2E1X0cwYkE4c2E0dzg4d2dJY0cyVHNxR2VLZGRNeDZEeGtHU2kxbnBwbEREeS1Gc3ZBUE0telExbVNmaG1PaU9ONGhJMXNhZEpIdVJSYzNkZVhVMjRrN0trZUVsUmFjNnhOS0E0YXRRTzd4SnFvcVV6S0dNQV9Kb3FXRHVnam1GRU90LUpPUTY2d9IBngJBVV95cUxOYUFVc1JHTVUzOElxTm9RWGZ5NFpKM3JoNFI2VmpfY2hEVFVLMWowLTJ6bXVqY2p5ZHJsX2Z6cEk0ZlhwVVhESTUzYTZnVGtkRDJQcHBEaTNjOEE1dWIxbmtNRlI1THBLQ3hTWUo4REdtZ0MxcFdJRzUzT0lvQVk0WUdBX3FkYnJJeTQxQVVuQmhxaWRIekRCcHU5ZVJrY2tIVmtEUzNRcVhRR25leTNfUDRJM2NxUkVWS2k5QTdibDFmdmNVbUxYTk5fblJCWEpXSnVrOUhpTFg0NXZUT3h6UGpMSTZDU1dXYnNLbjZkWXBsdFppUHBzZWg0azFRT0V5WmQ0eGpSdlNTeHhhT0dTbjlHM2dHcElHSmNwVmt3?oc=5",
      "fecha": "2026-03-16T07:00:00Z",
@@ -286,6 +280,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHNLeXNOektFbHRieTd6QVU3SktmbUtIN2lvNU82QjluYjdrQktjdDVrQkhVdVlqakVUNkIybDRWVmJKbDdqU3RDeUlPcXM3YjB5RnBmcVpxV2U1VjZwU3BsLXJ2bDV3NzBNYzVxVkpVemhhUjI5UU1nNlJ5M3Y3a1M0dVIxQ3o1dVBzYVRqQ3ZnbG9CenRRdGZ0d2R2dXU5NW9fMjR5b2VkaF9qekVoc1NfSmp2c0FpVVNjeUJYMExqOG9iOThGT0FIN3o2c2tBbzYtT2RjMA?oc=5",
      "fecha": "2025-10-31T07:00:00Z",
      "medio": "Errepar"
+    },
+    {
+     "titulo": "UNI Americas el Sindicato de Trabajadores Bancarios de São Paulo denuncian despidos masivos en Itaú Brasil",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNzZ3X1NtZm5GVFUxWVQ3SnVyWi1tT3FNSS1TcURBVFNTSlIxNVlPMTVDN0x0MXc5cExxZXJVU3lSeEIxeGhZblpZbExwVVJHeWZkYm1QYm5COVBvQTh3ZnByT2tTUXJvd051MUdoeUltTFVZUTNWdmpLY0RoMFNyaks3d2szRm56WHFrdnhXQS1YWkx5ZW9CcXVoNHA1WnEtWV9PZTBsc0duUmRCN3M5ci13Q0tKcFFlb3ZoY2hTM0Vod1E?oc=5",
+     "fecha": "2025-09-10T07:00:00Z",
+     "medio": "UNI Global Union"
     }
    ]
   },
@@ -295,8 +295,8 @@
    "items": [
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTlYNXpQTVdzMnJJT3ZTY3ktcDFaWi1BWm1BMExXQW9hQkVDZDZJeldlbURFNGYxLXhSdXQ0YS1VWUIxMjh6T0ZzOF9zZGFQRGRYUWZPUFBTTldJWUtaRU5OdF9PNC1ZM3h3N0tRXzRFMWRiSnljRzZIX1NqV05WZ2N5TVJTVjQyNkRURlBDYkh3OWg0Q3ZaNTQyQTVRcjUySWVmWjlndm5JUTNQVW5oM3J2Y2s3ekU1ZEtpTE9tTnl3TDMwblpNbWQtZw?oc=5",
-     "fecha": "2026-11-18T15:23:32Z",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
+     "fecha": "2026-11-19T15:25:32Z",
      "medio": "El Mostrador"
     },
     {
@@ -310,6 +310,18 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXpmWVNTa3dsSFFqUHY0MlVXWFdwNXlzenJkeW1Od1p6QTdkYU9IU1VVRDZkRDJETE9iSGt4cnAxNVJCNmJrZ052ajRFYWZGRjlQSFFuSXFHTlVQS0Rld3VZVnBLdVVRai14SVdXbzNHR096Ykw4OTc2c1BFNkhpV3o2VXpQc1EzMlVvSzJTMXdrVVkwWnJBd0RqRVZMYnpzd0RfdXhua2dVX2Fab2FYa29PLVlpX2I0?oc=5",
      "fecha": "2026-11-16T19:54:02Z",
      "medio": "Canal 13"
+    },
+    {
+     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
+     "fecha": "2026-11-16T13:14:42Z",
+     "medio": "Soy de Osorno"
+    },
+    {
+     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
+     "fecha": "2026-11-15T21:03:47Z",
+     "medio": "CNN Chile"
     },
     {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
@@ -369,18 +381,6 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
-     "fecha": "2025-01-15T17:20:30Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Los 100 años de la Dirección del Trabajo en Chile - Aporte al Debate Número Especial",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMXZIY1dKSS1DbjEwZkJPWnc1Sl9TS0JrSFdDUnBPMUx4cE0zUDNKME80Tm5hZHBCRlVpcnN6cDd0QXgzeERJYUk5dm9JVzMyV05FY0xaNjVxdXVZaDlHUWZFVHZYVWM?oc=5",
-     "fecha": "2024-09-30T07:00:00Z",
      "medio": "Dirección del Trabajo"
     }
    ]

@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-19T13:56:21Z",
+ "actualizado": "2026-11-19T15:36:11Z",
  "fuentes": [
   {
    "clave": "turismo",
    "nombre": "Turismo en Chile",
    "items": [
+    {
+     "titulo": "Chile: Valparaíso enfrenta el desafío de consolidar su recuperación turística y poner en valor su patrimonio",
+     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM2JBcE5ETXkwY3JMa21xa1hsVF9saFFqQXl3bUpvbjFlUWhqSk9wMzlycXR1MGpQWHNLdWZRX1ZPMG5SeWRCRHFLUG9RcGQ3VTY3dmJBemdtcVdDbXhNQ3V4VUhMYjJKYUZQVTVLSXU3TFQ5OEYyNV9ieXVyekNXSQ?oc=5",
+     "fecha": "2026-11-19T15:21:53Z",
+     "medio": "Agencia NOVA"
+    },
     {
      "titulo": "Santo Tomás Temuco certifica a 36 estudiantes como guías de turismo general y fortalece su empleabilidad",
      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeW5BUTJoZVItU2JfdWdBTEJNbTRaN3ZOcWQ1bVdsQVZsX05lRm53Z09Bc3J4UDJqOGRBRHFUQmc0ZlB6NktObzhLWWZITlhjaWlpZ1lwNFBlaGQxYkRNT0preHdqYkxqX0tobWNGUVFvMkc0aWdlWVFBZDNZalRnZw?oc=5",
@@ -30,12 +36,6 @@
      "medio": "El Nuevo Día"
     },
     {
-     "titulo": "Subsecretaría de Turismo e Inacap presentan plan para capacitar a 10 mil trabajadores y fortalecer hospitalidad turística al 2030",
-     "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWEYyM3llZ2JYZ05ZaWY1Y1hQVHZkR19NNk5yWmpqZk9UeExfWXZNdnFWZGJUY2xZU25WWlM3ZllocHVCQVJfTVVyVmppQTVRU091U2xKdWVWUmhPelZjUHpGVzZlNE1fU2k2eWJYLTVSQ2l2ek5uZGxKVFVmVTNtMEF1ay1ZdExfUl82WEtmc2dXRW03SVJmbzYzd0NyaFdwVDRiQjNoQTFQa2FWek0zRnVYekROVktvQ2lzbm1hUUJ5YTBBOXdjMEx0dHZUUmhucWFhUzFTQ1l2WjZHS3Y3RVpRSnpvWkFhaDM4Ug?oc=5",
-     "fecha": "2026-11-18T19:45:29Z",
-     "medio": "PortalCruceros"
-    },
-    {
      "titulo": "Compañía de Turismo destaca nuevas conexiones aéreas desde Estados Unidos y Canadá para la temporada alta",
      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObU8zXzVka3pxUlRJUWFWY19RVTltY0ZjeWt4ZV9DczNkM1Y4Wk1MNk1GQmdCbVZGUGh4TmpUWjZiNV9yX3Rkcl9wYy1xN1NGaGo2THFfRXNfN1BSbkZ1bmdUaFZENV9zcUhxX21mQTgyaEVVdlM3T1JUVWxlN1BOejk3R2JUZElEZ0pWWXZieENzM0tadVdGQUIxemkxOVRjRS1sbHNzNkFzYjdZeUs1NVdPdGhiLUhmYm1zVUt2cw?oc=5",
      "fecha": "2026-11-18T17:24:35Z",
@@ -54,12 +54,6 @@
      "medio": "NoticiasNQN"
     },
     {
-     "titulo": "Villa Gesell intensifica la promoción turística de cara a la temporada de verano",
-     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1FZRHprakhfV1RtWGF4Yy1lYTBxZHhaZ3B2WjdNalc0YVU3YVp5TXZIVjgxMXVkQ3B3NnFydjhtam5sTVlqelprTzE2b0pzYUN2SUJjMHhsRHN6WlNOUFhCS291VGlJMUtoOXJtWUdrbVdOWC1JNjRnRFhRTEdpVVlNb3ZpYkZSVDB1SGo5RTl4cWk3bnFLNU5CN1dCVWo5M1VKbnFEOWVvYWRfcE16Y2VuZnoyYTJrbWJN?oc=5",
-     "fecha": "2026-11-18T05:31:39Z",
-     "medio": "Prensa Mercosur"
-    },
-    {
      "titulo": "Santa Marta toma impulso turístico y se prepara para la temporada de fin de año",
      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2xqN3E5bWR1U29DMnBjYi14Z0s5WFZkQ1U2VmpodDMxejRYdEx3VG9DN21jY0NMX0EteGViX25WWHlpM2JoeXBmWk1GNHNzZWZsOHdiT2N6MWx2eEJUaC1WMVU0a0RUTzJXTmdmVXY5QTJjbGhFWlNRakZnV05tYVZXVkRXalhZN2ktX0IwVFJZM2owTWt5SnhzY013ckdacUozTnBPemhKRFd6d3d1eDRTekrSAcgBQVVfeXFMTkhzUFd4VWpjUGFwMWt1eDRZR01KSTFTNzFEeTZOSGZSdXVfWExxOUxINjVnRUUzRS1NSzdkZ1BvNkczbDBCLXVzNHBITnV2bEJUd3N1ZDduRGpEQWI3bjhlYUhnMjFRSERqQ0xxcjhVaGVkUjZaYTg5UDJlaHNIV01ETDJOUmFMVHdzbkRKQ09jVG8yeXNPalNjV1NNRTNLYUtPUzJDUzFReU5WOEFBVTEwNVZTWjdnUGwwTDNFRkljek91QWNOSWg?oc=5",
      "fecha": "2026-11-18T01:57:12Z",
@@ -70,6 +64,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV2k1T1FSTG90bGlPVXZROUNTa0FrRElpRFBacUFDb0h6eEtETWNremdRMDFseUo4NE0wN1RVOWZZR3lsVDFCNmxvUlBCTjBSTG94YVpVTW9aWmJpd0Jud0RwZFpQUmNRTllkNS1Pem1FNXZhTHZ3eGNKZFVSUFFKcmZCRjRTa2dNOUdDR213NlZWYjNDZjdMWVhXQXR4VkswMmVQRVhacExNRmRRYnBfbW5kY3lZdWdCdjVaYTRKOTRpZklyZktRS0ZyTXo1cVo5Vmg4V3h1eFVJWU1mUmZVcW1BRFpKci1WM24yRFp0aw?oc=5",
      "fecha": "2026-11-18T00:38:17Z",
      "medio": "Mi Radio"
+    },
+    {
+     "titulo": "¿10 mil trabajadores del turismo serán capacitados? El nuevo plan que busca mejorar la atención en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTzFMUi1kdkNhOVJMblV5OHFRb25IYktVYUE1bGdGSnRyazNSYm91eGNXaFl0dFZaNTBvY0JhOWdSb2NuUHhMMWhXTzU5RTEzc0g4NWFCLUtDMzNlVzJUaVJGejU1UmNkRUJaOW85Smx6c3FIMGJ1SHdsdHNqREJ5ZHpIRjJHbTZjZ0RoNzhaWlhXSzlfRjVaNHNMNjlhU0lXcnQ2Y3Y0ZGZDbkY4M0RnZ3ZGbXVxbDZRM0Jrbmw0LXA1RnlXcTZBVA?oc=5",
+     "fecha": "2026-11-18T00:14:49Z",
+     "medio": "El Observatodo"
     },
     {
      "titulo": "Costa Rica realiza acciones estratégicas en mercados prioritarios previo al inicio de la temporada alta turística",
@@ -174,6 +174,12 @@
      "medio": "araucanianoticias.cl"
     },
     {
+     "titulo": "En Villarrica y Licán Ray: Positivo balance de temporada estival",
+     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaWVKNHJzU3FTWk12QWhlanZ1eFVrSjcyU3BOaHYzcFN1MDFLMk5mQVB5Vmg5S0pGNk5yQnIxaXZpNzZza1Zpejl3cUluM1VIWndzY082OER2NE9JMmp2aHhJRTVNTWtZY3dYSHNHOTlXYmwzMU42SVlEaEFOeXdFSHZuMFNCZll3a3Foa3F0RWxvcDFYRE5KdFFiWndfb1RVVXljYTFSWUtmZw?oc=5",
+     "fecha": "2016-03-04T08:00:00Z",
+     "medio": "araucanianoticias.cl"
+    },
+    {
      "titulo": "Turismo se fortalece en Licán Ray gracias a la creación de innovadora Red de Turismo Mapuche apoyada por CONADI y CORFO",
      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZkx0Tlg1Z2ZqLUI5MlFNd2NxV1pOckxJUjYwdjBJMzNkWnNiS05SZkQ1OVpCajhhRl9mS3lKY2JyOEFpWC1MWU9JZF8zMW4wLV9jSzAzSWt5R0g3TnFtYmJRa25Wdnd0T0FCOHZzR3JORkNQWGZTNmdlRkUyVXJJZVh2TVlDZGU4YWZUU1VuYjhKWUhSeTdRLW53WUxEYmVBY2NWbk1tSER0bnd2cFhBZVJMNHlJOVdzeDNtYTRqTkJsUEJyV01wUTQ4U0o5ejk3R1BHTE1QX0ZhRDZza2tvM3B0OGlCMkk1Mk1aSUtTNlZXeUE?oc=5",
      "fecha": "2014-01-27T08:00:00Z",
@@ -196,6 +202,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVWM4dFJzZU5yRFJ6T2Z1Z016V0NJZVduR3pzQ1lFM1cweW1fMElnQjR0YUJ0RlNXWnAydHZGeUtlRTh3OGJiMWJHT0UzX0t4SnhUdk5EVW5BaDBHNHV3eWptSjRKbnRXdnUxME9EU2cyQjc4YXI3RVliM3g3a0pKYjAwMGVCZkNLMzR5NzdsSzNBWGlDLWZqdUJtaTcxV082YVdrcndfQU1tTHpCdHl2M0JqYWVsc0Mxa2N5ekJ3M21HY2pZRXV6MlY5ZTRJZVN2Q1p4Rm41RDR1dzRUYlJxVzJTU2FjZw?oc=5",
      "fecha": "2026-11-17T21:36:05Z",
      "medio": "Walmart Chile"
+    },
+    {
+     "titulo": "Chile, país cervecero: una industria que genera más de 71 mil empleos y representa el 1,46% del PIB",
+     "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYnUxU2NvQmNnS05YZWhXeENMRnNtOTA3MnhuS256dGhmS1J5VFAzd2JQU3ZYUzN1X1c4RFlJSF9PRXdsRjZFZ0g1QTFhblRlNXA4azZ0R2lWMHRaTUFMTEluTUVSY1hJWE5mZXUzWnFwcXBRa25SNC01NEpDX01OaUxwN1NpbWNJVHRvdlpyYnhYS2ZrdDM5ZnhnaWlOb3pNZ3NLcUhMQmZFYVNJcjQwcllFUURKX21HcFhZZ3lNN2xZR3FiQjlVelY0NzZ6eHhCWmRkUVljUlNsZHdSYWdidmZrdFlpTjc1NVUySlVUeDR3N090Y1E?oc=5",
+     "fecha": "2026-11-12T17:21:30Z",
+     "medio": "El Mostrador"
     },
     {
      "titulo": "Colombia anuncia acuerdo con Chile para reconocer trabajadores en construcción y gastronomía",
@@ -312,6 +324,12 @@
      "medio": "laizquierdadiario.cl"
     },
     {
+     "titulo": "Cientos de organizaciones y personalidades por la reincorporación de despedidos en Antofagasta",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTFpkZlgyUjRNTjBwX3lqZFVWd3NmTllMRm81S21rOHhGWkdrMGRCZVR2cERuQlJucTlPMG5vOGUxNGg0b0JweUpyYk9UUHlxY2NTbE9qRWh1cnN4YjlzelBLSEVHMVhSYnRvWTliWFZQTnFZeEppQk1vRFM0MnlxUTZ2V3djR2VNd0sxNWVoZWMxUTZUcFozSzR2STlhLTlySG5Na2Q5RmsxSEpTTkowQkZ4c2RocGdjN2F0Tk1GbHllOUtMWUHSAc4BQVVfeXFMTjVhVi1HVmxUZVZlS1ViclhfcGdBdWp3YnRyR2J4Q2M3VU4tTm5PTDAzWXdIdllGV290bFpSb2hEQzZTUTZQZEVLZ3NPZDZWdEo2aHdMVjMtRFFQU09Wd08xV05QS1E5NGFfaWhuelcyRDBLZGJLYVpaNXBjS0xEY25mZTdGeXJSazBObkZwMERaMDMxSkp2cnFkTVRTS2tyX09CcVJWTEI2VFJjZ2NqWWlpbVB4dnNBTk1RMVdZaHBDU0VlOVZfY0VyZnVxVmc?oc=5",
+     "fecha": "2018-02-26T08:00:00Z",
+     "medio": "La Izquierda Diario Chile"
+    },
+    {
      "titulo": "Hotel Diego de Almagro: Intransigencia patronal e invisibilización mediática",
      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1d1TnhwVjg5MzhtaVFyOXMySThHanp4VTN4ZUNFbmh2Y0dfdFNCRl9ScWNlWGlRcXB0TlFnZ2tiQ1paaUh2c3NUbGxMMnlaWlJFblpPb1Zndjl2Z0Y0VHMweXFoTUFmWDNkUE9TRnlKZVZVbDExUzdWdFBPQ2pjTG9QeTNVZml3MC1SUlZJVklFV0ZhS01aWU80MDJ0U3FQSW4tdGVrM3lqcTJidllkQW1vaWHSAbwBQVVfeXFMTmF1WDVObUtfQUZlQ3hwRVgxQ2NjNUNQajRERDNsY05oeUpBZWtVdzNudmZoUG52dHZWdk5FLTNwSnRMd1pOYzdJYmhoM1phd05ZY0ZLVU1oWXRMci1FeUluYTJFYnRldll2dDdybWhPeDdQLXRCZjFHRzdQU09oYy1idFBBcTIyNlZ0dnR1Q0dIaVFUempMbmllWUgtRVJyTWQ4Ni1zWmZoWFJZOTk2OVlSaXBWeTRiM1lyZkU?oc=5",
      "fecha": "2017-02-27T08:00:00Z",
@@ -337,8 +355,8 @@
    "items": [
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTlYNXpQTVdzMnJJT3ZTY3ktcDFaWi1BWm1BMExXQW9hQkVDZDZJeldlbURFNGYxLXhSdXQ0YS1VWUIxMjh6T0ZzOF9zZGFQRGRYUWZPUFBTTldJWUtaRU5OdF9PNC1ZM3h3N0tRXzRFMWRiSnljRzZIX1NqV05WZ2N5TVJTVjQyNkRURlBDYkh3OWg0Q3ZaNTQyQTVRcjUySWVmWjlndm5JUTNQVW5oM3J2Y2s3ekU1ZEtpTE9tTnl3TDMwblpNbWQtZw?oc=5",
-     "fecha": "2026-11-18T15:23:32Z",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
+     "fecha": "2026-11-19T15:25:32Z",
      "medio": "El Mostrador"
     },
     {
@@ -352,6 +370,18 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXpmWVNTa3dsSFFqUHY0MlVXWFdwNXlzenJkeW1Od1p6QTdkYU9IU1VVRDZkRDJETE9iSGt4cnAxNVJCNmJrZ052ajRFYWZGRjlQSFFuSXFHTlVQS0Rld3VZVnBLdVVRai14SVdXbzNHR096Ykw4OTc2c1BFNkhpV3o2VXpQc1EzMlVvSzJTMXdrVVkwWnJBd0RqRVZMYnpzd0RfdXhua2dVX2Fab2FYa29PLVlpX2I0?oc=5",
      "fecha": "2026-11-16T19:54:02Z",
      "medio": "Canal 13"
+    },
+    {
+     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
+     "fecha": "2026-11-16T13:14:42Z",
+     "medio": "Soy de Osorno"
+    },
+    {
+     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
+     "fecha": "2026-11-15T21:03:47Z",
+     "medio": "CNN Chile"
     },
     {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
@@ -411,18 +441,6 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
-     "fecha": "2025-01-15T17:20:30Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Los 100 años de la Dirección del Trabajo en Chile - Aporte al Debate Número Especial",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMXZIY1dKSS1DbjEwZkJPWnc1Sl9TS0JrSFdDUnBPMUx4cE0zUDNKME80Tm5hZHBCRlVpcnN6cDd0QXgzeERJYUk5dm9JVzMyV05FY0xaNjVxdXVZaDlHUWZFVHZYVWM?oc=5",
-     "fecha": "2024-09-30T07:00:00Z",
      "medio": "Dirección del Trabajo"
     }
    ]

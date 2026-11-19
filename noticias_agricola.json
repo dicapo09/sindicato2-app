@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-19T13:56:22Z",
+ "actualizado": "2026-11-19T15:36:13Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
     {
+     "titulo": "INDAP destina más de $2.182 millones a proyectos de riego en la araucanía para fortalecer la agricultura familiar",
+     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUXcxeS1FSVFwZkJIcUNDc29fQ3doT2FtajVtcXR5cDVrVkJwR3UwaVNtRVpEYlJJMXRrNGlzaFVfNWs2YlhJbjBJT3pGUGQzTnEzQkNvYnVtcThEYzVoMUNCdTlYUl9HRE5ZUGlMQ3lkUThNaTBBdk91MTd5NGNPb0FSbl9SQlZWdlV1YTJucXVkMXk1Q29WRE5TV3JOdGNqaFdmTEVoYjBqNVkxOXQ2Q01MbUMwcHhqUjMtQzV5VEJQTkFnVWtLZ3o1R0NLZ0dVdy1Ld2Z4NGF2OXI3Z2E2dk5IRFZCbFlKdTdF?oc=5",
+     "fecha": "2026-11-19T14:18:40Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
      "titulo": "Frutas de Chile refuerza estrategia de promoción en Brasil para potenciar el posicionamiento y consumo",
      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaUVUVUJNSWRiRWxqV1BPcV9iYU5IMnNBeEw3cGNRR3RTaEJRcTAycnloQ2hOSVhTUTFuNDJpdnBBUUdPV2xsa0hnNER4cHRCQ1IwNWhlemE0eVAzMHFBbUIxbE9COVlvZVdMSndVUkVzZjNmR0pVMlhyZzV1V0lBOVRTb2xKU1F4ZGRVTFRYcmRHd1gwQWd2NDZVcG9lTHcwZGk1WGh5cm8wdFBoRVlMVjkyeXhicGluclJhekpyWWtrbTdBOFAyd0VjUDRDSWRuekZjeDhlaU4tTG9rd0E?oc=5",
      "fecha": "2026-11-19T12:46:38Z",
      "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "INDAP DESTINA MÁS DE $2.182 MILLONES A PROYECTOS DE RIEGO EN LA ARAUCANÍA PARA FORTALECER LA AGRICULTURA FAMILIAR",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ0ktV05BR3QtNkd5QkZtaEFOVVhKSnZLV2JtLTAyVlhVSkJXR0t1SzY2SlR2eTNyMmFNS3o3V0ZfRml4eWhKUFZwOUZJRUlyMUZ4QVpyUEFlMk5nLVpKdXlvN0IzY1hJWUZ6WExUM25WWld3V0NQMFhiRFBDcjQtTWdNQUFFWVZCVXV3ejNiY3Zwc09FQVNXMWE3OERGRzVTeGVaRXpadE5pUVUwY1FhbHNvWlBzQlp5MndJbmNCdFdLc3FkVUUtMkhPMWxfSktGbTNuVWZibUJkQ0hjbm91SHhOYXBWc0R2WGFWYjNn?oc=5",
-     "fecha": "2026-11-19T12:34:58Z",
-     "medio": "Araucanía Noticias Temuco"
     },
     {
      "titulo": "Ipsos Chile: “Somos uno de los países que está más preocupado por el desempleo en el mundo”",
@@ -102,10 +102,10 @@
    "nombre": "Agro en La Araucanía",
    "items": [
     {
-     "titulo": "INDAP DESTINA MÁS DE $2.182 MILLONES A PROYECTOS DE RIEGO EN LA ARAUCANÍA PARA FORTALECER LA AGRICULTURA FAMILIAR",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ0ktV05BR3QtNkd5QkZtaEFOVVhKSnZLV2JtLTAyVlhVSkJXR0t1SzY2SlR2eTNyMmFNS3o3V0ZfRml4eWhKUFZwOUZJRUlyMUZ4QVpyUEFlMk5nLVpKdXlvN0IzY1hJWUZ6WExUM25WWld3V0NQMFhiRFBDcjQtTWdNQUFFWVZCVXV3ejNiY3Zwc09FQVNXMWE3OERGRzVTeGVaRXpadE5pUVUwY1FhbHNvWlBzQlp5MndJbmNCdFdLc3FkVUUtMkhPMWxfSktGbTNuVWZibUJkQ0hjbm91SHhOYXBWc0R2WGFWYjNn?oc=5",
-     "fecha": "2026-11-19T12:34:58Z",
-     "medio": "Araucanía Noticias Temuco"
+     "titulo": "INDAP destina más de $2.182 millones a proyectos de riego en la araucanía para fortalecer la agricultura familiar",
+     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUXcxeS1FSVFwZkJIcUNDc29fQ3doT2FtajVtcXR5cDVrVkJwR3UwaVNtRVpEYlJJMXRrNGlzaFVfNWs2YlhJbjBJT3pGUGQzTnEzQkNvYnVtcThEYzVoMUNCdTlYUl9HRE5ZUGlMQ3lkUThNaTBBdk91MTd5NGNPb0FSbl9SQlZWdlV1YTJucXVkMXk1Q29WRE5TV3JOdGNqaFdmTEVoYjBqNVkxOXQ2Q01MbUMwcHhqUjMtQzV5VEJQTkFnVWtLZ3o1R0NLZ0dVdy1Ld2Z4NGF2OXI3Z2E2dk5IRFZCbFlKdTdF?oc=5",
+     "fecha": "2026-11-19T14:18:40Z",
+     "medio": "Portal Agro Chile"
     },
     {
      "titulo": "VINOS, CERVEZAS Y LICORES CON IDENTIDAD LOCAL LLEGAN A EXPOMUNDORURAL DE INDAP EN EXPOSOFO",
@@ -174,6 +174,12 @@
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
+     "titulo": "EXPOSOFO 2026 reunirá a toda la agricultura chilena en una versión histórica en Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNko0VjVyaHp4bF91b1Q3d0thYkpoaGJNYkVwLUh2bWl0MGo4MEIyX1FjQ3lJZDRCdDJfbzV5RmZXV19uRTE3RmVsSUVuR2o1S2c0Mnh0VXgwVW5obVhzLUpIVHd3UThURWFSR1VVOFBrU05xVmhvY3RpQm5VajlEMzFwUkQ0a2E4dE83bmlSQ1B6dVJpc0VOeE42WUlIZERObmxLY3hEdDdoOTJiVjU0TmRXbHJvSE1VOU84Z2ctaU9JWDdjaUVWQUlB?oc=5",
+     "fecha": "2026-11-10T20:54:27Z",
+     "medio": "Temuco Televisión"
+    },
+    {
      "titulo": "INDAP Araucanía avanza en estrategia 2026–2030 para fortalecer el apoyo productivo a los pequeños agricultores",
      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXRRZGtVWEZfWXY5WkJTbERlVm1lcmZHVWFTSEtfQmpZRTNLeFN1MjhyXzJsX1l6SThGeHZON2pxRTE0R3RoU1lCU3pGcHlURkhrc3BNN0Z2bjF6VG1tZldremlnWTU5NjUtelM0LXllSVVGNGlCS2tvYVhEMGdSQy0yX2J6aS1PQkhwUDBSOHNocnpqX2M5MlNhM09rMWRsQTJsdk41QTFHaGhMNXVMWEo3TVkxd0NmS2J1Tg?oc=5",
      "fecha": "2026-10-15T07:00:00Z",
@@ -183,12 +189,6 @@
      "titulo": "INDAP invierte más de $71 millones para fortalecer la productividad y calidad de vida de agricultores de Toltén",
      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWnhoQVB2YWFJVk5WX2FhUGhWeHNFU2NwellmN1BvdEhmbDFNMDZHcldJemJxMmNUREg4dWtEOHBwc2poSHV3dTYxT0ZlZVFGZFVSTW1zSzdxUkNpY3NTbFRNYzRDMzlxV1UwTTVTYnZhXzBvdE9TU0VCZTFUY0thalRLNkg1TFV0dzRZZ2JGZ0ZOc2FIUnhWNUdSQnE3Z0o4R0cxc1ZxOFF3c0ZpdDNzNURocUFDMk1seUJLSHZB?oc=5",
      "fecha": "2026-10-05T07:00:00Z",
-     "medio": "Indap"
-    },
-    {
-     "titulo": "Gobierno anunció la declaración de emergencia agrícola por sistema frontal en la Región de La Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZnVySjdMdUxMWm1TR0ppTTlHWHBKeXNkZXFaUnV2WFh5UmxJbDJfLS0xTkNTN0VHdEF4NXNnYzQtbjZseXZ6UW9pR1lYaDgzZG1iVk9aTXJ6c0xJRzZYamJWZENFazJJVzdzQ3BURDFhQ3NGdTY0clozV0xzX193eFBpVFI0SGxqNk4xMFV6VFcxaFdET2tnM1RrV0RVMmp4SXJzUXRvRGlxNkh4ckxHNWpyUXd4ZE1Jd2d4cmVxWktoUQ?oc=5",
-     "fecha": "2026-08-05T07:00:00Z",
      "medio": "Indap"
     }
    ]
@@ -336,22 +336,10 @@
      "medio": "El Sol de Yakima"
     },
     {
-     "titulo": "Sindicato Salvador Alvarado interviene por adeudos a trabajadores agrícolas en la Costa de Hermosillo",
-     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLTI2X2tuZUdqcHc0VDR5azdRVkZlSEduSW9QWi1SNkdNdmNQXzEwajE4czRSdHFOZGxXbGY5MjJwcWRXZElzdE4tUlE4am40RzNTWjVzVmlNUVVJVlA2YU9kQTBNM192S0V6Und1TXo2eUx5MU5aTlRSTnY1V21HemxNY0pQdy02VGNUWGVrS3J1LU9PSFFCb1JwdFpmVkVjVzdkTGxLcjM2czV4YlpmS0xiTWxNMEFhbENWOTgxWGxyQlA0Q1JhQUFfcHExakJRc3c?oc=5",
-     "fecha": "2026-06-30T07:00:00Z",
-     "medio": "INFOSON"
-    },
-    {
      "titulo": "El sindicato agrícola UAGA-COAG dona dos corderos a la Casa Palestina Aragón por la Fiesta del Sacrificio",
      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOekp2OVlJMUJhbnpLNXhxTHJvYkpqUmNQYy1rOEY1TnVtVnJERmQzNmd2dGxreXFMeHh3STQxek5oZWRxTHdoSVh0cHRBTEJuMC1xWEY1bGo0RlJrWjFNRldZZUdmd0pJOG5QOGVXNnZQbHZHSVZYTDVVaTVDeDlrbzFfSm9ZTDR4ZzVsMEpMcTlPbnNDTlJtX21NNS1tZURZVmNNcHFaSy1DLVFfQ2NhTEZjQmkwQkZVdnl0TnFJY1RlX1RoMzg2cmllU1REU0tIdkZlRnViNklaanlNeUtaS3FkOUo2NjE2TGppdjRpWjVPSjjSAYcCQVVfeXFMT2N1d2FzaWU5akFrYk5wYXpQWHB1YXBDQ2NySzNxTDVZUHZGaFl0ekRydklqSWFIXzFGa28xb0MxdHdRTF9hNlVXYnVSU2hrZy1WTzRnM2RndUt4UDFHbUY1Rjh6eEczVHpsZ1pLVm5Za0U1WWlBT2IwQVZOVWpFV0lsdk1EUmZteHJEVmt4SS1CVllHWVFGMWNtS0tNVF9qWlNiVDlERm1JUWxtendnZ2x5eFJQTzJuVkpjUzRkMGpXUU5sNzVZMlZSYUhyZWN4TjI1RGlWanpjZWtuNEEzajN5dDNPZWdhbDZCVkFicFlUb05pZXhTNlBDSV9JbEFBWVZQc3JBTXM?oc=5",
      "fecha": "2026-05-27T07:00:00Z",
      "medio": "Cadena SER"
-    },
-    {
-     "titulo": "Sindicatos respaldan a Sheinbaum en defensa de soberanía",
-     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkNXTmpVb2RJd1lpczEzWGZjUnJhQ0h6ZG5yTmJabEs0dUZkOTdVVnQ0ekpCSEpYUmJjTmduMFFxbDBVUWdVRjNKNndPdlJIc2htWkQ1c0xtV3lVUTlFVkxIdXpTNkwzdi13ZDF6VWlMVHRRMElFZkNJTWxPVFlzSXdfVWVkT3pJUGpnT2NHRy0?oc=5",
-     "fecha": "2026-05-01T07:00:00Z",
-     "medio": "IMER Noticias"
     },
     {
      "titulo": "100 años del Sindicato Amarillo",
@@ -382,6 +370,18 @@
      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPandTb2g1QzA4RG9kcmZaVmV2R0o2bG0tRWgzeHVDQ3Y4bEZtSG5lSGNuazV2X0lKbmgyak9yaUJhQmk3MGI4MDlGRGw3NU9jZThMWjVyWnN2TG5qUkNfb0JwNEdMc2oyanNSUENVMkNTUjRsd29lUzM3OElCeDdqbEl2Mk5lMFJoVlVIa19VNDFReG1BbFh5clliNlpwRmNMS1lLZE05OWtyWVN1V3dXZTNQVG1EU3JBNDVuRlRzbFdtX1V0Y1J4WUFxRjk4VDRaYTVlMlhWcGFEdlhFMGxuQg?oc=5",
      "fecha": "2025-12-19T08:00:00Z",
      "medio": "RTVE.es"
+    },
+    {
+     "titulo": "Acuerdo UE-Mercosur: sindicato agrícola francés denuncia una “traición anunciada”",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDdzUkd3Ul9FVURnS1NPb0pIU1lZdmJTa1ZfRlZiTnpBRmpQU2FROTlDUnQtQ1ZsVUZvbHdHa0FVa3FvTEtxcVdEZFh5bXljM1h5S1lsRk9JME8wMEY4OGM2VkctZnNqZWxSR3k0Wm9TLTZKV1B1Sm9XTlhGMTdrNkpMc2JUYm1VLU16V3JoT296VFMzUUFOaXN5aW5FR1RvOE01S3hmZWRRd1MxM1U1TEJ0VTB1NTN6ZXN2RlBOM09hNDhxQTFXNw?oc=5",
+     "fecha": "2025-09-04T07:00:00Z",
+     "medio": "BÚSQUEDA"
+    },
+    {
+     "titulo": "La Entrevista - El ICE “está prácticamente secuestrando” migrantes, denuncia sindicato agrícola de EE. UU.",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSUdSMWlHSDFIN19oclYxbGRQZHQ2ek52LVR3MEVBRXBfVHRFdE9aYmxQX2tVRldMcEtna2hUVUFrLUJXNUJfQ3dfdjY3XzI5VE5WODF0SUF3S1Z5ZDRoTzZ6X2FKZ0JJZHU1SUFwcVFnZUtwN3prdnEwOVNMeVpvRDdSamVMMkhveTJzY1hndnNhUmc0bjVqSGhRTkpla0h4NVd6TDdpTFZuOElaNlA3Z3ZiVHc2Vl9rbHpEQ1JPMzFtaWk0XzdHWm9BZVcyTFZDbFpwN1BCWGNsWE56bVBHR3FzbVFNY1lvdFRnTFZ2cnlBaXM?oc=5",
+     "fecha": "2025-07-22T07:00:00Z",
+     "medio": "France 24"
     }
    ]
   },
@@ -391,8 +391,8 @@
    "items": [
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTlYNXpQTVdzMnJJT3ZTY3ktcDFaWi1BWm1BMExXQW9hQkVDZDZJeldlbURFNGYxLXhSdXQ0YS1VWUIxMjh6T0ZzOF9zZGFQRGRYUWZPUFBTTldJWUtaRU5OdF9PNC1ZM3h3N0tRXzRFMWRiSnljRzZIX1NqV05WZ2N5TVJTVjQyNkRURlBDYkh3OWg0Q3ZaNTQyQTVRcjUySWVmWjlndm5JUTNQVW5oM3J2Y2s3ekU1ZEtpTE9tTnl3TDMwblpNbWQtZw?oc=5",
-     "fecha": "2026-11-18T15:23:32Z",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
+     "fecha": "2026-11-19T15:25:32Z",
      "medio": "El Mostrador"
     },
     {
@@ -406,6 +406,18 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXpmWVNTa3dsSFFqUHY0MlVXWFdwNXlzenJkeW1Od1p6QTdkYU9IU1VVRDZkRDJETE9iSGt4cnAxNVJCNmJrZ052ajRFYWZGRjlQSFFuSXFHTlVQS0Rld3VZVnBLdVVRai14SVdXbzNHR096Ykw4OTc2c1BFNkhpV3o2VXpQc1EzMlVvSzJTMXdrVVkwWnJBd0RqRVZMYnpzd0RfdXhua2dVX2Fab2FYa29PLVlpX2I0?oc=5",
      "fecha": "2026-11-16T19:54:02Z",
      "medio": "Canal 13"
+    },
+    {
+     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
+     "fecha": "2026-11-16T13:14:42Z",
+     "medio": "Soy de Osorno"
+    },
+    {
+     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
+     "fecha": "2026-11-15T21:03:47Z",
+     "medio": "CNN Chile"
     },
     {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
@@ -465,18 +477,6 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
-     "fecha": "2025-01-15T17:20:30Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Los 100 años de la Dirección del Trabajo en Chile - Aporte al Debate Número Especial",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMXZIY1dKSS1DbjEwZkJPWnc1Sl9TS0JrSFdDUnBPMUx4cE0zUDNKME80Tm5hZHBCRlVpcnN6cDd0QXgzeERJYUk5dm9JVzMyV05FY0xaNjVxdXVZaDlHUWZFVHZYVWM?oc=5",
-     "fecha": "2024-09-30T07:00:00Z",
      "medio": "Dirección del Trabajo"
     }
    ]
