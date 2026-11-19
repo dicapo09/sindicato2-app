@@ -1,0 +1,24 @@
+name: Notificaciones push
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # GitHub lo ejecuta cada 5–15 minutos
+  workflow_dispatch:
+concurrency: { group: push, cancel-in-progress: false }
+permissions:
+  contents: read
+jobs:
+  avisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Revisar publicaciones nuevas y avisar a los socios
+        env:
+          FIREBASE_SA: ${{ secrets.FIREBASE_SA }}
+        run: |
+          if [ -z "$FIREBASE_SA" ]; then
+            echo "::warning::Falta el secreto FIREBASE_SA (cuenta de servicio de Firebase). No se envían avisos."
+            exit 0
+          fi
+          pip install -q google-auth requests
+          python3 tools/push.py

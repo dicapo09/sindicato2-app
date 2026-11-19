@@ -318,7 +318,7 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-vis
 
 <script>
 (function(){'use strict';
-var APP_VER=22;var VERSION='3.6';
+var APP_VER=23;var VERSION='3.6';
 function reboot(){if(typeof window.__sin2Boot==='function')window.__sin2Boot();else location.reload()}
 var REPO_RAW='https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/';
 function apkVer(){try{return +localStorage.getItem('sin2_apk_ver')||0}catch(_){return 0}}
@@ -754,7 +754,7 @@ window.tenGo=function(){var c=$('tCode').value.trim().toLowerCase().replace(/\s+
   setTen({id:c,nombre:x.nombre||c,titulo:x.titulo||x.nombre||c,empresa:x.empresa||'',sector:x.sector||'',color:x.color||'#23407a',color2:x.color2||x.color||'#3561ad',logo:x.logo||'',rubro:x.rubro||'mineria',puerto:x.puerto||''},true)})
  .catch(function(x){lmsg('tErr',x&&x.message==='timeout'?'Sin conexión a internet.':'No se pudo buscar el sindicato. Revisa tu conexión.')})};
 window.tenCode=function(){if(typeof fbUser!=='undefined'&&fbUser)return tenSwitch();try{localStorage.removeItem('sin2_tenant');localStorage.setItem('sin2_multi','1')}catch(_){}reboot()};
-window.tenSwitch=function(){if(!confirm('¿Cambiar de sindicato? Se cerrará tu sesión en este.'))return;var go2=function(){try{localStorage.removeItem('sin2_tenant');localStorage.setItem('sin2_multi','1')}catch(_){}reboot()};
+window.tenSwitch=function(){if(!confirm('¿Cambiar de sindicato? Se cerrará tu sesión en este.'))return;var go2=function(){pushUnsub();try{localStorage.removeItem('sin2_tenant');localStorage.setItem('sin2_multi','1')}catch(_){}reboot()};
  if(FB&&fbAuth)fbAuth.signOut().then(go2,go2);else go2()};
 /* contenido de la demo: fechas relativas a hoy */
 function demoContent(){var d=function(n){var x=new Date();x.setDate(x.getDate()+n);return iso(x)};
@@ -839,7 +839,7 @@ function fbAfterLogin(u){Promise.all([col('socios').doc(u.uid).get().catch(funct
   var sd=r[0].exists?r[0].data():null;fbSuper=!!(r[2]&&r[2].exists&&(r[2].data()||{}).rol==='administrador');fbAdmin=!!(r[1]&&r[1].exists)||fbSuper;fbOwner=fbSuper||(fbAdmin&&!!r[1]&&r[1].exists&&(r[1].data()||{}).rol==='administrador');var old=profile()||{};
   store('sin2_card',{name:sd?sd.nombre:(old.name||u.email),rut:sd?sd.rut:'',num:sd?(sd.num||''):'',area:old.area||'',email:u.email});
   var estado=fbAdmin?'activo':(sd?sd.estado:'sin-registro');store('sin2_fb_session',{uid:u.uid,estado:estado,admin:fbAdmin});
-  if(estado!=='activo'){showPending(estado);return}
+  if(estado!=='activo'){pushUnsub();showPending(estado);return}pushSub();
   fbLoad().then(function(){asisFlush();if($('shell').classList.contains('hidden'))enterApp();else show(hist[hist.length-1])})
  }).catch(function(){var c=load('sin2_fb_session',null);if(c&&c.uid===u.uid&&c.estado==='activo'){fbAdmin=!!c.admin;enterApp();toast('Sin conexión: mostrando lo último guardado')}else{showLogin();lmsg('fErr','No se pudo verificar tu cuenta. Revisa tu conexión.')}})}
 function byFecha(a,b){return String(b.fecha||'').localeCompare(String(a.fecha||''))}
@@ -847,12 +847,16 @@ function fbLoad(){return Promise.all(COLS.map(function(c){return col(c).get().th
  .then(function(r){var o={fb:true,actualizado:today(),sindicato:Object.assign({},DEFAULT_CONTENT.sindicato,{nombre:T().nombre,empresa:T().empresa,sector:T().sector},r[COLS.length])};COLS.forEach(function(c,i){o[c]=r[i]});
   o.directiva.sort(function(a,b){return (+a.orden||99)-(+b.orden||99)});o.eventos.sort(function(a,b){return String(a.fecha).localeCompare(String(b.fecha))});
   var had=A('informativos').length+A('noticias').length>0,before=unreadInf()+unreadNews();C=o;store('sin2_content',o);store('sin2_synced',Date.now());var after=unreadInf()+unreadNews();if(had&&after>before)toast((after-before)+' publicación(es) nueva(s)')}).catch(function(){})}
+/* notificaciones push: el APK (v2.2+) suscribe al socio activo al tema de su sindicato */
+function pushTopic(){return (!TEN||TEN.demo)?null:(TEN.root?'sin2':'s_'+TEN.id)}
+function pushSub(){try{var t=pushTopic();if(!t||!window.AndroidApp||!AndroidApp.suscribir)return;var old=localStorage.getItem('sin2_push_topic');if(old&&old!==t&&AndroidApp.desuscribir)AndroidApp.desuscribir(old);if(AndroidApp.suscribir(t))localStorage.setItem('sin2_push_topic',t)}catch(e){}}
+function pushUnsub(){try{var t=localStorage.getItem('sin2_push_topic');if(t&&window.AndroidApp&&AndroidApp.desuscribir)AndroidApp.desuscribir(t);localStorage.removeItem('sin2_push_topic')}catch(e){}}
 function fbStart(){fbInit().then(function(){fbAuth.onAuthStateChanged(function(u){fbUser=u;if(fbRegistering)return;if(!u){del('sin2_fb_session');showLogin();return}fbAfterLogin(u)})})
  .catch(function(){var c=load('sin2_fb_session',null);if(c&&c.estado==='activo'){fbAdmin=!!c.admin;enterApp();toast('Sin conexión: mostrando lo último guardado')}else{showLogin();lmsg('fErr','Necesitas conexión a internet para ingresar.')}})}
-var _logout=window.logout;window.logout=function(){if(!FB)return _logout();if(!confirm('¿Cerrar sesión?'))return;['sin2_card','sin2_fb_session','sin2_content','sin2_votes'].forEach(del);fbAdmin=false;(fbAuth?fbAuth.signOut():Promise.resolve()).then(function(){showLogin()})};
+var _logout=window.logout;window.logout=function(){if(!FB)return _logout();if(!confirm('¿Cerrar sesión?'))return;pushUnsub();['sin2_card','sin2_fb_session','sin2_content','sin2_votes'].forEach(del);fbAdmin=false;(fbAuth?fbAuth.signOut():Promise.resolve()).then(function(){showLogin()})};
 var _sync=window.sync;window.sync=function(manual){if(!FB)return _sync(manual);if(!fbDb||!fbUser){if(manual)toast('Sin conexión');return}fbLoad().then(function(){if(manual){var st=$('srcStatus');st.textContent='Contenido actualizado.';st.className='status show'}show(hist[hist.length-1])})};
 if(TEN&&TEN.demo){window.sync=function(m){if(m)toast('Modo demo: el contenido es de ejemplo')}}
-var _wipe=window.wipe;window.wipe=function(){if(FB&&fbAuth)fbAuth.signOut();_wipe()};
+var _wipe=window.wipe;window.wipe=function(){pushUnsub();if(FB&&fbAuth)fbAuth.signOut();_wipe()};
 /* encuestas con votación real */
 var _renderPolls=renderPolls;renderPolls=function(){_renderPolls();if(!FB||!fbDb||!fbUser)return;
  A('encuestas').forEach(function(p){var ops=Array.isArray(p.opciones)?p.opciones:[];if(!ops.length)return;
