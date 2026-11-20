@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-20T13:53:28Z",
+ "actualizado": "2026-11-20T15:35:02Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
+    {
+     "titulo": "Plaguicidas y exportaciones: el desafío sanitario que preocupa al agro latinoamericano",
+     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVZWUlVPcDB1djFET3lvQUVHdHgtMTZxVjQ1UzMxWThPZUgwR1p6NWdlcFhJWDFHTncxYVRVNm1EQ1VSZWhsVzZTZDhWTWRnX3hGamV6b3JETUNXUlNuSU4yVVJfR1Z6X1lrNkx6QThxV2luS2NxaUd6WE5ZT1lBMlFnR1pXQ1JWdFRYRXh4MXhRMkhjWWZOM1gtbXhtdXN5dk9qS29zVGMta1loOGtVQWlvQUlBWFFiMngxaHNxeUpUbTlVeGhPeThuc1d1R2VQQUE?oc=5",
+     "fecha": "2026-11-20T13:20:02Z",
+     "medio": "AgroLatam"
+    },
     {
      "titulo": "Presupuesto 2027: Senado despacha, rechaza partida de Agricultura por doble empate y repone fondos a Educación",
      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRnI2cUNHclZNTW9mUTZ6NWQ0VFdFNzc3d1l6TGJYMVlrb0Y5T0JaV0t4eDdJdktybnJySG1kUEJVVE1hNlNKTFpWT2I5TUJhaXNWTjBVWS1kT1RJdzF0ZDQtQmR1Zlo4MXhqOWg3Y3F5ZzlEWGMxNXhELVNzdmdLT0Ric1JTenNjcFgzYUhZVS15c2VENVZ0N0l1MTlrVXl1RktaOFJVa3RTb0xIdXlIRjhZOW5YaF9oRm01ckQwYXZMemJGdDFNaHEwX09zYjMyMmFRdld4SG1TUjNJX3c?oc=5",
@@ -42,10 +48,10 @@
      "medio": "ADN Radio"
     },
     {
-     "titulo": "Senado despacha Presupuesto 2027: aprueban partidas de Educación y Mujer, pero rechazan fondos de Agricultura",
-     "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQTRaVTNmb2FYbzJONWJmMEhnQ3VzNlNlejQ0NnVFdkJuUHpmaVY1dkZpVVV3Q1dUQlEyMzhaSmRqXzV1NkY3OGk4SmlVd095bFN5Vml6V25mTkVPMkh3NWJqRThQTmpGWlFRNk1IcEVXUUptV0poQXB5X2pPN2lEOVZHcEdrV3VJdkFROHE0bWdCSW1nV21tZFgyNy1NM256dnVQNUdZQ0kxdzNRRVlqNmoxRVZSSnFwamR1ejBRcXJRSDkwZ2gzZW1BeHp3VWthTTJuMzhtQWgxaWp4YmNseWk0dC1EZVhOQ25ONNIBjgJBVV95cUxNYk54VDVtVVlfVXJ1Yl9aaERjTE1yd21YcDR5cEE3S2dmUEQtTmVFejBxdHpwdjZKeHFwbVp3UE0xY3VLM3NYVXo4dW9pQ1p6Smw1ZU94cUZWdVBHeGdpcUhXYkhockZLdk5YbG5YenR4d2FDcnhBeGh6dHM1VlZNQ3lPTC1BR0wyNkVBZ1Vmd0ZhbkdELXpxcHhBeEEwNXFlQURHeEYwV3FNbTloRDJUaERiTFV5N1dpUkVydHJvQlY2SFBRMzdDdmdIYzJkLUU4Q2RhemlGalN4WFVGXzV2MjFuU1RyME1RQ1RjRkpKOEhxTkRGc21ycmhvdGUyWnZTdXptZ2luTVU3M013ZUE?oc=5",
-     "fecha": "2026-11-20T05:24:04Z",
-     "medio": "La Tercera"
+     "titulo": "Sin Agricultura y con reposición de sitios de memoria: Senado despachó Presupuesto a la Cámara",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSVJRNFowSXYxTmdlQXQ1Slo1aHhGTEwxVEZOVndjYUZyZzVHNks4c0Vrc3I0UnVoNnpLQjBzVm1mNWFCZVJkeXVLQ21FS1l2YVhRWEdlR2JCM0JXS0RoZHFrRFRPMzBFWWttZ1NlbTg4d1JZMERFQVR3UG1WcW1hQ09jZjdwRUVBdk1pQ3R1UmVLVXlOWGV3VjM5QUZIQ0dFUmlJenFVZjFfU2piVlBFZFNweHBjM1dqc2EtbmRVYUk2V25QWHVsYg?oc=5",
+     "fecha": "2026-11-20T10:01:32Z",
+     "medio": "Universidad de Chile"
     },
     {
      "titulo": "Presupuesto 2027: Senado rechaza partida de Agricultura tras recortes a Indap",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckhEckVlbEV0U0p1MERYSzVwTVJxZHFwRWp3cFM3SUV1dW9WdnN3eWM5Y0VFZEJUemVjVTdRRXoxRlpIaUw2QVp4SHZRaDJEZHZteHFSYnBLVE14eHdpMXg0akJud2hYNlVLdjBnS21PYU1HZUtkUEZJdFRWMlozcHAtOGlRMXVCWFpjYThIUEZaSVBrS2l0QVJ0V0pYdnVtWm1DaEVXVlFjVjZaWmFBZ1o0ZC1Fdw?oc=5",
      "fecha": "2026-11-19T16:35:00Z",
      "medio": "reporteagricola.cl"
-    },
-    {
-     "titulo": "Radio Agricultura se suma a EtMday 2026 con programación EN VIVO sobre emprendimiento y negocios",
-     "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc2tLR2s2SnJMVE5jTEktOVZXeUxpdDFJZjJuN2Y2cXI0U0RXUVVRUUdzcUEzQmd2dEhIZnNEYVJJUHlUblBkWkFvTVUtLUxEdVFsazh2NmZJcTVXd3dTaUhKZjNySjhkeTRyVE5HQ19LSHZ2VUdDQU90a3I0N2J0VXV3aXBzV3R4MUFIcUJVeVlWTms3QjdzaXFpeFlCZ3ZKNUxrYkZDaUV3bF9vSzNuUkN5OWFUdWJKa2hrZTc1eGpkWENjblduZ3NMdldadmdCNnFQVGNaN291YThlUlhHcVBacjl0LUdEbk5WUg?oc=5",
-     "fecha": "2026-11-19T16:05:32Z",
-     "medio": "Radio Agricultura"
     }
    ]
   },
@@ -102,16 +102,16 @@
    "nombre": "Agro en La Araucanía",
    "items": [
     {
+     "titulo": "GORE de La Araucanía destina casi $15 mil millones a programas de emprendimiento",
+     "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmM4a0RvQl9XWXFMY2NFQ3gwNHRBRmNlYkV3dFg5eEpESE1VQ21QeTl0UF85QkhXTnFxVENDeXFJRkdmOTZ0aDI0MHp4djFEbHNoWllZcjlQejdIT3BXbWtfUVBrb01YNHFQbkRNYzI1WWxnRjVJbGsyeE1BUWctSXJ3?oc=5",
+     "fecha": "2026-11-20T13:55:23Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
      "titulo": "Granizada golpea la agricultura de Malleco: Agricultores Unidos advierten graves daños en cultivos y frutales",
      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ta1lBYV9wTmpEXzJSVlhqUUlhX2VhNFUwODRYM2FQdkRwSmtHOV9zTmU4OUJDVkpQSGpoSC1vZGhzYzFTQzE5bFZBLWN3a0c3OW5HQXpIZ2dZQk1OVzlIWHVNUVJpRzNSNjBGbjVtbGp0TWZvcUVpdGFncw?oc=5",
      "fecha": "2026-11-20T13:46:57Z",
      "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Último episodio de \"El Agua y la Sequía en La Araucanía\" #FFMCS2026",
-     "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0g2S2JWN3V3cDljUVBYNXRMWldnVV9XbG93ZkcwNWF6YzRTUDJaclRjbEZEWll2QWQ2cHNVV3hEYm0zT1RmemNkTE9DRnpjYzUyZFJqNWhacXVFVjRDaGRjaUh3dlFRVEZ2dTctYndxbmVNQzlLQkdRa3E0aUxvbHp5c0VLUlpWY285QXZSU01rN1laMzFaYnhR?oc=5",
-     "fecha": "2026-11-20T08:07:06Z",
-     "medio": "Radio Temuco"
     },
     {
      "titulo": "Vinos, cervezas y licores artesanales de La Araucanía mostrarán su identidad en EXPOSOFO 2026",
@@ -122,6 +122,12 @@
     {
      "titulo": "Expo Mundo Rural reunirá a 50 emprendimientos campesinos de La Araucanía en Temuco",
      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmFBbGh3bEtIMmVVODBUTFlwWTVNWlktbldQOWNPZ2hSS3h0R1M2ODN1cEN6TVdsT0dSMGx6blh5a2Y5a2ptT1ZiSExObE1IaVBib0ZwN2VOdmRNTzE5RVhodlhUOE1xZk1BSGVJOE11U2dQelAwLVNkWTdNNlJFcg?oc=5",
+     "fecha": "2026-11-20T01:53:14Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Más de 1.100 estudiantes participaron en programa de educación artística Acciona en La Araucanía",
+     "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcUlCOTVjemhZX1U3NGFZXzNRckNJbkl1RmZIdE5nTERrQl9pVVEzTFk3WEhjQlRhS0F4azhsWW45SDF3NE5ZdUVMdGY1MjU2b0ZJZG5SU2JGTmJRdG9sMkFvLTY4a2pVTmU0dzNkSTVXQkkza2ZjZ1I2ZnRoV0RxRF93?oc=5",
      "fecha": "2026-11-20T01:53:14Z",
      "medio": "Alerta Noticias Temuco.cl"
     },
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQkpHRmhvZThqQ2ZRMWhHd1hRN1ZPVXVyanppZk1udkFLMndkWk1McU90Z2ZYVGptU29qc1NzeVBJZmZGNzJWQUlidGNPTTZWTkpGUDhzb1I4ZlBldkJqT2R3Y1NaZkgwU3VOUFJTUFpQbHBMZTJBVVY2UE5wR0x3RnIzaVh2SDhIZjNURVJzWnF6LUczX3JEazhnSmVjTHpTYVJ2ZWFPS1dtLUhoSjFKazdtcmI0M20tLVJTQUpJZUU4ZTRQd1RmWXNFU0J1V09CN0tvZk56SUdkSTJ6MjFDMQ?oc=5",
      "fecha": "2026-11-17T21:47:48Z",
      "medio": "Araucanía Noticias Temuco"
-    },
-    {
-     "titulo": "Feria Expo SOFO 2026 reunirá en La Araucanía a productores agrícolas y ganaderos del sur de Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeVBmUXNBZzM5UEVOYXFwb0VLX0RjbGwtUEJuVXZsel9DS1BhSkJJZXFxbTdiSWtHQldKd1hZVmlyYVpPTzU5Wm1sWjE5N1kxY0FOUGk3Uk92NnNCOThTOG9oVmx3LU1WRkkyZVVEUjJqOUZoX1QtNWZEZlM1QVZLRG9ybVBhOTNrblprRlRKN25kaS15Rno3VGt6VE04RUxpeFRuSTFmNVExeHNiQk90TEF1WklkQjNGMHlSQi0tZDlIZDlzSUZmOEZ3LWZ3ZU1LRkQwZTFQWlBRdHE3ejdwOUJIOXlvLXdyTG91bzZwQURXdEpiNG5kVWItNTlLN0NhdDhhemlUNURaRDdGeEE?oc=5",
-     "fecha": "2026-11-17T18:53:26Z",
-     "medio": "BioBioChile"
     }
    ]
   },
@@ -216,10 +216,10 @@
      "medio": "Diario Frutícola"
     },
     {
-     "titulo": "Gobierno chileno agilizaría contratación de temporeros extranjeros ante demanda de mano de obra",
-     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMUw3VGxBTzlTVFVyNi1zSUFNdFdpQno3RkNpUlR4NmpNdjB0X05fTW1oaGNpVGZ4SnFSMFV3emFFMXZ4ZlN6MDdjRE5Lb0cyUTlCbXdHT2tMdXhQYlhaeEJ3WTI2NVR6dkFfYUdlZWJlSE81NUVqcE51YUU2QVJTNnFtUkFKeGpMaS0yTHpSdFdjSDJ3ejVpZmYtYW4teGJXTXh5SU5LV0RvS1Y4a3FaU1RDc3M0X0lwVWU0MmNJbnZpUFpOaGl3bUVSSUxHZ3FKNGl0MWF3NkRsYmRjR3JZR0sxNlFaZ3B2c08zV1pnaXI?oc=5",
-     "fecha": "2026-07-12T07:00:00Z",
-     "medio": "Diario Lago Ranco"
+     "titulo": "Gobierno impulsa cambios para facilitar la contratación de trabajadores agrícolas de temporada",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmlnc2JieWVydXpac0tocGdlelVBN2FEQ29BT01xTUVJZTNBT1VaclhBX1QtRkZiWEk2SXBXZDJyQkotei1Qb29oT0t6M1RWREFBdmMxTS13QVdqem5Db3A5c1JZY1h2dHdoUFFHWkw2OTRpTkowcXY5VGVUWlIzbVdBVU4wVXYtcC1VcDA0dV9aalctMF9tSHZRMXExZ1N3SVHSAaoBQVVfeXFMUG1kQUZidGYzeDBFNDViX0NRZkpfRkRTOUZmQTNfQjBrNGRYUUhnNzFGb2dJUm4wY19mQ1lyRHBVZW5hQ0RMWXZZRkNBeDJOSVZGUnB3S3M3R1JUNURiZGc5UGl4Z0xLYTdxOXBLSUtuTGdBZlI3UTh2Y09lYm9mci1ENlNSX19QaTRNS0RqdDl2M1hoQXljTzRLMXU5Y0N1aGgtMFB2dW9PLVE?oc=5",
+     "fecha": "2026-07-11T07:00:00Z",
+     "medio": "Diario Concepción"
     },
     {
      "titulo": "Chile flexibilizará los contratos para extranjeros que trabajan como temporeros en el agro",
@@ -232,6 +232,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmdjWnN0MnBIR05ISEhVRmZJdGdfb1VxRnVXVEZhWWxXaXZGcmNGb2NieFhCYmprMXNzeG5EdUIxUjZJRkNUTV9GOWJCQWZyendXY1V1andCYkdmZk9vMHhjek9UZmNaZ0s4THF5dXhseXhoXzRXOUhOMnFkTnA2d1FOendRQW1rNzBMcVYtcUlVdEdFYkEtWWtCM3ZWVjBEemMzZ0JBb0pWNVZ1UnlyQVpCdzFGZGQ0?oc=5",
      "fecha": "2026-07-10T07:00:00Z",
      "medio": "AgroLatam"
+    },
+    {
+     "titulo": "Gobierno chileno agilizaría contratación de temporeros extranjeros ante demanda de mano de obra",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQjdodHFVRm91QXJyVEZCYS0yOEtDRk1nX3Raa2dNUnRmSHZoWFljRHJaWnJzcTE4YndGcG5VXzJmOFMtOHd3MXJ6OUEwN0tybWt4SzY5Nm1fZjhSd2JlSTVsSVB2dXJYM0t3YkJRUGFlQllIbUlId0xQT20wekpoU1JKWkw0US14UWdrYUhpNUJHR3NlZXZXZEhaR3NjNl9RQ1NFVFppUE42NEU4TXNHRlVkTnE0LWVWcmpBM1o4bF9hZ0JOV1FSSk5SODB5VE1DaEV6cG10NHFUa2xJc0hXQTBXX1EwSmo0SndVM1hGcVJMTXc?oc=5",
+     "fecha": "2026-07-10T07:00:00Z",
+     "medio": "Diario Frutícola"
     },
     {
      "titulo": "Nuevas medidas migratorias ayudarán a llegada de trabajadores temporales de la agricultura: Habrá facilidades para residencias temporales",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPendFWW1sRTNmdEhYaS1YazhYR083V2dlMEwzZ1FRN3Zza180ZnhTVGlTTmpPcWFxd2xHNHJrMU9wOEp0LWpzMGc4UVd2WjZrWncyNVV2NkgzU1BJS0JTRnpzb2VkcU81c2FVUGQ5Z3RtS05kWnA5OUJ6eHRBel9UWHBhb01rNnhQQmE1OFJuT3puSDJ6RDgzUmlscVhFN3JDd1HSAcMBQVVfeXFMT01ybm1aSFN3QVVvWTVwcjlmMmVzU1hPM2k3SVZGWmlid0E2N0JsX1BXRVdqZ2J0MDd4cFM2dnNQenc3ZEc5eXlSb0NqNWpWR29ZVzlCNTVxcDU0SFRkcmxWVlRpaHFUcDhuaU9XNUdBRUdvMnVKdFhSRU1UV002Q2Z4amsydU1Yd0JTMGRZMklMX2hKY3RydzVLTk0yb3ZDc2JOa0NaRVE5WmZvbGhqWDdjeENyTGRnRGlfX3FkT2lra0hF?oc=5",
      "fecha": "2025-07-28T07:00:00Z",
      "medio": "La Tercera"
-    },
-    {
-     "titulo": "Empleo temporal: Española Eurofirms elige a Chile para su hub regional",
-     "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52eTktcElFV3J5VU02WXNaOXlidE5JdEFKX0NBRGxtcnI5S2hxNjBCODA3NUN5UXV5dXhKX2VpTThQelZ1VzU5T0otSlk2dmotdXpHMUJDU21YcW52eUM2UFpma3BiS1FBZlVGUVdXc9IBckFVX3lxTE9mbEZidHdrTUstd2ZxMUxhOGM1WHpPbVhudDdSdndBZi1NQUdLQjRMVE9aNmNSRVNDVFhNaFZpaU5qcUJvMFlKWmZFZWdTcFpta2J3by0xMV9YUzBiblk2WlVzdUxDUzJhSWVsR09BVUhEdw?oc=5",
-     "fecha": "2024-10-22T07:00:00Z",
-     "medio": "InvestChile Blog"
     }
    ]
   },
@@ -310,6 +310,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPVHZ5cTllRHNSSUpoM1prOUdaNzBuUW02VjlTaHhZNEFiejZMeUluUVV2Wk1qSlktcUJDamtSZGhUSXBDZU9YWUJsUXV0d243ZFM0ZVRHalAyWGdsWlFMZDJ0ckRqS0M2WU9XYk5SajhsVXZhT05vb1VFb19fUmJpV285VU1DQjRnbThxMm1NMXprTGVvTGowLVNnWnFyMlB0SVA2Z2JWVFVJLW9zelR6a2Q3T0x5cjd6bWVUTnZXU0x5SG52SXdJN3J2WVpvWGVQSkxKTXVGWGFJV2hPNml5dkVYbDI1UFZfLXFpSjFtaVNoSkFqeUVPRTlOMTdiYUd4MFhLWUNWX3MzRjNoTzU1cUtFWDRIcURVblNKNFdwd3VJNkJx0gG_AkFVX3lxTE1LdV9iS08tVzJSM0txYWJFeWpDT2RuaWQ0N2lvV3ZHeGhXSGt0VElhRUJaRDNFZVVNQ1A5aXc1NlJoblROLXdzcS1zNkZ1WWVyOFpSZXAwVWwzM1IwNFJqWks4bHFQYmhOTTA2Z082YWkyOWp2YWdKUXZVdGVxMU1SLWd5cC10eXhHYTVoblE2TTJ6c015U3J1M252cy1lVUl5WjdlUklBanZlWDlNZHNhYnF4am1hQ3ZPSkV6LVNDdzcyQ1N1S2xUS1I1alVOLVl5QVB2Rms5V09KWFRmY0RweFU3clVCTVFvQkowUEVmQko0cWVlZXRvdmdlZENneTJZU3I4bkFfMnpteW9QdXpfaFhGVGlURW1xUXZWSDRpbzBOUnNwc3d4XzZQRmtPS3BNUVhtR1ZSMU50UDNENVE?oc=5",
      "fecha": "2026-10-29T07:00:00Z",
      "medio": "Infobae"
+    },
+    {
+     "titulo": "Dolores Huerta, líder sindical y defensora de los derechos civiles, ha muerto",
+     "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oTlpjVm1nSUFibFpXZ1dwTDNvY2hfTV9sV0lkUGVkYV94aFgxcF9jQUNCdTJRb1dXOEs1ZUZaTm1kakoyTU1KU1dMRTNMWjVPWmNnM21lMTlGcXlKcDRqbW1SeVlUdUQ5QlRoM2dPaDRHZGl4Y1VDMm95Zw?oc=5",
+     "fecha": "2026-10-28T07:00:00Z",
+     "medio": "The New York Times"
     },
     {
      "titulo": "Dolores Huerta, la histórica líder sindical latina detrás del lema “¡Sí se puede!“",
@@ -376,12 +382,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalhWOVlERGE4akxWblhOa0E1d21zUmhvdDgyV2lnaHgwMExsc1FtRm05Qy1WTXRDZDQ3ZTZudjBWYUU2Rnc1QkZjQUhKT182YTJpR2ttTWZ5SmtBaGltN195MEExWDJQZGZqZld3ZW5LNzhFTGV6d01vQ1kxem9femZmQ1dkTmthUUtXTU9qNEZvRFVDcW9EOGd2Y0JSclZiRUtidDI4djdod9IBqgFBVV95cUxOczVLMmd5VzJWSWtmOU1iWTU5MVdVM2lSenowQ1FySHBsMWVOb05VTHV2YjN2ejFqN2hmN3JSTGN5N3NuUlN5ZVlubWdxMUpvX25vQzVvRnRVbHFGMk45TDNkQVF3alE1VjEyUHhWWTVhSDk0ZDFYcmtiVmVGRFhRQmFlZWhtbGEtaXZJMjV2NC1ManpueUotY3pIbXZScENlMjc2UzluTjJXZw?oc=5",
      "fecha": "2026-01-20T08:00:00Z",
      "medio": "El Periódico"
-    },
-    {
-     "titulo": "Agricultores franceses del principal sindicato llevan su protesta ante la residencia de Macron en la playa",
-     "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPandTb2g1QzA4RG9kcmZaVmV2R0o2bG0tRWgzeHVDQ3Y4bEZtSG5lSGNuazV2X0lKbmgyak9yaUJhQmk3MGI4MDlGRGw3NU9jZThMWjVyWnN2TG5qUkNfb0JwNEdMc2oyanNSUENVMkNTUjRsd29lUzM3OElCeDdqbEl2Mk5lMFJoVlVIa19VNDFReG1BbFh5clliNlpwRmNMS1lLZE05OWtyWVN1V3dXZTNQVG1EU3JBNDVuRlRzbFdtX1V0Y1J4WUFxRjk4VDRaYTVlMlhWcGFEdlhFMGxuQg?oc=5",
-     "fecha": "2025-12-19T08:00:00Z",
-     "medio": "RTVE.es"
     }
    ]
   },
@@ -389,12 +389,6 @@
    "clave": "leyes",
    "nombre": "Leyes laborales",
    "items": [
-    {
-     "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-20T03:27:03Z",
-     "medio": "El Mostrador"
-    },
     {
      "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
@@ -408,6 +402,12 @@
      "medio": "El Observatodo"
     },
     {
+     "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
+     "fecha": "2026-11-19T15:27:48Z",
+     "medio": "El Mostrador"
+    },
+    {
      "titulo": "Avance de la automatización en Chile: cambios y desafíos por la Ley de 40 Horas y las exigencias del e-commerce",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVnNLcHJvSkxYOEVVdFQta05zOGxGcV9CZmRTMExJbTNkZ2d5Z3Rfa0Uwemp4YW9Xa2U2ZlFFVDlvNDhkeXlJNVpnYzhObmdCcHktZVZQYmYyN1l2cFh6QWFfV1BuQVBSZFZmTXZvZktwcTUtTklBWjJucnVxT3NLUWMxaG9tVThyUE52a0JkdE8zSGkybFJXVjJqZmx4S1ZZLV8ycTZLSDJwcm9hX0VfbG5qa0g0aEJpMzBhTHpVaHBlUjFPU2JPNDdwYlU5Ym40Mkw0?oc=5",
      "fecha": "2026-11-15T15:05:12Z",
@@ -418,6 +418,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
      "fecha": "2026-11-10T08:00:00Z",
      "medio": "EL PAÍS"
+    },
+    {
+     "titulo": "Ley de 40 Horas: ¿Cuándo será la última reducción de la jornada laboral en Chile?",
+     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWZlYlk0bE1vUVJKNmlpdUh4SzRnS2hIQ3hPdzZIdloyb1dZWFNqSUJYdlVXU3RtVHBYMXN4TlRLVzN0RVhadVpDNDRuUDJDQ09BdC0xVUFacXhlRWhqeG5VUVl5QnpNazlyLWdHR3ZoNzJwUWs2ck1tQzE0NFBrQ1ctQk8ybDE1UHZRUVozYkU?oc=5",
+     "fecha": "2026-08-15T07:00:00Z",
+     "medio": "CNN Chile"
     },
     {
      "titulo": "Kast quiere modificar la ley de 40 horas y flexibilizar los contratos de trabajo por turno",
@@ -471,12 +477,6 @@
      "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
      "fecha": "2025-01-15T17:57:43Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
-     "fecha": "2025-01-15T17:33:27Z",
      "medio": "Dirección del Trabajo"
     }
    ]

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T13:53:10Z",
+ "actualizado": "2026-11-20T15:34:43Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -108,6 +108,12 @@
      "medio": "Portal Minero"
     },
     {
+     "titulo": "Energía con propósito",
+     "enlace": "https://www.portalminero.com/energia-con-proposito",
+     "fecha": "2026-11-20T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
      "titulo": "Codelco proyecta continuidad de Gabriela Mistral hasta 2055 con inversión de US$868 millones",
      "enlace": "https://www.portalminero.com/codelco-proyecta-continuidad-de-gabriela-mistral-hasta-2055-con-inversion-de-us868-millones",
      "fecha": "2026-11-19T00:00:00Z",
@@ -142,12 +148,6 @@
      "enlace": "https://www.portalminero.com/ausenco-destaca-optimizacion-de-recursos-en-mantoverde-y-proyecta-mayores-oportunidades-en-la-mineria",
      "fecha": "2026-11-19T00:00:00Z",
      "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Gerente general de Codelco Andina inicia agenda de vinculación territorial con alcalde de Los Andes",
-     "enlace": "https://www.portalminero.com/gerente-general-de-codelco-andina-inicia-agenda-de-vinculacion-territorial-con-alcalde-de-los-andes",
-     "fecha": "2026-11-19T00:00:00Z",
-     "medio": "Portal Minero"
     }
    ]
   },
@@ -155,6 +155,24 @@
    "clave": "mch",
    "nombre": "Minería Chilena",
    "items": [
+    {
+     "titulo": "Las razones tras la caída del precio del cobre",
+     "enlace": "https://www.mch.cl/las-razones-tras-la-caida-del-precio-del-cobre/",
+     "fecha": "2026-11-20T15:28:46Z",
+     "medio": "Minería Chilena"
+    },
+    {
+     "titulo": "Investigación de la UCN detecta relaves mineros con concentraciones de tierras raras",
+     "enlace": "https://www.mch.cl/investigacion-de-la-ucn-detecta-relaves-mineros-con-concentraciones-de-tierras-raras/",
+     "fecha": "2026-11-20T15:05:00Z",
+     "medio": "Minería Chilena"
+    },
+    {
+     "titulo": "CMP impulsa la formación de nuevos talentos técnicos con su Programa de Aprendices 2026-2027",
+     "enlace": "https://www.mch.cl/cmp-impulsa-la-formacion-de-nuevos-talentos-tecnicos-con-su-programa-de-aprendices-2026-2027/",
+     "fecha": "2026-11-20T14:24:44Z",
+     "medio": "Minería Chilena"
+    },
     {
      "titulo": "Ministerio de Minería lanza segunda convocatoria de PAMMA Reactiva",
      "enlace": "https://www.mch.cl/ministerio-de-mineria-lanza-segunda-convocatoria-de-pamma-reactiva/",
@@ -196,24 +214,6 @@
      "enlace": "https://www.mch.cl/gerente-general-de-andina-inicia-agenda-de-vinculacion-territorial-con-alcalde-de-los-andes/",
      "fecha": "2026-11-19T13:00:00Z",
      "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "BHP reconoce propuestas de innovación minera desarrolladas por estudiantes",
-     "enlace": "https://www.mch.cl/bhp-reconoce-propuestas-de-innovacion-minera-desarrolladas-por-estudiantes/",
-     "fecha": "2026-11-19T12:50:00Z",
-     "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "INVA Academy y Zenik realizarán webinar sobre implementación de la IA en las operaciones",
-     "enlace": "https://www.mch.cl/inva-academy-y-zenik-realizaran-webinar-sobre-implementacion-de-la-ia-en-las-operaciones/",
-     "fecha": "2026-11-19T12:40:00Z",
-     "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "Sernageomin actualiza Portal GeoMin para facilitar acceso a información geológica y minera",
-     "enlace": "https://www.mch.cl/sernageomin-actualiza-portal-geomin-para-facilitar-acceso-a-informacion-geologica-y-minera/",
-     "fecha": "2026-11-19T12:31:00Z",
-     "medio": "Minería Chilena"
     }
    ]
   },
@@ -222,9 +222,9 @@
    "nombre": "Reporte Minero",
    "items": [
     {
-     "titulo": "Coeva aprueba continuidad operacional de Sagasca por US$63 millones",
-     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDgteFRvUDlwYUtVd09lT1Y4TncxV1VUeUZDclFQanVRc3ZwMENqV09CeDFORUF6RHlnd0UzV1R5SVB5RUJCa3dBbURabjZ1MG1nWmU2MkFDQUt5OFFCOWkxdWR5RFJ5VGYyRF9EV1N6X2VjOXBlMldocWtxWTBlaklkRVVyZlVQT0RVcTZ1eDA0TUgxUXZ6d0dHOHN5Q1BrTHBPU2laU3RobzRWTTZqTQ?oc=5",
-     "fecha": "2026-11-20T13:35:00Z",
+     "titulo": "¿Sube o baja la luz en tu comuna en enero 2027? Revisa las nuevas tarifas y quiénes pagarán más",
+     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSS1DX2lfNVJCMEM2X1Njdjk1VjlKalZNdzhRYVBKMDRUNTdabjFYeEtpT3hiQWtpNndhcHFfVDJLWDFnTkpiNldkTHpIWjI4SE02eXJQUXFkWTdpdzZkRWdJYWQyWWNaSzhvTVU0cDJlMWtpTEFQT1RaQ1otTExyanhyc2l0dzVTdTFSV0tKdHkwNHctTHVEUDBQQUp0S2I1Z2FDbkVTeWU4Q0doaEE?oc=5",
+     "fecha": "2026-11-20T13:40:00Z",
      "medio": "Reporte Minero"
     },
     {
@@ -330,6 +330,12 @@
      "medio": "Radio Las Nieves"
     },
     {
+     "titulo": "Seguridad minera: un compromiso que se construye cada día Por José Luis Osorio, seremi de Minería de la Región de Aysén",
+     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUEQxNG9XOTY0M3M1UFdzVndhNkVvY0k1ODYxZWthQ3FWTW4tWTRCNjZFZUNGTVF4N1pWblVXUXdyS3RZbXpqYlZDZmRLZlhteE5QMVVzVjAyelBSOFZ6cHZRMHVCYzBaaGR2RUo4dy1iSlRQMjRpUmp1dndzR0RLQnVrSnEzQV83UWNVRU1nQXBIOUdIN0l3bHVjWjNGVFRLSmE3Snc0NTdISnNCaWROVUxyYk9NWnpNMWtmbzBOanFac081TUNYZUtYS3VuVHl4OEJLajN4ckN5MEt3amtNb244ZUtyaXNR0gHwAUFVX3lxTFA4dWZ1c0lwOXJib2JJXzNPQ1VYQkRNS1dqeGtFckRFNGM2TUNSVFE5M0NnQjU5d1JIWlE5Z2lLUlVLemhUUUE1eWdVeWRIOHZFTjc5RHpFU1c3TDNyc3Fzc1dxQk5QeEt4MlRoalBZZnJ0WVdQRFNRcEZGSzI3VzZWZUh3QWp0Vmp0bWtLc2pkS0lLZnp4NEhSRXE3QUZ3OTU2RTF5R1dMZnV3ZjlLWGw1Y09temhyY09XbkMyWGZsNzNvUW1QeGFLcUEyM2NNM2l4T2RHNFRqU2ppamhnbFZhRFRqdmh4NC1NMWpwM1BteQ?oc=5",
+     "fecha": "2026-10-15T07:00:00Z",
+     "medio": "Radio Las Nieves"
+    },
+    {
      "titulo": "Organización de Aysén denuncia ante Cancillería visita del embajador de Australia a proyecto minero Los Domos",
      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdGZsQU1oQko4bk9HMXlHbXlZSWQ0aHRNaHFtV2N4elZkcUsxNUNXVU1QalhCS2NXTVpjRlNaVFdRWmRRc0Q5ZTRUS3J2ZWx3dnlyZkxlTmdwbkRJN0VjWUVtQ1RJb0RHSGUwanF4SXpZNDlfVEVCQ3hfYTZPWS01ZXI1X2FfSzlwa29DeTcwdU44ckkzVkx2dEhTRlZKMWpfdmRISjhPbTFNN05HOXlYb3Fyb21XNXN5TTh6WEZ1cHJBTzdlUGIwUklNRDU0Wk9WNDR5ODcxaUdNTE9rZ3Bj?oc=5",
      "fecha": "2026-09-25T07:00:00Z",
@@ -360,16 +366,16 @@
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Organizaciones de Aysén acusan responsabilidad de Sernageomin en contaminación de tranque de relaves Confluencia de El Toqui",
-     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeXdLMktnQ3lXNlk5VTQwZE93ZE1tVjR6NTNLUUlycmN1cm1wcFE1S1B4ZHMtcndqWnpYY3NpS3ptOGdxTlVRVTBBYVVRSW1aU2g4N3U3eDFmVVJSTFFkcjlUbTB0RU1RQ2hTSWFLV2tFbHJTMTFiLWVtcGltMEk5R1JSVDNPVTRldmw0ZUxWU05UOUdSVlFyUmk2NFJmbU00cXZadGxYZkpudEpPRVFJdC00LUVXN0ZYUU9tU0pmTVBpQnNsYlRyMnlHRUVzbkNwak5HOGlWcjczVEFFa2MtWk12X0NRUlJQbWFoTEZTTDJrdw?oc=5",
-     "fecha": "2026-03-16T07:00:00Z",
-     "medio": "Universidad de Chile"
-    },
-    {
      "titulo": "Organizaciones de Aysén recurren a Contraloría por presuntas irregularidades en tranque de relaves de minera El Toqui",
      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPajF6c3pPbURJYzJEWThWUG9uLXliM0dqYi1Kc2N3V0poRnoxNmFIZ0pzN2I0NTJGOWg2RFZCNHRZRVhWRUlnOUQ0WWxaNUZsTHBDUFhxWEMtY09rS1M5NElxZmJFQnU4OVB3OEV4MHlVQ3F0RjJ1WW0wU3UxbXBYS3FTcHhtWnptOExSZ05HeEFWWmlwNDl3eERQZ0lMWHBNampJc3pMTlJScmtU?oc=5",
      "fecha": "2026-03-16T07:00:00Z",
      "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "Organizaciones de Aysén acusan responsabilidad de Sernageomin en contaminación de tranque de relaves Confluencia de El Toqui",
+     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeXdLMktnQ3lXNlk5VTQwZE93ZE1tVjR6NTNLUUlycmN1cm1wcFE1S1B4ZHMtcndqWnpYY3NpS3ptOGdxTlVRVTBBYVVRSW1aU2g4N3U3eDFmVVJSTFFkcjlUbTB0RU1RQ2hTSWFLV2tFbHJTMTFiLWVtcGltMEk5R1JSVDNPVTRldmw0ZUxWU05UOUdSVlFyUmk2NFJmbU00cXZadGxYZkpudEpPRVFJdC00LUVXN0ZYUU9tU0pmTVBpQnNsYlRyMnlHRUVzbkNwak5HOGlWcjczVEFFa2MtWk12X0NRUlJQbWFoTEZTTDJrdw?oc=5",
+     "fecha": "2026-03-16T07:00:00Z",
+     "medio": "Universidad de Chile"
     },
     {
      "titulo": "Superintendencia formuló cargos graves a minera de Aysén por incumplimientos ambientales",
@@ -400,12 +406,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0phM0diTjdxVEFRQXBQZFBGZl9HZjE0TllDQWlrOURKWFhRYjBEdlBaTnJXa081azJzdm1YSy1IMVhhY3RBQ0lfZnJKVkFFUi1FNjM0LTVIekpja0xJeXd3d1UzaFUxcEs5LWE5cHdZOFpOX19pSEtScUhXa2xaSUhPd0Roa3h5Tmg0N2lTZUhaUm9TUUtRc3NyQ1FxNEdDY203NE80SUM4RzlLaWxsaF93?oc=5",
      "fecha": "2025-05-12T07:00:00Z",
      "medio": "Fundación Terram"
-    },
-    {
-     "titulo": "CODESA sobre fatal accidente en faena minera de Aysén: «No podemos seguir con actividades de altísimo impacto ambiental y precarización laboral» – Radio Revelación FM",
-     "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhd1Nidi1USlZqY2k5cndFVW9yaVRqVUQ5TTRVR2llUlZpclpmVDIxS3ctUk04VGtRQTBrSHJPMVN6QXI2SG5CUU0wRy15dw?oc=5",
-     "fecha": "2023-03-08T13:53:52Z",
-     "medio": "Radio Revelación FM"
     }
    ]
   },
