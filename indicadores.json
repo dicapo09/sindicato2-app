@@ -1,28 +1,28 @@
 {
  "uf": {
   "valor": 41371.05,
-  "fecha": "2026-11-20T00:00:00Z",
-  "fuente": "boostr"
+  "fecha": "2026-11-20T03:00:00.000Z",
+  "fuente": "mindicador"
  },
  "dolar": {
   "valor": 1008.79,
-  "fecha": "2026-11-20T00:00:00Z",
-  "fuente": "boostr"
+  "fecha": "2026-11-20T03:00:00.000Z",
+  "fuente": "mindicador"
  },
  "euro": {
   "valor": 1107.59,
-  "fecha": "2026-11-20T00:00:00Z",
-  "fuente": "boostr"
+  "fecha": "2026-11-20T03:00:00.000Z",
+  "fuente": "mindicador"
  },
  "utm": {
-  "valor": 72440.0,
-  "fecha": "2026-11-01T00:00:00Z",
-  "fuente": "boostr"
+  "valor": 72440,
+  "fecha": "2026-11-01T03:00:00.000Z",
+  "fuente": "mindicador"
  },
  "libra_cobre": {
-  "valor": 5.7,
-  "fecha": "2026-11-19T00:00:00Z",
-  "fuente": "LME vía Westmetall"
+  "valor": 5.65,
+  "fecha": "2026-11-20T03:00:00.000Z",
+  "fuente": "mindicador"
  },
  "ipc": {
   "valor": 0.5,
@@ -30,13 +30,13 @@
   "fuente": "INE"
  },
  "oro": {
-  "valor": 3561.85,
-  "fecha": "2026-11-20T13:34:05Z",
+  "valor": 3552.17,
+  "fecha": "2026-11-20T16:16:36Z",
   "fuente": "gold-api.com"
  },
  "plata": {
-  "valor": 41.64,
-  "fecha": "2026-11-20T13:34:05Z",
+  "valor": 41.66,
+  "fecha": "2026-11-20T16:16:35Z",
   "fuente": "gold-api.com"
  },
  "zinc": {
