@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T07:54:37Z",
+ "actualizado": "2026-11-20T09:36:16Z",
  "fuentes": [
   {
    "clave": "retail",
@@ -102,6 +102,12 @@
    "nombre": "Mundo sindical",
    "items": [
     {
+     "titulo": "Pese a presiones de Trump, Ford mantendrá operaciones en Hermosillo",
+     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmJCYUpUeXJHLXJtNGVmTUtMeHVMaDJJS0lFRjVlWWE0UnJLelhEb2xTTTNiNmY5VDd0c25zdUxqRGx3M1FmZ3JraGh3aDJxWW5GazAycjNZZk01T3lmYXpzQ0Z4YU1ldENPcUR5NVFTVUFMV1NWV1NwU3FjVzJ3TDRnNE1HQ0dES0JLcjZQQmxucVRkMDBvaV80NWRFR3BqZ2xxdmZjVG5oSWfSAbABQVVfeXFMTmJJSTVfdFBnZWtlakx3VV9DUUlnOFk5dW9nVmxqSWlnYnluc2lCNmgwUl9tTUZ2RFc0aE5QaHE1c1lGdVpkNThodW9kcm9YTk55SVBCTGp5SXlOcC1DQ2FtOHJ2MnVhUExWT0FsS2Z3TXQ0bmtNc05vOWstc2dKOHBJOUhPRnkxdFNjY2xITUFBNXdGdms0LWFDb2Nhem5TZU1fTmw1czdZZENaX1RLaGg?oc=5",
+     "fecha": "2026-11-19T19:31:00Z",
+     "medio": "Uniradio Informa"
+    },
+    {
      "titulo": "MLB: Líder del Sindicato explota contra Rob Manfred por \"falta de seriedad\" en plena amenaza de lockout",
      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYTNFSndncnZYMUFtU0pBQTFJNlFZMVFuUjFBNnk0Mm11SURTNUh5aVJka2xWMGllSDdlN0tiU0QzWGgyMDNja2FRdkZ4cWN0NlJxMWtucGZyVGtXb3dPRDJ5d2VaQnhOY3U2RXF5a0FoM3c2dkR0YllydTRUZ1dlczc3ZXJXbm9uZWZjcS1YUVZwUGY1MzhSd0d6dmNLZ3hnVW84b09keVc3SkpFTzZabC1PaG1adnhoajRzdExJakZWSjFDbW1TaFkwWC1aQTU1aTA3Sm42NUF4RVg0M3fSAeMBQVVfeXFMTlctM3RIRjRSUGRJaGJHOVZTTnB2RFYtLUtfMm52Q2ROOGllNElpR2thMDllV2MyMlhsamU0S1FLRWJ6WkZRcGF3NXhJWldxcXBtV0tCY2l2VkdFWjV4WUNCTDRVNDkzLUJXQ0ZBb0t1dDFUcjNIMFFrRXNxNW5kX3hjYnBCU3BsSmhHUjVkNm5wWVk4UU5rZmVFN0F0MEJXdGhQTS13QnI0QjRaWmhnQ3Nkak1IUEtfNHA2NHZTX1ZENGlRaEV1SnV1QkR2Q3NSTFQ5b3RmcEtqWi02eU1QUVVEWVU?oc=5",
      "fecha": "2026-11-18T23:41:00Z",
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeHRhOHFnLXVvYTlsNU1QQ011MElXbS1uSzJ5X0lJbXFYbUFjNGVYU01lMmt4V3hYRXBNRG1KeUNjX3plc1RxQ3pqaTE1MGZOUktBNFdyb0JfNHF0eVNnVFFPR2lubjRFekhTS3JqdWgwbWF5cUNpQXYwR3NSU0hMcUxkemlNQ3piQlRDNU9sbXM3VC0tcW1acFFVV2d4cU5JeHdZcF9wN3NOUmoyV1ZabHNwU1ZGQzhvN1c3ZnU2R0c?oc=5",
      "fecha": "2025-03-24T07:00:00Z",
      "medio": "https://www.mintrab.gob.cl"
-    },
-    {
-     "titulo": "Presidenta de sindicato de Walmart Chile en huelga: “Walmart está realizando prácticas antisindicales",
-     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2hjMXIzaXdTSlFnSThuamEtM3lsRkFKM21BV3lmbmlvSEFjaTdsUzFzeFFEMmx0Q3J1c3A3SGtKNlg5UWVDNFNkWHNOekxwQ0pvVzFYa0JZc3RFUjRRYUVXcUZCQnVzeHdVQ1lHZTRKMFpBWjdJd2JjNzNSZzREOWVDM3VpOXpKbGlaYWxSYjQxYndZUVZ3clhDelVfSWlxTW9DZHR0aWswYkpSNE1YVmRIQ0hXb0pGaVY0?oc=5",
-     "fecha": "2024-07-13T07:00:00Z",
-     "medio": "Interferencia |"
     }
    ]
   },
@@ -198,52 +198,10 @@
    "nombre": "Jornada y comercio",
    "items": [
     {
-     "titulo": "Este lunes 12 de octubre es feriado: ¿Cómo funcionarán el comercio y los supermercados?",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUjlqc0RFd0JRLXlsc0NmRDQ0bjFJRVdjMXFBSUZXZGxMc240S09VajA2Rm14dGtLb1BROEdfZmdyOXhZSXNCUkZaVXhRMUg2TXYzLXJCeFlmV0JoR1A4WVZaX3gyMnR1WXprb2Fjcml5ZEFJY1N3V01FTUl5eGI2bGd4bTRMNnJoYnhXV2NvbW5LWkFjTHY0QWV6M0FJQU1QLW5WRm9kVlFTTkE0TnJzdDNzNktiWHZ4SjR6WVBnQURYWHJhNVNtOXVmbXdrMTJlTTZvbkdLZ244Z0JLTWhDVnpHZ3dJLWc0ZzNjdXNB?oc=5",
-     "fecha": "2026-10-08T07:00:00Z",
-     "medio": "BioBioChile"
-    },
-    {
-     "titulo": "Supermercados abiertos hoy 18 de septiembre: ¿dónde comprar en Chile?",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUs4VVd6NUcya08xNGE4NkVTNWZBOXBGdkxqN2dZSXo2c2xqeFhweDJGMlcyT3RrWnA4c1RLdTJKcHY3dXVNQlUwbDNIaHM4dTdCVjlBWHU1X0VidjlHOVpFYVFHUTd1SEhqY2NoektZVG50M3NVb0FhUzA1Wk5NTVJacjlZUVRIYmFkTnRXOWtQOTNPbTExVU1XV2lTaXNINTRmZnZ1azNoMVlRZFI3djFR?oc=5",
-     "fecha": "2026-09-18T07:00:00Z",
-     "medio": "El Observatodo"
-    },
-    {
      "titulo": "Confirman multa contra McDonald’s por no otorgar feriado irrenunciable: Empresa obligó a trabajadora a prestar servicios durante Fiestas Patrias dos años seguidos",
      "enlace": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQN1ctUEU2dk1mX09jQkJacGVrUjlRd0psRGFYSUlfdk12YU1GSHcyRUJZNW5fUUJ6bF9IZHVFT2FfYndGaVpnTVBFZGx6WUltY3VfSE5sTE1ieHJwZVF4Si1xYTZ0eUVyZlI4cVlDbGduX0hFZVVQSXRyVmNsb0RrRjUyZEtzWmZlSlh4VVVRQnJzaTN2RmtFRmotdUxiQUxxRTNKYTI5eEd6aDZnbW5LNTQ5enZvZlMtTmxmeHFBaXRVRVFWejdLd2pmTlJiaDFJSTZLT2V1Y1pZc3Y3TTNNdjdBOXRpdGt0T1JYNEVXZzlhSUM4ekdidnFacGZjMGZDY3AzTGxvbWVySGZDalVRak5rcFRWXzBsdjktbFBhZFo?oc=5",
      "fecha": "2026-08-18T07:00:00Z",
      "medio": "CNN Chile"
-    },
-    {
-     "titulo": "¿Cuándo es el próximo feriado en Chile? Revisa la fecha y quiénes podrán descansar",
-     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWGZXRnl0XzIwRnNld0pidzVLQi1DY0VNMjNEbjhBU2s2TTlmVGRWcDZXM0lWZTM5MktrSlRweFpua1ROWjc1ZEN5ZVhEeG1SUG1WeUVQLWYzQ3BxTGhiOVp4S0xqd1E4T2NwSklsUDczd1E0cUlEd0lJcG1DemZFSGp1Yzd5SW9DcHVMQnNSTzROeFBhVTZ6eWNaTmZmeUh5T2tjWENhbWN2RU9wVlZwYmp1LVBjTFpkemJ1SGV0dXpTUGRZZTc5b2VtTzhRdWUtSTJHMk5XX2dxUW9Sc1E?oc=5",
-     "fecha": "2026-08-04T07:00:00Z",
-     "medio": "Radio Agricultura"
-    },
-    {
-     "titulo": "¿El 16 de julio es feriado irrenunciable? Revisa qué comercios abrirán y quiénes deberán trabajar",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVVjOUJSMGVSbmhwWlN0ZmgwSkRaX1FEanUxYlRiQ1Zxd1MyRldWNE1EQ2VyZ2t1OFJhdUs5QTktUl81NHhDY2M0cW1Yc2pYbkxIRmw5TmlHRjVQRnhJVFlQcTYtcDBvQVduVFR6OWpPYnpiQ3NfanFqNTZwbWhrcmYybjlIdmtFcV81N1Vvcm1tbDFfVjdsbTRxSmRnYjI2UlJ0QzBmcHFQMkU1aXZnaHh6WExqYWNJMEhNbWpiSTY1NXhmMGE1Sw?oc=5",
-     "fecha": "2026-07-14T07:00:00Z",
-     "medio": "El MorroCotudo"
-    },
-    {
-     "titulo": "Feriado del 16 de julio en Chile: qué se conmemora, es o no irrenunciable y cómo funcionará el comercio",
-     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZnpqQUtTLVlodldtbzZtcXJnNmxhMFZxTDRIeTMyUUl5MFFRODRRLURwTzJ0b1FoNlJqY3d0U2xkUlhfSXBsbmcwQWNTZjdhUVhmSFpDOURVU0dFZ2RhanRudGxOcEZMOUVLWlZ2NXBMZTI3Wl8tUE56M0h6MEprSFpRUWRJSURXSG1mRk9hOWpyODhyOUxTb09MQ193WGsyNlI4SWhVWVZreXlXMnpHMkUzSDZOalFmWkdzSkE4NlgtUU5JNEc5ZGh5djZGLXNNdTdzSlN0ZHMyd9IB7gFBVV95cUxOU1VfWGNyTzJQa28xNFFhcjVPZG4zQkRIWnhDVjlPZkQ4WmFBWVhHdUlfRlVhbmVtb3dETGxMSzRGc0RZVmdiNndIWGplbkpJWW1sbFloSHRGVldBdzZpNVl1S0otOXo3QW9yMlloS1pEanZ3SS0zemxIZm1LWG01dGtqSlY2eW1veXNuZlRaRHZFQ3YxaG9ZaWZ3VUhtbG5PWTN4S1VJM25kSDhmVERENkNjRlM5d2FKN0wxOVFVWnBGSTBRUzlVSElwLWZNWEYwMjI2QXJZd2dKUE9OYzE2emhDcDNMNU1uckdJRzJR?oc=5",
-     "fecha": "2026-07-14T07:00:00Z",
-     "medio": "EL PAÍS"
-    },
-    {
-     "titulo": "Día de la Virgen del Carmen: ¿Es feriado irrenunciable este jueves 16 de julio?",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN3IydkowMXRmbHRiZ1B0d1VKdFd3NTZiZThCQXExUFhhX21xTDhDYnVTU2VKVGdCMWlDS0FtRlZPMS14RmFWX05XYWl2WGl2dFVWX1dBUUlHTGdtU2xFVVNCdkNrWlhMcm5XODNmNXJaYjQ4MFF6TzMxV0JDR1pGMjdTTUtGVTJzZ2xBVHVqNFBMbDNzLV9VeDNhTmxfR2JOMFJfQVFwLW04eWhOMnVEdmg0LUFMTmx2?oc=5",
-     "fecha": "2026-07-13T07:00:00Z",
-     "medio": "Teletrece"
-    },
-    {
-     "titulo": "Día de San Pedro y San Pablo: ¿Es un feriado irrenunciable?",
-     "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOXZmRzFVYmhCNXVLTElfZERVUXhrQnFvVGRpYWNsZFNrM1lGZ1dZQnd2WWUxcDVBMTRHVndzNFRDa2toNHhXbGZXQW51QlBWdzRrYnNoYmZlZXEwMlJTLVE3MEYta2pja2Q2YngzMld3cWpneVc3bWc0RG14cExwcERVdEZNejFlRnh4UERUbFFLWE1DUjVTUXlWYw?oc=5",
-     "fecha": "2026-06-25T07:00:00Z",
-     "medio": "Chicureo Hoy"
     },
     {
      "titulo": "Avanza proyecto que busca derogar feriado irrenunciable en elecciones: fue despachado al Senado",
@@ -252,28 +210,10 @@
      "medio": "BioBioChile"
     },
     {
-     "titulo": "Sin feriado irrenunciable: Diputados aprueban proyecto de ley insólito que afecta cómo se realizan las elecciones en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRElSR2NTQjlfTkx3UnpCUWo2SHdZNWJBaFB4bmpXRjBmOHFianpyTGMtUEU1Z2lpcXBleDQ5Ym5MTkFobE5PV0Z3bkR2VEQzUFpqcEhOSm1yUTB3WURZMmlIaWhpLUVrZVo2aUhmZVk5RjI5X1I3YVVYX0s1MGhCTzV0a2RmeFY0cVNoemdQUmI3Sm12UENXQ1E5OHhQRE1CUlpSS2hLVnI4VjlPNGhhYXM4aTAzUXNtU0YxNmh6cEVkYl9hUXNVWHFPWU9hOHBjYzN0UGRtX2d4MXk1TmhxQmQtdGhMOVpxdC02ddIB8gFBVV95cUxQZ3Y4eFh0dWtjbVVLUnRUZHZ5Zi1Sc2NpVnd6cXRwYjR3NlpCcTQxR1kxQXBxODl2MU9GTVhHVVlBNGUzWVBSVHQ3N3B6OUw4aVFCTzhvTzU1Q0ZQQS1xUnFXTXZOYk1FaW9VTUZSb2N4aVBVdTRGSVVWMnh2VklXVlROaFI5Vnl0RjVCNG5CRDkteEtBMnVCbkkwS3F6X1FhbzBxMWs0LXMtSk16YXBiY0RxbDlsakNua3h5ZmZSLS1KXzZxMEo0WWROWGRneFBqQ2lLN3U4WFRHNGdzVlZLY0VoNU1QLU9xS1V1RUVteGZ3QQ?oc=5",
-     "fecha": "2026-06-12T07:00:00Z",
-     "medio": "Rock&Pop"
-    },
-    {
      "titulo": "Adiós al feriado irrenunciable en Chile: este día no volverá a ser festivo para los ciudadanos",
      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT3haNm8xcFdYTzlwQzJoNF8tX3UtLWt6bTdKaWNITnQtUnJJRUlmS3djT0c2R2tZYnhiZ0xoMmxDWFQzZWdPdG54UlRMQ2ZzeE0yVXN4VDAxU0h0a1dYcEM3bi1qU1U5LVMxSHgzTEFycWNBeFhGeE5lekV5aEFiaktKeHF3aDRSVFdDYVNtWmZJVWl4SEgyQ1JkZnh6UTZHQ2tGNkdlbm9HWnhmMjRUbVRVVjFBVEY2dVd2Y1JwcGZIWGRWUm14aWExS2k1cXRrNWfSAeYBQVVfeXFMUEVjR2lVRFUydW93MkZxU1U0ZmhmTUxQZW5nV3A3NDBHUC1PS05fdjU3U2Y5d1NxTGJJZHUxQTZ0eVhWSW9yVXpBcUNWVWZoMXZpS3RlTkZUbnRDUGx4bl94RldNLUVsc2N1ZUJSZmwtaEJyV3NWemlhSHk4UzA4N0VsTkhQSl9obmhqSGs4YUVuRDdPbHdITFRGVUJ2UWt3TmNyaWlJQ3NBYmVLU0VmQU9BWl9UODdpNUhUZXZpMHduVS1iUkxwYWxsY1A4RllvS1Q4LXVVWTJKcGZKZVh6WG9Zb3MyMnc?oc=5",
      "fecha": "2026-06-11T07:00:00Z",
      "medio": "AS Chile"
-    },
-    {
-     "titulo": "Cámara de Diputados aprueba proyecto que pone fin al feriado irrenunciable en elecciones: avanza al Senado",
-     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSlBUZ25WVEhucUthbHZ4T3pCTWp3dW9TQ2p0NFB0Tk1tTmFNMnN3bEFmZEdzdWlkZmJWaDNyWEwzZ3ZJb0pFX1RCRjJ3S1MwQUc0SnFCVTBCdlZpQk9PdExTSXFuY3FqSFVpZEVDeDZveDQ5UGVqZ1FqNDRaMjZZOXJRN0laWXI5VjY1ZjhzLXNLZ1F2RGhtRXhnMGJIZjZuQlVCeEVsQ3NqWmNFX1JWRmp0WEFOQ043ZGJ1RGVXOWF4MUNzMlBuSnZPdUJzcVI2emxUc29YNHXSAewBQVVfeXFMUG1IREg3ZkRpdGFHamFNc1BPY2ZaeHN0N2k4dUFCQkRyX2FCRG9ubUV3cmtSRXZqQUJpaEdtbjdZNEMwem5tUWxoVWNXQjJEa1MtOUVrQ09MaW5pMkktZm5YWGVWb2NTeE10Y1k3T0hvRlJzWEIzM01XRmlyZF8wVVBFLXZyUFBtbTIyTU1NZUk3dG5PSE93SWlnVmxvcHdxNE1PVHdOdWU0OFQxX0Y3clRBbEpIUVlMa1ZkNnN2XzhXdC1qa1dXNktEbVUwN0JHV3podndBZW1wRFFPOXpIRkhublhRRnJFTUtvQ0M?oc=5",
-     "fecha": "2026-06-10T07:00:00Z",
-     "medio": "ADN Radio"
-    },
-    {
-     "titulo": "Diputados aprueban proyecto que pone fin a un feriado irrenunciable: Cómo afecta la medida a los trabajadores",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT3BWWjI3ak5jZzVjMFZ4Y2V4Nk1XcmY5Z1AxZjFPVkh3QmRwZXBITkZfSDRvb1REZmJHOER4YXFQdzhPMVVOTUZYZW5QS2diZ2NWMXJROGR4RTJ0WGVxN1F5MDlwcS1DYUlHZzhQRkVERUR5WC1BNEZUVnlESGtlS3ByRlpiMHhPb2oyUDlOQnhHMURRUEwzRFdRU3Z3N1ZTSWJ4TmVhMHJwTjRkYmN2WG8ySURjdVJTaHBfM2RYdEwyLXVnNzV2aGQ0a1lPMXZJRnpfYTRCZmJlcUlqTTNWdy0ya27SAeoBQVVfeXFMTkNoNXNTa0ZRU3JjYTBlMTVyVTZzd1VlRTI2eFFwalVhdFcyOEdFd29QckViekl4Um8xZU4yLW03WVBuTVdkaDVzSWxVaS1QUGcxcXFWNFZLNnUtTE9OWWJEZ3Nic1JMZXJ2dm5hdzd4dlRHaHZWbEYzS0FhMUJSdjFXQ2VxbjJ3Q3FXNFBWSlZ2ektIRWtJMTRCeklWY25tckgyb1B4bHFqS0J2X3NuOVZCdTVQV2JDWURnbXRFcjZRNV9oVzhkSElGb0tZYmJMUi1WeURfSU9ncXoxSVJneVZrazZsang4NnRB?oc=5",
-     "fecha": "2026-06-10T07:00:00Z",
-     "medio": "Radio Pudahuel"
     },
     {
      "titulo": "Avanza proyecto que pone fin al feriado irrenunciable en elecciones: Cámara lo despacho al Senado",
@@ -282,10 +222,70 @@
      "medio": "CNN Chile"
     },
     {
-     "titulo": "¿Se trabaja o es feriado irrenunciable?: Revisa cuándo es el Día del Padre 2026 en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcnV6QUpNRThRMjdMZUczVnV0dHprdHpreGtvN3cwZS1leDZBYU16ZFJmWXQ4WlBfUzlNQTNxMkRPMUowbENEY1o2cVpDREtSVGI2cWhjLUUtRkdiTWh3dF9GalY0b1Y5eFA1V0hucE15eGtUNWsxVkQ3anpoTEFGX21DUXhyQm5PeWFEQmt6QkpsOXF2U2dNaDlYYlNBTnl2UVF0V2JNVkZON3JrZm1ySEp2ZE8tWXU5UzY1aVFSVWRtdw?oc=5",
-     "fecha": "2026-06-10T07:00:00Z",
-     "medio": "La Opiñon.cl, Noticias de Temuco y Araucanía"
+     "titulo": "¿Se paga más por trabajar el 1 de mayo en Chile? Qué dice la ley",
+     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHZFcGdicUppcVVVODlMQkZmcVNFZ21TbENSNk14SVFiajJJakxpNE5sR19ZS0JPUUlrQ3JjeFRfbk40YVU3M3VhRS1vcHJYd2NDSXI1dmlIaGg3MldDTWxQa1hiNjk4LVcxdDJ5UGJjZWdrcG42aHg0QThwRHo3TTVNX0tLRmZzN2FKeG9xcXFXZkNvRW9tNDlvNXFrNjBsQmpjRXZjdWl2ZG8?oc=5",
+     "fecha": "2026-05-01T07:00:00Z",
+     "medio": "Chilevisión"
+    },
+    {
+     "titulo": "Qué está abierto durante el feriado irrenunciable del viernes 1 de mayo",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb29LRlBwMy1aNkJYczV2ZU5tZEl3RUJjMUViZjVMekJVckVJVXBXNlR5R05ER1VVM0tucFc0QUZyYjVSYmZpRVZIakFlamNyZ2p3dFhkTFkxU1RjcnZnajJOTDNoR2pRN1NtdXdwTE9LcWNIQWRzbHZWMVdwd09pSHhMMkhpNEd5NEluY0ozV00zTjNZejFUWVFpSnN4ZUdhaUptQlIwdW95MEFxeEtuWFluLWRVT1nSAdgBQVVfeXFMT0JIWUJhQ2dhRnMya0o4MFJUQWdpMDFNOFR6blRaMXJnb2ZCc092WGNBLWV0d2hQSjNEVjFyaHlISGFubFNPYmN2SklCcjc3dHUybU9TRGpDUWEwTFVyTmcxelNxUXRMT0NMVE1TcTQ5TnFEaTRZRXlkN0gySVZvMndyTkFqX0NxeXNUSDFjWVByc1JuaXlqN1lFdThHRHpjRXV4Tk1qdGM3VlZFeFBiM19pZmZuNEZ4eTBKSG02QnlfVkdWekRTQ2NHYnN1QXRuLWVEYVp6azNL?oc=5",
+     "fecha": "2026-05-01T07:00:00Z",
+     "medio": "La Tercera"
+    },
+    {
+     "titulo": "Día del Trabajador 2026 en Chile: cómo funcionan los supermercados y centros comerciales en el feriado irrenunciable",
+     "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSGk5SF9qRGVvdXQ0aGROb2lLY19MYmZUa1ZWZ3hfNWpfM0V6WDFzaDRkYkE4LVoycnhKdFZOX0JDVHJpTDhfWS14ZlJhdFBSMWVzUDYwc3I3RHQ3S1ZvWFhRTThZamtMc1lUcnc0b3JSX3R2ZXZsVGNiQ0hIS1dTUDNZak84eEpsOGxFa0NHVUhWR2NjRGNGckJRdGFnU2FlVm5panU3VjM2YU1EenN4ZmVNTEM1eldmYkNpM2xNem5tVXlmb3FOMEpTenVFU1llMmx4anVONjdJYzB6ek1kVEFTY0ZROVE0OFdSZtIBgAJBVV95cUxOakctTVRpZ0R0S0hWLXJqMnZNbTB4cUxkN3N4ZWlETlcwdUw3c1ZOVWRlSmFwUkNBZFVWTEllUkJpRUNlYmhpQUs5RndXR3YtdC1UaURuOHJtZ0EyZU9RYlZkemtTMDVDMENuYTRDM1hRaDhEb1FYR2xyMzYtYmw2QWtuSWxucHNEU1hzTFV2Vm4wanlxTTdMcDdMOWxXSEE1WS1qeFF6V3pNVnRYUnNLWVQyXzNqYnJ1WTR4WXh1cFBjVjVXOW43S3F5bERCZjB3eDB5Q0NXN2Q4R1ptWk9LZDdDVTlnQmsyMnFtdjMwTDIxYW9SeEJoRUVhbGhZcnFf?oc=5",
+     "fecha": "2026-04-29T07:00:00Z",
+     "medio": "EL PAÍS"
+    },
+    {
+     "titulo": "Este viernes 1 de mayo es feriado irrenunciable: estos son los únicos comercios que pueden abrir",
+     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzdVbjdsOW9CZW00cGhjR1J6bzduMnR1aklrb1RoRm1OR3F4ejRJeWNCQ2tweGpWQ3Q3a2diQl9IaWc5QUVkM0NoR1VsMjNxQzFXbjJMNU5kU1l5bm81ckxTWVkzTXZrMHFrYW9ZaDhtTUx4UV9UYTAwQXdPbVlySzAyUl9NOGI0V1JwdDJ6MWNsUXhWbW5nSzFXQkZMQnhoc01YM2Ytcm85ekFsUlFuTw?oc=5",
+     "fecha": "2026-04-29T07:00:00Z",
+     "medio": "Canal 13"
+    },
+    {
+     "titulo": "Feriados Chile 2026: ¿Cuándo toca el próximo irrenunciable?",
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd3lIdXFGU3owMmFEU3ZycXVITjdMQ0o3a19ybEdxd0lnTWNvN3JHNGtwMHNWanFmNEt2WWRMd2JyZXh3ZlJZLWZCYkFfN3NycUpPSV9fSHdkRnlSRkFoU3A5TThKOU8zTmRlQ05TWWg3c01WOWtES3djdDFCNUhWMTZlSWFNN2llVWx4WGRhUk0zeDBYbGfSAZsBQVVfeXFMTmNqSVZTcXN1Z2NjaFlBMW43d2Zmd3BaZG1mQUcyYk5VRVM1YWFpSldLdlhOM1c4M2hiZDR2RjExMGxtZE80c0VDMDYzREEwQ1JTckxBR01jNTQ2R1RsTWdfYzF1WkdyQndvamV0UUJIeXpmNloyOVBuY0tTbVdRa3E0al8tN0ZLOWVxN2pPSF9VVW1BRFp6WGZFeDg?oc=5",
+     "fecha": "2026-04-08T14:58:25Z",
+     "medio": "24horas"
+    },
+    {
+     "titulo": "¿Nuevo feriado irrenunciable en Chile? Líder de la Iglesia católica pide el cierre del comercio el Viernes Santo",
+     "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaW5kZVBmbnhOYjR0R3Y3cUx3WGZmU3RhZzN5cU1ZaG5aN3VXcnJ0X2U4YW9Xc0dPTjVzY195U016ckpzdVlXUFRmalZoaDRtakpUQkVTS0N2bTVpcHN4S09ILWE0ekljcFh4cTBYT3NFbk1OOGRySEl1TVA3SHdHLWFucF90RUd0RThfMWpzb0w0RGhDYXRjT1JfMjQxbl9QZVJCS0t0bXRmRXpTVWNHNGFFZXJDWmRVRXNfcnFDN3NQb0lCeHpkTldpeUFqN1BDMFUwa25OeFZiX010dXREX2hlSFRtRFAzMHhBZFBGQnNlcVFyYXN0ZldaMHJFbDlaSTdqTQ?oc=5",
+     "fecha": "2026-03-17T07:00:00Z",
+     "medio": "En Cancha"
+    },
+    {
+     "titulo": "Qué está abierto durante el feriado irrenunciable del jueves 1 de enero",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2FnZi1pbExlNzhtaVhrejh2cUt2NlZ4bDVETk5IZ0l3ZERzRzZMbDhXOFBEU2djZ2VzaGNlSzdjSTJoemswbXEzYWRRSUllUWNwV2JKNURJWThlSXQ3cGtpa19kRTR3TVAtY0diYWZKUm9SYWpQZUQ3VmxKVjRZRFEtcFhtNHlnakJmRTNTaEctdTh4a3BBMEs4TVItRVZrcjB6OEt0SDNFZFpMU09TUXI5WXlMSG_SAdgBQVVfeXFMTkJlcTdITmJoWFA3MWJLMjBrVlpKNlpEV250NjRpdWZlRlNKek5hUEJhYW9zTEtHd0NBUXBacEl1V3JNTE95SDFvVTN1UFN4b0RkenhMZ1NSZUNvVlhsZ3l3X0drR1ppdkQydWpPbWFJSTZrU0FYdExBSmNlSzd1dkM0cVc5NjVHQnN3b09wUEV0Q2VleWhiYVhkZEg3MlViMF9MVzVUaGs2TGd6YmxtUVBaWjdRQk84NlVFbXVRWS1ETzZXMnFDcHA3RmZfdms0X2dmbHlnSGxo?oc=5",
+     "fecha": "2026-01-01T08:00:00Z",
+     "medio": "La Tercera"
+    },
+    {
+     "titulo": "¿Es feriado irrenunciable el 1 de enero?",
+     "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrRzBtN2xwSmRUOHBCYmFmaW9FTVRWTTUxcWpqNk5HWHMyVnpuemJmR0xQWURPS0tFMFFCZThnS21MVlNSbVNmWTQ2Y3BqdHNqR3R6alVUZ0IxU1F2VU5nRjhRMENTQk0wUGJNRllUN3VmN0daa1E?oc=5",
+     "fecha": "2025-12-31T15:12:44Z",
+     "medio": "Gobierno de Chile"
+    },
+    {
+     "titulo": "Qué está abierto durante el feriado irrenunciable del jueves 25 de diciembre",
+     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU2FtaVN2YlBaT1AwSWdocGRRTTBHU1pMN2tpTW55ME9RN1dCamJocnNMamhKQ1NhZ1hzQ2tHMnc2ZWk5WHYwQm9mNUtyblpOcUIySEJCRXFZUlBYYWIzMThnSU55SXFZeVB0cmd6VzJpMlUtYWdIeHBEZFp2RndudnlhUW5COGdFbFpwTWlkcUY0U0tEUUxjTVR6dmsxZWJpQzdBMjdMVU5ERTh5Q1JOTnZnaW1zamF5cFVPeVpn0gHfAUFVX3lxTFBvck10SnV4eGtJbWNoZDJQM245TnoyamdDcnI3aWdfRFhJOHRFcDV3cUN4azZvamt4Q1JDTm1qUmJKYnBmZkNrTkZqbFN3RHo1YndpZlhqTDJWSDVxTGNleWtCRTE4M0VCZVhVTW5CbmlDTm1qWHg5QlhDOHVEcGlEZ1JvQmxQeTQ5OTNkLVRHX0dtUWVRUkdDMkdvUFlUU0xyRVVWbl82QU9KdmpBT3htbU1qWXRzMTFkWVVHR2tUZUZsN0Q2WkVFeWRYSUtfWXp2VGQwMGY3Q0NIZjU2NTQ?oc=5",
+     "fecha": "2025-12-25T08:00:00Z",
+     "medio": "La Tercera"
+    },
+    {
+     "titulo": "¿Es feriado irrenunciable en Chile este domingo 16 de noviembre por las Elecciones? Esto dice la ley y la Dire",
+     "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWXg4UnBhQ0N5ZEJOemNiYmVSRllaRFZZSGwwTFlMWGYwWEg4cmowOG1JYnVzdVh2YXZuTUNNUjZmNmliWTBsYldPRnp1YlZkV0E5T0dhQjRmTk5PQ3p0N2tpN1ROTmp5X1VBbExwSHRQQkFibGpCNExRanoyYVgtRVFiOWI4ZlFnc0dKTWtjUjBnb2podmhaSXNpUWhYR29uY3RNc2owUFptcXR4M1A2TF85NEJleDRmOUNOVHMzTER5SlMtbkZmc0xYX2JGX296M2VrSE5xM1UtMlpFWWQ2MHhoTzBOMDczR2tGR19xNE85Nm1Xdzd6bE1HR2TSAZACQVVfeXFMTXM0bkU3WkJ4VThydzhKaEYyTDltNnc0ajZGamY1LVZNaDJtVlZFYXM0N3dZVHlLWWhkLUtvZDl1OS1oemFsX1JWYUw5X0N5WE9uazJEbHBzTnY4MThMRnpBMGhibGJtVXVjWHRIT1I0WTMzZ09BeGhCT2RLaUkyRFJoZjVNbUZlek00Q3FRcWwwbUt3N0RMQ0w0bFFEbklZLUJ2WE5GYnNaeFhvZU5yMnpSeEtRejdiUVdhT29xZ1dtZXd5ek1TOWRkQjJ6d2czak9VVXprZVhlSzUybUpTWXlQeno5djdnVEMxT1dDQ09LUjFKR0RpbU9US0tkN2k2aDNkQm9vN2w0T0xPdnVuRHM?oc=5",
+     "fecha": "2025-11-14T08:00:00Z",
+     "medio": "AS Chile"
+    },
+    {
+     "titulo": "Fiestas Patrias 2025: cuánto debo cobrar si trabajo un feriado irrenunciable",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOXVpUkFBTENtanZtVWU0NkVBbm9IRmh2RVEySm9LMG1id2RCejI0S3VCclNLVElGOS1GTm1SV3pQdWg1V3NwSU9qT09NZHllc2NzVjAtOVFfMHYtdHVwTUFjSEdzc24yblVianpQdVJtOWg4Rkw1dlJKZEl6VzNsaDlVbWtQWEp1OXVRQ2didUg1YWlTOTQtY2t1cXA1NVd6RHRBZDZZZ080N0tsMFJnalhmZmE2blRHTk5yR1FYWnFYQnRJc2c?oc=5",
+     "fecha": "2025-09-19T07:00:00Z",
+     "medio": "El Mostrador"
     }
    ]
   },
