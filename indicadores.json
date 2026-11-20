@@ -30,18 +30,18 @@
   "fuente": "INE"
  },
  "oro": {
-  "valor": 3546.62,
-  "fecha": "2026-11-20T07:39:35Z",
+  "valor": 3577.7,
+  "fecha": "2026-11-20T10:23:35Z",
   "fuente": "gold-api.com"
  },
  "plata": {
-  "valor": 41.63,
-  "fecha": "2026-11-20T07:39:34Z",
+  "valor": 42.27,
+  "fecha": "2026-11-20T10:23:34Z",
   "fuente": "gold-api.com"
  },
  "zinc": {
-  "valor": 3732.0,
-  "fecha": "2026-11-18T00:00:00Z",
+  "valor": 3714.5,
+  "fecha": "2026-11-19T00:00:00Z",
   "fuente": "LME vía Westmetall"
  }
 }
