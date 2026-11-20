@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T11:32:30Z",
+ "actualizado": "2026-11-20T13:53:26Z",
  "fuentes": [
   {
    "clave": "turismo",
@@ -90,9 +90,9 @@
      "medio": "El Financiero Costa Rica"
     },
     {
-     "titulo": "Turismo para Todos: inclusión y accesibilidad entre los ganadores de Más Valor Turístico de Sernatur",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb1E3dUZMWDlPbUNrYklHYUhZVUw4NXhzVnFyVVJIN1NwbVhZYl9LVkpMWndjTVhKSEFOSVpORU5ONDRxWnY3TmxJdGFLbDh0V0RFYlp6enF2OUp0MnNPLVNzMjVldk55TUUyMlduY1NBeC1ucThXZjRCdV9vNVhueWszWDVQaTAxVkpSMjgxb3p6SHBnblI1dm96N3pITVg2SW5XOU9xMks0dkVsSXppNjFzSGVqWFFTRVJINERGRFR3Zw?oc=5",
-     "fecha": "2026-11-11T08:00:00Z",
+     "titulo": "Sernatur recibe al primer grupo de Turismo Mujer en Ñuble: 320 beneficiarias visitarán el Valle Las Trancas durante 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZlpPQlFhUTdHajlDcEFCTk1Lb05yTXczREtmRGNSR1RuUmtjNGJodEtwc0JQakF1MnBobTc3M3Rmajk1RUJqb25GOW5LVFJqMVlVWGZzcG8xU1l5eTZDNnBLazd5V1RfWkxHN2NmVnV2Zk4wazVvUl9fcllTQmlPRU41UklnSG53aHZIbUV6MjFnQlRkWmR1MjE4NGI1YXpPZnFxdnc3ODdjQy1MVE1JdWlNUHI4X0hHSUV1SmxWVl93S0VPOFBiZ250ZjJCU05rNnctTnRrcm9GeVMw?oc=5",
+     "fecha": "2026-10-19T07:00:00Z",
      "medio": "Servicio Nacional de Turismo - Sernatur"
     }
    ]
@@ -103,7 +103,7 @@
    "items": [
     {
      "titulo": "Villarrica conmemora el Día Mundial del Turismo impulsando la innovación tecnológica",
-     "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbk9PWkx4NXJ0bjNUaDZTQlNwXzg0d0E5em9KODlNR1dMTEI0N24ybVBHcmRXeWd6UXlaRXFlU3ZfaUNhVk9VMm1aTGR5Vm9UU2RzM1FXN1dHTGdLNkJHRWV6ODRZdWx3blplc0o3em9Ea0NFZzdqSjVGcTdEckxJSEZXWTk0YnR0RHVmWGpuWQ?oc=5",
+     "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbVBVd2hBU3BKczhXMFVCLWJKODFLSjJibEdqRGlZNFR0UDlpNEtyRlJjMXpvcXUxcENGamV5S1RyaTBONElsNzdaR0tkbmp5ZFBRMzl0NW5KelNBdk02OHcwSllTMU1JTS1nNmRtQ2RmenFXRkx2TUpDd3BQRUtGWnowMTREU1FVMnZOYUpBTQ?oc=5",
      "fecha": "2026-09-29T07:00:00Z",
      "medio": "SoyChile.cl"
     },
@@ -300,6 +300,12 @@
      "medio": "BioBioChile"
     },
     {
+     "titulo": "Marina del Sol Calama acuerda un convenio con su sindicato hasta 2028",
+     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMVBFcTltNm54VkRtUTJ4VlZFV2lSRk5aMWZ2N0RNenA3YXdUdl9sNEVMXzhkWmxiTkYxVDljdGVrU0JOQjRqRjZ2dDRDb2ZtV1FoQ0hBOWZpMVZXeF9Nci02SGFuVmIxc2RyZWNaQXlRb2paRnJqalBxRmhqdHZmVg?oc=5",
+     "fecha": "2025-04-03T07:00:00Z",
+     "medio": "GI Español"
+    },
+    {
      "titulo": "Hito centenario de Los Lagos reconoció la labor de los sindicatos con más trayectoria en la región",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nSjdGS2hKVUZDUVNieVg3NkVlaUhwbzBCUzFiMmhIaG5NWGlNeGhkOVhjNVdmM25rTFdhdzFSazBZWExmN3EwNzFERkhwNUUxbGJJZ2tGbHdoOTNqRktJNllrbTJPeFE?oc=5",
      "fecha": "2024-09-05T07:00:00Z",
@@ -342,6 +348,12 @@
      "medio": "laizquierdadiario.cl"
     },
     {
+     "titulo": "Sindicatos de Finning denuncian que empresa \"está vulnerando los derechos y la salud psíquica\" de los trabajadores",
+     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzN0b1AzSXpyRHduc29QcnFhUUNNNjd2d1otMVhYY1FOWjdIMURHS0NxdGQ2MEVkS3lDaGNBa0o5TkhXenRCTGZTdHNnLXZuaEpjMmtNZmFzaGtMLTRIRmk3TDZsYnhZOVlibmNfWXZTVXBGd1hYUVB4aUIxMzRCSHFlTE5WSjRyYVg1Nlh6QjBEUjlyYktsa3NUUlR5dE5GNnFvTndvY2VWZDJuQ3FUOGt3MDhwakppTGU1Sm1WN3FnYmlhbE91d0V2WXXSAdQBQVVfeXFMUEdnSVFNN2ozUVZEREdHOTg1MVdxZkxXaFNwX3RubDlqcXJrVWF5VFY3Y2VpZk5lNm4tZHJaMzlUejcxNW0yeWdjQVZ4MkM0QXBCQ09RNzZEQXhWcEFSMlYzNThNSDI0dXVLUHlwWlk5bTVvSG5oOFBKTDhpMl9LQUhZbG5GeUNqODRrWDQ5ZXhyTk13VG9ETVBYYy1NalNlZVFJODJidG1FanJ4WWVRU1NfTlJtdnh2S1MtRUx5XzhZSW5nb1NXaVBmUzZWQ1AyRzZEbkc?oc=5",
+     "fecha": "2020-07-10T07:00:00Z",
+     "medio": "laizquierdadiario.cl"
+    },
+    {
      "titulo": "Sindicato N°1 Escondida denuncia a BHP por querer \"deshacerse de trabajadores viejos y enfermos\"",
      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNE40NlhHVnRtMWJnQUtUNUI3LTRtZUtlMS1NTndjaGk3UGxSVnFOWlY4SGpLcEtYdGdpOGRPNGNmSzVsUmhuRGY1TjVRWEpOWXZTaUFJM21sdkRSREp0NVJSN3lCa3gxLTJldWo3RmdyOHF6TmJsNVNJVU16ZGg0Z2ZySU4yTkFSUXZkMVJOSnFRekhSTXFDWnRUeTBfdjNINW9kZXJjTXBzY1Jibl83QVd5TDJaX2FQSkN2VG5adDR2TG95eUHSAc4BQVVfeXFMT0FwN183WVpBeWF5aTkzSjgwVzZVTFg4UnpIaGVzOHZwX2VzVDgyUUJBcVlWSnBJSjJ6T2lMUGF5S1lickhMamQ1bEkzekg3MnFCR2xQMGJPTHExbzZFa0xHY1hHem5icUtRYy1qbVR1WmZSWkZ4T2FTUzJhSTJmRzNLYWRpUkg0MGJMRWg2Nl90UU1hbFgxOVdheFJTWnF4elhYalNyaGhJYUFZV2F2dXJPYzJPU3E5RmlKQm9US0hVcVJWc0VWY05DWmxaakE?oc=5",
      "fecha": "2020-07-09T07:00:00Z",
@@ -354,22 +366,10 @@
      "medio": "EL PAÍS"
     },
     {
-     "titulo": "Naviera firma convenio colectivo con su sindicato de trabajadores embarcados",
-     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZzhaQkdmUHd3RVBLOTN1d3RxcVJNWDAwbjJzTmhka0tteGo5eE05OG1QV1NqU2hJX0ZaZTB0YXpBRUpfLVZOZUV2c2xib2FsUXJySjZ5NjhRdF9YZlQ5ZmlEbGpWSmMtVjdBTVNLV01uYzd4enZCS2M0d19YZWdoVEU2b1pERmtPeVBmeEExMGVDdU1sZEFKbHhuRGNmUQ?oc=5",
-     "fecha": "2020-03-20T07:00:00Z",
-     "medio": "aqua.cl"
-    },
-    {
      "titulo": "Sindicato del Conrad en conflicto",
      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkp2R3E5VmlqT0JWRnFQYUdBTm8xWlRUemV0bXc1WFV5RVlvemYwVW5CUjlqeERRcEVaclhrQ0JZY3FQWkdjOWJsbDhvdW00OXRsY3ZEcnViN25ma2J1UVlOY0FfR0pzMlRyQzRXQThDNDNGdXdkNHBiOGZyWEtpbjRkMVZ5M0820gGsAUFVX3lxTE5fZ3pGU2VaanVlcGNvc2F2VHpqVFdUbld6ZzlUZG9FV1NxQTQzVkttNEg3dHlHMTR6ZDA0V2o0Wk5uVWFheUVwYllfckdRV3pNTUFWallxcjdqUVFIZkNta0VtckR5czkxWElMUWpXTVNpUDlEdE4yTEQybnFLMndVcVFtdUtwZERYMzF1bDJRazlBamVzaWlfVmt6UFNrX1ZsZGk3aFNLLTR0RXM?oc=5",
      "fecha": "2018-08-03T11:44:50Z",
      "medio": "Montevideo Portal"
-    },
-    {
-     "titulo": "Michelle Bachelet será distinguida como Socia de Honor del Sindicato Médico del Uruguay",
-     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEluMm8zSVBpSldsUFpIVy1Dd3VGX0RIMnRaaS1jV3FUajJtcDY0TWZxeTlfSzFGZDhMcUhHbHFfT2NBX3gwZE83Y0tNNmloRnBPR01OTE9uaUV0Z0sxWkJhU0J4MzdGUjcwYVVnXzN3eGFzZjhVZWpiZlM1X3IwMlcxMmNxN1cxcVEzbHdMQXM2djg1U1BJU2EyaVVnRFhQQ2Eyc2hR?oc=5",
-     "fecha": "2017-10-17T07:00:00Z",
-     "medio": "Sindicato Médico del Uruguay (SMU)"
     }
    ]
   },

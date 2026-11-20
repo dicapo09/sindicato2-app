@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T11:32:24Z",
+ "actualizado": "2026-11-20T13:53:20Z",
  "fuentes": [
   {
    "clave": "retail",
@@ -24,16 +24,22 @@
      "medio": "Portal Metropolitano"
     },
     {
-     "titulo": "Cencosud, dueño de Jumbo y Metro, sacude la competencia con nuevo supermercado de bajo costo al estilo de Tiendas D1",
-     "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWEVTY2R3OHV5Ukx6LS0tR1MydnIydXNJWktCemtSQ05GdE56SGRtanItUHdDRVRwOXdZWkNVWXY3dVlPWW14UlVrUnJYLXp3YkJlYk1ObGZOV05SN1dHM09mdU94MHBfUkJTYUlEZy1XSGhvYXA4T04wUTRQenpRVTlZMEFHNm44S0lJMERmcmY3aXowTTNZMjg5MUJ4UzdCLUV5T2xFcmZUYTNGblFSUjJhRE9xYUFLNGFUM2IyeDhsX2FHQ0lzQVpHcnM2MGRBR2ptUW9ibWt1U0tRQkJPZ2pqMWNfWWZZb1RITTB6djNhMEJ4MWRLQnRn?oc=5",
-     "fecha": "2026-11-18T18:54:37Z",
-     "medio": "RED+ Noticias"
+     "titulo": "Retail financiero mejora resultados a septiembre: Banco Falabella eleva 33,1% sus utilidades",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0RjbjBQV2tiZnN3OUkwaFBCQTk1WjdGYTVkUHVVTVl3UkhTVlNSU25KWkluNHBsM3VNU1Jab0NrbUk1dllUbWtycV9HYmpzN1pBbXNUYkhVUUZCLUF5Tms0Z3BsNjNrVWRDUlJWM29fTml4aEY2Vjk1b281RnhRdFpyT21uM3BaeGhIb1ZrMHFrUVZqRnFWNDRJb1FHTmYwWEFjZHJpZlVaQlpscUhERmJTRVgyNXlDT1dUM0xCRVhQV2h5ZFE?oc=5",
+     "fecha": "2026-11-18T19:02:55Z",
+     "medio": "Supermercado Al Día"
     },
     {
      "titulo": "Ripley eleva sus ganancias 53,2% en 3T26 con fuerte crecimiento de sus negocios en Perú",
      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3FHa1JGbVNuSWV3Zkl5Uy1reDFUSk5OaWRadC1GbGZ1a2ZtcDRUZUJud0taUTE2QWxOQjVnRDF1eno2c20wRGZzX0lzTHB0Q0xlQXVqWVF1NTViYVFLM1A3YlFFd0pDbmpkd3VoaDlQVWdnOG9ScDBQU1puQkFJWjc1QnpNS0tnSzJuV2YzXzhIY0ZnOVZqc2ZyQlVINFhuZ0Z2QXBUbk0zZ3dOcmdZcDdZZi03Yk9CY2xzSQ?oc=5",
      "fecha": "2026-11-18T18:14:08Z",
      "medio": "Perú Retail"
+    },
+    {
+     "titulo": "Walmart Chile y Desafío Levantemos Chile cierran programa que apoyó a 120 emprendedores del Biobío",
+     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUks4cURsSVFmZjdPMUJNeFFLdEhZUjVXeGZVd3dteFpNZGRxVkNId0tvcFZPOGQtLVZPN29ZYTlxY0RoVEVvS1hZdVg1WnA2TTJCbUVpVFNfcEl2VWpicGJEempDeXpISEFLR09IdnJYQ0hGN0xYdUdkbjZmYUhSWEtfYl8weENFTHN1TG5INlF4V2lhSDM1U295QzlUT2duUDlISTBBVEpNZzRieWFvQ29FQnNyUFRTY0NLMHNuTGtySXF2NndranRmemtKSVY3WHc?oc=5",
+     "fecha": "2026-11-18T14:24:34Z",
+     "medio": "Supermercado Al Día"
     },
     {
      "titulo": "Walmart Chile, primera del retail en ranking de innovación MIC 2026",
@@ -60,40 +66,34 @@
      "medio": "La Tercera"
     },
     {
+     "titulo": "Somos la empresa más innovadora del retail y la tercera del país en el ranking Most Innovative Companies 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHZBaTVRUmtqZzZvcjNTcHk4aUZqRFdoeEgtYVZMVkI2RVFJM205X19BRjVrRUF1dWNtMUtrM0RQck9YNzBJLTRjQlU0em5xbklNaWxwRFhoTkZrSTBicm1TTm1ZVzFURHV4QXdyU0FLb040R0FZU21wcWNtYW1YalhxUnJoc0I1OXd6X1V0bC1uYlNQa2VXam9RRHd6Z2pLaVE3Vy1JTXdfc3lmcHVzaV9HS21qVkVwUGYyX3Z1d3RvcFdMcDVHc0NvRXNXbW4tT0VuUw?oc=5",
+     "fecha": "2026-11-17T21:36:05Z",
+     "medio": "Walmart Chile"
+    },
+    {
      "titulo": "Ripley eleva sus ganancias trimestrales apoyada en la banca y Perú, pese al retroceso del retail chileno",
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVRadTl6Y01PeGJ2OS1WZ1R2b1VSaUpNaHgxaHFuRHRQblpqZThoOVRad1lRTnZUM2JhY2lOOVRYNVp2VHl5UkF3TXV6STl1TE5ESkktTTMtM2JxX2UyamZHLUpLTlNzSDdFWXJTREhrd1huRmRvWU1mSzNQdDFwOHBsVmZmNUxtdU1WSGNpUlF4U2h5T2dWU0VyZHhIZHlsa1hvLWhvY1l2WTduSGV6VWZuV0RrMXFpd1JreEVieDhJdw?oc=5",
      "fecha": "2026-11-17T20:27:00Z",
      "medio": "Diario Financiero"
     },
     {
+     "titulo": "RIPLEY: Banking and Peru growth offset Chile retail weakness; Q3 net income rose 53.2%",
+     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSUx0aGI5d2IwN19NRDJtZm9QUEdUT1Jkd1BBRWJsYjFXQ1d0VTFidnVWUXo4dzBpTU5DT3pfbmw2b2NKZ1dfNWtXNEFYLUdqYkw5dUljRHhaSVRSeHRUQnpPMWNYc1d2eHB1WFBpLVVpY0ZYaUVNRno2cVhjeWV0U2hlN0lPbkZ0YWFucTZaeVdwUGdvVHAwa3dJeWtZemhqV1pRNVo1c1Vid29nSTgtd0MtTW1HNVVfLWhjcVljTnYtRm5hOENEY2JSNzdVTjZ4VDZ5Y2RJTk1mcVI1RGpBZEMtRG50QjBIc3NsUzBsU2poNDNSck1EVQ?oc=5",
+     "fecha": "2026-11-17T20:19:29Z",
+     "medio": "TradingView"
+    },
+    {
+     "titulo": "Don Salva alcanza 15 tiendas en Chile y prepara más aperturas: ¿qué viene para la cadena?",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdG90ekEySG5NMHNiZENiUHA4bVRod2xFeEttZ1YxdWZQcHFsMTRuZVZtcHpENmFrNDRCcFVnb1FYandLc3pQLWI1ZDI2RlVia0N4emNPZ05sV21XT20wMjVyeWc3NDRRd3BrLVFnc3A0WkQ0bVV4cGQzM1ZxT04waVVHdjV5UEtrd2l0S0tPdjQ5aENieVVEeTBLVDlTeG1yLU52cFdCNkZyanhzSEd6TVdRVDI?oc=5",
+     "fecha": "2026-11-17T19:59:33Z",
+     "medio": "Perú Retail"
+    },
+    {
      "titulo": "Ripley Corp. aumentó su utilidad neta 53,2% en el tercer trimestre, impulsada por Banco Ripley Chile y sus negocios en Perú",
      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcl8xVWxfVUg2ajBkY0laYk4wNll3emJQUFd1SVB0RUNhNkRBMGdLUGZGUGxoWVd4ZU5ZdHBsdjVSYkp4bjVSMnpmUFRLbjF0bV9zR1JqQWZ3ZUY4Y2ZGZVp6NVpOaWt5WHcteFAzSHpJbVU3N2FxZXZHVkJCLTREY3BLMGZ1Tmtud2RyMHdTZzl5S2hZMnBKNmZpdE5MNzgwQjBPVGM1T09BVTlBek54WmVfWG81UW16UThwRjd6N1NBSXNJcHZZbE1GS2ZDSWYxdkNfdmlZTmhxcGwzaWpvbzhtN3hidWV1dk1ITnFpaw?oc=5",
      "fecha": "2026-11-17T18:34:00Z",
      "medio": "Diario Estrategia"
-    },
-    {
-     "titulo": "Más de 500 empleos generan los tres nuevos supermercados que abrimos en el último mes",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJvbXdzVlVma3BEY0VpZVBZejl4VTNOdFMzSS1fR0VZdW45SlF6VWxNZEJHSmh3cmU2bllrVU1fdlFKdTVKSVBjTTJmbVU3dy1BWWJVbENHWTJUT0FWektGN0EzNHBWR3RFQXJlY2ppbzRKUGlwQ0lpV25GaGlUdlRnNWNsZkR6RzJXUk13djlvWUg1R1Uya2c0OWtsVmY2RTlvMjIxWTFXZWVsOFVqRmx3dUE?oc=5",
-     "fecha": "2026-11-16T13:59:06Z",
-     "medio": "Walmart Chile"
-    },
-    {
-     "titulo": "Toys\"R\"Us abre su tercera tienda en Chile dentro de Ripley Costanera Center",
-     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekx4cktBeG1ZRkRwX0hfQUxVcFJ1QTVNYjgtV0wzdk1kbEhjRFpjVWtUSlN0aHd0TGh0MXE5d3lxTDM0ZTVUYl9tcEUycVNVUnBKcTJfQUdFYXBEQkZiX0tMYkowS0hURmJnVkM2aEU4WUlVZXVXeVFSX2kwNTVMZmlCRURKTk5fQnEyNmxrSlp0VmJHZjNVamhCcmQwR0FWejBJcUFHSGhqVzROOE9qbA?oc=5",
-     "fecha": "2026-11-15T08:00:00Z",
-     "medio": "Supermercado Al Día"
-    },
-    {
-     "titulo": "SMU gana por cuarto año consecutivo el Premio Impulsa en retail",
-     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmVkbzBEOW1rT1FYdDZFcG1mcGVhMXhYc1RXc21CYmZpUDVHREJxRnJ2eGNVMGthN2FCOVhwNTM3SnJyeXZjbUpqS0dsRFFscC1BTzNjdTdLZG5WNXBIUG45SzVzUlNITGdVMXBRUFhlUFV3VWVGRUNndnR3VGxnWU10Sm5kZ01qaUltOFcwNkM3ajR2Znc?oc=5",
-     "fecha": "2026-11-13T15:59:18Z",
-     "medio": "Supermercado Al Día"
-    },
-    {
-     "titulo": "Walmart Chile nombra a Felipe Nicoletti como nuevo Gerente de Ecommerce y Growth",
-     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWhUNEljaVpWMjJfRV80UVN2VmM4RGg1WGFNeWl3d2pQRDRRTDFYUno4d3J1X0I1V2xpb29lRFRaLXJwUmFZOTV1V3I1Skhiek5hN3dCWk9WWjBFQ1dmaDZlOU45eDVRZUxqRC1uQ0JVQ3ZZNkFpakVaZ2RiWUY5andKZHhJVm5lbGRUZlJXWHh1RUtRU3lUVDN5S19VNkRQbmNkLW9OQTNqZ2dMQkE?oc=5",
-     "fecha": "2026-10-27T07:00:00Z",
-     "medio": "Walmart Chile"
     }
    ]
   },
@@ -124,6 +124,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjd5bXAzYS1FNWV2ZUFHRks3Y2dPOV8yV0Q1dmhLUTZOb2JUenFxdXpoOFktUU9wcUQtVVA5Z1drN3dzLWVveEx0cW5kREhNQktyNmRYNGtOYS05X1NKSWhobzRWS25mX3RXNjFFcUF1MGd4WW5oMnc4cFM2RUh2VlZBM0Q0VEE5NjNtQjBrTEdpbDl5d21FMdIBngFBVV95cUxQckhyQWZhVDFPM052OU1GbHhYVE5OajJNRkFrQ1lsajdraTRfTEJ0MUtvRXlpbjRCbVhYc0UyT0FrN2JpVmFjX3pLeW14THpfR0lwdmU5SERPZkRrN25WN3k1Q002aWU2ZTkyRGUxNUJvLVFnUjVEZnZ5dEZRRkRxS3IwVkllaWJUbTVOd2hWRy10QU54TnVqeWZqaVFrQQ?oc=5",
      "fecha": "2026-10-09T07:00:00Z",
      "medio": "The Clinic"
+    },
+    {
+     "titulo": "Recapturan a presunto líder del Sindicato 22 de Octubre; enfrenta acusación por extorsión en La Paz",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOTFVOUxyaXJqeE56eWVsM0JEZ1RQS2p0LWthQVpUckJsR3F0cmVzT3lCQnhXaHZxcXg3Njg1am9GbnN6c0VVSG5PSTgwUHh3ZWdtZDRPcF9SUjZvOXFaY1R0N0JJMEZTczV5N0E4eGZfTDFVc1FCdG9UMGRYQTM2Y3lsTHVXZmNzemhrbjZTb3NQZlUtazBvRzhyUXU4ZlFXc1pWc1YxaFFZQXMwOXVlLTh0YzdHZ0Ita0czU1lJeE1GRU9JUzU4clE0UDVhQjROLWJpYVdnaDZCSzNSQnFzc3o0dms4dkJrRm1IamlGb2dIY00?oc=5",
+     "fecha": "2026-09-03T07:00:00Z",
+     "medio": "Sistema Mexiquense"
     },
     {
      "titulo": "Sindicato Interempresa Líder Walmart presenta reclamación ante OIT por eventual negocio de mutualidades",
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeHRhOHFnLXVvYTlsNU1QQ011MElXbS1uSzJ5X0lJbXFYbUFjNGVYU01lMmt4V3hYRXBNRG1KeUNjX3plc1RxQ3pqaTE1MGZOUktBNFdyb0JfNHF0eVNnVFFPR2lubjRFekhTS3JqdWgwbWF5cUNpQXYwR3NSU0hMcUxkemlNQ3piQlRDNU9sbXM3VC0tcW1acFFVV2d4cU5JeHdZcF9wN3NOUmoyV1ZabHNwU1ZGQzhvN1c3ZnU2R0c?oc=5",
      "fecha": "2025-03-24T07:00:00Z",
      "medio": "https://www.mintrab.gob.cl"
-    },
-    {
-     "titulo": "Presidenta de sindicato de Walmart Chile en huelga: “Walmart está realizando prácticas antisindicales",
-     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2hjMXIzaXdTSlFnSThuamEtM3lsRkFKM21BV3lmbmlvSEFjaTdsUzFzeFFEMmx0Q3J1c3A3SGtKNlg5UWVDNFNkWHNOekxwQ0pvVzFYa0JZc3RFUjRRYUVXcUZCQnVzeHdVQ1lHZTRKMFpBWjdJd2JjNzNSZzREOWVDM3VpOXpKbGlaYWxSYjQxYndZUVZ3clhDelVfSWlxTW9DZHR0aWswYkpSNE1YVmRIQ0hXb0pGaVY0?oc=5",
-     "fecha": "2024-07-13T07:00:00Z",
-     "medio": "Interferencia |"
     }
    ]
   },
@@ -300,12 +300,6 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Cámara de Comercio y Municipalidad de Temuco firman convenio de apoyo en seguridad",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkpiZE9WMXJqdkFRcTBRNHMtOV80Q0lVWWRIbVVUZTBNMTQwNklDblhsejZlelhxNWl3SEozX0h6Qm54b29mQkF1aUdYZ2xDU0w4THJObU9FdHhRRzljeFpBbzM3ZHhIS1BOOFhLWkp5STl6ZklXTUVQN3lrcEdvUWNDNWQ?oc=5",
-     "fecha": "2026-11-11T15:33:20Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
      "titulo": "Temuco lanza plataforma para denunciar comercio irregular de forma anónima",
      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTJDSkdLMU9rNDRQNTVHVmN2TS1mbUtHRnlyNGpCcDJ4MmNWaVVxMWJaQVNOYXh1Tzh1clNzSmxJZldLTmZIalFqNU1GR2hoQmJJeVNNLVVoNndBNUdhTFFJTXhvc25Ec1I2aHdOd29NNW5xY0Y1TWtVTmd6aGpOajZEOUJtU19SV29qVTVLaU5famRlT0xoYkZZRdIBoAFBVV95cUxQel9ZSFZiN0hjQ2dBQWhHcFdPN1RiV2lSNUZDS2RkRmZSYkE4S2lld1NMSDFmdDBtUHZ0TkRTdmxlSkNTRkFTSlMxYTFGVWp1eHAtX2ZhaEJ1aU0wdEdZSnBnUzhjQmhxUzdVLWhWLVFMaEktNmdjRTFqQ1BOT1RNNUt6ZTdtT2tiNTNrOGRpREd1M0czbWhnT04zUzBUc1FW?oc=5",
      "fecha": "2026-11-10T02:52:37Z",
@@ -382,6 +376,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOHFHRjZjelNwbjJFcU1DbEdBSDA5WEJUc2U3VWt3cWtUdGxuQjJ1a0puWC1rcUxocDZ3RTViUkF6UVc3ajRpOTZyTWEteXRhaGhnOWx3dlVHWGl1THk1SFZiMkVaMlJBeTFWRk1MWDVualNYZk5aQ29kU2taUU0xcEY1Yi1aWTAwX0h1SjZhNkpEVjRiRXozSjJuMm5mVVlpZG9CMXlSV3lyN2RQT2VnUElHSUpFeEVkZzlZUFpITC1uOW1tYy1WZnhRQVVqZlB0MzJmMHAzRVdCSE9uZXlMRU5MVHlXYnoyYTZ2YmpwOW96TG9OdFM4V3lnRHNjZUFJdUpneDhoSkk2UGIycDVHd0dSTQ?oc=5",
      "fecha": "2026-09-01T07:00:00Z",
      "medio": "BioBioChile"
+    },
+    {
+     "titulo": "Municipio de Temuco decomisa más de $3 millones en ropa falsificada en el combate al comercio ilegal",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGRFV3JwUHdoN2JvcXdqNktGR1F0a1oyc0UtLVowS1BsdjI5UVRKN210Q2dpdGlVTzE0M1RpUnNMNmJCMjNmYUpaMVMxd3puSE91VDZfOFBPa3lFTDE5S3kzcWRSM3FITEhfYzVmdml0czkzb0tqZDgyNFFKQUE3cEYxOEhJWUtFX1FzdVR6SFlJTk80M2pqNUlwMXg2R2NMcFRjME5sdm1WcG1LaVNUZE1MeVpWa1o2cDRDUHdabw?oc=5",
+     "fecha": "2026-08-20T07:00:00Z",
+     "medio": "Municipalidad de Temuco"
     }
    ]
   },

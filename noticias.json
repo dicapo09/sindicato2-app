@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T11:32:16Z",
+ "actualizado": "2026-11-20T13:53:10Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -78,6 +78,36 @@
      "medio": "Portal Minero"
     },
     {
+     "titulo": "Abren convocatoria para incorporar a 100 mujeres en áreas técnicas y profesionales de la minería",
+     "enlace": "https://www.portalminero.com/abren-convocatoria-para-incorporar-a-100-mujeres-en-areas-tecnicas-y-profesionales-de-la-mineria",
+     "fecha": "2026-11-20T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "61 estudiantes de Antofagasta se certifican en estiba y sujeción de cargas junto a Mintral",
+     "enlace": "https://www.portalminero.com/61-estudiantes-de-antofagasta-se-certifican-en-estiba-y-sujecion-de-cargas-junto-a-mintral",
+     "fecha": "2026-11-20T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "ATAMOSTEC cierra nueve años de desarrollo tecnológico y presenta plataforma para la industria solar",
+     "enlace": "https://www.portalminero.com/atamostec-cierra-nueve-anos-de-desarrollo-tecnologico-y-presenta-plataforma-para-la-industria-solar",
+     "fecha": "2026-11-20T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Sernageomin refuerza seguridad minera con visitas a operaciones de Pucobre y Candelaria en Atacama",
+     "enlace": "https://www.portalminero.com/sernageomin-refuerza-seguridad-minera-con-visitas-a-operaciones-de-pucobre-y-candelaria-en-atacama",
+     "fecha": "2026-11-20T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Enami licita ingeniería de factibilidad para evaluar recuperación estructural y operacional en Planta Matta",
+     "enlace": "https://www.portalminero.com/enami-licita-ingenieria-de-factibilidad-para-evaluar-recuperacion-estructural-y-operacional-en-planta-matta",
+     "fecha": "2026-11-20T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
      "titulo": "Codelco proyecta continuidad de Gabriela Mistral hasta 2055 con inversión de US$868 millones",
      "enlace": "https://www.portalminero.com/codelco-proyecta-continuidad-de-gabriela-mistral-hasta-2055-con-inversion-de-us868-millones",
      "fecha": "2026-11-19T00:00:00Z",
@@ -118,36 +148,6 @@
      "enlace": "https://www.portalminero.com/gerente-general-de-codelco-andina-inicia-agenda-de-vinculacion-territorial-con-alcalde-de-los-andes",
      "fecha": "2026-11-19T00:00:00Z",
      "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Temporales y desastres naturales ponen a prueba la continuidad operacional de las empresas",
-     "enlace": "https://www.portalminero.com/temporales-y-desastres-naturales-ponen-a-prueba-la-continuidad-operacional-de-las-empresas",
-     "fecha": "2026-11-19T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Pertenecer a un gremio: tener voz propia para construir una fuerza colectiva",
-     "enlace": "https://www.portalminero.com/pertenecer-a-un-gremio-tener-voz-propia-para-construir-una-fuerza-colectiva",
-     "fecha": "2026-11-19T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "SQM aumenta sus utilidades e ingresos durante los primeros nueve meses de 2026",
-     "enlace": "https://www.portalminero.com/sqm-aumenta-sus-utilidades-e-ingresos-durante-los-primeros-nueve-meses-de-2026",
-     "fecha": "2026-11-19T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Automatización industrial evoluciona hacia sistemas capaces de aprender y tomar decisiones",
-     "enlace": "https://www.portalminero.com/automatizacion-industrial-evoluciona-hacia-sistemas-capaces-de-aprender-y-tomar-decisiones",
-     "fecha": "2026-11-19T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "El Niño podría alcanzar una intensidad excepcional: EY llama a las empresas a incorporar el riesgo climático",
-     "enlace": "https://www.portalminero.com/el-nino-podria-alcanzar-una-intensidad-excepcional-ey-llama-a-las-empresas-a-incorporar-el-riesgo-climatico",
-     "fecha": "2026-11-19T00:00:00Z",
-     "medio": "Portal Minero"
     }
    ]
   },
@@ -155,6 +155,30 @@
    "clave": "mch",
    "nombre": "Minería Chilena",
    "items": [
+    {
+     "titulo": "Ministerio de Minería lanza segunda convocatoria de PAMMA Reactiva",
+     "enlace": "https://www.mch.cl/ministerio-de-mineria-lanza-segunda-convocatoria-de-pamma-reactiva/",
+     "fecha": "2026-11-20T13:03:00Z",
+     "medio": "Minería Chilena"
+    },
+    {
+     "titulo": "Sernageomin conoce avances en seguridad operacional de faenas mineras de Atacama",
+     "enlace": "https://www.mch.cl/sernageomin-conoce-avances-en-seguridad-operacional-de-faenas-mineras-de-atacama/",
+     "fecha": "2026-11-20T12:40:00Z",
+     "medio": "Minería Chilena"
+    },
+    {
+     "titulo": "Minera Las Cenizas: Estudiantes complementan su formación profesional en terreno",
+     "enlace": "https://www.mch.cl/minera-las-cenizas-estudiantes-complementan-su-formacion-profesional-en-terreno/",
+     "fecha": "2026-11-20T12:20:00Z",
+     "medio": "Minería Chilena"
+    },
+    {
+     "titulo": "AIA invita a empresas socias a informar proyectos con retrasos en su tramitación",
+     "enlace": "https://www.mch.cl/aia-invita-a-empresas-socias-a-informar-proyectos-con-retrasos-en-su-tramitacion/",
+     "fecha": "2026-11-20T12:05:00Z",
+     "medio": "Minería Chilena"
+    },
     {
      "titulo": "Cartera de inversión minera de Chile registra su mayor monto en 13 años",
      "enlace": "https://www.mch.cl/cartera-de-inversion-minera-de-chile-registra-su-mayor-monto-en-13-anos/",
@@ -190,30 +214,6 @@
      "enlace": "https://www.mch.cl/sernageomin-actualiza-portal-geomin-para-facilitar-acceso-a-informacion-geologica-y-minera/",
      "fecha": "2026-11-19T12:31:00Z",
      "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "Lundin Mining Candelaria recibe a estudiantes de la UDA en su programa de visitas técnicas",
-     "enlace": "https://www.mch.cl/lundin-mining-candelaria-recibe-a-estudiantes-de-la-uda-en-su-programa-de-visitas-tecnicas/",
-     "fecha": "2026-11-19T12:30:00Z",
-     "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "Rueda de negocios AIA impulsa nuevas oportunidades entre empresas proveedoras",
-     "enlace": "https://www.mch.cl/rueda-de-negocios-aia-impulsa-nuevas-oportunidades-entre-empresas-proveedoras/",
-     "fecha": "2026-11-19T12:15:00Z",
-     "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "Minera Los Pelambres despliega trabajos para proteger cauces y sistemas de agua potable rural en Salamanca",
-     "enlace": "https://www.mch.cl/minera-los-pelambres-despliega-trabajos-para-proteger-cauces-y-sistemas-de-agua-potable-rural-en-salamanca/",
-     "fecha": "2026-11-19T12:10:00Z",
-     "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "FLS fortalece oferta en flotación con renovada planta de poliuretano en Renca",
-     "enlace": "https://www.mch.cl/fls-fortalece-oferta-en-flotacion-con-renovada-planta-de-poliuretano-en-renca/",
-     "fecha": "2026-11-19T09:37:00Z",
-     "medio": "Minería Chilena"
     }
    ]
   },
@@ -222,93 +222,93 @@
    "nombre": "Reporte Minero",
    "items": [
     {
-     "titulo": "Sernageomin abre últimas plazas para Curso Experto en Seguridad Minera 2027",
-     "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWEk4R2RnZ0dvajM3MlFkdlRvSFNGU3NManFmYXFmTU8wa0VFRUotaXBSNUdDQ1E5QU5xWU1SeXNoM3RlRk1zYXMtTG85VFZIQVVCSXZnQ3QtQXl2NDE5XzBNTm95djZPT3hZeVJvdnV6T0lCTHZaSXg2RVQ1bEVYQl9rNjRDTHlOa2F2Y0tMdVMwaFE5dk1CVUEtLXVENHhjOHp3?oc=5",
-     "fecha": "2026-11-10T15:05:00Z",
+     "titulo": "Coeva aprueba continuidad operacional de Sagasca por US$63 millones",
+     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDgteFRvUDlwYUtVd09lT1Y4TncxV1VUeUZDclFQanVRc3ZwMENqV09CeDFORUF6RHlnd0UzV1R5SVB5RUJCa3dBbURabjZ1MG1nWmU2MkFDQUt5OFFCOWkxdWR5RFJ5VGYyRF9EV1N6X2VjOXBlMldocWtxWTBlaklkRVVyZlVQT0RVcTZ1eDA0TUgxUXZ6d0dHOHN5Q1BrTHBPU2laU3RobzRWTTZqTQ?oc=5",
+     "fecha": "2026-11-20T13:35:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Tribunal Ambiental suspende por 30 días RCA de prospección El Alto y Barrick anuncia reconsideración",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNVJ0TWRMMjZ1djlla0xCaGNLT3F4TGh2X1c5RVlicU1CbGU5Umt3YnlZSlhXdXVFT1haa2RCX3hNcW1sMmhqQ25jX2FVQzhQWTFubkdDem54Q3hXeHJTM2JQUEdIWmRLd0VLWlEwLXctd1dWX0RuLTFZNlhsWVBuZmNQVFlnbDVzT09fQUxIbHg4V3dGQ0dqWlhvd3I3eHB4dWtuODhRaWllMUdzUktYQzUtZmdzdWxKV1RQUHJqam1iaGRkMGYtWA?oc=5",
-     "fecha": "2026-11-10T08:00:00Z",
+     "titulo": "Minería regenerativa: Suecia y Latinoamérica avanzan en alianza regional",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFZOWTVCRC1CUjg3MXVBNnVUTnlYM3Vnb2NmTGgzWmF2SHlkY09DSFBZdDRtVnhjWE1kc0NkaVo5a1pmSllkQ0lUMVpKNnpsNE5fVEVUaENuMmsyN09FSkVvbGpQRHBHTzFXSWtxVHRfV3FWT3J0Z2tPSWwtUVVIc1FsQ2RfdXdYbTdHWVNmWUx3cXZ4TGRtT3VSSlJaNHkybFJDM1d3aml5RGVZTUg4N29B?oc=5",
+     "fecha": "2026-11-20T12:59:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Codelco contrademanda a Tandem por incumplimientos en transporte de División Salvador",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0xhQkdGbnQtblBlNG5SMVA4cjlNZmZjbFhEN2JjMUtmeExRNGFGLXJ6eWRNU1ZWVUk5NExucDVPcEE4Nk1jcVFDY2FOUHh6WDFyS3JRRE5qVDNweEdqQVVEelpWNk1aNXBGUjdPMzdlQzRhaHNtaV9NRldVcWZMUHhZbXZyVE43a2pSRUx5RUJUY0RQODZTNGpoQUxLTDhVajNIVXhlNFVfdkFSRWk2X0NR?oc=5",
-     "fecha": "2026-11-02T08:00:00Z",
+     "titulo": "Senado aprueba reposición de partida de Minería en presupuesto 2027",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVZIZzF1aGRJcDFwUTd2bzA1c1poYnp0M2ZWVmJjRHRSQkF6SUZPdzdTYzNsT0tsM3JBMDhDQnkzWVd1Nk9yM0xDZHhlTUVqUWhVdllXWl9LVFIzeUNLZ3Z5dGxXbGNrZmViTFltc3AxSm1zMkFNVkFmY2hKRW1HQ29jVnpkblhEMW55V0gza0xGNXJkOVUyUG1WbDNkcXVhS3F4R3NjMVhoUDdMR0loQk9R?oc=5",
+     "fecha": "2026-11-20T12:41:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Comin presenta Mina Venus Marta con inversión de US$ 50 millones en Atacama",
-     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjNDNkp0aTVhZVBzeUg2V2ZGRGwtaXUyQ01Dek1Nc1R1X1lHRE5kSnBXVm44eG9RcmVQbXByWlN1ekpyXzdjaFJvNEpLSlA1aWtjelhXN0JxT2Z3M0dwdi1QSHFVMU5hUFpwYlI2NC12WExYS3VCdU1HaVR6Ym5JZkg1cnpzNWlULXJ4OTY2ZjE1dm1RQy02SXdKd2IxUFZ1d0NpX1hjTzZDWlh3SHZkUTBnVDZHZw?oc=5",
-     "fecha": "2026-11-02T08:00:00Z",
+     "titulo": "Sernageomin refuerza fiscalización de seguridad minera en Pucobre y Candelaria de Atacama",
+     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmJIV0ZFZzIzMTdBUjc5MUx3dFRNVHAzOEdIb2l5TE0zYWFMeWRlSWlGV1VHcGxRTG1nRDBCdTEyX3k3YlBWUVFQcXZYNUczcHFkcTVHSVN2Q3ZONXR1cWplSEFwaDdsRGpKd2J4VmVqcXhUVThmemphRllHNjRiWjVfQ2pxTUpZMDhsQjdUSTA3THBERjBqVHA5QnhCcXZpQmNhdQ?oc=5",
+     "fecha": "2026-11-20T12:39:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Codelco nombra a Felipe Lagno como gerente general de División Salvador",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWndQdVAybWlZVlVhQlI5dVgtWGdVMGRmam1mUTZIVTRrNUlwbFZSM2lqcGthNmNIUUtJOWtRZ3NBUkdKUEFVMUpYQl9lQUs3VjdNOVlrYkV2ZFBNLWIxYkplU19MNlZPcTJKamszZ1gxYnpRLUxYTkh0Uk5RZlBYTUhhaUpSQ3k0U2VWd1ZIc2h3OGEzMy1RWWlpYWN5VTBuUk9fQWNBOEtqVXh4?oc=5",
-     "fecha": "2026-10-29T07:00:00Z",
+     "titulo": "Noticias",
+     "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LQzFvYlJhSHRJenhGdTI3SDhaWXRKR1R1Q291SURwYTRLN2dGOVlxUmF5M09MZlVxSnFzVWktekJhZ05pMGZ4eVNEM2xoQ1VuRmxVaTI0RDg5dk56aGtR?oc=5",
+     "fecha": "2026-11-20T11:02:18Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Pequeña minería rechaza aprobación de reforma de patentes sin comisión mixta",
-     "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3A0c1hFU1kxVVJTSmpiYzhoRHlpcFVDWm5XR3FqeUxyQ3R2MkotZU1yQ293UUE0dlphZ1h4WnlWSzhKUWRKS1NjY2FXSmI5NWJmdE9nUFRPRWJMVUxPUWNCNnlmdlNoeXY1N2E1SWNxU3VGZ19iNWEybjd2RDFvbHFaTUdVckhoaGd4MHEwUUlLQlZRRzBYMEZ4RHAwejZkZUJ0ZFY5bjd3MEVvV0FVWl9Rcw?oc=5",
-     "fecha": "2026-10-28T07:00:00Z",
+     "titulo": "BHP Invent impulsa innovación en minería con enfoque en seguridad y descubrimiento",
+     "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVW5LeEdieHlXUFZTT2tIbWRReFRGZHV1Y1JjMWpZcjVBOGk0Q0xNaTNwbEw0ODlFZWhjTnNZYWtOTDdDR2hFanlnOFM4S2QyZ1hWeUh2UGhWR1pVOUZWWm0xMl9GQ3B4dDA4cy10UzFtS3lNNGlLbTBiWDA3emt6aFZLMVA4WUIwX01XZloyUE9SNEUtbml6eThBWUk?oc=5",
+     "fecha": "2026-11-20T11:01:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Minería impulsa reconversión de oficinas administrativas en Santiago",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmp2c0QwbDhHdk1jMDZ3bzBlLXpsck53ZTllUDd0dkxXYmdXTnV4STBxWmVDLTVsaVBSNC1oSlB5UEtnZklvdmxLZnRVNk9nUDUzVkVOcDRtTEJPTGQtVlB3eXA5T3RfRElMZmsyUEdOLWNJOEt3bDZwMmdhaGNJNlFpUzZVTjByWmVVOE9lc3Z1QWhzZmRCR1YzZGY4VmpmeS1DeU9PTThQcFQ0SWhuMWlxLXRkM2M?oc=5",
-     "fecha": "2026-10-27T07:00:00Z",
+     "titulo": "BHP reconoce innovación en seguridad, sostenibilidad e inclusión en premios HSEC 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHFHeTlPZWZBV2I5UXhya1dRdDZIVXNKYTlacmRnUzdFWkRMc2pLV0FseTFBRzFZbUpHdXlBU3F4YVN0SlM4dzNiWDRzdkY0WE1aZjExTjVzd0otSVVRTG96OGYwdWpjenlmazIwR3EzdEZsczFNS2ZHUk8xbTN0S1Ixcng0ZDdudjRhY2VzdjEtU2FNREN4WHpmT2Jja0M0bTRQNmlMbVMzVkI4ci04?oc=5",
+     "fecha": "2026-11-20T10:56:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "ENAMI preselecciona nueve soluciones tecnológicas para desafíos de innovación en Atacama",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDFoaXk3R3gybnk0V3VTQmc3VUctSnhvNUVTdWRxRnl0WmI3Wk1CMVNZRG1ZYjJtVlVpbFdmMG5ZYVR2aWN4Q3JXSnRyMVd3alNqQWFHbDlsVGpJYXFHNEItT0k3dzk1bGt4VjNpMXZhOU1NU3RLT2REN01YYzY4YzRIdlVZQ2hyYUVLMzNnZGpzZ1l6bGNiOWtfVUc5VDFBNkxwcFhrcjBKZnUwU01famVkSmd0SzQ?oc=5",
-     "fecha": "2026-10-26T07:00:00Z",
+     "titulo": "Vizsla retrasa inicio de producción en Panuco a segundo semestre 2028",
+     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVlhTZmRXa1JucDR1aHdhVHVlT3Ztb1gzNjU2YUx2LUc2alpEUGNyY1k2aW5VME40U0MtZk5BQjNWNDhqRzlWOWd0WjB0ZjVhc1lBdFJiOW5PODNIMDdnbTNXMDJ1Z1pkRVVSaGhSam9MR0RVbm4ybFZPb21HdU1GalRVMi1RTlBaazNiekZ6bEIxS2ZocnZGdUZSdGlJV1BneklIcGpUdmF0dTg1?oc=5",
+     "fecha": "2026-11-20T00:58:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Chile consolida liderazgo en minería: Biministro Mas cierra exitosa gira en Londres",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3hadXpZY1ZQclZEU1haMFppek51RlU3b2xhaHFPNUowRUhtVW5ZalNGYWlwYTVEWTZpcUFrSHlaWXFlbW5walR6ZlhiUTVCZHN4bXRwM05UQXB6SGdHSzNsZzZ5cnF1MHg1LUEzTjRHZnJBbGFXT2FSeFdPTzd2RC1DTlpjWFNuT3BLSzVtS0tzT2NEdTREWmtvODZvN0ZraGN4Ym1tNlBCamhrdEhtNWROUVhtc2s?oc=5",
-     "fecha": "2026-10-21T07:00:00Z",
+     "titulo": "ICMM publica mapeo global de minería con biodiversidad e intersecciones críticas",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU2dEN2pIWF9vS2ZHUzNibnhIbFZaaDYzd3JYUFhqVGFPcF9QbURIcXpJM0ZuSnRpS2ZJYlotSFp0b3ZxcUVjM1lKRW16Vm9yTld1S2stT1NiS3JUV29UVmVDWUlENjBEX2ZTUEYzNENjaVJDNXR6Wk53VWtTa2l3YjZkOHNxQnlySEVDc190amoyQkxoOWJaQlJYT3psRk9sOWo1LXZqZVBWVmZYRi11Y3VrUW1qeXlkOFE?oc=5",
+     "fecha": "2026-11-20T00:35:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Abogados mineros proponen ampliar incentivos para exploración en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUFVBRlFnUWNvTlRPWXRudG5QQmtNazIyY01SVURvXzBiUTFacTdEc09YaV9KQU9VeWhNQ0psSTJjekhFYkp6Z05zYVpkaDJBMHItaHJvSnR0SFRjYnB6U0N5alhZN3J1VUZFYWtreFZFVGFHQjJKVV93TTFaMEVsb3RyRUpOdDRwLUFjWHVITXpCOHBWODA1LTZZU2FRVTg1MG1TUTV3eVpBSTQ?oc=5",
-     "fecha": "2026-10-21T07:00:00Z",
+     "titulo": "CPS abre primera planta de rodillos compuestos en Chile para minería",
+     "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2gwOElLcDhMRU9tWkF0V2tReXVvd1VXdE9mX2dObzFOTGdMOTFPYXgyVkxKd0w5a01mWTJ0aFdMMlB0RlY4THVBWW5QQlNzdEI3aGJGQU9ReDRuYlZuUzI3TkpqQnlyVzl0cml4UW1LQ1NveWpvU2pxb2swR2pTZTItY2JzOWJ1ODM1MWJrb3pPaE1WTlU0a21NSThNVG8?oc=5",
+     "fecha": "2026-11-20T00:27:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Ministerio de Minería llama a extremar medidas de seguridad ante nuevo sistema frontal",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZXpMcEUwZUJMTnh5M3pON09aTUdRRjFnYzUxd09WLUdhNDN4NkRPUUwyblUwUFdDYUV3bVdNN2JwU3BDZDZPNEdHcTVQLUd0QXp5d3ZtbDVHaE9RRHlVamdWNGFTblcwdDB0c3UtTXAwY1hPUGx1WWZTR1Q3S0Vqb0Z4cFJfSnNXNTZmRlRWZktTT184djlWb2FiNFJEUTNFbHlxa3BXUzd1S1V6R2Nn?oc=5",
-     "fecha": "2026-10-19T07:00:00Z",
+     "titulo": "Codelco reduce prima de cobre a China para 2027 en busca de recuperar ventas",
+     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFJURkdVd0VIajBzbVVTODE5cnEwV2RRazY1bllxUXdSNFZmNFhEUG03TlZvVThralFGY0d1NllGNlFIOG5OZDNFNDRuVU1RSEZ2WGZhOVlvZ3BNeEI0SmZxNTNZVjZLaXYwbk4tZW51MnF2TndBRnhRUjVnOGVET3ZXc3FIR29BdGlHZmo4SHNtdVNQOFFxamRjQzR1NFlUUE9qTEo4V1R4Qklt?oc=5",
+     "fecha": "2026-11-20T00:23:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Cobre cierra semana a la baja por dólar y pausa china, pese a caída en inventarios",
-     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVU0RGJwdTV0dlc2MjJlcUVzX1N6X0hfZTc0OHhQNFlpTzEwTHVLQlBTYTdUVTV6em5KRzhJSFR6Vjl0cGU2WXdFZ1M4Z0N1c0JQdGhMeFZkZ1kxYTViNHFvSGl5cG1sbURxMnVDazBNLTZidXV1QWoyWDdnTGVkUU1DOW9OZW1kTkxCZDBlNk9hNk05dDJmRDhESnp1Z1pBdzJmcHR6Nm1wNG9vZkRmSg?oc=5",
-     "fecha": "2026-10-02T07:00:00Z",
+     "titulo": "Torex expande presencia en EE.UU. con cotización en NYSE y programa de recompra de acciones",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdVM0TVg2OU9PWlJwTWhlMl9vbm84R1RTejY4VDF3OER2bmM5aU1DTEw3XzhYOHZTektvZG0tei1XNy1RNnZQVWc2bkdkdU5NV1hnQmZuUG4tUWhrRXQ1T3prNzZZdTkzUGdTakZISm9hU0E4UjVqM3JjaGhya2Z1Z2NfS2xOTlJHVUQ4dURiTllWZURfeFNKeFREWnluQXFESVE?oc=5",
+     "fecha": "2026-11-20T00:20:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Ministerio de Energía inicia reforma de redes eléctricas con proceso participativo",
-     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzFpTXlFWk8zX0xKUC1vcTVLbjlnME1kX19mN2s4bjZlWWZIRXhYdUFVbXlxU0dia0t5Vlp6ejRRak1saGlnbW1nMVRhTU82N05ZbE9TemxDeTJVLTd2MHpyYUVPdUljbWprSHlYdnppYnZ5dU1VNV9PRGxCc0hLVno3LWRNdTBCZFE3aE51OE5IaEFWeTNhSk8tdG4wVXZKRzFGSWViRjNyTE92S0p3SA?oc=5",
-     "fecha": "2026-09-22T07:00:00Z",
+     "titulo": "Collective descubre oro y plata en desmonte del proyecto Apollo en Colombia",
+     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVdCR2NNc0lxQ1FSZDVBT3BOVTZJZDJ2NUJVYXdfTkhQRHd5LXVZbWlEOW9UdEJJX18taHFjTEJjTzF3cWFjNVNVYXhaLUxXUTNZaUIxQmpHR0N3RTVZcFNrWlFISV9mcWJaa094ZVJpajRMam4waGMzekdUNDJxVzNDTUpfcEZuanU5WGpReTBuSm5raG5tWUZmc215SnUtRWFrVDN6ZWlIQQ?oc=5",
+     "fecha": "2026-11-20T00:15:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Escondida presenta Última Oferta al Sindicato N°2 con nuevos beneficios y $23,5 millones en condiciones de cierre",
-     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTRFZjd0cXJiQWZpUkVOQ2ptMFJYZml4aTMwWHlyRjBRbDk2NXZKVm1RcE5TNnRrN3dJVlctZVc5NkVucmFqM3pJNEhMLTJaR3FLU2VWRWFtZkx1SzVxZjhPWVlLeUk3VnhvZUNXNGlibVR1MXVlMVJzMllzR3pRbW9MUlFkZXJvYmoycWhrSm9yRFpfa09mWS1OQ2s3eldKMHh3MzJTaFk3WlN5aEExbnkwUzZVUQ?oc=5",
-     "fecha": "2026-09-22T07:00:00Z",
+     "titulo": "Satellite Miner monitorea cambios en Salar del Hombre Muerto con datos abiertos de NASA",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2RpVU9idUlKR1ptM0VWMWlIOXJOMUxMLVNfdm5GTHJaZF9Xdkk0M2lDcUFkZERiQlpGd2xoSFJDTFhqN3NobDNEd0hYalRobkVtRkswZWJiLUdWRWQ4eklTdlRPUUprWkIwbUVna01GS1l3OGVIVGRlYWExZnJyZXBQN1JYdmlYdU9mWmNPbFgzQ1VYX2NWZmJ6VXE2YUcyUEdXMzNld2VxZndaUEtB?oc=5",
+     "fecha": "2026-11-19T17:51:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Perú acelera proyectos mineros Zafranal, Galeno y Michiquillay para crecer al 6%",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNakxOUGtPSzlhMnIzUzlHUVMwdXJCcTZKTVNIM2o3NUZWb3RuXzhvRUh2NUZyaFZyazlCei1GeHNlVGJzSEZEenVGNUp0UmJuMFBqWjMyU3B5T0IzUnVzek8xWHBPekZSajVXTFFOT1dWRjI5aGh3S0d4aXdEUEVyX2VsaGFKV29fMFJtbU50ZjE2RFE3SlVfaTN5SGtqS1pUeHdneENZakpxMi1jOF9OR2pSMDd5MkZPQkREVmducGVrejl6REg2bnlqVzdOU0hpZlZR?oc=5",
-     "fecha": "2026-09-17T07:00:00Z",
+     "titulo": "Especialistas chilenos presentan experiencias en seguridad de relaves en congresos internacionales",
+     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVmsySlJ5QjRlSFU1dS1LSlRob3pyZ0hDYTBXNUNYY0tCWGZjbnVkUlVEbllCdWVOb0JVZWZQdmRBZHQ1WmhLd1czMFJkM25QQWViU3o0MUlhMjhjaEZrOGpnRkRUOVVSU3dLcHNsb3RIQS1YanNXUTU5Y002MkNORWtEaGtZUDhYR2RhYXVfVFJ5Wm5aYWJuWXl0Ti1qbWZta0xoMmdaMGlCNF92a1dnakktN1Vvd3NYYWt3dw?oc=5",
+     "fecha": "2026-11-19T17:26:00Z",
      "medio": "Reporte Minero"
     }
    ]
