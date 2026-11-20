@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T05:39:31Z",
+ "actualizado": "2026-11-20T07:54:45Z",
  "fuentes": [
   {
    "clave": "agro",
@@ -84,16 +84,16 @@
      "medio": "Radio Agricultura"
     },
     {
-     "titulo": "La fruta chilena busca superar las trabas para exportar a EE.UU.: qué está en juego",
-     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ3RxT2RmNVd5WnJSN2ZSekx5bnpUODVQWWFqbkh1OWhDUlp6REozcHNyeTBZbVQ4VGtyZE1FS21EV0h0bWZDZUYteHJlUmJOTUNYcHZjcWhiV0c0a3ZPSG5WeGQ3TjNQVmZNbTZZYmpGZEJmSnd5SF9heDRoYkRneEc2Skh5UHdpRlJhWGhYNkJqWDZITFZ4MG96N3VoNmw2UU5tQTEzWE94OUV4V08tbkpQMzJjWWlWX0pDM2lqYUNrbWtqNDluYzJZQW8?oc=5",
-     "fecha": "2026-11-19T12:12:46Z",
-     "medio": "AgroLatam"
-    },
-    {
      "titulo": "VINOS, CERVEZAS Y LICORES CON IDENTIDAD LOCAL LLEGAN A EXPOMUNDORURAL DE INDAP EN EXPOSOFO",
      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeFM2N2RCU0xBWDF3d3ZORXdNNTcwaEgyejFYNm1Ea3R1dTJwdC04M01UV0x5SUpoNmdOSWRfNFppWllvLUQtYTYydThKbGMzbGtmc0VaNnVnSjUtRUxjZGtOZjktN2FtTzUtRmR5bEhBQWxnbGFjUXZOeTJGaXNCdm01NUVXTldlRFVlTkx5N0ItUVRRZmZGeFRfWnNrRlFER3Vla2ctSno0LWFvckJjQVFyQW9GYS00WWZIZ2VXVDhXNVBwZEU1NkZNVDlPXzQ?oc=5",
      "fecha": "2026-11-19T01:47:39Z",
      "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "Gobierno Regional destinó $689 millones a 81 proyectos de riego para pequeños agricultores de O’Higgins",
+     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR2hWejFidjZ2ZWZxZlFZeERhOFUtRlQtRXl6Q3lBcjNrTWtzaTZ1cTFjV05XSmNWSWVBY1V4QU5qazdFOXRhY2xYNzdzRU1xdnJIeVVmeHgtMUhNYUFGSHViQ2RXSFdTTEhfdHlwa1Z6Z0twcjFoMnFpY056LXpQb2Jjck13YWNGdnRoX1JyYi1WLVRRSnQ4OGhTdHdESXFESUl1elJfX0VqTnFqZVo1Z2xaOGFEOG90Z1FzYUV4M1VDN0tkT2hMdlM5VlRWdVRkdnk4RWpB?oc=5",
+     "fecha": "2026-11-19T00:25:20Z",
+     "medio": "hora de noticias"
     }
    ]
   },
@@ -104,13 +104,13 @@
     {
      "titulo": "Vinos, cervezas y licores artesanales de La Araucanía mostrarán su identidad en EXPOSOFO 2026",
      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZnd6SmlyOUhFUThwN09ucVBIMVJOZEhRQmVTVmZ6X3Fsa0hQLVBNb1VUT3ZlR0FfT0ZrQTd1cGE0LTBSSldDTDZVM21jLUhrbXQxdWNuOFA5TG9fMGxDdVhoc0tZbk9ZWkFTemRmekNmX2xOMG5FRDNlb24zTmNSa3MtZGVwS3c?oc=5",
-     "fecha": "2026-11-20T00:58:15Z",
+     "fecha": "2026-11-20T05:49:36Z",
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
      "titulo": "Expo Mundo Rural reunirá a 50 emprendimientos campesinos de La Araucanía en Temuco",
      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmFBbGh3bEtIMmVVODBUTFlwWTVNWlktbldQOWNPZ2hSS3h0R1M2ODN1cEN6TVdsT0dSMGx6blh5a2Y5a2ptT1ZiSExObE1IaVBib0ZwN2VOdmRNTzE5RVhodlhUOE1xZk1BSGVJOE11U2dQelAwLVNkWTdNNlJFcg?oc=5",
-     "fecha": "2026-11-20T00:48:31Z",
+     "fecha": "2026-11-20T01:53:14Z",
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
@@ -294,8 +294,14 @@
    "nombre": "Mundo sindical",
    "items": [
     {
+     "titulo": "El Sindicato Agrícola de Constantino celebra la tradicional comida del socio",
+     "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnJZd2FiZGdqeTY2MldDZlhid3ozMXViU29sNDNJSTN3REJTQTgwT19zNUdPalRfN1NsbVh6QXlHbDVFb29sWnAyeFd0dDFiSmhOZUdULWFJRGxHQUd4cW5kTnZQWXE4dlJEWExqWWhBUExjUUt6cWVSSU1sSktzVmxPdUJvcTY0TXRVc1l4a3otZWtCVlYycjhaRmg?oc=5",
+     "fecha": "2026-11-13T08:40:35Z",
+     "medio": "Infocamp"
+    },
+    {
      "titulo": "El Sindicato Agrícola de Constantí celebra la tradicional comida del socio con una amplia participación",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMXFyY0N2Nl8zbGFWMXNvUFljekhrR3BYY1RZM3k2eXJEcl9ERHVJel9TWnBUaF9vMVFHQzlGamNkYm1IQnBEbG9sc0wtZUZhMWZBQ3FtRUx6NHllMjNfRV9xVTA3WVV3WUxlOWxGeHFmbnFfbDdUYTdEWUdLSUZVVVYySlNKckFWN0MyeHRXRjFMVVh0X293Wi1TMkNYNV9PcHVyQnNNdjdsRHpraGhuNVI1c1JLN1VhUTNoc3ZRZXpnakZldEJiUm5hN000QVFkUFhLT1lxZlAySTFGUERaWEhCRGHSAeQBQVVfeXFMTzFxcmNDdjZfM2xhVjFzb1BZY3pIa0dwWGNUWTN5NnlyRHJfRER1SXpfU1pwVGhfbzFRR0M5RmpjZGJtSEJwRGxvbHNMLWVGYTFmQUNxbUVMejR5ZTIzX0VfcVUwN1lVd1lMZTlsRnhxZm5xX2w3VGE3RFlHS0lGVVVWMkpTSnJBVjdDMnh0V0YxTFVYdF9vd1otUzJDWDVfT3B1ckJzTXY3bER6a2hobjVSNXNSSzdVYVEzaHN2UWV6Z2pGZXRCYlJuYTdNNEFRZFBYS09ZcWZQMkkxRlBEWlhIQkRh?oc=5",
+     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeXg3WWJQendQUnFGVUhoTXBLVi0wUWJOcEExSjhTZURkVGxsYS1DVWluTXpJRjdJcmpDTkxScGQtT21tMGFCNXFQbUNFRzdQY2IzOHJ3X1diWWtCSUx1THlZbEc3TXkzazNZN2VRbWdQbjJCNHdPZnRDSjdkWHA2QUpEMXo2UFV3VnRIbExkQm0tQUlvd3ZwaU4xSTBnOU5UZ1JIUEVTdktsMFdmcTRTSDQxVGhtbEd6REdpeldrYTRrNU1LYjczYS1YdnQtWHJPWEFPbnQxS1J6M3ItVDlR0gHkAUFVX3lxTE8xcXJjQ3Y2XzNsYVYxc29QWWN6SGtHcFhjVFkzeTZ5ckRyX0REdUl6X1NacFRoX28xUUdDOUZqY2RibUhCcERsb2xzTC1lRmExZkFDcW1FTHo0eWUyM19FX3FVMDdZVXdZTGU5bEZ4cWZucV9sN1RhN0RZR0tJRlVVVjJKU0pyQVY3QzJ4dFdGMUxVWHRfb3daLVMyQ1g1X09wdXJCc012N2xEemtoaG41UjVzUks3VWFRM2hzdlFlemdqRmV0QmJSbmE3TTRBUWRQWEtPWXFmUDJJMUZQRFpYSEJEYQ?oc=5",
      "fecha": "2026-11-08T08:00:00Z",
      "medio": "La Ciutat"
     },
@@ -376,12 +382,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPandTb2g1QzA4RG9kcmZaVmV2R0o2bG0tRWgzeHVDQ3Y4bEZtSG5lSGNuazV2X0lKbmgyak9yaUJhQmk3MGI4MDlGRGw3NU9jZThMWjVyWnN2TG5qUkNfb0JwNEdMc2oyanNSUENVMkNTUjRsd29lUzM3OElCeDdqbEl2Mk5lMFJoVlVIa19VNDFReG1BbFh5clliNlpwRmNMS1lLZE05OWtyWVN1V3dXZTNQVG1EU3JBNDVuRlRzbFdtX1V0Y1J4WUFxRjk4VDRaYTVlMlhWcGFEdlhFMGxuQg?oc=5",
      "fecha": "2025-12-19T08:00:00Z",
      "medio": "RTVE.es"
-    },
-    {
-     "titulo": "Acuerdo UE-Mercosur: sindicato agrícola francés denuncia una “traición anunciada”",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDdzUkd3Ul9FVURnS1NPb0pIU1lZdmJTa1ZfRlZiTnpBRmpQU2FROTlDUnQtQ1ZsVUZvbHdHa0FVa3FvTEtxcVdEZFh5bXljM1h5S1lsRk9JME8wMEY4OGM2VkctZnNqZWxSR3k0Wm9TLTZKV1B1Sm9XTlhGMTdrNkpMc2JUYm1VLU16V3JoT296VFMzUUFOaXN5aW5FR1RvOE01S3hmZWRRd1MxM1U1TEJ0VTB1NTN6ZXN2RlBOM09hNDhxQTFXNw?oc=5",
-     "fecha": "2025-09-04T07:00:00Z",
-     "medio": "BÚSQUEDA"
     }
    ]
   },
