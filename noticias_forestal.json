@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T21:26:57Z",
+ "actualizado": "2026-11-20T23:26:09Z",
  "fuentes": [
   {
    "clave": "forestal",
@@ -210,16 +210,16 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
+     "titulo": "EJÉRCITO REALIZARÁ EN TEMUCO EL EJERCICIO VOLCANO XVI PARA SIMULAR GRANDES INCENDIOS FORESTALES Y EMERGENCIAS",
+     "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeDlyTWVVTkZ6clF5TUhQM1prV3Jka3J5T0gxRHh5aXRlMmhTSExuZUhwempSaDZrTlFGWmNXMkZoNVJ3ZEFVUktHWmhJVFdybHRHMjVDRXVURmx5S3FlbzRETVNCQXNHOEZ4MUZQWlhuaG1iWlRheDFXY3paV1VIb0hja2pnY1Z6ZXExZ1l6TU5Fb2EyUG9GVmc2RnByZUFKWEtzdlNrZTJuZE1yX2VndjByQ2VZZ2tqZlpmaWRWLVhoZjdXd1JXUHVjMDQ1YzlFR0loZjVDd1g4LWxtQzltOFdwWG9pUkUtUFE?oc=5",
+     "fecha": "2026-11-18T12:02:49Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
      "titulo": "BECKER EXIGE ANTICIPAR LOS TRABAJOS CONTRA INCENDIOS FORESTALES Y PIDE CLARIDAD SOBRE RECURSOS PARA LA ARAUCANÍA",
      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV2lwVVhKX3I5bnlxZlhTVDBkbzlkcVFaVXdibVVaV3lMOS1GVjhRM0QtRFNHNV9NZU0yZjlFQ3hpd2hKNG52c083aml1aUllZ0dic0U3V0sxYWYxYW1PbFZrSXdCd3BjWFlOemhZalBSa1lFdTcweVVUZkZRVUhod3NTNmh3VlhTMzFuTzhydGpIX0FVN2FlVktxTDVvZmNsMXBJVkwtSDNLZHNSYVZGRHFMenVHaHJfcWNJMmowRmhnN3BFbTFJVXgxWmV4R0pDcWNqUmdQdFllOEYzMFpvdXl3dFZOdjcxcnl0MEhB?oc=5",
      "fecha": "2026-11-18T00:02:57Z",
      "medio": "Araucanía Noticias Temuco"
-    },
-    {
-     "titulo": "CONAF La Araucanía certifica a nueva Comunidad Preparada para prevenir incendios forestales en Victoria",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlh0ZDgzVEVFM0tBSzRzSTBoQWpFWGFqb1daUDVySk1fZHpDVXBjVGhROEJDVjBUVXZaUXhuYW5tcDBld1RLQXM1LUVSRXpkNUY4b2lwOUIzTjFwTlJMVHlMZGVVMlZXMVZDTnJuWGo1WHktdl9nN3huU0pyWjNxVXNuS1NObmVpZnY3VVo5UkJZbTh3elI3T24yd2JlRTRRZ004MFE2UTFRSmtW?oc=5",
-     "fecha": "2026-11-11T18:13:04Z",
-     "medio": "SoyChile.cl"
     },
     {
      "titulo": "Comunidad mapuche Txokin Pehuén fortalece capacidades para el manejo sostenible de 82 hectáreas de bosque nativo en La Araucanía",
@@ -294,40 +294,28 @@
    "nombre": "Mundo sindical",
    "items": [
     {
-     "titulo": "Ingeniería Civil de Minas es el flamante campeón de la segunda división del Interfacultades",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2Vib2dzRGlyU0FEejN6TDY1cTMzSEg3SE1QdGZjNTMwV2FnenlleFM0eERRZE9lNGlwaVBoUVVhRU5rZ19HQWsybzBvaEJvQU5FVkNJUGwzRVU3Q2I1bDN1QWRGTnlNMzNLTk14NTdvS3g5VW5Jcm1vWHpvblB4M09uN1c2a1hhOHNIOHdNOUVTY1hpbjhvTUdnaUhSXzRuNzZzNVJtYi04UktBaUZTSVNRWkx0VkFk?oc=5",
-     "fecha": "2026-11-20T11:45:43Z",
-     "medio": "Noticias UdeC"
+     "titulo": "Muere un trabajador forestal en Amoroto tras recibir el golpe de un árbol durante una limpieza del monte",
+     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcjEyeW5zZk0yT2k4ZUtZMy0wZV9UdjgyS2h0Q0FwVTYxYjZOTkhhMElpcXFfbmtjc1plVGN0OENsZDVZV3VxYXFZNnY2TmszQnRKM09aaFFRODBfR0VCbnpaSXBmN25yeFotMTJzNXdiX01LbEFIUTVxMFJyRjFTemh0Z3RDZFEzUHJjLWUyQ0dFSWIxVG1YaVZiN2JRYzFRWEU2eFEtS0g1SjZ3c0hkcTZYdHNLQWIxbnBweUdNLVpYNUh5LVlmS2RfUUNVaTV3LUc0LWF2eHBCZmJCS3J4YWFXZGxGcWFDWTQ0V0laMWXSAYQCQVVfeXFMTzg1UmZCaXo0aE9Ba2pPQ0pvcGxMcDBCb3I1UmpPY3JBUjlQVjl4QXRXQ0o4M2I5QmUtLUJ5SzR0NXRiQnB3bmRWeU1TV2ZVNDFzWkprc09TYWJCTGdJZ1EzN2dqZUVXUkNTaTRFcTJEYlUtZFZjblh0bEpwcW9tN1B5dmIxanFSWm14aklCZ2VQWFB4QUFMYVJnYzk4TU9EV1htekxkU3NWYWp6RjdvUmliR1Fja01hVFd6Qk1KWkgwV2ZEY3I2aG05TE5JR21IZ1ZHY1dvUXhHNmgxVmhNNnhCT3kxOHFrbEd3RXVJTGdKQm1GUFd6NmZac3RoWHVvdlhJSXA?oc=5",
+     "fecha": "2026-11-10T08:00:00Z",
+     "medio": "Cadena SER"
     },
     {
-     "titulo": "La Inspección de Traballo reconoce deficiencias de seguridad en las bases de los bomberos forestales gallegos",
-     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSUl4bU83WGwtcUlwaWZZTWp6Xy1PV2hWdkh4MU9SN0pSR2J6Vm5Ub3Q0VGVDdzh6WmtqaFVOX0d4c0dtVDBYSnFDb28xLXFmNTN0UFpKSkppVTU0cEx4MVRxWHh4OTNSb2VLOFRmcE1iQzdIemFvbjV5bVB2YWg1SjlHRWFibWx0TzMyZGVUZWp2cUphRGVXbGdBdU85OGtXR21PMWtiS0JsSTg2TXI3d21McUVaaFczS1lhd21DT2V5czRwaGVkdnd6dlJJOWMxa09ESjk0SGdSRGRGbEJ0SG82Y3ZzLTl4ZktwVWxtbkNLV0nSAY8CQVVfeXFMUHAtelhYMzBlOXVJdVFHdnA4UE02dlFtcEtPNWVqcUpnakFSZlZYcm9uZlNPMGdvbkI3MjJtYlEyMDhFV1piR3R0OEIza25ramkzdHJvUVlPYUlNeENHMERpZEhqcTBYMm81aVNxRVFiQVBzRTZKeEpnSndMU3MzcXJxTDIybjYxdkNIT0swejE5QUNweUJPRjBzakNsUjFVaDc1OWxXbWlmeTItTDVZb2lYUWM0ekJvdk1qb25obUdUUFNQSWhrNUpUTkZkVi0zM1NSMnJYWk95c2lWbGxIVmJZcEJobTl5N0xla3gwa1FWeVRhaUtQRUtmNFdPTXc1X18yb0lUN3pOSFl1N2hlaw?oc=5",
-     "fecha": "2026-11-18T12:42:50Z",
-     "medio": "La Voz de Galicia"
+     "titulo": "UGT denuncia el cierre de tres torres de vigilancia forestal, una de ellas en Guadalajara",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSDhyTERpMmw2V1h1d2JTT09jb29vSjBUQlZLTE1yVDVYb21WdThjRGpuVC1hdzhwbFctUW1iLUo4VTlxNTk1ODBTT2FObGRQUFdwalU4V09KSFJydUhFZnB6VHV2WnN1MS11OEVvWnBZdjhpYUFkTWdGOGktNjhXamRLVGhwSjhPVlctb3o0S1ROaGNfWTlsamVFYXdqOWc2Y1RlX1B0NS1neE0xX0NEeHREZFRaMGF3TklQZ3dMNGZQVV9mZW95Z0FZQlNnLU5XZkc1eE1BVEg1Qnpk?oc=5",
+     "fecha": "2026-11-03T11:26:22Z",
+     "medio": "EL DECANO DE GUADALAJARA"
     },
     {
-     "titulo": "Condenan a presidio perpetuo a ex militar por los homicidios de 17 campesinos en la llamada matanza de Chihuío",
-     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOanhSYmRkMkZmcFFxM2ltRWo1Z1NTbjI1aWlxTWtmUkNUZGtlNS1maVgtTkZTR1JPUVY3M0V6TklUSkF2ZVZnMnFCQU1xZjQ1TDA1dTV0TWRvOUtqbXV1dG5iNzJOejBKaXFQbXo4a2JNUnFCRi1QM2RHTjQ5Q1dsdVhNWlN3UGxCYllfZUJSR2xGLTZJdWMzeVdQY2NnNjZGaFJlVUF3Z21GM0RKc0t6bVpVSGZ6dVliQWt5NmpoQjhDQmRCRkZBZHh3?oc=5",
-     "fecha": "2026-11-17T13:27:58Z",
-     "medio": "El Siglo"
-    },
-    {
-     "titulo": "Saluda Sindicato Agropecuario, Forestal y Tabacalero el Primero de Mayo",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeUk0elZIeGtoUXdPeHJ6VlVqOWNGWTk2aWxPUmNEUWZLWTIwZ0hrUVMybzZLUHp0MG90eTBtSWs1NC1ZUzdKWjJmTjNUQTJCWjdvZ0pjSXVmQk40dExVTVNfdlk0UERjem16SUNrc2pyZm0tblRaSF9MLTBMd2FDS2prdU82ZUVEVGpiR1A3YlhPTHJSbmd2eWxsd0FDcnFjZEdBQkNDN3FRMTVHZUhQQjNndDVPWWloc0pzR1dyU0xRSGZUSk9vbC1mM1NLdkxjZ0ZR?oc=5",
-     "fecha": "2026-11-13T07:45:30Z",
-     "medio": "Periódico Sierra Maestra"
-    },
-    {
-     "titulo": "CCOO alza la voz tras la muerte del trabajador forestal entre Fasgar y Salientes",
-     "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUZYSWhkVzJFMm4wdnBhZDY3UDR4dk1hWFh4aW5veTlfUnQzVll3eFFJOHNDRzlZZGtSbzRUbTcyclItZU9MRWp3VDRSQm94ei1MTm0tLXEzUzhjUzc1Y2M4T2N4em04bjZTMnRtdlBtVGdHaUc0TGRjRE1qWFVzdlJwVHBmTllpbWkwSmxGNC1ZV1kwb25vMXBhc1BueGN3MDk4U1ZobEw1bU4tT3ZQckJMUQ?oc=5",
+     "titulo": "UGT reclama mejoras para los trabajadores forestales tras la muerte de un operario en Fasgar",
+     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnR4YTdTRkpoeEhfMjhyLTBySWEzSzBVTDlPanlJcWpCSUw3RU4xdHlJNmh4X1FVLVYya05BZDhkSmxJeHY0YXRnN2lWaW9yZVRCWFF6QjZOLUVmTkl2Mmh5SmNPSEZKWm1VSlFCcE5WemU1VlVNNExxeUJZZ2IzMmtjRFZxMWF3d010VmJSVGFaR1RYT0FTSXB0QjhmU0FMc04wS25UNk5peDgyMmNKSHlrNU1BckViSmFqY3d2bHVpVlE0a0Z5NDVZdFNMbFc0OFE?oc=5",
      "fecha": "2026-10-01T07:00:00Z",
-     "medio": "El Bierzo Digital"
+     "medio": "Tribuna de León."
     },
     {
-     "titulo": "Sindicato 3 es la grata revelación del Torneo de Clausura de segunda división",
-     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFJUNTRfMGhDVUhlOXU3S3I0MHptUU1vR2JGQzZpNWY3a0I0VTlneEg1NmktTFRkd2xBWXI1dVlNTXpLOUR2ZXlpN3RUajd0SE5nM0Z5Z0lPNnVKNFlQbW1BWVhZWkdYVkphTUNyYW9DcVBGRDJmOEtqYzl3UW52RlQtWWlqZVFDeHZqckpWczNiMzNPeFBxV2d2NUV4bVVhUG9fQnJB?oc=5",
-     "fecha": "2026-09-28T07:00:00Z",
-     "medio": "Noticias UdeC"
+     "titulo": "El Sindicato Labrego Galego y Amigas da Terra consideran insuficiente el anteproyecto de la Ley de Lucha contra los Incendios Forestales",
+     "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbHJoN3E5ZDBEU0xqWVpXU1Q0eVZvaVI5dzdyeXBfVU5rYjdFdGllUnl2T19VU3lrcV9oWHRXQlRoMk9SV0tCVE9LbmQxMlRLWEJMb2NoRUxWVnpadllDVGx3cTVFRmtsZmg3N3RkVzJyTDBNUWNUWWxlSWhZZ0xxbnZrMUpYXzVUZWt3c2twb1drU2tIWEV2YjRkcEloWnprWjFKSTBqYko3QWR0QkhLSmd1VkhmREc3QjZfR0RrT2Q1c0tpZ3pWU3ZlbXRPaVpUV2RpNDBDNmpLR09FeXo4NHRDVG1ic3huZFdUMnJXQnpnSHkxUWQ1YTJPbTJCRHp2dEhQNw?oc=5",
+     "fecha": "2026-09-25T07:00:00Z",
+     "medio": "GaliciaXa"
     },
     {
      "titulo": "El sindicato CCOO alerta de las deficiencias en las casetas de vigilancia de incendios en El Testeiro y Peñanofre | NOTICIAS VERÍN",
@@ -336,22 +324,40 @@
      "medio": "Diario do Támega"
     },
     {
-     "titulo": "INFOEX: mañana se realiza un nuevo llamamiento de Bombero/a Forestal Conductor/a",
-     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXJNa1U0RFBSNXRveldzbzVoZEtiTmZuXy0yM0QxeWYxMGo3bl8yVjVvdmpaY1JrX09pWEYyaHR0TXFoV0NuZVdhTmdUVjNra18ySTBoYWZ0a1B5cjN5bFlhSDZHX1NsNVExSkVPZkdwX25xajJ0Nlc0eUxwM2xHUW1PVGppSzBsOFlDNWo0WHVZbkN5RjdzQmJCREVDQzRzMlJpVjVUNkVYMFFpaE1WY1l3SDVidU05Z2pUWWp3?oc=5",
-     "fecha": "2026-09-09T07:00:00Z",
-     "medio": "SGTEX Sindicato de Empleados Públicos de Extremadura"
+     "titulo": "Los bomberos de Valencia denuncian la falta de formación forestal tras el incendio de El Saler",
+     "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMm9lb25oSWtaOFF3LTd1ckwwQU5BYXhYZm9kTXVGTGpORDkzbGc3WEx0dzRyeERJZldLTDhIeG1jQk9jczVITlNHQVQxLXNiZVZnWkJYaGZTeHljeVYzSVhXSUdTemRtempoc0h1aEswM05GM1pVYmNSSUlGTjlFUTIwTmRkWlJiU3FDMnY4Rk1VLWZoQ0FtN1lNVmlTeG1JSUxVSVFIUURxV01ZYUtvNGxydzhndjBqeFBwcDdNTmtLQl9iSHVvLXpTOXppMUlFX3ZFcnJIN1pjYmZRRHVRaUl5QWRVRGtwRFl3M3NKYWhzc0wyRms4cGE4WDRJTlFHSXgybGhQWdIBjAJBVV95cUxQQ1lHQXNicW45Tng4b2JoNHBKczVlbE9TdUhBSXFEWVBQQk5jUGJEdFlwZHpGUENrazdsTmtzQnE4OUx4bmFZY0RBUjJBSHQwNjZNOGEwaDN3THZGcFhidkowT1ZfR2VKejYyRWMtN0JlamFLbU9DR2NSVnZiR29fOWk2MTA5LXlYRDN6NWcwY1JrazNxS09uSEthM0I3RGpBMjdvc25yaFA4Yk1SbkVaNXVxWWhSUmRxM2RDQ3VPNkdpdk1vMXZBb2ZiQ1FFZW51Sll1Q0ZTcGVTSEtRa1NWRUMzWHlxU3FXQW1CRFR3THBTelUydlBIMTJuR3FnUU5tREZoaGx2dS1kM0Fj?oc=5",
+     "fecha": "2026-09-01T07:00:00Z",
+     "medio": "COPE"
     },
     {
-     "titulo": "Periodismo derrotó al vigente campeón del Torneo de Apertura y es escolta del Sindicato 1",
-     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNG1rY2p0OExKejBqRXRKeVZjSHZlQWIwN2RfYVQwRkQxWi04dzJDZ2t6VlNmeHdYUTlUUnJobkNkQ0JObVFYenpTX2pBUVp1MGJIZlkyQnE0WFRLM095V3BlMmdHUDRlaGRrcEx0YW80X3hZRjl1YURyYzZnQzZqR0swbDJ3dTRSeFB5TEFna3JhbDhXdEhJTUNXMWlhY21feWpqMkNuZXNtMjdNS3J2YU9DNXkxZw?oc=5",
-     "fecha": "2026-09-07T14:38:53Z",
-     "medio": "Noticias UdeC"
+     "titulo": "UGT reclama mantener en Soto del Real la sede de la Comarca Forestal XIV",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdXBZSzNTeXptbmdoQk5JTFRfSlotRTJvMWJldXAyZ2xIZk5TclpOU3pmOF85X0ktaU5VbG1peVpoa0hyR3Znbl9nNFBEOXlTQWx5c1BqRlNoMnpQTW9VRkFwdVpGMWZ4ZUV2NjZwZGx1b0FyejkyREVrYUh2eTNOZ0dpX0V1M3dKUjZRUDg3YzZIeW01OGZCUVo3dVMySXVUb25rdFUzY0NYMUtZbzBOTmRTZ3V0eVhaR1kyMkhjLTJhY2l6SmtPMlVnONIB0AFBVV95cUxNZVBVQmhhcE1wV25KeUNZRl8zOEVPdElBTE1rcWxDbVRPQWt0cmhod2VqU0xwTWlCM0wyVnlJeEFuSkk0N1JxTGJpUlNqUkY0SVpjdGRQa2hXVUV2NU5DY3BuZHF6d1l3ZW8xd0d4U3c0Y3VQWlFRTWJvSVl3eEJLNHF3TGlITlRFWjFjbTVXREdOanl0T2V6b1lnbnk0ZDFES3hKNTFzSlNaMUdBRjhnbWpUcE1jeUFFNDlGY01hSDdBcnhhMllUOG5qaXFlU1Nn?oc=5",
+     "fecha": "2026-08-31T07:00:00Z",
+     "medio": "Madrid Norte 24 horas"
     },
     {
-     "titulo": "El Gobierno de Aragón lamenta que el sindicato OSTA priorice la confrontación política a la defensa de las reivindicaciones de las brigadas forestales",
-     "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbF90a1ozeUZtd09UelBLZUFwMzNSbUNhcEdEdEcxRUtaM1lFbDlqTGNib0Y0anZqV0tyc3ZXYTlXNUM5bWRWNnB0cGtSZkxPekJkTlFJSUZqczFrNHk4TE9xMl95ZEVDY3g4ZWRqQ0wybXBrQkxlb0RmQUlmRW05ajVTb2JEaURfNDVUbnZwbWtLTl9WS1AtaEdMWS1qdk0xbm5raEZXRWJCZ3lQRE5QMWxOeXc5NHo2Z1NVMTZVOWFCZ1pVU2p4QTc0V1N1RTVYS2xUcUFkN2VNOEgyRm1LczVjbmQ4UFkzZ2dyYVhCUVN2TXRndXJEOVlpTlROMmPSAYQCQVVfeXFMTnpueTVPQ25yczdMUXJPRVdtUEhmTURBakY3ck5tX1ZEZEdkdDNfekJVRkVPWXdwM3ZuaUM3aUV3WHV4QUxaOUctbEQ3cUFhNm8tZldWQ2JYN01iMVJidzgxX3FQcFQ3eEJBdFJsUlV0bkJQWjM3UnNpbTEzYVJ4VFk4U04xbkJBOVFhNVVVMHZ0dldERS1YQnV5WHlOWmhXMnlnS0p0UUFpdkN3X3pjWHVra1UyWDhSUncybjNacXFKeTJBUEFHY3BaYUh2VW9zT2JRN0ZOZ0JIM1o3N2U1bDZvc1M1MllWY19pQktxWlQ2UnZpNUp0T3FTUVl4Y3J6VHRCdUc?oc=5",
-     "fecha": "2026-08-25T07:00:00Z",
-     "medio": "Aragón Hoy"
+     "titulo": "Muere un trabajador forestal de 44 años tras ser alcanzado por un árbol en Azkoitia",
+     "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUzN2SlZJd1V4aDBhdGR0VHg4RW9RN1pBc2hfcmlmdVNOUHhiU0NKOXRRLWR1eU50WllkUXd3UkpaMTFCN3lXMmxQRmVESDdrOEU2amItakkydGJxd1F4REdIVDF5WWJLQkgzV19DMlY4V2J4T1ZtaktJY3ZFa3MzM0R4QmV0bkp0b0puWG1MSEwxa3pOekhLa1J0c3ZYNlFhTHdVM1dFdVZmNVdNX1RDSW5nQTBQZlNuX2dMNkI1cUkxMlB3akJpTWg0bW9xdHFqRWpERG91ZkJPdVdQNFFMOFdiZEQ4QXpiNlHSAf4BQVVfeXFMTzNKUjctSkU5UG5FYkY1Uk5WVGdsUzEtblVRZXR4V194TC1WcFpVTUN6eVFSYkhyOGdOZHJPTnYzVTY5SDNHRGZXM3p5Z2VnWEVpOU5PWEE2V1haVHBkMWdtWFFMaFpSc0pKVVVTblBDNEowUjdjSGJiUTh0RjRWQUljMFU1Z3hELXFLcmtpRzRHQ1dqOGZPLTRYUGJGUzV3MWhFY18xUllHZ1BST0hUeVBSemdaTjlsU09VWVhqcEc0V1JLQXZETVpVWlJGTFF2TEQtWTU1a2hoX0FrSC11QXdTend2a25HWG9HT3JlUy1VbHVRVTd4dHp6Vmx0V1E?oc=5",
+     "fecha": "2026-08-06T07:00:00Z",
+     "medio": "Cadena SER"
+    },
+    {
+     "titulo": "Colonia Victoria: un acuerdo entre Provincia, empresa y sindicato preserva 50 puestos de trabajo forestales",
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGpCblZtS3pmU1d5OFN5ZEJMX2N1QnFhNDZXV3FYN25xVHZkUWZJaEZaZi1hM1FlN3NMRXExeEdoVE1GbmlhTzdLODdKaG54SlFXYmVXckZEd0JVQXpfNThyV0p2UmRvQTVzMHVyVVVoY0lldFdRMmRxTVpOdEdLMUZIbGhUcHVELXFTS2JtLXNQYjZaenc?oc=5",
+     "fecha": "2026-08-05T14:08:41Z",
+     "medio": "Economis"
+    },
+    {
+     "titulo": "UGT Ceuta reclama una prevención forestal permanente ante la ola de incendios que azota España",
+     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaEtQQXFDRXdvNGthSGFHeUM3X2VKN2Zocl9LZ3o4QWk5MGpNM1JBM1JUR0hXR1RKckFEWVBPN3M3cjNjTE0wZzhzR1pBc2JuampZUHNKeEJOY2EzUzljalJRNXRrV2xDeFYtc1Q5djdsM3hkVklSb290OEpJRlM5NXlTOFBXTnd5Zm1XU3Jld1BnRVZQLVFHV0xwczB3dEFPOFV6aVpvNE01VGdDTnlVbVc4WlJsdzVKb21aa1Vjd3cxTjczYUllRDdEbjhLU1M4d24xSVFKaG01X20xWlB30gHkAUFVX3lxTFAyMjUxZzJDVnozR2w4OVBkWHBycE8tRGlKSGdvRlFVRjFGblF4OFVwR1RRQVp2VkhYTmcyQmJvSnhxX25GcVViZDdmTEh1amN0SVFSeGVkTlplMFY2UEJwT3l0WnhIUjhWWTlRTF9CbEI2cjZSemRIUDdMMDJCamRsOUIwVFhMV3V4S241Tm0zcmI4bk1NVGMxT0Zab09icWNuNF9ldVFiODA2dzRRT3pmOE1yNldNY3ZHV2cwb3Y0RWZ2emwxZVBfWDh1cHViZ1lvRVh3SlNhbjNnNGpIY2hjR196VQ?oc=5",
+     "fecha": "2026-07-25T07:00:00Z",
+     "medio": "Ceuta Actualidad"
+    },
+    {
+     "titulo": "CCOO lleva a los tribunales el proceso de selección de Obimasa para tres plazas de Experto en Medio Forestal",
+     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZmdwWm5HUXJBZTJhQ1B0dmVZLXdwSnRVS3Qzd0lnTURUazczT21xSkI2akRHdnVoOHVNRDhMM1pYWEQ5VlhzRFNvTzVtcUxCVmhEUGh6enhsZTctQTVhcTdETTFHeEN3UzJnQmhRR1RqNGlaXy1KQWVuZ254d2dFNmFvWXlnWl9Hejcyek52VDZLSUdQNzdFdXpPVGwtSzQzd0VVdE1FR0k0NFNfT3g3bW1Hb1ZOODJCRGlN?oc=5",
+     "fecha": "2026-07-23T07:00:00Z",
+     "medio": "El Faro de Ceuta"
     },
     {
      "titulo": "El Sindicato de Agentes Forestales de UGT expresa su pesar por las víctimas del incendio de Los Gallardos",
@@ -360,28 +366,22 @@
      "medio": "UGT - Servicios Públicos"
     },
     {
-     "titulo": "Gobierno y alcaldes activan plan junto a sindicatos ante compleja crisis del sector forestal",
-     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc2EzTS1wR29xZHlROFZRTENVOHZwRDZiR3J6dVJiM3VKRVR4WVh3WV8xZXh1cDUzck1DNF80RnBuSENYdWt5SnpuRzE2VEJNQ0swTm8zLXkwQU9rNV9RZ2NyZG9rRFA1el9lUUVvbl9qNWVoUVA3VTdHTWZEVHhILUhEN0tNM2ZQT0RhZkpOZGpFZmRUbUlmY1pXZGtHRGxLazNwdmxkcWdnRGhteUtPMGV6YWRCeXFhUWxUd0Z3VXRCXzNmZWZJVlYwck9ILXd1Qi1GR3dGTFozeV9nYUZLbEM1WdIB6wFBVV95cUxNRndvUFhzOUlXRGlIQ2EtZlZseWxDc0Q0S0pVX1p5MC1PTEhYa2xQUlNDMHlIWm5IWEplbTJha2hNSXgwYTZLT3g3NTZMbFFHUC11cHpPTEI3VEVfVmxTcFRqdXc1RDE5cFBSdUEtTDA5b0lmX2xoNXg1bFBVMV9NUXgzY3c1Q2V3LTNxLUI4Nk9saFdzd3ZJeUZ0dEpkMEFqaHRRTk45MHBMOWRnc0Zuc1FINjJRZk9lMTh0UEstVTM0Z1JiOGp0UW5RVmZHeXp2RVQ2N2tuVjFnOF9LUjJYX3FTN0RuV0NlOEdR?oc=5",
-     "fecha": "2026-07-09T07:00:00Z",
-     "medio": "Diario Concepción"
+     "titulo": "Conflicto laboral en Forestal Arauco: sindicatos denuncian despidos y precarización laboral",
+     "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVk9obHVYQ0hUcTJZeHZabW91SDBwcGhPb1RjU0dKVTNFUF9RbmU4NDI2VVJNVWdHOWotMkZvemRaclFHYWVwNEZORzdJNGtxXzhoVUQzUjNnQU92NlFpeXhLMmdIMlNTVWFOS3p6ZzRhWUtkTVpOdXJHc3o0ejhFM2F3QXJIUXlZZnJtWm5SdW1lUQ?oc=5",
+     "fecha": "2026-06-30T07:00:00Z",
+     "medio": "elciudadano.com"
     },
     {
-     "titulo": "Bomberos forestales: la primera línea contra el fuego que el Estado sigue sin proteger",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdjUycElMQjkwYWdkdkNhdC1acGEzNGlpRHd5N1VvT05rOEd4V1hEcFhhdjlCZVJaY3U3Vjlub1FabFExWmhvemhPNUxlT1c3ZkUxY3p1ajNOODRrRk5qTlpYcnllcjF2MXZCLTRMY1hoZm9BTEExdVRIS3QyWENmTGswLTFWdnhzUGJOX1p0M05LY2xHUVNzT3lNaWlvRGprcFlXaVN4djQ?oc=5",
-     "fecha": "2026-06-25T07:00:00Z",
-     "medio": "Sindicato USO"
+     "titulo": "CSIF reclama ampliar la campaña de incendios en Castilla-La Mancha",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2RfMXFvRnBqc2h3dnpySk5KLWd3dTFyd3pHMC10LU9ySXFSTzQzN0ItR2x5RDczbTRKLWduUjJEdDZoTmRGTTJXTXd6R1Y2aGhRRG9RUTJ1YlNLc0E1NUd2Z1dOWlpJb3NIZHF5YTdDckczLUxOZFo4clhkdDljdUpQblR2cE5NSV9rY1JuYXJGMEMtcXNfSkpSNF9kbUs4S01lOFRGVC01eUdkcFE40gG0AUFVX3lxTE1HdU1COVZkeGU0TXQ0VjBGTnJRQmZNUEVZMmh1MlQtTEt3ZVFGdGVnYnJjS0dwX3VLa1YyUHF5emgwVkU3Z2ZuejBVZnFmSVgzRU5RLWRPcmNvRnRaNkw4VFExSEFqSmNaTVRyNER6M09Bb18zb3lFN1lvS0xReDdUWS00MWNoMEZoZTBQM3Z5d0dkdnlBaUNtQ3NxN3ZjeW1ncTBERFNRSTZHTEI3QzZoc0x4Zg?oc=5",
+     "fecha": "2026-06-26T07:00:00Z",
+     "medio": "CLM24"
     },
     {
-     "titulo": "Empresa forestal enviará a casi 700 trabajadores al seguro de paro en Tacuarembó",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjRodnpac0FfbXllb3gxdkN3WDI0T1ZiZjUwNWZUdlA1VUZ3ZUlBeGJzYl96VWwtaldFQ2l2U0dLMkFSYi1XYUM2eldJb0Z2NlIybHU4djJKalFtTE1aUlprSDh2ZGNaYU5BdWxLcXYxbmxQZnY1WEtLQTFMQm54TUtEQWhQaUpfMGV4ODZZeHVFV0RSZlk4a3JLaVlwRGF0WmZHd1BXcWNHcUlYU2R3?oc=5",
-     "fecha": "2025-11-18T08:00:00Z",
-     "medio": "Portal PIT-CNT"
-    },
-    {
-     "titulo": "Los bomberos forestales ya tienen derecho a jubilación anticipada con coeficientes reductores",
-     "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXpzaXRuQU9LaU1tVzc2U3JCNW1iRG1OVzRLWWFTWU9DMzhuQUpLcGlqUC1MZWZWRDlrT0tWTlJJRzJQbDIxZGNsY3ZlOVFhdldTOHBnUmZ0bTBBWDd4QWExaTEwOXpyczdhTEhRRmNSZkw1NUFvZzRNNllkVXVLYUVoUTZWSjhXVU5ZX1BkbGdqUFpjZzJoanFKbFhTOHFtN0x0NWxPREJlTjhGbTMydHVURQ?oc=5",
-     "fecha": "2025-09-25T07:00:00Z",
-     "medio": "Sindicato USO"
+     "titulo": "CSIF exige al Consejo Comarcal de El Bierzo que reconozca la categoría de bombero forestal a sus brigadas",
+     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMnhRaDVXbElMbVptbzBvS21KMExMZDh2bENyRE51dTJpRU5zOHM4bjJlTkpmT1Voblp0a3ZUWENZSFdrWEVaWTI5SEktM2RrTGIwb2lyandtMjJKbGF0VDczR3g2Vzd5WEZkdHFPamJXU3N0VzdLaHFyM3VQNldqbDRwY1FkNnZ4bzJ6LWZ0R250Y2lpTm01UXVPcDZpRno1NV9jVUV0Z0hmc1UtT0RycUVhTFNSbHo3Ui1JUzFMYS1ZTDU5ay1QZ0otbTdlQdIB0wFBVV95cUxPaTl2THdkemg5cTZiWVowWW9IUER1dnRXcG9LZ29kaDV0MldhX0U0Nnk1RzRiVnliWWNJcmxwcVlDTnJfOFBrd3hYODh5X0hxeEdtalMyb0NaMEVxWEk0Z0xPUTlhNDVLZjNSQjdLcGt0T09xV2RYMTI3UzZOLVJyS0hxbDhqYm01Q1laOGdVZDJsQjVac2ZlZi0xbEZwZm5tVEF0TnB5ck92RHVvLVBQeC1FWUl3WWFnem1iV0dfdm1ZZUNGQzJQWHk2VXFnWTc3OUw4?oc=5",
+     "fecha": "2026-06-22T07:00:00Z",
+     "medio": "elDiario.es"
     }
    ]
   },
@@ -432,12 +432,6 @@
      "medio": "- CIPER Chile"
     },
     {
-     "titulo": "Ley de 40 horas en Chile: Este es el grupo de trabajadores que no tendrá reducción de la jornada laboral este 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUVlqYVF6aEVPTkZyOUE0dDNVQldvVk9vak1PcEprekRQN19EODBDTzVpTUhwZndJN2p0dko1X1g2bHI3V25YWVI1aGZDVkZNcDFKcUlUM0VHTDh1RFJVTEI3VlBxa2JidXpBZ0k4M205S2hpanJ1ZU1rUGtSTVJrRkwtbW5WSUx1QXd2ZzhfWkN0MkJzWVhGM25FcVd0Y1V6ckF0N0ZDRDJmS2x0bUJfR1dSRE9UejAwWm1NNzlmM2EtQ2hVZHo2U0pHLTBQWWNkcDJ6clZDZEdnSWp2X0dnVnpYUdIB9wFBVV95cUxNby1KQ2JvZXdBNFdDbi1YNUQtdkVGVGFKWGNwcHFmdFdUZ3ZHSWNBYVhHVmhfcUJNSHRBRG5mMWFoYXNBWFdObXlTLUhJOElPQ1M5b0JhTXB0d21aNFU1RnRiVlh1d2pldjc5eDJLOEVncGNEdTd1YWNFbjlMc0ZSNUYzUEttbTJ6VmlqS0l4OTZQS3Q3akR3MkNMTEh4aDZDVlc1bG9ZbzRnN1FHT2puTmlBeW5jZjBGLUtvNWxEQ05pMmdlN2s4cjNwUHF5QlFkY2Jaa2U1MDRYNGdtUV91WjVvOTZBa0FvVVdCYzRINzdOdE8yMEhB?oc=5",
-     "fecha": "2026-03-18T07:00:00Z",
-     "medio": "ADN Radio"
-    },
-    {
      "titulo": "Nuevo dictamen amplía criterios para negociación colectiva de sindicatos interempresa",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iTmpwWDAycjZLaVp6YmlqSG1QcXJRU2tCb29kdFQ1ME55ejlzYWFZOE1fM3hjZ1F5RlVKb3Y5Q2JJUjY1NlE0bnNDV3BDTWZHYWZ0SGpVWThHTm9iTV9HNVQtSUFnTWc?oc=5",
      "fecha": "2025-07-25T07:00:00Z",
@@ -477,6 +471,12 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
+     "fecha": "2025-01-15T17:20:30Z",
      "medio": "Dirección del Trabajo"
     }
    ]

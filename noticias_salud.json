@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T21:27:01Z",
+ "actualizado": "2026-11-20T23:26:13Z",
  "fuentes": [
   {
    "clave": "salud",
@@ -102,9 +102,15 @@
    "nombre": "Gremios de salud y públicos",
    "items": [
     {
-     "titulo": "ANEF Antofagasta advierte por recortes, despidos y precarización: «No nos pidan mesa de diálogo y tolerancia",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWFfNHpDQnd2YU5CalVJNXRMS0t1ejE5VDZmOWFxUnhqTzYzSGxpN3JTSXFJRVZBM0FtYVBZQU5hWHBEQnhsejJwQy1BRnBrS0p1WFVSZGZSRlNWR2dpNEVlSUFKSHRvWUFhcFJYbmt5QkRDNGRSV3F5T21uZVdvcWlLQi1jNmJkVXdtZ0x4SHZLU2VmN0prMlo0LW12WC1BQVNfX2ItNkhVenFlckpZTjNJbEdoQUNFVkxCdHhhbw?oc=5",
-     "fecha": "2026-11-20T20:21:37Z",
+     "titulo": "ANEF Valparaíso se moviliza por un reajuste digno y en defensa de los servicios públicos",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1d2aTNULWVHX0RHNV9sY3JTOTRSRmJrOEF0Njc4V3RaRWQ5Wm1oR0RTOG1oRS1zTVd6QXlDTzdCX0lHS2VQWVc4blF4bjJ5OGwzVTF3Sjh3MU4yZDhJY2txbmZOU0ZyM085MVpqZUFMZ0ZoXzdKNXJrMkU0UFVYZGdQeU1xV3RROWJQaVJ2Z09IU005UHVHalgtbkt4SUZDNUljcXc1Y1E?oc=5",
+     "fecha": "2026-11-20T20:21:52Z",
+     "medio": "anef chile"
+    },
+    {
+     "titulo": "ANEF Ñuble se moviliza por el Presupuesto 2027 y exige resguardar los derechos sociales y la estabilidad laboral",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZUNkS2QxMk9paUJHSWlIdFYtbkpETG1aT1ZiSDVVQkYwaThvRUFaeVhTbW1pdnhFSEpXcDh4bHh3U25ycXloUXo0ZkJtOGg4RXp3NmZhQW1sREVoVUJXb2hGMEdCVV9OV1dSRC01M3NZOW1uaDAteW02SUt5OWtoZFpkcHJXVGRyS3dKekJLMkVneHhGbFJZMlJtOTE2eXV5alBFMU1WV1YwbDY4dW8yVTBSQ2NIV29renh0UEEzbEsyX0l3aWJodQ?oc=5",
+     "fecha": "2026-11-20T17:16:38Z",
      "medio": "anef chile"
     },
     {
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2laR1dXUWg4TnZyNzdha2xtTmpGbkxhOHk4TXhwcldHZGltdkJodkZWeE5FbW5LYkRiRnBvcXN6eEVBUFNLWlVYT2QtbzdhTzJtcnNhMEQtM0xfMjVSR2Q1LUQ3aGZoajZTcDZSMTZPUElFRzJxVWpodk9MNG54cjlCdjhXa2xmdDNwZg?oc=5",
      "fecha": "2026-11-18T11:00:30Z",
      "medio": "La Prensa Austral"
-    },
-    {
-     "titulo": "Fenpruss abre diálogo en Hacienda por reajuste 2027 y exige proteger poder adquisitivo en salud",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSko4ZC1PQWFoX1VLV0VuZDJjdmswal9aSzRzR2FlZm5aQXVjdXZNbFRNRnc4YS1RWmpiY1hWS09aV3k3NXYteTVRZUxuSjl1NmdDS3NjWURvdVZINnY0dE1uRFhxcWZJbDNScDZ2c2k3QnZpV1poSEJtQk44NkVsRGtTWm96YVVBSWtvR3ZCbGJFWGVSLVNWaDFMekJqU21rdndCOTlwTWo5c2dtdG9udVFGZEVrb1ZzTG5QNkNFUkFGNEw4RlY5SWhyWQ?oc=5",
-     "fecha": "2026-11-17T19:00:00Z",
-     "medio": "El Desconcierto"
     }
    ]
   },
@@ -197,6 +197,12 @@
    "clave": "publico",
    "nombre": "Sector público",
    "items": [
+    {
+     "titulo": "Viceministro: Autoridades pueden recibir “sugerencias” para la “incorporación de funcionarios públicos”",
+     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTEEzTVkzTWdYVFo4NGNpNk96dXFybUI4a2lSSnQ5OWNLLWNHOFFHdy1HSzhSa2Z5ZTd1M2VGMnVtRXNLdFFqUU9RbWRqckJ4NDMyU0FNaVgyYXpleks0c2tiNDVIQjRocHVhajBwSllFSkFHeVlhSWlVbjhTMWcyWVRLU2tmcldqd2RGT2FYbmhNQ0g0N3hBNFdTUmRQc0NkbWp4TjhJU2NabUlrbWZXelZ2d0w2OG9MdVNSX1hvLUZoUnZQamYyTEtld2hfVDdNck9KVDdKRnZZZUJYZlE?oc=5",
+     "fecha": "2026-11-20T21:07:14Z",
+     "medio": "unitel.bo"
+    },
     {
      "titulo": "Senado despachó la Ley de Presupuestos 2027 después de tres jornadas de debate",
      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUZUSGt5ZUN3ZktKU0l5YWhNVDl4b3hhS3dfeGd0TVQ0NER5aWJqWkF3WFdUN2ZxazVENGhHT2Y2djlUQWU1OWxDNDRGRm9VUjhGS0k3N3NJZGdHQ2NpTkZuYnZiRFZ2cFo0Wl80U1VXb1hFSHM3blk1NjBOODhhZU95MHd5VE5VWnpFaVNfS3Nhd3BpekR3d0JGOFJXTnRf?oc=5",
@@ -260,12 +266,6 @@
     {
      "titulo": "Seremi CTCI de Aysén destaca acuerdo con OpenAI para capacitar a funcionarios públicos en inteligencia artificial",
      "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44VEJ5YmxwSXhUUlZib3FYMHl6RXVGdjJ4NzJRRWN1X2JQZ0h5YmhMd0xjVGwyYTd4RDktQWJoMlBHWGRrRGRWYWZDMEQ2QQ?oc=5",
-     "fecha": "2026-11-19T18:42:27Z",
-     "medio": "Radio Revelación FM"
-    },
-    {
-     "titulo": "Fiscalía, Contraloría y Consejo de Defensa del Estado realizaron taller de probidad para funcionarios públicos",
-     "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XeVh1ZEFmcU9JbUlvZk5ndENGVlUzZW9CTVpHVGhNWmZORXpMQjFYSUNBYXNQMlNhcUxtMUVraWR3TmVYZmFDOWFuTFhKZw?oc=5",
      "fecha": "2026-11-19T18:42:27Z",
      "medio": "Radio Revelación FM"
     },

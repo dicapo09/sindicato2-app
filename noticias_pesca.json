@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T21:26:50Z",
+ "actualizado": "2026-11-20T23:26:02Z",
  "fuentes": [
   {
    "clave": "subpesca",
@@ -14,7 +14,7 @@
     {
      "titulo": "Aplica para primer periodo de entrega: Subpesca llama a beneficiarios de la pesca artesanal a cobrar cupón de combustibles antes del 30 de noviembre",
      "enlace": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbVdueFRWdTdvRmlKY1hwZnBOZkVpOGlhcFFYdmM4b0FNcXY3RGdoRnMtaG9tZHllbHVLRkxyenE3aGVJU2swZ1A5Z01zb0FlZDZkYTN3b2tubm5MM0l3STJHcnlTSy1WaXNRQ2F3MkFnRUtQeWlabGpWd09fX3RCMDhyQmxTeVpadEZXeFBJZnNGTk8weDZzWEN3aHpZaXp5MV9kRnBPd2hPU0ViN3h2YnEtbm9uSHhNbWVmSEdiZWkwYXAzWlRQYmZwb0V3bmpoQTVLWHBTcnhtRUVYanhkcUJyUU9xZTNPQzNGYkNtRS1wQ21JN3JaejdObUtJbmZVVlNHcXotbTcwY2pvZTdlX1l4aXZlWk5ORlE?oc=5",
-     "fecha": "2026-11-20T16:10:03Z",
+     "fecha": "2026-11-20T16:30:06Z",
      "medio": "Ministerio de Economía, Fomento y Turismo"
     },
     {
@@ -42,10 +42,10 @@
      "medio": "Aqua.cl"
     },
     {
-     "titulo": "Se detecta nuevo muestreo positivo de virus ISA en centro de salmones de Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTTluWk5OX3Z6REJvNEZGUXlRaDhnXzdPbnRaS2tQbzZvSktYWDEtaGNhZkhISmdNQ0FsLWNnQm0wSTh0QXlnRGJzVTB6TXYxQV9QVEFzUVRFR3NLSkJIcVF1VzdBRlYwMWc4UDNjdmVobWFBWXpabVdLY2dETUMxU2dLdFAyZ0t6R2tvUENzbUViQ3YwS1JWVXJwMmEtaGdUVDFRRDBZbk5YUDFSSHc3bjI4cEtMWnlVOHB1WWlka21DV1pjNFJ6LU1sa3pUTVhlb3lkUQ?oc=5",
-     "fecha": "2026-11-19T16:00:00Z",
-     "medio": "Salmonexpert"
+     "titulo": "Se detecta muestreo positivo de virus ISA en centro de zona de vigilancia de Aysén",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaHpFemhuR0k0bnJ2QlFkbjVPU0kxWVBOU1dNMGVDajZFbVRxd1FJTkpTYTZPQ193ZEhJeEN2Sm9qWUdsVHUxSDl3enZLSjVDdkNJR1ZudFczUE9SSFJUMVhnUHQ0SnI5blBRVW5RRDR3VENIQ2hJOHp0alNzTUVzNUFJUzQ2Z09DcmV0Zm1YMVl2dE5WcmZoazNXRnhKWjg1d0RFay1sQU1yR1dPY2Fydm1ISi05MTAzLXc?oc=5",
+     "fecha": "2026-11-19T15:59:15Z",
+     "medio": "Sernapesca"
     },
     {
      "titulo": "Sernapesca entregó reconocimiento a establecimientos del Biobío por los 10 años del Sello Azul",
@@ -72,6 +72,12 @@
      "medio": "Atacama Noticias"
     },
     {
+     "titulo": "Sernapesca y USACh avanzan en herramientas para la trazabilidad de la mitilicultura",
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHRtcDhNZGQ3WlhtNmhJZWdFcjFvMDZudVBkc2pvVlpjX3A3QklyM2RCNkNUZ1dOdklfMGxYRTZHd1lsNk5RY0lfN3UxcFVVeW53cVpJblNXbkxNZW1tOVRRYW01a1ZkTklPeE9wT3dXLV9lWlJFV1Z6dVNpZkE2WkVuSDBYSW0wSzNPRDUxS3psRGNSajMzMG1WYUhnTFpLM1pEYVlkc3dNcmZYQnVBbkNueTlZQQ?oc=5",
+     "fecha": "2026-11-19T09:48:50Z",
+     "medio": "Aqua.cl"
+    },
+    {
      "titulo": "Caleta en Línea supera las 1.100 atenciones y acerca trámites de Sernapesca a 14 localidades de Aysén",
      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbldidVo0QkVZcDhmd1V1cm9GRTlSNmtxQ2VZVm1vV0dvQk11RXpheUFCUW5LdWZZSmZqWWswVmNVbndpMzE4VUlKVTJIeTkzTENGd0RjNzJBb29nS3B1bDhqdzVQakxMZUNsSVJyUVpQNDZSbXdMMmdJYllsN0ExcENJNGtjcU1xR0ZjdjBYd2VYV3VYc3BadFowUTJPYTVXVmtoVnBvdmRhR2RETTNrbjUtNldtbjFLT29qSk5IdjdXTWtHdVpyYjVnMDZGVGJzLTUzLWQxSDRHM0NTZ1pHcVVKLTJ5Z3Bqb19TLW9yLW41TG8?oc=5",
      "fecha": "2026-11-19T03:00:00Z",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDlNbjI1dmJpQVFkZU9TT2dOZHZ3M3kzRW9yTHFRSEFtMWlCUzdINWkyRDNJWUUwakNpaklJcXpZUU9LRjR1UGVMWDJ3U21iNWlEaHdXeU9nR3g0ZmxDSGtaYmN2LTVUMU54c0tienZCNlJKOTNfcDd2MzE3Q3ZSRDczT2hfN2s2YmlScGFPZHNtNW1hb3ZWZldSdURSZnFhbGZGWlE1dl9JbEpkSnNMVUZYUl9EZw?oc=5",
      "fecha": "2026-11-18T14:08:08Z",
      "medio": "NOSTÁLGICA cl"
-    },
-    {
-     "titulo": "Caleta Chañaral de Aceituno constituye su Comité Consultivo en un hito pionero en la implementación de la Ley de Caletas",
-     "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSXZ0UE5zQ3NiQnNIZnRtSUR2SC1XMGZQbHZMMjB4SkdyT0VZT2dLLUhDNFNiblVxeVZsM3A4UTlXaTBzbHgyTEpZamhiU00yd002a2FHZlg4bmpoN1RvYmNKWTQyeUduUGhaSDVYVGtxd0VyR09JODU2V0dwT2ZvMTZIUXd5dUxsZzFHelZlMll1dFRvTFdiTHVxNDlzeEh6aVBLZWdpQ1lHNXdPZWFURzU2dGtmX2pDSWJ3Wm1Nci1EblJhclRUeGEyRVhkTTlhNTRlZC1nOHJJOGlKV050NHRqTEN2UERZRDJ3Rg?oc=5",
-     "fecha": "2026-11-18T13:47:11Z",
-     "medio": "Sernapesca"
     }
    ]
   },
@@ -101,6 +101,12 @@
    "clave": "aqua",
    "nombre": "Aqua",
    "items": [
+    {
+     "titulo": "CEO de Camanchaca destaca iniciativa de reconstrucción comunitaria en Punta de Parra",
+     "enlace": "https://www.aqua.cl/ceo-de-camanchaca-destaca-iniciativa-de-reconstruccion-comunitaria-en-punta-de-parra/",
+     "fecha": "2026-11-20T22:15:00Z",
+     "medio": "Aqua"
+    },
     {
      "titulo": "Patagonic 2026 puso el foco en nutrición, eficiencia y sostenibilidad",
      "enlace": "https://www.aqua.cl/patagonic-2026-puso-el-foco-en-nutricion-eficiencia-y-sostenibilidad/",
@@ -153,12 +159,6 @@
      "titulo": "Corte de Coyhaique confirma la prisión preventiva de cinco imputados por sustracción de salmones",
      "enlace": "https://www.aqua.cl/corte-de-coyhaique-confirma-la-prision-preventiva-de-cinco-imputados-por-sustraccion-de-salmones/",
      "fecha": "2026-11-20T09:46:00Z",
-     "medio": "Aqua"
-    },
-    {
-     "titulo": "Con visita a Marine Farm acercan la salmonicultura a la alta gastronomía chilena",
-     "enlace": "https://www.aqua.cl/salmonchile-y-les-toques-blanches-acercan-la-salmonicultura-a-la-alta-gastronomia-chilena/",
-     "fecha": "2026-11-20T09:45:00Z",
      "medio": "Aqua"
     }
    ]
@@ -264,6 +264,12 @@
    "nombre": "Mundo Acuícola",
    "items": [
     {
+     "titulo": "Nestlé y la Universidad Católica investigan nuevas proteínas de algas, hongos y legumbres",
+     "enlace": "https://www.mundoacuicola.cl/new/nestle-y-la-universidad-catolica-investigan-nuevas-proteinas-de-algas-hongos-y-legumbres/",
+     "fecha": "2026-11-20T22:00:41Z",
+     "medio": "Mundo Acuícola"
+    },
+    {
      "titulo": "Aumento de temperatura del mar podría favorecer llegada de tiburón ballena a Chile",
      "enlace": "https://www.mundoacuicola.cl/new/aumento-de-temperatura-del-mar-podria-favorecer-llegada-de-tiburon-ballena-a-chile/",
      "fecha": "2026-11-20T18:00:16Z",
@@ -309,12 +315,6 @@
      "titulo": "Quisimos dejar de hablar de salmones para ver cómo lo están haciendo otras industrias en la adopción de la IA",
      "enlace": "https://www.mundoacuicola.cl/new/quisimos-dejar-de-hablar-de-salmones-para-ver-como-lo-estan-haciendo-otras-industrias-en-la-adopcion-de-la-ia/",
      "fecha": "2026-11-19T20:58:23Z",
-     "medio": "Mundo Acuícola"
-    },
-    {
-     "titulo": "Corfo Los Lagos abre postulaciones al DFL-15 2027",
-     "enlace": "https://www.mundoacuicola.cl/new/corfo-los-lagos-abre-postulaciones-al-dfl-15-2027/",
-     "fecha": "2026-11-19T20:46:46Z",
      "medio": "Mundo Acuícola"
     }
    ]
@@ -468,9 +468,9 @@
      "medio": "Sernapesca"
     },
     {
-     "titulo": "Los Lagos: Incautan casi 5 toneladas de erizos por no respetar talla mínima de extracción",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMkxaVUhXNTRFNkFjQVVYejMzUS1tMkpKN045SE04c3BGX3Fjdm9wZERIQ3BnTVFtZUFHM3BUdVdRbnFkZmIzOWxzOHc2RjNPUHRWV0lETmdaVUtWNHREaXY4clk1ODdTM0RWYjBfUFBBMUV0Qmo1b0ppRTJuZEdkRDl3SDhLNnVpSzhSeTgxMS1qWnBabERtYmVHVDJIUXJrdXV5b2JpLWZmOGdqMVdDQlNHSjFBMUtMRFk5WnE4RXNlQQ?oc=5",
-     "fecha": "2026-08-14T07:00:00Z",
+     "titulo": "Comienza una nueva temporada de centolla en la región de Magallanes",
+     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVE5UjliNW1FWmU0aTNENG85eG4yYVZGYmJobS1OS0hQVmZKaHk0SkJwN1V4Nkt5LTBTajZSSVg1Y2hVRVFZakNwd1U5Q1JVdHU4bDJGTUc2ekZMQkppSDQ5WGMyb3lmbmU2cE5QYzdMaVcwbnBJTmtNREtNVGkzY2pFOUJSby1HZnd4dF9PTGZpOFpMVGstN3owTU85MHVHYzJMOUFB?oc=5",
+     "fecha": "2026-07-14T07:00:00Z",
      "medio": "Sernapesca"
     }
    ]

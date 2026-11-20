@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-20T21:27:05Z",
+ "actualizado": "2026-11-20T23:26:16Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
+    {
+     "titulo": "MINISTERIO DE AGRICULTURA DESTACA LA FORTALEZA DE LOS AGRICULTORES DE LA ARAUCANÍA EN LA EXPOSOFO 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnhuaEw2Rmhqc2JTUjRsTi05U3VFZUV0SnBfeUY2Wkt3cFFDY0h1TVdYYWtCYmZvNnlkNFluWk9ZSGRacXJrcEQtNWFYVEhxNm1oYk9UNU43Ynp5dTlOd19ESWsyZmtjMWh3d0NfWDFwNF9kNEU2UURpNDZKUGI3MlJXMkJwNEVqOVlCVG1RMEpKeWNXY2RRV1NvNk1qbUhUVWRYTnI5SlZwT0ZaR096NDBXZmJLdm1aa2t2YXVUOGVQQ1hiSFBKRlVHUTY5Qmd2ZE9lMkZNVjVmOFQwNVQxQQ?oc=5",
+     "fecha": "2026-11-20T23:16:38Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
     {
      "titulo": "INDAP expuso experiencia de compras públicas y Mercados Campesinos en 45ª Reunión Especializada de Agricultura Familiar del Mercosur",
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWZwb2J2RXU1UHZ0ZzFjZE5JeV8wcnJIY3hTNjF3MUt1bnAwS1RlNE9sRjhDNlFTQ19lN3pQR0ZuYnZXUmZrVlRRSjRvbXdRSWctSjFzM1BkMEFPb0lJbnk5OVA4cC1ZWmx5QnF1TElud2FpT0NRbXNTYjhobW1KUGlnbi1mZGxjQnVnZXRoa25nS25Vc1pNU05ob1h5UGh3MDRKOU1CQ2Y0dUxENEx5azd0WktiUQ?oc=5",
@@ -48,10 +54,16 @@
      "medio": "El Clarin de Chile"
     },
     {
-     "titulo": "¡El campo se toma Temuco! Expo Mundo Rural de INDAP abrió sus puertas en EXPOSOFO 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYW1YZGtkdENBNlRUU2pLRV9lYkp4MEZOeFVPaWhibGY2T01YWWJFWkJGNlFpU3FjWW1hVDcxb3hfaXRYVjJLUm9RVzFLV0JDalh4WjR3YUdqQm9Nb3Zub0V0bWZjMDVoUFh2MVdBU2dJMWJEN1I4WC1XcS1VMUdrcXVXa2lNVGdNMzhJazFrVk1Lczl6NlFzektxRWYzdl9xNERfcTVUUXhuSmdEOEZ6dXdjbUQxT19hb3ZzMlVXb3U5NmRaUmc?oc=5",
-     "fecha": "2026-11-20T17:54:48Z",
-     "medio": "Portal Agro Chile"
+     "titulo": "Destinan más de mil millones de pesos a proyectos de riego para 86 agricultores de Los Lagos",
+     "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWjBVdl9yMUhCb0swaWZDaDFidlRhYkZfMXo0WFZhWnJCcDlCaktyWC1NdUxkQVIyb1l1TGJEZ2o3T1luSVV0ZXRkSzd2UFlYRVZFLUlCUzZjSTNCSjRzdGd1b0NzNWs2RUlFTnBJaFpUSGlkbkVTT2xVbVdsU3BXajhRbGVibUFUQ3ltVFdkNA?oc=5",
+     "fecha": "2026-11-20T17:23:42Z",
+     "medio": "SoyChile.cl"
+    },
+    {
+     "titulo": "Expo Mundo Rural de Indap acerca los sabores del campo a Temuco en pabellón de feria Expo SOFO 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONm1OQjRjWXdLTzh4VUJMV2YtYS02REgzbjlqNUlxa1p2Qlk0Slh3MUN2dUEwTndHcENyX2VPc0hiemVuTmxBMkotRFVqMjFJSnQ5MEJVaDJFdVYtWjBOMFdNNHdtWndGQjhFUzM1dDZKVFVoeUpNMUp4ZEdlb0xqOWhVRkZ1WUF5WDFEdEVoTHlDSjJNVE13Ti1LYnZMRW93TllfOTVHTkxmdGZENkpLU0xSTlhSaW9ObEtGTU9pOHVQUTZpcTQ2M3piZnRyMTRzWjQtbjBmdVpPUQ?oc=5",
+     "fecha": "2026-11-20T16:33:13Z",
+     "medio": "Atacama Noticias"
     },
     {
      "titulo": "Chile proyecta una nueva industria del pistacho y atrae interés argentino",
@@ -82,18 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVEszYzdZZTJkMUphUzZYR0YyeUlaMjhNYlNJS0pLQVZyUFVOUzAxVl8tWW5ETlVZZGRWME5sWFBGbG1scldXQ0w5U2ZOMk51WkF1dkM0dkdXSGZfblM0T25HdmtFMV9Qd2NFbjhCNEVJX3BvMEVJekZPd3UyMmVJUE1nQmNRZlczOHBUbllEbHNHVkdicTNRblhtdkxGNXJmOUFXOHU2dEdSWjFYWWFVQmtRQllXa2ZQUU5MM2oyUlVOdw?oc=5",
      "fecha": "2026-11-20T12:00:00Z",
      "medio": "Nuevo Poder"
-    },
-    {
-     "titulo": "Chile reunió a autoridades y profesionales de América Latina para fortalecer conocimientos sobre evaluación de riesgos de plaguicidas e inocuidad alimentaria",
-     "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPTkR2YVg4SXZmVFpoRVdheHBwWHhCRldHcTJtMnlEblA0RVp2UDVJS0FNanRZWFVGMWhCcXBOaW1PZ3ZoNEZXTVRQb3AzcmNadU5LYy1kWXd6M1V0c2NrcW5UN18wZEdwNlZKUFlpZmlkX1QwcDBGQnA3UzdGWkhianZaZVBEcUpwYnhnWW0xM2Y0alcyMUhBeTVYLVlaWGlMTGJIYzM1VXNUaWZJNTd6X184YVhSSFFBQUt2Zk4yVjBPUzVrekN0cU5IUy1KSnZfd3ctYVdGWl8zYVBmQnNhWm5hUzZYZEZVb2pzXzhOckUtaWVWNGwwRzRLUWhZU0tNZndkYm1adWZuc25FUWc2czBQOWZ3VDBna1I1WFl4b0hvRmlBV3F3?oc=5",
-     "fecha": "2026-11-20T11:44:22Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Ministerio de Agricultura dispone subsidios de hasta el 69% en contratación de seguros para proteger plantaciones forestales y huertos frutales ante incendios",
-     "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNLUdlV05TZzJKSjNqbzN0R2xQVGp0RlhlRHlGalBIY0FpTEhObXpLYUM2b2RWdHp1VUU1STFmU1pQMDdIY3djMjNNdkREdXpxVy1qZ1pKYlprVTE3OU1sVXcxZjI2X21yUEowM0NRVm95YjlFc1RwU1lFYlZGS29qSVFwS0FuUWJqSVRTU3lTY29LZ0ZuZjh0OUIwYXFRVzJIcDlBSWd1eDI0SFpRZjlFMFMyYU8ycm9qN3lvU3dWRF9fcWU4REdKNHRneUNOeFhJMlZ0S0h4NUFDYXdKcXZEVWtyUDU5Qnh3cHNZYl9jNDcxdE9EZDc2YzJ3UUlCcVJqem5nR2dranV0dGFxYm4xbmFFRG1NVWczaXBZT3NhMFJTMS1SalQ0?oc=5",
-     "fecha": "2026-11-20T11:30:45Z",
-     "medio": "Portal Agro Chile"
     }
    ]
   },
@@ -101,6 +101,30 @@
    "clave": "araucania",
    "nombre": "Agro en La Araucanía",
    "items": [
+    {
+     "titulo": "Expo Mundo Rural de INDAP abrió sus puertas en Temuco con 50 productores y cooperativas campesinas",
+     "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VdGU5enV5UHpqMzB6LVpiMHB2QXFSTTR2ZXMtOHRYOENqRDZJQmdqNXc2YWMySUQ5NHZodXZDMEd2dWhYTmJ4aDJtSGloeU81MHZCRU1xUUJiUUItNjFqS3ZKZTVRbWVTdWtiblNyaE9xUDNjdlE?oc=5",
+     "fecha": "2026-11-20T23:22:23Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "MINISTERIO DE AGRICULTURA DESTACA LA FORTALEZA DE LOS AGRICULTORES DE LA ARAUCANÍA EN LA EXPOSOFO 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnhuaEw2Rmhqc2JTUjRsTi05U3VFZUV0SnBfeUY2Wkt3cFFDY0h1TVdYYWtCYmZvNnlkNFluWk9ZSGRacXJrcEQtNWFYVEhxNm1oYk9UNU43Ynp5dTlOd19ESWsyZmtjMWh3d0NfWDFwNF9kNEU2UURpNDZKUGI3MlJXMkJwNEVqOVlCVG1RMEpKeWNXY2RRV1NvNk1qbUhUVWRYTnI5SlZwT0ZaR096NDBXZmJLdm1aa2t2YXVUOGVQQ1hiSFBKRlVHUTY5Qmd2ZE9lMkZNVjVmOFQwNVQxQQ?oc=5",
+     "fecha": "2026-11-20T23:16:38Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "Dólar, insumos y pagos internacionales: los desafíos financieros que marcarán la Expo SOFO 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRQUl3LXNPOGZIZnZJQkNWcV9MelozNWtCVktWQWtPSUhIWmxTTHhXOUJYYlVUeXY1dm9uVUhYVmh0V1otQ091ck5vYUt4TlBZVTRWOW5NUUpLRng0NUxlYWNwQVcyX19hQWFvM2lJVzRYb0RxUVJoNkg3b1hhdw?oc=5",
+     "fecha": "2026-11-20T22:43:47Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Reabren el puente Eduardo Frei Montalva y recuperan la conexión directa entre Carahue y Puerto Saavedra",
+     "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdXNpeEZoaktRYXhCMWdnTHZTazhXWlkwV0tyWUJrWlpvQldTdWVLX1pLbEg0WFo4OTVPTENfRkw0ZElWdkJyZkxPSmhrRWdoaWxIcFItU2ZkTUJFQS1PSUlTSkNJSHRVdERwVlpHRnJqVVQ2QWdmcGVMQjNCcEV0am5uRGJna0E?oc=5",
+     "fecha": "2026-11-20T22:03:41Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
     {
      "titulo": "Huenchumilla respalda medidas para contener alzas de combustibles, pero cuestiona trato desigual del Gobierno",
      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNGd0Y1h2ZDRPWjZvdDVSbW1vbXdiWEhVM0tHWFpEVVR5SHVxUWxjbUl2bWxDUk5abmRDYzkxMWRjdXdkZkdhYjYzcDM5SHNkVkJVS2xzVEhsY08wYkFGMk82WHZ1aVlpRTNrb3hkY1ZhVkRTSzJ0Yk50NFlQRGRzcXM0TEM5cUVGSXc?oc=5",
@@ -132,15 +156,15 @@
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
-     "titulo": "Granizada golpea la agricultura de Malleco: Agricultores Unidos advierten graves daños en cultivos y frutales",
-     "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ta1lBYV9wTmpEXzJSVlhqUUlhX2VhNFUwODRYM2FQdkRwSmtHOV9zTmU4OUJDVkpQSGpoSC1vZGhzYzFTQzE5bFZBLWN3a0c3OW5HQXpIZ2dZQk1OVzlIWHVNUVJpRzNSNjBGbjVtbGp0TWZvcUVpdGFncw?oc=5",
-     "fecha": "2026-11-20T13:50:01Z",
+     "titulo": "Falsa descarga de GTA 6 esconde malware diseñado para robar datos personales de los usuarios",
+     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHajd2R0Rkend1VGdZZmxpMU5WaFdtbEFfM29oODBJWkRfQXR2UmswQXB5T2xzOUlpUl9JNlY2andjY29BYlpld3BUdEVyWVhzZ3JHQXJsLW1vSzdXWXZpSTg4a000alR2Y3JtT0RrM2dsMUFjUThFRWR0YjY?oc=5",
+     "fecha": "2026-11-20T15:55:05Z",
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
-     "titulo": "Liceo de Temuco capacita a docentes en mediación y resolución de conflictos escolares",
-     "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHl0M003UU40WVhCSVNWUm9VV2dlSURkUU1hSnFIQ1NqZlhLYzgxS0JPdFN1TERfUmd6MURfZnVjVjl6NFI4ZVZneHpnMVVjdDlBcldob25VWklET2g0dFR2bHJVbnUzNWJremw2OWZpSEI2T0ZXcmdrc0dFNVdyaktkbHp5bzhp?oc=5",
-     "fecha": "2026-11-20T11:09:47Z",
+     "titulo": "Granizada golpea la agricultura de Malleco: Agricultores Unidos advierten graves daños en cultivos y frutales",
+     "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ta1lBYV9wTmpEXzJSVlhqUUlhX2VhNFUwODRYM2FQdkRwSmtHOV9zTmU4OUJDVkpQSGpoSC1vZGhzYzFTQzE5bFZBLWN3a0c3OW5HQXpIZ2dZQk1OVzlIWHVNUVJpRzNSNjBGbjVtbGp0TWZvcUVpdGFncw?oc=5",
+     "fecha": "2026-11-20T13:50:01Z",
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
@@ -166,30 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcUlCOTVjemhZX1U3NGFZXzNRckNJbkl1RmZIdE5nTERrQl9pVVEzTFk3WEhjQlRhS0F4azhsWW45SDF3NE5ZdUVMdGY1MjU2b0ZJZG5SU2JGTmJRdG9sMkFvLTY4a2pVTmU0dzNkSTVXQkkza2ZjZ1I2ZnRoV0RxRF93?oc=5",
      "fecha": "2026-11-20T01:53:14Z",
      "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "EXPOSOFO 2026 abrió sus puertas en Temuco con más de mil agricultores y el tradicional Concurso Ganadero",
-     "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PbmxDUFpkdHZXQkNFMmJYb0VJZE9GTGJTWEZFT2hrMi1oY3Z0Y0pNN2k4YzVtWlJHTThJTm5pY005YzFTQ3pPdzN0V1BiVkxMQWlEaVJpenJjYnc1OERkZU4wVXMzOXNPRDRSQ01ZbFE1QlM4?oc=5",
-     "fecha": "2026-11-20T00:42:55Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Inicia la EXPOSOFO 2026 en La Araucanía: se esperan más de 30 mil visitantes en sus cuatro jornadas",
-     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNG5LQ3J2T2pQWWNIMkxab1psd1o4UDBVZmZpdUtiUVozb0Y1SExKMFVUUS04Vk9Ka3V1N0t1QmdVQVNsb21XbnI1UFlYT25jbzRCUmpMQlY5SmlfSVZNMTVSQlVzS3ExR1dZY1RBbUttOFJNSFl2ckN2ZmsyQm03TVBta3BCYTlWV2g3ZnROMWpsdGVQVWJVeW80UUpWU2Z3VVZqN0FYREstMEVEMG45YU1zVEFESjc2ZXN1RHhvbkdGTTZXQXRSZWZuTTNqa1pOSlJ0YXdxblQ?oc=5",
-     "fecha": "2026-11-19T18:54:40Z",
-     "medio": "Atacama Noticias"
-    },
-    {
-     "titulo": "ExpoSofo 2026 comenzó en Temuco con cerca de 1.200 agricultores y proyecta recibir 30 mil visitantes",
-     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRUZWYUJuLTFtZUI1YXhnMHlwTFlJOXMzTUdFd3A4alNDOTE3eVdIVVRLSjhJTWZPVFVvMGhUbWlhT1hHWk02RllqR25xRXBUS1p5MVRITlhJMDRGN3BzamhWbUhXWl9vT0ltY2llb0JaZXlTRU9DRUZNSVcyVkVhcE1tZjBkOUI2djhCeUQyNnBEU3ZBMXJJWFF3dE1IX0ZaQTZmTnl4ZllCNWRqMHQxU1pZRlZnbWRwOFp2bGJVakZPMTVu?oc=5",
-     "fecha": "2026-11-19T15:56:23Z",
-     "medio": "Novena Digital"
-    },
-    {
-     "titulo": "INDAP DESTINA MÁS DE $2.182 MILLONES A PROYECTOS DE RIEGO EN LA ARAUCANÍA PARA FORTALECER LA AGRICULTURA FAMILIAR",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ0ktV05BR3QtNkd5QkZtaEFOVVhKSnZLV2JtLTAyVlhVSkJXR0t1SzY2SlR2eTNyMmFNS3o3V0ZfRml4eWhKUFZwOUZJRUlyMUZ4QVpyUEFlMk5nLVpKdXlvN0IzY1hJWUZ6WExUM25WWld3V0NQMFhiRFBDcjQtTWdNQUFFWVZCVXV3ejNiY3Zwc09FQVNXMWE3OERGRzVTeGVaRXpadE5pUVUwY1FhbHNvWlBzQlp5MndJbmNCdFdLc3FkVUUtMkhPMWxfSktGbTNuVWZibUJkQ0hjbm91SHhOYXBWc0R2WGFWYjNn?oc=5",
-     "fecha": "2026-11-19T12:34:58Z",
-     "medio": "Araucanía Noticias Temuco"
     }
    ]
   },
@@ -204,16 +204,16 @@
      "medio": "BioBioChile"
     },
     {
+     "titulo": "Chile entra en temporada de cosechas y el agro busca trabajadores extranjeros",
+     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSGRFUWlrLUJyZnhYME9LbHk3bG9BYXhjTVl4eWN4WFl0NDFlSGlrcGxwMzh6U0g3bWR6SzFvZzg2Tjc0MG9vcm5WNDllcTVPWFNzOUN4Ymo2N1otbzBXanZuNE9wTHk5ZmdneEdKeXBvZXUxMzJTOGRSRU9wYlVxUEZPU0otRFBMbTQ4bTRnNE5VZG5qdGtVRVJjTVhKVk5ydzQyWGJ1RDc1UVd1cWlEc1FDVFZSV1RnUjJ2cEdoaFQ2V2tTb29Z?oc=5",
+     "fecha": "2026-10-06T07:00:00Z",
+     "medio": "AgroLatam"
+    },
+    {
      "titulo": "Entre “líquidos y venenos”: estudio revela cómo trabajadores agrícolas chilenos perciben el riesgo de los plaguicidas",
      "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRU9KLUZSV3NQU3MxaW4tcEFCejVqQi1DeWVPOG5pUjlXZWhQNjFvZzRkOXR0Mml3VzJQbjFxWjdVYjA3bnhhbE9OakZQQVBDM1RobU5nVHJrRkpaWWs0S1BsNVd5WVQ1SjQxT3JiS2gzcExTcGtDZy1fVEliem9KdEFVN19Cd3BIWnI4WFlRSU1MNHlmLURURFQxRUtPdFN1Z2lEeTdqcDQwcnd1U3VHaTl4TGFaZDUwRFRiSFpRSF9sMGtRVWpRVVRac2NiV0IwUjdsQXRHMHBMOWhDMW5iVzZUcThIaXpIUWNoQ21scWI5bVJ6TnlnemE4Sm9tV1phZldtNENfVFBjMURr?oc=5",
      "fecha": "2026-08-27T07:00:00Z",
      "medio": "Diario Frutícola"
-    },
-    {
-     "titulo": "Gobierno chileno agilizaría contratación de temporeros extranjeros ante demanda de mano de obra",
-     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMUw3VGxBTzlTVFVyNi1zSUFNdFdpQno3RkNpUlR4NmpNdjB0X05fTW1oaGNpVGZ4SnFSMFV3emFFMXZ4ZlN6MDdjRE5Lb0cyUTlCbXdHT2tMdXhQYlhaeEJ3WTI2NVR6dkFfYUdlZWJlSE81NUVqcE51YUU2QVJTNnFtUkFKeGpMaS0yTHpSdFdjSDJ3ejVpZmYtYW4teGJXTXh5SU5LV0RvS1Y4a3FaU1RDc3M0X0lwVWU0MmNJbnZpUFpOaGl3bUVSSUxHZ3FKNGl0MWF3NkRsYmRjR3JZR0sxNlFaZ3B2c08zV1pnaXI?oc=5",
-     "fecha": "2026-07-12T07:00:00Z",
-     "medio": "Diario Lago Ranco"
     },
     {
      "titulo": "Gobierno impulsa cambios para facilitar la contratación de trabajadores agrícolas de temporada",
@@ -226,6 +226,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXlDZmlER0VYRmRPVDJsSlI4ZzNtNi1hQ3BubG5Ndy00a2JHSEdXdlFIbFBobUVYQlNfZ3A2cVVPTjdkTURZTkRkNnBXTjFqNktYbjk1cExxOElaQU9xVWhOTlFYdUxKN0JXMEVlM2xJenJmbnpNbnBxeENUV291R3BaT0pQLU9ELUxhbHBMRG1NZHV2RmRkNHk2U2w2UjEyVzJXaVVhbG5sQUdBc3BXaEdvSENKREUyTUpaMG95V3JxcmxOWDR1SGtSUFN1b29MY2RISnROeDJfQ1laZUxKNGZyONIB_gFBVV95cUxQcXZWWWJWeTY2bE5QYWFWaXlLaFBjSndTMGgtYmljZUlodjI5U1ZkSURaZFVxa2RZdTFobExuRk9zMklNRS1TWVdYT2h6M2FNdGdTRWJ3MXgxNGdyenMtS0FrOEJzalZDeEhRdGtBeGRXTW1fTnZFbTBET3VBYkVXM2gwM3ZZVzNRVjFnT1lnUXprVk1tR3BqcHBHYjB6LW85WlhxNC1GT3VoZmt0aU91eFM4OVpQVldfRHVUYVVSSFJCR2hDUGU0RVFtUTFiZmdBRGhzRGhWQkxHeEpsdzZVTWgwYmxoM2lrLXJiNURqNXROVHFsS2JuWThTWkRTQQ?oc=5",
      "fecha": "2026-07-10T07:00:00Z",
      "medio": "Infobae"
+    },
+    {
+     "titulo": "Gobierno chileno agilizaría contratación de temporeros extranjeros ante demanda de mano de obra",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQjdodHFVRm91QXJyVEZCYS0yOEtDRk1nX3Raa2dNUnRmSHZoWFljRHJaWnJzcTE4YndGcG5VXzJmOFMtOHd3MXJ6OUEwN0tybWt4SzY5Nm1fZjhSd2JlSTVsSVB2dXJYM0t3YkJRUGFlQllIbUlId0xQT20wekpoU1JKWkw0US14UWdrYUhpNUJHR3NlZXZXZEhaR3NjNl9RQ1NFVFppUE42NEU4TXNHRlVkTnE0LWVWcmpBM1o4bF9hZ0JOV1FSSk5SODB5VE1DaEV6cG10NHFUa2xJc0hXQTBXX1EwSmo0SndVM1hGcVJMTXc?oc=5",
+     "fecha": "2026-07-10T07:00:00Z",
+     "medio": "Diario Frutícola"
     },
     {
      "titulo": "Chile acelera cambios para evitar la falta de trabajadores en su agroexportación",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPendFWW1sRTNmdEhYaS1YazhYR083V2dlMEwzZ1FRN3Zza180ZnhTVGlTTmpPcWFxd2xHNHJrMU9wOEp0LWpzMGc4UVd2WjZrWncyNVV2NkgzU1BJS0JTRnpzb2VkcU81c2FVUGQ5Z3RtS05kWnA5OUJ6eHRBel9UWHBhb01rNnhQQmE1OFJuT3puSDJ6RDgzUmlscVhFN3JDd1HSAcMBQVVfeXFMT01ybm1aSFN3QVVvWTVwcjlmMmVzU1hPM2k3SVZGWmlid0E2N0JsX1BXRVdqZ2J0MDd4cFM2dnNQenc3ZEc5eXlSb0NqNWpWR29ZVzlCNTVxcDU0SFRkcmxWVlRpaHFUcDhuaU9XNUdBRUdvMnVKdFhSRU1UV002Q2Z4amsydU1Yd0JTMGRZMklMX2hKY3RydzVLTk0yb3ZDc2JOa0NaRVE5WmZvbGhqWDdjeENyTGRnRGlfX3FkT2lra0hF?oc=5",
      "fecha": "2025-07-28T07:00:00Z",
      "medio": "La Tercera"
-    },
-    {
-     "titulo": "\"Queremos que más trabajadores temporeros agrícolas de Bolivia usen la Visa Mercosur\"",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0xaUTBrMmtEa2xTbWN3aFNCdTR2aHNxWFVxNTF0b005UW5DeXpSN19xNU1EVzJNbU1uLWhIZW5RbndkR0JrV0M5WjNHLW95WWlsV0JsVm9hclBqSGhleWVFenZJYWoyU09Ndk9DOHJyS0xNXzdUT0FpN1dKMTVZUm43dC1BbUUwTUI4U3VsaWxscEpKX094ZlhoTFlxLVZ0aWdfVFVDczMxblFQSE9sUi1ocHlhc3dRUjZySTR5LUFfZ2prRG1BOHZEaWpHNHhjWVhTWnA5MDRRektocm1CRkFPVTU?oc=5",
-     "fecha": "2024-05-08T07:00:00Z",
-     "medio": "Diario Frutícola"
     }
    ]
   },
@@ -432,12 +432,6 @@
      "medio": "- CIPER Chile"
     },
     {
-     "titulo": "Ley de 40 horas en Chile: Este es el grupo de trabajadores que no tendrá reducción de la jornada laboral este 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUVlqYVF6aEVPTkZyOUE0dDNVQldvVk9vak1PcEprekRQN19EODBDTzVpTUhwZndJN2p0dko1X1g2bHI3V25YWVI1aGZDVkZNcDFKcUlUM0VHTDh1RFJVTEI3VlBxa2JidXpBZ0k4M205S2hpanJ1ZU1rUGtSTVJrRkwtbW5WSUx1QXd2ZzhfWkN0MkJzWVhGM25FcVd0Y1V6ckF0N0ZDRDJmS2x0bUJfR1dSRE9UejAwWm1NNzlmM2EtQ2hVZHo2U0pHLTBQWWNkcDJ6clZDZEdnSWp2X0dnVnpYUdIB9wFBVV95cUxNby1KQ2JvZXdBNFdDbi1YNUQtdkVGVGFKWGNwcHFmdFdUZ3ZHSWNBYVhHVmhfcUJNSHRBRG5mMWFoYXNBWFdObXlTLUhJOElPQ1M5b0JhTXB0d21aNFU1RnRiVlh1d2pldjc5eDJLOEVncGNEdTd1YWNFbjlMc0ZSNUYzUEttbTJ6VmlqS0l4OTZQS3Q3akR3MkNMTEh4aDZDVlc1bG9ZbzRnN1FHT2puTmlBeW5jZjBGLUtvNWxEQ05pMmdlN2s4cjNwUHF5QlFkY2Jaa2U1MDRYNGdtUV91WjVvOTZBa0FvVVdCYzRINzdOdE8yMEhB?oc=5",
-     "fecha": "2026-03-18T07:00:00Z",
-     "medio": "ADN Radio"
-    },
-    {
      "titulo": "Nuevo dictamen amplía criterios para negociación colectiva de sindicatos interempresa",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iTmpwWDAycjZLaVp6YmlqSG1QcXJRU2tCb29kdFQ1ME55ejlzYWFZOE1fM3hjZ1F5RlVKb3Y5Q2JJUjY1NlE0bnNDV3BDTWZHYWZ0SGpVWThHTm9iTV9HNVQtSUFnTWc?oc=5",
      "fecha": "2025-07-25T07:00:00Z",
@@ -477,6 +471,12 @@
      "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
      "fecha": "2025-01-15T17:33:27Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
+     "fecha": "2025-01-15T17:20:30Z",
      "medio": "Dirección del Trabajo"
     }
    ]
