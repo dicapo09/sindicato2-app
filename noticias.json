@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T15:34:43Z",
+ "actualizado": "2026-11-20T17:35:35Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -114,6 +114,30 @@
      "medio": "Portal Minero"
     },
     {
+     "titulo": "SGS registra un crecimiento orgánico del 9 % en América Latina durante el primer semestre de 2026",
+     "enlace": "https://www.portalminero.com/sgs-registra-un-crecimiento-organico-del-9-en-america-latina-durante-el-primer-semestre-de-2026",
+     "fecha": "2026-11-20T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Inversión de US$195 millones impulsa nueva infraestructura de transmisión eléctrica en Tarapacá",
+     "enlace": "https://www.portalminero.com/inversion-de-us195-millones-impulsa-nueva-infraestructura-de-transmision-electrica-en-tarapaca",
+     "fecha": "2026-11-20T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Fatalidades en minería: Casandra advirtió antes de la tragedia",
+     "enlace": "https://www.portalminero.com/fatalidades-en-mineria-casandra-advirtio-antes-de-la-tragedia",
+     "fecha": "2026-11-20T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Codelco Andina reúne a empresas proveedoras para fortalecer sus capacidades y vinculación con la industria minera",
+     "enlace": "https://www.portalminero.com/codelco-andina-reune-a-empresas-proveedoras-para-fortalecer-sus-capacidades-y-vinculacion-con-la-industria-minera",
+     "fecha": "2026-11-20T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
      "titulo": "Codelco proyecta continuidad de Gabriela Mistral hasta 2055 con inversión de US$868 millones",
      "enlace": "https://www.portalminero.com/codelco-proyecta-continuidad-de-gabriela-mistral-hasta-2055-con-inversion-de-us868-millones",
      "fecha": "2026-11-19T00:00:00Z",
@@ -122,30 +146,6 @@
     {
      "titulo": "Desarrollo País reúne a 21 empresas para analizar alternativas de suministro energético en Antofagasta",
      "enlace": "https://www.portalminero.com/desarrollo-pais-reune-a-21-empresas-para-analizar-alternativas-de-suministro-energetico-en-antofagasta",
-     "fecha": "2026-11-19T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Metro y Transelec presentan 85% de avance en la infraestructura que energizará las líneas 7, 9 y A",
-     "enlace": "https://www.portalminero.com/metro-y-transelec-presentan-85-de-avance-en-la-infraestructura-que-energizara-las-lineas-7-9-y-a",
-     "fecha": "2026-11-19T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Marcelo Henríquez, Vicepresidente Chile de Ausenco",
-     "enlace": "https://www.portalminero.com/marcelo-henriquez-vicepresidente-chile-de-ausenco",
-     "fecha": "2026-11-19T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Cartera de inversión minera alcanza US$111.149 millones, el mayor monto en 13 años",
-     "enlace": "https://www.portalminero.com/cartera-de-inversion-minera-alcanza-us111149-millones-el-mayor-monto-en-13-anos",
-     "fecha": "2026-11-19T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Ausenco destaca optimización de recursos en Mantoverde y proyecta mayores oportunidades en la minería",
-     "enlace": "https://www.portalminero.com/ausenco-destaca-optimizacion-de-recursos-en-mantoverde-y-proyecta-mayores-oportunidades-en-la-mineria",
      "fecha": "2026-11-19T00:00:00Z",
      "medio": "Portal Minero"
     }
@@ -192,6 +192,12 @@
      "medio": "Minería Chilena"
     },
     {
+     "titulo": "División El Teniente y Fundación Sewell lanzan álbum  educativo sobre el patrimonio de la ciudad minera",
+     "enlace": "https://www.mch.cl/division-el-teniente-y-fundacion-sewell-lanzan-album-educativo-sobre-el-patrimonio-de-la-ciudad-minera/",
+     "fecha": "2026-11-20T12:15:00Z",
+     "medio": "Minería Chilena"
+    },
+    {
      "titulo": "AIA invita a empresas socias a informar proyectos con retrasos en su tramitación",
      "enlace": "https://www.mch.cl/aia-invita-a-empresas-socias-a-informar-proyectos-con-retrasos-en-su-tramitacion/",
      "fecha": "2026-11-20T12:05:00Z",
@@ -208,12 +214,6 @@
      "enlace": "https://www.mch.cl/region-de-antofagasta-sma-formula-dos-cargos-graves-contra-minera/",
      "fecha": "2026-11-19T13:20:00Z",
      "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "Gerente general de Andina inicia agenda de vinculación territorial con alcalde de Los Andes",
-     "enlace": "https://www.mch.cl/gerente-general-de-andina-inicia-agenda-de-vinculacion-territorial-con-alcalde-de-los-andes/",
-     "fecha": "2026-11-19T13:00:00Z",
-     "medio": "Minería Chilena"
     }
    ]
   },
@@ -221,6 +221,18 @@
    "clave": "reporteminero",
    "nombre": "Reporte Minero",
    "items": [
+    {
+     "titulo": "Corte de Rancagua mantiene prisión preventiva por robo de cobre en El Teniente",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2trU2c5UkpuSW1zeG5QMC1zSXd5LUFIOXEtXzRaRk9UMlRiNER6NzNnR1lIM2dtaUdhQXRrVld6RzhDdUI4TzRCMm9EMWdiblU0andoYlZUVUdhbmdvWENRbGtqVXJoWi1pVlk5R2xraWd0cVdWVnBUZzEyemJaemYtbU1zM1hoV19xajV1Y19nemp6MnBZOWxCaVFHS2FyZ2EyNk9uWmgwME9GNzd3?oc=5",
+     "fecha": "2026-11-20T17:16:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "Chile proyecta $111 mil millones en inversión minera liderada por litio hasta 2035",
+     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzV4LWQ5cHdzSnEzY3dVeHJiM0lHbWNvQUZydUFmMG5vbW9rTVFvWjhQaHlWY1lzeU1CUnlPR0NZOEtnZWxvbWRqa3dpMEhkYl9LTnFMTURNN2NNcE5FSWJ1R0JqQUZxU2JHWGxSZHVLc2M3ZHc5OU14UC1SWk5lRnFkTXhzZVYyakc3VVh0bHRmRUVVdFRZaWwyRFQ3dXVsMF9EdjZlaUtDeHowZkE?oc=5",
+     "fecha": "2026-11-20T16:39:00Z",
+     "medio": "Reporte Minero"
+    },
     {
      "titulo": "¿Sube o baja la luz en tu comuna en enero 2027? Revisa las nuevas tarifas y quiénes pagarán más",
      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSS1DX2lfNVJCMEM2X1Njdjk1VjlKalZNdzhRYVBKMDRUNTdabjFYeEtpT3hiQWtpNndhcHFfVDJLWDFnTkpiNldkTHpIWjI4SE02eXJQUXFkWTdpdzZkRWdJYWQyWWNaSzhvTVU0cDJlMWtpTEFQT1RaQ1otTExyanhyc2l0dzVTdTFSV0tKdHkwNHctTHVEUDBQQUp0S2I1Z2FDbkVTeWU4Q0doaEE?oc=5",
@@ -297,18 +309,6 @@
      "titulo": "Collective descubre oro y plata en desmonte del proyecto Apollo en Colombia",
      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVdCR2NNc0lxQ1FSZDVBT3BOVTZJZDJ2NUJVYXdfTkhQRHd5LXVZbWlEOW9UdEJJX18taHFjTEJjTzF3cWFjNVNVYXhaLUxXUTNZaUIxQmpHR0N3RTVZcFNrWlFISV9mcWJaa094ZVJpajRMam4waGMzekdUNDJxVzNDTUpfcEZuanU5WGpReTBuSm5raG5tWUZmc215SnUtRWFrVDN6ZWlIQQ?oc=5",
      "fecha": "2026-11-20T00:15:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "Satellite Miner monitorea cambios en Salar del Hombre Muerto con datos abiertos de NASA",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2RpVU9idUlKR1ptM0VWMWlIOXJOMUxMLVNfdm5GTHJaZF9Xdkk0M2lDcUFkZERiQlpGd2xoSFJDTFhqN3NobDNEd0hYalRobkVtRkswZWJiLUdWRWQ4eklTdlRPUUprWkIwbUVna01GS1l3OGVIVGRlYWExZnJyZXBQN1JYdmlYdU9mWmNPbFgzQ1VYX2NWZmJ6VXE2YUcyUEdXMzNld2VxZndaUEtB?oc=5",
-     "fecha": "2026-11-19T17:51:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "Especialistas chilenos presentan experiencias en seguridad de relaves en congresos internacionales",
-     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVmsySlJ5QjRlSFU1dS1LSlRob3pyZ0hDYTBXNUNYY0tCWGZjbnVkUlVEbllCdWVOb0JVZWZQdmRBZHQ1WmhLd1czMFJkM25QQWViU3o0MUlhMjhjaEZrOGpnRkRUOVVSU3dLcHNsb3RIQS1YanNXUTU5Y002MkNORWtEaGtZUDhYR2RhYXVfVFJ5Wm5aYWJuWXl0Ti1qbWZta0xoMmdaMGlCNF92a1dnakktN1Vvd3NYYWt3dw?oc=5",
-     "fecha": "2026-11-19T17:26:00Z",
      "medio": "Reporte Minero"
     }
    ]
