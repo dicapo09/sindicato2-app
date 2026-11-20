@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T23:25:58Z",
+ "actualizado": "2026-11-20T01:51:42Z",
  "fuentes": [
   {
    "clave": "forestal",
@@ -90,10 +90,10 @@
      "medio": "Infinita"
     },
     {
-     "titulo": "Incendios forestales en Chile: cuando lo previsible se vuelve mortal",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzhET1Bkd1NfVS1rOWgzUWNvRzJRWFVNX1RzWjFKNkxiVmNiR1ZuQ0IwbC02TUsyM2daTFFldDNhNXQxWFlzYng0eXBxTnMycHlad0lLb3RmalVtR19wMXRSRkhjdGJ5aVlvVXI4TW1LcVp0R1R4UUk4SWJkNVFFNmNudWtIU2xmN2FEWTJSN0RqWDFzOUZMcmNUMG9zaHVLWWZxalk3RFQ?oc=5",
-     "fecha": "2026-01-19T08:00:00Z",
-     "medio": "- CIPER Chile"
+     "titulo": "La Xunta analiza con profesionales del sector forestal de Galicia, Chile, Uruguay y Portugal mejoras para combatir la plaga del pino",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWUyS3IyQ1NBT0paY2VVS3FPR2R6WHVqbDRiejF2ZVdhY2daclhrVnBlZWp5di0zTGtVVnR1ekVBekpjTzBrME9oRGZfWnFYX19rUEtQR2JSTHdfSTJMZUx6alJmNWhJbWxCaVVoTnE5b1VfNUtaNmpYSFFOQ08wOV91YXYtM1lrNmg4ei15M0JEbzU3YzNjSzJPQXVOWGJDNmlaTGRMNGVFdThnSW5VckY3V0swc2JaeTd3WXlGVjN6Z3d3b0N3YkRCeDhsTUxPOVlF?oc=5",
+     "fecha": "2025-10-29T07:00:00Z",
+     "medio": "Xunta de Galicia"
     }
    ]
   },
@@ -240,6 +240,12 @@
      "medio": "Conaf"
     },
     {
+     "titulo": "Fiscalización en La Araucanía confirma alta efectividad en reforestación de araucarias bajo normativa internacional",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTXd0T0QwekdQOWU1OXBXa3dWU3NHTXAzUkZ5MGwtemdOdmNsZVY2dXhQVjRHM3lGNlh3b1RFcWxrMWZJYVo1N1Bja0FnQml4WHI3SkV6NkVPMEtoV0hicDBjMnJtVUdoeTJwT3J2Qi10elN3aXFlQ2V2S09mY3ZfdzRoQi1GdXRpc3pQMTNwdHhwam1IOFdydXVxVGhOeU9tLVdVdFNkYVdzU3NJWjFFTFgyT2ZWS1g2Nm5yaE5ncHAwS19oSTlDenRvcHRScHAyeGpF?oc=5",
+     "fecha": "2026-05-09T07:00:00Z",
+     "medio": "Conaf"
+    },
+    {
      "titulo": "Inédito rescate busca salvar especie en peligro crítico en La Araucanía",
      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzZ0U2YyYy1JX2MxX1VIV0FFT2F5UU0yUHpQRVJrTkVUWm5WX2tDLUxtSkgyNDE3YUdWdjAtbUtDZDdPUVJjMzFuT05kTmN2djZlY2MtWXQ4Z0x5ZUpoN2o4WTFMZ1pRZkJ5Q1UxU3hRbTNjMlNmWHdDcl9VRG4zdXk3N3FMTnVYS2RwemlDRTZpRnFTbUx4cA?oc=5",
      "fecha": "2026-04-21T07:00:00Z",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdWxwOG9WdGRVNnVHWGdKcmpfVjgwdTFaTERoa0ZoeWpCOHFpSS1Dc05sQ0NmekYyOUFFZkR1YmxKWFBvRWxPNmR1RkhtN0ZrRjVtT0hZN0RuelYtZHJ3Z01xMXoyZzFzTlJCMll1WVdrekFQeE5NbVlXcXVOSlJnS0FtaGJwc3VSbzAycmRKNEY?oc=5",
      "fecha": "2025-10-25T07:00:00Z",
      "medio": "Conaf"
-    },
-    {
-     "titulo": "CONAF La Araucanía lideró comisión técnica de prevención y mitigación de incendios forestales",
-     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGVBNS1MaDhYeHlxZVhDTkV6TXVvN1k2WGRYMTRKZWY0WDdlRjE1WndWYmZ0Z2Q5MHJ1SVVyaXBEcUZqN0ZVOU8zUUVCSnJTZndNZnNuTnNYSkR0MF9WTmdCSTVEN1lpVGVkS09kbmVzOVREaWdmMmtjcGFWYTFpd3NzdzVENTY4d0dVeTNqZkNTWVpqdk5McVZMSllMOFNmbF9hVDNySzMwbkVwTFg0eFZsV1B4UQ?oc=5",
-     "fecha": "2025-10-13T07:00:00Z",
-     "medio": "Conaf"
     }
    ]
   },
@@ -293,24 +293,6 @@
    "clave": "sindical",
    "nombre": "Mundo sindical",
    "items": [
-    {
-     "titulo": "La Inspección de Traballo reconoce deficiencias de seguridad en las bases de los bomberos forestales gallegos",
-     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSUl4bU83WGwtcUlwaWZZTWp6Xy1PV2hWdkh4MU9SN0pSR2J6Vm5Ub3Q0VGVDdzh6WmtqaFVOX0d4c0dtVDBYSnFDb28xLXFmNTN0UFpKSkppVTU0cEx4MVRxWHh4OTNSb2VLOFRmcE1iQzdIemFvbjV5bVB2YWg1SjlHRWFibWx0TzMyZGVUZWp2cUphRGVXbGdBdU85OGtXR21PMWtiS0JsSTg2TXI3d21McUVaaFczS1lhd21DT2V5czRwaGVkdnd6dlJJOWMxa09ESjk0SGdSRGRGbEJ0SG82Y3ZzLTl4ZktwVWxtbkNLV0nSAY8CQVVfeXFMUHAtelhYMzBlOXVJdVFHdnA4UE02dlFtcEtPNWVqcUpnakFSZlZYcm9uZlNPMGdvbkI3MjJtYlEyMDhFV1piR3R0OEIza25ramkzdHJvUVlPYUlNeENHMERpZEhqcTBYMm81aVNxRVFiQVBzRTZKeEpnSndMU3MzcXJxTDIybjYxdkNIT0swejE5QUNweUJPRjBzakNsUjFVaDc1OWxXbWlmeTItTDVZb2lYUWM0ekJvdk1qb25obUdUUFNQSWhrNUpUTkZkVi0zM1NSMnJYWk95c2lWbGxIVmJZcEJobTl5N0xla3gwa1FWeVRhaUtQRUtmNFdPTXc1X18yb0lUN3pOSFl1N2hlaw?oc=5",
-     "fecha": "2026-11-18T12:42:50Z",
-     "medio": "La Voz de Galicia"
-    },
-    {
-     "titulo": "Condenan a presidio perpetuo a ex militar por los homicidios de 17 campesinos en la llamada matanza de Chihuío",
-     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOanhSYmRkMkZmcFFxM2ltRWo1Z1NTbjI1aWlxTWtmUkNUZGtlNS1maVgtTkZTR1JPUVY3M0V6TklUSkF2ZVZnMnFCQU1xZjQ1TDA1dTV0TWRvOUtqbXV1dG5iNzJOejBKaXFQbXo4a2JNUnFCRi1QM2RHTjQ5Q1dsdVhNWlN3UGxCYllfZUJSR2xGLTZJdWMzeVdQY2NnNjZGaFJlVUF3Z21GM0RKc0t6bVpVSGZ6dVliQWt5NmpoQjhDQmRCRkZBZHh3?oc=5",
-     "fecha": "2026-11-17T13:27:58Z",
-     "medio": "El Siglo"
-    },
-    {
-     "titulo": "Los detalles del fallo que condenó a cadena perpetua a ex oficial del Ejército por la masacre de Chihuío",
-     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZmxmcG1hWU8tM3NFSXpXTlVJU1oybE9OUmczekNQb0xIblBfWjd3MDJobFg0bnRNblNZaEFrOHJrVlZfdU5kaFVVYU5odmJBTl9ZRmJMTktrSUVjQUc1dk5TZjRNLXpOUlRud3JYMGdPOEQ4SFRvUGN3b1pYaUdHLUpQTmhGRHJ6NmQtaG1yMzBOWkdURmpIRF9FV1JTcllSZmNmQkttaDdsa004bjNxbHR6ZE5MMUY5X29YYVkzOVZtbUxpa21fNlFMYUViSllTai1qWkZPRXYzUQ?oc=5",
-     "fecha": "2026-11-14T17:36:26Z",
-     "medio": "Crónica Digital"
-    },
     {
      "titulo": "Saluda Sindicato Agropecuario, Forestal y Tabacalero el Primero de Mayo",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeUk0elZIeGtoUXdPeHJ6VlVqOWNGWTk2aWxPUmNEUWZLWTIwZ0hrUVMybzZLUHp0MG90eTBtSWs1NC1ZUzdKWjJmTjNUQTJCWjdvZ0pjSXVmQk40dExVTVNfdlk0UERjem16SUNrc2pyZm0tblRaSF9MLTBMd2FDS2prdU82ZUVEVGpiR1A3YlhPTHJSbmd2eWxsd0FDcnFjZEdBQkNDN3FRMTVHZUhQQjNndDVPWWloc0pzR1dyU0xRSGZUSk9vbC1mM1NLdkxjZ0ZR?oc=5",
@@ -322,6 +304,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQczRnN0RWZURzdmljQ0dWNTBaY2huc0dLQm1pdHlYeTc2QTN1cUJUV0x2S0MyeXpCMGJ1b2N1Sk5zVkxGX3JqU0JJbi1CbE1RcmFDVEdvcmVwOWZWUjNheE4taU5Xa2dPUzZhNlpBaHFmeXZLX0h4YlNEcVQ0WDNPRVZkRVRtZnV1dkpFczg0ZTFWUDRaLXUtUVhKSXQzeDdZc0JuU3M0T2puUTZBUU4tLUNGcFV4dTjSAbwBQVVfeXFMTkNNbDM4cVo0YW94Rzh2UWg3VGRVV1kyR3d4RmJuajVONjU5b0RGdVpUVDBwS2QxM0lmQllSTTdiUzV6R29udURyY2VOS3YydjY2dG10YmhRaDMyR2ZCWXk3TGpWMExiSlVFa1NZdXhGY0o3QjV3TklxWEZtUjZmT21FbmxGYVdSVXpHeEN2RzFNY3VaVFJmRGlWVGR6azZfTWUwSXBURWw2ejRyY2lMSXNxUUN0blNPUzhUREM?oc=5",
      "fecha": "2026-11-10T20:27:13Z",
      "medio": "El Correo"
+    },
+    {
+     "titulo": "Núcleo Productivo Forestal Maderero avanza en una agenda de formación técnica para el sector",
+     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYVJDQUdkYVNkQlVNQ3ZOYTctSkhvNUcxMHduVjBoRTlMUm1PVUQyNHhyeWtqNXBsZ3kwckZmbF8tXzNaNlV4dks3TjQ2Ry0xUm9RUkFpaXlkQWdnQm53SFZrdlNwWFhfUHNmc0laX3JkUWhvMzVIUUo4akE1T2ZLekQ5a2ZFdUkxSWtPc21IOU4wdWc2dWEyTkNJRHdkemVDUXdfYmZRWWdsbHZFbXVPZ0JJaUR2MjhWZVV1a18zUF9GbFdsazZ1TGE0NEtNTnVVdldQOHRGUFNCMHNLcy1tT3JRR1Y?oc=5",
+     "fecha": "2026-10-27T07:00:00Z",
+     "medio": "GUB.UY"
     },
     {
      "titulo": "CCOO alza la voz tras la muerte del trabajador forestal entre Fasgar y Salientes",
@@ -354,6 +342,12 @@
      "medio": "Aragón Hoy"
     },
     {
+     "titulo": "Ex trabajadores de CONAF despedidos por probidad no podrán",
+     "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSFlKbjhfMmtuMjRwdG5RRktGMDJ2ajQ0TWlZR3hHQnBNN2g4OTE2Ym9WZG0wQXBVSUw3VHZCV1Z0VDZWeUJlMXgzVnByeUtsdk5fZzY5eXU4YVh6WFI4TjBkcGVRNng0aTVOVUt0RWpKSnhmR3ZuUC12ZzQ4M052TkFSRUpHbDY0T1lneWctMHI5WXlDYkRxRmI0ZlZQRWpWeFpFUVc2dFhVWFVXUHZaUklOcjE2eUdkZVRSWlh3SXVfNm01dUh3TTh3emZqNEN6bzFlUlAyWUZOUDhYaFMxekJCZ2RkOU5tb2RlUnJ6MUZhME9rbHIweHJMUTk?oc=5",
+     "fecha": "2026-07-13T07:00:00Z",
+     "medio": "Diario Constitucional"
+    },
+    {
      "titulo": "El Sindicato de Agentes Forestales de UGT expresa su pesar por las víctimas del incendio de Los Gallardos",
      "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWWhnYnJvdDBZa0g2MlVuWVNlLWtNMURkTGdpakZNcDNPQ25NbWQtai15YmdKQkNQWHNPRTBqUmpGMjFEbkhmdTBfU3BHSFFrUVdiUGdyOXFsNG5fbWFseDRwNVpJU0tZUlh2V2E2RUVabVM5ZlZ2YmJQbGE0VV9kYWlabVpGUkJpUFBPTl9mSUg0dlg4QUFiallEMlMtMjJ5NUNkRnoxcHRhdGFWdWJEZm10VlJtVC13bm53d05iZy1pVS0xM08xSldkck0xTm9FZGxoMFRTaEVNNlJhMGNQZEh3Skd0a2g0QjJSYmJQNmZWbUdFQ2Y5VGRuWnhKQWRiZVhadXFxWlhLMTdOeXp4SnZHeHl1c2FsdHo2aml4MTBLMjY2S0NN?oc=5",
      "fecha": "2026-07-10T07:00:00Z",
@@ -376,6 +370,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjRodnpac0FfbXllb3gxdkN3WDI0T1ZiZjUwNWZUdlA1VUZ3ZUlBeGJzYl96VWwtaldFQ2l2U0dLMkFSYi1XYUM2eldJb0Z2NlIybHU4djJKalFtTE1aUlprSDh2ZGNaYU5BdWxLcXYxbmxQZnY1WEtLQTFMQm54TUtEQWhQaUpfMGV4ODZZeHVFV0RSZlk4a3JLaVlwRGF0WmZHd1BXcWNHcUlYU2R3?oc=5",
      "fecha": "2025-11-18T08:00:00Z",
      "medio": "Portal PIT-CNT"
+    },
+    {
+     "titulo": "Coeficientes reductores de jubilación también para agentes forestales",
+     "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXpkNTJTNEstS0c2WGZnb2Mzam5JMEdmU3ZFbzA2LXROQXhudnF4c0FMM0gyOTF1Um1Wb0wzbWY1MEFHRzlMc3dyVlM1TUJNT05OMlByR1hVb0h0akxPOWFxSC1NV2c4TFNPWkVWa1hHakF5LXFobnBjMW1IOGRIVFF6NnhCMlZjUWxab0lOZ1Y0LUE?oc=5",
+     "fecha": "2025-10-20T07:00:00Z",
+     "medio": "Sindicato USO"
     },
     {
      "titulo": "Los bomberos forestales ya tienen derecho a jubilación anticipada con coeficientes reductores",
@@ -404,7 +404,7 @@
     {
      "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnRROW8yVWJ4aktfWDNWZ0tnQU4zalpndTV1a2tBYnR0SHlWOWZPWDJwVThRVHA3NmdOT3VKMzY0c0gzLUxuNTIwcTRLLWR4RUU2MkxfYlN1Y3UxdVZ6SWVGRy1sa0w1WF9JUDBoS1V3eFdGLXN4OXlFQ3dJUTNsZk9OV3V5cmpSZDN0SkhoRmI0Z0xGUkpnaV9XN2MybGg4MzNtUnBrQm51RmpwMk1JM01pYUNJUkFqOXc?oc=5",
-     "fecha": "2026-11-19T19:16:15Z",
+     "fecha": "2026-11-19T19:21:59Z",
      "medio": "El Observatodo"
     },
     {
@@ -474,9 +474,9 @@
      "medio": "Dirección del Trabajo"
     },
     {
-     "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
-     "fecha": "2025-04-25T07:00:00Z",
+     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
+     "fecha": "2025-01-15T17:57:43Z",
      "medio": "Dirección del Trabajo"
     }
    ]

@@ -1,10 +1,28 @@
 {
- "actualizado": "2026-11-19T23:26:07Z",
+ "actualizado": "2026-11-20T01:51:48Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
+    {
+     "titulo": "EXPOSOFO 2026 abrió sus puertas en Temuco con más de mil agricultores y el tradicional Concurso Ganadero",
+     "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PbmxDUFpkdHZXQkNFMmJYb0VJZE9GTGJTWEZFT2hrMi1oY3Z0Y0pNN2k4YzVtWlJHTThJTm5pY005YzFTQ3pPdzN0V1BiVkxMQWlEaVJpenJjYnc1OERkZU4wVXMzOXNPRDRSQ01ZbFE1QlM4?oc=5",
+     "fecha": "2026-11-20T00:42:55Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Presupuesto 2027: alcalde de Pirque alerta por recortes de INDAP que afectarían a 120 mil agricultores",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOS2UxZVdZcTc5WTRRMHpMN3JJTVBFNnNIMEFZOWpkaW4zMmFBbThtWktZQ0tWOWRYNzFiaEtEakxGaDVOTV9xT2FVVXdkYmNGUVZELXRvR3AzdHpocXU1SHViZkthaVNtempkcFctZFVvRDdJYmtMc1ZYUzNJYnV1ckZtdnVQc21uNWZXNXFKM0F6Y3o1S2kwQ2psVU1IUnFTZjcydVpHUklCZTktU3ZQZjdYMEpIdDkyY3JCR29zM0RkZXhUc3VNV1dPWE11aGFWRjZjVzJmSFJYY1F3QTVIbThSRDBwMk9mVHdWY182akx0Zzg?oc=5",
+     "fecha": "2026-11-20T00:09:53Z",
+     "medio": "Radio Agricultura"
+    },
+    {
+     "titulo": "Embalses de riego alcanzan 91,8% de su capacidad y mejoran las perspectivas hídricas para la agricultura",
+     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZDVfN0U1X2tkUUtOVkp2TGpnSm9JX1lzUWF0ODk2bkhiS19PM01zTmN4cjNKeFFaRV8zOUtIQVlxcjFpNk1hd3hidnpqVm50aGZ6bWtrLUxHRGVtWnhpN1FKcVhSQ0tLRHVfaHdzNkFpbDNJaDctOXJNQ3BTdVQ0X1diNmVMbllIaFJ2UVNxQU1zeXZ0ekw0MENyYlpZYkE3SWRnWEdNWnFxZVN0YmNfX1NaSV96Mkp1TEtvVVE2U3pCT0I1X0JNU0xHLWIwNE5QaHRUcFhrZkVFSXlsRVE?oc=5",
+     "fecha": "2026-11-19T21:53:45Z",
+     "medio": "Portal Agro Chile"
+    },
     {
      "titulo": "Ministro (S) de Agricultura aborda dichos de ministro Campos sobre fruta que no se exportaría en verano",
      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb3hIeGdFbV80M0hkWWt2R1RvN0JHaTJRQmlqTnpKZ2dvM25fa1RYV0c4YzFZWEcwQmVJRDYzODh3UFNNeHdTWGFjV3lGOEZwSkZpRGVFN0xhaGRsTkpNd1lFT0lMU2ZJblpXZnY2THQxMWgxQzRKTXhXMFZNSG4yRlFEQ2pfTW1UUUxTSjB1TzJPckFIUFRzbjlaaGNhV3pYbk9FNjJ6UUQ3dDdBeDlzRFFmZWdEMVM4TzkxNHNneXlYTy1SV21iN0lieWRQa2Jqb1p2Y2VIVExxRUVKOElJZ3oxNDM?oc=5",
@@ -76,24 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR2hWejFidjZ2ZWZxZlFZeERhOFUtRlQtRXl6Q3lBcjNrTWtzaTZ1cTFjV05XSmNWSWVBY1V4QU5qazdFOXRhY2xYNzdzRU1xdnJIeVVmeHgtMUhNYUFGSHViQ2RXSFdTTEhfdHlwa1Z6Z0twcjFoMnFpY056LXpQb2Jjck13YWNGdnRoX1JyYi1WLVRRSnQ4OGhTdHdESXFESUl1elJfX0VqTnFqZVo1Z2xaOGFEOG90Z1FzYUV4M1VDN0tkT2hMdlM5VlRWdVRkdnk4RWpB?oc=5",
      "fecha": "2026-11-19T00:25:20Z",
      "medio": "hora de noticias"
-    },
-    {
-     "titulo": "Ministro (s) de Agricultura aborda recuperación del sector forestal en ExpoCorma 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWs2cFpIdkRIR0NPeUtzRmdQMVpIbXZoY2ZucG5vMzRGMFJiWk4wSzV6YkFFUnBrQVNQa1gtUWRzQnl4QjlNblNnaHJvVmNmN0xOMDBiQVdhaUhIcU9jTWZOdGxKcDR0VUlxaHItOVBISHhwY1dNdDhsS29XVWltNExCaEo2emUyWldEWTg3aUlHdzQ0X1o3M2hsVE02SmZKVkQyV0J3NElPRGotdEF1WnFHa0tnbEJubGtXN1d5a1hwMk02?oc=5",
-     "fecha": "2026-11-18T21:23:02Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Cerezas: la principal fruta de exportación de Chile enfrenta su primer ajuste estructural, advierte el nuevo Agro Barómetro de APA",
-     "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObXpqb0NicHBiUmZiUjZoZWQyUGZRMm9jQXhVbGRtU2ZsNjlaQzZkTFRPRmwxSW9QeWo1T00xM2xfUndENTdqU0xQejNKMk1rWV9tVHJHMTR3Q1ZzNE15MFA1ZUhIZ3dGSlFJWGpYVDB5aXlTazBLazdiMDdaenlzbm9QWllsQWRkMHpJc0lKSjd2VmFCb3V0WXI3WjJiY01Ga3c0dHdxR09tRzE3eFlxZTZhaGhGbTVXQjUzcUMtQVZHenc4QXlQMkh2Z0hnZktnNUpSRW9fbW1rQ2hZWDcwUDJtUV9hRWZramsxX2lFQzNWZlFoeC1xNmIxVjVwMTho?oc=5",
-     "fecha": "2026-11-18T21:18:13Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Chile se posiciona como el mayor consumidor per cápita de palta Hass del mundo con 9,5 kilos al año",
-     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTldPTDRtWlp0OTZCb1RCajVsWjNJSC14eC0xeHZsYjY0V1lHY0N5MktFMDdWcE5BR1U3TXlYYVFEVktUa1Q0YWY0b3hMRXlnd0g5ZXJXaXVKUmMxX2JLUUV6NlFFTGFybkpCQnhlbHI5OWhGWEFBTXdIMExYdUoyRFpaV3gzdng3NW9ZS3lCcmdmLXQzbXEtZUZUUzZRQTdSN0tvYXF4RlZZMlBzbkhQOHNEc09RN01iNjYyc2d3aGRnZjlXV1h1WDRUTGpuSldTY2RNeWRiSGU?oc=5",
-     "fecha": "2026-11-18T21:15:05Z",
-     "medio": "Portal Agro Chile"
     }
    ]
   },
@@ -101,6 +101,30 @@
    "clave": "araucania",
    "nombre": "Agro en La Araucanía",
    "items": [
+    {
+     "titulo": "Vinos, cervezas y licores artesanales de La Araucanía mostrarán su identidad en EXPOSOFO 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZnd6SmlyOUhFUThwN09ucVBIMVJOZEhRQmVTVmZ6X3Fsa0hQLVBNb1VUT3ZlR0FfT0ZrQTd1cGE0LTBSSldDTDZVM21jLUhrbXQxdWNuOFA5TG9fMGxDdVhoc0tZbk9ZWkFTemRmekNmX2xOMG5FRDNlb24zTmNSa3MtZGVwS3c?oc=5",
+     "fecha": "2026-11-20T00:58:15Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Expo Mundo Rural reunirá a 50 emprendimientos campesinos de La Araucanía en Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmFBbGh3bEtIMmVVODBUTFlwWTVNWlktbldQOWNPZ2hSS3h0R1M2ODN1cEN6TVdsT0dSMGx6blh5a2Y5a2ptT1ZiSExObE1IaVBib0ZwN2VOdmRNTzE5RVhodlhUOE1xZk1BSGVJOE11U2dQelAwLVNkWTdNNlJFcg?oc=5",
+     "fecha": "2026-11-20T00:48:31Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "EXPOSOFO 2026 abrió sus puertas en Temuco con más de mil agricultores y el tradicional Concurso Ganadero",
+     "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PbmxDUFpkdHZXQkNFMmJYb0VJZE9GTGJTWEZFT2hrMi1oY3Z0Y0pNN2k4YzVtWlJHTThJTm5pY005YzFTQ3pPdzN0V1BiVkxMQWlEaVJpenJjYnc1OERkZU4wVXMzOXNPRDRSQ01ZbFE1QlM4?oc=5",
+     "fecha": "2026-11-20T00:42:55Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Inicia la EXPOSOFO 2026 en La Araucanía: se esperan más de 30 mil visitantes en sus cuatro jornadas",
+     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNG5LQ3J2T2pQWWNIMkxab1psd1o4UDBVZmZpdUtiUVozb0Y1SExKMFVUUS04Vk9Ka3V1N0t1QmdVQVNsb21XbnI1UFlYT25jbzRCUmpMQlY5SmlfSVZNMTVSQlVzS3ExR1dZY1RBbUttOFJNSFl2ckN2ZmsyQm03TVBta3BCYTlWV2g3ZnROMWpsdGVQVWJVeW80UUpWU2Z3VVZqN0FYREstMEVEMG45YU1zVEFESjc2ZXN1RHhvbkdGTTZXQXRSZWZuTTNqa1pOSlJ0YXdxblQ?oc=5",
+     "fecha": "2026-11-19T18:54:40Z",
+     "medio": "Atacama Noticias"
+    },
     {
      "titulo": "ExpoSofo 2026 comenzó en Temuco con cerca de 1.200 agricultores y proyecta recibir 30 mil visitantes",
      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRUZWYUJuLTFtZUI1YXhnMHlwTFlJOXMzTUdFd3A4alNDOTE3eVdIVVRLSjhJTWZPVFVvMGhUbWlhT1hHWk02RllqR25xRXBUS1p5MVRITlhJMDRGN3BzamhWbUhXWl9vT0ltY2llb0JaZXlTRU9DRUZNSVcyVkVhcE1tZjBkOUI2djhCeUQyNnBEU3ZBMXJJWFF3dE1IX0ZaQTZmTnl4ZllCNWRqMHQxU1pZRlZnbWRwOFp2bGJVakZPMTVu?oc=5",
@@ -138,8 +162,8 @@
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
-     "titulo": "BECKER EXIGE ANTICIPAR LOS TRABAJOS CONTRA INCENDIOS FORESTALES Y PIDE CLARIDAD SOBRE RECURSOS PARA LA ARAUCANÍA",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV2lwVVhKX3I5bnlxZlhTVDBkbzlkcVFaVXdibVVaV3lMOS1GVjhRM0QtRFNHNV9NZU0yZjlFQ3hpd2hKNG52c083aml1aUllZ0dic0U3V0sxYWYxYW1PbFZrSXdCd3BjWFlOemhZalBSa1lFdTcweVVUZkZRVUhod3NTNmh3VlhTMzFuTzhydGpIX0FVN2FlVktxTDVvZmNsMXBJVkwtSDNLZHNSYVZGRHFMenVHaHJfcWNJMmowRmhnN3BFbTFJVXgxWmV4R0pDcWNqUmdQdFllOEYzMFpvdXl3dFZOdjcxcnl0MEhB?oc=5",
+     "titulo": "SENADOR BECKER EXIGE ANTICIPAR TRABAJOS CONTRA INCENDIOS FORESTALES Y PIDE CLARIDAD SOBRE RECURSOS EN LA ARAUCANÍA",
+     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNajJuZzkxdU9XQWJqb1ZQRnB5YWd4NExGX2QtNHNyOFJ2TUtmVUxkMzF0bTBta09uRzBBbmtzR0h0bThlYnI3bTlZUGdkOHpBTXFLYXVIdloydVhLUHpzb094cTVuTU1qRGJNaTlQTjJ6MnB4OFE4Z2duVFlkRGpBMVJRQWpOYWV6cTFlX3VET3hOR3VucklVanBaMGV0TExiczRtSzV6ejB4bmtnWVEtVjZjVmxsZVlPYVhudENVY09uUFIxczlnXy1YNTZfaWhiZTJCRVVIM01Sc0ZUdWtIY09xbW4zODB2aWxpbzVzOUY?oc=5",
      "fecha": "2026-11-18T00:02:57Z",
      "medio": "Araucanía Noticias Temuco"
     },
@@ -166,30 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeGMxTWZGV3hrM1d1cEo3dFpHWGN5dExZXzkyN2t0em9zRF9ldlZVWjhyV01kcnk0cXZ4QTFKaklBWEFtUS0yNHpGdGY4Z2N1Zi15LVFqb2dHY2NFeEdwVG5fb2x3TWZjdmpYWU9UajU0UmFaNTlQV2xEMkxkdXBweXBDc2NtX3RLRkRoQVNPY3lxU1lRZ1picFFCaGhvbVdDNmVBRHZWbzRzWGtvS1Zxc3ZlSGxNcmd6UmtFdGh3?oc=5",
      "fecha": "2026-11-17T00:50:17Z",
      "medio": "Araucanía Noticias Temuco"
-    },
-    {
-     "titulo": "Productores de cuatro países recorrieron La Araucanía en busca de locaciones para películas y series",
-     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSTBadkJzR3lLa0g3bEJTVnpZanpqSXFpLW1NRlEtMWdwOVM1Nk5Xc2NYNG5EWjJHLWtheEdHUnlUbWREb0I1bFl3RUlKMDVnOHUxQS1HT2xqRjJOSE5HMTRUSUl3TFRKM1FTTDY0TW1NNVBscWtBcEJXSzV3bHhJdFB5VWJHQUozVmFnZnhaNUJEd0tLRTNfaGxEOUEtZjZzdE12Yll4MWJNQ2NrQzJWTFhyTFQ4V3RUOVowNWNlaXZoSDVSeHpKc0hqYkY0dkRZd2JaeFBWWXFpM1pJd214VGdadndRQQ?oc=5",
-     "fecha": "2026-11-16T19:28:41Z",
-     "medio": "Radio Agricultura"
-    },
-    {
-     "titulo": "Productores de castañas de Malleco reciben asesoría tecnológica para mejorar la calidad de sus cosechas",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1Q1aGdwWGtiaVN0RVdhODFCTjJaZTJ4RmUzOHA1N3ZaQmlONTh2TzFrR2lDX0hKZGlFMFd1b0t5cDRfLWFLSGRWM2hpeWV4bUFLX3VfYWhaNHNJd0tYUDZVZnFKMVNuaG1RNmVrM2Y2NHdoY0E5Z2VIUlR0Z01rYnlyUHI?oc=5",
-     "fecha": "2026-11-16T13:24:37Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Cerca de 5 mil niños de La Araucanía tienen pendiente la vacuna contra el sarampión",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTXg3bzRxN2pjbWMzYTNoTDBZbnYxR1VwZlRob1RBTDZQOVFuQ19KM285SWR6YXhqeHhTbkNsUzQyaGxQa0hnQVR3OFl0U29SYVFXNjBTSlk5T1pLMmpkdHVTeGVVVVZvcWxGWmVhSWtGSjRkbU41RTIzaERiRWx6VVQ4YzVzQzg3djFQYXhoZVd6SE1JVDJTeHFuVFg3Y0JkQVB1VjM3WnVpZV8tV2paZlN4U0JlNWxMX0JhMVBjZlA2MjlnZUFfeDJPTQ?oc=5",
-     "fecha": "2026-11-14T21:44:18Z",
-     "medio": "Radio Agricultura"
-    },
-    {
-     "titulo": "Senador Becker alerta por impacto del paro de camioneros en las exportaciones de fruta de La Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTVZcXRPTzUzZmNIR01nZDNQY3dIM21kSlQyQ2dFdVVkcnAtRktsZlpLSk1hWnRibTlkQndVLWRNVkRwYS1jSmFwUnlxVktJclNrVTkwR0xlWnJWYnQydTlaZDhPNWxXT0FFemwyazY3UUFuN0R1STExWFQydUNDNTFuTHI?oc=5",
-     "fecha": "2026-11-12T13:39:14Z",
-     "medio": "Alerta Noticias Temuco.cl"
     }
    ]
   },
@@ -270,6 +270,12 @@
      "medio": "Canal 13"
     },
     {
+     "titulo": "Temporada de cerezas en Chile proyecta generar hasta 600 mil empleos temporales",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0lfeVpyczFEcDcwWEdyQmZjZFZFOUQ4MUVsOTQ5YV80UFhkcTQxVmItMXpzR2xzX3JyM01PZFRQSm9qZUZpNGg2UlkyaFZRb0ctMzgzUWRRMng3Wnk0UDJlS3h3WVBWd3cya21EMEczVHNnN29Pcmh6Q2VpQXNPXzA4SlhJVGE1bExsQkZtdjVxNmhsME9mcTY5SV9tMzhnYmhzX3gycUEwcmlOc3N0M1VUbW14c2tnV3hTckpwOA?oc=5",
+     "fecha": "2025-09-26T07:00:00Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
      "titulo": "Una propuesta para formalizar la situación migratoria de los trabajadores agrícolas agita la campaña presidencial en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRVU1VW1rQnVwd3J0MVpJTUZpYTBWZ1o1SnNyR2tPQldSYzhzLXkzalNIS3pSVDZEc216S3pVRHVvUnMtZlZrYjhEUndTS3AxUk95RDlhWDdoTHlyZG9ZczBMWjYtdENzLVZUOVZiX1Nfc1NvZ183Y3d3VGs0TThsZTdlWjhfM1UxSXBqenZibnF4S3BxbGk2aVhxeE4tclRlN1VUdGhuMzBuN1BKT2xJQ3VIb1VVdFAxMG55MnlQeFhBUzJaSGhPVlhWZ0ZVbW9sZEN2ekY4NEZfbHRqNmU4anI2Y2NDRUNndkhLVmVaTmhTcElFYXfSAYoCQVVfeXFMUG1kZUxDOXNRc0F3dmk1UXdHdlVqdUZDUXhNcmptMjhVN1JuenNuT1JaTWJkRFVpWWdaOUdCOEpOQUIxZEV4b0dWS1kydEszdjQtWmVFaWdfZGJ1U1BicHMwaWRXQ3ZXNklFT0QwOVZpbEctMUlOdDh0N3pXSXZWY2FJUDRhVGtYX0RDUGNUUm1ZaDJuU2dYSkNDUDJJQ3Rxa1hjMGl1SDZwb0RQZEJkRWtOQ01wS1lIcWlldHhCTjVmeC12VjlXUnptMUFmd19QdEo2S2VoTExTZUFJTTVvM2JoYnVDaThQWG9FQ080bXA1dEFLaUhoMWdJUUtSdzFtMUJkWGVPZ1RtNmc?oc=5",
      "fecha": "2025-09-25T07:00:00Z",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPendFWW1sRTNmdEhYaS1YazhYR083V2dlMEwzZ1FRN3Zza180ZnhTVGlTTmpPcWFxd2xHNHJrMU9wOEp0LWpzMGc4UVd2WjZrWncyNVV2NkgzU1BJS0JTRnpzb2VkcU81c2FVUGQ5Z3RtS05kWnA5OUJ6eHRBel9UWHBhb01rNnhQQmE1OFJuT3puSDJ6RDgzUmlscVhFN3JDd1HSAcMBQVVfeXFMT01ybm1aSFN3QVVvWTVwcjlmMmVzU1hPM2k3SVZGWmlid0E2N0JsX1BXRVdqZ2J0MDd4cFM2dnNQenc3ZEc5eXlSb0NqNWpWR29ZVzlCNTVxcDU0SFRkcmxWVlRpaHFUcDhuaU9XNUdBRUdvMnVKdFhSRU1UV002Q2Z4amsydU1Yd0JTMGRZMklMX2hKY3RydzVLTk0yb3ZDc2JOa0NaRVE5WmZvbGhqWDdjeENyTGRnRGlfX3FkT2lra0hF?oc=5",
      "fecha": "2025-07-28T07:00:00Z",
      "medio": "La Tercera"
-    },
-    {
-     "titulo": "Empleo temporal: Española Eurofirms elige a Chile para su hub regional",
-     "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52eTktcElFV3J5VU02WXNaOXlidE5JdEFKX0NBRGxtcnI5S2hxNjBCODA3NUN5UXV5dXhKX2VpTThQelZ1VzU5T0otSlk2dmotdXpHMUJDU21YcW52eUM2UFpma3BiS1FBZlVGUVdXc9IBckFVX3lxTE9mbEZidHdrTUstd2ZxMUxhOGM1WHpPbVhudDdSdndBZi1NQUdLQjRMVE9aNmNSRVNDVFhNaFZpaU5qcUJvMFlKWmZFZWdTcFpta2J3by0xMV9YUzBiblk2WlVzdUxDUzJhSWVsR09BVUhEdw?oc=5",
-     "fecha": "2024-10-22T07:00:00Z",
-     "medio": "InvestChile Blog"
     }
    ]
   },
@@ -295,7 +295,7 @@
    "items": [
     {
      "titulo": "El Sindicato Agrícola de Constantí celebra la tradicional comida del socio con una amplia participación",
-     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeXg3WWJQendQUnFGVUhoTXBLVi0wUWJOcEExSjhTZURkVGxsYS1DVWluTXpJRjdJcmpDTkxScGQtT21tMGFCNXFQbUNFRzdQY2IzOHJ3X1diWWtCSUx1THlZbEc3TXkzazNZN2VRbWdQbjJCNHdPZnRDSjdkWHA2QUpEMXo2UFV3VnRIbExkQm0tQUlvd3ZwaU4xSTBnOU5UZ1JIUEVTdktsMFdmcTRTSDQxVGhtbEd6REdpeldrYTRrNU1LYjczYS1YdnQtWHJPWEFPbnQxS1J6M3ItVDlR0gHkAUFVX3lxTE8xcXJjQ3Y2XzNsYVYxc29QWWN6SGtHcFhjVFkzeTZ5ckRyX0REdUl6X1NacFRoX28xUUdDOUZqY2RibUhCcERsb2xzTC1lRmExZkFDcW1FTHo0eWUyM19FX3FVMDdZVXdZTGU5bEZ4cWZucV9sN1RhN0RZR0tJRlVVVjJKU0pyQVY3QzJ4dFdGMUxVWHRfb3daLVMyQ1g1X09wdXJCc012N2xEemtoaG41UjVzUks3VWFRM2hzdlFlemdqRmV0QmJSbmE3TTRBUWRQWEtPWXFmUDJJMUZQRFpYSEJEYQ?oc=5",
+     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMXFyY0N2Nl8zbGFWMXNvUFljekhrR3BYY1RZM3k2eXJEcl9ERHVJel9TWnBUaF9vMVFHQzlGamNkYm1IQnBEbG9sc0wtZUZhMWZBQ3FtRUx6NHllMjNfRV9xVTA3WVV3WUxlOWxGeHFmbnFfbDdUYTdEWUdLSUZVVVYySlNKckFWN0MyeHRXRjFMVVh0X293Wi1TMkNYNV9PcHVyQnNNdjdsRHpraGhuNVI1c1JLN1VhUTNoc3ZRZXpnakZldEJiUm5hN000QVFkUFhLT1lxZlAySTFGUERaWEhCRGHSAeQBQVVfeXFMTzFxcmNDdjZfM2xhVjFzb1BZY3pIa0dwWGNUWTN5NnlyRHJfRER1SXpfU1pwVGhfbzFRR0M5RmpjZGJtSEJwRGxvbHNMLWVGYTFmQUNxbUVMejR5ZTIzX0VfcVUwN1lVd1lMZTlsRnhxZm5xX2w3VGE3RFlHS0lGVVVWMkpTSnJBVjdDMnh0V0YxTFVYdF9vd1otUzJDWDVfT3B1ckJzTXY3bER6a2hobjVSNXNSSzdVYVEzaHN2UWV6Z2pGZXRCYlJuYTdNNEFRZFBYS09ZcWZQMkkxRlBEWlhIQkRh?oc=5",
      "fecha": "2026-11-08T08:00:00Z",
      "medio": "La Ciutat"
     },
@@ -404,7 +404,7 @@
     {
      "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnRROW8yVWJ4aktfWDNWZ0tnQU4zalpndTV1a2tBYnR0SHlWOWZPWDJwVThRVHA3NmdOT3VKMzY0c0gzLUxuNTIwcTRLLWR4RUU2MkxfYlN1Y3UxdVZ6SWVGRy1sa0w1WF9JUDBoS1V3eFdGLXN4OXlFQ3dJUTNsZk9OV3V5cmpSZDN0SkhoRmI0Z0xGUkpnaV9XN2MybGg4MzNtUnBrQm51RmpwMk1JM01pYUNJUkFqOXc?oc=5",
-     "fecha": "2026-11-19T19:16:15Z",
+     "fecha": "2026-11-19T19:21:59Z",
      "medio": "El Observatodo"
     },
     {
@@ -474,9 +474,9 @@
      "medio": "Dirección del Trabajo"
     },
     {
-     "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
-     "fecha": "2025-04-25T07:00:00Z",
+     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
+     "fecha": "2025-01-15T17:57:43Z",
      "medio": "Dirección del Trabajo"
     }
    ]

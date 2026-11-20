@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T23:26:03Z",
+ "actualizado": "2026-11-20T01:51:45Z",
  "fuentes": [
   {
    "clave": "salud",
@@ -60,6 +60,12 @@
      "medio": "Ministerio de Salud de Chile"
     },
     {
+     "titulo": "Ministerio de Salud instruye el uso obligatorio de mascarillas en los servicios de urgencia públicos y privados desde el 1 de abril",
+     "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObVlLcW9EUUptRFkxUTd2QUlBUUl3SVlrcVVqdGNtaEp0djFPdlR2MmZ1Q09uQkVGdFktZnFiRmJvNE1ubXVEUEpweWp5cWd1YVFNUFVIZHJhWUh6eFdfOE5UQ1BqS2hpeEcwWWRlMzQxM2cxUFYxTUZjbFdBZHZ2UXZRNlpncXpHdFVSU3FWamt2bXhZdXE1LXNlYw?oc=5",
+     "fecha": "2026-03-25T07:00:00Z",
+     "medio": "Ministerio de Salud de Chile"
+    },
+    {
      "titulo": "ISP confirma detección de mosquito Aedes Aegypti en aeropuerto de Santiago y autoridades de salud mantienen medidas de vigilancia",
      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXk3ZmN0RkdlWXNEWEZoT3c2RlJSeFNkNUJHNEcxV1F2UkJZc3oxaW5xQldoNUhlb3dYV2JETEcxS1JqODMxeHVJZEV0XzZvWGxGVVBzUk1mYWFjOFRud1ZMRFVMME9tNFdHQjBjZTlGd29QUkVQSzZzY2RoTjF0U3VET3l1Um5tcWNka1ZsY0NhZUVEYUlWYTZEbWhkUXNsVkJqOFp5blpHSVNMWUY2V2lfWVJBQkRNUmN2TDhBTW01WXBobDl1M2xn?oc=5",
      "fecha": "2026-01-29T08:00:00Z",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT21DcU52Mll1UXB5Vk1uZWliSVhPRW94Z0g2aTJnbGRPeU9SLWNkNXdYVzVFMGlQcUx4ekNDWjlFR1Roc1RUMHpac0kxZDJ6a3NLRjVzWkZzRzlRWXBPR2g2X2kxbVAwR0k5WlFSTE1yRUJQdTEtZ2UtRzFITHNHeG0zYXFhZU5qcU9QUm9hc0RSWWJkcXNQZXdJbUh6bFJXY3VxZlpMWDM2TnQtakhaaGdidFpNTzBQZEU1dUN2WGVvdmhnaU5EQQ?oc=5",
      "fecha": "2025-10-01T07:00:00Z",
      "medio": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación"
-    },
-    {
-     "titulo": "El mal crónico de las listas de espera",
-     "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SUzY5ODQ2d2RnSjdNRF9wckE4dlVrWnZObTZSZTd1NUlTSGt6bkgxdzlMZXdqbGtTQVgwVXBTdnoyOGg4alRRTnctZ1FvYlRHNGRGSlFxWGR2RlpGOWx0VDhUdHlFck1ESW5EbnlEZVNmMC1l?oc=5",
-     "fecha": "2025-06-25T07:00:00Z",
-     "medio": "Pontificia Universidad Católica de Chile"
     }
    ]
   },
@@ -186,9 +186,9 @@
      "medio": "anef chile"
     },
     {
-     "titulo": "ANEF Los Ríos participa en coordinación de movilización del 18 de noviembre",
-     "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVJIWHY0ZkRUOG1qVU5XX0Vfd3FuUVlJMEVyb0xOVFluZHkxclN4OFlRUU9kSWg4bnV0bEthNUFwUGdqY09tMGhWRGdoU3ZlLTNoRHBadHhCMHpZTmZXR2ZNRU1wRy1hU1pCY2VzdDk3SkpyOS1BLUc2RFRiSE5idzBhV2pEM1BDVlA4Tm9scmtXdldDd2FB?oc=5",
-     "fecha": "2026-11-17T15:43:21Z",
+     "titulo": "Se realiza la primera reunión de la negociación entre la Mesa del Sector Público y el gobierno: Trabajadores solicitan un reajuste nominal de 6,3%",
+     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0xJd0VJVFhhQTFTMk5NLTkyUHFyaU1odHdqQmI4emMtMXRMUmhKNm1hdzBVSC05dVNGdEN4eWNaTHZCRHZVV1dhZmNrU1puRjJnajBtT19vaHpPNjRBY2lwbnp3M3E5UGVoUTFCRmlIMDd0bXMtRGllU2JHamQtQS1tdFF0YW9zejNORW9oUVUwQ3hHRFlOSmFGQXA4dw?oc=5",
+     "fecha": "2026-11-17T14:40:37Z",
      "medio": "anef chile"
     }
    ]
@@ -278,7 +278,7 @@
     {
      "titulo": "Funcionarios públicos y directivos empresariales capturados por presunto fraude con el IVA",
      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHZSdmxwMnJ2d2E0RWUxdzh5N1pyNzRNTjJsVGhTU0M0WkpVWm9BT3BjdVcwcmpZTHhobEJlSzZPZDdqXzctZHBoUlBRd29ERXlCTENUQVJGREtlQURZbEw0Z1ZxYzFaWGRxUWtETWxac19ycm9ER0g3YlZsSFpSZkNGR3JCSnZXLUVPNUxCeVJ4MVBHN2xGU0piM3ZHTTFwMlBGQ05Dbjd2THlWQXktWDVmYUdxd0FwUlZJWnFRQ1dFRTQ?oc=5",
-     "fecha": "2026-11-18T19:01:26Z",
+     "fecha": "2026-11-18T17:40:26Z",
      "medio": "Análisis Urbano"
     },
     {
@@ -293,12 +293,6 @@
    "clave": "araucania",
    "nombre": "Salud en La Araucanía",
    "items": [
-    {
-     "titulo": "Trekking interescolar fortalece la participación juvenil y abre espacios de diálogo sobre salud mental en Villarrica",
-     "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMUVHY3c2T1BWXzM0bWFOYXFOalo0dUE3WmxqQ1cwVE5vS0ZYRVBWUTkzV0hLQk1SQmtzZm5fOTEzaUVabkpHRURBUE54VGVpQ2FmSG9peWU3ZF9TWjRrdUFIMHEyQXE1WnBxRlgyTXlLbllxQkVfbjM2V2xCZDhUNFNaRlIwcmJablh1eE9nZw?oc=5",
-     "fecha": "2026-11-18T14:45:36Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
     {
      "titulo": "Asaltan por tercera vez en una semana Cesfam El Carmen en Temuco",
      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMC01ZjVJMW1tZE5ham9VaEtGbTJheVNqRHJIb1VpSkxLMWhMdVJ1ODJObm5selY0RDJ0aHV3YlBvSklOTTFwVjl1RTBvV1l1Q0cxZ2ZUWVBrTkl6cHJFS3Uyenp0X2ZIUENzVFVVQmdkRWdvU3V4aEl5d2xNZ2RXSndYU0JsTlRONENwM1BHSjlha2hmQ1JQaHFWR0Rvb3p6WXRfcEpVUEVtNktFR292UTY0b1d4azhhZFRUMTh3bDF0VGFsZ09tSEd5QzB2aFlFdFkwUXZkZkRfekdoTXdVamdvQQ?oc=5",
@@ -381,6 +375,12 @@
      "titulo": "Temuco avanza en salud: firman convenio para construir nuevo CESFAM Villa Alegre",
      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWpfa1pkeld6emF0TnpIOEVyN014aERNWHItRk1zS0c4d3pjcG90clNPZHJ4MDZnUVNlZzVVQ1pRd2o5WlZBQUpNNjZtTDFNa0FVeXNvSy14VXFtQ1Y2UTh6Nnp0QUVqVHF2Vk9KYkFPQ0xrdGtUaWo2dnlQWF9aYmJLRHRmSnIxd29iNWxRUnRoZTB1QmlZdWttLUZvS0cxZGNLcQ?oc=5",
      "fecha": "2025-04-24T07:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    },
+    {
+     "titulo": "Alcalde Roberto Neira confirmó evaluación para instalar en Cesfam de Temuco para reforzar la seguridad",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXNBb1pGVlRhbjZtSWhELVNwaXktOGlxZmJGWnJKSGNob1YtS2k3ZTdQLVVMQ1dSNG1NNGQ5R2o1Nl9OWGExSVJiQzRmVFRPQWdnQWVzRW1zRlhTdEVxRmVvSUxZdkhFVktVWVA5cjNvQ1RlbmxIeUwtSzVXMzNubEE1eXhvU25tQnZxckZQWjZ0NHkwOFhfZG5OSjNNajdlbXpCbjk2aS1iM3J2aG9nYmJfVGcydTFqeHN2R1p0UmJudTQ?oc=5",
+     "fecha": "2025-03-18T07:00:00Z",
      "medio": "Municipalidad de Temuco"
     }
    ]
