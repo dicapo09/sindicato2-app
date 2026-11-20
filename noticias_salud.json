@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T17:35:50Z",
+ "actualizado": "2026-11-20T19:39:39Z",
  "fuentes": [
   {
    "clave": "salud",
@@ -150,12 +150,6 @@
      "medio": "anef chile"
     },
     {
-     "titulo": "ANEF Tarapacá realiza jornada de capacitación y sensibilización sobre la violencia contra las mujeres",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVhmbDZRZXVxWU5Ga0pFeTFMSVA5eVlWTmFtYTRya3E4clFSRDlXcU5GcTcwak5MbEVmSmMxU2tsMmRaTXg0Uk5QUzBPOEgwbGRPWTdVdTlwMnVZVm9WX2Rwb0IxazFIcGtMc1ktbFdqQjhCZVN6ZFFxUmRpT0pLZllXUmcyV3pXS3JSRHFrR0czTnQxZk9CdHNleTJ3RXZiVkw5REJIZzBzLUhKdlJobnBpdVNkSEJYdlE?oc=5",
-     "fecha": "2026-11-19T14:18:38Z",
-     "medio": "anef chile"
-    },
-    {
      "titulo": "Marcha de CUT y Anef contra el presupuesto para 2027 termina con detenidos en Temuco",
      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTG5WLTg4Qm45NHhYWHhKLTRyMnVfR21zOGZycVc1aW53QWZyRHp2M2JqR09uNmU0MzhucVJNaDkxeWhOUkFpc1lnSHZhakRHamNMNm02c2JmWllqT1lubEViMUZOeHFHUHdpOUtUem1nOXFGRXZxWXo2ZnFQWDFKU1I2YVFMMTJ6dGpheFZ1OC1aNTZLeFE?oc=5",
      "fecha": "2026-11-19T01:00:46Z",
@@ -189,6 +183,12 @@
      "titulo": "ANEF Los Lagos adhiere a movilización nacional de la CONFECH y sostiene reunión con el Seremi de Educación en defensa de la educación pública",
      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd3p0dUl2dy04TEM0STU4a2FXU0pXOWFyT1B0Mko4TnR0X0hkTG5yN2U1UkQ1dExkYXFKd291b3Nmc2R5d0FCVk9Sc3JmNHkzaEJmLWhCWG9PdWRObnNMTVdzYmpMX01IS0RIcTRDZ2s1SU9uN0lOZnNTejNIVkxqVUtzX3VRejBNWjF4NkEwb214N2F1ekwydGViVFh3bnhqRDJmNkJSdWpkRGdKaU1scTROZDl4OFNuaDJqb2k4aUVtLVh3N25uOHFsR0hsekVwYVJ4LVpOZll2cjliVW1DbGhZaElBUWxRdlFXejNyUQ?oc=5",
      "fecha": "2026-11-17T15:58:02Z",
+     "medio": "anef chile"
+    },
+    {
+     "titulo": "Se realiza la primera reunión de la negociación entre la Mesa del Sector Público y el gobierno: Trabajadores solicitan un reajuste nominal de 6,3%",
+     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0xJd0VJVFhhQTFTMk5NLTkyUHFyaU1odHdqQmI4emMtMXRMUmhKNm1hdzBVSC05dVNGdEN4eWNaTHZCRHZVV1dhZmNrU1puRjJnajBtT19vaHpPNjRBY2lwbnp3M3E5UGVoUTFCRmlIMDd0bXMtRGllU2JHamQtQS1tdFF0YW9zejNORW9oUVUwQ3hHRFlOSmFGQXA4dw?oc=5",
+     "fecha": "2026-11-17T14:40:37Z",
      "medio": "anef chile"
     }
    ]
@@ -240,6 +240,12 @@
      "medio": "Teletrece"
     },
     {
+     "titulo": "Miguel Treviño: “Los funcionarios públicos deben curar la ciudad aunque duela” | Republicast Ep.87",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVkpJSVZYWkNEeThQNWJkVThtQ1BwY2ladnlZOHRvMU1WZUJrSnNpMU1iM01FZEQtaVM4WjI4VVlKMVVGM1M2Q0I1bFA4cHBfTVZWTDlFWGdyYWZ1YWNhb280YmRBSV9DQUZQWktNS2lpMGt1N2FMR3BkTTJFVUNEV2c3eHdQTVZwZHBaV3ZfOW5CN0E3c25wZkVoZW9WTWZfdHkxVXJjUmZmcElkNnhQREJVWDIxZnYwS0cyVzBPV1JERTNhYldtMw?oc=5",
+     "fecha": "2026-11-19T21:51:42Z",
+     "medio": "republica.com"
+    },
+    {
      "titulo": "Capturan en Sosúa a ciudadano ruso buscado por presuntos sobornos a funcionarios públicos en su país",
      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUzBmSnVHZDdyTER3cDZ1WjlqYUhzbFdQUnZTVm4tYjFGbUF6WHI2YWc0RWhqVERGQ2dKUE9VaWt1a3RFXzRZS2Q3QW9VQjk4NVBCY0dNRURDWWd3NmNzRGNfd1J6ZmdyYTJvRF9meFJNZFBvb005bEQzWXU2Y3IzZ2wtRExUZERZb1k4Qm9ydTk1VzNOMUJETko0bTlvTldWWGRmZnd6aXVZbkJ2aXFZc0ZtTmUwQWdiZGs0SUhqSW1TUmZDNl8zaw?oc=5",
      "fecha": "2026-11-19T20:38:08Z",
@@ -258,16 +264,16 @@
      "medio": "Radio Revelación FM"
     },
     {
+     "titulo": "Fiscalía, Contraloría y Consejo de Defensa del Estado realizaron taller de probidad para funcionarios públicos",
+     "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XeVh1ZEFmcU9JbUlvZk5ndENGVlUzZW9CTVpHVGhNWmZORXpMQjFYSUNBYXNQMlNhcUxtMUVraWR3TmVYZmFDOWFuTFhKZw?oc=5",
+     "fecha": "2026-11-19T18:42:27Z",
+     "medio": "Radio Revelación FM"
+    },
+    {
      "titulo": "Funcionarios públicos protestan en Puerto Montt: alertan por despidos y recortes presupuestarios",
      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUWdfRXFSS3dCUXpVcFRuWjRHbC1QSjNDNGkxNnV1ZEtRX3cyaUdMdGUyckFONEl4UG5sck5EQlYyNEpnalJ2VmxjbkNvdTF3dVNKaDlSZzl3ZEY4c1d6WlFZdUg2MHRzX3VmanhfYzFhN0tqQkxUZWJSazJpdG1iQmhRMDNma2ktYmJNaGdHelFuZERjTlNoR1docHR1NUE4VzEzRF9UWFNNM2hfcGJFemF5TURUc1NkM1VJYzlzcjZmZzY2elUzSVhnZjJJRk1lSzJsRktRQmFyb0FYUnFXeFdEb19CYVAwak82ZW5B?oc=5",
      "fecha": "2026-11-19T16:11:00Z",
      "medio": "Diario De Puerto Montt"
-    },
-    {
-     "titulo": "Fiscalía, Contraloría y Consejo de Defensa del Estado realizaron taller de probidad para funcionarios públicos",
-     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWY0QWR6NDhPUjdMbWlZUHZIa1BGQXEyXzdnaUVEX3ZyNWZZQ1JsTjVJeHkwenN4MGVReC1sTmJBcHNudVdRZnBOaE9kMzZHNUhKQTMxZVgyNHVmbFJMbkdZRzduTDZnMXVJQS1rX0FMS1FxMzI0NURwWmRjTm14bTJGNXlJYUgwa2xOd3RnZE5YSFBDZGR5d3BQMUtJb0ZfRlU2VEhuYjcyNnVSWHpqVnZIdUdjM05XQ2ladndHMzlSUms?oc=5",
-     "fecha": "2026-11-19T14:10:07Z",
-     "medio": "Fiscalía de Chile"
     },
     {
      "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZW1lLWpTbGVtNWNZVXVWRGVNY1JsR1J6R2R1QllBZ3RScnFkbFNFWG5KZkpjY2lRWDliUldnNEdHT2k4OC04UEtuUjVhV1BfUXBPcnU0Z1NGSGJDRjVGVndMelAxa25tOHRuelAwT1ZLT3dIOTY0ZzJPRWZKcHhNRVh4SlBiUFRSMUNYUmNMUGt5WHpLeVU5aDRkSGlCemc3UVJGQ09BTnZSYUpVMG1DXzF3RTN4cFJZd0gwWWJGQjladw?oc=5",
      "fecha": "2026-11-19T01:13:00Z",
      "medio": "24horas"
-    },
-    {
-     "titulo": "Contraloría detecta a 315 funcionarios públicos con condenas vigentes por crímenes o simples delitos",
-     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbExXa0hwV0w4OFZSZjByMm5ydFJ1RVNRb0VMY3EyZjNQWmZsaUNwRXVFa3ZlR1U4UlN1QkNjX25VdVFaWGl3WHRoMVRxVWNoRS1zdFYwSjJWWGVWQ09vZFJwbzlMRTR6WXc5Y3U2REhrakNzUkxEMXVXRENFUWxxRWZhdTJSb2RNTGQzbVFrUnFITzJJOFdYeWFRV0dMZldDcDBGZWtIbkMwWDAwa3hpSFdRbGFOTi1qNmNBRHcwSjdxcXJQ?oc=5",
-     "fecha": "2026-11-18T21:01:27Z",
-     "medio": "UCV radio"
     }
    ]
   },
@@ -372,15 +372,15 @@
      "medio": "Teletrece"
     },
     {
-     "titulo": "Corte Suprema confirma ausencia de responsabilidad del Cesfam de Temuco en fallecimiento de paciente",
-     "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLXhTVXBLV3pQY0NJbU5VcU5yWUFMbmVfdG5MTi16LWt6SFJIZExlQ1o4enZEbjdpS1lQb2hJUTZ2d09YdEF6OHVZWF9ySTI0OUhOVU83MlJhczQzWmJ3bjdXZnlQVWk4N2Q1SDBQSi1nX0NTMFhSLWNyUTIyVHFzT3hmRHIwMzktSmtZUjlMd2hDYlQ0ci0ySlRhX1JheGp2Tk1GX2pRVHEteXpBc1pzbF8yY0VMTkZUX2hpemtTbGdjdkVjUmNCSU41eWZHZDBZ?oc=5",
-     "fecha": "2025-09-08T17:08:27Z",
-     "medio": "home.doe.cl"
-    },
-    {
      "titulo": "Municipalidad de Temuco y Servicio de Salud Araucanía Sur forman alianza para construir el nuevo Centro Comunitario Pudeto – Municipalidad de Temuco",
      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd0NqTTl3Wnk1emo3YUNxY1JmSE9qb3lfZjBtaXNKYk5DMlF5WEVwZ1I2ckhYY0N2WGM2TVFjYkpnVHJ0QjBKbHVIV2x1cElaUTN6MjJyQnF3MG9aTWEwRjdOXzZVYkl3NmFNS0djM2x6R0hMVFFHTG5UOEh2cEtSUGxQb3VFUFQxcmNQX0xKS1Rnd0p2cTN2R3EtQlhSZUdKcFk2eFpDT21Zc1I4YzhQanJ4d1hGaExMYWJfNy1yNEdDSWM3TjVFdEVmMXBwOHVZOUFFOEtZV3FaRlFTWkE?oc=5",
      "fecha": "2025-06-26T07:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    },
+    {
+     "titulo": "Temuco avanza en salud: firman convenio para construir nuevo CESFAM Villa Alegre",
+     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWpfa1pkeld6emF0TnpIOEVyN014aERNWHItRk1zS0c4d3pjcG90clNPZHJ4MDZnUVNlZzVVQ1pRd2o5WlZBQUpNNjZtTDFNa0FVeXNvSy14VXFtQ1Y2UTh6Nnp0QUVqVHF2Vk9KYkFPQ0xrdGtUaWo2dnlQWF9aYmJLRHRmSnIxd29iNWxRUnRoZTB1QmlZdWttLUZvS0cxZGNLcQ?oc=5",
+     "fecha": "2025-04-24T07:00:00Z",
      "medio": "Municipalidad de Temuco"
     }
    ]

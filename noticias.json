@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T17:35:35Z",
+ "actualizado": "2026-11-20T19:39:25Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -46,6 +46,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0phM0diTjdxVEFRQXBQZFBGZl9HZjE0TllDQWlrOURKWFhRYjBEdlBaTnJXa081azJzdm1YSy1IMVhhY3RBQ0lfZnJKVkFFUi1FNjM0LTVIekpja0xJeXd3d1UzaFUxcEs5LWE5cHdZOFpOX19pSEtScUhXa2xaSUhPd0Roa3h5Tmg0N2lTZUhaUm9TUUtRc3NyQ1FxNEdDY203NE80SUM4RzlLaWxsaF93?oc=5",
      "fecha": "2025-05-12T07:00:00Z",
      "medio": "Fundación Terram"
+    },
+    {
+     "titulo": "Aysén: SMA formula 4 cargos graves contra la empresa Sociedad Minera Pacífico del Sur SpA titular de la minera El Toqui",
+     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONkdGeXU4X0NiaEV0Vm1TbGRrRG1fOWx3TmtQeWkxcVlUQzB4RWtybnlUc1RKbVhHUmR3STc5V0E5Q3FGN0QtT2tOdUZjQkZxSGZyLVBNZ19jN3prU2IzOUR6c3N3NDY3N1EwX1JCbnE2bXQ4SkFjbXpBbE9xUUJWbTlKYnlLN3gySVp0aWRoY2xGTWwzVVQ3NDZ3TWlVRTJCa21HMjNMek9ZdXFaZ2Nyc3FFSkw3ZnNua3NTanVDRW14eENTdXNaVjYyT2hjcWhUd2ZrX3VxNUN5cWJkVlhTSnFtVzViZDBIbDJv?oc=5",
+     "fecha": "2023-12-15T08:00:00Z",
+     "medio": "Superintendencia Del Medio Ambiente"
     },
     {
      "titulo": "Seremi Minería Aysén coordinó convenio colaborativo entre minera Pacífico del Sur y liceo Mañihuales",
@@ -138,15 +144,15 @@
      "medio": "Portal Minero"
     },
     {
-     "titulo": "Codelco proyecta continuidad de Gabriela Mistral hasta 2055 con inversión de US$868 millones",
-     "enlace": "https://www.portalminero.com/codelco-proyecta-continuidad-de-gabriela-mistral-hasta-2055-con-inversion-de-us868-millones",
-     "fecha": "2026-11-19T00:00:00Z",
+     "titulo": "Especialistas chilenos llevan experiencias en seguridad y gestión de relaves a congresos internacionales",
+     "enlace": "https://www.portalminero.com/especialistas-chilenos-llevan-experiencias-en-seguridad-y-gestion-de-relaves-a-congresos-internacionales",
+     "fecha": "2026-11-20T00:00:00Z",
      "medio": "Portal Minero"
     },
     {
-     "titulo": "Desarrollo País reúne a 21 empresas para analizar alternativas de suministro energético en Antofagasta",
-     "enlace": "https://www.portalminero.com/desarrollo-pais-reune-a-21-empresas-para-analizar-alternativas-de-suministro-energetico-en-antofagasta",
-     "fecha": "2026-11-19T00:00:00Z",
+     "titulo": "Ensayar antes de que sea en serio",
+     "enlace": "https://www.portalminero.com/ensayar-antes-de-que-sea-en-serio",
+     "fecha": "2026-11-20T00:00:00Z",
      "medio": "Portal Minero"
     }
    ]
@@ -222,6 +228,18 @@
    "nombre": "Reporte Minero",
    "items": [
     {
+     "titulo": "GORE recibe 27 buses eléctricos en Antofagasta bajo programa de modernización del transporte",
+     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3YxTk1UQW8tWU1rMWdnOVhhR2xhRVo3S1VTSHBjd1JObGlrNTRRWTNCMURPaWRvWXByN09hUENWT0RuYTQ3TTdxZDJOcWl2VHlDbVZsT0l3eXZSZGx5UzE1d1BDcHNZOHM0VVU2a0dqazN3MjNJeHk4OWtfMlNUbEkxQTNLLVpvN3ZWc3dVRUQzZkdxd1ZDV1hfbTJZTi02c281SlRPWFh4alE?oc=5",
+     "fecha": "2026-11-20T17:38:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "CMP incorpora 20 aprendices a operaciones mineras con formación de 12 meses",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWk02WlZKSERXM0dWZ3h4ODBadlVRTU8xYUg3ZnBQNEZjbmdNa09Xa0p6NjhsZTJUbGRMMmlDNlJpc0JxQkhWSlp0N2FzcHhxX29UamhMWDZoWVNQOWJ0bmVaYmpuZWYyUHhsRl9lZHdHWlFpdlVRWEtld0ViLWRLQ3cwZWZTRHJoSFVmX0JLbFZNeU9RdVA2Y2dYcnQ2UzllME9uTnFmWmh0OHJUdFJBdzhTb3Z3OG51X3c?oc=5",
+     "fecha": "2026-11-20T17:35:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
      "titulo": "Corte de Rancagua mantiene prisión preventiva por robo de cobre en El Teniente",
      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2trU2c5UkpuSW1zeG5QMC1zSXd5LUFIOXEtXzRaRk9UMlRiNER6NzNnR1lIM2dtaUdhQXRrVld6RzhDdUI4TzRCMm9EMWdiblU0andoYlZUVUdhbmdvWENRbGtqVXJoWi1pVlk5R2xraWd0cVdWVnBUZzEyemJaemYtbU1zM1hoV19xajV1Y19nemp6MnBZOWxCaVFHS2FyZ2EyNk9uWmgwME9GNzd3?oc=5",
      "fecha": "2026-11-20T17:16:00Z",
@@ -288,12 +306,6 @@
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "CPS abre primera planta de rodillos compuestos en Chile para minería",
-     "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2gwOElLcDhMRU9tWkF0V2tReXVvd1VXdE9mX2dObzFOTGdMOTFPYXgyVkxKd0w5a01mWTJ0aFdMMlB0RlY4THVBWW5QQlNzdEI3aGJGQU9ReDRuYlZuUzI3TkpqQnlyVzl0cml4UW1LQ1NveWpvU2pxb2swR2pTZTItY2JzOWJ1ODM1MWJrb3pPaE1WTlU0a21NSThNVG8?oc=5",
-     "fecha": "2026-11-20T00:27:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
      "titulo": "Codelco reduce prima de cobre a China para 2027 en busca de recuperar ventas",
      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFJURkdVd0VIajBzbVVTODE5cnEwV2RRazY1bllxUXdSNFZmNFhEUG03TlZvVThralFGY0d1NllGNlFIOG5OZDNFNDRuVU1RSEZ2WGZhOVlvZ3BNeEI0SmZxNTNZVjZLaXYwbk4tZW51MnF2TndBRnhRUjVnOGVET3ZXc3FIR29BdGlHZmo4SHNtdVNQOFFxamRjQzR1NFlUUE9qTEo4V1R4Qklt?oc=5",
      "fecha": "2026-11-20T00:23:00Z",
@@ -303,12 +315,6 @@
      "titulo": "Torex expande presencia en EE.UU. con cotización en NYSE y programa de recompra de acciones",
      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdVM0TVg2OU9PWlJwTWhlMl9vbm84R1RTejY4VDF3OER2bmM5aU1DTEw3XzhYOHZTektvZG0tei1XNy1RNnZQVWc2bkdkdU5NV1hnQmZuUG4tUWhrRXQ1T3prNzZZdTkzUGdTakZISm9hU0E4UjVqM3JjaGhya2Z1Z2NfS2xOTlJHVUQ4dURiTllWZURfeFNKeFREWnluQXFESVE?oc=5",
      "fecha": "2026-11-20T00:20:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "Collective descubre oro y plata en desmonte del proyecto Apollo en Colombia",
-     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVdCR2NNc0lxQ1FSZDVBT3BOVTZJZDJ2NUJVYXdfTkhQRHd5LXVZbWlEOW9UdEJJX18taHFjTEJjTzF3cWFjNVNVYXhaLUxXUTNZaUIxQmpHR0N3RTVZcFNrWlFISV9mcWJaa094ZVJpajRMam4waGMzekdUNDJxVzNDTUpfcEZuanU5WGpReTBuSm5raG5tWUZmc215SnUtRWFrVDN6ZWlIQQ?oc=5",
-     "fecha": "2026-11-20T00:15:00Z",
      "medio": "Reporte Minero"
     }
    ]
@@ -327,12 +333,6 @@
      "titulo": "Seremi de Minería de Aysén destaca nuevas medidas del Gobierno para fortalecer la seguridad minera",
      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPamJBc0ZLR2h4NG1WNHl1VTZ5Z0R3cGp4LUhvN1pMTUdJZkxvQmMzQ2owMUROMzB1ZVZMMTZjazBoamVHS1ZKZWtHSXNQdjJWM2ROb25WZDR5dWpNOFkyeC1xUHA4Q0Z1SW1KRVhEWUM4MFduZ01XMk9JWms5cjJHbzRNcEZfT0RoaVd6eUtaLTFfRHFvZmNaMTVCX2JTUkNTZ0pxOTdFWWd3YUtVV1BmcFNxdGFJZkxzUDBNaUtJY05yMkx3RnJYamwzc2w3MmfSAdcBQVVfeXFMT01XRlN0bmFGR1FzMko3djNURUs5SjlZY1UwNE1MZWlua1pxUW05Nnl4bzdEMjhRMjRvUk5fX2VCZTBNREpWMXo5b3o5b3pfWU5kcmpYVGNNX2lVSUFGak1ZQk02REUxM0dGMkRrc3NhMFJoY0ZpWTNDeGJKZ25UOGpjMlZHVkZaTGcteXZzUVhJM0xjN0xuS25PMXhRTlR3ZGUzQkNPWkV2RU5zcWpPRHVxSGp3NHFYTmJ2SnpteHpqY054UVJ2YmhhN1VpX3lNdFdzWFhQUG8?oc=5",
      "fecha": "2026-10-22T07:00:00Z",
-     "medio": "Radio Las Nieves"
-    },
-    {
-     "titulo": "Seguridad minera: un compromiso que se construye cada día Por José Luis Osorio, seremi de Minería de la Región de Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUEQxNG9XOTY0M3M1UFdzVndhNkVvY0k1ODYxZWthQ3FWTW4tWTRCNjZFZUNGTVF4N1pWblVXUXdyS3RZbXpqYlZDZmRLZlhteE5QMVVzVjAyelBSOFZ6cHZRMHVCYzBaaGR2RUo4dy1iSlRQMjRpUmp1dndzR0RLQnVrSnEzQV83UWNVRU1nQXBIOUdIN0l3bHVjWjNGVFRLSmE3Snc0NTdISnNCaWROVUxyYk9NWnpNMWtmbzBOanFac081TUNYZUtYS3VuVHl4OEJLajN4ckN5MEt3amtNb244ZUtyaXNR0gHwAUFVX3lxTFA4dWZ1c0lwOXJib2JJXzNPQ1VYQkRNS1dqeGtFckRFNGM2TUNSVFE5M0NnQjU5d1JIWlE5Z2lLUlVLemhUUUE1eWdVeWRIOHZFTjc5RHpFU1c3TDNyc3Fzc1dxQk5QeEt4MlRoalBZZnJ0WVdQRFNRcEZGSzI3VzZWZUh3QWp0Vmp0bWtLc2pkS0lLZnp4NEhSRXE3QUZ3OTU2RTF5R1dMZnV3ZjlLWGw1Y09temhyY09XbkMyWGZsNzNvUW1QeGFLcUEyM2NNM2l4T2RHNFRqU2ppamhnbFZhRFRqdmh4NC1NMWpwM1BteQ?oc=5",
-     "fecha": "2026-10-15T07:00:00Z",
      "medio": "Radio Las Nieves"
     },
     {
@@ -406,6 +406,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0phM0diTjdxVEFRQXBQZFBGZl9HZjE0TllDQWlrOURKWFhRYjBEdlBaTnJXa081azJzdm1YSy1IMVhhY3RBQ0lfZnJKVkFFUi1FNjM0LTVIekpja0xJeXd3d1UzaFUxcEs5LWE5cHdZOFpOX19pSEtScUhXa2xaSUhPd0Roa3h5Tmg0N2lTZUhaUm9TUUtRc3NyQ1FxNEdDY203NE80SUM4RzlLaWxsaF93?oc=5",
      "fecha": "2025-05-12T07:00:00Z",
      "medio": "Fundación Terram"
+    },
+    {
+     "titulo": "CODESA sobre fatal accidente en faena minera de Aysén: «No podemos seguir con actividades de altísimo impacto ambiental y precarización laboral» – Radio Revelación FM",
+     "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhd1Nidi1USlZqY2k5cndFVW9yaVRqVUQ5TTRVR2llUlZpclpmVDIxS3ctUk04VGtRQTBrSHJPMVN6QXI2SG5CUU0wRy15dw?oc=5",
+     "fecha": "2023-03-08T13:53:52Z",
+     "medio": "Radio Revelación FM"
     }
    ]
   },
