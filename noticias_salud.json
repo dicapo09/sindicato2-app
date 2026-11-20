@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T19:39:39Z",
+ "actualizado": "2026-11-20T21:27:01Z",
  "fuentes": [
   {
    "clave": "salud",
@@ -102,9 +102,15 @@
    "nombre": "Gremios de salud y públicos",
    "items": [
     {
+     "titulo": "ANEF Antofagasta advierte por recortes, despidos y precarización: «No nos pidan mesa de diálogo y tolerancia",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWFfNHpDQnd2YU5CalVJNXRMS0t1ejE5VDZmOWFxUnhqTzYzSGxpN3JTSXFJRVZBM0FtYVBZQU5hWHBEQnhsejJwQy1BRnBrS0p1WFVSZGZSRlNWR2dpNEVlSUFKSHRvWUFhcFJYbmt5QkRDNGRSV3F5T21uZVdvcWlLQi1jNmJkVXdtZ0x4SHZLU2VmN0prMlo0LW12WC1BQVNfX2ItNkhVenFlckpZTjNJbEdoQUNFVkxCdHhhbw?oc=5",
+     "fecha": "2026-11-20T20:21:37Z",
+     "medio": "anef chile"
+    },
+    {
      "titulo": "Confusam Chiloé advierte riesgos para la salud primaria por escaso reajuste",
      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmFUX3lCa3NtV1NkdG9yQlNzZ2I2cjMxbkI3NkJsWmp1cEZSeXdENkpFMzVnTkpzaV9OeUhtTTE4b3dtRFNRVFprTHBMRFYyN0xPcTZZNVJULS02ZHh3aGNJeU9QaFJRX0NKd01XS09XZDBES0xkbjc4T0Y5UEJ3Q1NJZXhSc2JSWERocnAtZVp0dXI5am90aElqVktEeVk4dFMtVjhpRGJNU0Z1?oc=5",
-     "fecha": "2026-11-20T14:00:28Z",
+     "fecha": "2026-11-20T14:00:40Z",
      "medio": "Periódico El Insular"
     },
     {
@@ -138,12 +144,6 @@
      "medio": "Fenpruss"
     },
     {
-     "titulo": "ANEF Ñuble exige condiciones dignas para funcionarios de Vialidad y rechaza amenazas de discriminación política",
-     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2poaDNXQU12WDZNOVlRRlRzUmdGWDFEQkV5QXEyWWNNOUViOEpyOHFoMUFvY2xzZHoxM1lvSGVWSXJidFlGQXB1RTg0dl94VWVTMWJXeHFFMHZaWXlndmp2Q3d4Uk5nR0N2MWFUcTA5cXBXTDllTjRVc29HR1BCZ3JGMXhKVXlLS21xem8tM0NzUmlESEc3T3BNWDktcFN1WmxlSU1pWllrRnZqZFlheVhNNzNnTTUyZU0xU05hbjE3VjFJLW00?oc=5",
-     "fecha": "2026-11-19T16:22:41Z",
-     "medio": "anef chile"
-    },
-    {
      "titulo": "ANEF Arica y Parinacota se moviliza junto a la CUT en marcha contra el recorte presupuestario",
      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHhOaEVxWmRDamZERE01d3BQVEpieFZ1X0F5NWU1OEltaFBPc0YyXzVRUFgzVlVBQzJ6emo4XzJsMDlVMml2SUQ1WC0wcV9mTm9Gb3k3SFRrTFFWMHpoTGNpSTBOTkhkZDRCM3FpUjlYVmdQRnFGRU1XMGZKVTRwN1lhdkdnM2hNRzZRTzlFNklrOTc0d0hLUGN2LW93OHlpX0VRY01FZndBRVIxcTRB?oc=5",
      "fecha": "2026-11-19T16:17:10Z",
@@ -174,22 +174,22 @@
      "medio": "Colegio de Profesores"
     },
     {
+     "titulo": "Anef y asociaciones acompañan asamblea de ANFUSEPU: funcionarios advierten riesgo de despidos masivos en servicio para el 30 de noviembre",
+     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQU80b2tHbnhXT3RRQmZ6U2xzT3Z0SWdxSDAzQVZOM1MyMEd3Z3hPQk4zVXVXcEQxS2dlM3BtVEtrRnNTZVJzbHJVQi1kT01Ka2pkaUl4QXQ2dVdMQ3hLV2hfeXNUVGxzQTYzdVFWUkc5WFZMSXVrb0g3bEFCS2hCdV9DLTNIN3BERGxGZ1pOMXdleklGTy13ak5BbDNWZUFlS2NBNnRjVWtfby1qeHNwZHI3UXJlb1NYTnRaVV90czNTV250MEZLcXZUUkF0bzhDcVZOdUExbDFTeXZDU1A2cHp2UGRiSjct?oc=5",
+     "fecha": "2026-11-18T13:29:48Z",
+     "medio": "anef chile"
+    },
+    {
+     "titulo": "Los campeones de la Olimpíada Anef Magallanes",
+     "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2laR1dXUWg4TnZyNzdha2xtTmpGbkxhOHk4TXhwcldHZGltdkJodkZWeE5FbW5LYkRiRnBvcXN6eEVBUFNLWlVYT2QtbzdhTzJtcnNhMEQtM0xfMjVSR2Q1LUQ3aGZoajZTcDZSMTZPUElFRzJxVWpodk9MNG54cjlCdjhXa2xmdDNwZg?oc=5",
+     "fecha": "2026-11-18T11:00:30Z",
+     "medio": "La Prensa Austral"
+    },
+    {
      "titulo": "Fenpruss abre diálogo en Hacienda por reajuste 2027 y exige proteger poder adquisitivo en salud",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSko4ZC1PQWFoX1VLV0VuZDJjdmswal9aSzRzR2FlZm5aQXVjdXZNbFRNRnc4YS1RWmpiY1hWS09aV3k3NXYteTVRZUxuSjl1NmdDS3NjWURvdVZINnY0dE1uRFhxcWZJbDNScDZ2c2k3QnZpV1poSEJtQk44NkVsRGtTWm96YVVBSWtvR3ZCbGJFWGVSLVNWaDFMekJqU21rdndCOTlwTWo5c2dtdG9udVFGZEVrb1ZzTG5QNkNFUkFGNEw4RlY5SWhyWQ?oc=5",
      "fecha": "2026-11-17T19:00:00Z",
      "medio": "El Desconcierto"
-    },
-    {
-     "titulo": "ANEF Los Lagos adhiere a movilización nacional de la CONFECH y sostiene reunión con el Seremi de Educación en defensa de la educación pública",
-     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd3p0dUl2dy04TEM0STU4a2FXU0pXOWFyT1B0Mko4TnR0X0hkTG5yN2U1UkQ1dExkYXFKd291b3Nmc2R5d0FCVk9Sc3JmNHkzaEJmLWhCWG9PdWRObnNMTVdzYmpMX01IS0RIcTRDZ2s1SU9uN0lOZnNTejNIVkxqVUtzX3VRejBNWjF4NkEwb214N2F1ekwydGViVFh3bnhqRDJmNkJSdWpkRGdKaU1scTROZDl4OFNuaDJqb2k4aUVtLVh3N25uOHFsR0hsekVwYVJ4LVpOZll2cjliVW1DbGhZaElBUWxRdlFXejNyUQ?oc=5",
-     "fecha": "2026-11-17T15:58:02Z",
-     "medio": "anef chile"
-    },
-    {
-     "titulo": "Se realiza la primera reunión de la negociación entre la Mesa del Sector Público y el gobierno: Trabajadores solicitan un reajuste nominal de 6,3%",
-     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0xJd0VJVFhhQTFTMk5NLTkyUHFyaU1odHdqQmI4emMtMXRMUmhKNm1hdzBVSC05dVNGdEN4eWNaTHZCRHZVV1dhZmNrU1puRjJnajBtT19vaHpPNjRBY2lwbnp3M3E5UGVoUTFCRmlIMDd0bXMtRGllU2JHamQtQS1tdFF0YW9zejNORW9oUVUwQ3hHRFlOSmFGQXA4dw?oc=5",
-     "fecha": "2026-11-17T14:40:37Z",
-     "medio": "anef chile"
     }
    ]
   },
@@ -294,12 +294,6 @@
    "nombre": "Salud en La Araucanía",
    "items": [
     {
-     "titulo": "Delincuentes han robado tres veces en menos de 10 días en un Cesfam de Temuco",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUHV3a2FlUnN2eHgtVWdaSktoejZpLXNfdE5GU1MxTk5UVTZWb00yclZLUHdhaENNWmF1YWg5Y29GcmpJUjJ5ZVE3TVVyV1Z1RXpuU0JOWGtyZUN2NVJyVzRNMFRkSDFLcVl5cExCSUhRSk9uSFJLLVdMQno1VDF4Z3VlZGdqSEdlZ2VBUXJ0cWZZUTgtaUpLUmNsUWE1SnVwc295SlpHYlhIQnBpYlU2ZEdsV0x4RU03UEFRa0xCNy1FSlZGbHhNTkkzTmpSbEFHZVo3RHFwZWh2SVhRdFozamRGbWhLOUpxUkhvU0ZR0gGMAUFVX3lxTFBCSHF5MF80UmdTS3FHZUhBMnZIMklNVWs5czMzb2NwMDdiZVNSTTZIMFdiMFZJTHgwWDBwNFI1UEl2aEpTYmx0c3ZIQXZxVVBwdkdJVUIzODlKVkpaa2xQX0xtMHF6a0hFRGc2MktoNk5tai04amUxQlVHc0FxZEVGS3ZUdjI5ZWo0Mk1j?oc=5",
-     "fecha": "2026-11-16T14:47:00Z",
-     "medio": "Cooperativa"
-    },
-    {
      "titulo": "Asaltan por tercera vez en una semana Cesfam El Carmen en Temuco",
      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMC01ZjVJMW1tZE5ham9VaEtGbTJheVNqRHJIb1VpSkxLMWhMdVJ1ODJObm5selY0RDJ0aHV3YlBvSklOTTFwVjl1RTBvV1l1Q0cxZ2ZUWVBrTkl6cHJFS3Uyenp0X2ZIUENzVFVVQmdkRWdvU3V4aEl5d2xNZ2RXSndYU0JsTlRONENwM1BHSjlha2hmQ1JQaHFWR0Rvb3p6WXRfcEpVUEVtNktFR292UTY0b1d4azhhZFRUMTh3bDF0VGFsZ09tSEd5QzB2aFlFdFkwUXZkZkRfekdoTXdVamdvQQ?oc=5",
      "fecha": "2026-11-15T14:10:08Z",
@@ -381,6 +375,12 @@
      "titulo": "Temuco avanza en salud: firman convenio para construir nuevo CESFAM Villa Alegre",
      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWpfa1pkeld6emF0TnpIOEVyN014aERNWHItRk1zS0c4d3pjcG90clNPZHJ4MDZnUVNlZzVVQ1pRd2o5WlZBQUpNNjZtTDFNa0FVeXNvSy14VXFtQ1Y2UTh6Nnp0QUVqVHF2Vk9KYkFPQ0xrdGtUaWo2dnlQWF9aYmJLRHRmSnIxd29iNWxRUnRoZTB1QmlZdWttLUZvS0cxZGNLcQ?oc=5",
      "fecha": "2025-04-24T07:00:00Z",
+     "medio": "Municipalidad de Temuco"
+    },
+    {
+     "titulo": "Alcalde Roberto Neira confirmó evaluación para instalar en Cesfam de Temuco para reforzar la seguridad",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXNBb1pGVlRhbjZtSWhELVNwaXktOGlxZmJGWnJKSGNob1YtS2k3ZTdQLVVMQ1dSNG1NNGQ5R2o1Nl9OWGExSVJiQzRmVFRPQWdnQWVzRW1zRlhTdEVxRmVvSUxZdkhFVktVWVA5cjNvQ1RlbmxIeUwtSzVXMzNubEE1eXhvU25tQnZxckZQWjZ0NHkwOFhfZG5OSjNNajdlbXpCbjk2aS1iM3J2aG9nYmJfVGcydTFqeHN2R1p0UmJudTQ?oc=5",
+     "fecha": "2025-03-18T07:00:00Z",
      "medio": "Municipalidad de Temuco"
     }
    ]

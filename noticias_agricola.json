@@ -1,10 +1,34 @@
 {
- "actualizado": "2026-11-20T19:39:42Z",
+ "actualizado": "2026-11-20T21:27:05Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
+    {
+     "titulo": "INDAP expuso experiencia de compras públicas y Mercados Campesinos en 45ª Reunión Especializada de Agricultura Familiar del Mercosur",
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWZwb2J2RXU1UHZ0ZzFjZE5JeV8wcnJIY3hTNjF3MUt1bnAwS1RlNE9sRjhDNlFTQ19lN3pQR0ZuYnZXUmZrVlRRSjRvbXdRSWctSjFzM1BkMEFPb0lJbnk5OVA4cC1ZWmx5QnF1TElud2FpT0NRbXNTYjhobW1KUGlnbi1mZGxjQnVnZXRoa25nS25Vc1pNU05ob1h5UGh3MDRKOU1CQ2Y0dUxENEx5azd0WktiUQ?oc=5",
+     "fecha": "2026-11-20T21:18:45Z",
+     "medio": "Indap"
+    },
+    {
+     "titulo": "Comité de Arándanos de Frutas de Chile destaca sus avances en investigación aplicada en evento de fitopatología y postcosecha de la UTalca y publicación de estudio en revista internacional",
+     "enlace": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPaFFvS2JWbXVFckRXd1VtVF9YY0R5TXA0SldPTFJBRnBQWWkybE1MNjl1cnoxMTRwVlFxMWc0cmN5Q3hFZkk3Y1NIbExDdG54RVY5amU3WmxTMGNVV1REMzlsakdXVFF4cll3bTQtcVI5NUZUZ2VVSXJIQXkxN2ViX0FqSmFQN3BEaG1UNTNnNUNfLVF4cUNMc3pqSDBRLXY1OTNfVmxWWFZfM1FheTVaOEpWMWVQY0xxaGFsR1RKNXF5R3dZV3l4NU4za1dPZFFaVHVRTlZyckg1cUE4M2dxME9jT3dlZVhPQ1VKXy1Gd0ZiSEVvcl9zY1B0S0xKazNNUlBmUDdUT1U0bHZUem4tNldqOFk2RC1Kb0REYXEzeWU0SDFsRHdYRXBncHJZajhqQVVDaW5wTHlZZnJMblU0ZVlIaTFpZWdoYjVaZHkwQ2k?oc=5",
+     "fecha": "2026-11-20T21:11:11Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "MOP y Agricultura constituyen Comité Regional de Infraestructura Hídrica para abordar brechas en Ñuble",
+     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOalYwcFNYcmhZVktvbEhVeEpEM2xjbEhKdDRJVkphS1lKeklqY1QyZXhpWUdTT0FLU3lLQmVMQnZ6YUJLNGFKVUxwZE5IbXJ6N0NmNXhoLTFkclRsUnVCSEZXcWFWeWVmaTlrcXFCUmpMOGx5OC1RMXE1VThkWXFfZml5cGl3X01QeGZCUnc0Q09wZHBUZnFsdzRJXy1md1JDcHBtejVtOV8tRHFGTjE2UHJ4TW5MbVI0VXRaT1JWSmtmN2R4aWM2SWwzX21MZGItZWI5cUJtbWZOa19wVkE?oc=5",
+     "fecha": "2026-11-20T20:49:48Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "Nuevo brote de mosca de la fruta en Ovalle: SAG libera más de 178 mil insectos estériles para frenar la plaga",
+     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV3RFeDFDWktiV0VQc0JWYkFjV0VHWHNmaU92UVZ5c01zVFJ4Tl9Ybk5lWEpVYWw1TFZYT0toWG1rZ05DUzFxVzZQN2tvMXVpWlR3WVJDYjFiVnQ5RDFEdWdsR1JwQzEzTGduVXdFTHI3b1JNcTRxNkxtdnpQaFRJTDRyblRqUXFqV0pvcWhTdjQ4S3FqT05ROUVXSm1DUmRPa3NraE5kWi1rZVhsNGd4eEJtd2VmZkM1M25hTnNyV3h6R1M1YzQ3Q2dRcDhObUh4R1c4SjJoNXFZTXhleFp0TWd1UXg0Zw?oc=5",
+     "fecha": "2026-11-20T20:29:34Z",
+     "medio": "Portal Agro Chile"
+    },
     {
      "titulo": "SAG y Data Observatory firman convenio para fortalecer la gestión estratégica de datos e impulsar la innovación pública",
      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMzluVGNGU0NhUmVxOWN2NWstRGEzRy1paXVkYzRfUWVvVDVJQ1pOQkFnQmRsR2tNanpaWFlfYzRsa2ZWejdwVEFpam1FeE1TMmlFdHdBQkRxbkw1ZFF3UUNoWTFRa09USWZsMzVBSERIRTlOOHNJZ0dPTzBMVGJFR2hjeG9saW5UalR5bUZXUEZ5UVhzSFZLT3FfSE5xMDU5YmI5NVNTdnhQdDNmeW9zYnNhSTNXelpQblFSMU01OFlMVUFrQTJLdC1waHE1OFI2SElEU29wTW1mV2c2QU91TTU5TlFNWU8yc0FtQ29zbDdRVEps?oc=5",
@@ -36,6 +60,18 @@
      "medio": "Portal Agro Chile"
     },
     {
+     "titulo": "Agricultura y El Niño",
+     "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VOEI0T2NvUVVBbkFyaVpWY3NtbmlWZENpa3V5cWt2WG40aUZ0ek42MmZVby11NTJfYlRmRU50d1BsVDdpdnBjQklGSnhwZ0U4Yno4NkVnSy1sTzUtZGFRZEtHckpMNDBvRkJyQWt1bGdFQQ?oc=5",
+     "fecha": "2026-11-20T15:43:58Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "Chile reunió a expertos regionales para avanzar en la evaluación de riesgos de plaguicidas",
+     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPak9Ud3l5aTNfcmRWU0lUdlJTRXdoQWhJek9rRFdMaW1ERnMtTGtzMHNScGVjbzd0b0taR3YzZFF3U0prNzBEQnpackEtenk5R0lOb0FQZ015aE1TZU5uNlR5dEU2bEM0RURGZklWdEpBbXlCa3ZtX2k1SE5CSTFDM0E0NWhtRU52dGJXNEM3RHl0VFd1YUhKbDFhcENYT0FodURaMVhsVGJhQTA0dWpENzdwczZla0RnVnJyS0FWc28?oc=5",
+     "fecha": "2026-11-20T14:45:00Z",
+     "medio": "reporteagricola.cl"
+    },
+    {
      "titulo": "Plaguicidas y exportaciones: el desafío sanitario que preocupa al agro latinoamericano",
      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVZWUlVPcDB1djFET3lvQUVHdHgtMTZxVjQ1UzMxWThPZUgwR1p6NWdlcFhJWDFHTncxYVRVNm1EQ1VSZWhsVzZTZDhWTWRnX3hGamV6b3JETUNXUlNuSU4yVVJfR1Z6X1lrNkx6QThxV2luS2NxaUd6WE5ZT1lBMlFnR1pXQ1JWdFRYRXh4MXhRMkhjWWZOM1gtbXhtdXN5dk9qS29zVGMta1loOGtVQWlvQUlBWFFiMngxaHNxeUpUbTlVeGhPeThuc1d1R2VQQUE?oc=5",
      "fecha": "2026-11-20T13:20:02Z",
@@ -58,42 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNLUdlV05TZzJKSjNqbzN0R2xQVGp0RlhlRHlGalBIY0FpTEhObXpLYUM2b2RWdHp1VUU1STFmU1pQMDdIY3djMjNNdkREdXpxVy1qZ1pKYlprVTE3OU1sVXcxZjI2X21yUEowM0NRVm95YjlFc1RwU1lFYlZGS29qSVFwS0FuUWJqSVRTU3lTY29LZ0ZuZjh0OUIwYXFRVzJIcDlBSWd1eDI0SFpRZjlFMFMyYU8ycm9qN3lvU3dWRF9fcWU4REdKNHRneUNOeFhJMlZ0S0h4NUFDYXdKcXZEVWtyUDU5Qnh3cHNZYl9jNDcxdE9EZDc2YzJ3UUlCcVJqem5nR2dranV0dGFxYm4xbmFFRG1NVWczaXBZT3NhMFJTMS1SalQ0?oc=5",
      "fecha": "2026-11-20T11:30:45Z",
      "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Presupuesto 2027: Senado despacha, rechaza partida de Agricultura por doble empate y repone fondos a Educación",
-     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRnI2cUNHclZNTW9mUTZ6NWQ0VFdFNzc3d1l6TGJYMVlrb0Y5T0JaV0t4eDdJdktybnJySG1kUEJVVE1hNlNKTFpWT2I5TUJhaXNWTjBVWS1kT1RJdzF0ZDQtQmR1Zlo4MXhqOWg3Y3F5ZzlEWGMxNXhELVNzdmdLT0Ric1JTenNjcFgzYUhZVS15c2VENVZ0N0l1MTlrVXl1RktaOFJVa3RTb0xIdXlIRjhZOW5YaF9oRm01ckQwYXZMemJGdDFNaHEwX09zYjMyMmFRdld4SG1TUjNJX3c?oc=5",
-     "fecha": "2026-11-20T11:18:00Z",
-     "medio": "El Desconcierto"
-    },
-    {
-     "titulo": "El agro se reinventa: IA y colaboración global ganan terreno en productividad",
-     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0FHdE5SSURRWDZ1Q1hlM2NEdDlGMWw3VzF2SkF2dFBQMTBTUEhhQ0d4S1c1eXZtUnd4b2l0LVdJTWczUWx6X255cDZNNE5iNDJnZWlvZ2tfR0NBV0p5ajRxekhmaE13OVlnVVRvcmMzRHpOZUM1ZUhPVXJmdDlDVjVzTmUwNEpRak9rOVFmdU5nMmdUdU1fYWZWSlg1OHhTa2FIYS1ILTZ4UmRXanZleUNXengxVURkVTM4?oc=5",
-     "fecha": "2026-11-20T11:04:30Z",
-     "medio": "Tour Innovación"
-    },
-    {
-     "titulo": "El único voto oficialista en contra: Senadora María José Gatica explica los motivos que tuvo para rechazar partida de Agricultura",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZlRNTVdXckZ1dlFmNUhXQkhFNHJwMHZuQUViS1Mtb2ZhdmpPZ21fdzREVVdveVE5OGF4SmVGYzJqcURzVllfN1JZRjZZaUlzenBuVHlKXzNaUFZSZVpLLW5pdC1XREdwQWhQNTZxeURDZ3oxSHpxb3Frb1ZvSUZjaS1qQWljaERXMTZBc0xzclpTMHBHWTRZZEpsZ2tTVkdSeHpVYXp4X1lvdjZOREIw?oc=5",
-     "fecha": "2026-11-20T10:58:00Z",
-     "medio": "Puranoticia.cl"
-    },
-    {
-     "titulo": "Senadora Gatica rechazó presupuesto de Agricultura: “Me da vergüenza volver a mi región sin una respuesta para la gente del campo”",
-     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUG9xNlZKYkZMWnAwN3g3dGQ2OTRHSnd0LURiSG1lV0w0aDdrLXhRZEdWZ1NTbUVRenJKTUVEM0o2emNmTVpHZUxsVTZteFRnQmQzY1lUUEZESzV0MU9objktSXhnUlRkSlBFQjNDNEROaHUtc0JpeDlNYlpzUDFaN18xLXlLZXlNbnBPSHh5NUJZUEt3Q1o4WFprS1FhLVRlSjk5dXh5U3VreUs4dHhzSUhSRVRLZkJGVGNvN1ROT291OElGTDRHS1pLNXpkQWdDWlpqaVd4aG9kaXU0MEJySzFNdFRVdW53SDdDd3FjcVU1RWc?oc=5",
-     "fecha": "2026-11-20T10:48:19Z",
-     "medio": "G5noticias"
-    },
-    {
-     "titulo": "Senado despacha Presupuesto 2027 a tercer trámite: repone recursos para Educación y Salud, pero rechaza Agricultura",
-     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcjQyWkFQTXZvcGpxSjFNT2MwWV9aTUxZWHpwdG5BeWFtbkpwRkhMTW5Qdi1ZTThnVENETWk2SmkzUHZ6d0hvRHB0S2Q4SU9MS0N5MkdlQXBheExHWkFEMzlMQ09MM1g3Mm1iRnczZUk2SmRMbEJVUUZ1c2U1ajY5b1lrSjdIV2ROdjhxSnpib28zT2xqWVRtQlFsb2tvekM1Q0FhOTB4V1Jsa0xaVFFBSk1wYl91OXpFc3F5ZUk4ajRlWjRiNU5QZk1ZOHVzTGI4NVZsUXJhQ2dKMUx0VTJNM3FZWdIB9wFBVV95cUxPUnRaeGRLSnl2amRZSWhlUC1lRVBzNV9jMGQ1WWZLU09GS3lCYjRLX3NERmRnU09xWEt6TW41NGtxLWN0a0pRVVgycTJjeUtJaVgxM2Rsd3o5a2tWWWd3X29NZDJyMlFEQzFUMnIxR1Z0aWotTUJzbHZUdUFCN0d1TjZKWHNnT01BaGFjUWZNVUtWM3U4Wjhzb2pLbUVXU3hHWnpvVjdKMmlvWWRmWTZzV0ctUWpOTWFjcUNPYWVkcVZyRzBwSDlXbml6WU1OUE9ucXM5TVZPWENRT0FHQ0pIb2tHSm45YjJTOFA4Q1NDUkJvVWN1ZjhB?oc=5",
-     "fecha": "2026-11-20T10:07:03Z",
-     "medio": "ADN Radio"
-    },
-    {
-     "titulo": "Sin Agricultura y con reposición de sitios de memoria: Senado despachó Presupuesto a la Cámara",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSVJRNFowSXYxTmdlQXQ1Slo1aHhGTEwxVEZOVndjYUZyZzVHNks4c0Vrc3I0UnVoNnpLQjBzVm1mNWFCZVJkeXVLQ21FS1l2YVhRWEdlR2JCM0JXS0RoZHFrRFRPMzBFWWttZ1NlbTg4d1JZMERFQVR3UG1WcW1hQ09jZjdwRUVBdk1pQ3R1UmVLVXlOWGV3VjM5QUZIQ0dFUmlJenFVZjFfU2piVlBFZFNweHBjM1dqc2EtbmRVYUk2V25QWHVsYg?oc=5",
-     "fecha": "2026-11-20T10:01:32Z",
-     "medio": "Universidad de Chile"
     }
    ]
   },
@@ -101,6 +101,24 @@
    "clave": "araucania",
    "nombre": "Agro en La Araucanía",
    "items": [
+    {
+     "titulo": "Huenchumilla respalda medidas para contener alzas de combustibles, pero cuestiona trato desigual del Gobierno",
+     "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNGd0Y1h2ZDRPWjZvdDVSbW1vbXdiWEhVM0tHWFpEVVR5SHVxUWxjbUl2bWxDUk5abmRDYzkxMWRjdXdkZkdhYjYzcDM5SHNkVkJVS2xzVEhsY08wYkFGMk82WHZ1aVlpRTNrb3hkY1ZhVkRTSzJ0Yk50NFlQRGRzcXM0TEM5cUVGSXc?oc=5",
+     "fecha": "2026-11-20T20:08:09Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Buses JAC y Bio Bio realizan simulacro de emergencia con organismos públicos en Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM3dkU3puRnRLdWo4YzRwVElObTh5LW1GY1cyclU4NldJMmFySjlmOXQxakk1VGRPb2pyekQyNDNhbGtnTUJsMjIwWXVaZVZpdEZaTDk3aVFtc21RMnRNYzVsa0RFTzZPU0w5WEtsMW00TTdqVW1BUE96QV8wVEowb29oeDA?oc=5",
+     "fecha": "2026-11-20T19:58:20Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "GORE de La Araucanía destina casi $15 mil millones a programas de emprendimiento",
+     "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmM4a0RvQl9XWXFMY2NFQ3gwNHRBRmNlYkV3dFg5eEpESE1VQ21QeTl0UF85QkhXTnFxVENDeXFJRkdmOTZ0aDI0MHp4djFEbHNoWllZcjlQejdIT3BXbWtfUVBrb01YNHFQbkRNYzI1WWxnRjVJbGsyeE1BUWctSXJ3?oc=5",
+     "fecha": "2026-11-20T19:37:47Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
     {
      "titulo": "Mercado Hortofrutícola Regional: aseguran recursos para avanzar en la compra del terreno durante 2027",
      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmhoRHJtdk1MRFJpZ1ZXS1hrSzREZ0NRWXNOb3lhVjJKX3B5NTNScDF0QWRMMnRjOHBXNjdzcUsxNDM5bTJFdjBZazBaR1o4OFNnUk4tU3F5N2pBTkZlS3NxU1I4djdJYVVIVjdXNWdxS2w2UFc3Uk1abzBBclB2ZzNLNkQ?oc=5",
@@ -111,12 +129,6 @@
      "titulo": "Fondo de Segegob financia proyecto de apoyo a familias TEA en Los Sauces",
      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0ZmX195cGVsYmJibGxRYVRrRk5pQnp4WW5IMjdZTWEwTHR5VWstNWhEOXpZdE8ySm5udjE2U2owU29La004WXJVYU5EdU9ObjJuaVlWREJoY2RLb2FBUkFoOGR5TnFhaEQ1NkpBN0dtb0dNbXllQVVmTHNTM1c0QnJR?oc=5",
      "fecha": "2026-11-20T19:10:18Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "GORE de La Araucanía destina casi $15 mil millones a programas de emprendimiento",
-     "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmM4a0RvQl9XWXFMY2NFQ3gwNHRBRmNlYkV3dFg5eEpESE1VQ21QeTl0UF85QkhXTnFxVENDeXFJRkdmOTZ0aDI0MHp4djFEbHNoWllZcjlQejdIT3BXbWtfUVBrb01YNHFQbkRNYzI1WWxnRjVJbGsyeE1BUWctSXJ3?oc=5",
-     "fecha": "2026-11-20T13:55:23Z",
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
@@ -177,18 +189,6 @@
      "titulo": "INDAP DESTINA MÁS DE $2.182 MILLONES A PROYECTOS DE RIEGO EN LA ARAUCANÍA PARA FORTALECER LA AGRICULTURA FAMILIAR",
      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ0ktV05BR3QtNkd5QkZtaEFOVVhKSnZLV2JtLTAyVlhVSkJXR0t1SzY2SlR2eTNyMmFNS3o3V0ZfRml4eWhKUFZwOUZJRUlyMUZ4QVpyUEFlMk5nLVpKdXlvN0IzY1hJWUZ6WExUM25WWld3V0NQMFhiRFBDcjQtTWdNQUFFWVZCVXV3ejNiY3Zwc09FQVNXMWE3OERGRzVTeGVaRXpadE5pUVUwY1FhbHNvWlBzQlp5MndJbmNCdFdLc3FkVUUtMkhPMWxfSktGbTNuVWZibUJkQ0hjbm91SHhOYXBWc0R2WGFWYjNn?oc=5",
      "fecha": "2026-11-19T12:34:58Z",
-     "medio": "Araucanía Noticias Temuco"
-    },
-    {
-     "titulo": "RED DE DIRECTORES DE VILLARRICA FORTALECE EL TRABAJO COLABORATIVO PARA MEJORAR LA EDUCACIÓN PÚBLICA COMUNAL",
-     "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNX21LaVhBc29zak5iVnF5Nk5HSmtFRWxhQ1FieWNZbHQ3WFMtWDJ0ck1CRmlTNUZmdVl2QnRMWV9hY29URmlCREpxQW5IZHcxNk5sWEVCZnY3cTc0ZkhQejAzandQaXJoYkR2Uk1CbEY0U2FHN1RPWFhGN0x3elhPNVhQd1Npd21EcXRvSTlGMm9XOFlDem9yeDFnR29Pa0V6ejlsX2c0WE01VGk0MmlzUC1EbFdaRGpXd3l0ZFZheE9RTTMxRE01VVp3SmwxOEFqS1ItUUt3NWxiRkhWcmdKdjNQMHBCbmc?oc=5",
-     "fecha": "2026-11-19T12:34:58Z",
-     "medio": "Araucanía Noticias Temuco"
-    },
-    {
-     "titulo": "VINOS, CERVEZAS Y LICORES CON IDENTIDAD LOCAL LLEGAN A EXPOMUNDORURAL DE INDAP EN EXPOSOFO",
-     "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeFM2N2RCU0xBWDF3d3ZORXdNNTcwaEgyejFYNm1Ea3R1dTJwdC04M01UV0x5SUpoNmdOSWRfNFppWllvLUQtYTYydThKbGMzbGtmc0VaNnVnSjUtRUxjZGtOZjktN2FtTzUtRmR5bEhBQWxnbGFjUXZOeTJGaXNCdm01NUVXTldlRFVlTkx5N0ItUVRRZmZGeFRfWnNrRlFER3Vla2ctSno0LWFvckJjQVFyQW9GYS00WWZIZ2VXVDhXNVBwZEU1NkZNVDlPXzQ?oc=5",
-     "fecha": "2026-11-19T01:47:39Z",
      "medio": "Araucanía Noticias Temuco"
     }
    ]
@@ -408,12 +408,6 @@
      "medio": "El Mostrador"
     },
     {
-     "titulo": "Avance de la automatización en Chile: cambios y desafíos por la Ley de 40 Horas y las exigencias del e-commerce",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVnNLcHJvSkxYOEVVdFQta05zOGxGcV9CZmRTMExJbTNkZ2d5Z3Rfa0Uwemp4YW9Xa2U2ZlFFVDlvNDhkeXlJNVpnYzhObmdCcHktZVZQYmYyN1l2cFh6QWFfV1BuQVBSZFZmTXZvZktwcTUtTklBWjJucnVxT3NLUWMxaG9tVThyUE52a0JkdE8zSGkybFJXVjJqZmx4S1ZZLV8ycTZLSDJwcm9hX0VfbG5qa0g0aEJpMzBhTHpVaHBlUjFPU2JPNDdwYlU5Ym40Mkw0?oc=5",
-     "fecha": "2026-11-15T15:05:12Z",
-     "medio": "El Maule Informa"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
      "fecha": "2026-11-10T08:00:00Z",
@@ -477,6 +471,12 @@
      "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
      "fecha": "2025-01-15T17:57:43Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
+     "fecha": "2025-01-15T17:33:27Z",
      "medio": "Dirección del Trabajo"
     }
    ]
