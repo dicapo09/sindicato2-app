@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T09:36:12Z",
+ "actualizado": "2026-11-20T11:32:20Z",
  "fuentes": [
   {
    "clave": "subpesca",
@@ -60,12 +60,6 @@
      "medio": "Aqua.cl"
     },
     {
-     "titulo": "Caleta en Línea supera las 1.100 atenciones y acerca trámites de Sernapesca a 14 localidades de Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbldidVo0QkVZcDhmd1V1cm9GRTlSNmtxQ2VZVm1vV0dvQk11RXpheUFCUW5LdWZZSmZqWWswVmNVbndpMzE4VUlKVTJIeTkzTENGd0RjNzJBb29nS3B1bDhqdzVQakxMZUNsSVJyUVpQNDZSbXdMMmdJYllsN0ExcENJNGtjcU1xR0ZjdjBYd2VYV3VYc3BadFowUTJPYTVXVmtoVnBvdmRhR2RETTNrbjUtNldtbjFLT29qSk5IdjdXTWtHdVpyYjVnMDZGVGJzLTUzLWQxSDRHM0NTZ1pHcVVKLTJ5Z3Bqb19TLW9yLW41TG8?oc=5",
-     "fecha": "2026-11-19T03:00:00Z",
-     "medio": "El Divisadero"
-    },
-    {
      "titulo": "Reportan varamiento de cetáceo en playa Obispito de Caldera: SERNAPESCA realiza monitoreo",
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDlNbjI1dmJpQVFkZU9TT2dOZHZ3M3kzRW9yTHFRSEFtMWlCUzdINWkyRDNJWUUwakNpaklJcXpZUU9LRjR1UGVMWDJ3U21iNWlEaHdXeU9nR3g0ZmxDSGtaYmN2LTVUMU54c0tienZCNlJKOTNfcDd2MzE3Q3ZSRDczT2hfN2s2YmlScGFPZHNtNW1hb3ZWZldSdURSZnFhbGZGWlE1dl9JbEpkSnNMVUZYUl9EZw?oc=5",
      "fecha": "2026-11-18T14:08:08Z",
@@ -94,6 +88,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVVlEQi1INXJVUjdSdzJQVUdFSXpIOHNqVUVpVHhmM1c4ek1veHpnOWFOVlQwN1ljRW90T096STllMnRCUVJ4NFUzVVpPQTFMTUxtd2tWaXJCV1AxbF8xNjRoUkpJTGtNT0w5Z2lUemtGbFlZLWZ4M3pOOFhsZDFScXB0N0tZMjk2MDJ3b1dLUmx4YUpoZktwMU1Bd05IR0RDTU95NGpwT1BDUUdjYmVDTmZsZ1hVZWFjVVJDaGllV3V3OG55Wks0dGJXLURxcnpFNWFZcW1Ma2djVXRLN09GLWRIZ1dtdw?oc=5",
      "fecha": "2026-11-14T17:44:00Z",
      "medio": "Diario Regional Aysén"
+    },
+    {
+     "titulo": "Funcionarios de Sernapesca se certifican para reforzar controles a naves de pabellón extranjero en puertos australes del país.",
+     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcS0tdVRxNWlfa3pTNnRIUk9ibVpoeEZQZ1ZqWmZoMWd0NU9mZVFiWGJLczVHUDJ6X0o0YTI4OUlFYThaRG9URmFxSmVleDI5TXc1UUhfdnVrQWNHZkFpN2VROVJhekQtWVBlLTdIbm00eHpjZUZCWFpzRF9oSndfZVRIRklNbDBlTkRxUVR4V1ZaU0xpbVNFLWQxWWtIZHBqend2eHhfZGZzQnVkdC1QTkxlWXowOEJRTkdwUDd3RV9IMjE3QkF0WUxwN2NSNEpWajllTmZnVThMRlZqZ3ZwMzl5dUQ?oc=5",
+     "fecha": "2026-11-14T14:19:26Z",
+     "medio": "Pepe Noticias"
     }
    ]
   },
@@ -101,6 +101,42 @@
    "clave": "aqua",
    "nombre": "Aqua",
    "items": [
+    {
+     "titulo": "Patagonic RAS 2026: Desafíos y oportunidades de producir salmones en sistemas de recirculación",
+     "enlace": "https://www.aqua.cl/patagonic-ras-2026-desafios-y-oportunidades-de-producir-salmones-en-sistemas-de-recirculacion/",
+     "fecha": "2026-11-20T09:50:00Z",
+     "medio": "Aqua"
+    },
+    {
+     "titulo": "Acuicultura chilena amplía su presencia en el mercado mexicano",
+     "enlace": "https://www.aqua.cl/acuicultura-chilena-amplia-su-presencia-en-el-mercado-mexicano/",
+     "fecha": "2026-11-20T09:49:00Z",
+     "medio": "Aqua"
+    },
+    {
+     "titulo": "A pesar de récord exportador: Alertan por estancamiento en el crecimiento",
+     "enlace": "https://www.aqua.cl/a-pesar-de-record-exportador-alertan-por-estancamiento-en-el-crecimiento/",
+     "fecha": "2026-11-20T09:48:00Z",
+     "medio": "Aqua"
+    },
+    {
+     "titulo": "Expertos se reunirán para abordar uso de antimicrobianos",
+     "enlace": "https://www.aqua.cl/conferencia-internacional-organizada-monterey-bay-aquarium-abordara-el-uso-de-antimicrobianos/",
+     "fecha": "2026-11-20T09:47:00Z",
+     "medio": "Aqua"
+    },
+    {
+     "titulo": "Corte de Coyhaique confirma la prisión preventiva de cinco imputados por sustracción de salmones",
+     "enlace": "https://www.aqua.cl/corte-de-coyhaique-confirma-la-prision-preventiva-de-cinco-imputados-por-sustraccion-de-salmones/",
+     "fecha": "2026-11-20T09:46:00Z",
+     "medio": "Aqua"
+    },
+    {
+     "titulo": "Con visita a Marine Farm acercan la salmonicultura a la alta gastronomía chilena",
+     "enlace": "https://www.aqua.cl/salmonchile-y-les-toques-blanches-acercan-la-salmonicultura-a-la-alta-gastronomia-chilena/",
+     "fecha": "2026-11-20T09:45:00Z",
+     "medio": "Aqua"
+    },
     {
      "titulo": "Salmonicultora impulsa 22 iniciativas comunitarias en Los Lagos, Aysén y Magallanes",
      "enlace": "https://www.aqua.cl/salmonicultora-impulsa-22-iniciativas-comunitarias-en-los-lagos-aysen-y-magallanes/",
@@ -123,36 +159,6 @@
      "titulo": "UCN busca potenciar el cultivo de especies nativas mediante tecnología biofloc",
      "enlace": "https://www.aqua.cl/ucn-busca-potenciar-el-cultivo-de-especies-nativas-mediante-tecnologia-biofloc/",
      "fecha": "2026-11-19T14:00:00Z",
-     "medio": "Aqua"
-    },
-    {
-     "titulo": "El impacto de El Niño en el océano: fauna marina y acuicultura entre los principales focos",
-     "enlace": "https://www.aqua.cl/el-impacto-de-el-nino-en-el-oceano-fauna-marina-y-acuicultura-entre-los-principales-focos/",
-     "fecha": "2026-11-19T13:00:00Z",
-     "medio": "Aqua"
-    },
-    {
-     "titulo": "[LA + LEÍDA EL JUEVES] Patricio Walker: El cumplimiento “tiene que gestionarse con la misma disciplina que la producción”",
-     "enlace": "https://www.aqua.cl/patricio-walker-el-cumplimiento-tiene-que-gestionarse-con-la-misma-disciplina-que-la-produccion/",
-     "fecha": "2026-11-19T09:50:00Z",
-     "medio": "Aqua"
-    },
-    {
-     "titulo": "Innovación energética y conectividad: prioridades de los proveedores acuícolas de Aysén",
-     "enlace": "https://www.aqua.cl/innovacion-energetica-y-conectividad-prioridades-de-los-proveedores-acuicolas-de-aysen/",
-     "fecha": "2026-11-19T09:49:00Z",
-     "medio": "Aqua"
-    },
-    {
-     "titulo": "AquaChile impulsó la proyección internacional de Magallanes en misión empresarial a México",
-     "enlace": "https://www.aqua.cl/aquachile-impulso-la-proyeccion-internacional-de-magallanes-en-mision-empresarial-a-mexico/",
-     "fecha": "2026-11-19T09:48:00Z",
-     "medio": "Aqua"
-    },
-    {
-     "titulo": "Innovación molecular busca fortalecer la vigilancia de la resistencia del piojo de mar",
-     "enlace": "https://www.aqua.cl/innovacion-molecular-busca-fortalecer-la-vigilancia-de-la-resistencia-del-piojo-de-mar/",
-     "fecha": "2026-11-19T09:47:00Z",
      "medio": "Aqua"
     }
    ]
@@ -366,15 +372,15 @@
      "medio": "| Armada de Chile"
     },
     {
-     "titulo": "Disminuyen casos de descompresión en buzos mariscadores",
-     "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXZwMzBzNFJlRi1YTWJSVE8zXzRzQWk2MFlBN0tUZzFZemFjX0lCSWdIRm82MllMNWM2eU1vYnBCcUh5WFh1RlMxaWoyZGs2MHJqby1vZUhlOEFJMEVKZ3VJQ1RYRHpQUVJ2U0VOTHBocUctamJBZnYzOHFSZkVFUXB5X1UtbGVtc1BHQjdBN1l3S1Q2ZTRWVWxn?oc=5",
-     "fecha": "2007-12-26T08:00:00Z",
+     "titulo": "Examinación práctica a buzos mariscadores básicos",
+     "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNck1kRUlTaHV1VWVneEdPeFhqbmd2eXJUT25JOTNKRjAxNV9Gc1YtamVYekVMVG4xTzgybGFJbGR3cjhycWNxMFR5aHotZ3NQWDNrTDljTnNpemRJdThEZWNsX2VDMmlUaExPMmRMUHFKNnhqdTVhbUYwZy1JcUJtRXdpM0h2aXhxQVdVa05LWmlTQQ?oc=5",
+     "fecha": "2011-08-21T07:00:00Z",
      "medio": "| Armada de Chile"
     },
     {
-     "titulo": "Fiscalizan embarcaciones menores en Tocopilla",
-     "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOHVPOE5oYkZmcVVCMHRTSlI3ZFV5XzF0SjczY1h5aEh6REwxakVuRGxUc2QzUGNqV01kcmZZaUIyRkxnSVZzaEhHY25mZEtfUlRDSjJfSjhnM2FWaXF1Y2VYRGlSNUlIRGJUbE5nVnRLbVh1cVhnb3FWR3l0TWJRdUh0WkhocWhSYkQ4Wg?oc=5",
-     "fecha": "2006-03-30T08:00:00Z",
+     "titulo": "Disminuyen casos de descompresión en buzos mariscadores",
+     "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXZwMzBzNFJlRi1YTWJSVE8zXzRzQWk2MFlBN0tUZzFZemFjX0lCSWdIRm82MllMNWM2eU1vYnBCcUh5WFh1RlMxaWoyZGs2MHJqby1vZUhlOEFJMEVKZ3VJQ1RYRHpQUVJ2U0VOTHBocUctamJBZnYzOHFSZkVFUXB5X1UtbGVtc1BHQjdBN1l3S1Q2ZTRWVWxn?oc=5",
+     "fecha": "2007-12-26T08:00:00Z",
      "medio": "| Armada de Chile"
     }
    ]
@@ -484,6 +490,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0FaZUxrb0c3bUY1dmpfVVMycllYVDdkUFJRSGM4M09EcklNelUtTTFhd3lvd2V5VElwZW12eG5HdFp3aVVfbFBIRnFwTENWN2R6RmJnZFMxWnFtYV9ZZVlkdE9TODFZT0FaSjNxOXVHV2NPTUhJakptLVVtWHhVNVAwSGZGalg1MjlnbE9GRi1IMnJUY2N1Rm1vSEVBM1FVc19xUVVwdVQ?oc=5",
      "fecha": "2026-09-30T07:00:00Z",
      "medio": "Aqua.cl"
+    },
+    {
+     "titulo": "Conapach rechaza dichos sobre venta de pescado en la calle y defiende a pesca artesanal",
+     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQW0xWWNheElrZlcwRnNiSmxwY2FoYkNMcTdQVG9KOEJCeFdQQkJVUERaWmJLbEVvQl9JNFVrSXowX0RMZUVQc3Q5Ymk5cWhoZ1REallQcmV0VlZiUk1XLWI2ZnFFOUp4ZlFJUGJidW01bDhqRnVXcFRRTzdCd2ZTM0pOdFdETGR1TnJGZnZWd01OREtaZTRQLWp1Q0I0Rk1RUHlNWVI3LW40VWw3?oc=5",
+     "fecha": "2026-09-04T07:00:00Z",
+     "medio": "aqua.cl"
     },
     {
      "titulo": "Sindicato pesquero retuvo barco congelador durante cuatro horas exigiendo que partiera con personal agremiado",
