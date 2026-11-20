@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T03:28:36Z",
+ "actualizado": "2026-11-20T05:39:29Z",
  "fuentes": [
   {
    "clave": "turismo",
@@ -16,6 +16,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYkdicy1XVm8wU1ViaDh5RnlmaHhiWThBSWhyUmkwcEg4MWZxZlpsZFFhRHRtTVg1S2lNbkpBN0pqQ1pjZEt6U1hnLWlnWGhwdi1LdWF4YWhMU2JUb2F2bEVZNElhdDB3T3JfV0dIRHV3OWdOaXU0VGRZbTc3THBQRkM0MjVKT1hncHBCT05vR1dLU1B6WWZpMWItd0FwZ3dRRC13d2wwV3VuNjJvOFZQa3NZSzNYcTRkaUVMam0xMERMTTJ6UWJXU2wwMWVOTnVLaERxQm5Sb0dsY2pUWTE5ZHlKNHA5YzB5ckpmMFBvdTR0enJUekttdGh2SHlBSk10TVJJUHJ2QQ?oc=5",
      "fecha": "2026-11-19T20:22:59Z",
      "medio": "Diario El America"
+    },
+    {
+     "titulo": "La Diputación de A Coruña presenta Viaxa! para impulsar el turismo gallego internacional",
+     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVml5TVk4a1pOOVJGR1A0YW5aMkROSndweUotSVNnd3FFSlNka0RPR1B5WkdkOWZJMXRXb0hVYjlDUWxod0pLRTNBSHd4QV9DTTBxU2xVeHFaUFZ0SS14S2xRNzg1c1dTZ0JRNmJtUHhLOFNUSkVoM0EtOHlpREx2Rl93VGM3N0tWOHJHYUNzUWIxaFlmZ2JQRXRzLVRQZVVhTU5idlhuWFBMVFhqN3ZMbmdMZVp2RXFOU0VlSmJGQzZ4Zk5lYnhxSGpXZWs?oc=5",
+     "fecha": "2026-11-19T17:52:36Z",
+     "medio": "diariogallego.es"
     },
     {
      "titulo": "Santo Tomás Temuco certifica a 36 estudiantes como guías de turismo general y fortalece su empleabilidad",
@@ -64,12 +70,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnkxSXZybExueHh0YjJ3S2hCLXIxSEo1TmozSnJlQm1YMWJzTkRFWF9pUERqbFNNV002WlRiTGVGS1ZyRWxhYlJzYUhmMXhsY0t2eEdVVTEzVXFvVlVSeVhtalFEbFF3WTZLQ0EzNWQtQzFqMGZJcXVTZEUzZy0tQVoxQmVvTUV0Z09GOVItOG1uRGRZYUpmZGNEaFZ3MEU3M1lLOTF2VTZBSlU?oc=5",
      "fecha": "2026-11-18T13:22:58Z",
      "medio": "Vietnam.vn"
-    },
-    {
-     "titulo": "San Antonio Oeste tendrá un menú turístico con dos opciones de precios para el verano",
-     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZHZnbmV0alE3OHFMb19tVTR3NFNIZ1hxLWlvaThOQWZfVmhpOUpNSkxpR2k4NWxYV0dKNTZ2b0s0NXNBNVVOb1hLd0tUVHowVEZWUmNiUnNiMGU0Z2hpdnk5NlFHTU52TUNHTXZ2RnU4SGhGZjlpYWFUWnlFOXdrbDNhR1lMdDBrZVFjWUdWNWo4emlReDF3VGxodmNnWEtpZF9qbjQ2MC0tZDhyemQzdTR1NzhGM0VaU3dJQzNoTVFPWUMwd0s1aHE4X1F3V3d1VVNteFI5OTRsVVnSAeABQVVfeXFMUDdXMVJLRXA1S3VoVnlGNnQtNTNUZzNvbFR6cDluWGRiNW1xRWNhWlhnM2pMbU5qQUlGZE5VZWV1WjJSNzlmTVBWT1ZBWFJqa1VYRm1oMm9DXzVVQkgzcXUzeVBUREVtWnByZ05iWWgyZmVZUlphTkV5Wm8wekE4SFVzV0Y1RGlsTEdTeEVqOWlDc01kNjVTbHpSMlkyc2xfbWFfQXRHOVJYMjZoTkVjSGhXcjRoZjltNWU2QmcxWDYtUkFMUjA0SW9jVi1VbmJjVUtjcTBLWTF6bnY4LVpWUHA?oc=5",
-     "fecha": "2026-11-18T10:28:04Z",
-     "medio": "NoticiasNQN"
     },
     {
      "titulo": "Santa Marta toma impulso turístico y se prepara para la temporada de fin de año",
@@ -432,21 +432,21 @@
      "medio": "- CIPER Chile"
     },
     {
+     "titulo": "David Oddó Beas asume como Director Nacional del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HSnFMNXp1ZzJudnBjRlhzZTFpOFlBbjNiZHVFSXRTUUNWaVRCNTFwWnZzeUhyQ0F4azJLX2VfdEhKcGMtQjV4ckdjMkFwMWdWN2I5X2ZlVUtsSTc1ZkdueHZ1YkkwbGc?oc=5",
+     "fecha": "2026-03-25T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Ley de 40 horas en Chile: Este es el grupo de trabajadores que no tendrá reducción de la jornada laboral este 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUVlqYVF6aEVPTkZyOUE0dDNVQldvVk9vak1PcEprekRQN19EODBDTzVpTUhwZndJN2p0dko1X1g2bHI3V25YWVI1aGZDVkZNcDFKcUlUM0VHTDh1RFJVTEI3VlBxa2JidXpBZ0k4M205S2hpanJ1ZU1rUGtSTVJrRkwtbW5WSUx1QXd2ZzhfWkN0MkJzWVhGM25FcVd0Y1V6ckF0N0ZDRDJmS2x0bUJfR1dSRE9UejAwWm1NNzlmM2EtQ2hVZHo2U0pHLTBQWWNkcDJ6clZDZEdnSWp2X0dnVnpYUdIB9wFBVV95cUxNby1KQ2JvZXdBNFdDbi1YNUQtdkVGVGFKWGNwcHFmdFdUZ3ZHSWNBYVhHVmhfcUJNSHRBRG5mMWFoYXNBWFdObXlTLUhJOElPQ1M5b0JhTXB0d21aNFU1RnRiVlh1d2pldjc5eDJLOEVncGNEdTd1YWNFbjlMc0ZSNUYzUEttbTJ6VmlqS0l4OTZQS3Q3akR3MkNMTEh4aDZDVlc1bG9ZbzRnN1FHT2puTmlBeW5jZjBGLUtvNWxEQ05pMmdlN2s4cjNwUHF5QlFkY2Jaa2U1MDRYNGdtUV91WjVvOTZBa0FvVVdCYzRINzdOdE8yMEhB?oc=5",
+     "fecha": "2026-03-18T07:00:00Z",
+     "medio": "ADN Radio"
+    },
+    {
      "titulo": "Nuevo dictamen amplía criterios para negociación colectiva de sindicatos interempresa",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iTmpwWDAycjZLaVp6YmlqSG1QcXJRU2tCb29kdFQ1ME55ejlzYWFZOE1fM3hjZ1F5RlVKb3Y5Q2JJUjY1NlE0bnNDV3BDTWZHYWZ0SGpVWThHTm9iTV9HNVQtSUFnTWc?oc=5",
      "fecha": "2025-07-25T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Dirección del Trabajo analiza efectos de las leyes de 40 Horas, Karin, salario mínimo y conciliación de la vida personal y laboral",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5ZmVwM1ViV1RoZTRCZkpBYndLM21hTGRwVEZLam9ndWdIWjhKNldWNHlITW9SUzA5NUM0NTRBa1hwbWk4aXljeVJfRHItZGlzLXFrdkE0Qy1tREh3eS1NTFdyUi1CRkU?oc=5",
-     "fecha": "2025-07-15T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Cumplimiento de reducción efectiva de la jornada laboral a un año de la nueva Ley de 40 horas",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRnlQVEdjQ25saDNmaHdLSTFodk9pdkVMdWZNa2dpZmEzdHBmb2RZZmJYWEhqZXdBMjNGcHgyU3JZYS1oVG01STBUTTVfUWczTktVek1PcE8tb3g0dWx4R1dQNHREeGM?oc=5",
-     "fecha": "2025-07-14T21:58:48Z",
      "medio": "Dirección del Trabajo"
     }
    ]
