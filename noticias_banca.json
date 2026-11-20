@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T01:51:43Z",
+ "actualizado": "2026-11-20T03:28:32Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -102,6 +102,12 @@
    "nombre": "CMF y Banco Central",
    "items": [
     {
+     "titulo": "Precio del dólar BCV hoy 19 de noviembre: la cotización supera los 917 bolívares",
+     "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wLU5wWERFQWFaeHR0QW85RGw0ak5wNUN1dThlLWhWek81RERrVzUyWUhWOGdmMXAwbGcwR0dnaVZaT0pGMFlsZS1FLW95d3Nqa2xMT3BQMVdGaTdIa0dkZi1kUl9MWkZPQlNSbklmbWEybkVnR3NGY3p3Y1dPdw?oc=5",
+     "fecha": "2026-11-20T02:45:45Z",
+     "medio": "El Estímulo"
+    },
+    {
      "titulo": "Junta del Banco de México se divide por impacto en peso de recorte a tasa de interés",
      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGZZemh2Mk5YRU1BdmZvZkpMalVDelFYVE1yQ2dRM2I5Yy01R2lHWU5oYTM5N0FPdzlKMDFjVkJ6TTJuRzk3SjRYYmo1bkxXeEM2U1RXMWJBT2pfUUI4WS01eDd4VThIT3N5YTZ6cm50WDNhWGpqNUlDc0JrZGo2aVNpc0kwcHRDQjBEWkdaUHdHbXE1NXBKd3paY3hlYW1fNDhzV09hLWhVT3NHVVZUMXp6TUFweWlrZFE?oc=5",
      "fecha": "2026-11-20T00:10:14Z",
@@ -120,6 +126,12 @@
      "medio": "Infobae"
     },
     {
+     "titulo": "Precio del dólar con fuerte alza hoy en Perú: Así cerró el tipo de cambio del 19 de noviembre",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnlod24tM1E0ckpFanptbmpNZTJzTFZkY3VNd2ZLbGt5SG03V3Aza3JGcTdRREJhVklUVE41VGZTbF9pVmdLTXJDREt1Z3Yxb1o3eVlHQ2lDRlJRanJOa09Kb1AwMGhaQ2NvMFp1UnhMblNzcmxLcU9CenVQM0oxVFltbmJMUFFiMU5tc3JIS0MyOWFiSTA1M0lvY3R4U3JBRDgxV2JmTDZYLTR3dGp5WUNJOFRfR3NmMVdZM0p3ONIB2gFBVV95cUxPNWZ6VXo4b001SHozY3ZzeElUQ2tnb1R6SVdoOUlycTE3TWNkUl82ajFBNW04RnNKNkJWWTFCMUF5UjNuVUxuQXhJakRhaWd3U3pIbDdtTDhiLUstMjVZRnlTRDYyd1hHWHVVaEFFMXE4M1N1US1xc1dESEJZeFA0VFdnNXZHUDdIMmgyRFNFbEI3eW5KQm5sUzVlMl9hd1RJSUJoSFE4ZWp3dDNQTTh2aldIYjJFbXJISTBuWkpfeXJ5TGFydDMydHZKQU1pZUJOUFVKNFBJYWRCQQ?oc=5",
+     "fecha": "2026-11-19T18:49:00Z",
+     "medio": "Infobae"
+    },
+    {
      "titulo": "Precio del dólar hoy miércoles 18 de noviembre de 2026 en RD: compra a RD$60.01 y venta a RD$60.34",
      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0xwZkFzazBwUy1kWVNBYU1tRGVNSTNKck52Qk44TWd0dXJheXp5ckNpMHBKa0w2TUdDck9fX2ZUZ2wwaU1qaFdoRlNDNC0wSVpVTUp4OGF3SkpWZ0hMX2tTcWlqd19LUDA5QTFicTBvQXJCb3VjMlBoMWxuQ0tHR1JoRHdWSmU3WXFJYkhCZ0lhMGduWC1Mc0xwRWd4Y2M?oc=5",
      "fecha": "2026-11-18T21:09:37Z",
@@ -130,12 +142,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uYzJOVHowLVQ4WEhwRkJEblc5ZUJfMS1SNGR2bEttTXNvcWFUdGJBbS1GNkU1cWxleHNsVDI3YXBDUlU2OVhoRXlEdmxSNjhWcUNrejJvNlM3WlFPeFQ4cXd1VXdNYmxFMGE1cTlwUXV6WDA?oc=5",
      "fecha": "2026-11-18T21:05:50Z",
      "medio": "Finanzas Digital"
-    },
-    {
-     "titulo": "Precio del dólar subió hoy en Perú: Así cerró el tipo de cambio del 18 de noviembre",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnlod24tM1E0ckpFanptbmpNZTJzTFZkY3VNd2ZLbGt5SG03V3Aza3JGcTdRREJhVklUVE41VGZTbF9pVmdLTXJDREt1Z3Yxb1o3eVlHQ2lDRlJRanJOa09Kb1AwMGhaQ2NvMFp1UnhMblNzcmxLcU9CenVQM0oxVFltbmJMUFFiMU5tc3JIS0MyOWFiSTA1M0lvY3R4U3JBRDgxV2JmTDZYLTR3dGp5WUNJOFRfR3NmMVdZM0p3ONIB2gFBVV95cUxPNWZ6VXo4b001SHozY3ZzeElUQ2tnb1R6SVdoOUlycTE3TWNkUl82ajFBNW04RnNKNkJWWTFCMUF5UjNuVUxuQXhJakRhaWd3U3pIbDdtTDhiLUstMjVZRnlTRDYyd1hHWHVVaEFFMXE4M1N1US1xc1dESEJZeFA0VFdnNXZHUDdIMmgyRFNFbEI3eW5KQm5sUzVlMl9hd1RJSUJoSFE4ZWp3dDNQTTh2aldIYjJFbXJISTBuWkpfeXJ5TGFydDMydHZKQU1pZUJOUFVKNFBJYWRCQQ?oc=5",
-     "fecha": "2026-11-18T18:58:00Z",
-     "medio": "Infobae"
     },
     {
      "titulo": "Subgobernador Omar Mejía defiende recorte en la tasa de Banxico ante el repunte de la inflación; “No hubo sorpresas”",
@@ -180,16 +186,10 @@
      "medio": "Ambito"
     },
     {
-     "titulo": "El Banco Central mantuvo la tasa en 6% y advierte sobre los precios",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUUd5aGx1Qlk0UGpPZnBhbzJkUDR6S0JPN1Z5LXhLcjJROE9OS3dMM0wyYkFUbTEyYlBLZ3dJSnNrQVU4VFUzMWJILWVzZWZoRWpaUWhrZG9KR0NyNmd0S0hkbnNvM2oxVHNPVEhWTTdfdVR2akt2aDcwUzNWbVpwaGMzbXdfaW0xc2czYkFsejBfWVozQ3dhWkFMMzdWaUFDRlVZd21MdTZhczVw?oc=5",
-     "fecha": "2026-11-17T06:56:47Z",
-     "medio": "uy press"
-    },
-    {
-     "titulo": "Banco Central de Uruguay mantuvo la tasa de interés en 6% ante un escenario de inflación",
-     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVldLZWUxcXFFLVZvRjU2UnM1UFNkbFNoenBqWkRYMzl2TzRTV2t0cWZuYWI3OVl0WmlsUWhyS0cxYnFzTHJzU29kVVVDY0R2MU9oQVA2dl81eTdOR2NEUG03ajJ3MzZEbkRVS1RtUDdGVmZobHQ4M3Z3ZzczWGc4YtIBgAFBVV95cUxQSjJobEg5bHp6d1Y2eU45WW5hcDRpdlJXWUoyT2xOcGFwZmlfX1pFN3p6dkZKcmxtV2R6WVZOdVozRzMxaHMyb1U1eE9TREZsTnZab284RXRxYkQybXpjNHpPend5SlNvYzYtNkdMMVR0djhYd2RGNkdUWFprNlh0bg?oc=5",
-     "fecha": "2026-11-16T22:05:13Z",
-     "medio": "LaRepublica.co"
+     "titulo": "El BCU mantuvo la tasa de interés en 6% y prevé que la inflación converja al 4,5%",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc0lKWjFWb2lzTXBRNnl3SklNa3Nab2VTWDVGR1d6TnBTNDJTRUo0Q1VSQl9iY2VXc2U1d1EzVVJuM2ozVVNOUlc4T1ptZV91MUYyZ0RrMWJOZzg4bGd5UlBtNGJYRFlheHBBX28wUENMOU02ZHFjTW1aeXVxUnd1OGV5MHN1TEl1MEgzSnlsQm9sS2cxa0h4Q2NuNEZYWFVROEZfanU0R2dhdExJUkd4dWpSSmU5ZnM?oc=5",
+     "fecha": "2026-11-17T09:50:45Z",
+     "medio": "El Eco Digital"
     }
    ]
   },
@@ -296,7 +296,7 @@
     {
      "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T21:27:03Z",
+     "fecha": "2026-11-20T03:27:03Z",
      "medio": "El Mostrador"
     },
     {
@@ -334,6 +334,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
      "fecha": "2026-11-15T21:03:47Z",
      "medio": "CNN Chile"
+    },
+    {
+     "titulo": "Avance de la automatización en Chile: cambios y desafíos por la Ley de 40 Horas y las exigencias del e-commerce",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVnNLcHJvSkxYOEVVdFQta05zOGxGcV9CZmRTMExJbTNkZ2d5Z3Rfa0Uwemp4YW9Xa2U2ZlFFVDlvNDhkeXlJNVpnYzhObmdCcHktZVZQYmYyN1l2cFh6QWFfV1BuQVBSZFZmTXZvZktwcTUtTklBWjJucnVxT3NLUWMxaG9tVThyUE52a0JkdE8zSGkybFJXVjJqZmx4S1ZZLV8ycTZLSDJwcm9hX0VfbG5qa0g0aEJpMzBhTHpVaHBlUjFPU2JPNDdwYlU5Ym40Mkw0?oc=5",
+     "fecha": "2026-11-15T15:05:12Z",
+     "medio": "El Maule Informa"
     },
     {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
@@ -375,12 +381,6 @@
      "titulo": "Cumplimiento de reducción efectiva de la jornada laboral a un año de la nueva Ley de 40 horas",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRnlQVEdjQ25saDNmaHdLSTFodk9pdkVMdWZNa2dpZmEzdHBmb2RZZmJYWEhqZXdBMjNGcHgyU3JZYS1oVG01STBUTTVfUWczTktVek1PcE8tb3g0dWx4R1dQNHREeGM?oc=5",
      "fecha": "2025-07-14T21:58:48Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
-     "fecha": "2025-01-15T17:57:43Z",
      "medio": "Dirección del Trabajo"
     }
    ]
