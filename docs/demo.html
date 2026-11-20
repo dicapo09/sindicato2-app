@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Demo · Base Sindical</title>
+<style>body{margin:0;font-family:system-ui,sans-serif;background:#23407a;color:#fff;display:flex;align-items:center;justify-content:center;min-height:100vh;text-align:center}</style></head>
+<body><div><p style="font-size:18px;font-weight:700">Cargando la demo de Base Sindical…</p><p id="e" style="opacity:.8"></p></div>
+<script>
+/* Abre la app real en modo demo (datos ficticios, sin cuentas ni servidor) */
+try{localStorage.setItem('sin2_tenant',JSON.stringify({id:'demo'}));localStorage.setItem('sin2_multi','1')}catch(_){}
+fetch('https://raw.githubusercontent.com/dicapo09/sindicato2-app/main/app.html',{cache:'no-store'}).then(function(r){if(!r.ok)throw 0;return r.text()})
+.then(function(h){document.open();document.write(h);document.close()})
+.catch(function(){document.getElementById('e').textContent='No se pudo cargar. Revisa tu conexión y recarga la página.'});
+</script></body></html>

@@ -10,6 +10,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.view.WindowInsets;
+import android.view.WindowManager;
 import android.webkit.JavascriptInterface;
 import android.webkit.ValueCallback;
 import android.webkit.WebChromeClient;
@@ -31,6 +32,8 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        // Seguridad: impide pantallazos y grabaciones de pantalla, y oculta la app en "recientes"
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);
         web = new WebView(this);
         web.setBackgroundColor(0xFF0F4643);
         WebSettings s = web.getSettings();
@@ -148,6 +151,13 @@ public class MainActivity extends Activity {
     private class Puente {
         @JavascriptInterface public String canal() { return BuildConfig.CANAL; }
         @JavascriptInterface public String version() { return BuildConfig.VERSION_NAME; }
+        /** Activa o desactiva el bloqueo de pantallazos (por defecto activado). */
+        @JavascriptInterface public void proteger(final boolean si) {
+            runOnUiThread(() -> {
+                if (si) getWindow().addFlags(WindowManager.LayoutParams.FLAG_SECURE);
+                else getWindow().clearFlags(WindowManager.LayoutParams.FLAG_SECURE);
+            });
+        }
 
         /** true si este APK puede recibir notificaciones push. */
         @JavascriptInterface public boolean push() {
