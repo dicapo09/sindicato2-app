@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T13:39:49Z",
+ "actualizado": "2026-11-21T15:24:30Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -294,6 +294,12 @@
    "nombre": "Leyes laborales",
    "items": [
     {
+     "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQzNnUFZqY2lmX21PVUVrVWtLOU5Vb1FreF9zUEJmcE1aM3BHM1Utamw1V2lPa0Y4Z3YtbEFrSndyTHFuMkZFMXBQMTV1S3JEMXlMaV9tYW5pSmZkMmJvRXNtZmRHZlRFWk9vTTJaVFphRW5iTXhaZGRpUVVuaTF2UjdoVDI3T25JeHp6Tkl6Y28yWU02dGxBei04UjUyTzlFdUgwQVFVbm1QcGhCUUFEei02Wko3LXpqLTBheGkyMUFuVEp4Z2hYeVpSaw?oc=5",
+     "fecha": "2026-11-21T14:25:32Z",
+     "medio": "El Mostrador"
+    },
+    {
      "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
      "fecha": "2026-11-19T19:41:17Z",
@@ -306,16 +312,16 @@
      "medio": "El Observatodo"
     },
     {
-     "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
-     "fecha": "2026-11-19T15:27:48Z",
-     "medio": "El Mostrador"
-    },
-    {
      "titulo": "Ley de 40 horas: ¿A quiénes aplica la próxima disminución de la jornada laboral?",
      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcHI3V3FSQ0JFSHdTZHFmeThEaHYwZW9ndkZ4NFQ4eWJvTE9Wd1RWWTl4X25zeTVsd2ZDVHpqNTFvN3dBemdDdURtOEJyZWFwSmlFSW44bHZwVkVFMUU1OTB4RUF3VHhEUTdPSjUta0Z2QlViZmQwSHcyZWowdU13VE9DNjRLaWliUkc4bEFuVVJmTG11djIxZXY1Vk4yOTRDbkdub2M3SUNXUkRDUUU0WUllZTB6OXRZdDBGZEkwekNCWk9kU1U2djliRktTNzkxUW52UkhDSFpsMkNDR0dtTVI0VEF4RWlkSWx4c19B0gHzAUFVX3lxTE9id2o1ZzR6b0V0SzFkVnNicjlKUjhJcTRub0pkY1ZlbUw4ai16Y05PbHdQV01yWmp3SWtIZktGLTh2SmNTc2tOV0lDZlhKQ042QUtWZXByWmM3V1VTVGUyR3lQcDhzWDE2MGI3cmxmQkJfWjJwQkhhLXNyamdIV1NadDdONTJjMldPTXhXUXVOYWtacjhFRFV4aGhzTHFTb1VodVVuYnFHclJLTU40dzhLRU9XMWhRckdGbkxEZ05zdkpCR0pUbEtNM3M0alRoVjdkSGNPNG93RUlRaVd2bDIta1E2a211Q2loY1loXzl4NkdWWQ?oc=5",
      "fecha": "2026-11-18T12:00:00Z",
      "medio": "Meganoticias"
+    },
+    {
+     "titulo": "Ley 40 Horas: ¿Cuándo será la próxima reducción de la jornada laboral en Chile?",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXpmWVNTa3dsSFFqUHY0MlVXWFdwNXlzenJkeW1Od1p6QTdkYU9IU1VVRDZkRDJETE9iSGt4cnAxNVJCNmJrZ052ajRFYWZGRjlQSFFuSXFHTlVQS0Rld3VZVnBLdVVRai14SVdXbzNHR096Ykw4OTc2c1BFNkhpV3o2VXpQc1EzMlVvSzJTMXdrVVkwWnJBd0RqRVZMYnpzd0RfdXhua2dVX2Fab2FYa29PLVlpX2I0?oc=5",
+     "fecha": "2026-11-16T19:54:02Z",
+     "medio": "Canal 13"
     },
     {
      "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
@@ -330,58 +336,52 @@
      "medio": "CNN Chile"
     },
     {
+     "titulo": "Sindicato Sandvik Chile Nº 2 concreta acuerdo en negociación colectiva: La unidad y la organización sindical permitieron avanzar en mejores condiciones para los trabajadores",
+     "enlace": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNN3pieGlrbWZCbWsydmEzU2hIM2RiVTZuRnI4TDRQbHRVTGJoUE5PS3UtZWpzVTlkbllYNUU0VG93NjROUHlpWVM0QUNQaV9IcVB5MWRFY2JmMzM4RWVqN0ZSVzdKQ3RNZV9ZeGdxenBvR0dOMjJiNV9IeUhYVmt2SnB2OHRUS2d4STU2bVdSeDZiOFJ2eG53Sjg2YVJIeUkybENBY2RWSU01bWV2dVJXM1VKZHdFTkxMa193c1FOR3JHM2JteUxyT2ZBUHlsSkhlM0lHWUFmQlQ3dUhhTnFoUkMzOTVrdTQ5TWlxYkJka2dDMTdra2YzYU43cmJtRF9OZFk4bXZkN3FhcFo0VkZwaDYwQWxPUnp2aVlXUnFQRTc5bm90MUNEckh2ck9PQzR3T2hEZ2JPZUxNaF82X28wNjFjb19pVEpqTXNGMWpNcGE?oc=5",
+     "fecha": "2026-11-11T18:04:22Z",
+     "medio": "Confederación de Trabajadores del Cobre"
+    },
+    {
+     "titulo": "AVANCE DE LA AUTOMATIZACIÓN EN CHILE: CAMBIOS Y DESAFÍOS POR LA LEY DE 40 HORAS Y LAS EXIGENCIAS DEL E-COMMERCE",
+     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmpWX2VtdkduRjNmQWFqbHZkb3htcUJuSGhjVHZOaVVNUmdIeTl3TGk4bGRicHdFQThoZ2MxR29TTHF5ZlY0R2lUd0lTWlNUTmFtckR6NEx2bXVRM3ZIcDdQOGRSRVRBRW55UkRnQmU4X3k4UHZjdlhiN3Z1MmpnRGdfVkFjaElpU28xNjlWWjc4LWthQ0lORW9tUThfdHlERF9iaW92aVVXX2xmNWh4b0RudHhIT0NDV2w3TzgtYWNBWWx2UnhFMFo2cmJmS194Z2pqYXQtaUZGbUdRTFN3OEJOc3hzUkM0OENGRzc0YWlBUm1XZzZR?oc=5",
+     "fecha": "2026-11-10T15:45:46Z",
+     "medio": "Revista Logistec"
+    },
+    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
      "fecha": "2026-11-10T08:00:00Z",
      "medio": "EL PAÍS"
     },
     {
-     "titulo": "Kast quiere modificar la ley de 40 horas y flexibilizar los contratos de trabajo por turno",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmxfdTFvbkFqNzFBbFo1ZXF2SGRFR0VkOUFsTjVzUkZrXzlMMTk0bTVLdTd2TEwzSkRsMTVxMmU2NmdGTzFlZ1prUFBiTGdoWktES1VWZzdBaWFuTmJaeWFqYmhGMnFMVHhBYkFRbHBQZU5ERE1DWGMxd1VDUllZRlEwRXJIWUsxMzlCeXc5MFd6VUF1LVM2TVNobW1MaE82dlVxcl9CeGhha296N29YNDE3VjgtT2lYNTFFbHNiT3JOZjhEUUZnOTVPc9IB3wFBVV95cUxOUWtERVpjUm9YWVg4VjRKNG9YRnFvRDk0VU5QQ0djWVNXWFNjcGMwVi1zWGpqaHc0VUdqajFyclFPNHNJS3hzMkoxendMUDFBM1Q1TFNlNnlKa3BmN2JUYzRCWTZXMWF6d2hzejZhZGdIVG1QQjRLUC1MaEx4N3BoT3BVcEg5WEtBcTNaVlZjdVFfRWpNQUZsUXFucDdWXzVDZXU2VzZ2dUhHNm9CbmZIZkluejR1bnRrS3I0YUttR2EzamY2REVWcFpaSlhWd0lObGw5Y3hNOWFMWWs3c0JB?oc=5",
-     "fecha": "2026-06-25T07:00:00Z",
-     "medio": "EL PAÍS"
+     "titulo": "Ley 40 horas: nueva jornada laboral en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjcxMDBXNFJOeDJFZWFBSlRPWHhQY1h6a1hXbVBRc1FibEZXVzhwYUV6blVfQXZxVnVydDlKRThMTl96SnE4RUlRODl6am1zMmUxMDhaRVMwVU1CbG55cEhLOW9OMVdZTVBkeHhfZmp1aG42aHQyOVdzS1FNT242NnVmalJrRjBoenlFZUdNMFJEV3BuZ0JYMUw1MUhhY2N6UkdKN3IyVQ?oc=5",
+     "fecha": "2026-11-09T17:51:34Z",
+     "medio": "Enfoque Digital TV"
     },
     {
-     "titulo": "Ley de 40 horas en Chile: cómo y a quiénes beneficia la nueva reducción de la jornada laboral a 42 horas",
-     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbkFKaS1IWS1BSm9LWXBvUXIwQWYxc1hHc0tmRTNpR3JYU09TOTVfUnpBM29SaEh2bzdGTGNTY2MyRV9kWHlYVnBhU1JPeTNhdWo2RjF1MzY5UTRpMkV1RFAzcVVsRDFYRW5NNjRacldVRUxTekQ2S2lhWHdycjlqZUpnS3o3VU45UVV2bGpSTGhSREZaTFoxRS1ndEk5LS10dFp3NWpnWkFJSFZUS0lyTUN2czc4azB3SV9SM0ctS1AzSHFkZnBTM3Ixb1lsc2N4d1YwcnhzSEVMQi1S0gHwAUFVX3lxTE1FVjhOWm41eXNFeFdXSWpaYUMtbUlLb1hBRWFsdEFnVHAzVnA4aTJqQ2tna3lDX0VJSlNoTWNzRGJ2TUxQMk1XM3BhU1U0OWU4SmpXcFJQR3JRcnhnbjFHQmVheWlseElpd3hvSFRJeFg0Q3JXc0Yxb0FUekpLQkJEQ3ozRE1XME1tMWhMT0xZWWNXZFE4cW80dTFNclYzNnZTSEtQUkhKMWZ1UjRJSFU5OFhEZXl2czNGVTRNZ1lWN2pRWlIxOGpMNGZxU0k1cVNvaVV6Rmp1dDlHUGpBTnE0bGZza3lUYktnQTA5dThWNg?oc=5",
-     "fecha": "2026-04-21T07:00:00Z",
-     "medio": "EL PAÍS"
+     "titulo": "Ley 40 horas: cuándo es la próxima reducción y a quiénes no aplica esta normativa",
+     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWHpzd09TeEVrTzJLcVNhc1R2bDAxcGhSQTg1TWtZczVyVFNMOE5fUzNzMlotOFc5Sk5wSlRVV01LeFM1Z3ZKVlR0NnBlRTV1cjRoc1N3cGxoV285dV9DQ3h0WmNqLU1lblpNNEh6OFdVZWNheHlpcGdzejM4Ymx4NllWRFZhU3NFbFB4bUZpdWVTRmZlc1g0cEpZTmpBUmdyOW9PVmJicjNKSGluNU1LYTlYN3hIaDVheUJBdWhYWlFxekxjeVZ3QncwUVpycUdtcnVjSU15QWRlUXBxcU5RUHlQcXNycmdJ?oc=5",
+     "fecha": "2026-11-09T08:00:00Z",
+     "medio": "BioBioChile"
     },
     {
-     "titulo": "Ley de 40 horas: Contraloría excluye el tiempo de colación de la jornada de los trabajadores públicos regidos por el Código del Trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPM3RlZUZhQkttWGM2azVWcFozazM5OWJFQzlEdENjTFM3NElvVkdoN0dmYVhZMnAxNFM5RklCOEUyX1VSTFNxQlFGNUxGc3dBUTA2Qjg1ODhlZG9RYnZMSGI2cTU3SXZxaWNHYmFMdkRrYVVidk5GcEZqTVRXdERRdTlRTDg1QmNud2NXT2xrU0JuUE9XZWcyV0pSTmg1ekZiZV9XT1d2WndLQnBkMG1VRVVyRWJILWRvREJQeG1pZDBGM1dkUHAwNjRZeVJlSGdVZzdiRkx2bFh2ckQ1ZmpYYXpnOXBNeTROZ2FCc2NMWXFOOFpaVmoyaExSREJJZ1FtRXc?oc=5",
-     "fecha": "2026-04-20T07:00:00Z",
-     "medio": "- CIPER Chile"
+     "titulo": "Las 40 horas en Chile: Conoce las fechas de reducción de jornada laboral y quiénes quedan fuera de la normativa",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcWZTNnN0ZEtFeVZNMXIxd0tDbkpOQnBJY2RkS25qbUJNRnFjRzZqMWZQZGNndGNCSGd0TjRsT3hJZDYwbmZMTHI4aWF0VzdxTEc2MFdkY3VidVFzcVpKeEFuUFJtMWxkcVNIa1g5N0R5SVJBWnVkZ3lLTkdpcEk2YkVVNFFLS01xMk9odVZ3SGRVeFR1VWxMLTIzbDFTTEh1dVpkc3hVc0RHNmM5MGF2Uk9WRUViWS04eDZobDhDaWRpNVhwTkF1alJZTDVMRlJ2dFhJS2lwbmpfaVRHbWVILUV3SzNPSDNzNy1IajhB?oc=5",
+     "fecha": "2026-11-09T08:00:00Z",
+     "medio": "Publimetro"
     },
     {
-     "titulo": "Nuevo dictamen amplía criterios para negociación colectiva de sindicatos interempresa",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iTmpwWDAycjZLaVp6YmlqSG1QcXJRU2tCb29kdFQ1ME55ejlzYWFZOE1fM3hjZ1F5RlVKb3Y5Q2JJUjY1NlE0bnNDV3BDTWZHYWZ0SGpVWThHTm9iTV9HNVQtSUFnTWc?oc=5",
-     "fecha": "2025-07-25T07:00:00Z",
-     "medio": "Dirección del Trabajo"
+     "titulo": "ANEF junto a la Mesa del Sector Público inicia proceso de negociación colectiva de las y los trabajadores del Sector Público",
+     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlFwU19KRVhVQVdRcUlSR3VXdlNOd3c5VzcxMTJZS2lwYmhuVVI3cXh0TkIwWGJPdDBERUM1OG9ieG1TUnhPSnVlRU81eFI4ajNDTGFjZEVMbXc0d3o1ZGJqNUM0cUZnV056OEcyY2NZUjE3QmZLLVlTdTJaaFEwdmNYTDZnVnBjdHRHMXFPcVZKNXYyR0RYVjNBejhtQ1c0amdCOU5lN0lyMXBhWFctNG1telUwWjBFbDFoN1RRVmplNWRDMWtzbmR4VFl4YVVvbjBmZnN1OU0?oc=5",
+     "fecha": "2026-11-05T07:40:01Z",
+     "medio": "anef chile"
     },
     {
-     "titulo": "Dirección del Trabajo analiza efectos de las leyes de 40 Horas, Karin, salario mínimo y conciliación de la vida personal y laboral",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5ZmVwM1ViV1RoZTRCZkpBYndLM21hTGRwVEZLam9ndWdIWjhKNldWNHlITW9SUzA5NUM0NTRBa1hwbWk4aXljeVJfRHItZGlzLXFrdkE0Qy1tREh3eS1NTFdyUi1CRkU?oc=5",
-     "fecha": "2025-07-15T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Cumplimiento de reducción efectiva de la jornada laboral a un año de la nueva Ley de 40 horas",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRnlQVEdjQ25saDNmaHdLSTFodk9pdkVMdWZNa2dpZmEzdHBmb2RZZmJYWEhqZXdBMjNGcHgyU3JZYS1oVG01STBUTTVfUWczTktVek1PcE8tb3g0dWx4R1dQNHREeGM?oc=5",
-     "fecha": "2025-07-14T21:58:48Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
-     "fecha": "2025-04-25T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
-     "fecha": "2025-01-15T17:57:43Z",
-     "medio": "Dirección del Trabajo"
+     "titulo": "BHP ofrece $28 millones por trabajador al Sindicato N°2 de Minera Escondida en propuesta final de negociación colectiva",
+     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRkxmM0Y5Y25LcUpDSTc4ODVBY0FhNnRXM2ttcjJxb3RtZVpqZmt2b1ZuV3g2WTZGYXBqVnd1UUFWLW9PMHRCdk5WTkJUdWgtdkVwUWV2bkhIM2QzZU9neDRUazZNbV8yUzJ2Wm5TdDZHVG1xeXVoSUk3dzY2b0RPQnFZRk90N0l6OHRieTVhSWQzT2otV19NOFI0MldXQk4zYVhMVFYyX2ZORW56NDZGQkZvMjRyQzd6Vko0bm5XeXk1dDRYNm1FcGdxUU51UWJPbXZkMGNlTXVTNDlPd1JfdUJ3?oc=5",
+     "fecha": "2026-10-13T07:00:00Z",
+     "medio": "CNN Chile"
     }
    ]
   }

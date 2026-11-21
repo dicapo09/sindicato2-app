@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T13:39:41Z",
+ "actualizado": "2026-11-21T15:24:22Z",
  "fuentes": [
   {
    "clave": "subpesca",
@@ -66,6 +66,12 @@
      "medio": "Instagram"
     },
     {
+     "titulo": "Fenómeno del Niño y sus efectos fueron abordados en webinar para Centinelas del Mar",
+     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGoyT0IyejhDenV0NGlLMW5XQTJBTlNTTVFadEd6Zk53cHpQd0NuOUhuQzk5TEJXcTF2dVpGem9NYjVFOEZsWkpXZjVGREhxUlN1ZXNPUVAycTUyRFhSTzVjUFpscWVWSTgwTmVDeE5mZmxpMmlWNFJnZl92UHBzQlpzQnJXc3ktTnY0dGtCQ1kwTVFJYndiMzBqN0lGQlRyNXRta1o1X0l2czBWS2l3TEFrVmdxWTB2ZnJB?oc=5",
+     "fecha": "2026-11-17T20:22:55Z",
+     "medio": "Sernapesca"
+    },
+    {
      "titulo": "Pesca artesanal y fiscalización en riesgo: cuestionan millonarios recortes en Sernapesca e Indespa",
      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNjJGdlktM0NRRVR2SjRJSVpqT1l3bDBpTVBhbVAtWFNLY0FNam9RaTJGWGplWURXeXppSTVjeFBfczE3eGN5Z0o4QVlUSG9xSkJpT2FjdFJaZEd0cnhxWU1CZGd5eWRKNS1DSDQ1MTJZbUNUcEtzWElIZHhDYUxBaWlNTTg3TmFhTUM0akZwZEliQko2VEJJMHJvOEwxOVNXelpWbGM3VE81RlRGUDVJQWZtTy1DOVhBU0M5S2dURjhzemdpZndaQnRJWXh0eHNaTWJYOTBkazFsc09BSUctX3I2X0dERTBJY3pRT2NTVzAzaE1tSlBzTQ?oc=5",
      "fecha": "2026-11-10T08:00:00Z",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tQndxa2hSTkxBbmZLYlJlVlBMb19DU1AtckRDOXdReWZSZ1MzUk5nS1BXZm1FLUsyVU9rTXRWMmNEd2gyVWtyMTVNZzVweEdjRXVseE9QSDZXYUU4QXNfRDhB?oc=5",
      "fecha": "2026-10-23T07:00:00Z",
      "medio": "SII"
-    },
-    {
-     "titulo": "Sernapesca y Armada de Chile refuerzan vigilancia de la extracción de centolla en los canales del sur de la región de Magallanes",
-     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRWgweHNfRE9zU3RhUkFMemE5YnBHOGd6Q2M5c1RieGdwbkxjRml3SnJBUkw2eGVQOGlfSG9oWDQwVWpITVI4RUpQYnltZ29IaUdnZkU3MFAtRFpaZkZ2MkViQTZsQW1KNU5vX1hGRGR4eGU5Z2hmcUQxaTVXZThmNThPMGVaSUJLRy02U0QxSkZBS2NGT1VXVGZRVzhfTFF5NTZxbzI3c2ZObGV2TlJGTkRKQW1xMTRZUGxFN0tLY1dCci1zZzI1ZHU4akJfWTQybFd6OHZucGN1bkptcHlNMkkwWGw3XzZpdmhhUUpmMkZJQVFvV25F?oc=5",
-     "fecha": "2026-10-15T07:00:00Z",
-     "medio": "Sernapesca"
     }
    ]
   },
@@ -186,18 +186,6 @@
      "medio": "Salmonexpert"
     },
     {
-     "titulo": "El tribunal dictamina que la demanda colectiva contra salmonicultoras puede seguir adelante",
-     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdC1ySkZnVmtQNUtibmNpOVp3eUp6UGtLeEVzbnVpMWstUFdsR0ltNWtOMm15RWhDd1RCUzZ0NG1JOHFGVHdRUnlWWVZFclE1M0ZPWUh5TUtpSXFmdTFPU3hENGx3RjBoaEhSQXFYazU5aVZQYm13YURtdEdNMndQWUdvXzhTdk1IQTM5NzBUbXJ5MWZoblE4b085dUEzOWFXUy1LUU16ZFdwTlNGdmp0UHF0RzVXX05qSHh1a09Ucnp2RHJSb1B6cU4zUDZnU0FQOEswRWJ6cEw2cDMyMDVWbEh0Zw?oc=5",
-     "fecha": "2026-11-20T08:40:00Z",
-     "medio": "Salmonexpert"
-    },
-    {
-     "titulo": "Identifican una nueva fuente de variabilidad genética en Renibacterium",
-     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXVScWRHTUJDa0l2SUFmT1ByRDZDcjZ1c29QQ1UxNXlPeFk3RzZaNHYwQ3lGWDl0QzhxdERxaHc4SXNwWlhoSl84dXpXUGxnMkxPN1BfUUJfMzNNOTdMMVI1SmhsT251Tm1JRXFncUtqdjZnMVZfYXp0X3hucGhwb2o1X2pWUDlhVnExa002d0luaHpNMG1lbWI1VjhpRF9QeTVhTXpIYUxvTlZFQnhXbmhCZk9ha3NHd3FRY2N6TW50SmE4SjNxUXlfQmsxdw?oc=5",
-     "fecha": "2026-11-20T08:30:00Z",
-     "medio": "Salmonexpert"
-    },
-    {
      "titulo": "Kast en Japón: 'Familias chilenas tienen trabajo en salmonicultura, por las decisiones que ustedes toman'",
      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW5oVm5NVXg1anEtMGFKcFpxVWduU0RLTWdDQjNjS01wZkJ3Rzk3SGo5NDZ0djlLSTJ3c0ZBSlU0Rk56UGd0SndsYjFDSWtkQmpsNEZtNlVmeGhXVTBETDAyQkJXZkFXT09CbFNXOFljSEtnVlhDWUFDVTdqSDh4d21nNDJieHd0Ui1GWUVOeW8tRmVFRHB6ZDNYcXJkNXRzQ1cwMWhXdVU4WHpLODRrWWVhMEstRWoyblRWT3R5RHVJWmI3bEFGb2VFd240MzR5T0dpZU5rTTREV2gwUFJzY1NNNDZ2ZVcyeW9xVWd4aw?oc=5",
      "fecha": "2026-11-20T08:20:00Z",
@@ -228,33 +216,45 @@
      "medio": "Salmonexpert"
     },
     {
-     "titulo": "MSD Salud Animal refuerza su operación acuícola en Chile tras reorganización global",
-     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYkZWMnBldmlRZ3BPM1QwQ1M3LThPeExWZTJvbWxjTFh4bDlMYmNEV3Q4cHZ6Vkk2VXpMTU1ocnV4aVZhcEFLQ0s5ZUlfT19wOGVRNnZDcmVRWTl3dUV3dC1nci1ISmFXdjlaNV85N0lQaHFkTXlpUGZNMEdiVTAwdmFsWWVaZVlZY2hDV0JxR3c3d3ZneGRqUVVDZzhSaDNOc0syYkZtQmVHRjZJTlFCR3Fjczc3QW8xVnpqMXFKaW9VVTl3MGxMbUdId2FnMGwzRnJkb1RQWFZtNnV6N2VqU3djM3hvV0p5X2dF?oc=5",
-     "fecha": "2026-11-18T18:10:00Z",
-     "medio": "Salmonexpert"
-    },
-    {
-     "titulo": "Industria chilena pide quitar las trabas a su salmón tras el aviso de competencia noruega en Brasil",
-     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR29wV01hMnktb1NZM1JOU19WLU9SdUdiZUNtVEtFeTNMNmdQck1WZDQ4b1RiNXJZdEJ2VGNEU3NtUEt6N0hGb1NBVmhYVUlhVzMxelZGeVVDa0E4ZVF5R3pYM0tlUUg4TXBtdXNmZW5NMk1UWjZISWdCMVAtMVN2MF9oeXVBU1FoS2luVG9Yb3FNOWZHbFNra2U1YV9sX2pVUm10c29JV0k2NFRWUjB0aDVqdmppQVA3MTBIcElZbllmV25mX0xXbzBVRDA4THBDOUJxbDJHNFFPM1FBZ3ZONTZhSVRsSjRUZEYxNEMyUUd5QQ?oc=5",
-     "fecha": "2026-11-18T09:00:00Z",
-     "medio": "Salmonexpert"
-    },
-    {
      "titulo": "Exportador de salmón se declara en quiebra con millones en deudas",
      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1NjUkQwVUJhWkVuSVJYeG02bFpQd0wyRzkwdG55U3pqY3VOOENMUnk3WklidWh1bUZSdDktNEtRQ3Roelh2RjdpOW5OWjZNVy1oc1Axa1VSY0k4b1lvT0NteGxBV2drRlB2QXhVQjVDUzZ1RmJyZloxU2E0OXBfTTF5SEV2dk9BRklLYTJ2OGhWV1kxcmNuRzhVRG9fZGJ3VWR4Z1FEYlkxZjlHZ3pPOGt5V1R0WjQ3R29TRmM3VGRPTjRjZ1RXR1ZROVVrdEszRnc?oc=5",
      "fecha": "2026-11-18T08:40:00Z",
      "medio": "Salmonexpert"
     },
     {
-     "titulo": "Habilitarán plantas chilenas de salmón para US$15 millones en negocios adicionales con Vietnam",
-     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQLUpiSlR6Y3h2bXNpcWxsajlVdzYzQjlZbFdkT0ZqS2VoQ2NPTHowZFhOT3VFTVZBQnlwVVNJMUtWbFhFUVc4OGlCVkNiSk40eGtmREpKVmtnWHM1d0xfVzlPSEFHM0NnTU5CaFlvVUJwczNpTkdJWFJZWFZwc1VDd0t4LVVpU1Y4bkN0OWFlYWRvdGFVcVZvUXdZQkdGZGU4LWtnMGQyX1hzVHZwOGVPM0xfUVBLVW1fZHV4SlpVbFRqeWhUSUlNaUgyREpMOUN2cV9xQ3A2RTRmOURIVG5DZXJGZGZHZWxwMGx3NTloYW9OUVZKTFNUd0FQbw?oc=5",
-     "fecha": "2026-11-18T08:30:00Z",
-     "medio": "Salmonexpert"
-    },
-    {
      "titulo": "Piden 5 años de cárcel para dos extrabajadores acusados de robar salmón en Punta Arenas",
      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDloMVRoaFg1Y0VzWnoyZ2YtRW9zc3kxenQ2dmRlY2JkdjZJUWVHRXdjZ0VDMmx0d1NKRWZ1UlQ5bjNYOUFTeHF0N2dxWW12NFVmWmpIcmxCNml2ZVJ2Nk1oTlRDcjlrZjZER0JJQ0xpRzZ0ekM1emxBSnY4RFRRUWFRdEtGTUxDekdMSEd5dW5ZbXV3YXg4bElEV2pGY01OcUh3MjdyU09aSnI1OFRKZXJLV3ZleGE3X0NDX1Z6VWxrZG04Mmt5TVQyVS1hZzI0VDJJOXF1TlJEVmVDUDVRdDZPc3M?oc=5",
      "fecha": "2026-11-18T08:20:00Z",
+     "medio": "Salmonexpert"
+    },
+    {
+     "titulo": "ESA Magallanes 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uQnNjdFhxUzR3bnhoNnpQT21xVkQyMlh5OW1ndVRLdFVKUG9xb3dYNGN5QnAxRDRQTEZpemo1c0tMck45WC1VT25mTEduWXVlNkhTaHREek15ZFE?oc=5",
+     "fecha": "2026-11-17T21:25:20Z",
+     "medio": "Salmonexpert"
+    },
+    {
+     "titulo": "AquaChile integra delegación público-privada de Magallanes en gira por México",
+     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSHc2aXhIdVJDcHdScE85V0loSE1uYjlhT2drOThFNmhXNW5wcDkzVWdJTW1Dc1JETVlSZF9NNnlzSi1KektJQllQQWFzTW1SOEwwUy0xNmwtOEJCcjlkejRUOVRVaVBnbTdIUllHclJqMjNFVWxsUmEtMHpjbmhNMElRejF3blZHWUJlZ3h1WUItZzEwM0ZqQVJNZm1IdVlOSWJPcUwzejNYekoyeHJYV1BDMlUtb2h5dVRWZlBHZzJ1RTQwamN5VnRZZ2YxRU1RWkZ5RXVta1U?oc=5",
+     "fecha": "2026-11-17T13:50:00Z",
+     "medio": "Salmonexpert"
+    },
+    {
+     "titulo": "“La decisión de Noruega de ingresar salmón a Brasil recuerda que los mercados se disputan cada día”",
+     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT0ctcHVERnlPOUhMdWd0YndVQkRCS0xndzdkNGwxOEZTRWdjbDhoeGQtSXZwWm40ZnpWUllTWHdSNGg5eFRrbWcwUi0wQTJWaDlBcVhOLXJiZl9idkpiMFFENVUySUE0cGphUlRFWVlUZXdLaWNlZ1pNUWtQZWxJRWxoanFuMDRaaXNBZWZ5cnM0WWhVWU1GZDIxNzVSSDdmUThtbmdjYldPVXJyQWp5TWl1aExfSlRFYXhQbmRuU0Y5N1dpTEtxQkJCV0pMbmFqZ3ZGS3A3bG5xejgxWnRfM3FSdkk0N1FwN1lDbmxDMA?oc=5",
+     "fecha": "2026-11-17T09:00:00Z",
+     "medio": "Salmonexpert"
+    },
+    {
+     "titulo": "El Niño aún no alcanza su máximo y ya moviliza medidas preventivas para la acuicultura",
+     "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPb2MxVURDZnZCbVF4SWVQUVhwRHdDdFptYlJ0NzhicmtoSFgxMGlTdmFZZFY4VFFKWUs4eEs4bGFEWWd4NUdvUGVBZ2xmS1I1dXJjc0lDR3pvZ1VTZkFBMlhodkQxTC14MDZjWksycWJWSjNzaERlTnpZbGtDY0lmZ0dSM1RUUDRfUUlNZkRHRER2VTBqREZ0RU81OWhQR3FFMG9CbC14RWVuWmhzOExERGx2ZHV6UDlfci1BRXExNE9vOUZ5X3oya3p0enFSWDQ5SlRrNGtoMnFxMlpNUUtfQ01SSUVuaVU1S09tMTlIcjFiU3Fob09Wbm9n?oc=5",
+     "fecha": "2026-11-17T08:40:00Z",
+     "medio": "Salmonexpert"
+    },
+    {
+     "titulo": "Crean empresa para impulsar la salmonicultura en alta mar",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMVZncFRfdHpaOURmbkNidVMyNWN5Vjk2Y1RNSUdEMm9TaEs1TWN5cFhJeGVRTmY1dGFPcUw1dDllb2tpTlAzaERiVncxc2xtSUE4dkpfSVR5SkJWWVFVRHhqWlFXdXBsVk84ek9ka3p2a1B6ZkRDWU5rNzAwMGZWWXhpR1dtTldBa2JsQVhPdFpJQS16ckF3Qm9JMkpYdU5oSExZMzJZdFZ2a3o4bm1WODlnY1Ixc1BqeWc?oc=5",
+     "fecha": "2026-11-17T08:10:00Z",
      "medio": "Salmonexpert"
     }
    ]
