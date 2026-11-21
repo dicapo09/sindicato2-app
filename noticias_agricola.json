@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-20T23:26:16Z",
+ "actualizado": "2026-11-21T01:53:07Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
+    {
+     "titulo": "Expo Mundo Rural de INDAP abrió sus puertas en Temuco con 50 productores y cooperativas campesinas",
+     "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VdGU5enV5UHpqMzB6LVpiMHB2QXFSTTR2ZXMtOHRYOENqRDZJQmdqNXc2YWMySUQ5NHZodXZDMEd2dWhYTmJ4aDJtSGloeU81MHZCRU1xUUJiUUItNjFqS3ZKZTVRbWVTdWtiblNyaE9xUDNjdlE?oc=5",
+     "fecha": "2026-11-20T23:22:23Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
     {
      "titulo": "MINISTERIO DE AGRICULTURA DESTACA LA FORTALEZA DE LOS AGRICULTORES DE LA ARAUCANÍA EN LA EXPOSOFO 2026",
      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnhuaEw2Rmhqc2JTUjRsTi05U3VFZUV0SnBfeUY2Wkt3cFFDY0h1TVdYYWtCYmZvNnlkNFluWk9ZSGRacXJrcEQtNWFYVEhxNm1oYk9UNU43Ynp5dTlOd19ESWsyZmtjMWh3d0NfWDFwNF9kNEU2UURpNDZKUGI3MlJXMkJwNEVqOVlCVG1RMEpKeWNXY2RRV1NvNk1qbUhUVWRYTnI5SlZwT0ZaR096NDBXZmJLdm1aa2t2YXVUOGVQQ1hiSFBKRlVHUTY5Qmd2ZE9lMkZNVjVmOFQwNVQxQQ?oc=5",
@@ -54,16 +60,16 @@
      "medio": "El Clarin de Chile"
     },
     {
+     "titulo": "¡El campo se toma Temuco! Expo Mundo Rural de INDAP abrió sus puertas en EXPOSOFO 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYW1YZGtkdENBNlRUU2pLRV9lYkp4MEZOeFVPaWhibGY2T01YWWJFWkJGNlFpU3FjWW1hVDcxb3hfaXRYVjJLUm9RVzFLV0JDalh4WjR3YUdqQm9Nb3Zub0V0bWZjMDVoUFh2MVdBU2dJMWJEN1I4WC1XcS1VMUdrcXVXa2lNVGdNMzhJazFrVk1Lczl6NlFzektxRWYzdl9xNERfcTVUUXhuSmdEOEZ6dXdjbUQxT19hb3ZzMlVXb3U5NmRaUmc?oc=5",
+     "fecha": "2026-11-20T17:54:48Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
      "titulo": "Destinan más de mil millones de pesos a proyectos de riego para 86 agricultores de Los Lagos",
      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWjBVdl9yMUhCb0swaWZDaDFidlRhYkZfMXo0WFZhWnJCcDlCaktyWC1NdUxkQVIyb1l1TGJEZ2o3T1luSVV0ZXRkSzd2UFlYRVZFLUlCUzZjSTNCSjRzdGd1b0NzNWs2RUlFTnBJaFpUSGlkbkVTT2xVbVdsU3BXajhRbGVibUFUQ3ltVFdkNA?oc=5",
      "fecha": "2026-11-20T17:23:42Z",
      "medio": "SoyChile.cl"
-    },
-    {
-     "titulo": "Expo Mundo Rural de Indap acerca los sabores del campo a Temuco en pabellón de feria Expo SOFO 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONm1OQjRjWXdLTzh4VUJMV2YtYS02REgzbjlqNUlxa1p2Qlk0Slh3MUN2dUEwTndHcENyX2VPc0hiemVuTmxBMkotRFVqMjFJSnQ5MEJVaDJFdVYtWjBOMFdNNHdtWndGQjhFUzM1dDZKVFVoeUpNMUp4ZEdlb0xqOWhVRkZ1WUF5WDFEdEVoTHlDSjJNVE13Ti1LYnZMRW93TllfOTVHTkxmdGZENkpLU0xSTlhSaW9ObEtGTU9pOHVQUTZpcTQ2M3piZnRyMTRzWjQtbjBmdVpPUQ?oc=5",
-     "fecha": "2026-11-20T16:33:13Z",
-     "medio": "Atacama Noticias"
     },
     {
      "titulo": "Chile proyecta una nueva industria del pistacho y atrae interés argentino",
@@ -84,16 +90,10 @@
      "medio": "reporteagricola.cl"
     },
     {
-     "titulo": "Plaguicidas y exportaciones: el desafío sanitario que preocupa al agro latinoamericano",
-     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVZWUlVPcDB1djFET3lvQUVHdHgtMTZxVjQ1UzMxWThPZUgwR1p6NWdlcFhJWDFHTncxYVRVNm1EQ1VSZWhsVzZTZDhWTWRnX3hGamV6b3JETUNXUlNuSU4yVVJfR1Z6X1lrNkx6QThxV2luS2NxaUd6WE5ZT1lBMlFnR1pXQ1JWdFRYRXh4MXhRMkhjWWZOM1gtbXhtdXN5dk9qS29zVGMta1loOGtVQWlvQUlBWFFiMngxaHNxeUpUbTlVeGhPeThuc1d1R2VQQUE?oc=5",
-     "fecha": "2026-11-20T13:20:02Z",
-     "medio": "AgroLatam"
-    },
-    {
-     "titulo": "Senado rechaza presupuesto de Agricultura para 2027 por recorte a Indap: voto decisivo oficialista",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVEszYzdZZTJkMUphUzZYR0YyeUlaMjhNYlNJS0pLQVZyUFVOUzAxVl8tWW5ETlVZZGRWME5sWFBGbG1scldXQ0w5U2ZOMk51WkF1dkM0dkdXSGZfblM0T25HdmtFMV9Qd2NFbjhCNEVJX3BvMEVJekZPd3UyMmVJUE1nQmNRZlczOHBUbllEbHNHVkdicTNRblhtdkxGNXJmOUFXOHU2dEdSWjFYWWFVQmtRQllXa2ZQUU5MM2oyUlVOdw?oc=5",
-     "fecha": "2026-11-20T12:00:00Z",
-     "medio": "Nuevo Poder"
+     "titulo": "INDAP invierte más de $1.170 millones en tecnificación de riego para 86 familias campesinas de Los Lagos",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaEhtdXYzWmM1eEZIWlhWWXRpNGMwVXY1TmZqVWZQZmtpQ2Z1Nks1RU9ISW0yLVdFTUZXMmpHV0hLSFpVZ2ZVTzVJREpmSzFNbjU3YjhtZnZDVTRtUC1XWEZVVnpsbjAwM3BuaU5oY2NtOHNEemlZeDE2MlJuN21kMmMtbXFRQXhDNFAtRTZwb3BXMW4zTDlXQ2VkQ3dPd25xQ3Q2b29vcFFNZkxUUXFSTktTR3VLOUtGUC1jSWxLNEQtTXZmNTdUWg?oc=5",
+     "fecha": "2026-11-20T13:40:16Z",
+     "medio": "Radio Sago"
     }
    ]
   },
@@ -101,6 +101,24 @@
    "clave": "araucania",
    "nombre": "Agro en La Araucanía",
    "items": [
+    {
+     "titulo": "La Araucanía abre 38 cupos para formar talento audiovisual especializado en inteligencia artificial",
+     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGpEeF9iZEpkeVk4bElqQmlFNzJTV3E3ZE1IOVVLZ19vQjBwMVd5bDJLcGVPTG9HeWtMV3VWQ2MtQkRFZUc2VF9JMW5xU0s0QXM3Y3JWb011RXkzc2JFaG5OWUxOQmxnbF96MFpDbi1BakRoT0l1cy1paUhHVmROYg?oc=5",
+     "fecha": "2026-11-20T23:59:18Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Bienes Nacionales registra más de 10 mil atenciones en La Araucanía durante ocho meses",
+     "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3JyakhrSC05dGNUdDUxbUJTXzdxQXVTM3hXaDA2bGpObWNyYjctX09leUpzTHAweWFfdmlsNkhnQkNxTVZmNmg0enA1SmNNUTRSZ2Q1VnpyV2ZMRXVlTDlRVzRCdmhBeXl5T3h4TWpNaEtOMTJFSmJLNzV1RE5IYWszLW9CeEVW?oc=5",
+     "fecha": "2026-11-20T23:48:56Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Más desnivel que la altura del Everest: Club Newen Andino completa el desafío de ocho volcanes en ocho días en La Araucanía",
+     "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdVBySmFpc0dPNVQta1A2dEhyWGRIZVQtTlozcEp5ckhZYkR6OUlHVGZOcFZEOUpodmo4RWpvWXZHWktja2RFZkN3TFNaZGZsS0ZzWmVxRDRwb0pES1diNEJVUDAtYjVXZG5NakxCR3p0djEtVDNEUlA5cVNvUW9KcDBhOTFlUQ?oc=5",
+     "fecha": "2026-11-20T23:38:55Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
     {
      "titulo": "Expo Mundo Rural de INDAP abrió sus puertas en Temuco con 50 productores y cooperativas campesinas",
      "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VdGU5enV5UHpqMzB6LVpiMHB2QXFSTTR2ZXMtOHRYOENqRDZJQmdqNXc2YWMySUQ5NHZodXZDMEd2dWhYTmJ4aDJtSGloeU81MHZCRU1xUUJiUUItNjFqS3ZKZTVRbWVTdWtiblNyaE9xUDNjdlE?oc=5",
@@ -144,16 +162,22 @@
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
-     "titulo": "Mercado Hortofrutícola Regional: aseguran recursos para avanzar en la compra del terreno durante 2027",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmhoRHJtdk1MRFJpZ1ZXS1hrSzREZ0NRWXNOb3lhVjJKX3B5NTNScDF0QWRMMnRjOHBXNjdzcUsxNDM5bTJFdjBZazBaR1o4OFNnUk4tU3F5N2pBTkZlS3NxU1I4djdJYVVIVjdXNWdxS2w2UFc3Uk1abzBBclB2ZzNLNkQ?oc=5",
-     "fecha": "2026-11-20T19:13:17Z",
+     "titulo": "Fondo de Segegob financia proyecto de apoyo a familias TEA en Los Sauces",
+     "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0ZmX195cGVsYmJibGxRYVRrRk5pQnp4WW5IMjdZTWEwTHR5VWstNWhEOXpZdE8ySm5udjE2U2owU29La004WXJVYU5EdU9ObjJuaVlWREJoY2RLb2FBUkFoOGR5TnFhaEQ1NkpBN0dtb0dNbXllQVVmTHNTM1c0QnJR?oc=5",
+     "fecha": "2026-11-20T19:25:48Z",
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
-     "titulo": "Fondo de Segegob financia proyecto de apoyo a familias TEA en Los Sauces",
-     "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0ZmX195cGVsYmJibGxRYVRrRk5pQnp4WW5IMjdZTWEwTHR5VWstNWhEOXpZdE8ySm5udjE2U2owU29La004WXJVYU5EdU9ObjJuaVlWREJoY2RLb2FBUkFoOGR5TnFhaEQ1NkpBN0dtb0dNbXllQVVmTHNTM1c0QnJR?oc=5",
-     "fecha": "2026-11-20T19:10:18Z",
+     "titulo": "Mercado Hortofrutícola Regional: aseguran recursos para avanzar en la compra del terreno durante 2027",
+     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmhoRHJtdk1MRFJpZ1ZXS1hrSzREZ0NRWXNOb3lhVjJKX3B5NTNScDF0QWRMMnRjOHBXNjdzcUsxNDM5bTJFdjBZazBaR1o4OFNnUk4tU3F5N2pBTkZlS3NxU1I4djdJYVVIVjdXNWdxS2w2UFc3Uk1abzBBclB2ZzNLNkQ?oc=5",
+     "fecha": "2026-11-20T19:12:57Z",
      "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "La Araucanía, centro del debate mundial sobre la avena",
+     "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmVYTlEwNGFtdzdtdmh0RUpzTFlfVTVoWmVEREtWYW1hXzAtalAtRjBEckkySVNJRVUxZW9yTF9KSFppNm1hRHFxU0EyLS1nbTZjYTViamRlY0twNlY3ZkpGXy1SV19tRzlkajBTdzZid2tFdVQyQlZiN0tPMFM0VG1wRVdzZWMwaU9VRXNCU0hZZEdpdlA5SnVxVjU?oc=5",
+     "fecha": "2026-11-20T18:07:21Z",
+     "medio": "Portal Agro Chile"
     },
     {
      "titulo": "Falsa descarga de GTA 6 esconde malware diseñado para robar datos personales de los usuarios",
@@ -165,30 +189,6 @@
      "titulo": "Granizada golpea la agricultura de Malleco: Agricultores Unidos advierten graves daños en cultivos y frutales",
      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ta1lBYV9wTmpEXzJSVlhqUUlhX2VhNFUwODRYM2FQdkRwSmtHOV9zTmU4OUJDVkpQSGpoSC1vZGhzYzFTQzE5bFZBLWN3a0c3OW5HQXpIZ2dZQk1OVzlIWHVNUVJpRzNSNjBGbjVtbGp0TWZvcUVpdGFncw?oc=5",
      "fecha": "2026-11-20T13:50:01Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "PDI desarticula banda investigada por ocho encerronas y portonazos en cuatro comunas de La Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTzRHZ1ZvMG1BOTZ5bnQ5cHZHbXNOTkpEaFJqcjVWdUdtY192c1RuNU95OVFMdmt5YnF6R21XSnd6N2N3QW1mWHNfWFVLTV9yYVNHYjBKcnh0elNLSTNrWTVwZ1Y3RTlleFVVTS1JS2FDLUFPcjE3M2dWTHhub2oyWlNjNA?oc=5",
-     "fecha": "2026-11-20T10:40:35Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Vinos, cervezas y licores artesanales de La Araucanía mostrarán su identidad en EXPOSOFO 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZnd6SmlyOUhFUThwN09ucVBIMVJOZEhRQmVTVmZ6X3Fsa0hQLVBNb1VUT3ZlR0FfT0ZrQTd1cGE0LTBSSldDTDZVM21jLUhrbXQxdWNuOFA5TG9fMGxDdVhoc0tZbk9ZWkFTemRmekNmX2xOMG5FRDNlb24zTmNSa3MtZGVwS3c?oc=5",
-     "fecha": "2026-11-20T05:49:36Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Expo Mundo Rural reunirá a 50 emprendimientos campesinos de La Araucanía en Temuco",
-     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmFBbGh3bEtIMmVVODBUTFlwWTVNWlktbldQOWNPZ2hSS3h0R1M2ODN1cEN6TVdsT0dSMGx6blh5a2Y5a2ptT1ZiSExObE1IaVBib0ZwN2VOdmRNTzE5RVhodlhUOE1xZk1BSGVJOE11U2dQelAwLVNkWTdNNlJFcg?oc=5",
-     "fecha": "2026-11-20T01:53:14Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Más de 1.100 estudiantes participaron en programa de educación artística Acciona en La Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcUlCOTVjemhZX1U3NGFZXzNRckNJbkl1RmZIdE5nTERrQl9pVVEzTFk3WEhjQlRhS0F4azhsWW45SDF3NE5ZdUVMdGY1MjU2b0ZJZG5SU2JGTmJRdG9sMkFvLTY4a2pVTmU0dzNkSTVXQkkza2ZjZ1I2ZnRoV0RxRF93?oc=5",
-     "fecha": "2026-11-20T01:53:14Z",
      "medio": "Alerta Noticias Temuco.cl"
     }
    ]
@@ -204,16 +204,16 @@
      "medio": "BioBioChile"
     },
     {
-     "titulo": "Chile entra en temporada de cosechas y el agro busca trabajadores extranjeros",
-     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSGRFUWlrLUJyZnhYME9LbHk3bG9BYXhjTVl4eWN4WFl0NDFlSGlrcGxwMzh6U0g3bWR6SzFvZzg2Tjc0MG9vcm5WNDllcTVPWFNzOUN4Ymo2N1otbzBXanZuNE9wTHk5ZmdneEdKeXBvZXUxMzJTOGRSRU9wYlVxUEZPU0otRFBMbTQ4bTRnNE5VZG5qdGtVRVJjTVhKVk5ydzQyWGJ1RDc1UVd1cWlEc1FDVFZSV1RnUjJ2cEdoaFQ2V2tTb29Z?oc=5",
-     "fecha": "2026-10-06T07:00:00Z",
-     "medio": "AgroLatam"
-    },
-    {
      "titulo": "Entre “líquidos y venenos”: estudio revela cómo trabajadores agrícolas chilenos perciben el riesgo de los plaguicidas",
      "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRU9KLUZSV3NQU3MxaW4tcEFCejVqQi1DeWVPOG5pUjlXZWhQNjFvZzRkOXR0Mml3VzJQbjFxWjdVYjA3bnhhbE9OakZQQVBDM1RobU5nVHJrRkpaWWs0S1BsNVd5WVQ1SjQxT3JiS2gzcExTcGtDZy1fVEliem9KdEFVN19Cd3BIWnI4WFlRSU1MNHlmLURURFQxRUtPdFN1Z2lEeTdqcDQwcnd1U3VHaTl4TGFaZDUwRFRiSFpRSF9sMGtRVWpRVVRac2NiV0IwUjdsQXRHMHBMOWhDMW5iVzZUcThIaXpIUWNoQ21scWI5bVJ6TnlnemE4Sm9tV1phZldtNENfVFBjMURr?oc=5",
      "fecha": "2026-08-27T07:00:00Z",
      "medio": "Diario Frutícola"
+    },
+    {
+     "titulo": "Gobierno chileno agilizaría contratación de temporeros extranjeros ante demanda de mano de obra",
+     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMUw3VGxBTzlTVFVyNi1zSUFNdFdpQno3RkNpUlR4NmpNdjB0X05fTW1oaGNpVGZ4SnFSMFV3emFFMXZ4ZlN6MDdjRE5Lb0cyUTlCbXdHT2tMdXhQYlhaeEJ3WTI2NVR6dkFfYUdlZWJlSE81NUVqcE51YUU2QVJTNnFtUkFKeGpMaS0yTHpSdFdjSDJ3ejVpZmYtYW4teGJXTXh5SU5LV0RvS1Y4a3FaU1RDc3M0X0lwVWU0MmNJbnZpUFpOaGl3bUVSSUxHZ3FKNGl0MWF3NkRsYmRjR3JZR0sxNlFaZ3B2c08zV1pnaXI?oc=5",
+     "fecha": "2026-07-12T07:00:00Z",
+     "medio": "Diario Lago Ranco"
     },
     {
      "titulo": "Gobierno impulsa cambios para facilitar la contratación de trabajadores agrícolas de temporada",
@@ -226,12 +226,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXlDZmlER0VYRmRPVDJsSlI4ZzNtNi1hQ3BubG5Ndy00a2JHSEdXdlFIbFBobUVYQlNfZ3A2cVVPTjdkTURZTkRkNnBXTjFqNktYbjk1cExxOElaQU9xVWhOTlFYdUxKN0JXMEVlM2xJenJmbnpNbnBxeENUV291R3BaT0pQLU9ELUxhbHBMRG1NZHV2RmRkNHk2U2w2UjEyVzJXaVVhbG5sQUdBc3BXaEdvSENKREUyTUpaMG95V3JxcmxOWDR1SGtSUFN1b29MY2RISnROeDJfQ1laZUxKNGZyONIB_gFBVV95cUxQcXZWWWJWeTY2bE5QYWFWaXlLaFBjSndTMGgtYmljZUlodjI5U1ZkSURaZFVxa2RZdTFobExuRk9zMklNRS1TWVdYT2h6M2FNdGdTRWJ3MXgxNGdyenMtS0FrOEJzalZDeEhRdGtBeGRXTW1fTnZFbTBET3VBYkVXM2gwM3ZZVzNRVjFnT1lnUXprVk1tR3BqcHBHYjB6LW85WlhxNC1GT3VoZmt0aU91eFM4OVpQVldfRHVUYVVSSFJCR2hDUGU0RVFtUTFiZmdBRGhzRGhWQkxHeEpsdzZVTWgwYmxoM2lrLXJiNURqNXROVHFsS2JuWThTWkRTQQ?oc=5",
      "fecha": "2026-07-10T07:00:00Z",
      "medio": "Infobae"
-    },
-    {
-     "titulo": "Gobierno chileno agilizaría contratación de temporeros extranjeros ante demanda de mano de obra",
-     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQjdodHFVRm91QXJyVEZCYS0yOEtDRk1nX3Raa2dNUnRmSHZoWFljRHJaWnJzcTE4YndGcG5VXzJmOFMtOHd3MXJ6OUEwN0tybWt4SzY5Nm1fZjhSd2JlSTVsSVB2dXJYM0t3YkJRUGFlQllIbUlId0xQT20wekpoU1JKWkw0US14UWdrYUhpNUJHR3NlZXZXZEhaR3NjNl9RQ1NFVFppUE42NEU4TXNHRlVkTnE0LWVWcmpBM1o4bF9hZ0JOV1FSSk5SODB5VE1DaEV6cG10NHFUa2xJc0hXQTBXX1EwSmo0SndVM1hGcVJMTXc?oc=5",
-     "fecha": "2026-07-10T07:00:00Z",
-     "medio": "Diario Frutícola"
     },
     {
      "titulo": "Chile acelera cambios para evitar la falta de trabajadores en su agroexportación",
@@ -286,6 +280,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPendFWW1sRTNmdEhYaS1YazhYR083V2dlMEwzZ1FRN3Zza180ZnhTVGlTTmpPcWFxd2xHNHJrMU9wOEp0LWpzMGc4UVd2WjZrWncyNVV2NkgzU1BJS0JTRnpzb2VkcU81c2FVUGQ5Z3RtS05kWnA5OUJ6eHRBel9UWHBhb01rNnhQQmE1OFJuT3puSDJ6RDgzUmlscVhFN3JDd1HSAcMBQVVfeXFMT01ybm1aSFN3QVVvWTVwcjlmMmVzU1hPM2k3SVZGWmlid0E2N0JsX1BXRVdqZ2J0MDd4cFM2dnNQenc3ZEc5eXlSb0NqNWpWR29ZVzlCNTVxcDU0SFRkcmxWVlRpaHFUcDhuaU9XNUdBRUdvMnVKdFhSRU1UV002Q2Z4amsydU1Yd0JTMGRZMklMX2hKY3RydzVLTk0yb3ZDc2JOa0NaRVE5WmZvbGhqWDdjeENyTGRnRGlfX3FkT2lra0hF?oc=5",
      "fecha": "2025-07-28T07:00:00Z",
      "medio": "La Tercera"
+    },
+    {
+     "titulo": "\"Queremos que más trabajadores temporeros agrícolas de Bolivia usen la Visa Mercosur\"",
+     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0xaUTBrMmtEa2xTbWN3aFNCdTR2aHNxWFVxNTF0b005UW5DeXpSN19xNU1EVzJNbU1uLWhIZW5RbndkR0JrV0M5WjNHLW95WWlsV0JsVm9hclBqSGhleWVFenZJYWoyU09Ndk9DOHJyS0xNXzdUT0FpN1dKMTVZUm43dC1BbUUwTUI4U3VsaWxscEpKX094ZlhoTFlxLVZ0aWdfVFVDczMxblFQSE9sUi1ocHlhc3dRUjZySTR5LUFfZ2prRG1BOHZEaWpHNHhjWVhTWnA5MDRRektocm1CRkFPVTU?oc=5",
+     "fecha": "2024-05-08T07:00:00Z",
+     "medio": "Diario Frutícola"
     }
    ]
   },
@@ -293,6 +293,12 @@
    "clave": "sindical",
    "nombre": "Mundo sindical",
    "items": [
+    {
+     "titulo": "La comunidad agrícola de California honra el legado de Dolores Huerta",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmMydE0yeVV5R3pGcHpBVWxvX1VjVk5IQnZUZ2tXMXhzYmc4NEloY3d4aV8wMTZYcWR2N2pMUDhMNm9iSmxFVWwwZDFRM1ZQWG1TMUZoWDBZMXJkUWNjaGRHR3lKQl91SC0xSG5oNk9tZU5sd3d6T0ZBTXlueFptYkszWmdkYWs2ZUF4cFdYMDZBSmpHUEdXRDQyV2o4OVJtSVBNZU9kcnAxT3BRNDVzYTFhcm91SC1BM1l3QmZXTdIB2gFBVV95cUxQRWppNUJ4U19fQ3Fyal9Ob3NsVmx1OHI0YVd3NnJFNnc1MmhJTUM1TXJpaGZYRy1BanhZR2hKaXlPaDAzZHhQZzBqVmRxb2FZT1dJQ25SU1NuSnlqRTByUl9uNDNQRXNDM1VlemZuR2dpOFhkVlZwQmh1R3NOb0NhRjNaaDAtb2F5eDBQNzA4WnBoWTZFRDQ0X3JCRWJnU3dkOGQxY3NRYVpRcEVOVGYtcGtYQmZFZ3h6M1Nobk43VDdJRElmUWswR2lnT0xxeVNwV3Z0Y3VFR09JZw?oc=5",
+     "fecha": "2026-11-21T00:30:00Z",
+     "medio": "Infobae"
+    },
     {
      "titulo": "El Sindicato Agrícola de Constantino celebra la tradicional comida del socio",
      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnJZd2FiZGdqeTY2MldDZlhid3ozMXViU29sNDNJSTN3REJTQTgwT19zNUdPalRfN1NsbVh6QXlHbDVFb29sWnAyeFd0dDFiSmhOZUdULWFJRGxHQUd4cW5kTnZQWXE4dlJEWExqWWhBUExjUUt6cWVSSU1sSktzVmxPdUJvcTY0TXRVc1l4a3otZWtCVlYycjhaRmg?oc=5",
@@ -376,12 +382,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUERnNzZOOGtJdTlxMlNIUWh1M2pUQXNLSDlmY0xpZTQ2RFVjb0tZSWk0VUtvMlQtWngtWXBlbjVJYmYzOGFrUndRM0d1MW9oQ3V3aWxoZ0NIY3NEV3FYX050QnlzVTNfNEp5bUlINWJIVWlPTVVJbFlXUmZ3SUl3MGtUOGpBU2cwZXgwazh5VzBOYUx6NkgwWHJUNFl6SnNJZXozaWtJVDgtcy0yYzBaZ1duWnlMZ1RBeFMyN3JHZGhTTlBwVnc4U2NSWmV5bWExUGlWbzBFZ9IB6wFBVV95cUxOdGZKLVBPeFpxRlBTZ0tJbkZnMWhhTnRBSnA4UTBaN2szRVFLZlc1Rm1pNVhRb1ZzTTdBdUJnV05vUTRjVEdxSE9KQUtGOFBXd2YycVhkOThVd2ppMmxvR0x3Vzk3SXU4bmRiQXZQRjRUcTk5Q2ZSZzZ2TFh0clpGZHFhZkFVbmF5SFlfSjFhMmUxUFF1ZVBjY3RnQ2dUdHhCdHRkLXUxNlJYRmw5bU1zdF9NeExRd2hlZk90LURrQkYwMDMtb2FnaktUZENiNmRTLUFBQnRnV3k1UG0tZFpXa2l0VTVTVlJQOXBv?oc=5",
      "fecha": "2026-03-17T07:00:00Z",
      "medio": "EL PAÍS"
-    },
-    {
-     "titulo": "El principal sindicato agrícola francés lleva su protesta contra Mercosur ante la Eurocámara",
-     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalhWOVlERGE4akxWblhOa0E1d21zUmhvdDgyV2lnaHgwMExsc1FtRm05Qy1WTXRDZDQ3ZTZudjBWYUU2Rnc1QkZjQUhKT182YTJpR2ttTWZ5SmtBaGltN195MEExWDJQZGZqZld3ZW5LNzhFTGV6d01vQ1kxem9femZmQ1dkTmthUUtXTU9qNEZvRFVDcW9EOGd2Y0JSclZiRUtidDI4djdod9IBqgFBVV95cUxOczVLMmd5VzJWSWtmOU1iWTU5MVdVM2lSenowQ1FySHBsMWVOb05VTHV2YjN2ejFqN2hmN3JSTGN5N3NuUlN5ZVlubWdxMUpvX25vQzVvRnRVbHFGMk45TDNkQVF3alE1VjEyUHhWWTVhSDk0ZDFYcmtiVmVGRFhRQmFlZWhtbGEtaXZJMjV2NC1ManpueUotY3pIbXZScENlMjc2UzluTjJXZw?oc=5",
-     "fecha": "2026-01-20T08:00:00Z",
-     "medio": "El Periódico"
     }
    ]
   },
@@ -444,9 +444,9 @@
      "medio": "Dirección del Trabajo"
     },
     {
-     "titulo": "Dirección del Trabajo difundió derechos laborales imperantes en Elecciones Primarias",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QQjE0RkZhSFh3aU1CVzM0SnV2TGJPc01nd1Q2ZGd0T25qYWZoUmlDRUNjRV9QclNSVFo2a044Ums5dGFmLU8xRHR2SjFwYVRSbUM2Nk9OdmgzYXRCNlRSV1A2VjFYUGM?oc=5",
-     "fecha": "2025-06-26T07:00:00Z",
+     "titulo": "Cumplimiento de reducción efectiva de la jornada laboral a un año de la nueva Ley de 40 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRnlQVEdjQ25saDNmaHdLSTFodk9pdkVMdWZNa2dpZmEzdHBmb2RZZmJYWEhqZXdBMjNGcHgyU3JZYS1oVG01STBUTTVfUWczTktVek1PcE8tb3g0dWx4R1dQNHREeGM?oc=5",
+     "fecha": "2025-07-14T21:58:48Z",
      "medio": "Dirección del Trabajo"
     },
     {

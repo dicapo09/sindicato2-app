@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T23:26:13Z",
+ "actualizado": "2026-11-21T01:53:05Z",
  "fuentes": [
   {
    "clave": "salud",
@@ -102,6 +102,12 @@
    "nombre": "Gremios de salud y públicos",
    "items": [
     {
+     "titulo": "DIPUTADO CARLOS BIANCHI BUSCA EVITAR QUE ASISTENTES DE LA EDUCACIÓN DEBAN PAGAR MILLONARIOS HONORARIOS JURÍDICOS",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbEszZ2JvSThxUUNOX0dlczJJNFhWUzczMWdXUTVxOTJFaTFOWFpQSHhJQy1xbkxNQnV0dXlHejZMQjFYMlpCbmpobzBvWTVZVnZOU20wRmk4cTBBMmRLLU0zSDJtS2R6YVM2Z2RVT3FHeUtpajR4OWRBWjRvME1PZFZLSHJOX3d3RTY1emZwa3hUQ2gzZFdnRFZfemhTTlZTTkpTa2dySkc5ZnVvekJBODZuZmpVSEprUkxIc2JSOTZOVUdZWTl2bw?oc=5",
+     "fecha": "2026-11-21T00:36:20Z",
+     "medio": "Radio Polar"
+    },
+    {
      "titulo": "ANEF Valparaíso se moviliza por un reajuste digno y en defensa de los servicios públicos",
      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1d2aTNULWVHX0RHNV9sY3JTOTRSRmJrOEF0Njc4V3RaRWQ5Wm1oR0RTOG1oRS1zTVd6QXlDTzdCX0lHS2VQWVc4blF4bjJ5OGwzVTF3Sjh3MU4yZDhJY2txbmZOU0ZyM085MVpqZUFMZ0ZoXzdKNXJrMkU0UFVYZGdQeU1xV3RROWJQaVJ2Z09IU005UHVHalgtbkt4SUZDNUljcXc1Y1E?oc=5",
      "fecha": "2026-11-20T20:21:52Z",
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQU80b2tHbnhXT3RRQmZ6U2xzT3Z0SWdxSDAzQVZOM1MyMEd3Z3hPQk4zVXVXcEQxS2dlM3BtVEtrRnNTZVJzbHJVQi1kT01Ka2pkaUl4QXQ2dVdMQ3hLV2hfeXNUVGxzQTYzdVFWUkc5WFZMSXVrb0g3bEFCS2hCdV9DLTNIN3BERGxGZ1pOMXdleklGTy13ak5BbDNWZUFlS2NBNnRjVWtfby1qeHNwZHI3UXJlb1NYTnRaVV90czNTV250MEZLcXZUUkF0bzhDcVZOdUExbDFTeXZDU1A2cHp2UGRiSjct?oc=5",
      "fecha": "2026-11-18T13:29:48Z",
      "medio": "anef chile"
-    },
-    {
-     "titulo": "Los campeones de la Olimpíada Anef Magallanes",
-     "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2laR1dXUWg4TnZyNzdha2xtTmpGbkxhOHk4TXhwcldHZGltdkJodkZWeE5FbW5LYkRiRnBvcXN6eEVBUFNLWlVYT2QtbzdhTzJtcnNhMEQtM0xfMjVSR2Q1LUQ3aGZoajZTcDZSMTZPUElFRzJxVWpodk9MNG54cjlCdjhXa2xmdDNwZg?oc=5",
-     "fecha": "2026-11-18T11:00:30Z",
-     "medio": "La Prensa Austral"
     }
    ]
   },
@@ -198,10 +198,22 @@
    "nombre": "Sector público",
    "items": [
     {
+     "titulo": "Controla crimen organizado venta de hielo y agua en la región Ciénega",
+     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkduYWJFM2VnQm91UVJHZ2hIa0V2d2Z6d0daNnloUF9XcFJZaUhkQVV0RTB5eUtiOEN4QTY3RkhrdUdFLXZqczhMRV9XeGZZRlNUY1JWUHMxU2FZR1hUX3prbFRiR2Npd2hlbm44WVdPVWNPcTEyeHQ5QkFoX0piMFdUYUZmbTJTYjFFLVVzQTZGdEtuZjdLUlpOWXNHOE53Z21IdGJRQmlBYWJU?oc=5",
+     "fecha": "2026-11-20T23:44:00Z",
+     "medio": "Quadratín Michoacán"
+    },
+    {
      "titulo": "Viceministro: Autoridades pueden recibir “sugerencias” para la “incorporación de funcionarios públicos”",
      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTEEzTVkzTWdYVFo4NGNpNk96dXFybUI4a2lSSnQ5OWNLLWNHOFFHdy1HSzhSa2Z5ZTd1M2VGMnVtRXNLdFFqUU9RbWRqckJ4NDMyU0FNaVgyYXpleks0c2tiNDVIQjRocHVhajBwSllFSkFHeVlhSWlVbjhTMWcyWVRLU2tmcldqd2RGT2FYbmhNQ0g0N3hBNFdTUmRQc0NkbWp4TjhJU2NabUlrbWZXelZ2d0w2OG9MdVNSX1hvLUZoUnZQamYyTEtld2hfVDdNck9KVDdKRnZZZUJYZlE?oc=5",
      "fecha": "2026-11-20T21:07:14Z",
      "medio": "unitel.bo"
+    },
+    {
+     "titulo": "Informe de la Contraloría General de la República sobre el personal de la Administración del Estado con condena de crimen o simple delito. Algunas reflexiones",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYnZpU2lSOWNNVGN5TFRMNFQzaHZYZTN3ai0zWnB0NUJmcEo2QXNsQmx4MXJVa3FSV3ZfUVVxdm9CQXpRRkNBUlBzYmhTUmxaNFBqUEI2QVF0c3NNWm05cVc5LVVyTHkyRExMc1JsdC1FYmhXVHhwSWZ1d3VmcmJ2UUtkX2EtQ3ozUXlTNFhlUzVxcV9ZMXpJdFJQN0dNZXBSQmYtUEdMNURBMXJhV19qUEFJUlRqMmtrRlJQeDBwWS1DSmRnSEZaS0xfT1d4ZHJqYjZTeWZZRjJlczQ?oc=5",
+     "fecha": "2026-11-20T18:35:45Z",
+     "medio": "Diario Constitucional"
     },
     {
      "titulo": "Senado despachó la Ley de Presupuestos 2027 después de tres jornadas de debate",
@@ -274,18 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUWdfRXFSS3dCUXpVcFRuWjRHbC1QSjNDNGkxNnV1ZEtRX3cyaUdMdGUyckFONEl4UG5sck5EQlYyNEpnalJ2VmxjbkNvdTF3dVNKaDlSZzl3ZEY4c1d6WlFZdUg2MHRzX3VmanhfYzFhN0tqQkxUZWJSazJpdG1iQmhRMDNma2ktYmJNaGdHelFuZERjTlNoR1docHR1NUE4VzEzRF9UWFNNM2hfcGJFemF5TURUc1NkM1VJYzlzcjZmZzY2elUzSVhnZjJJRk1lSzJsRktRQmFyb0FYUnFXeFdEb19CYVAwak82ZW5B?oc=5",
      "fecha": "2026-11-19T16:11:00Z",
      "medio": "Diario De Puerto Montt"
-    },
-    {
-     "titulo": "Nueve municipios del Biobío figuran en catastro de funcionarios públicos condenados",
-     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkRpNW11UnQ4S01aU3M5NkwyNVFXaWFaNHVWV0VNZERIbi14NnR3WGpncjJMamRIMEk4S1hWTE5yV3Y5VWJ5UXU5cWd0dDJ1SkN3X09aYVNvR2x5bkdPc04xUXRQME5aVVVLVHN2OUxjVlUxRGJnTm1KYTdfRjFTTGJsb0tWa0t4RXBIV0kzbWRSZF9fN3dkVGdsdFlhVno4aXo5OFJBVkdGS00?oc=5",
-     "fecha": "2026-11-19T08:36:36Z",
-     "medio": "Diario Concepción"
-    },
-    {
-     "titulo": "Protesta: Estudiantes, funcionarios públicos y trabajadores privados se movilizan por el Presupuesto 2027",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZW1lLWpTbGVtNWNZVXVWRGVNY1JsR1J6R2R1QllBZ3RScnFkbFNFWG5KZkpjY2lRWDliUldnNEdHT2k4OC04UEtuUjVhV1BfUXBPcnU0Z1NGSGJDRjVGVndMelAxa25tOHRuelAwT1ZLT3dIOTY0ZzJPRWZKcHhNRVh4SlBiUFRSMUNYUmNMUGt5WHpLeVU5aDRkSGlCemc3UVJGQ09BTnZSYUpVMG1DXzF3RTN4cFJZd0gwWWJGQjladw?oc=5",
-     "fecha": "2026-11-19T01:13:00Z",
-     "medio": "24horas"
     }
    ]
   },

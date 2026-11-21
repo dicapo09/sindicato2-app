@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T23:26:12Z",
+ "actualizado": "2026-11-21T01:53:03Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -10,12 +10,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN25FdmNETFdnX2hQbGtXS1E0ZldFUW1TVXRIUE0xZllHOTJhT2ZjZVJCTnVLQVBZU1dXR2Q3aTVfWU5Mbk5WSmEyLUdiYUxpVTBzYjM1SmFFZ3FiZzdBZTR0SjIzdDR5WVRHQWVPQVFwYkFEVkJ3Umg0eUliTUpsMUdCR0ZMYkZzbWQ2WWxuQnFsNy01RnZkVHRrUjNWVEU4SW1lZk9RUU1FUThUZWUwc0Y2WkZsNU5xVkJIeXNrYzVjbmRDRHlEd05n0gHrAUFVX3lxTFBPQ014SHBkRmVIUE9vV0ZIb2tPYS1qamotam9ySEJpRUpCQmNla3NfMjh3bXkxeUV4U1U5U2FaX3drRnZfLUJkbTMzejd3V1FYZGhsYjFKOEIzTnhqNnNNc0NfYnhvd1ZBQVFVS09weGdiUnZBcm9DYU1GbXQ0Z1VWN2JkWFNVYU1yaWh0OERIamh5U3RvYjgzTDVOSkc5RW13NU1jWWZpYldZODlsUnkzanQ3anJTVmFEdHBWTU1yR1hEZW5sRDMzcm0zbTNWS2hmTnBCSDFOMWhqYklfeGFiV3N1djNONDVLcFk?oc=5",
      "fecha": "2026-11-18T18:28:49Z",
      "medio": "La Tercera"
-    },
-    {
-     "titulo": "De Chile al mundo: diez años de WorkCafé, el modelo que transformó las oficinas de Santander",
-     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVTIxNW54TzY5UnlDekN4VGpFVU5rQ3dIVE9vaVp5NEZuUTJJcWlYaTdPaldNRlF3OVk1WTZrX1NaWEtHU0JUdWtvc0xsYUMzWDNsanNwUkRVRHJiZEhtc1o1V2FaVnRoSWpITzMtX29nZ1lyb0hEMjc2UV9wS082S1RsNjRnOHVPX3VCa3pMN2M5YnBlb09xVVJRSUExR05tOWkzZDRIaDFSRy1UTGxGMUphNGVJZ1lzT0VoYUJLRU5PWHR2VzRGYVdOZTVrSldxREFGeGoxWGdrUVJWY1YzSDUydzlHbkhrdVFn0gHwAUFVX3lxTE81TEdfOVZXZjZfdmJpTDJwYTRVZHpWVnRjSmlMWFhKNVJjSWgzSzJ0X2tBSVA3N3VKZU8tTFZOT0Y3UExHZjQ4X1Q4WHROV21WSlZoN1BVMVVFVW0zVDB5azZZdV9EM2JtclY5Umo1dVZ3ejZQcWY2WDdDaFRaNFd3RWkwQkllYTNHbVVSdUlqaXlvWGNNQnY4NGRXSFRvNGNKbl9ibWNsQm4xQlBOaWJMZ0tyd05vd3NMSVZSV2IyQ25jQ25GcDRYbG9tWWZpVDhhaFpPWXE0b21MMTRiU2JkX25MU1hzdlUwanNGdmVKVQ?oc=5",
-     "fecha": "2026-11-18T11:08:36Z",
-     "medio": "Confidencial Digital"
     },
     {
      "titulo": "El Santander lidera la venta de riesgo de crédito en Europa que la banca usa para subir el dividendo y hacer recompras",
@@ -30,10 +24,22 @@
      "medio": "Diario Financiero"
     },
     {
+     "titulo": "Jugador chileno revela cómo lo afectó la crisis bancaria en Paraguay: “Me pagaban el sueldo en Ueno Bank”",
+     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTURINnBWQTBIYzYyVnJjZlJ2X2gwbFpHUnF1MGRhUlVscEhTTnJmZ1ZMMmNZZlZOU3ZfNDRBeWVNSnNnd0loNGdsM2pWR29hbXZLd1hsSE5WMjhvcmN5UXF0XzFCUllocWl2YWxFWDA5bDBqUnBWRUE4OHpSRk1nc3NpNml3NkpKbVIxUGhKMExQcFhVSS1PREYwSVJxcjVDX2MxajR2cjRrdmtraXphNEhmeFAxSnpWa2lfWGhVcmx4bW1KSzJOdnpPb3p6blNDV3FnM3RQRmFSaUVYQWpPZm5TclZmd9IB-gFBVV95cUxPSFVxbUVBdUxiRzhfWDlEYmQ5N2JHYUZtOFVELWxCMDFDTHJ2YkE5WkQ0Tl9wMWlPZ01ZTFFXQXBYN0luTXNkcUMwV0FBRFBPbEZoejB5NGlEeWN4dDJyZmNLbFVKQkZZWFZ4aW13YkFjNlBGVEE0d040OVduZlJGQzBlQ2RFVmZfSGtyQzAweGhHdWZldlBHakVwekItRkI4ZVgtSl9STkk3bEo3cmZXOEp1V3FYX1MyYk9XaE1Kbkp5Nzl4U1ZLYmpIenhtRHR1MWJTaUk5ZlhhLWZ6MC1XQUU0UXNYTTFtOHI0ZE9nSld3b25CU0dfT1VR?oc=5",
+     "fecha": "2026-11-14T20:09:36Z",
+     "medio": "AS Chile"
+    },
+    {
      "titulo": "Banca gana más de US$ 4.400 millones a septiembre y Banco de Chile lidera el ranking de utilidades seguido de Santander y BCI",
      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmxKb1pBMThBM0kxMWxBRjNYVnBRQzFHMndLa1B4UzJwZUx3Qkl5bnFKazNFbzNZZkpLUUoxQ2VJVE10dkZJb3JEbTZpR3prdlEtYzMwMkpKUi1UaHktdkppTEl5N3ZJbTZuajdwNjlieW1lRjk3T3o4VHpOWFZpOXJrR2JhRUR4dFdNV1NiSkFSOEMwZFE?oc=5",
      "fecha": "2026-11-02T08:00:00Z",
      "medio": "CNN Chile"
+    },
+    {
+     "titulo": "[Columna de Opinión] Banca chilena ante la NIIF 18: un cambio con definiciones pendientes",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFJEcElmUXdDRko2WUtDRXliQnloRG5nT2RleVluN0Jyb0VkZjZTVG5fUXlEcGltMWRuZzFuUkd0ekZMS182WmdJZ28zTkRJOFlpSHE3djJ2NEMyb2NsMjRuZ2gzYVM5SkpCR1BpQ21sSFMtSVh3VWlHU0dpc1dlTFlLRWc3QVc4b3ZrWndBWFJtZ2ktU0NvamRwTnNlVmhHeG9jc0dZUmpwNWQ0RnFRcUtTTHlhd1RhTVlTaUhRcw?oc=5",
+     "fecha": "2026-10-01T07:00:00Z",
+     "medio": "Universidad de Chile"
     },
     {
      "titulo": "10 años de Santander WorkCafé: la innovación chilena que transformó la experiencia bancaria en el mundo",
@@ -52,6 +58,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUDlhSXRWRG9hc0hKVFZuRmVEX0ZqcHdISDBoUEV5U05BNVIyUEY4WkF0Q2RYSVFkcmZjb1hxQlRXdXhEbjZfSjlTa3VfbG1iMTFORU5ET1FKVnJHbEJ4YVpZRkdPWWNkeVNZSDhJQkxzMmo0M0h3MFJrbFFIQm1wS1VMOGNmOExLc1BIVXpiX21rX3hpODl6WmJ3OU1xclNpOE9nZkFKLXdvcUVzemgzN05mbkJvODZNTWx1RHlJd3dRWHowYzZhSmdkcWNwYTlTcHFxY0twWUpXM181QWUw?oc=5",
      "fecha": "2026-09-08T07:00:00Z",
      "medio": "Universidad de Chile"
+    },
+    {
+     "titulo": "¿Por qué Banco de Chile constituyó $ 50 mil millones en provisiones adicionales en el primer semestre?",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmtCeFktc1ZDWENGZm9ITXYxRlNxSFIwNWxqX2x2a0FHLTV2cnZwZzRLWUVWRl9ENGJ5MGpaYjRRRndmU2xsMFFKOVllM0FDMy1BeDdkT3duYWR3QnZVZzkyQUdjb1dZVjNmWkxZNWE2QkZNT2QxZGNxZEJFYzkxYnJMM0h6ZWpnUTh5SDZ2TkIzYlRPb3lGWnVaSkI3QTIzUDE4bjZmQ3U?oc=5",
+     "fecha": "2026-08-03T07:00:00Z",
+     "medio": "Diario Financiero"
     },
     {
      "titulo": "De una idea innovadora a una nueva manera de hacer banca: los 10 años de Santander WorkCafé",
@@ -82,18 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNmFLaXFtV00zT21XQTJsRkhzS2s2OUlvbmpUUC12cHQ3WU5YbENuSWppajRtV1l1TzZrMmwtNVBLdmIzZW84UnlxU3luWUFnN19TMzFhbHAxRncyNGJ5Z0RKRDRENks0TzZJdS1NankwZ254aDkwM2dxRGsxT1F5N1pNUWVYUkp0R3dSQ2dMS3UyRm9qYUxSWlhjNnVRbHBsaVBTNVpGUnFQZEJudnVuSUVlSWU5ei1EeXRwblc1WDA4Y3NUQkFBQ29aT3BWZjhjWkt2aTNiTmdFWHF2YXpTSFJ5LWFkZFpPVFIxa0hielFyUjBhMG9Ueg?oc=5",
      "fecha": "2025-08-01T07:00:00Z",
      "medio": "Banco Santander Chile"
-    },
-    {
-     "titulo": "Chile avanza hacia una banca más sostenible 90% de los bancos ya integra criterios ambientales y sociales",
-     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZEQtX1BhMHNRM1pFWG1YWFEtUWRRVURXMUFMNjBFSC1BWUZ6eHVvSndfU2lseHhPTE1BYWFTZE1wNnYwX05ITG4tcmZRWW85SDNjejZNdDY1ZTBUMDdiemszdWdDMmhJd2xidHg5SXJoV3h1VzI3dkRTWkd5T29mdEYyaDBvTTh2MVlsTE5uNG5jZC1PM081R3UzbXA5dkpQRXE4aEVmSW9BZXlKZDJqXzVwb0RNR3dnWHJId21ySlppc2ZINVhSalB4TnNXMHY1bGlUM3UtMFVvMldRWEh0RXln?oc=5",
-     "fecha": "2025-06-27T07:00:00Z",
-     "medio": "CAF -banco de desarrollo de América Latina"
-    },
-    {
-     "titulo": "Euromoney: Santander Chile se consolida como Mejor Banca Privada del país para el segmento de Ultra High Net Worth",
-     "enlace": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPanRHRjdHTUhzTU95V3IxOUNqWjFiR25YODQ1WkprVS1Hc2xQVmJyV2Y0VHJic2lkdnBUbFAtV0FDdkpLNThVa0w2ME8zWktwdFZ6blBxc2I3N1RRM2FrczBfcWVEcDNuR2k1MGdmMkNYUkJsYVlteVFzZ0YtQzRMeHAyYndOajFVazVkYjlOd2VILXFMM3FTSVN3LXVjdXF0Q0dUYjNfVl9VMGlwdWxDRkZoLXhOVGwxMDRIaXdJQmhMdGNiYTVQc184WGhYSlo0X2JSNzlmcUVsMHJ1X19HWldYTkpJV3hfbll1S01jY2tMc2VGOUc1RldxRVJHQkRaRFpIM2M0X3NGeTRkSDZJMDhhTnpNQQ?oc=5",
-     "fecha": "2025-03-28T07:00:00Z",
-     "medio": "Banco Santander Chile"
     }
    ]
   },
@@ -101,6 +101,12 @@
    "clave": "economia",
    "nombre": "CMF y Banco Central",
    "items": [
+    {
+     "titulo": "Valor del dólar BCV hoy, viernes 20 de noviembre: cómo se cotiza la tasa oficial en Venezuela",
+     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdWxJUzVCTXRheHVvM0NaMUt6djRCWDBkODMzeXFYT2tzd2t5R2ZjWUhURGJBeExzTEFoXzREck9OQ3ZsUVJDUjQ3VDIzc2FEMUw4UE5sTS1kMGdQTEVRcWlpVzJjWHd2VnE4TmRZbmYyQUlSSnVOY0o5eDNMWTJwdUdnaGFsbm5STHAxUG5RU3NteHFWTjhPdmdTT3c5bHg1dXNLX0psLWR5dHZfOUJnS0FfWXNSUUM1RW1scUhNMTRPSVJfelNQNVpmWFp6SlBtSDQtOVhKcHVqQ2JNUHFlYmt5WkJadGhJRV9Na2ZxamjSAYQCQVVfeXFMTnQ3N1ppRjJpZlhXVzVtN2ZMNlo3SS1QdUFRemczUEZ6Z3d6bjBmYjhWN1JmM0JVbmhWaXRyYXRVZEV6M1BDVkxNTzM0R0c1b1FKM25yY2ZEcnFMU1Q2Y05WNVpJaENuSnRxRHRRSzFIODB1WU54ekxSM1VKUk1BYXk3OTRUaUF3emI4Y1JZdENkMmNHQk5ZczFTTlRmamNQUDkzUF90LW50QVlMMG82b0oxQmI3U05LeXZoVVQyX25sem95bUctM0h3U0h4Tml2aXpTSHl6VmNBQTRhSmZrX2NNLTgtZlNocFRVS3dMMEwySlhVYmRzcG5JUU5admFzeFZzRlM?oc=5",
+     "fecha": "2026-11-20T20:13:01Z",
+     "medio": "El Comercio Perú"
+    },
     {
      "titulo": "Precio del dólar vuelve a subir hoy en Perú: Así cerró el tipo de cambio del 20 de noviembre",
      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJ5RWZrdjExVWs4UEhOYXVtdmhQVmZGQVBlTUpnNnFrb2JvZWxLaW5MLTBSQWxDRTVRNVVhWXhhcms1Z3hVdDFNZTZFZmpkS2JMU2NwWHNDN214dlZqcGN4MU5NS1l6VEtBdWVfWTB6S2E1NDBtVzhTR25qdVMwcDQ5UlFJSklNMVdDNWxFeW1NUGdQVzVGenM1ckh5V0xCdE9J0gG-AUFVX3lxTFBWbjl6UkJHcEFmeWYtcW12VE1pMVpYTHdWSDlmTFU1STE3bTg0NThnQXhDX3hxR21PSDlnRkN1YThBUC1Eb29XT254dXhVZ3FJMmV0RmxMekg1el82Z3Vab2NKcUdXeS01Nmdvb3pEY3RtSlZ0Z2J4OGJsRlNpb0xLdThvUlpZZTE5WjdpZmYwWVNkYlBYdXJjbzVBb2RDbi0wVmNPdGttWDVZUkItcm03bHVjeW55REVqTHNEdlE?oc=5",
@@ -148,12 +154,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWmFXREhKNFBpclVKdWNLb0pyMkFWcWpFT1VEMUFQMGxEZXpUZ3NKYjRvVkZld1B4QThobVp3REMyNDAzN0R4QWNTY2xnZXpVVERncDVuWFM3T25sQjFWRDVnUFlHSjlpZ1JvS0p4SURaTXdiblgyWDljN1dZcHJsSDdnVVZrZXNBYjFxUDlRc1o4R251Qi03RVR2U0hSY3BfVVJYTFZZWE95VWlDNmE1RjFfMmRnZ1NuZEZ5bmxOWThjTHFlN3l4Y2NZMWdtMlVDZlJSdGdQWDQtWHljR3lQYlFFNEdtZ9IBgAJBVV95cUxOZFlrQXBvX2VKV1JRV3JqNDlqQllIeVJISEhYYjRma25BSmdGMng1aU5aOUJNbF92b2JxVW1xWjhKVzFUUHRZaF8xTjNwMTJucS1JSzZfb1RMZ1cyRGd0VWIyRVdrMi13SFZ6NlB1N2NhMU51Skh3RkFKdWNoYlZ1Nlhrc0JldklLZUo0YlhJQUV3WGFEbDlXS1M5TDFzLTl3V2lwT0VUZW05ZmNZQnJMRDZhNndFbm1VTVF2dEFCV2dHZWtFa2w5bnJ3UUQwQWxhQ2tRYVJGejA5Ylk2U1QzNU9VNVptcVJSdGJGSnBPVU5najV6dkVGYUx3RVV4bC1r?oc=5",
      "fecha": "2026-11-19T21:19:00Z",
      "medio": "Infobae"
-    },
-    {
-     "titulo": "El peso mexicano cae por debajo de las 19 unidades por dólar, su peor nivel desde junio de 2025",
-     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS1pSbUgwZHEwR1NlUDgwOG1EUDlYUEc3djYxNmR3R0RaTkhYT3NYT0I1QjZGNTJEYmducFVqS3VRM0tsVUhhWktVQTJjMWRES1ZPdHJ0Q0w1UGh5QkV2OEdjUDBkWnd4b0tIelphRzBQbnViTkFzTzZmUVdRTmtEbC1Gd3FpdFU5QUxjZEFxbHNQWkpLc3cwdld6dUVtYlhEdFNnZDFTSUhqOGF1bXVuaGpicU91MDNvb1ZYSXlJVzNHeDh2c0kzTUVsOUtfenBYN01heGhaNG41Vy10MEHSAfIBQVVfeXFMTmRqUmUzVGZ6ZW5CVXNta1pJc1BjUVZCNXc5aEdDMWktZUtNUW1DbDU4SUliN2xrTWRyZVdJYmprYnl2UThEMlJ1UUZ5UGl5bWVicXJxRk9WYlhQSGtaWVRPdm1ZSXBMWWZ5TS0zcWtPNDlzQ0NfYXVxdVJxMjNWQlFxaEZndG03bHhZbWlzeDhocmQycTJzaHJ3VmgzREd4cnVMWUkxT1JMZWRSal9lODZjVTVad3VvUi1DSUFqUGo0Wk9FWWNWZUc3VTJxRF9ieGZmZzBNNEd6aEwxWk94T2dpS0g3YjFLQ2N5UXJLTFZGX0E?oc=5",
-     "fecha": "2026-11-19T19:05:25Z",
-     "medio": "EL PAÍS"
     },
     {
      "titulo": "Precio del dólar con fuerte alza hoy en Perú: Así cerró el tipo de cambio del 19 de noviembre",
@@ -348,9 +348,9 @@
      "medio": "Dirección del Trabajo"
     },
     {
-     "titulo": "Dirección del Trabajo difundió derechos laborales imperantes en Elecciones Primarias",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QQjE0RkZhSFh3aU1CVzM0SnV2TGJPc01nd1Q2ZGd0T25qYWZoUmlDRUNjRV9QclNSVFo2a044Ums5dGFmLU8xRHR2SjFwYVRSbUM2Nk9OdmgzYXRCNlRSV1A2VjFYUGM?oc=5",
-     "fecha": "2025-06-26T07:00:00Z",
+     "titulo": "Cumplimiento de reducción efectiva de la jornada laboral a un año de la nueva Ley de 40 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRnlQVEdjQ25saDNmaHdLSTFodk9pdkVMdWZNa2dpZmEzdHBmb2RZZmJYWEhqZXdBMjNGcHgyU3JZYS1oVG01STBUTTVfUWczTktVek1PcE8tb3g0dWx4R1dQNHREeGM?oc=5",
+     "fecha": "2025-07-14T21:58:48Z",
      "medio": "Dirección del Trabajo"
     },
     {
