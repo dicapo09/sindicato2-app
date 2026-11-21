@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T05:34:23Z",
+ "actualizado": "2026-11-21T07:53:33Z",
  "fuentes": [
   {
    "clave": "turismo",
@@ -84,16 +84,16 @@
      "medio": "Vietnam.vn"
     },
     {
+     "titulo": "Subsecretaría de Turismo e INACAP presentan plan para capacitar a 10 mil trabajadores y fortalecer la hospitalidad turística al 2030",
+     "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVU1JX0lZLWRLX056M0tSdmJ3LVE1b010d2w1Nml1VWdoOWtLQVFZLVNMb1JhNTU0OXZ3bXN0b2RJdzFEUDVQQ1lmdXN4RGloMHdQTzFWSWl4TEpkT0FWdVFVUVhVQzA0LXU4TWRPTThfY19lR2ZUdnVyb0JTZ2lwZ0RJbVlWelE0LUphS1VzdXYyQTRNMXlBaGQ1T1Fnblk0eHdSbjI1ZWIxTXkzT0REbTM2dG4xRGJQSVJJSW9IaUc2NEMzMlllY3hDX0xkSlhHSWZ2NDFzU0VFWE1DZUVPYTBDNHJMZU5objl1OExsdWVidFhDU2N3Wi1B?oc=5",
+     "fecha": "2026-11-18T09:35:37Z",
+     "medio": "El Reportero de Iquique"
+    },
+    {
      "titulo": "Villa Gesell intensifica la promoción turística de cara a la temporada de verano",
      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1FZRHprakhfV1RtWGF4Yy1lYTBxZHhaZ3B2WjdNalc0YVU3YVp5TXZIVjgxMXVkQ3B3NnFydjhtam5sTVlqelprTzE2b0pzYUN2SUJjMHhsRHN6WlNOUFhCS291VGlJMUtoOXJtWUdrbVdOWC1JNjRnRFhRTEdpVVlNb3ZpYkZSVDB1SGo5RTl4cWk3bnFLNU5CN1dCVWo5M1VKbnFEOWVvYWRfcE16Y2VuZnoyYTJrbWJN?oc=5",
      "fecha": "2026-11-18T05:31:39Z",
      "medio": "Prensa Mercosur"
-    },
-    {
-     "titulo": "Santa Marta toma impulso turístico y se prepara para la temporada de fin de año",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2xqN3E5bWR1U29DMnBjYi14Z0s5WFZkQ1U2VmpodDMxejRYdEx3VG9DN21jY0NMX0EteGViX25WWHlpM2JoeXBmWk1GNHNzZWZsOHdiT2N6MWx2eEJUaC1WMVU0a0RUTzJXTmdmVXY5QTJjbGhFWlNRakZnV05tYVZXVkRXalhZN2ktX0IwVFJZM2owTWt5SnhzY013ckdacUozTnBPemhKRFd6d3d1eDRTekrSAcgBQVVfeXFMTkhzUFd4VWpjUGFwMWt1eDRZR01KSTFTNzFEeTZOSGZSdXVfWExxOUxINjVnRUUzRS1NSzdkZ1BvNkczbDBCLXVzNHBITnV2bEJUd3N1ZDduRGpEQWI3bjhlYUhnMjFRSERqQ0xxcjhVaGVkUjZaYTg5UDJlaHNIV01ETDJOUmFMVHdzbkRKQ09jVG8yeXNPalNjV1NNRTNLYUtPUzJDUzFReU5WOEFBVTEwNVZTWjdnUGwwTDNFRkljek91QWNOSWg?oc=5",
-     "fecha": "2026-11-18T01:57:12Z",
-     "medio": "Caracol Radio"
     }
    ]
   },
@@ -270,12 +270,6 @@
    "nombre": "Mundo sindical",
    "items": [
     {
-     "titulo": "Cambio de dueños en Enjoy Punta del Este: sindicato reclama diálogo urgente y advierte por la incertidumbre laboral",
-     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdklzMldqWVg5SmRYZ01XeDdGQlNodWx6RjVSRGFWX1o4N1ZUcC1IV3RIblE2WTRVeUt3MmFJdzlDTS1aNlpWV0dla25xVExtMXZ3MUVJdHA0U0o5eWZ5SFJ4SDdwN2VTZE13M0w1UmhvNGp0M1ZKT3FuaDBJQWplNXRjSy1kRXBRTC1qdDV1QzRtT25yaElaYUZxeTZVZU1mQUduRlNZRy1oZTJCTVhwLUdSTEVfTjBZbFVTSkFnQ0I1MDBQdUhNSGRqWmVaaXQyU3ByM1NfOW9GT3oyU0RvNXNLTzZBOUEzOHVwYlAyUVc?oc=5",
-     "fecha": "2026-05-05T07:00:00Z",
-     "medio": "soloazar.com"
-    },
-    {
      "titulo": "Trabajadoras y trabajadores de BlueLink Chile inician huelga tras una votación con un 87% de aprobación",
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTlvNVExdjhVRE1iMGc1ZzBtNGF5eDFRMlBDaEVzbWM4SWY3dlpZMHdTX3VhZWZtRWFvUFZVRGlqZDVIWjZqcXdDcmtVNkxtTEEzWlkwRHFFa2lmdzFQOERzbjAzYzhJdWI3VmRiNU11M2Ftbzl5U0ZtQkxfQU9ZekZBTEpGcTdnY1ZRVUcwZHFlREo5LVR2WlpoY29GMGlNd3MwazdRMUJ2cVhPSGV2MzlsbzRCSFZPaXhvSE9uRkJnZ9IBygFBVV95cUxPNkxObl9FbTExUnR4MGVSaHNvUE1raTAybFVYZjhGd0paZG5pLXhzeHA5VkZkYmtHbkNjVFhtMFJTRlZsVGF4MC1zdFNWT0dJbVlwZUZZZW1FT2JoS21CSUNyZXE4ZGdZNW5VcHhyT2trNWNkWVkyWTFRVzFrUGd3U3dYY3dNTzh2Z3lVUmpGRlVsRmY0UGhMQmM1U1ZzR1dPLTFuQ1UwZDBCOFRhWkxDeGNzX0xDRzdremR0eDlyeEo1TzdsYkJGUkVB?oc=5",
      "fecha": "2025-11-19T08:00:00Z",
@@ -318,12 +312,6 @@
      "medio": "AS Chile"
     },
     {
-     "titulo": "La prolongada huelga del Sindicato Mega: cuando la televisión miente e invisibiliza las demandas de los trabajadores y el pueblo",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUEVvRVo1S2M4MVppVjBwTDNJQlhVczhuNDQ5ZjlsYnd0bURKWEY3UUlvU3RmNWI4d185T2s3cWdrYmRmWUl2RjdNdkpCQVIzOHphU3E4S1BQdVZPWkJjam5ITjFmSzNvb1pxSl9IelFXaGZjVy1pQzZta1pzOUZEMXNkbHdhbDhaUnItUDFSbnd5SkR0Vy0zZnBiQVhpc3llS1hjNDZsT2RmcXAxNWxzOVJrRlVWM3RyNWRJRkc2dWY0MnZqTlVKY0pjWdIB0wFBVV95cUxNLWNzck1pTE95eHhrZGk1c2hwYVB2UWpYZzFGdDBlV2FiWjNoTlpIVzdnUFh6UU15c2lXcXAybUFzS3JmeG96NXcxTUY2YmtBeV9lUEJHSk5tUDdLajVDR0g5QloydUlXS1hDX3dGOFBGckpfczZGaFViVHBLZk9LNkhBVzVFM0RIMnZxSTFaTTNES2hzb2pUX2FRcHBjU0lxcGVLQUxmSzhhb2pwaVpfdW9YTWtRUk9malNGdzlndXYwQ0t5OG5KUG0td1ptdlJncHM4?oc=5",
-     "fecha": "2020-11-03T08:00:00Z",
-     "medio": "laizquierdadiario.cl"
-    },
-    {
      "titulo": "Sindicatos de Finning denuncian que empresa \"está vulnerando los derechos y la salud psíquica\" de los trabajadores",
      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzN0b1AzSXpyRHduc29QcnFhUUNNNjd2d1otMVhYY1FOWjdIMURHS0NxdGQ2MEVkS3lDaGNBa0o5TkhXenRCTGZTdHNnLXZuaEpjMmtNZmFzaGtMLTRIRmk3TDZsYnhZOVlibmNfWXZTVXBGd1hYUVB4aUIxMzRCSHFlTE5WSjRyYVg1Nlh6QjBEUjlyYktsa3NUUlR5dE5GNnFvTndvY2VWZDJuQ3FUOGt3MDhwakppTGU1Sm1WN3FnYmlhbE91d0V2WXXSAdQBQVVfeXFMUEdnSVFNN2ozUVZEREdHOTg1MVdxZkxXaFNwX3RubDlqcXJrVWF5VFY3Y2VpZk5lNm4tZHJaMzlUejcxNW0yeWdjQVZ4MkM0QXBCQ09RNzZEQXhWcEFSMlYzNThNSDI0dXVLUHlwWlk5bTVvSG5oOFBKTDhpMl9LQUhZbG5GeUNqODRrWDQ5ZXhyTk13VG9ETVBYYy1NalNlZVFJODJidG1FanJ4WWVRU1NfTlJtdnh2S1MtRUx5XzhZSW5nb1NXaVBmUzZWQ1AyRzZEbkc?oc=5",
      "fecha": "2020-07-10T07:00:00Z",
@@ -348,10 +336,22 @@
      "medio": "Montevideo Portal"
     },
     {
+     "titulo": "Sindicato de trabajadores del Hotel Villa del Río eligió a su nueva directiva",
+     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNkZNR016THZyTTZyd1Z6ZU9nQnd0RUhrbG9nU0RyU0VLTzBMb2N2cWFDeGtfbnJQdU12UWVkcUZpU3g5bGVNZUowSnJJMWJCYWZmYzJFMDBTOERteVQyckNWQ3gyLW82MjhvUk1oQkpOZXg4NWNxaDBwUFFJSDkyejBGX25PSVNtSThoN1VmX3B3N3FIMkI1X25DZmJQc01qRzdZd0tDa1YzT1MwS2pwTXlPRFFPeEY3NU1SN08tUUdpeWlGZFhoR0NNRjdPUF9FX2NEa1RMc015Zw?oc=5",
+     "fecha": "2018-07-06T07:00:00Z",
+     "medio": "SoyChile.cl"
+    },
+    {
      "titulo": "Michelle Bachelet será distinguida como Socia de Honor del Sindicato Médico del Uruguay",
      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEluMm8zSVBpSldsUFpIVy1Dd3VGX0RIMnRaaS1jV3FUajJtcDY0TWZxeTlfSzFGZDhMcUhHbHFfT2NBX3gwZE83Y0tNNmloRnBPR01OTE9uaUV0Z0sxWkJhU0J4MzdGUjcwYVVnXzN3eGFzZjhVZWpiZlM1X3IwMlcxMmNxN1cxcVEzbHdMQXM2djg1U1BJU2EyaVVnRFhQQ2Eyc2hR?oc=5",
      "fecha": "2017-10-17T07:00:00Z",
      "medio": "Sindicato Médico del Uruguay (SMU)"
+    },
+    {
+     "titulo": "Presidenta del sindicato del hotel Terrado Suites cumplió dos días de huelga de hambre en Iquique",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc0FmUXpfOE9RSzRrS0xKSnpsa2ZxeG82YlNKUXZnNUZaenN6LUdBQjZxazlER2pfYWtscDlsV3BKbnNMNU1UY2RDSjdvY1JmUUw5b09QZ1dpdTlfYlRWeHR4QmNZUFFfR0FuVWMtd0Y1Uml4X18xM0hxZDhRcjEzUTFkdG1PWHdkdV93TnpKaTFkU3VXM3o3cmFxR0F2Vjk5WWZYMXdpMjVLTmtPYVVpZzNXUmR6Q1VIU1hSUXJ6YXNhZDVHSkNNR1JNckVQNFlzcVVPZVVmVzNyUUhnakxtVGVDVTNwbUFmUm5NcGhiUjBXRHc?oc=5",
+     "fecha": "2015-03-22T07:00:00Z",
+     "medio": "SoyChile.cl"
     },
     {
      "titulo": "Sindicato de trabajadores de Hotel Diego de Almagro en Puerto Montt inicia huelga legal",
@@ -382,6 +382,24 @@
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3UyLVdjNHpPa3NkM2hMNDRNVjdpd1AydUh3a1J1dG1oV1lPdWZmRDNxckVfMW1aeGs4b0ppZmVaSmhEMVJhc0xfWFFHc2VFNFJUcDQtaU9zeDNsZ3FCeXQzYXMtckJxQ0JqRURZQW9XV2ZkSnp4RlktMzI2SnpENkdGZ0Q1eWxnVm5od1dfVFRpajVWQTlCQ19KeUFzaEUzWmJfMEdmVUZ5bV9GTklsX05PUUZDVFM0c3VCbkptYnI2M3k1OUZBTVVsVQ?oc=5",
      "fecha": "2026-11-19T15:27:48Z",
      "medio": "El Mostrador"
+    },
+    {
+     "titulo": "Ley de 40 horas: ¿A quiénes aplica la próxima disminución de la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcHI3V3FSQ0JFSHdTZHFmeThEaHYwZW9ndkZ4NFQ4eWJvTE9Wd1RWWTl4X25zeTVsd2ZDVHpqNTFvN3dBemdDdURtOEJyZWFwSmlFSW44bHZwVkVFMUU1OTB4RUF3VHhEUTdPSjUta0Z2QlViZmQwSHcyZWowdU13VE9DNjRLaWliUkc4bEFuVVJmTG11djIxZXY1Vk4yOTRDbkdub2M3SUNXUkRDUUU0WUllZTB6OXRZdDBGZEkwekNCWk9kU1U2djliRktTNzkxUW52UkhDSFpsMkNDR0dtTVI0VEF4RWlkSWx4c19B0gHzAUFVX3lxTE9id2o1ZzR6b0V0SzFkVnNicjlKUjhJcTRub0pkY1ZlbUw4ai16Y05PbHdQV01yWmp3SWtIZktGLTh2SmNTc2tOV0lDZlhKQ042QUtWZXByWmM3V1VTVGUyR3lQcDhzWDE2MGI3cmxmQkJfWjJwQkhhLXNyamdIV1NadDdONTJjMldPTXhXUXVOYWtacjhFRFV4aGhzTHFTb1VodVVuYnFHclJLTU40dzhLRU9XMWhRckdGbkxEZ05zdkpCR0pUbEtNM3M0alRoVjdkSGNPNG93RUlRaVd2bDIta1E2a211Q2loY1loXzl4NkdWWQ?oc=5",
+     "fecha": "2026-11-18T12:00:00Z",
+     "medio": "Meganoticias"
+    },
+    {
+     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
+     "fecha": "2026-11-16T13:14:42Z",
+     "medio": "Soy de Osorno"
+    },
+    {
+     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
+     "fecha": "2026-11-15T21:03:47Z",
+     "medio": "CNN Chile"
     },
     {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
@@ -436,24 +454,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEZ5aTZZUUtzVEtuR3RnTHVrYmpUekxXRnptNUtYMEVjYkttOGFyWWtnYllUc3FiQllpRkJMdnd1V1BuTmRaQ1BtLWJXRXNURnN4UTROVGhaLTc5S2VqQ1h1NWpfWDBxTmNERjl4ZnkyM1d2MDV2b2ptVFA5UXI4MWJCWURPZjJlTGRzMm5YS0JLSHZLUTFXV1hSb1k5bTVxZXAzeXVzc1VWaEZoOVFjdUxoOUg4WjlMdnpwSVphNXlldHl2ZnhodW9ud1N1U01wMFE2c3Vn?oc=5",
      "fecha": "2025-02-28T08:00:00Z",
      "medio": "ChileCompra"
-    },
-    {
-     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
-     "fecha": "2025-01-15T17:57:43Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
-     "fecha": "2025-01-15T17:33:27Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
-     "fecha": "2025-01-15T17:20:30Z",
-     "medio": "Dirección del Trabajo"
     }
    ]
   }

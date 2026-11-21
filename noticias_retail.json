@@ -1,22 +1,10 @@
 {
- "actualizado": "2026-11-21T05:34:17Z",
+ "actualizado": "2026-11-21T07:53:27Z",
  "fuentes": [
   {
    "clave": "retail",
    "nombre": "Retail en Chile",
    "items": [
-    {
-     "titulo": "Cencosud abre nuevo supermercado Jumbo en Chile: Cuenta con un robot en sus pasillos",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmpBUjNxblloMU1KZnJPY0JLeEpGS044dklGdHRKSDZuODYxbjNKVDRYUW52YkRZcGMwbWxIYy15V3BrUlNOb3ZmLXBJNHJLUXFiZkN6UUdKeE1hcVViSG9KeHRkYS0tQVBVMHBWbE5RUUZGaEtZMzY0RnZRSEE4WTNrczl0NEpoQy1aVUtzQjFLVWpVSUdOWGlwRUlnRTc4NkthaF9CYmJzUEFGWDdlYnVn?oc=5",
-     "fecha": "2026-11-20T20:57:20Z",
-     "medio": "En Cancha"
-    },
-    {
-     "titulo": "Culmina un capítulo en Cencosud: dueño de Jumbo y Metro inicia nueva etapa con la transformación de uno de sus supermercados",
-     "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZjQ2Q1ctWXphRHVYUXlFV0VQVFdOUHJDRngzcjFWVGd5aldUeXpnVV9lQmFiSkU1LUFDb1ZIUjhKWDV2RTQ5bTRwaG1JR1NxY0x5anRXbGQtd2dvc2RITFNtaWV5dC1zWFg0Q3lFSDdGYW5fRzQ2bjQ1aUs3bFl5S2VFajNHclRRNzdfaThrc1NUeUREU2Z4d1VVcGtsWWU0OEEzNHh1VDNRTk42clRQMDUwN205UGRKRmVCUlZETmJ5MWZYT0V2VEV1Sm01bERZaXp2S3pfU0YzWG1ZR2hHQ0QzMkNYdVJRNUZWcU5JcmNSV2s1YjRLYjlOOVBwRzFTM1hsSlZn?oc=5",
-     "fecha": "2026-11-20T20:47:26Z",
-     "medio": "RED+ Noticias"
-    },
     {
      "titulo": "Cencosud abre nueva sucursal de Jumbo en Chile: Un robot recorre los pasillos para ayudar a los clientes",
      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMEU0N0FQVk9aemlGR05iMWtyeDN2SUIyWDJ0a2drang3a1VvV1lzM2NHLTFKS0ZyTHBKQjFKWnpoR3pSeEJoOWNRYnpMYWRPdmtBblh3cVh4ZVllREoxZ3BBdzdkdjdtakVEZ0pzYUhuckxFQWcyOW03dWVkYnBJbFFNTnBNdlhSSVpWNU1JNU1yZUpXLUUyWTEyaDc4bWxCaW1MX1ctQkVNblg5c2FnadIBtgFBVV95cUxOLVlaR2x2bGxzWnIyVkZvZXUxVWgxNU11UGJNWEZVRE55TU0zM3oyS0pFN2FCcmdxMFJjYTh6OWlDNnZ0cVNFRWdWUXBfVFZlSGVOR1llMmJQQjJZQlU1QU03cElSZjRHb05NY0c0NmVrS3RTWldNaU5PTnBHT0p1NS1kY3R5UDVheVFTd3ZHQTN6YVZrV3M4ME80Y2k5THo5UDl2WU9rS2VuVFdMZDN4WXVEOXRnUQ?oc=5",
@@ -34,12 +22,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0RjbjBQV2tiZnN3OUkwaFBCQTk1WjdGYTVkUHVVTVl3UkhTVlNSU25KWkluNHBsM3VNU1Jab0NrbUk1dllUbWtycV9HYmpzN1pBbXNUYkhVUUZCLUF5Tms0Z3BsNjNrVWRDUlJWM29fTml4aEY2Vjk1b281RnhRdFpyT21uM3BaeGhIb1ZrMHFrUVZqRnFWNDRJb1FHTmYwWEFjZHJpZlVaQlpscUhERmJTRVgyNXlDT1dUM0xCRVhQV2h5ZFE?oc=5",
      "fecha": "2026-11-18T19:02:55Z",
      "medio": "Supermercado Al Día"
-    },
-    {
-     "titulo": "Cencosud, dueño de Jumbo y Metro, sacude la competencia con nuevo supermercado de bajo costo al estilo de Tiendas D1",
-     "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWEVTY2R3OHV5Ukx6LS0tR1MydnIydXNJWktCemtSQ05GdE56SGRtanItUHdDRVRwOXdZWkNVWXY3dVlPWW14UlVrUnJYLXp3YkJlYk1ObGZOV05SN1dHM09mdU94MHBfUkJTYUlEZy1XSGhvYXA4T04wUTRQenpRVTlZMEFHNm44S0lJMERmcmY3aXowTTNZMjg5MUJ4UzdCLUV5T2xFcmZUYTNGblFSUjJhRE9xYUFLNGFUM2IyeDhsX2FHQ0lzQVpHcnM2MGRBR2ptUW9ibWt1U0tRQkJPZ2pqMWNfWWZZb1RITTB6djNhMEJ4MWRLQnRn?oc=5",
-     "fecha": "2026-11-18T18:54:37Z",
-     "medio": "RED+ Noticias"
     },
     {
      "titulo": "Ripley eleva sus ganancias 53,2% en 3T26 con fuerte crecimiento de sus negocios en Perú",
@@ -78,22 +60,40 @@
      "medio": "La Tercera"
     },
     {
+     "titulo": "Somos la empresa más innovadora del retail y la tercera del país en el ranking Most Innovative Companies 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHZBaTVRUmtqZzZvcjNTcHk4aUZqRFdoeEgtYVZMVkI2RVFJM205X19BRjVrRUF1dWNtMUtrM0RQck9YNzBJLTRjQlU0em5xbklNaWxwRFhoTkZrSTBicm1TTm1ZVzFURHV4QXdyU0FLb040R0FZU21wcWNtYW1YalhxUnJoc0I1OXd6X1V0bC1uYlNQa2VXam9RRHd6Z2pLaVE3Vy1JTXdfc3lmcHVzaV9HS21qVkVwUGYyX3Z1d3RvcFdMcDVHc0NvRXNXbW4tT0VuUw?oc=5",
+     "fecha": "2026-11-17T21:36:05Z",
+     "medio": "Walmart Chile"
+    },
+    {
+     "titulo": "Ripley eleva sus ganancias trimestrales apoyada en la banca y Perú, pese al retroceso del retail chileno",
+     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVRadTl6Y01PeGJ2OS1WZ1R2b1VSaUpNaHgxaHFuRHRQblpqZThoOVRad1lRTnZUM2JhY2lOOVRYNVp2VHl5UkF3TXV6STl1TE5ESkktTTMtM2JxX2UyamZHLUpLTlNzSDdFWXJTREhrd1huRmRvWU1mSzNQdDFwOHBsVmZmNUxtdU1WSGNpUlF4U2h5T2dWU0VyZHhIZHlsa1hvLWhvY1l2WTduSGV6VWZuV0RrMXFpd1JreEVieDhJdw?oc=5",
+     "fecha": "2026-11-17T20:27:00Z",
+     "medio": "Diario Financiero"
+    },
+    {
+     "titulo": "RIPLEY: Banking and Peru growth offset Chile retail weakness; Q3 net income rose 53.2%",
+     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSUx0aGI5d2IwN19NRDJtZm9QUEdUT1Jkd1BBRWJsYjFXQ1d0VTFidnVWUXo4dzBpTU5DT3pfbmw2b2NKZ1dfNWtXNEFYLUdqYkw5dUljRHhaSVRSeHRUQnpPMWNYc1d2eHB1WFBpLVVpY0ZYaUVNRno2cVhjeWV0U2hlN0lPbkZ0YWFucTZaeVdwUGdvVHAwa3dJeWtZemhqV1pRNVo1c1Vid29nSTgtd0MtTW1HNVVfLWhjcVljTnYtRm5hOENEY2JSNzdVTjZ4VDZ5Y2RJTk1mcVI1RGpBZEMtRG50QjBIc3NsUzBsU2poNDNSck1EVQ?oc=5",
+     "fecha": "2026-11-17T20:19:29Z",
+     "medio": "TradingView"
+    },
+    {
+     "titulo": "Don Salva alcanza 15 tiendas en Chile y prepara más aperturas: ¿qué viene para la cadena?",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdG90ekEySG5NMHNiZENiUHA4bVRod2xFeEttZ1YxdWZQcHFsMTRuZVZtcHpENmFrNDRCcFVnb1FYandLc3pQLWI1ZDI2RlVia0N4emNPZ05sV21XT20wMjVyeWc3NDRRd3BrLVFnc3A0WkQ0bVV4cGQzM1ZxT04waVVHdjV5UEtrd2l0S0tPdjQ5aENieVVEeTBLVDlTeG1yLU52cFdCNkZyanhzSEd6TVdRVDI?oc=5",
+     "fecha": "2026-11-17T19:59:33Z",
+     "medio": "Perú Retail"
+    },
+    {
      "titulo": "Ripley Corp. aumentó su utilidad neta 53,2% en el tercer trimestre, impulsada por Banco Ripley Chile y sus negocios en Perú",
      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcl8xVWxfVUg2ajBkY0laYk4wNll3emJQUFd1SVB0RUNhNkRBMGdLUGZGUGxoWVd4ZU5ZdHBsdjVSYkp4bjVSMnpmUFRLbjF0bV9zR1JqQWZ3ZUY4Y2ZGZVp6NVpOaWt5WHcteFAzSHpJbVU3N2FxZXZHVkJCLTREY3BLMGZ1Tmtud2RyMHdTZzl5S2hZMnBKNmZpdE5MNzgwQjBPVGM1T09BVTlBek54WmVfWG81UW16UThwRjd6N1NBSXNJcHZZbE1GS2ZDSWYxdkNfdmlZTmhxcGwzaWpvbzhtN3hidWV1dk1ITnFpaw?oc=5",
      "fecha": "2026-11-17T18:34:00Z",
      "medio": "Diario Estrategia"
     },
     {
-     "titulo": "Más de 500 empleos generan los tres nuevos supermercados que Walmart Chile abrió en el último mes",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU01XM1lQODhab0ltZGd1bmk4SW5uQlJoalA2VXFoT1NCSkVmTFZmWFYtWEVxRERBSHZ4eDhjVVZLbFhsd2VMU29qMnVRMzI5dEp4ejVxMUxZOGdEbWRCaUJKam9Idkp1VUtTUzVveW1laUx2YWJIeFBtWXltYkhUdHVMN1c1dmZvVUh2dXp3elNsTjUtTHVIcHlrazQ5QklnckE1YmdZeFQ2VHhBM3cwQjRfb2xBaGpUcHdKc2NIV3R3SlJCWTdkWUN6cw?oc=5",
-     "fecha": "2026-11-16T20:21:42Z",
-     "medio": "G5noticias"
-    },
-    {
-     "titulo": "Más de 500 empleos generan los tres nuevos supermercados que abrimos en el último mes",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJvbXdzVlVma3BEY0VpZVBZejl4VTNOdFMzSS1fR0VZdW45SlF6VWxNZEJHSmh3cmU2bllrVU1fdlFKdTVKSVBjTTJmbVU3dy1BWWJVbENHWTJUT0FWektGN0EzNHBWR3RFQXJlY2ppbzRKUGlwQ0lpV25GaGlUdlRnNWNsZkR6RzJXUk13djlvWUg1R1Uya2c0OWtsVmY2RTlvMjIxWTFXZWVsOFVqRmx3dUE?oc=5",
-     "fecha": "2026-11-16T13:59:06Z",
-     "medio": "Walmart Chile"
+     "titulo": "Cadena rusa de supermercados evalúa ingresar a Chile con una estrategia de descuentos agresivos",
+     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSDk4bDZ1NGlpQUc3eWtVbllBQUhEZTVGRmJZYVNQa2ROYzF0UDdHV3ItRkJfaW9XVmNwa0tMVFRSVW5TMWwzY2tCS1JXdWtncnFPSUlOcGt3ekl2bXk1ZjJmaVdwOFotckwxMk15SmlKdXN6MVR2cnVuWUJBMTZuc1JQeGZHeVlneHdVSURiVUc1b3I2YXgwODgyOXRLbGR4UG9uRkgtSU1xTGF3Zllob3F1RGVZb1hSUmpMeXpnYzlLOVFibGlIVG0wVGt1WnIwMWNuazNR?oc=5",
+     "fecha": "2026-11-17T18:04:31Z",
+     "medio": "Canal 9 Bío Bío Televisión"
     }
    ]
   },
@@ -408,6 +408,24 @@
      "medio": "El Mostrador"
     },
     {
+     "titulo": "Ley de 40 horas: ¿A quiénes aplica la próxima disminución de la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcHI3V3FSQ0JFSHdTZHFmeThEaHYwZW9ndkZ4NFQ4eWJvTE9Wd1RWWTl4X25zeTVsd2ZDVHpqNTFvN3dBemdDdURtOEJyZWFwSmlFSW44bHZwVkVFMUU1OTB4RUF3VHhEUTdPSjUta0Z2QlViZmQwSHcyZWowdU13VE9DNjRLaWliUkc4bEFuVVJmTG11djIxZXY1Vk4yOTRDbkdub2M3SUNXUkRDUUU0WUllZTB6OXRZdDBGZEkwekNCWk9kU1U2djliRktTNzkxUW52UkhDSFpsMkNDR0dtTVI0VEF4RWlkSWx4c19B0gHzAUFVX3lxTE9id2o1ZzR6b0V0SzFkVnNicjlKUjhJcTRub0pkY1ZlbUw4ai16Y05PbHdQV01yWmp3SWtIZktGLTh2SmNTc2tOV0lDZlhKQ042QUtWZXByWmM3V1VTVGUyR3lQcDhzWDE2MGI3cmxmQkJfWjJwQkhhLXNyamdIV1NadDdONTJjMldPTXhXUXVOYWtacjhFRFV4aGhzTHFTb1VodVVuYnFHclJLTU40dzhLRU9XMWhRckdGbkxEZ05zdkpCR0pUbEtNM3M0alRoVjdkSGNPNG93RUlRaVd2bDIta1E2a211Q2loY1loXzl4NkdWWQ?oc=5",
+     "fecha": "2026-11-18T12:00:00Z",
+     "medio": "Meganoticias"
+    },
+    {
+     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
+     "fecha": "2026-11-16T13:14:42Z",
+     "medio": "Soy de Osorno"
+    },
+    {
+     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
+     "fecha": "2026-11-15T21:03:47Z",
+     "medio": "CNN Chile"
+    },
+    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
      "fecha": "2026-11-10T08:00:00Z",
@@ -460,24 +478,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEZ5aTZZUUtzVEtuR3RnTHVrYmpUekxXRnptNUtYMEVjYkttOGFyWWtnYllUc3FiQllpRkJMdnd1V1BuTmRaQ1BtLWJXRXNURnN4UTROVGhaLTc5S2VqQ1h1NWpfWDBxTmNERjl4ZnkyM1d2MDV2b2ptVFA5UXI4MWJCWURPZjJlTGRzMm5YS0JLSHZLUTFXV1hSb1k5bTVxZXAzeXVzc1VWaEZoOVFjdUxoOUg4WjlMdnpwSVphNXlldHl2ZnhodW9ud1N1U01wMFE2c3Vn?oc=5",
      "fecha": "2025-02-28T08:00:00Z",
      "medio": "ChileCompra"
-    },
-    {
-     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
-     "fecha": "2025-01-15T17:57:43Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
-     "fecha": "2025-01-15T17:33:27Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
-     "fecha": "2025-01-15T17:20:30Z",
-     "medio": "Dirección del Trabajo"
     }
    ]
   }

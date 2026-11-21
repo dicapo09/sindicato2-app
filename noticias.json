@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T05:34:08Z",
+ "actualizado": "2026-11-21T07:50:15Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -46,12 +46,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0phM0diTjdxVEFRQXBQZFBGZl9HZjE0TllDQWlrOURKWFhRYjBEdlBaTnJXa081azJzdm1YSy1IMVhhY3RBQ0lfZnJKVkFFUi1FNjM0LTVIekpja0xJeXd3d1UzaFUxcEs5LWE5cHdZOFpOX19pSEtScUhXa2xaSUhPd0Roa3h5Tmg0N2lTZUhaUm9TUUtRc3NyQ1FxNEdDY203NE80SUM4RzlLaWxsaF93?oc=5",
      "fecha": "2025-05-12T07:00:00Z",
      "medio": "Fundación Terram"
-    },
-    {
-     "titulo": "Aysén: SMA formula 4 cargos graves contra la empresa Sociedad Minera Pacífico del Sur SpA titular de la minera El Toqui",
-     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONkdGeXU4X0NiaEV0Vm1TbGRrRG1fOWx3TmtQeWkxcVlUQzB4RWtybnlUc1RKbVhHUmR3STc5V0E5Q3FGN0QtT2tOdUZjQkZxSGZyLVBNZ19jN3prU2IzOUR6c3N3NDY3N1EwX1JCbnE2bXQ4SkFjbXpBbE9xUUJWbTlKYnlLN3gySVp0aWRoY2xGTWwzVVQ3NDZ3TWlVRTJCa21HMjNMek9ZdXFaZ2Nyc3FFSkw3ZnNua3NTanVDRW14eENTdXNaVjYyT2hjcWhUd2ZrX3VxNUN5cWJkVlhTSnFtVzViZDBIbDJv?oc=5",
-     "fecha": "2023-12-15T08:00:00Z",
-     "medio": "Superintendencia Del Medio Ambiente"
     },
     {
      "titulo": "Seremi Minería Aysén coordinó convenio colaborativo entre minera Pacífico del Sur y liceo Mañihuales",
@@ -162,64 +156,94 @@
    "nombre": "Minería Chilena",
    "items": [
     {
-     "titulo": "Las razones tras la caída del precio del cobre",
-     "enlace": "https://www.mch.cl/las-razones-tras-la-caida-del-precio-del-cobre/",
-     "fecha": "2026-11-20T15:28:46Z",
-     "medio": "Minería Chilena"
+     "titulo": "División El Teniente y Fundación Sewell lanzan álbum educativo sobre el patrimonio de la ciudad minera",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1pJdnRXdEhzb3JBS2htbThaTzFQTGdVV0tlSUctWHdvdlo1OXVCR1gxRDRlWkZUeHJta1d5bGNwRFY5aktOWmdVTlZQOUF3VEZTVnRiWjRYUkZuYjk0elJOaGRzVExjSFhXcTdob2hsVl9oaVk0SFhxMHNqU2ZjNmhIZDM0U1dNZHFsRWs5SmplUlJFbGVsMTJicmFxUGJ3MFRKclNuZ1gxakk1WXd3Mm5ocEtIak1oeGozNDB3OA?oc=5",
+     "fecha": "2026-11-20T17:03:50Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
-     "titulo": "Investigación de la UCN detecta relaves mineros con concentraciones de tierras raras",
-     "enlace": "https://www.mch.cl/investigacion-de-la-ucn-detecta-relaves-mineros-con-concentraciones-de-tierras-raras/",
-     "fecha": "2026-11-20T15:05:00Z",
-     "medio": "Minería Chilena"
+     "titulo": "Relaves mineros: Tres grandes desafíos para repensar su futuro",
+     "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGIxUHc5Y0g1eUZ1RWtGQjhSV0p2MjN6eHQ3R1k0TzNIcjczNzRqTE1pWXhiVmVydE8tZ2J4WjJFTDN6aWVYb0M1d1VBeVVlbmZhQ1JoaXJ6MUxXWEhIMUQ5cVFrR25PbmhRclpTTFlRY0ZaLWxjdnBmVGh2dUtUQ2ZYN3QxZFlMQi1odmpCNTRhakFa?oc=5",
+     "fecha": "2026-11-20T17:03:34Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Las razones tras la caída del precio del cobre",
+     "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96ci1RMUI3RmhqTFNpdFF3eThaRlJaZFZDckZ1SUtQd2xfWWpDR0Z0RGVtTC0tV2RWbHp4THRrOEY3UU5GQjlhazJsNUU5aG9vV0hEb3pGMzU0Y2plTTZ6bFNsSnR3TTRnZ1hkLWxPOE0wOUU1?oc=5",
+     "fecha": "2026-11-20T15:33:33Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
      "titulo": "CMP impulsa la formación de nuevos talentos técnicos con su Programa de Aprendices 2026-2027",
-     "enlace": "https://www.mch.cl/cmp-impulsa-la-formacion-de-nuevos-talentos-tecnicos-con-su-programa-de-aprendices-2026-2027/",
-     "fecha": "2026-11-20T14:24:44Z",
-     "medio": "Minería Chilena"
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWQwN1I4SThSVXYwcUI2cllHTXFNYmQ5ZVR3TGVyOW1GLUZGRDZ4Q3BMeHJxODNlVUxWTm12Z2p5bHhaS2V0Nm1UY2paZHJUOGtrbjJ0Sko5SE9CM0puRkpRN1c4TF9TUFFkVnNTMXhobDFINXFwUERjdzBxMHloVTNuV2dVNEMzeTVlVFl3XzJTUTRPd2tuZmdOOWNJd0RrUzFXQkp6X0JBSXNJMUFWay1B?oc=5",
+     "fecha": "2026-11-20T15:28:50Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
-     "titulo": "Ministerio de Minería lanza segunda convocatoria de PAMMA Reactiva",
-     "enlace": "https://www.mch.cl/ministerio-de-mineria-lanza-segunda-convocatoria-de-pamma-reactiva/",
-     "fecha": "2026-11-20T13:03:00Z",
-     "medio": "Minería Chilena"
-    },
-    {
-     "titulo": "Sernageomin conoce avances en seguridad operacional de faenas mineras de Atacama",
-     "enlace": "https://www.mch.cl/sernageomin-conoce-avances-en-seguridad-operacional-de-faenas-mineras-de-atacama/",
-     "fecha": "2026-11-20T12:40:00Z",
-     "medio": "Minería Chilena"
+     "titulo": "Investigación de la UCN detecta relaves mineros con concentraciones de tierras raras",
+     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVZNTDg5ZFF1WVc1bVVYSDRrcmp4YTExTjVhOG1NRDlZQjBfMG9hcS0xSUxXcFVEUko2MEN4VEl3bXBmVkJEakNqOElzbjlrbURISnpSdmlkUTJTeHdDc0pvWUJiVDVOQUFXU0hsd1VjSE14XzBkbUFJazU2c1VFd1RGYzY5dnN5ZzA2dmxqMGJNSi1tM1ZDOGFVT2VfYWhLYVFNSWtsVQ?oc=5",
+     "fecha": "2026-11-20T15:28:50Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
      "titulo": "Minera Las Cenizas: Estudiantes complementan su formación profesional en terreno",
-     "enlace": "https://www.mch.cl/minera-las-cenizas-estudiantes-complementan-su-formacion-profesional-en-terreno/",
-     "fecha": "2026-11-20T12:20:00Z",
-     "medio": "Minería Chilena"
+     "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGdQZFhmYUtTcU9sMWVwbUo3bTdXdlNuR3ZXWWpCUW1LRldxYmduWGlheVQ1RHlWbUpUazNDOWtEbENWT25GakYyTVpHcGlSRHpCYU14SWNrY2VPVURCcEJFb0N4OUo0RHk0ZHZtaUZTX2tVX2luMGl2Z2ktMEd2V3phbjNmQzlCOEwtX0QySDRVS0Ytb2FaTHZwbERLcjdX?oc=5",
+     "fecha": "2026-11-20T13:33:41Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
-     "titulo": "División El Teniente y Fundación Sewell lanzan álbum  educativo sobre el patrimonio de la ciudad minera",
-     "enlace": "https://www.mch.cl/division-el-teniente-y-fundacion-sewell-lanzan-album-educativo-sobre-el-patrimonio-de-la-ciudad-minera/",
-     "fecha": "2026-11-20T12:15:00Z",
-     "medio": "Minería Chilena"
+     "titulo": "Ministerio de Minería lanza segunda convocatoria de PAMMA Reactiva",
+     "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDZQd1lGUUpMOW9yWGo2Nk13Uk9NOGE5clFwdWQwSmROSkJ6emxhNnFVVTRwNzUzQmQ0X29aSXRUallCby1jbmZqVzJjVFQtNDU0N0pabVBWWW5MMEhrUm45VlZxYUtuOE5DTFJqTlNxLWhPWVpvakdncWpCeHY0QUdxQk9sNkZ6R3RGVmRRWQ?oc=5",
+     "fecha": "2026-11-20T13:08:37Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
      "titulo": "AIA invita a empresas socias a informar proyectos con retrasos en su tramitación",
-     "enlace": "https://www.mch.cl/aia-invita-a-empresas-socias-a-informar-proyectos-con-retrasos-en-su-tramitacion/",
-     "fecha": "2026-11-20T12:05:00Z",
-     "medio": "Minería Chilena"
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMnZYNnlleWFsUUNHWlJteHJ1djZRckE3WEhQZjRzamRzSS1lR09UdmZRdC1XNEJfeWNxUHMtRGx6VVlTOUxuTWFZdmhZdU5pMGNETXdfUjNiRUxvLXBtRFpQU2hGRk9kT2JjZ3JBcndORDRpUHAyQlVaSllmU2xaQUl3Z0o3SVNkeGdXUmR1STM5SWJRc1ZFbVc5OWh1TnVROHc?oc=5",
+     "fecha": "2026-11-20T13:03:25Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
-     "titulo": "Cartera de inversión minera de Chile registra su mayor monto en 13 años",
-     "enlace": "https://www.mch.cl/cartera-de-inversion-minera-de-chile-registra-su-mayor-monto-en-13-anos/",
-     "fecha": "2026-11-19T13:30:00Z",
-     "medio": "Minería Chilena"
+     "titulo": "Sernageomin conoce avances en seguridad operacional de faenas mineras de Atacama",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYXRtT1lZZjdfekRLNDZPLTY5eDV0SDRMdmtxdk40OGg5WTJWbWk4TVlCNzlWeTBYOWY2d0VwUVVHR3RxelllUk95bFRSdGU4UXlsUmdQSDZYLTFxRkRGQzd0RlpaUFNFU1lIckFHMlhFRzFaNzZOQWdHd28tRzhfOXE1bkFNdmhEZnBCelMzcXdXN0tMY2s2Sm11TThEWlNNakE?oc=5",
+     "fecha": "2026-11-20T12:53:28Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Minera Los Pelambres despliega trabajos para proteger cauces y sistemas de agua potable rural en Salamanca",
+     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNHo0MnNZN3BydzltWXpSNXNwV09tQjA2ZjcycFRPaEN2dXg0WjhlNkt1Y3pZcFZLcGVfX2pYb3RfVW5ZdVVXVjJRVDFKcXNWQ2F0YXFxRlZEaWxrcm8tcmFEZG5wZE5hcFVoM0FzQlFCbHlUVThmMWFrMS15dGtRVzJleFNLTG5rNzBLakkyNm5xMFctUUNXdjl0T3ZlUHd3VExoNGVLV3A1TzJsMFd5QW9IR1lJcGZrODRfLW9adTQ2b01z?oc=5",
+     "fecha": "2026-11-19T21:36:27Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "inversión minera archivos",
+     "enlace": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPR24xa0gtaEczYllNQjAxRDZONEMxWTRGT0VxTzZsNWd5aWo0ZFJ0Q1FETEJOZEx3LXotcW40eV9ocWtTMWc2MUQ4UVBLZWtHNnNuLQ?oc=5",
+     "fecha": "2026-11-19T18:45:50Z",
+     "medio": "Portal Minerí­a Chilena"
     },
     {
      "titulo": "Región de Antofagasta: SMA formula dos cargos graves contra minera",
-     "enlace": "https://www.mch.cl/region-de-antofagasta-sma-formula-dos-cargos-graves-contra-minera/",
-     "fecha": "2026-11-19T13:20:00Z",
-     "medio": "Minería Chilena"
+     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnAyS0pDOVlYYXlCOFhCVy1jSlQtTElLR0VKYzFoLXltU0ZPM1FGLWtOYWlKelZBT2pMNmN0S1pZbFA0RWVqQVhIY29vS1U2X3B5T0JVOEJFMFhEQ3lzd3VReHFxZWFLYkNuR1JDSmdzTDBUVTR0UlBkTW9XcDA4Q253X2lrTU45VXJIQkxR?oc=5",
+     "fecha": "2026-11-19T14:26:26Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Lundin Mining Candelaria recibe a estudiantes de la UDA en su programa de visitas técnicas",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1R1ZTMtR1VDWHFpalA0bkNCWlhTZEJBUkFqVk1Kd0FxZllmNmJXLWdQRm9zQjlEU1hHN2VrNkVqc2w2YWNBM3JtbGVIMzJ6aEhLbVYxMjUwVnAtNUZPRTNJRGVxYjN1aC1XekxVVy1aRjJ3S2dtTks2czJ1LURIOFo4N21qNFZfdTRTQ2dFRmgwajU4MXNEOTVkREpoR1p5aGEyeVVaVW90a0xGRmdR?oc=5",
+     "fecha": "2026-11-19T13:41:20Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "Cartera de inversión minera de Chile registra su mayor monto en 13 años",
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSGN0dHVQNHFNMVEwQ1VzcDk4cHhfalVDUlJuOEZFTHhJTE0tOGFFZWUwbnUwcEZjWTR1cVo5WlM1dmo4S1k4bE1FWXVqUGllMUpvUHhybHNESTdBbk9ZVFktd1k3b0hETndGeWE2OVItQThkYUFKdEpfTkY2U2xPZ2VaVTZrREpSNnFBVnE4MF8xcFhwNWc?oc=5",
+     "fecha": "2026-11-19T13:41:20Z",
+     "medio": "Portal Minerí­a Chilena"
+    },
+    {
+     "titulo": "FLS fortalece oferta en flotación con renovada planta de poliuretano en Renca",
+     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY1llN05HNTNMNVhwcjRfSjdzbmJ1dDBIV1AyVHA2VXFDLVVkcms4VGc5LU5JZElqcE9vMEZNd2lrYlJVV0h0bkZ6UUktZDhxT0h1OGhqMDBOUFB0MUJqaS1wNlNIcHRjWjVSVGJ0cmh1dlY2ZnNFNS1LRDhCckUyaTh5bnhpRTRzajhGSTUwZTFadlo1cXpRMVFpZzZYQQ?oc=5",
+     "fecha": "2026-11-19T09:43:12Z",
+     "medio": "Portal Minerí­a Chilena"
     }
    ]
   },
@@ -227,6 +251,12 @@
    "clave": "reporteminero",
    "nombre": "Reporte Minero",
    "items": [
+    {
+     "titulo": "Milwaukee Tool y CEIM realizan segundo Innovation Training en Antofagasta",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXJldkpVWjF1Vmg4WUZVV0l2OS1INlQySXFlSUZzNjNvWVgyZ0NEdGt4WlRqVUxfV0d5NGRIVDNiUHhmem5JOWVDeDVnM1RyRnMtb08yT0ZUS2R3RzZmUFNrVldaeV9JZ1RnSnpGd01UQzBPY3VYV0FwZ1RWZ3JST0VYa1dQZDJOd01qc3E0LWZIT0xCSmVyY1dVdlNHSW9Ea0EyZlhqaDluSVgzRElj?oc=5",
+     "fecha": "2026-11-20T18:11:00Z",
+     "medio": "Reporte Minero"
+    },
     {
      "titulo": "GORE recibe 27 buses eléctricos en Antofagasta bajo programa de modernización del transporte",
      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3YxTk1UQW8tWU1rMWdnOVhhR2xhRVo3S1VTSHBjd1JObGlrNTRRWTNCMURPaWRvWXByN09hUENWT0RuYTQ3TTdxZDJOcWl2VHlDbVZsT0l3eXZSZGx5UzE1d1BDcHNZOHM0VVU2a0dqazN3MjNJeHk4OWtfMlNUbEkxQTNLLVpvN3ZWc3dVRUQzZkdxd1ZDV1hfbTJZTi02c281SlRPWFh4alE?oc=5",
@@ -306,12 +336,6 @@
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "ICMM publica mapeo global de minería con biodiversidad e intersecciones críticas",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU2dEN2pIWF9vS2ZHUzNibnhIbFZaaDYzd3JYUFhqVGFPcF9QbURIcXpJM0ZuSnRpS2ZJYlotSFp0b3ZxcUVjM1lKRW16Vm9yTld1S2stT1NiS3JUV29UVmVDWUlENjBEX2ZTUEYzNENjaVJDNXR6Wk53VWtTa2l3YjZkOHNxQnlySEVDc190amoyQkxoOWJaQlJYT3psRk9sOWo1LXZqZVBWVmZYRi11Y3VrUW1qeXlkOFE?oc=5",
-     "fecha": "2026-11-20T00:35:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
      "titulo": "CPS abre primera planta de rodillos compuestos en Chile para minería",
      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2gwOElLcDhMRU9tWkF0V2tReXVvd1VXdE9mX2dObzFOTGdMOTFPYXgyVkxKd0w5a01mWTJ0aFdMMlB0RlY4THVBWW5QQlNzdEI3aGJGQU9ReDRuYlZuUzI3TkpqQnlyVzl0cml4UW1LQ1NveWpvU2pxb2swR2pTZTItY2JzOWJ1ODM1MWJrb3pPaE1WTlU0a21NSThNVG8?oc=5",
      "fecha": "2026-11-20T00:27:00Z",
@@ -323,6 +347,12 @@
    "clave": "aysen",
    "nombre": "Minería en Aysén",
    "items": [
+    {
+     "titulo": "Estudiantes ayseninos se certifican como monitores de seguridad minera",
+     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGJKUEhsVkZ2N0VzTzQzai12aWNrZ3ZPaHJRVjlEalJJNGowZGdRVnIzeml2bDR3LU9rSmo2aWU4WnNiVGduTG9kOWFRUVJGTFZZODh3cUdqbzNsNTJLaDVQbTBkLWk5a2FGMmJGTDRaUTV1QzAxTHJwY2RBR2xkUXhiSG1jRmd0MHo5SDdzSl9VYTNoVnNsUkZvUlNGbFNNVmdaWkU5elBGZ2RlMUpQRHNTdWdRcjRabzNJSzRMem4tZllYZmItVzE2WUg?oc=5",
+     "fecha": "2026-11-21T00:05:01Z",
+     "medio": "Diario Regional Aysén"
+    },
     {
      "titulo": "Seremi de Minería y Sernageomin de Aysén inician reuniones con empresas para fortalecer la seguridad minera",
      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc1ZER2ExaFJYMTl0YUp5STF4SGoxWEFvRmUxcXE4S05PVmxoRWJCYTNTZ0RXci1lQ2RhRXdORzFuMHZ2ME40ekpISF9DbS04ZXloVFNFemdvVWhibXVEaDV4aFlMcDkxTzNud1FXMjZfZzR4eFNYV1RkQ0hJYjBkQWkzSUVJYlV2b050dm8zUElYS3BBdE5SUWU0LXpVUGNVOTZzdWc3THJRT0hiVUJxOGgwcjMxVlFBb0ZoLXZhV2NoenhWd0xSeGx0Z0hjMWJmR2VGRXBieXVKQ0HSAeMBQVVfeXFMTml2bzVJcm9meHpnWDBWQU95YjI1VlhGcjB4QVcxc1FwSFVOanUta3g1SDRzUnZDRFZ0RXZnMDFHN3A1VUtiMWp5N04zTE56MWYtd19qN1lQeDZlM0x0VF9RYm1kRVlfQm54eVZvSHlDeDQ5eDRLTFNRaXhPXzhQMkQ4NkI5a01WUFp5bWp3dmVZUmFqRTBqRXFGS1JSazRSUnh1QjBkQVRHNEVTa3pGVnRGazVMY0hrMUZqMXV2dlJzXzkwSUx4dVFEamQtYzk1NE1WeDlTTmE2aFh3MUhjYWN2YTQ?oc=5",
@@ -406,12 +436,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhd1Nidi1USlZqY2k5cndFVW9yaVRqVUQ5TTRVR2llUlZpclpmVDIxS3ctUk04VGtRQTBrSHJPMVN6QXI2SG5CUU0wRy15dw?oc=5",
      "fecha": "2023-03-08T13:53:52Z",
      "medio": "Radio Revelación FM"
-    },
-    {
-     "titulo": "Seremi Minería Aysén coordinó convenio colaborativo entre minera Pacífico del Sur y liceo Mañihuales",
-     "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMTY4bjdPN25qZVU5NHFQbk1iQ2M0a1dXX25lOThiOERQS0NHWjJMUGJ5ZlQwbHZVd1lYa0VPY2JkOUt2dEVBRnh4NXNkVTdHN3V1OHhFaEpaM2hpdmJmeU83a1cxT09OY1o2ajF3NENUYnlYOFl0Z0lDX3dEbXA5N1F4YnpiWTd5RnpBNVo1bjhoWjdoSUtCb2lmNElaYzZFMUhlRTJJbEZsZE9lUEdTRGw3UnBNVnlOampFejROa21wTXhRN3BKN2JQejJVODA?oc=5",
-     "fecha": "2022-08-25T07:00:00Z",
-     "medio": "radio45sur.cl"
     }
    ]
   },
