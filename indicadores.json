@@ -31,12 +31,12 @@
  },
  "oro": {
   "valor": 3539.0,
-  "fecha": "2026-11-21T07:31:37Z",
+  "fecha": "2026-11-21T10:05:37Z",
   "fuente": "gold-api.com"
  },
  "plata": {
   "valor": 41.08,
-  "fecha": "2026-11-21T07:31:36Z",
+  "fecha": "2026-11-21T10:05:36Z",
   "fuente": "gold-api.com"
  },
  "zinc": {
