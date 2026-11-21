@@ -1,10 +1,22 @@
 {
- "actualizado": "2026-11-21T07:53:27Z",
+ "actualizado": "2026-11-21T09:26:45Z",
  "fuentes": [
   {
    "clave": "retail",
    "nombre": "Retail en Chile",
    "items": [
+    {
+     "titulo": "Cencosud abre nuevo supermercado Jumbo en Chile: Cuenta con un robot en sus pasillos",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmpBUjNxblloMU1KZnJPY0JLeEpGS044dklGdHRKSDZuODYxbjNKVDRYUW52YkRZcGMwbWxIYy15V3BrUlNOb3ZmLXBJNHJLUXFiZkN6UUdKeE1hcVViSG9KeHRkYS0tQVBVMHBWbE5RUUZGaEtZMzY0RnZRSEE4WTNrczl0NEpoQy1aVUtzQjFLVWpVSUdOWGlwRUlnRTc4NkthaF9CYmJzUEFGWDdlYnVn?oc=5",
+     "fecha": "2026-11-20T20:57:20Z",
+     "medio": "En Cancha"
+    },
+    {
+     "titulo": "Culmina un capítulo en Cencosud: dueño de Jumbo y Metro inicia nueva etapa con la transformación de uno de sus supermercados",
+     "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZjQ2Q1ctWXphRHVYUXlFV0VQVFdOUHJDRngzcjFWVGd5aldUeXpnVV9lQmFiSkU1LUFDb1ZIUjhKWDV2RTQ5bTRwaG1JR1NxY0x5anRXbGQtd2dvc2RITFNtaWV5dC1zWFg0Q3lFSDdGYW5fRzQ2bjQ1aUs3bFl5S2VFajNHclRRNzdfaThrc1NUeUREU2Z4d1VVcGtsWWU0OEEzNHh1VDNRTk42clRQMDUwN205UGRKRmVCUlZETmJ5MWZYT0V2VEV1Sm01bERZaXp2S3pfU0YzWG1ZR2hHQ0QzMkNYdVJRNUZWcU5JcmNSV2s1YjRLYjlOOVBwRzFTM1hsSlZn?oc=5",
+     "fecha": "2026-11-20T20:47:26Z",
+     "medio": "RED+ Noticias"
+    },
     {
      "titulo": "Cencosud abre nueva sucursal de Jumbo en Chile: Un robot recorre los pasillos para ayudar a los clientes",
      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMEU0N0FQVk9aemlGR05iMWtyeDN2SUIyWDJ0a2drang3a1VvV1lzM2NHLTFKS0ZyTHBKQjFKWnpoR3pSeEJoOWNRYnpMYWRPdmtBblh3cVh4ZVllREoxZ3BBdzdkdjdtakVEZ0pzYUhuckxFQWcyOW03dWVkYnBJbFFNTnBNdlhSSVpWNU1JNU1yZUpXLUUyWTEyaDc4bWxCaW1MX1ctQkVNblg5c2FnadIBtgFBVV95cUxOLVlaR2x2bGxzWnIyVkZvZXUxVWgxNU11UGJNWEZVRE55TU0zM3oyS0pFN2FCcmdxMFJjYTh6OWlDNnZ0cVNFRWdWUXBfVFZlSGVOR1llMmJQQjJZQlU1QU03cElSZjRHb05NY0c0NmVrS3RTWldNaU5PTnBHT0p1NS1kY3R5UDVheVFTd3ZHQTN6YVZrV3M4ME80Y2k5THo5UDl2WU9rS2VuVFdMZDN4WXVEOXRnUQ?oc=5",
@@ -12,16 +24,16 @@
      "medio": "Meganoticias"
     },
     {
-     "titulo": "Walmart Chile genera 550 empleos con tres nuevos supermercados",
-     "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTR5dzRnbi1WcEp2TkIzdkk2WmpKa1YyNEtibTZ3RVpIYjJmR0VzX2xuRXBzdGdfWThXOVRoX3JnaGl5eEh0ejVJUVZUdGl6YnNiMjk5N053cXNfbFViMG0zajVUb18zdVQzWVhrUS1rQjE2TUFHR3FFek84WTJVZmxhWmw1bkg2YjVWQWxJU3BZU19RMGVGd1JB?oc=5",
-     "fecha": "2026-11-18T22:11:50Z",
-     "medio": "Portal Metropolitano"
-    },
-    {
      "titulo": "Retail financiero mejora resultados a septiembre: Banco Falabella eleva 33,1% sus utilidades",
      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0RjbjBQV2tiZnN3OUkwaFBCQTk1WjdGYTVkUHVVTVl3UkhTVlNSU25KWkluNHBsM3VNU1Jab0NrbUk1dllUbWtycV9HYmpzN1pBbXNUYkhVUUZCLUF5Tms0Z3BsNjNrVWRDUlJWM29fTml4aEY2Vjk1b281RnhRdFpyT21uM3BaeGhIb1ZrMHFrUVZqRnFWNDRJb1FHTmYwWEFjZHJpZlVaQlpscUhERmJTRVgyNXlDT1dUM0xCRVhQV2h5ZFE?oc=5",
      "fecha": "2026-11-18T19:02:55Z",
      "medio": "Supermercado Al Día"
+    },
+    {
+     "titulo": "Cencosud, dueño de Jumbo y Metro, sacude la competencia con nuevo supermercado de bajo costo al estilo de Tiendas D1",
+     "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWEVTY2R3OHV5Ukx6LS0tR1MydnIydXNJWktCemtSQ05GdE56SGRtanItUHdDRVRwOXdZWkNVWXY3dVlPWW14UlVrUnJYLXp3YkJlYk1ObGZOV05SN1dHM09mdU94MHBfUkJTYUlEZy1XSGhvYXA4T04wUTRQenpRVTlZMEFHNm44S0lJMERmcmY3aXowTTNZMjg5MUJ4UzdCLUV5T2xFcmZUYTNGblFSUjJhRE9xYUFLNGFUM2IyeDhsX2FHQ0lzQVpHcnM2MGRBR2ptUW9ibWt1U0tRQkJPZ2pqMWNfWWZZb1RITTB6djNhMEJ4MWRLQnRn?oc=5",
+     "fecha": "2026-11-18T18:54:37Z",
+     "medio": "RED+ Noticias"
     },
     {
      "titulo": "Ripley eleva sus ganancias 53,2% en 3T26 con fuerte crecimiento de sus negocios en Perú",
@@ -60,40 +72,28 @@
      "medio": "La Tercera"
     },
     {
-     "titulo": "Somos la empresa más innovadora del retail y la tercera del país en el ranking Most Innovative Companies 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHZBaTVRUmtqZzZvcjNTcHk4aUZqRFdoeEgtYVZMVkI2RVFJM205X19BRjVrRUF1dWNtMUtrM0RQck9YNzBJLTRjQlU0em5xbklNaWxwRFhoTkZrSTBicm1TTm1ZVzFURHV4QXdyU0FLb040R0FZU21wcWNtYW1YalhxUnJoc0I1OXd6X1V0bC1uYlNQa2VXam9RRHd6Z2pLaVE3Vy1JTXdfc3lmcHVzaV9HS21qVkVwUGYyX3Z1d3RvcFdMcDVHc0NvRXNXbW4tT0VuUw?oc=5",
-     "fecha": "2026-11-17T21:36:05Z",
-     "medio": "Walmart Chile"
-    },
-    {
-     "titulo": "Ripley eleva sus ganancias trimestrales apoyada en la banca y Perú, pese al retroceso del retail chileno",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVRadTl6Y01PeGJ2OS1WZ1R2b1VSaUpNaHgxaHFuRHRQblpqZThoOVRad1lRTnZUM2JhY2lOOVRYNVp2VHl5UkF3TXV6STl1TE5ESkktTTMtM2JxX2UyamZHLUpLTlNzSDdFWXJTREhrd1huRmRvWU1mSzNQdDFwOHBsVmZmNUxtdU1WSGNpUlF4U2h5T2dWU0VyZHhIZHlsa1hvLWhvY1l2WTduSGV6VWZuV0RrMXFpd1JreEVieDhJdw?oc=5",
-     "fecha": "2026-11-17T20:27:00Z",
-     "medio": "Diario Financiero"
-    },
-    {
-     "titulo": "RIPLEY: Banking and Peru growth offset Chile retail weakness; Q3 net income rose 53.2%",
-     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSUx0aGI5d2IwN19NRDJtZm9QUEdUT1Jkd1BBRWJsYjFXQ1d0VTFidnVWUXo4dzBpTU5DT3pfbmw2b2NKZ1dfNWtXNEFYLUdqYkw5dUljRHhaSVRSeHRUQnpPMWNYc1d2eHB1WFBpLVVpY0ZYaUVNRno2cVhjeWV0U2hlN0lPbkZ0YWFucTZaeVdwUGdvVHAwa3dJeWtZemhqV1pRNVo1c1Vid29nSTgtd0MtTW1HNVVfLWhjcVljTnYtRm5hOENEY2JSNzdVTjZ4VDZ5Y2RJTk1mcVI1RGpBZEMtRG50QjBIc3NsUzBsU2poNDNSck1EVQ?oc=5",
-     "fecha": "2026-11-17T20:19:29Z",
-     "medio": "TradingView"
-    },
-    {
-     "titulo": "Don Salva alcanza 15 tiendas en Chile y prepara más aperturas: ¿qué viene para la cadena?",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdG90ekEySG5NMHNiZENiUHA4bVRod2xFeEttZ1YxdWZQcHFsMTRuZVZtcHpENmFrNDRCcFVnb1FYandLc3pQLWI1ZDI2RlVia0N4emNPZ05sV21XT20wMjVyeWc3NDRRd3BrLVFnc3A0WkQ0bVV4cGQzM1ZxT04waVVHdjV5UEtrd2l0S0tPdjQ5aENieVVEeTBLVDlTeG1yLU52cFdCNkZyanhzSEd6TVdRVDI?oc=5",
-     "fecha": "2026-11-17T19:59:33Z",
-     "medio": "Perú Retail"
-    },
-    {
      "titulo": "Ripley Corp. aumentó su utilidad neta 53,2% en el tercer trimestre, impulsada por Banco Ripley Chile y sus negocios en Perú",
      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcl8xVWxfVUg2ajBkY0laYk4wNll3emJQUFd1SVB0RUNhNkRBMGdLUGZGUGxoWVd4ZU5ZdHBsdjVSYkp4bjVSMnpmUFRLbjF0bV9zR1JqQWZ3ZUY4Y2ZGZVp6NVpOaWt5WHcteFAzSHpJbVU3N2FxZXZHVkJCLTREY3BLMGZ1Tmtud2RyMHdTZzl5S2hZMnBKNmZpdE5MNzgwQjBPVGM1T09BVTlBek54WmVfWG81UW16UThwRjd6N1NBSXNJcHZZbE1GS2ZDSWYxdkNfdmlZTmhxcGwzaWpvbzhtN3hidWV1dk1ITnFpaw?oc=5",
      "fecha": "2026-11-17T18:34:00Z",
      "medio": "Diario Estrategia"
     },
     {
-     "titulo": "Cadena rusa de supermercados evalúa ingresar a Chile con una estrategia de descuentos agresivos",
-     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSDk4bDZ1NGlpQUc3eWtVbllBQUhEZTVGRmJZYVNQa2ROYzF0UDdHV3ItRkJfaW9XVmNwa0tMVFRSVW5TMWwzY2tCS1JXdWtncnFPSUlOcGt3ekl2bXk1ZjJmaVdwOFotckwxMk15SmlKdXN6MVR2cnVuWUJBMTZuc1JQeGZHeVlneHdVSURiVUc1b3I2YXgwODgyOXRLbGR4UG9uRkgtSU1xTGF3Zllob3F1RGVZb1hSUmpMeXpnYzlLOVFibGlIVG0wVGt1WnIwMWNuazNR?oc=5",
-     "fecha": "2026-11-17T18:04:31Z",
-     "medio": "Canal 9 Bío Bío Televisión"
+     "titulo": "Más de 500 empleos generan los tres nuevos supermercados que abrimos en el último mes",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJvbXdzVlVma3BEY0VpZVBZejl4VTNOdFMzSS1fR0VZdW45SlF6VWxNZEJHSmh3cmU2bllrVU1fdlFKdTVKSVBjTTJmbVU3dy1BWWJVbENHWTJUT0FWektGN0EzNHBWR3RFQXJlY2ppbzRKUGlwQ0lpV25GaGlUdlRnNWNsZkR6RzJXUk13djlvWUg1R1Uya2c0OWtsVmY2RTlvMjIxWTFXZWVsOFVqRmx3dUE?oc=5",
+     "fecha": "2026-11-16T13:59:06Z",
+     "medio": "Walmart Chile"
+    },
+    {
+     "titulo": "Walmart Chile nombra a Felipe Nicoletti como nuevo Gerente de Ecommerce y Growth",
+     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWhUNEljaVpWMjJfRV80UVN2VmM4RGg1WGFNeWl3d2pQRDRRTDFYUno4d3J1X0I1V2xpb29lRFRaLXJwUmFZOTV1V3I1Skhiek5hN3dCWk9WWjBFQ1dmaDZlOU45eDVRZUxqRC1uQ0JVQ3ZZNkFpakVaZ2RiWUY5andKZHhJVm5lbGRUZlJXWHh1RUtRU3lUVDN5S19VNkRQbmNkLW9OQTNqZ2dMQkE?oc=5",
+     "fecha": "2026-10-27T07:00:00Z",
+     "medio": "Walmart Chile"
+    },
+    {
+     "titulo": "Growth Summit: 31 pymes entran a Walmart Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHZ6YkJCR2FUeWlkX3phcFlhX0FraW1OQk93Z2pSaVlISjRBeHZpbmZlZUtCRFhLUldidmRGMmpESWtGTlljejlaWnM4YlF1MkV4bFdMRm82N2d2eGJCQ05aYV81UnZubFdnTnV6emh4ZGFHN3VXV1NOZlJub0lib1l3?oc=5",
+     "fecha": "2026-10-16T07:00:00Z",
+     "medio": "El Ecosistema Startup"
     }
    ]
   },
@@ -306,12 +306,6 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Cámara de Comercio y Municipalidad de Temuco firman convenio de apoyo en seguridad",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkpiZE9WMXJqdkFRcTBRNHMtOV80Q0lVWWRIbVVUZTBNMTQwNklDblhsejZlelhxNWl3SEozX0h6Qm54b29mQkF1aUdYZ2xDU0w4THJObU9FdHhRRzljeFpBbzM3ZHhIS1BOOFhLWkp5STl6ZklXTUVQN3lrcEdvUWNDNWQ?oc=5",
-     "fecha": "2026-11-11T15:33:20Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
      "titulo": "Temuco lanza plataforma para denunciar comercio irregular de forma anónima",
      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTJDSkdLMU9rNDRQNTVHVmN2TS1mbUtHRnlyNGpCcDJ4MmNWaVVxMWJaQVNOYXh1Tzh1clNzSmxJZldLTmZIalFqNU1GR2hoQmJJeVNNLVVoNndBNUdhTFFJTXhvc25Ec1I2aHdOd29NNW5xY0Y1TWtVTmd6aGpOajZEOUJtU19SV29qVTVLaU5famRlT0xoYkZZRdIBoAFBVV95cUxQel9ZSFZiN0hjQ2dBQWhHcFdPN1RiV2lSNUZDS2RkRmZSYkE4S2lld1NMSDFmdDBtUHZ0TkRTdmxlSkNTRkFTSlMxYTFGVWp1eHAtX2ZhaEJ1aU0wdEdZSnBnUzhjQmhxUzdVLWhWLVFMaEktNmdjRTFqQ1BOT1RNNUt6ZTdtT2tiNTNrOGRpREd1M0czbWhnT04zUzBUc1FW?oc=5",
      "fecha": "2026-11-10T02:52:37Z",
@@ -382,6 +376,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZE9wY2xVa28yd2d1cjMtR1hYdEZCNnJUNVNWZjg1VXk0eXI1dXVrRndBYTB4T0VTRHRfSTdQckc1Yng0bjBSMmdGZ2R2ekw2Q0lkVmtzVlRyblM5RDE3b21YRFBYY3NITzI0YnE4Njd0cHFyMWM5S3NJSEhLOU5JVFRTcmt3TllzZDVTcHh0bDdQay1aeGppTm1EZGNTbVZzZzNDM05JZ0EwUXNkZDNJbWhrSjl4S0hCYXA2MVVaRU53bGdNVGwtQjYtTFlSOFJhWV9DZHNQYzYxb1ZtMDRHeXBCN2lrQkhMY2Rz0gGMAUFVX3lxTE0xWVh4R2FWeXp6TVI0Y1E0RGNyUjVmbmV3YkowRXhEMHhtY0F1cTQwemhoVmh2WUxId2Y4ZUF5Y2Z0ZlNyOF9CZklvMk9iZWRiMlZBRGZjbzZZZGNQbkw0SlpMMnpxeG1uVU1CZmhIRWtwd1VNOVFkTWFIZ05qMHAzaVMyNmZYVm9mRGZ4?oc=5",
      "fecha": "2026-09-01T07:00:00Z",
      "medio": "Cooperativa"
+    },
+    {
+     "titulo": "Clan familiar dedicado al comercio ilegal agrede a inspectores municipales de Temuco: hay 5 detenidos",
+     "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOHFHRjZjelNwbjJFcU1DbEdBSDA5WEJUc2U3VWt3cWtUdGxuQjJ1a0puWC1rcUxocDZ3RTViUkF6UVc3ajRpOTZyTWEteXRhaGhnOWx3dlVHWGl1THk1SFZiMkVaMlJBeTFWRk1MWDVualNYZk5aQ29kU2taUU0xcEY1Yi1aWTAwX0h1SjZhNkpEVjRiRXozSjJuMm5mVVlpZG9CMXlSV3lyN2RQT2VnUElHSUpFeEVkZzlZUFpITC1uOW1tYy1WZnhRQVVqZlB0MzJmMHAzRVdCSE9uZXlMRU5MVHlXYnoyYTZ2YmpwOW96TG9OdFM4V3lnRHNjZUFJdUpneDhoSkk2UGIycDVHd0dSTQ?oc=5",
+     "fecha": "2026-09-01T07:00:00Z",
+     "medio": "BioBioChile"
     }
    ]
   },
@@ -468,16 +468,16 @@
      "medio": "Dirección del Trabajo"
     },
     {
+     "titulo": "Dirección del Trabajo difundió derechos laborales imperantes en Elecciones Primarias",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QQjE0RkZhSFh3aU1CVzM0SnV2TGJPc01nd1Q2ZGd0T25qYWZoUmlDRUNjRV9QclNSVFo2a044Ums5dGFmLU8xRHR2SjFwYVRSbUM2Nk9OdmgzYXRCNlRSV1A2VjFYUGM?oc=5",
+     "fecha": "2025-06-26T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
      "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
      "fecha": "2025-04-25T07:00:00Z",
      "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Sello 40 horas: Conoce las recomendaciones sobre su uso y aplicación en los procesos de compras públicas",
-     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEZ5aTZZUUtzVEtuR3RnTHVrYmpUekxXRnptNUtYMEVjYkttOGFyWWtnYllUc3FiQllpRkJMdnd1V1BuTmRaQ1BtLWJXRXNURnN4UTROVGhaLTc5S2VqQ1h1NWpfWDBxTmNERjl4ZnkyM1d2MDV2b2ptVFA5UXI4MWJCWURPZjJlTGRzMm5YS0JLSHZLUTFXV1hSb1k5bTVxZXAzeXVzc1VWaEZoOVFjdUxoOUg4WjlMdnpwSVphNXlldHl2ZnhodW9ud1N1U01wMFE2c3Vn?oc=5",
-     "fecha": "2025-02-28T08:00:00Z",
-     "medio": "ChileCompra"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T07:53:29Z",
+ "actualizado": "2026-11-21T09:26:47Z",
  "fuentes": [
   {
    "clave": "forestal",
@@ -22,6 +22,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcjVCY3N4NTE4bVRkWjV1NTZ2NDBUeWE3YWJUajJMYXFsTnRmTXU2M0hIVjE5NFBkWEtHRFRIXzJXU0o4TlBmTzZodldveVVlVkFKUEQ3WS1kN1FZZm9hclNTWmFrMkxqZXZ3emx1d3JzejlJNkdjdmtxc3ZzNFpwelZudzV0UTc4djJubTVDQkl2cV9ESHg4QjZ3aEhkLXBVYmFwYm1jOVBDVU0tSjhqc1p0Q0V4Vm05bWRseEZfOThwdlF5LUwyUTA0b2w2dWFWaVppVkdqcVE4dw?oc=5",
      "fecha": "2026-11-18T19:59:01Z",
      "medio": "Canal 9 Bío Bío Televisión"
+    },
+    {
+     "titulo": "CMPC vende sus operaciones forestales en Argentina por 170 millones de dólares",
+     "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWFEblJ1WlcyWmtQdmQ2ZG9maGx6NGdFR1RKN3IxVHVveFE1YTduX0podXlzYTAwX0xCTTBMbVBwenhUcWh3TldSTFJwTUxKV21KZHhVeHZSRXpLdTRXc0p3OGJrTzh3ZjRrX2JNRkRXWVYwRUhoNlBiamgySnlIbHBUN0ZrMXFNeXUzX0NrMWtiTHdoX25OVzRR0gGfAUFVX3lxTE1sVzR3VThtbXpKS0drYVF0bW9uOFdEME9QM3lNOWNRVC1kZEVVMHVwbmFJeGNGa2dRRHVfaGk3UFBpemdCeDJvZ3FwT1hNTlhFS3l4TnNUWjV0Umxid09qMFY0ck5fSnBfODZLR25keWNvM3RnSkVDTHU5Y2l6YlVCXy1VNC1VMmQySi1Vc21CN0RPYWZsUm9YOEoyUkhBbw?oc=5",
+     "fecha": "2026-11-17T07:18:50Z",
+     "medio": "América Económica"
     },
     {
      "titulo": "ExpoCorma 2026 reunirá a la industria forestal en torno a la innovación, tecnología y nuevos desafíos del sector",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzhET1Bkd1NfVS1rOWgzUWNvRzJRWFVNX1RzWjFKNkxiVmNiR1ZuQ0IwbC02TUsyM2daTFFldDNhNXQxWFlzYng0eXBxTnMycHlad0lLb3RmalVtR19wMXRSRkhjdGJ5aVlvVXI4TW1LcVp0R1R4UUk4SWJkNVFFNmNudWtIU2xmN2FEWTJSN0RqWDFzOUZMcmNUMG9zaHVLWWZxalk3RFQ?oc=5",
      "fecha": "2026-01-19T08:00:00Z",
      "medio": "- CIPER Chile"
-    },
-    {
-     "titulo": "La Xunta analiza con profesionales del sector forestal de Galicia, Chile, Uruguay y Portugal mejoras para combatir la plaga del pino",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWUyS3IyQ1NBT0paY2VVS3FPR2R6WHVqbDRiejF2ZVdhY2daclhrVnBlZWp5di0zTGtVVnR1ekVBekpjTzBrME9oRGZfWnFYX19rUEtQR2JSTHdfSTJMZUx6alJmNWhJbWxCaVVoTnE5b1VfNUtaNmpYSFFOQ08wOV91YXYtM1lrNmg4ei15M0JEbzU3YzNjSzJPQXVOWGJDNmlaTGRMNGVFdThnSW5VckY3V0swc2JaeTd3WXlGVjN6Z3d3b0N3YkRCeDhsTUxPOVlF?oc=5",
-     "fecha": "2025-10-29T07:00:00Z",
-     "medio": "Xunta de Galicia"
     }
    ]
   },
@@ -150,6 +150,12 @@
      "medio": "Conaf"
     },
     {
+     "titulo": "Director de CONAF Ñuble revisa recursos y coordinación logística de las brigadas de Bulnes y Quillón",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV2RPREdSbGh2S3ljY0ZrMWF0RXIxdXRSSE93ZzhROW5HajM1QzJpMWlTRTZONUloOFpjUDVOSFJnTmkxeGhSZlJtSkNEdm16WkxpOUZfQnl2WGhBWFd1SXNhWWxzYjhvcVgyMVdtVms1LWJKX2I2R0NsaEtHQjZodEJQWFEtU1VEWk5lWTJfb2c0UERGX20wMkVPMWhxMFlUdHh2YnNtRmtMTUdoX3QyUFZIb0hRRjBhQUtpbnhGRQ?oc=5",
+     "fecha": "2026-04-13T07:00:00Z",
+     "medio": "Conaf"
+    },
+    {
      "titulo": "Día del Brigadista Forestal: rinden homenaje a quienes combatieron la reciente emergencia por incendios forestales en Biobío",
      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWJzUldUSGxaNmRENzhfbTViXy1YeFJWUGd2VlZMaGRrQTZFYVVJcW5VcFBDeUlCNDdQXzlja3NwdXV2eFZiVDBwaWhBamNLWXhzTnZhSEo1SUdJQTRaRnNDSG9EZWFPbldRT0g5bTNFYkd1N3lFUVNxWEdocVBmTXJSekEwSTdvUEUxOVFXcE5ZdW1HQVMwcVFUTlRyQWx3akp4SU5RZzVhQ29VelFjYkpsS2FJQUZxaHRLSFV6WFFOdkRDODIxXzhDY2VnSXhXRHhCZXRJQjhwTHd4YVE?oc=5",
      "fecha": "2026-02-15T08:00:00Z",
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmpnM2g1LXpNTDN0VkNxbEFfelZkalYwUi1ENnJTUDVoRTlCMnlWMGl6SXlDZmNzcWdsVnhWMmltM1E5ZmJVMHI2cmZrdWt4Q1FUaHNDZXdSNGk3SGk2THQ4aGRGZmNheWlmajVBMFV6YlJDblBoLXlOMVJMY2ptOWJyYU1fX0s5M1NkVVBtNXlNVnNhQUdDTDc2eEVCZjRod0ZPbVJn?oc=5",
      "fecha": "2026-01-19T08:00:00Z",
      "medio": "Conaf"
-    },
-    {
-     "titulo": "Brigadistas se capacitan en el uso de maquinaria para operaciones de combate de incendios forestales en la Región del Biobío",
-     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaE9INVVlVS12eW5BM2hrUkk2a3hnQWpJcFJDNEdGSDN5b3VacXJLRnNUTndtR05Hd01PdExqbzdCLWVMd2VKdlpNWmdYOHAwaER0bm5JYnQ0T0x0d3JqS1ZpLXlUbXEzMlVmdk1EQ2VSZHVCY09hN2JkZlIyZ1RUWE1yd1VYZ2lWMDZ1cTFKdEhRNTJKNDFWUndQbDExSXhXZ3RzakVCNl9uWGpab0lWLWhPSGJ5b294V3JzNFJEb1piX2txYU1kb0gzMHBxbDBoaHNlVGZvOG44M2ZWUXhz?oc=5",
-     "fecha": "2025-11-12T08:00:00Z",
-     "medio": "Conaf"
     }
    ]
   },
@@ -202,12 +202,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUdaYzQ5S1doSlltblJrS1lFU3l1VHFPcnhQVl9HZ3NEejBkYldjcW5TVWRySG4xTERQY3FvUW10enJlWTVnWl9leXRMYWV6X0REamNJakRrcEFGemNLYXFKcC1meFpFZ3ZPb0VNaGhNUFRvc29JVm5zc1NFNjNKTnBoTS1WU0p2WW52REFvQ3lwNXlPUWFDNUFoVFY4dkRSMUVsaWhfbjFRRkRTbjNlTGxSLWpvWVE5ekRsSUlOYzFtbzQyU01IVGNERlJra1FhQ0RN?oc=5",
      "fecha": "2026-11-21T01:03:42Z",
      "medio": "Araucanía Noticias Temuco"
-    },
-    {
-     "titulo": "Detienen a hombre por sustracción de madera en predio forestal de Collipulli",
-     "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUY5YVlhOWk5WTBGMURTTHpVMG5zUnZQT2xqbnE1S2VhcElBeGtqZU1DMEJWWVhQcFVUQ1BXb2V4TW1nOGROVGlycTlkWVE5TU9BRm9HelZFUXkyTG5ReVF6OHRJdENXemVzY29SdzdDNUhqZl93VkFmOUZKR0FPLW1wR09hYjVDYWRacmcxTGNUdm1GQzR5RE9MNWZvTlU5R0o4?oc=5",
-     "fecha": "2026-11-20T15:18:31Z",
-     "medio": "Malleco 7"
     },
     {
      "titulo": "VECINOS DE TEODORO SCHMIDT SE PREPARAN PARA ENFRENTAR INCENDIOS FORESTALES CON CAPACITACIÓN Y SIMULACRO",
@@ -234,15 +228,21 @@
      "medio": "Conaf"
     },
     {
+     "titulo": "Por alta temperatura y viento: Conaf suspende quemas en La Araucanía para evitar incendios forestales",
+     "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQLTJ3SEhYYm1WS0lkeVdVSG92R0IxcklVMDFZa0QyNXU2U0tmcXhtem1MckxkYjZ2NGJGVjNodkFfX1VvMXYzNENZeVE4aWVDMUdYd1pEaXIzNXVmLXUwWmoxZG04dzdoQkl6SHZzRnlCQ3FUbXc1VXZGT1hjSlhTc082ajl2T3JCN3h0OEVmMEtIWWJ3ZENWVXEtWkRVVFZyUEFmb21rVjFMb3p0MklPb0kxRmhFZHZiOHdjMW5jalJKODBoQmtETk9lTE9IZjRQQmVzUVY1TFdPNzItWTdHdHZkVmM5M2FUUjBpMkxuQ2ZCNzBJS3NRNnk1eU8?oc=5",
+     "fecha": "2026-09-17T07:00:00Z",
+     "medio": "BioBioChile"
+    },
+    {
      "titulo": "Los Ríos y La Araucanía avanzan en agenda conjunta para fortalecer el manejo sostenible y valor agregado del bosque nativo",
      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNUdsb0otVmNVa0NpV1ZCRmRYYUo5dEQtTkZvNE9zVkxQYk5sVEoyTjVHV3dQTndQNkMyNW1ZZUVUXzFUVm5MVzVWd01nOHo0ODhfTUN6Z19YYWRya0tGTno3dVhBakJkSGtnYm9rVGVuRDh0RFZ5M0pueExvd0lPZE1NbmRTbWVGcW1HZHRyVzh2UUpnZDBYbzFpZXFPX0ViQ2djdExyUlFsTjJiVlV2QnljcUI1UzhiOHlVVTUzbFcyVUE1QkNYVVQ0cUp5R2g0d3lWN25BcFpmbnFv?oc=5",
      "fecha": "2026-08-28T07:00:00Z",
      "medio": "Conaf"
     },
     {
-     "titulo": "CONAF abre postulaciones para labores de combate de incendios forestales 2026-2027",
-     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTBFQjRFcVk2YnpDMVhWZVFQeTFNcHBjeDczMFVrZmpBcUljNEN3ZUZVSVFtWUxVU0stajU3TFBqUk51MmhqYUlzRXFyTW13R2IzS2JaVjNmRWZrLTJTZllXYnNRZGZGX1hua3VUXzNhbWdtSUZIcGpKMGg4SjVpYkcyNW5US0ZQSHhLcHFiZEQ5VEhaWVc2SGhmUG80eEVGOFBPVllkdw?oc=5",
-     "fecha": "2026-08-07T07:00:00Z",
+     "titulo": "Equipo directivo del Proyecto +Bosques visita la región de La Araucanía para conocer avances",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWWZaM3FyaGpUOEpDTEhHcGNiaUlIbzZtaVB0a1dsbm9JUlp6ZThHU1NLbl9ON3NGNUpmSXROWnVDYW5BdTRWc21kbG9xYV9QQVJtMnFPT2lVWUJST2ZEUmRVYTY2N3FTa01lcWFXbktEZzdoWGhrbzZvNkpON0RDZGs0NkxHTHVjN05VcE9wbWJsenBOQzVvb0tPM3N0OFp4TnpnUF9nQVVZd1ppT2hFNXAxTmxQVzA?oc=5",
+     "fecha": "2026-08-04T07:00:00Z",
      "medio": "Conaf"
     },
     {
@@ -264,9 +264,9 @@
      "medio": "Conaf"
     },
     {
-     "titulo": "La Araucanía: autoridades conmemoran el día del brigadista con desayuno y reconocen labor de combate",
-     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN1VsVWpNQ28zVm1NdkNPSDRxVU1FOUxUMTJPWlppaFdCUGFMWVl2S3BhZWMxYTAtdXRIdkJmQkxfRHpZYTFuTUc4UGtKNlBSQk5UVEdSdGtXZEpfM2NCYTFJcUczNFNvdlRyei1ZS0d4SEswODFXSFZGMlRtSzFkcFpEc0xxaFZ1MzhMcl9wU25OaXU2T2h3bVF0bEZUYzhEcVNFdUVKXzNOZEVRbVNqZ2kydjBwWVYtNW1yS0hB?oc=5",
-     "fecha": "2026-02-17T08:00:00Z",
+     "titulo": "CONAF y CORMA refuerzan coordinación para enfrentar riesgos de incendios forestales",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXFJU3ZsZGdXNU9kNHNGNEhhZEtncXRKV0NhQ2xSZmhBQWE5OUtvX2FmOGpadlBzNlBLVlpIRElXVThFdTU2WVZMOWhPTTRPSkQ3MHpicFcyTV9FTm5VSndOVkN0blNWOXVFRG1MMTZ0TFZKeGVab0RKUDFlc0NBa25KOGtDRG80N1R0aVRaaDZFblgxMWEyamJYRUtGVmtHTUtpSHV4V00?oc=5",
+     "fecha": "2026-04-08T07:00:00Z",
      "medio": "Conaf"
     },
     {
@@ -468,16 +468,16 @@
      "medio": "Dirección del Trabajo"
     },
     {
+     "titulo": "Dirección del Trabajo difundió derechos laborales imperantes en Elecciones Primarias",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QQjE0RkZhSFh3aU1CVzM0SnV2TGJPc01nd1Q2ZGd0T25qYWZoUmlDRUNjRV9QclNSVFo2a044Ums5dGFmLU8xRHR2SjFwYVRSbUM2Nk9OdmgzYXRCNlRSV1A2VjFYUGM?oc=5",
+     "fecha": "2025-06-26T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
      "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
      "fecha": "2025-04-25T07:00:00Z",
      "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Sello 40 horas: Conoce las recomendaciones sobre su uso y aplicación en los procesos de compras públicas",
-     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEZ5aTZZUUtzVEtuR3RnTHVrYmpUekxXRnptNUtYMEVjYkttOGFyWWtnYllUc3FiQllpRkJMdnd1V1BuTmRaQ1BtLWJXRXNURnN4UTROVGhaLTc5S2VqQ1h1NWpfWDBxTmNERjl4ZnkyM1d2MDV2b2ptVFA5UXI4MWJCWURPZjJlTGRzMm5YS0JLSHZLUTFXV1hSb1k5bTVxZXAzeXVzc1VWaEZoOVFjdUxoOUg4WjlMdnpwSVphNXlldHl2ZnhodW9ud1N1U01wMFE2c3Vn?oc=5",
-     "fecha": "2025-02-28T08:00:00Z",
-     "medio": "ChileCompra"
     }
    ]
   }

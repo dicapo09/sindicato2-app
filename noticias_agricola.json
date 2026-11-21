@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T07:53:35Z",
+ "actualizado": "2026-11-21T09:26:54Z",
  "fuentes": [
   {
    "clave": "agro",
@@ -204,6 +204,12 @@
      "medio": "BioBioChile"
     },
     {
+     "titulo": "Chile entra en temporada de cosechas y el agro busca trabajadores extranjeros",
+     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSGRFUWlrLUJyZnhYME9LbHk3bG9BYXhjTVl4eWN4WFl0NDFlSGlrcGxwMzh6U0g3bWR6SzFvZzg2Tjc0MG9vcm5WNDllcTVPWFNzOUN4Ymo2N1otbzBXanZuNE9wTHk5ZmdneEdKeXBvZXUxMzJTOGRSRU9wYlVxUEZPU0otRFBMbTQ4bTRnNE5VZG5qdGtVRVJjTVhKVk5ydzQyWGJ1RDc1UVd1cWlEc1FDVFZSV1RnUjJ2cEdoaFQ2V2tTb29Z?oc=5",
+     "fecha": "2026-10-06T07:00:00Z",
+     "medio": "AgroLatam"
+    },
+    {
      "titulo": "Entre “líquidos y venenos”: estudio revela cómo trabajadores agrícolas chilenos perciben el riesgo de los plaguicidas",
      "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRU9KLUZSV3NQU3MxaW4tcEFCejVqQi1DeWVPOG5pUjlXZWhQNjFvZzRkOXR0Mml3VzJQbjFxWjdVYjA3bnhhbE9OakZQQVBDM1RobU5nVHJrRkpaWWs0S1BsNVd5WVQ1SjQxT3JiS2gzcExTcGtDZy1fVEliem9KdEFVN19Cd3BIWnI4WFlRSU1MNHlmLURURFQxRUtPdFN1Z2lEeTdqcDQwcnd1U3VHaTl4TGFaZDUwRFRiSFpRSF9sMGtRVWpRVVRac2NiV0IwUjdsQXRHMHBMOWhDMW5iVzZUcThIaXpIUWNoQ21scWI5bVJ6TnlnemE4Sm9tV1phZldtNENfVFBjMURr?oc=5",
      "fecha": "2026-08-27T07:00:00Z",
@@ -222,16 +228,16 @@
      "medio": "Infobae"
     },
     {
-     "titulo": "Chile acelera cambios para evitar la falta de trabajadores en su agroexportación",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmdjWnN0MnBIR05ISEhVRmZJdGdfb1VxRnVXVEZhWWxXaXZGcmNGb2NieFhCYmprMXNzeG5EdUIxUjZJRkNUTV9GOWJCQWZyendXY1V1andCYkdmZk9vMHhjek9UZmNaZ0s4THF5dXhseXhoXzRXOUhOMnFkTnA2d1FOendRQW1rNzBMcVYtcUlVdEdFYkEtWWtCM3ZWVjBEemMzZ0JBb0pWNVZ1UnlyQVpCdzFGZGQ0?oc=5",
-     "fecha": "2026-07-10T07:00:00Z",
-     "medio": "AgroLatam"
-    },
-    {
      "titulo": "Gobierno chileno agilizaría contratación de temporeros extranjeros ante demanda de mano de obra",
      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQjdodHFVRm91QXJyVEZCYS0yOEtDRk1nX3Raa2dNUnRmSHZoWFljRHJaWnJzcTE4YndGcG5VXzJmOFMtOHd3MXJ6OUEwN0tybWt4SzY5Nm1fZjhSd2JlSTVsSVB2dXJYM0t3YkJRUGFlQllIbUlId0xQT20wekpoU1JKWkw0US14UWdrYUhpNUJHR3NlZXZXZEhaR3NjNl9RQ1NFVFppUE42NEU4TXNHRlVkTnE0LWVWcmpBM1o4bF9hZ0JOV1FSSk5SODB5VE1DaEV6cG10NHFUa2xJc0hXQTBXX1EwSmo0SndVM1hGcVJMTXc?oc=5",
      "fecha": "2026-07-10T07:00:00Z",
      "medio": "Diario Frutícola"
+    },
+    {
+     "titulo": "Chile acelera cambios para evitar la falta de trabajadores en su agroexportación",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmdjWnN0MnBIR05ISEhVRmZJdGdfb1VxRnVXVEZhWWxXaXZGcmNGb2NieFhCYmprMXNzeG5EdUIxUjZJRkNUTV9GOWJCQWZyendXY1V1andCYkdmZk9vMHhjek9UZmNaZ0s4THF5dXhseXhoXzRXOUhOMnFkTnA2d1FOendRQW1rNzBMcVYtcUlVdEdFYkEtWWtCM3ZWVjBEemMzZ0JBb0pWNVZ1UnlyQVpCdzFGZGQ0?oc=5",
+     "fecha": "2026-07-10T07:00:00Z",
+     "medio": "AgroLatam"
     },
     {
      "titulo": "Nuevas medidas migratorias ayudarán a llegada de trabajadores temporales de la agricultura: Habrá facilidades para residencias temporales",
@@ -276,16 +282,10 @@
      "medio": "La Tercera"
     },
     {
-     "titulo": "\"Queremos que más trabajadores temporeros agrícolas de Bolivia usen la Visa Mercosur\"",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0xaUTBrMmtEa2xTbWN3aFNCdTR2aHNxWFVxNTF0b005UW5DeXpSN19xNU1EVzJNbU1uLWhIZW5RbndkR0JrV0M5WjNHLW95WWlsV0JsVm9hclBqSGhleWVFenZJYWoyU09Ndk9DOHJyS0xNXzdUT0FpN1dKMTVZUm43dC1BbUUwTUI4U3VsaWxscEpKX094ZlhoTFlxLVZ0aWdfVFVDczMxblFQSE9sUi1ocHlhc3dRUjZySTR5LUFfZ2prRG1BOHZEaWpHNHhjWVhTWnA5MDRRektocm1CRkFPVTU?oc=5",
-     "fecha": "2024-05-08T07:00:00Z",
-     "medio": "Diario Frutícola"
-    },
-    {
-     "titulo": "Temporada 2023-2024: Chile y la necesidad de contar con mano de obra extranjera",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM05vTDNIYUJyMW9GZEtIUy0tR0lSRzlNM3NOakVwblJXVHFIbU8xMUVhR3dsTmFFOTR6RTlxWmZPX2Nsdkg2NjdIYWtrNU9wYjhBZ3RzVFFoX1J4QWZma2wzMFdhTDBkbEEyLWdGNjFmUHN4b3FRc21yMmtOWTYteTJfVlpVbW0yTklsREpFZUF3S1VsR1JUSHpuTkhaMU1sYjBFVm1nendWejVwY0x5WUxDYkw3YzBKZC1sN2NQVktHWFJBX3BLc185Yw?oc=5",
-     "fecha": "2023-09-14T07:00:00Z",
-     "medio": "Portal Frutícola"
+     "titulo": "Empleo temporal: Española Eurofirms elige a Chile para su hub regional",
+     "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbFJ5MThrSm5SajFmZFFoVDNoYzhRWU5CUFk3VHRDS3JiaEhfR19VVXhvenF1RWNURGZPU0h2b3VYV1hyUTlZWFE1N0JuSVBJbXNZSVBPUXc1dFnSAWtBVV95cUxNT09vd1JKSmdjUlhwZURhYWlCNTVaeGZIMkxFVXhEVGtVYWswcW51TVRmM1dvNTZmQWxQMG9wZlVlU3Z2ZDlQY1VNbEliNGhuYy04MzFiUmF0S004MFdVMWdLWHUwaGtjYVJWWQ?oc=5",
+     "fecha": "2024-10-22T07:00:00Z",
+     "medio": "InvestChile"
     }
    ]
   },
@@ -295,9 +295,9 @@
    "items": [
     {
      "titulo": "La comunidad agrícola de California honra el legado de Dolores Huerta",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmMydE0yeVV5R3pGcHpBVWxvX1VjVk5IQnZUZ2tXMXhzYmc4NEloY3d4aV8wMTZYcWR2N2pMUDhMNm9iSmxFVWwwZDFRM1ZQWG1TMUZoWDBZMXJkUWNjaGRHR3lKQl91SC0xSG5oNk9tZU5sd3d6T0ZBTXlueFptYkszWmdkYWs2ZUF4cFdYMDZBSmpHUEdXRDQyV2o4OVJtSVBNZU9kcnAxT3BRNDVzYTFhcm91SC1BM1l3QmZXTdIB2gFBVV95cUxQRWppNUJ4U19fQ3Fyal9Ob3NsVmx1OHI0YVd3NnJFNnc1MmhJTUM1TXJpaGZYRy1BanhZR2hKaXlPaDAzZHhQZzBqVmRxb2FZT1dJQ25SU1NuSnlqRTByUl9uNDNQRXNDM1VlemZuR2dpOFhkVlZwQmh1R3NOb0NhRjNaaDAtb2F5eDBQNzA4WnBoWTZFRDQ0X3JCRWJnU3dkOGQxY3NRYVpRcEVOVGYtcGtYQmZFZ3h6M1Nobk43VDdJRElmUWswR2lnT0xxeVNwV3Z0Y3VFR09JZw?oc=5",
-     "fecha": "2026-11-21T00:30:00Z",
-     "medio": "Infobae"
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUHpfWUJxSkUxRV9EYThMd29lbGhmeEpia2lFR1Y4d1JaenZtZ1JUMlFJcGg1YmRUVTZ5dkNsX29KMTY3SVVPeE1pTEgwc0RXeTNqdU5fQThoQWlaZTY0NTBoaXliQVNQOFVuRExpT0dYaHhBbk9zaC01aHpRQ3duWS1OeVh2U2JpTkpvM3RSekVxRGpNYkE?oc=5",
+     "fecha": "2026-11-21T03:05:43Z",
+     "medio": "HolaNews"
     },
     {
      "titulo": "El Sindicato Agrícola de Constantino celebra la tradicional comida del socio",
@@ -468,16 +468,16 @@
      "medio": "Dirección del Trabajo"
     },
     {
+     "titulo": "Dirección del Trabajo difundió derechos laborales imperantes en Elecciones Primarias",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QQjE0RkZhSFh3aU1CVzM0SnV2TGJPc01nd1Q2ZGd0T25qYWZoUmlDRUNjRV9QclNSVFo2a044Ums5dGFmLU8xRHR2SjFwYVRSbUM2Nk9OdmgzYXRCNlRSV1A2VjFYUGM?oc=5",
+     "fecha": "2025-06-26T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
      "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
      "fecha": "2025-04-25T07:00:00Z",
      "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Sello 40 horas: Conoce las recomendaciones sobre su uso y aplicación en los procesos de compras públicas",
-     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEZ5aTZZUUtzVEtuR3RnTHVrYmpUekxXRnptNUtYMEVjYkttOGFyWWtnYllUc3FiQllpRkJMdnd1V1BuTmRaQ1BtLWJXRXNURnN4UTROVGhaLTc5S2VqQ1h1NWpfWDBxTmNERjl4ZnkyM1d2MDV2b2ptVFA5UXI4MWJCWURPZjJlTGRzMm5YS0JLSHZLUTFXV1hSb1k5bTVxZXAzeXVzc1VWaEZoOVFjdUxoOUg4WjlMdnpwSVphNXlldHl2ZnhodW9ud1N1U01wMFE2c3Vn?oc=5",
-     "fecha": "2025-02-28T08:00:00Z",
-     "medio": "ChileCompra"
     }
    ]
   }

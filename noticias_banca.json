@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T07:53:30Z",
+ "actualizado": "2026-11-21T09:26:49Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -54,6 +54,12 @@
      "medio": "Universidad de Chile"
     },
     {
+     "titulo": "¿Por qué Banco de Chile constituyó $ 50 mil millones en provisiones adicionales en el primer semestre?",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmtCeFktc1ZDWENGZm9ITXYxRlNxSFIwNWxqX2x2a0FHLTV2cnZwZzRLWUVWRl9ENGJ5MGpaYjRRRndmU2xsMFFKOVllM0FDMy1BeDdkT3duYWR3QnZVZzkyQUdjb1dZVjNmWkxZNWE2QkZNT2QxZGNxZEJFYzkxYnJMM0h6ZWpnUTh5SDZ2TkIzYlRPb3lGWnVaSkI3QTIzUDE4bjZmQ3U?oc=5",
+     "fecha": "2026-08-03T07:00:00Z",
+     "medio": "Diario Financiero"
+    },
+    {
      "titulo": "De una idea innovadora a una nueva manera de hacer banca: los 10 años de Santander WorkCafé",
      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdGJBZ3ZFeDI1cHVrTjA3amYzSndDemdGTDZsb2UxLUF5T3VUOFd5ZVJHTVNEd1ZvMzRyNEtKVm9LbHZTWWpoMFgxM1l2XzhqT1d5SDI0X2REelhpeEcta09kNHI5WGxkZ1VtMk53RUxieFZfdjliUDlVTnlVWVE2Z2JKdUhhd0tnX1U1NjBnaE1lQUlhbVUtZFNGT1VnTml1NmVYaG41N3Y4akYtd2huN2ZWRlNoVHpYN0E3ajZqYzhiR2xFbXNvWjRHTDRjYVNOY19yMkYwc19vM0ppN25hZmU5ZmxUM0YwcEdVSWVR?oc=5",
      "fecha": "2026-07-12T07:00:00Z",
@@ -81,12 +87,6 @@
      "titulo": "Banco Santander lanza la Tarjeta Platinum® American Express dirigida para clientes de Banca Privada",
      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNmFLaXFtV00zT21XQTJsRkhzS2s2OUlvbmpUUC12cHQ3WU5YbENuSWppajRtV1l1TzZrMmwtNVBLdmIzZW84UnlxU3luWUFnN19TMzFhbHAxRncyNGJ5Z0RKRDRENks0TzZJdS1NankwZ254aDkwM2dxRGsxT1F5N1pNUWVYUkp0R3dSQ2dMS3UyRm9qYUxSWlhjNnVRbHBsaVBTNVpGUnFQZEJudnVuSUVlSWU5ei1EeXRwblc1WDA4Y3NUQkFBQ29aT3BWZjhjWkt2aTNiTmdFWHF2YXpTSFJ5LWFkZFpPVFIxa0hielFyUjBhMG9Ueg?oc=5",
      "fecha": "2025-08-01T07:00:00Z",
-     "medio": "Banco Santander Chile"
-    },
-    {
-     "titulo": "Carlos Ruiz de Gamboa asumirá como EVP de Santander Corporate & Investment Banking Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR3djMTJsdlVaaExaZlNYUjlvNHlWdHV2VGRwYkMyN3lvWDBNaGpjMTd2a19GUmUtQkJBZ1VacERqaHc0TjNrU2lyVGJUb0U4bXRkQmZqTE0xUmtBNnBBa2YyczhDcHVGam1NdnlvblpjYVZNNHNqS016T0xSbWNKNnJHT1BCY1NoOWx1UGR2VVd1SWtGcWkyeGpGMURaVjFlRTVRekpUUFduZTZSQVA2Y1g4T2hacGV5eTZvUlRMM2FrSlJDNkV0NVZnQVNDSnA5TnpwTmdVUHZKdHNG?oc=5",
-     "fecha": "2025-07-22T07:00:00Z",
      "medio": "Banco Santander Chile"
     },
     {
@@ -372,16 +372,16 @@
      "medio": "Dirección del Trabajo"
     },
     {
+     "titulo": "Dirección del Trabajo difundió derechos laborales imperantes en Elecciones Primarias",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QQjE0RkZhSFh3aU1CVzM0SnV2TGJPc01nd1Q2ZGd0T25qYWZoUmlDRUNjRV9QclNSVFo2a044Ums5dGFmLU8xRHR2SjFwYVRSbUM2Nk9OdmgzYXRCNlRSV1A2VjFYUGM?oc=5",
+     "fecha": "2025-06-26T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
      "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
      "fecha": "2025-04-25T07:00:00Z",
      "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Sello 40 horas: Conoce las recomendaciones sobre su uso y aplicación en los procesos de compras públicas",
-     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEZ5aTZZUUtzVEtuR3RnTHVrYmpUekxXRnptNUtYMEVjYkttOGFyWWtnYllUc3FiQllpRkJMdnd1V1BuTmRaQ1BtLWJXRXNURnN4UTROVGhaLTc5S2VqQ1h1NWpfWDBxTmNERjl4ZnkyM1d2MDV2b2ptVFA5UXI4MWJCWURPZjJlTGRzMm5YS0JLSHZLUTFXV1hSb1k5bTVxZXAzeXVzc1VWaEZoOVFjdUxoOUg4WjlMdnpwSVphNXlldHl2ZnhodW9ud1N1U01wMFE2c3Vn?oc=5",
-     "fecha": "2025-02-28T08:00:00Z",
-     "medio": "ChileCompra"
     }
    ]
   }
