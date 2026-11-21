@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-21T09:26:54Z",
+ "actualizado": "2026-11-21T11:25:10Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
+    {
+     "titulo": "Ministerio de Agricultura destaca fortaleza y empuje de agricultores de La Araucanía",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3JZSmhFVVN0SnZYLUtNRzJBV2ZjeFNTMUtWMk5xaThVNUYwNVVHTEVXRWg2Z1k3LWplRXdHRERCTWUzaXFVZVhFOEZ2UDRJN0N5b3lEdExlUmJjajF2d3dDNnN1TjdWYlg0YUNMYWFGZkNYU2ExN2szOE5TcVlhRnJqb0ZyU0tsYTJrbmNzQjcxWFJnY3Yxem84WmZfekRsakpjQ2tHc19kaDd4U1BtUDE5Q05La00?oc=5",
+     "fecha": "2026-11-21T10:05:34Z",
+     "medio": "Portal Metropolitano"
+    },
     {
      "titulo": "Expo Mundo Rural de INDAP abrió sus puertas en Temuco con 50 productores y cooperativas campesinas",
      "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VdGU5enV5UHpqMzB6LVpiMHB2QXFSTTR2ZXMtOHRYOENqRDZJQmdqNXc2YWMySUQ5NHZodXZDMEd2dWhYTmJ4aDJtSGloeU81MHZCRU1xUUJiUUItNjFqS3ZKZTVRbWVTdWtiblNyaE9xUDNjdlE?oc=5",
@@ -60,12 +66,6 @@
      "medio": "Portal Agro Chile"
     },
     {
-     "titulo": "Destinan más de mil millones de pesos a proyectos de riego para 86 agricultores de Los Lagos",
-     "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWjBVdl9yMUhCb0swaWZDaDFidlRhYkZfMXo0WFZhWnJCcDlCaktyWC1NdUxkQVIyb1l1TGJEZ2o3T1luSVV0ZXRkSzd2UFlYRVZFLUlCUzZjSTNCSjRzdGd1b0NzNWs2RUlFTnBJaFpUSGlkbkVTT2xVbVdsU3BXajhRbGVibUFUQ3ltVFdkNA?oc=5",
-     "fecha": "2026-11-20T17:23:42Z",
-     "medio": "SoyChile.cl"
-    },
-    {
      "titulo": "Chile proyecta una nueva industria del pistacho y atrae interés argentino",
      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNzJ4RlFyM18yeEc5OC16eXdFWWFHR3F2VmxjVDZQU3JJeThGcEdWY2RuZVZUVVgzOU9iZlJKbllQbjY4SFdJc002Tjh2RmNMdUlSWVlaVm5RUXdNaTFxRGJncS1VVXRSV1JrS3JRV3cxNVl1V3lNQUZueV80eTZBVGZOSzcxSHE3ZjRDWlZHV0FWZzBzTWwtOU16SF9vLThVNUNTaHlrV0l2WlVIbXFuVEdhZzhmb00?oc=5",
      "fecha": "2026-11-20T16:20:32Z",
@@ -101,6 +101,12 @@
    "clave": "araucania",
    "nombre": "Agro en La Araucanía",
    "items": [
+    {
+     "titulo": "Ministerio de Agricultura destaca fortaleza y empuje de agricultores de La Araucanía",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3JZSmhFVVN0SnZYLUtNRzJBV2ZjeFNTMUtWMk5xaThVNUYwNVVHTEVXRWg2Z1k3LWplRXdHRERCTWUzaXFVZVhFOEZ2UDRJN0N5b3lEdExlUmJjajF2d3dDNnN1TjdWYlg0YUNMYWFGZkNYU2ExN2szOE5TcVlhRnJqb0ZyU0tsYTJrbmNzQjcxWFJnY3Yxem84WmZfekRsakpjQ2tHc19kaDd4U1BtUDE5Q05La00?oc=5",
+     "fecha": "2026-11-21T10:05:34Z",
+     "medio": "Portal Metropolitano"
+    },
     {
      "titulo": "La Araucanía abre 38 cupos para formar talento audiovisual especializado en inteligencia artificial",
      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGpEeF9iZEpkeVk4bElqQmlFNzJTV3E3ZE1IOVVLZ19vQjBwMVd5bDJLcGVPTG9HeWtMV3VWQ2MtQkRFZUc2VF9JMW5xU0s0QXM3Y3JWb011RXkzc2JFaG5OWUxOQmxnbF96MFpDbi1BakRoT0l1cy1paUhHVmROYg?oc=5",
@@ -183,12 +189,6 @@
      "titulo": "Mercado Hortofrutícola Regional: aseguran recursos para avanzar en la compra del terreno durante 2027",
      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmhoRHJtdk1MRFJpZ1ZXS1hrSzREZ0NRWXNOb3lhVjJKX3B5NTNScDF0QWRMMnRjOHBXNjdzcUsxNDM5bTJFdjBZazBaR1o4OFNnUk4tU3F5N2pBTkZlS3NxU1I4djdJYVVIVjdXNWdxS2w2UFc3Uk1abzBBclB2ZzNLNkQ?oc=5",
      "fecha": "2026-11-20T19:12:57Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Nvidia: el riesgo de depender de unos pocos actores",
-     "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oeEstRVZIbF8xR2lORmNKY2hodHhaVlhfbHVqRFlQNmowSDhBNTBQRE1mQ1RYa0g4ZlQzaGd0RXVIUkhkQjBneFEydi1KMUtHaTdwMmV3WHJCUVlnVHZkVE1ZU0NyUk5oMmdkNldTRGtEWllXeXdTWHQwSWlpZw?oc=5",
-     "fecha": "2026-11-20T16:26:09Z",
      "medio": "Alerta Noticias Temuco.cl"
     }
    ]
