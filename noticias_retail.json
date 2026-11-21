@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T01:53:00Z",
+ "actualizado": "2026-11-21T03:28:04Z",
  "fuentes": [
   {
    "clave": "retail",
@@ -34,12 +34,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMEU0N0FQVk9aemlGR05iMWtyeDN2SUIyWDJ0a2drang3a1VvV1lzM2NHLTFKS0ZyTHBKQjFKWnpoR3pSeEJoOWNRYnpMYWRPdmtBblh3cVh4ZVllREoxZ3BBdzdkdjdtakVEZ0pzYUhuckxFQWcyOW03dWVkYnBJbFFNTnBNdlhSSVpWNU1JNU1yZUpXLUUyWTEyaDc4bWxCaW1MX1ctQkVNblg5c2FnadIBtgFBVV95cUxOLVlaR2x2bGxzWnIyVkZvZXUxVWgxNU11UGJNWEZVRE55TU0zM3oyS0pFN2FCcmdxMFJjYTh6OWlDNnZ0cVNFRWdWUXBfVFZlSGVOR1llMmJQQjJZQlU1QU03cElSZjRHb05NY0c0NmVrS3RTWldNaU5PTnBHT0p1NS1kY3R5UDVheVFTd3ZHQTN6YVZrV3M4ME80Y2k5THo5UDl2WU9rS2VuVFdMZDN4WXVEOXRnUQ?oc=5",
      "fecha": "2026-11-20T11:02:00Z",
      "medio": "Meganoticias"
-    },
-    {
-     "titulo": "Santa Isabel lanza Santo Kiosco con completos a $2.490",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMC1mN2hoWFUyd2RmVjZET0RUUFNwSnNwSFNwODNNQnM4VUsxOEFDT05vdG1pNTd6WVc5Q3k3M2xWaEE4eHNnRDlkdkFsWWJ6d0NseGFkZ0w2WGtOVEtxamlISHR2UWNNTTd5WE93TGphODY4REkzcXFrWW5yOHZrYTkyUV9DT3FYZ2VtQXU0U2xCREJaODQ2SDlnQUF5MDdrZmtNQVMyLUJ4OENCREpFZXR0X1hGeWJBMUE1bHRBTQ?oc=5",
-     "fecha": "2026-11-19T22:03:08Z",
-     "medio": "Supermercado Al Día"
     },
     {
      "titulo": "Walmart Chile genera 550 empleos con tres nuevos supermercados",
@@ -94,6 +88,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVRadTl6Y01PeGJ2OS1WZ1R2b1VSaUpNaHgxaHFuRHRQblpqZThoOVRad1lRTnZUM2JhY2lOOVRYNVp2VHl5UkF3TXV6STl1TE5ESkktTTMtM2JxX2UyamZHLUpLTlNzSDdFWXJTREhrd1huRmRvWU1mSzNQdDFwOHBsVmZmNUxtdU1WSGNpUlF4U2h5T2dWU0VyZHhIZHlsa1hvLWhvY1l2WTduSGV6VWZuV0RrMXFpd1JreEVieDhJdw?oc=5",
      "fecha": "2026-11-17T20:27:00Z",
      "medio": "Diario Financiero"
+    },
+    {
+     "titulo": "Ripley Corp. aumentó su utilidad neta 53,2% en el tercer trimestre, impulsada por Banco Ripley Chile y sus negocios en Perú",
+     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcl8xVWxfVUg2ajBkY0laYk4wNll3emJQUFd1SVB0RUNhNkRBMGdLUGZGUGxoWVd4ZU5ZdHBsdjVSYkp4bjVSMnpmUFRLbjF0bV9zR1JqQWZ3ZUY4Y2ZGZVp6NVpOaWt5WHcteFAzSHpJbVU3N2FxZXZHVkJCLTREY3BLMGZ1Tmtud2RyMHdTZzl5S2hZMnBKNmZpdE5MNzgwQjBPVGM1T09BVTlBek54WmVfWG81UW16UThwRjd6N1NBSXNJcHZZbE1GS2ZDSWYxdkNfdmlZTmhxcGwzaWpvbzhtN3hidWV1dk1ITnFpaw?oc=5",
+     "fecha": "2026-11-17T18:34:00Z",
+     "medio": "Diario Estrategia"
     }
    ]
   },
@@ -306,12 +306,6 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Cámara de Comercio y Municipalidad de Temuco firman convenio de apoyo en seguridad",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkpiZE9WMXJqdkFRcTBRNHMtOV80Q0lVWWRIbVVUZTBNMTQwNklDblhsejZlelhxNWl3SEozX0h6Qm54b29mQkF1aUdYZ2xDU0w4THJObU9FdHhRRzljeFpBbzM3ZHhIS1BOOFhLWkp5STl6ZklXTUVQN3lrcEdvUWNDNWQ?oc=5",
-     "fecha": "2026-11-11T15:33:20Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
      "titulo": "Temuco lanza plataforma para denunciar comercio irregular de forma anónima",
      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTJDSkdLMU9rNDRQNTVHVmN2TS1mbUtHRnlyNGpCcDJ4MmNWaVVxMWJaQVNOYXh1Tzh1clNzSmxJZldLTmZIalFqNU1GR2hoQmJJeVNNLVVoNndBNUdhTFFJTXhvc25Ec1I2aHdOd29NNW5xY0Y1TWtVTmd6aGpOajZEOUJtU19SV29qVTVLaU5famRlT0xoYkZZRdIBoAFBVV95cUxQel9ZSFZiN0hjQ2dBQWhHcFdPN1RiV2lSNUZDS2RkRmZSYkE4S2lld1NMSDFmdDBtUHZ0TkRTdmxlSkNTRkFTSlMxYTFGVWp1eHAtX2ZhaEJ1aU0wdEdZSnBnUzhjQmhxUzdVLWhWLVFMaEktNmdjRTFqQ1BOT1RNNUt6ZTdtT2tiNTNrOGRpREd1M0czbWhnT04zUzBUc1FW?oc=5",
      "fecha": "2026-11-10T02:52:37Z",
@@ -382,6 +376,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZE9wY2xVa28yd2d1cjMtR1hYdEZCNnJUNVNWZjg1VXk0eXI1dXVrRndBYTB4T0VTRHRfSTdQckc1Yng0bjBSMmdGZ2R2ekw2Q0lkVmtzVlRyblM5RDE3b21YRFBYY3NITzI0YnE4Njd0cHFyMWM5S3NJSEhLOU5JVFRTcmt3TllzZDVTcHh0bDdQay1aeGppTm1EZGNTbVZzZzNDM05JZ0EwUXNkZDNJbWhrSjl4S0hCYXA2MVVaRU53bGdNVGwtQjYtTFlSOFJhWV9DZHNQYzYxb1ZtMDRHeXBCN2lrQkhMY2Rz0gGMAUFVX3lxTE0xWVh4R2FWeXp6TVI0Y1E0RGNyUjVmbmV3YkowRXhEMHhtY0F1cTQwemhoVmh2WUxId2Y4ZUF5Y2Z0ZlNyOF9CZklvMk9iZWRiMlZBRGZjbzZZZGNQbkw0SlpMMnpxeG1uVU1CZmhIRWtwd1VNOVFkTWFIZ05qMHAzaVMyNmZYVm9mRGZ4?oc=5",
      "fecha": "2026-09-01T07:00:00Z",
      "medio": "Cooperativa"
+    },
+    {
+     "titulo": "Clan familiar dedicado al comercio ilegal agrede a inspectores municipales de Temuco: hay 5 detenidos",
+     "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOHFHRjZjelNwbjJFcU1DbEdBSDA5WEJUc2U3VWt3cWtUdGxuQjJ1a0puWC1rcUxocDZ3RTViUkF6UVc3ajRpOTZyTWEteXRhaGhnOWx3dlVHWGl1THk1SFZiMkVaMlJBeTFWRk1MWDVualNYZk5aQ29kU2taUU0xcEY1Yi1aWTAwX0h1SjZhNkpEVjRiRXozSjJuMm5mVVlpZG9CMXlSV3lyN2RQT2VnUElHSUpFeEVkZzlZUFpITC1uOW1tYy1WZnhRQVVqZlB0MzJmMHAzRVdCSE9uZXlMRU5MVHlXYnoyYTZ2YmpwOW96TG9OdFM4V3lnRHNjZUFJdUpneDhoSkk2UGIycDVHd0dSTQ?oc=5",
+     "fecha": "2026-09-01T07:00:00Z",
+     "medio": "BioBioChile"
     }
    ]
   },

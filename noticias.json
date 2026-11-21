@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T01:52:52Z",
+ "actualizado": "2026-11-21T03:27:55Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -336,12 +336,6 @@
      "medio": "Radio Las Nieves"
     },
     {
-     "titulo": "Organización de Aysén denuncia ante Cancillería visita del embajador de Australia a proyecto minero Los Domos",
-     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdGZsQU1oQko4bk9HMXlHbXlZSWQ0aHRNaHFtV2N4elZkcUsxNUNXVU1QalhCS2NXTVpjRlNaVFdRWmRRc0Q5ZTRUS3J2ZWx3dnlyZkxlTmdwbkRJN0VjWUVtQ1RJb0RHSGUwanF4SXpZNDlfVEVCQ3hfYTZPWS01ZXI1X2FfSzlwa29DeTcwdU44ckkzVkx2dEhTRlZKMWpfdmRISjhPbTFNN05HOXlYb3Fyb21XNXN5TTh6WEZ1cHJBTzdlUGIwUklNRDU0Wk9WNDR5ODcxaUdNTE9rZ3Bj?oc=5",
-     "fecha": "2026-09-25T07:00:00Z",
-     "medio": "El Periodista"
-    },
-    {
      "titulo": "Estudiantes de Aysén podrán formarse por primera vez como monitores de seguridad minera",
      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT3dCeVFtSklnMVFnR01PR3ZCMjJnSThRTTktd3RGUHVSQ0dkRWhSYVlrY0YzVC1LZ0ZiR3JpZl9jNkxnMmNjekxrRDZQMEo5YXBCT3BKVk1TanY2S1ZQdmxFbnMzTjd5WDBmVFliNGFTRlRZMmpySlFuUzBJZmxDN1NGLUdmNjhpNlBXbzJkOWRGbHhIOUZuSnp3N3B2aGdpZHF0NjN0R3RVTTBlWG1wZk1ad01YdWJTelhNZ1MzWVpKV0dSNGxCMDZUdkd6ZUZUWUlidVJBaWNpaXpxU3dDVlV0Zw?oc=5",
      "fecha": "2026-09-22T07:00:00Z",
@@ -412,6 +406,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhd1Nidi1USlZqY2k5cndFVW9yaVRqVUQ5TTRVR2llUlZpclpmVDIxS3ctUk04VGtRQTBrSHJPMVN6QXI2SG5CUU0wRy15dw?oc=5",
      "fecha": "2023-03-08T13:53:52Z",
      "medio": "Radio Revelación FM"
+    },
+    {
+     "titulo": "Seremi Minería Aysén coordinó convenio colaborativo entre minera Pacífico del Sur y liceo Mañihuales",
+     "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMTY4bjdPN25qZVU5NHFQbk1iQ2M0a1dXX25lOThiOERQS0NHWjJMUGJ5ZlQwbHZVd1lYa0VPY2JkOUt2dEVBRnh4NXNkVTdHN3V1OHhFaEpaM2hpdmJmeU83a1cxT09OY1o2ajF3NENUYnlYOFl0Z0lDX3dEbXA5N1F4YnpiWTd5RnpBNVo1bjhoWjdoSUtCb2lmNElaYzZFMUhlRTJJbEZsZE9lUEdTRGw3UnBNVnlOampFejROa21wTXhRN3BKN2JQejJVODA?oc=5",
+     "fecha": "2022-08-25T07:00:00Z",
+     "medio": "radio45sur.cl"
     }
    ]
   },
@@ -442,12 +442,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkEwRmtUVVNXR0Z2ZVlwU3NILTQtaGJ1X05rbjdZWS1Hb1JqNFlFSVg3eGhaOGV6NnRoOUhiNEUxUnFFRUNObDQ5WmRJT1U1Z25uOGxxVHk1T0FaODYtNlBKTUFKeWQ2bEpxLTNuZlpndm9ualZ5aG4zQkhCMEQxQ0NOM0JuMFlyTWtnNlJuVy1KVzI3bDluMmx3d1cwVkFob1dveA?oc=5",
      "fecha": "2025-10-03T07:00:00Z",
      "medio": "Diario Financiero"
-    },
-    {
-     "titulo": "Sindicato El Peñón irá a huelga si Minera Meridian no mejora su última oferta de negociación colectiva",
-     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjJScWNnejFxd1BCNXdJcjhtTkZfOEVEQmJFT21PSkVlMUdZM3RqSnFaX3J6aGJsdUUxZ2Z5SmxiVHNRMlpfaWxTalNOTU9wV2E3SENLaEh2ejl0NlVNS1ZzS25ZS3pBVUlOWnN2d3lMZ2llUFFsNlhBZkZkWE1QdGRhWEZBa0x6enhaSHpGdFh1N3NSeE5RcUg1WVphWDdFRlo2andZZmFFTUxmWXVab3ktMnBFd05wR1JSY0N3QzdseEHSAcsBQVVfeXFMUHgtOHlsRUlQRld4S1AzY2NXYXY5SFpzSFd6QVpzQ2lEaFZRbjF0S2dLdXVveG10TmVMcUN3aW5LZktTYzZVcF81SHpqVmhvUDZUWGVhVjVvblpOZHFvT0dXVzZNaGRaRXBQUGd4MEltd2JWU05OYVVNcERKZUUxTkd4ZHc2OXFxaEZOOWNDRFFJejRZNFJnWDlBRllsb1pNbkhWRlpldm4xQjdsUHl5QU1tYmlMZXJ0cWNZdDh1VHhJNGVBa1FCQkFrMVU?oc=5",
-     "fecha": "2024-08-06T07:00:00Z",
-     "medio": "La Izquierda Diario Chile"
     },
     {
      "titulo": "Minera Gaby acordó negociación colectiva anticipada",

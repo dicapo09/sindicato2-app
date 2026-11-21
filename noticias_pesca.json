@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T01:52:56Z",
+ "actualizado": "2026-11-21T03:27:59Z",
  "fuentes": [
   {
    "clave": "subpesca",
@@ -456,6 +456,12 @@
      "medio": "Sernapesca"
     },
     {
+     "titulo": "Los Lagos: Incautan casi 5 toneladas de erizos por no respetar talla mínima de extracción",
+     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMkxaVUhXNTRFNkFjQVVYejMzUS1tMkpKN045SE04c3BGX3Fjdm9wZERIQ3BnTVFtZUFHM3BUdVdRbnFkZmIzOWxzOHc2RjNPUHRWV0lETmdaVUtWNHREaXY4clk1ODdTM0RWYjBfUFBBMUV0Qmo1b0ppRTJuZEdkRDl3SDhLNnVpSzhSeTgxMS1qWnBabERtYmVHVDJIUXJrdXV5b2JpLWZmOGdqMVdDQlNHSjFBMUtMRFk5WnE4RXNlQQ?oc=5",
+     "fecha": "2026-08-14T07:00:00Z",
+     "medio": "Sernapesca"
+    },
+    {
      "titulo": "Comienza una nueva temporada de centolla en la región de Magallanes",
      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVE5UjliNW1FWmU0aTNENG85eG4yYVZGYmJobS1OS0hQVmZKaHk0SkJwN1V4Nkt5LTBTajZSSVg1Y2hVRVFZakNwd1U5Q1JVdHU4bDJGTUc2ekZMQkppSDQ5WGMyb3lmbmU2cE5QYzdMaVcwbnBJTmtNREtNVGkzY2pFOUJSby1HZnd4dF9PTGZpOFpMVGstN3owTU85MHVHYzJMOUFB?oc=5",
      "fecha": "2026-07-14T07:00:00Z",
@@ -466,12 +472,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa3p3VkNya2JhWTlNWnc3MTdmYUY5aTJoOURKN2dqaXhBUm1LOVg4YUg1eVpSbkotSE5kUGg5aVRQcnUwNXdHMUhyc3FTWUhzZENNRXVzWEJ5bDVlSUUyakVqXzRZakFUX09yWEZ1S2JoOTVDY2YyNk1qckc4Mi1FOEVPbFJIR2FUVHBISjc1ZWRJcWk2TENyTGM5UTR3LUx0RjIyczFwWG1fd01iMDF6bnlHYzVRWGstZ0docWd0bFZpbWNtSDhvS0pYQmFWdUlwT0ZfUGpSaw?oc=5",
      "fecha": "2026-07-01T07:00:00Z",
      "medio": "Salmonexpert"
-    },
-    {
-     "titulo": "Juzgado de Letras de Puerto Aysén multó a armador por realizar faenas de pesca ilegal",
-     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaW9yeG5vM1lkVDc0aWd0b0l6S3c4ZldqbGJLZ184Zy05b1F3S05PMkNhc2haeVpxdGFBUHE3Q01MekVtbWlDdnpTejJ3cVkzSkhDd2lkNV9CRjEtbWZnVkxJS3BQUlUwQ1NYNnc4MUtZaHAwMk9mM2FpMGJHY0NhMjFUTk5uTGJiWVBndnFXeUxwOFQtdjVGNzdUT1E1b2YtYjB6bEltMHpvSm5PcG83NkMyZlE1cThqb1Q5d21B?oc=5",
-     "fecha": "2026-06-16T07:00:00Z",
-     "medio": "Sernapesca"
     }
    ]
   },
@@ -510,16 +510,16 @@
      "medio": "El Observador"
     },
     {
-     "titulo": "Sindicato pesquero aceptó propuesta del Ministerio de Trabajo y espera respuesta de los empresarios para levantar el conflicto",
-     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZHdaVVNBT0pIbTlSWkRmcjBXbU1fWVVvTUF5X19kZ3p4TzJJQ1o5SkxJVUl2eV9qaDk0RS10TkJTc2liTTBMd3lnX2tKSUVyaUpmUUJwckEyZVJXT1hiWG9hUGlleFY4bmlKUjIzSVJuYmN2ejViWVQtcjNwZHpUdllPdWRvMnVQNVBPRnFZOWt3T0lZeWxYV2x6dFlWY3ZmMzd4MlJSRGstXzhKQ3ZTVnloVXNJN1ozelhMV3ZLMW5Gb2JCS2ZWUnNweWxGbDJXc0RLdWdRclFEMVBaa2dEMFdUbzdMZTluMTQ0WE9sOEZlczAyNUVfTtIB_gFBVV95cUxPd194UXU0eDlKRkxCVXpma2dSUDdXS2dkNnhxTHlfRS1CMmQtSVVaTFZrTVFMa0otY2ZMZGhDeGZaRWZGMVdRR2x2MXlWQW10LVUyTWxmYjIwUERPRkhqUGhaOTJ6YWtqVVNZTmxIOWc5eDZfQnlZaWlINEQxVG9rUUF5dzJmTFJaX2tzdDZFbjA2ZmJyblJNQjNwR0hubG1kZWZmSlhSd1hWZ3drRkVZeU0xUmRmUndiTDhhbHRwVTFfWVU5OUZkQWhUUkxuVUFHbUF0MEwtU0I5cHNpNUtxOFROWFVXRWI4ZTVtRHZMc2RYYV9oU1plc09JZ0RjZw?oc=5",
-     "fecha": "2025-08-14T07:00:00Z",
-     "medio": "El Observador"
-    },
-    {
      "titulo": "Sindicato pesquero resolvió aprobar la última propuesta del Poder Ejecutivo para buscar una salida al conflicto",
      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMDVyb3JtR3NoQXpSeXBTVUZUb0xjOG11a25nYU1UamJpS1FzTWZ1azhLYkxUTDZjSVVKbkYzRVBRMDU2S0Q4OXgyNjVfUXdPUFVqdnJZYUtpZ3E5SElsR0ZjdWNKWkFzS3JKcHdHYjdSZmFKb2Z2UDFXSGZJczNPVGtJd2VoUzYtY1M0dzAtVkRnbkV2ajFkdDdfS2F1OVp4ZUEzRXNhYzBxdUZHLWxhb29QTG9HWUZMYnNuQ2Rua003RmtFcVRpS0RiMVpMODAxd09oeTlnNkpRR1XSAeABQVVfeXFMTzZ3VDFPSlllM2tCNTBSMldrZldFMlpCV3RyejlfMDlwOTFCbnlkR2Z1RUdfV1VwZVIxczJtLWtmYzZaN1JiQ2puWFY3bHpuenQ4NUo1Qi1NN18yX0FIYmFUMWJ4eGM5a09KSkFCMkt3QjdOVnpCdnlQdU1MeVhzaDhSalkxMDM1d2RmTlNPbWlFMlQ1ckZJQVdaajQ3X3VYRGtFSjZOQmhKeXkwTDdsd0tmeUgzR29UV19CdVpDU3hIYUFobVB1WWEwaXdzUW5DeVd0VTU1RWR2ZGpDVG13em8?oc=5",
      "fecha": "2025-08-14T07:00:00Z",
      "medio": "subrayado.com.uy"
+    },
+    {
+     "titulo": "Sindicato pesquero aceptó propuesta del Ministerio de Trabajo y espera respuesta de los empresarios para levantar el conflicto",
+     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZHdaVVNBT0pIbTlSWkRmcjBXbU1fWVVvTUF5X19kZ3p4TzJJQ1o5SkxJVUl2eV9qaDk0RS10TkJTc2liTTBMd3lnX2tKSUVyaUpmUUJwckEyZVJXT1hiWG9hUGlleFY4bmlKUjIzSVJuYmN2ejViWVQtcjNwZHpUdllPdWRvMnVQNVBPRnFZOWt3T0lZeWxYV2x6dFlWY3ZmMzd4MlJSRGstXzhKQ3ZTVnloVXNJN1ozelhMV3ZLMW5Gb2JCS2ZWUnNweWxGbDJXc0RLdWdRclFEMVBaa2dEMFdUbzdMZTluMTQ0WE9sOEZlczAyNUVfTtIB_gFBVV95cUxPd194UXU0eDlKRkxCVXpma2dSUDdXS2dkNnhxTHlfRS1CMmQtSVVaTFZrTVFMa0otY2ZMZGhDeGZaRWZGMVdRR2x2MXlWQW10LVUyTWxmYjIwUERPRkhqUGhaOTJ6YWtqVVNZTmxIOWc5eDZfQnlZaWlINEQxVG9rUUF5dzJmTFJaX2tzdDZFbjA2ZmJyblJNQjNwR0hubG1kZWZmSlhSd1hWZ3drRkVZeU0xUmRmUndiTDhhbHRwVTFfWVU5OUZkQWhUUkxuVUFHbUF0MEwtU0I5cHNpNUtxOFROWFVXRWI4ZTVtRHZMc2RYYV9oU1plc09JZ0RjZw?oc=5",
+     "fecha": "2025-08-14T07:00:00Z",
+     "medio": "El Observador"
     },
     {
      "titulo": "Dirección del Trabajo lanza en Copiapó escuela de formación sindical María Ester Feres",
