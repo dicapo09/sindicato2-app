@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T03:27:59Z",
+ "actualizado": "2026-11-21T05:34:13Z",
  "fuentes": [
   {
    "clave": "subpesca",
@@ -34,12 +34,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTTYtTnZSTV8wSjRKMHdRTU9Ic1N2SmZIQ0YzNkJDV1k2aDNMbUZDNlAyS3R4Y0ZweFBHc0hYVVNISHMtbVQ2N25hMEdzbkJtRWdTdDZRR2swdUktX1BoTENrdGl6amk1ektMeHlQWDUyMEZ0YnFYeFo2LWtVQnppblZQcEZvd2YxN1E3dDdqWVgxZHIwb2dQeGFnNHdlS2xvU052TkI5eWhCd2RuSlQ3VVdEcw?oc=5",
      "fecha": "2026-11-19T19:29:32Z",
      "medio": "Radio45Sur.cl"
-    },
-    {
-     "titulo": "Sernapesca detecta resultado positivo a virus ISA en centro de cultivo de Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYVQtajluUXpMalNNSWN3clNudndkNmdIcVNvWFlPenBXXzZDc2xDWUxGZjNvTk4tWUJXU0JfQkktZTFLdzM3ekE0eHF3dm4wVWVnNmV2dm5iR1FlWEVoMDhaRnBnbERvbS1IaEhyZF9Ub1BHTm9XaVN3SFEyVmJHYU5uTDBEenY2T0xDTVpIODNvZE1PbHFMN2hWR1pjLWlsMnc?oc=5",
-     "fecha": "2026-11-19T16:01:29Z",
-     "medio": "Aqua.cl"
     },
     {
      "titulo": "Se detecta muestreo positivo de virus ISA en centro de zona de vigilancia de Aysén",
@@ -94,6 +88,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41V0VSUXdvRGR1b1JWSUVDR3RobDNzRHZlYXVmM3pDSjRXWjg2TWZ4SEN6V21xMmhUUnNKaWc4WkNHTFNRc3phdnlwV19FNlBVMFE?oc=5",
      "fecha": "2026-11-17T20:45:14Z",
      "medio": "Instagram"
+    },
+    {
+     "titulo": "Fenómeno del Niño y sus efectos fueron abordados en webinar para Centinelas del Mar",
+     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGoyT0IyejhDenV0NGlLMW5XQTJBTlNTTVFadEd6Zk53cHpQd0NuOUhuQzk5TEJXcTF2dVpGem9NYjVFOEZsWkpXZjVGREhxUlN1ZXNPUVAycTUyRFhSTzVjUFpscWVWSTgwTmVDeE5mZmxpMmlWNFJnZl92UHBzQlpzQnJXc3ktTnY0dGtCQ1kwTVFJYndiMzBqN0lGQlRyNXRta1o1X0l2czBWS2l3TEFrVmdxWTB2ZnJB?oc=5",
+     "fecha": "2026-11-17T20:22:55Z",
+     "medio": "Sernapesca"
     }
    ]
   },
@@ -480,10 +480,22 @@
    "nombre": "Mundo sindical",
    "items": [
     {
+     "titulo": "Pescadores de Puerto Gala buscan llevar merluza austral local a la alimentación escolar",
+     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV00yeEJTamFrM1BpUDc3TXBhMlluU21lcUtvYnAyVGtmd2xmam9XSGhNSEJJMGpiSkZSaklYUmROZUJ5QzlhNU1vUVNNVHZsWXRETkVyV0NQcjR5Z09kSFlGQjNWQm5ISWRRV04xdUlQMjhCamZ2RHFPbjMtZmFKRVA5N0VnMF9UeGI4Y0lxS0gzdmFnbmZHamQxanF2eERDUklsc2JYVVA0S3VFMnhkbjVNaE81YmQwX09JYTRGcDBhbzF4Y3Z4dVlXMTBKLTVQWHJtRXVn?oc=5",
+     "fecha": "2026-10-07T07:00:00Z",
+     "medio": "El Divisadero"
+    },
+    {
      "titulo": "Biministro Mas aborda con sindicatos desafíos de la pesca y salmonicultura en Biobío",
      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0FaZUxrb0c3bUY1dmpfVVMycllYVDdkUFJRSGM4M09EcklNelUtTTFhd3lvd2V5VElwZW12eG5HdFp3aVVfbFBIRnFwTENWN2R6RmJnZFMxWnFtYV9ZZVlkdE9TODFZT0FaSjNxOXVHV2NPTUhJakptLVVtWHhVNVAwSGZGalg1MjlnbE9GRi1IMnJUY2N1Rm1vSEVBM1FVc19xUVVwdVQ?oc=5",
      "fecha": "2026-09-30T07:00:00Z",
      "medio": "Aqua.cl"
+    },
+    {
+     "titulo": "Biministro Mas aborda empleo, cuotas y jibia con sindicatos en planta de Blumar",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN2t4LVM4OG9Jb1BESkxzRlZWTkFwNjljdUw5dExKSE9hekpvYWxMVXRVNDlhenlZRnZ0dzF6X3RPUkRqTWxQbDZLelM4ek16MmpYNVZQb3ZKQ01QZFVzbkgwZFZjako0OVc3dm9MOFNYbjBGNFBDem1GR2JDZFNmX3ExazlVU01WeXZIQWVEZEVKVDBEdzVLTzFvbFBOMjJrZldkaVYtRWwzTkYyNTIzS21n?oc=5",
+     "fecha": "2026-09-29T20:57:24Z",
+     "medio": "Mundoacuicola"
     },
     {
      "titulo": "Conapach rechaza dichos sobre venta de pescado en la calle y defiende a pesca artesanal",
@@ -492,16 +504,46 @@
      "medio": "aqua.cl"
     },
     {
+     "titulo": "Federación de Trabajadores del Salmón enfrentan dichos de ONGs que golpean a la industria",
+     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZUMwdk81cHFYZWJtb2dlOS1iWDBIUEVJVVFldl9pWlBmakE3V1FZWVdaYTc0a251U0wxbi02eXcyOFBMWHVvWFd1RmZlbGhzV0NFU0VJLUo2QXc4SnV5cFFqd1BSQlVMSzE0cEdEbkdIMDM2UDJrRTNYOER2UjFXLVZnY0w5VnlIX2t0THdYMlNOb0wxMjNuVFFsM25nbmw3azNtTVJic3RpcHJSaU9rSF9sNnRXeVVqZkRSQkh0dzFIdVloRDJZRDdETHRick81NUZyU3ZveVUtUUh2a201b1EyS0k?oc=5",
+     "fecha": "2026-08-28T07:00:00Z",
+     "medio": "Salmonexpert"
+    },
+    {
+     "titulo": "Escalada de tensión: Sindicato denuncia \"sádico viernes de despidos\" y persecución laboral en la Corporación Municipal de Viña del Mar",
+     "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQkxRRUtlUHQzMFBHbFkwUm1HNDFTSEJEUjNGUi0tQ1J3NkpMaUxwVVJLb0VmZmtDSTNpMHEzUXNTbDAwSVdZZkdRVDd4Q0Nva2ROYlZiQ09heDlpdE9BOThoSVZPNndnYTduQV9jMlFJeEZUT081MFMyMTZzLXl5c3luNWtDOVl1NGhwbHA1b1lSeTNPcGRXZEdXM1p5ZEdlaWktWTZHb0ZOR0twNFo0YmUyNkFpbnQxanRpN3lxRHU0aDNReUs0UjB2d1dfZ2J6UHYxSjhkSUl4NUJWUmRqYTFsM002aGotalZhbDhFQ0xCM1lrcHNnNjUxLTFkVFpVdzhqM3pZZDA3M2s?oc=5",
+     "fecha": "2026-08-01T07:00:00Z",
+     "medio": "Evolutiva Medios"
+    },
+    {
+     "titulo": "Chimbote: pescadores toman túnel de Coishco y restringen tránsito en la Panamericana Norte",
+     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1NSjgwRFZCQVVBMVVuNWNySDV1Sk9xN1dGd3VqSmY5TDBWYXpRVWRybGF0UVZ1ZWRUS1NWMU1uUHBCVlRMYjZ1R3EtVjl3N283VnNjNEU2S3NKMjM5T2hoOE9MYzJxampLOUZVeVAzd29KZ3RRZWR3eDlNRmtSZ3F5cmFTZ3pMNW14Y3U2X1pudGppLVZsN25ERlRLakpjWncxS2VQRHZQTkNNODB3U292VUw5cjBySzdyZFZGWmtrLU9oWUZj0gHMAUFVX3lxTE1mOWltWlVXLWhsT2ZqZGxXM3VvV2FwR0xBRTU1S0lMb184Y2hYQnVxWndndk5MZEFLY2E5XzIzLTJ5a28xTHhmX0VWNjE3V3FCWHppT3cwX0hYMzQxUUZ3b3FWQ1I2YnM3ZHozLWlHY1JSUlB0VF9yX0k2ZHhVazZuSERtdnVmWldIWVFIWnpKTG9FeW5JRWU2UkRoTFd5T0RaQWE3Y2syVzlyYUZOei04UWE3bnRyd2dNbVAybUcwY004Q0FwOE1NQmhVSw?oc=5",
+     "fecha": "2026-05-21T07:00:00Z",
+     "medio": "Ancash Noticias"
+    },
+    {
+     "titulo": "Pescadores artesanales chilenos piden cuota de carnada para hacer frente a la campaña de la raya",
+     "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93cU9nWDI2anhfdkhqUjVVaFBCZGY4Vm1kTG44U0NxVWUySXJ1NURhLTA4bkg1SGZ0RTRGUmFFcDJndHZUaGFOdVdZeHlDdGRwbVJzQXFGTGJER05TSkdnT0o3VWtjR2QyY0RZVk9KTTN5MlhGQmU0d053?oc=5",
+     "fecha": "2025-11-10T20:58:46Z",
+     "medio": "Industrias pesqueras"
+    },
+    {
      "titulo": "Sindicato pesquero retuvo barco congelador durante cuatro horas exigiendo que partiera con personal agremiado",
      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOempocE9kd1BSZVRoM2g2VGpYNlF1a05ITFBmZkxIcW9kVENxZjVmQlNMQkt3N1l6VkN0WXpEVVhDUHdJWG51dnV1SVJvTm9abk5uOE51cDNuWERuS0k0dTExODAwdlBpMFA1cXNuTGVNNmE5NkMxNS1zUGFfWjRtWDRRNmhjODVOb3YtUlYzakh6d1pvTWUySnNLX1hoSXVZSEFTeUY5bjhxZTZ4NDNOOTNLRDdNdXY0WElnTDlwdkJQbkJTNEdzXzJyMDFoaDdBc3h1Y3V6ZXJneHNFbDluNjZFT0x5UTFPSE9Wbg?oc=5",
      "fecha": "2025-08-21T07:00:00Z",
      "medio": "EL PAÍS Uruguay"
     },
     {
-     "titulo": "\"Hablar de salarios de $10.000 diarios es mentir\": sindicato criticó llamado laboral para trabajar en la pesca",
-     "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXJ5SFlFWkh5NUtkUHdKOVpfQVhGNFNiQkJPZjZCWGdnSGFuaVEyNE5xbHFKOHpPN3d2SFZ4Z2Y0ZUdGNFJubE42Z3Y4WHVEY3FWTjFsXzB1WUEzcmJEMVBXejk4Z1hnS1ZzNG5yTG9QTmJ6VV9YTlpYbjR6b183Q21ZeWtJYjdCOGxoOXdTZDQ3Zm91Yld2cDdoMWtPVzVuX3R5STFFU1ZVeEVLeE0wMjhoaUJuUkRSakpkNzJNa0NBNGRaTkdUcTF0OXpBZmI5d1ExSGVqQdIB3AFBVV95cUxPazBnQV9oNjdvN3dkZ28xVHpuYXkxMnJnVG91YW5reXY5bHlrSHliRTNjQndLRUp5Y1FTa2FGaVJnbWp0WDlfNTJhZDdRclNtX1lheXVJTDBHeWxSbkR0VmpyblAza2ZfTUFBeWhLXzR0emRDWWVLWGcxYW45YXVRRk85N3BjSkZVZjZoRXh1amhZc241VFRBSWoyY1B2dGVTVUt3VUJBc09Wc1Uxczl1Tm11UW56Xy05NWUyWl9hM0wyT2kwUXBCWWRtbnFNZVVfRTdLTXZkaEhSZVVQ?oc=5",
-     "fecha": "2025-08-15T07:00:00Z",
-     "medio": "Telenoche"
+     "titulo": "\"Provocaron este desastre\": cámaras pesqueras rechazaron reunión tripartita con el sindicato y el Ministerio de Trabajo para saldar el conflicto",
+     "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOHQ3RHJlUGlpeUFXd2FhMnU5RUdCVDlSeHBhVWp2b1RZY0ZSeklZLTN1cXZDSDJsY2NYNHJJQjFwUVgwUGZ3SjE0OUFGR2h4dDRWREVhNzNjSndQd0pFVFJvbHRUdUgydnZGTzdVSVRSeWZ5amZJVlltbVA2emIxYjAzYTlwWGtlOVJvS3V1di1IRTZzU2c0NHRldGpxVXhNUFVqak40UW1sLU85TUthLXlUQlJ4S0oyUUhyeUFtZmpMWVNmQzA3WWNTSWRGSGFDbVQtTHo0S19yOVFJc2RSbzRjNzJEZ3FDX3hoSGY0RTVyZWpHR2M5ZERsbWNNWlJCQndzZm5saURjNknSAZACQVVfeXFMTW5VWHdGR1FHTUI0c20ycWEzc0d4LTBJaEhYNjd1Zlg2N2locWotclp6RElWTGt2d0ZaT1c3Rm00MHdLX0prT1NRcWNYZ0pZZmQ0ZlNITm1LenpyV2t2c3l3WEI3U2ZPLWxuQlk4cVFoOUkwNGFpM0tDQ2l6WmRUZUd0VkJrZzByRDNhMldYWUdwQ3BoWHRKTU80MWxfdGVNZTFVOFM4UnBVb0JON1dvQ3hMYlZ4VFBVVXdQQzFKZ3Q3dHNtMGJsT19fNE9aMHJSTUg0b21lSWRjc2RuU1RrZzNJZllsenBUb2NMbTV6bHlGOFhTZFpuYS1McWpUaHJ1R1BrTG5NdFBaWm8zbTFDRUc?oc=5",
+     "fecha": "2025-08-19T07:00:00Z",
+     "medio": "El Observador"
+    },
+    {
+     "titulo": "Empresas pesqueras citan a conciliación al gremio: exigen US$ 27 millones por pérdidas sufridas por conflicto",
+     "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR09OVlphdExfWEdJMEtDZXc1Y3hjTjRDcGVoSXlMakVZZE9kRE42dHRhcEJ0RWJsNkRQOVhpOVdIZFB2M2pOZUFydkt4eFR2ZkVuT2g3bEtnNE4tS1I1OEFTTl8tRTVnWjFxWnZ2dGRVSWtuUENPTkIzNU91UVR3Y183aWU0cmthR25Dc21aSGMyempDQWZ3RnROSWVGaktnYzRHOGYzYU51NnQxQ2NiMVdzZDNmd1hSVWFydWl2N1doaVhXTWNLeEQ0amhGNy00OHpTNUYzd2xISU5WdHhZS0YxSnRPTVJMTUE?oc=5",
+     "fecha": "2025-08-19T07:00:00Z",
+     "medio": "EL PAÍS Uruguay"
     },
     {
      "titulo": "Postulantes para trabajar en la pesca serán entrevistados y seleccionados mediante inteligencia artificial a través de innovador proceso",
@@ -510,58 +552,22 @@
      "medio": "El Observador"
     },
     {
-     "titulo": "Sindicato pesquero resolvió aprobar la última propuesta del Poder Ejecutivo para buscar una salida al conflicto",
-     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMDVyb3JtR3NoQXpSeXBTVUZUb0xjOG11a25nYU1UamJpS1FzTWZ1azhLYkxUTDZjSVVKbkYzRVBRMDU2S0Q4OXgyNjVfUXdPUFVqdnJZYUtpZ3E5SElsR0ZjdWNKWkFzS3JKcHdHYjdSZmFKb2Z2UDFXSGZJczNPVGtJd2VoUzYtY1M0dzAtVkRnbkV2ajFkdDdfS2F1OVp4ZUEzRXNhYzBxdUZHLWxhb29QTG9HWUZMYnNuQ2Rua003RmtFcVRpS0RiMVpMODAxd09oeTlnNkpRR1XSAeABQVVfeXFMTzZ3VDFPSlllM2tCNTBSMldrZldFMlpCV3RyejlfMDlwOTFCbnlkR2Z1RUdfV1VwZVIxczJtLWtmYzZaN1JiQ2puWFY3bHpuenQ4NUo1Qi1NN18yX0FIYmFUMWJ4eGM5a09KSkFCMkt3QjdOVnpCdnlQdU1MeVhzaDhSalkxMDM1d2RmTlNPbWlFMlQ1ckZJQVdaajQ3X3VYRGtFSjZOQmhKeXkwTDdsd0tmeUgzR29UV19CdVpDU3hIYUFobVB1WWEwaXdzUW5DeVd0VTU1RWR2ZGpDVG13em8?oc=5",
-     "fecha": "2025-08-14T07:00:00Z",
-     "medio": "subrayado.com.uy"
+     "titulo": "Sindicato pesquero uruguayo acepta propuesta para destrabar conflicto",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOEJTMENaRE5STTJIc0NxbzhBY2xnVE1aQ2RRRk96NG9ZeUgyc25tRm1tcW5LUG1feElWQ1ktS0FHMmNYWENkZjhQeDU2eGNpRWhpZXR5TGRqaHd4cThtN2tsYnlib1hqZVUyRlhFOWhMWVhjMkJOT2dpbmRmdlZtQS1pZ01tUXd2UENnSU5JTHI4TDNRY3ZQWTJEaGhTV0QzNW52NXBFNl9UWXlsc2Jn?oc=5",
+     "fecha": "2025-08-15T07:00:00Z",
+     "medio": "Prensa Latina"
     },
     {
-     "titulo": "Sindicato pesquero aceptó propuesta del Ministerio de Trabajo y espera respuesta de los empresarios para levantar el conflicto",
-     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZHdaVVNBT0pIbTlSWkRmcjBXbU1fWVVvTUF5X19kZ3p4TzJJQ1o5SkxJVUl2eV9qaDk0RS10TkJTc2liTTBMd3lnX2tKSUVyaUpmUUJwckEyZVJXT1hiWG9hUGlleFY4bmlKUjIzSVJuYmN2ejViWVQtcjNwZHpUdllPdWRvMnVQNVBPRnFZOWt3T0lZeWxYV2x6dFlWY3ZmMzd4MlJSRGstXzhKQ3ZTVnloVXNJN1ozelhMV3ZLMW5Gb2JCS2ZWUnNweWxGbDJXc0RLdWdRclFEMVBaa2dEMFdUbzdMZTluMTQ0WE9sOEZlczAyNUVfTtIB_gFBVV95cUxPd194UXU0eDlKRkxCVXpma2dSUDdXS2dkNnhxTHlfRS1CMmQtSVVaTFZrTVFMa0otY2ZMZGhDeGZaRWZGMVdRR2x2MXlWQW10LVUyTWxmYjIwUERPRkhqUGhaOTJ6YWtqVVNZTmxIOWc5eDZfQnlZaWlINEQxVG9rUUF5dzJmTFJaX2tzdDZFbjA2ZmJyblJNQjNwR0hubG1kZWZmSlhSd1hWZ3drRkVZeU0xUmRmUndiTDhhbHRwVTFfWVU5OUZkQWhUUkxuVUFHbUF0MEwtU0I5cHNpNUtxOFROWFVXRWI4ZTVtRHZMc2RYYV9oU1plc09JZ0RjZw?oc=5",
-     "fecha": "2025-08-14T07:00:00Z",
-     "medio": "El Observador"
+     "titulo": "Conflicto en la pesca: empresarios arman plan de seguridad en puerto para ingresos de aspirantes a embarcarse",
+     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc2hEY0hrWWttdFBjdG5vdm91X3pfcnNROFBUZ3R5aU82ZzJHQnRQWlZPTVFtZUx2MGtIWDllcjZtcjNvOHhfZkcwUUdWaEVrZnlnaTZBQzhqMVFKYXNMcnhmaV9UTTVxM21aY09keU84YlB5dnFQTjJ6M21WSXdkWExOZmxjbThMUldZY1BRLVJuaExNajFoX1FDNWtxazlUM3RCZHVmZURVc09hRHh2V09fRGJuX3lCYm16aFpDY3Y4Zl9BYkZFa1RrakdzZnJHZWowdUptMFRJX2lxUENsOWRpSDk3dk1LVGtz?oc=5",
+     "fecha": "2025-08-15T07:00:00Z",
+     "medio": "EL PAÍS Uruguay"
     },
     {
-     "titulo": "Dirección del Trabajo lanza en Copiapó escuela de formación sindical María Ester Feres",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IZGlYS2UtdVJ0QWF2X0JSN1dsUFlSQ214YjVoZHNBcm1NU0tVTnNRNGpZNkwybEtKRDg1Rnh0SktRMDVMSWlaSTFwanJ0LVAxQklyVmxHaExFdG1VMDhRb2RLWGhuOFU?oc=5",
-     "fecha": "2023-11-17T08:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "10 mil trabajadores marchan por SBAP",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYTVwU1dqaTdSeFRjdm8wRGU4T2JWTlNiS09aSC1hNFVtdGJXUHhXNVFpaW84dk1PNXBwTW5oemtFbGJ0aUZNT2IzY1JOaWNnX0xsXzZmbVl3VnVjb0FHZGxmSXVFVDNQWWdNZFI3Z0pZaFJETUZpUlZYSXBmTG5QblRVRFBOUlktRDAydVY4ZUdtel9ITTkzVVk0bm5WbHdEbXlkZzdrOVVNSVJvUEJESFlB?oc=5",
-     "fecha": "2023-05-26T07:00:00Z",
-     "medio": "SalmonChile"
-    },
-    {
-     "titulo": "Piñas y cuchillos dentro del sindicato pesquero: videos muestran violentas peleas y cámaras empresariales aseguran que los trabajadores \"sienten miedo\"",
-     "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNdVNDeWU2czdFX2R1TkVYaGpicE00NFdRaGxQQ2JTMFNxMnBUeEVCOUg3TUNMS1RCNEhwSXFTSkVfVkpRSGJkT1lJQTVPMnphbWlEaDJEN2NoQTA1ZS11NnFTeC01bHJZS0xBV3hoWTVVZ2hRYkJkd19zMDZGNEV2SjUtRWxJNTlLYUdON21ITTZ5ZVNWRG5SZkRGM3RKWnl0R0tzZEhYMGNlUE1Ebk9zRUFPc0JaaWU1Y0Fqb2xxcTd1V0dvbEQ3Sml6MlltWHVuZlRzY3BCbmdfeUR1VE1ySUlvUG1wQ2p6SWl4SjZ4OEwwdXNxdmtza2hhdGpTVS1lMURnRVVLendoX1EtZ3hEVUNhQm13cVp2U3l0Q2s0M2hSa2dPalc40gGsAkFVX3lxTE10REI3R3RWZi1Hc29JTWJlWHlfZzFFZVZMSmNwRm9zT0RxT2pOLTJ6Wk1KT2JGTHc5YW1LLW9kQ05WQ2NFU3F0QnpKRUNpXzBJazVZTmI4VVlWX3pabXg1Zzd0WjkxSjR2eHdDRDV5cFhPRWdXTmNWc3cxWTZScWFlYkRMcjJQTmJSOUFkSGtKVUppd0NDazN1Z19JODJQR2xKUnQ5NkFaSEJGR3NfVkNSY0NIeFdLTmRZb0ZwS3FWeXZDR0dyWm42MTRINUdGeTNUcDZWV1dKaklfSTJRaE9MNlRtSllZdWNuVjlkYmRoZjZZZHBmYlRjMG0xWUxRcnliQjdibzRnZVdYLXJGcUlveHVsczFmUEpHcnlBc0R6SWNvUlp6QlJCeFg3Mw?oc=5",
-     "fecha": "2023-03-11T08:00:00Z",
-     "medio": "El Observador"
-    },
-    {
-     "titulo": "Trabajadores de la industria pesquera tildan proyectos de ley como «malos y perjudiciales»",
-     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmN3RHkzSjM0a3ZPLVBLcmQtYTVuUXZHRXc0bHFjS0xWdGw0QmFqWVhBSURYZmtsRWRDb2xGZS1VXzNicWx4VlFKZG1ZYkNhYjRXUjdqWU5PMUZZNzJWNHd5QWZzbmNjdi1GcWRNd0V1ckN0X3A1R2p0TVRpeW9NTjhYb3hmblhtNXpveERKN000ZE01YzIycDRwY0NKbTZPUlljZ0VsVW9jQjZBQ3c?oc=5",
-     "fecha": "2020-03-05T08:00:00Z",
-     "medio": "aqua.cl"
-    },
-    {
-     "titulo": "¡Quieren detener la pesca de anchoveta!",
-     "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lekdWN0FSWGZIRkNfZUN5czF6WUllUlNCNXd6QUlfQTl0eDlmX001SFlWWEJZUnF6OWJpTG1vS0N5eFZGNUpuNUl5dVVqRF9LYjFsbWx3dzJ6alJBUFE2U29VdVoybEVLV2llSVlBcWxRakp6Z2FPUQ?oc=5",
-     "fecha": "2018-11-03T00:01:29Z",
-     "medio": "El Montonero"
-    },
-    {
-     "titulo": "45 Empresas Condenadas por Prácticas Antisindicales en Nómina Semestral de la Dirección del Trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4SG9OcVZVRFhieWF3R0ZJTmNWZ01QMS1FbWJRcThRbXVacFB1dkF3MUdNb3pmdFBLOHpVTUZfcnpGaU1WZkYydTVGdmVtVzdwQjRoa1hOOE5aeHpmUmFnTVFNMk1WZw?oc=5",
-     "fecha": "2008-03-27T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Fin a Huelga Tras Lograr Histórico Acuerdo",
-     "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1d3pkUjdEWjlKTHlkb3l5LXZvU3FQOHU5bm84am55b0FfOGZFekItaGRScmdtZUNXS1ZiZjFxUFBrMWVVZmtTZXNCdXJ2dTA5N0pueHl0N2V4Y0xoSzVwRnNOQURzUQ?oc=5",
-     "fecha": "2006-09-17T07:00:00Z",
-     "medio": "Dirección del Trabajo"
+     "titulo": "\"Hablar de salarios de $10.000 diarios es mentir\": sindicato criticó llamado laboral para trabajar en la pesca",
+     "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXJ5SFlFWkh5NUtkUHdKOVpfQVhGNFNiQkJPZjZCWGdnSGFuaVEyNE5xbHFKOHpPN3d2SFZ4Z2Y0ZUdGNFJubE42Z3Y4WHVEY3FWTjFsXzB1WUEzcmJEMVBXejk4Z1hnS1ZzNG5yTG9QTmJ6VV9YTlpYbjR6b183Q21ZeWtJYjdCOGxoOXdTZDQ3Zm91Yld2cDdoMWtPVzVuX3R5STFFU1ZVeEVLeE0wMjhoaUJuUkRSakpkNzJNa0NBNGRaTkdUcTF0OXpBZmI5d1ExSGVqQdIB3AFBVV95cUxPazBnQV9oNjdvN3dkZ28xVHpuYXkxMnJnVG91YW5reXY5bHlrSHliRTNjQndLRUp5Y1FTa2FGaVJnbWp0WDlfNTJhZDdRclNtX1lheXVJTDBHeWxSbkR0VmpyblAza2ZfTUFBeWhLXzR0emRDWWVLWGcxYW45YXVRRk85N3BjSkZVZjZoRXh1amhZc241VFRBSWoyY1B2dGVTVUt3VUJBc09Wc1Uxczl1Tm11UW56Xy05NWUyWl9hM0wyT2kwUXBCWWRtbnFNZVVfRTdLTXZkaEhSZVVQ?oc=5",
+     "fecha": "2025-08-15T07:00:00Z",
+     "medio": "Telenoche"
     }
    ]
   }

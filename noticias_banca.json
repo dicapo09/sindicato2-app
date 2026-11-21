@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T03:28:07Z",
+ "actualizado": "2026-11-21T05:34:20Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -60,12 +60,6 @@
      "medio": "Universidad de Chile"
     },
     {
-     "titulo": "¿Por qué Banco de Chile constituyó $ 50 mil millones en provisiones adicionales en el primer semestre?",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmtCeFktc1ZDWENGZm9ITXYxRlNxSFIwNWxqX2x2a0FHLTV2cnZwZzRLWUVWRl9ENGJ5MGpaYjRRRndmU2xsMFFKOVllM0FDMy1BeDdkT3duYWR3QnZVZzkyQUdjb1dZVjNmWkxZNWE2QkZNT2QxZGNxZEJFYzkxYnJMM0h6ZWpnUTh5SDZ2TkIzYlRPb3lGWnVaSkI3QTIzUDE4bjZmQ3U?oc=5",
-     "fecha": "2026-08-03T07:00:00Z",
-     "medio": "Diario Financiero"
-    },
-    {
      "titulo": "De una idea innovadora a una nueva manera de hacer banca: los 10 años de Santander WorkCafé",
      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdGJBZ3ZFeDI1cHVrTjA3amYzSndDemdGTDZsb2UxLUF5T3VUOFd5ZVJHTVNEd1ZvMzRyNEtKVm9LbHZTWWpoMFgxM1l2XzhqT1d5SDI0X2REelhpeEcta09kNHI5WGxkZ1VtMk53RUxieFZfdjliUDlVTnlVWVE2Z2JKdUhhd0tnX1U1NjBnaE1lQUlhbVUtZFNGT1VnTml1NmVYaG41N3Y4akYtd2huN2ZWRlNoVHpYN0E3ajZqYzhiR2xFbXNvWjRHTDRjYVNOY19yMkYwc19vM0ppN25hZmU5ZmxUM0YwcEdVSWVR?oc=5",
      "fecha": "2026-07-12T07:00:00Z",
@@ -94,6 +88,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNmFLaXFtV00zT21XQTJsRkhzS2s2OUlvbmpUUC12cHQ3WU5YbENuSWppajRtV1l1TzZrMmwtNVBLdmIzZW84UnlxU3luWUFnN19TMzFhbHAxRncyNGJ5Z0RKRDRENks0TzZJdS1NankwZ254aDkwM2dxRGsxT1F5N1pNUWVYUkp0R3dSQ2dMS3UyRm9qYUxSWlhjNnVRbHBsaVBTNVpGUnFQZEJudnVuSUVlSWU5ei1EeXRwblc1WDA4Y3NUQkFBQ29aT3BWZjhjWkt2aTNiTmdFWHF2YXpTSFJ5LWFkZFpPVFIxa0hielFyUjBhMG9Ueg?oc=5",
      "fecha": "2025-08-01T07:00:00Z",
      "medio": "Banco Santander Chile"
+    },
+    {
+     "titulo": "Chile avanza hacia una banca más sostenible 90% de los bancos ya integra criterios ambientales y sociales",
+     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZEQtX1BhMHNRM1pFWG1YWFEtUWRRVURXMUFMNjBFSC1BWUZ6eHVvSndfU2lseHhPTE1BYWFTZE1wNnYwX05ITG4tcmZRWW85SDNjejZNdDY1ZTBUMDdiemszdWdDMmhJd2xidHg5SXJoV3h1VzI3dkRTWkd5T29mdEYyaDBvTTh2MVlsTE5uNG5jZC1PM081R3UzbXA5dkpQRXE4aEVmSW9BZXlKZDJqXzVwb0RNR3dnWHJId21ySlppc2ZINVhSalB4TnNXMHY1bGlUM3UtMFVvMldRWEh0RXln?oc=5",
+     "fecha": "2025-06-27T07:00:00Z",
+     "medio": "CAF -banco de desarrollo de América Latina"
     }
    ]
   },
@@ -101,12 +101,6 @@
    "clave": "economia",
    "nombre": "CMF y Banco Central",
    "items": [
-    {
-     "titulo": "Valor del dólar BCV hoy, viernes 20 de noviembre: cómo se cotiza la tasa oficial en Venezuela",
-     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdWxJUzVCTXRheHVvM0NaMUt6djRCWDBkODMzeXFYT2tzd2t5R2ZjWUhURGJBeExzTEFoXzREck9OQ3ZsUVJDUjQ3VDIzc2FEMUw4UE5sTS1kMGdQTEVRcWlpVzJjWHd2VnE4TmRZbmYyQUlSSnVOY0o5eDNMWTJwdUdnaGFsbm5STHAxUG5RU3NteHFWTjhPdmdTT3c5bHg1dXNLX0psLWR5dHZfOUJnS0FfWXNSUUM1RW1scUhNMTRPSVJfelNQNVpmWFp6SlBtSDQtOVhKcHVqQ2JNUHFlYmt5WkJadGhJRV9Na2ZxamjSAYQCQVVfeXFMTnQ3N1ppRjJpZlhXVzVtN2ZMNlo3SS1QdUFRemczUEZ6Z3d6bjBmYjhWN1JmM0JVbmhWaXRyYXRVZEV6M1BDVkxNTzM0R0c1b1FKM25yY2ZEcnFMU1Q2Y05WNVpJaENuSnRxRHRRSzFIODB1WU54ekxSM1VKUk1BYXk3OTRUaUF3emI4Y1JZdENkMmNHQk5ZczFTTlRmamNQUDkzUF90LW50QVlMMG82b0oxQmI3U05LeXZoVVQyX25sem95bUctM0h3U0h4Tml2aXpTSHl6VmNBQTRhSmZrX2NNLTgtZlNocFRVS3dMMEwySlhVYmRzcG5JUU5admFzeFZzRlM?oc=5",
-     "fecha": "2026-11-20T20:13:01Z",
-     "medio": "El Comercio Perú"
-    },
     {
      "titulo": "Precio del dólar vuelve a subir hoy en Perú: Así cerró el tipo de cambio del 20 de noviembre",
      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXJ5RWZrdjExVWs4UEhOYXVtdmhQVmZGQVBlTUpnNnFrb2JvZWxLaW5MLTBSQWxDRTVRNVVhWXhhcms1Z3hVdDFNZTZFZmpkS2JMU2NwWHNDN214dlZqcGN4MU5NS1l6VEtBdWVfWTB6S2E1NDBtVzhTR25qdVMwcDQ5UlFJSklNMVdDNWxFeW1NUGdQVzVGenM1ckh5V0xCdE9J0gG-AUFVX3lxTFBWbjl6UkJHcEFmeWYtcW12VE1pMVpYTHdWSDlmTFU1STE3bTg0NThnQXhDX3hxR21PSDlnRkN1YThBUC1Eb29XT254dXhVZ3FJMmV0RmxMekg1el82Z3Vab2NKcUdXeS01Nmdvb3pEY3RtSlZ0Z2J4OGJsRlNpb0xLdThvUlpZZTE5WjdpZmYwWVNkYlBYdXJjbzVBb2RDbi0wVmNPdGttWDVZUkItcm03bHVjeW55REVqTHNEdlE?oc=5",
@@ -120,76 +114,82 @@
      "medio": "El Cronista"
     },
     {
-     "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 20 de noviembre",
-     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbk12NmVpaldrOFZBTWdRRm9CVTRFZk5LZnBoZkEzM0NQSjJzM2ZzY3QyVEh3Q3JKcGxQOWotRmpuRzZkMjJmZl9Db0JKdVF1RXpaXy0ySVFOVF9HQ0taazFXcG5ob1VUQnBNS1pfeUl6ZU4xWEJhNWNaWlVhbmk3QzVFRmtLbUF5V2g5Z2NVVTVmNnk1elZfWEp4SlB0RXJZa2dDbmZfdWJFMGNxVWJabTJWbXh2OWlZdnN2TTY2TV8yZG80OGltSWNpSXE?oc=5",
-     "fecha": "2026-11-20T15:20:00Z",
-     "medio": "La Nación"
-    },
-    {
-     "titulo": "Precio del dólar hoy viernes 20 de noviembre de 2026 en RD: compra a RD$59.52 y venta a RD$60.04",
-     "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnQ5eGd6cDNpVlllaUVCVlBFbFZuTkViVGlJaFluUloyUWFhOXYzcE9rWUVOR3RYcy1IQkNNckoxRkJsRzVvUi1KRkY0cXVWeDlMaU9XMFhXVTZybktOX253djQ2d3JQcFRyU1h6QWp3djFDQjl0NE5sUDlDSlBCQTRvZk9IQ2VrRTE4cml4XzA4dzlkTUNrcVpKSmliZjg?oc=5",
-     "fecha": "2026-11-20T15:05:38Z",
-     "medio": "Revista Mercado"
-    },
-    {
-     "titulo": "Tasa BCV: Así se cotiza el dólar oficial hoy, viernes 20 de noviembre (918,76 Bs.)",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFFhN281VjJZSFBVWTdYZXdQYXZGUmRPRU1fUUFGSEhYVUhiR3lFVWRsYzRxSTVmbWhGbUNMMURsOFpCXzBpYXVSOXUybjViT1BOemk0MDliNXEwMkdHZFNrcEwyOGNWeU5acTdxYW01cTAzdlE0OGRWcjh6NjViMkFjZTJVN1dRdWc3RFQ0YnlmU1lHZU1IWkxtNFhPWjhFRHdDV2FWeS1RN29mMzdDWGNqeGs?oc=5",
-     "fecha": "2026-11-20T11:58:04Z",
-     "medio": "Noticias Barquisimeto"
-    },
-    {
-     "titulo": "Banco Central destaca apreciación de 5.43 % del peso dominicano frente al dólar en 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdC1PSFVWZi03VDVqcTV4cG1nM3hBZXJDNFRJVVJJRmFNdzdjUGw2S0tCT2JfRUJkS2NrdWVqTEJRdXFtQkJ6V21yMFRXSmdNV0Q0anhpdzl5NVFfckhNOG01elpzSEtPOUlJM1hWZGdMYmpUeEhHbjhQOUIxSDNueEVDQlZDODFUd1hNT1ltdXhkajFRX055MTMzazVZNFdhcDRRblN4WkdtMVJfWm1lR2ZtcFhBcE5tdWU1NXpuTV9IZ1JUSUNXWdIByAFBVV95cUxPdC1PSFVWZi03VDVqcTV4cG1nM3hBZXJDNFRJVVJJRmFNdzdjUGw2S0tCT2JfRUJkS2NrdWVqTEJRdXFtQkJ6V21yMFRXSmdNV0Q0anhpdzl5NVFfckhNOG01elpzSEtPOUlJM1hWZGdMYmpUeEhHbjhQOUIxSDNueEVDQlZDODFUd1hNT1ltdXhkajFRX055MTMzazVZNFdhcDRRblN4WkdtMVJfWm1lR2ZtcFhBcE5tdWU1NXpuTV9IZ1JUSUNXWQ?oc=5",
-     "fecha": "2026-11-20T02:45:45Z",
-     "medio": "Acento"
-    },
-    {
-     "titulo": "Junta del Banco de México se divide por impacto en peso de recorte a tasa de interés",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGZZemh2Mk5YRU1BdmZvZkpMalVDelFYVE1yQ2dRM2I5Yy01R2lHWU5oYTM5N0FPdzlKMDFjVkJ6TTJuRzk3SjRYYmo1bkxXeEM2U1RXMWJBT2pfUUI4WS01eDd4VThIT3N5YTZ6cm50WDNhWGpqNUlDc0JrZGo2aVNpc0kwcHRDQjBEWkdaUHdHbXE1NXBKd3paY3hlYW1fNDhzV09hLWhVT3NHVVZUMXp6TUFweWlrZFE?oc=5",
-     "fecha": "2026-11-20T00:10:14Z",
-     "medio": "José Cárdenas"
-    },
-    {
      "titulo": "La subgobernadora Galia Borja advierte que recorte a la tasa de interés retrasará la meta sobre la inflación",
      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWmFXREhKNFBpclVKdWNLb0pyMkFWcWpFT1VEMUFQMGxEZXpUZ3NKYjRvVkZld1B4QThobVp3REMyNDAzN0R4QWNTY2xnZXpVVERncDVuWFM3T25sQjFWRDVnUFlHSjlpZ1JvS0p4SURaTXdiblgyWDljN1dZcHJsSDdnVVZrZXNBYjFxUDlRc1o4R251Qi03RVR2U0hSY3BfVVJYTFZZWE95VWlDNmE1RjFfMmRnZ1NuZEZ5bmxOWThjTHFlN3l4Y2NZMWdtMlVDZlJSdGdQWDQtWHljR3lQYlFFNEdtZ9IBgAJBVV95cUxOZFlrQXBvX2VKV1JRV3JqNDlqQllIeVJISEhYYjRma25BSmdGMng1aU5aOUJNbF92b2JxVW1xWjhKVzFUUHRZaF8xTjNwMTJucS1JSzZfb1RMZ1cyRGd0VWIyRVdrMi13SFZ6NlB1N2NhMU51Skh3RkFKdWNoYlZ1Nlhrc0JldklLZUo0YlhJQUV3WGFEbDlXS1M5TDFzLTl3V2lwT0VUZW05ZmNZQnJMRDZhNndFbm1VTVF2dEFCV2dHZWtFa2w5bnJ3UUQwQWxhQ2tRYVJGejA5Ylk2U1QzNU9VNVptcVJSdGJGSnBPVU5najV6dkVGYUx3RVV4bC1r?oc=5",
      "fecha": "2026-11-19T21:19:00Z",
      "medio": "Infobae"
     },
     {
-     "titulo": "Precio del dólar con fuerte alza hoy en Perú: Así cerró el tipo de cambio del 19 de noviembre",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnlod24tM1E0ckpFanptbmpNZTJzTFZkY3VNd2ZLbGt5SG03V3Aza3JGcTdRREJhVklUVE41VGZTbF9pVmdLTXJDREt1Z3Yxb1o3eVlHQ2lDRlJRanJOa09Kb1AwMGhaQ2NvMFp1UnhMblNzcmxLcU9CenVQM0oxVFltbmJMUFFiMU5tc3JIS0MyOWFiSTA1M0lvY3R4U3JBRDgxV2JmTDZYLTR3dGp5WUNJOFRfR3NmMVdZM0p3ONIB2gFBVV95cUxPNWZ6VXo4b001SHozY3ZzeElUQ2tnb1R6SVdoOUlycTE3TWNkUl82ajFBNW04RnNKNkJWWTFCMUF5UjNuVUxuQXhJakRhaWd3U3pIbDdtTDhiLUstMjVZRnlTRDYyd1hHWHVVaEFFMXE4M1N1US1xc1dESEJZeFA0VFdnNXZHUDdIMmgyRFNFbEI3eW5KQm5sUzVlMl9hd1RJSUJoSFE4ZWp3dDNQTTh2aldIYjJFbXJISTBuWkpfeXJ5TGFydDMydHZKQU1pZUJOUFVKNFBJYWRCQQ?oc=5",
-     "fecha": "2026-11-19T18:49:00Z",
-     "medio": "Infobae"
+     "titulo": "Subgobernadora banco central México Borja afirma no está clara duración de pausa en tasa de interés, advierte riesgos para inflación",
+     "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHRzA3V29pTHlxZTg1bmdUb0FDdGIxNkF4Nk9NblZVWm1yeTA0RUxpR2YtRzJKZGpVN25NRGRGME1xTFpSSE10Unl6UV8tRmF6MXpRbERnUlE1dWx0a1pjZXZIOFhUTHJSNGJVRU52Q182UUdNT25F?oc=5",
+     "fecha": "2026-11-17T19:04:02Z",
+     "medio": "TradingView"
     },
     {
-     "titulo": "Precio del dólar BCV hoy 19 de noviembre: la cotización supera los 917 bolívares",
-     "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wLU5wWERFQWFaeHR0QW85RGw0ak5wNUN1dThlLWhWek81RERrVzUyWUhWOGdmMXAwbGcwR0dnaVZaT0pGMFlsZS1FLW95d3Nqa2xMT3BQMVdGaTdIa0dkZi1kUl9MWkZPQlNSbklmbWEybkVnR3NGY3p3Y1dPdw?oc=5",
-     "fecha": "2026-11-19T09:10:00Z",
-     "medio": "El Estímulo"
+     "titulo": "El BCU mantiene la Tasa de Política Monetaria en 6%",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUp0bG9Ia1dTaGVyVDJwa1pHVW5oc1dSNHRyY0t6ZWJyb1pqenNYamdOXzZadWpMVm1Kdk1QaUU0aDRHNkExT2w4eVN5WVEwZkNmQTNyRklGNWJNTUxndWlCc0hNQVpCRzFfaGxHT21qcmR1b2tyWEhMY3BJOTlFRkVza3VCTU1ET1dzTE82dWhEbmsyMkduMGtUX3hDTmZuU1RyRGJFeWFIajBadTltSGdHYTUxcmhvRHdxVVZkREh6WldqeXVNSVR6MGdUbXd5UGFQOVpGYjFkZGs?oc=5",
+     "fecha": "2026-11-17T08:10:26Z",
+     "medio": "bcu.gub.uy"
     },
     {
-     "titulo": "Precio del dólar hoy miércoles 18 de noviembre de 2026 en RD: compra a RD$60.01 y venta a RD$60.34",
-     "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0xwZkFzazBwUy1kWVNBYU1tRGVNSTNKck52Qk44TWd0dXJheXp5ckNpMHBKa0w2TUdDck9fX2ZUZ2wwaU1qaFdoRlNDNC0wSVpVTUp4OGF3SkpWZ0hMX2tTcWlqd19LUDA5QTFicTBvQXJCb3VjMlBoMWxuQ0tHR1JoRHdWSmU3WXFJYkhCZ0lhMGduWC1Mc0xwRWd4Y2M?oc=5",
-     "fecha": "2026-11-18T21:09:37Z",
-     "medio": "Revista Mercado"
+     "titulo": "El Banco Central mantuvo la tasa en 6% y advierte sobre los precios",
+     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUUd5aGx1Qlk0UGpPZnBhbzJkUDR6S0JPN1Z5LXhLcjJROE9OS3dMM0wyYkFUbTEyYlBLZ3dJSnNrQVU4VFUzMWJILWVzZWZoRWpaUWhrZG9KR0NyNmd0S0hkbnNvM2oxVHNPVEhWTTdfdVR2akt2aDcwUzNWbVpwaGMzbXdfaW0xc2czYkFsejBfWVozQ3dhWkFMMzdWaUFDRlVZd21MdTZhczVw?oc=5",
+     "fecha": "2026-11-17T06:56:47Z",
+     "medio": "uy press"
     },
     {
-     "titulo": "Tasa de Cambio BCV 19 de noviembre de 2026: 917,7751 Bs/USD (+0,123%)",
-     "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uYzJOVHowLVQ4WEhwRkJEblc5ZUJfMS1SNGR2bEttTXNvcWFUdGJBbS1GNkU1cWxleHNsVDI3YXBDUlU2OVhoRXlEdmxSNjhWcUNrejJvNlM3WlFPeFQ4cXd1VXdNYmxFMGE1cTlwUXV6WDA?oc=5",
-     "fecha": "2026-11-18T21:05:50Z",
-     "medio": "Finanzas Digital"
+     "titulo": "Banco Central de Uruguay mantuvo la tasa de interés en 6% ante un escenario de inflación",
+     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVldLZWUxcXFFLVZvRjU2UnM1UFNkbFNoenBqWkRYMzl2TzRTV2t0cWZuYWI3OVl0WmlsUWhyS0cxYnFzTHJzU29kVVVDY0R2MU9oQVA2dl81eTdOR2NEUG03ajJ3MzZEbkRVS1RtUDdGVmZobHQ4M3Z3ZzczWGc4YtIBgAFBVV95cUxQSjJobEg5bHp6d1Y2eU45WW5hcDRpdlJXWUoyT2xOcGFwZmlfX1pFN3p6dkZKcmxtV2R6WVZOdVozRzMxaHMyb1U1eE9TREZsTnZab284RXRxYkQybXpjNHpPend5SlNvYzYtNkdMMVR0djhYd2RGNkdUWFprNlh0bg?oc=5",
+     "fecha": "2026-11-16T22:05:13Z",
+     "medio": "LaRepublica.co"
     },
     {
-     "titulo": "Subgobernador Omar Mejía defiende recorte en la tasa de Banxico ante el repunte de la inflación; “No hubo sorpresas”",
-     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTGJDRDlpMmN5T3BBX0MweXJNMHBhRVBKdEpBMXFKaXlrY1Nsd0tjTG1NSzRSVWZVNFhibWY4NHNpT01NRlN3V21qNVllUVBKZTl3MXNNYm9tYV9OeWVMX083MTJtQmJLUDZ3cnZoa2QzbENWelhhaWlmRnY4a1Y0WTEtN2YxSTNONG1zbFdEN2gweGtVSGtKZDhRaFVSSVVsTTkzbWlkNWNZc2tOb194ejI3ckhKSjBXbWt4Sm9KQ1BnU3AyMkZIUDZVdHB0cW9QMzBGSm43VUdpVDQyYWtxak4xa3RCenhsRWFhQm1LUdIB_AFBVV95cUxOTTktSzJ6dldiOFpybzdBVzBIYVFjVGVpRm5aTkRmMlFUWTVNMTk3TlZKSmxQbW4tcGtJUnVfOWh5RkdkNktFcUNDNURabjdWdVJqVXpidk1Kc0pDSHN6ZkxZR0h1bDVNM3lwRDZGRzliQlA1ZnhqT2NsTVE4VElEWVd2emJBNm1aNmk2WGJnSDJTOWI3UTI1NnRaenJxYVBzRjFsbWlBWF8zNXJWZll5U2tDWEtOMVRsLTU5SjJRdHl2Y1I1SlhQY2dtQUpYR1dCek5aNnFoQVhJREVfZzFnaklhSkVXekhDRzZ5RE5MWmNuakVVVlJ4aHo1NWw?oc=5",
-     "fecha": "2026-11-18T18:45:00Z",
-     "medio": "Expansión"
+     "titulo": "“El Banco Central no debe subir la tasa de interés”: Experto advierte efectos sobre la economía",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZk5zSnRVclRVMndfVk9EbjJHT2xDZEZPcF93WkJRNGFULS05S2NFbjUzRHZtd21tQ05BNnE1a2o1LUNnblFfT2YwUHd5SjVleTNQbGN4SGJ1RmNtenRkT0hzenZ2S1d5OUZCVTFucTNnd0l1ZDFWejNqMGNFcm9WN2xvZllkaTM4ZnRnSV9tM09tVnkxa1BtM2hfWkFqOFdxWEwzVlNjTjhGU0hpUU0tbFZyWHBJbmFYTDFhRU9BTWlwSDZjVFpvejFhTTFEZGFheFNyUTVaRW1ncWQw0gHkAUFVX3lxTFBULXUtNUJJeWo0SC1UQWlVeGNLaTNQc1Z3dUt3QWlDSUlSaEhtMHhhaG5sNTE0OXlpSkxFQ3JENWVYQ3dJellnZ09ISkdhSF9nNnMzWTVuV0Z5UTBoUFZrUmtzRXN6QUlWZ2RRZXR5V2VFNGhWcVBBNDlheTdiVlRQa2FrRmNIbmh1YTdiaEdQUTV2T3FRVVBpTkExREV2UHdoSUNoUGdfM2t4YUt6eDkxZUZkb3VJcVc4M3hYU2lvOUp0S2NpSWIwZDU5dXNKQm9MNkIybnpzSUJQaUI4bnQ1a21URQ?oc=5",
+     "fecha": "2026-11-09T16:47:47Z",
+     "medio": "Infinita"
     },
     {
-     "titulo": "El alza reportada de la tasa a 6.00% por el Banco de Indonesia sorprendió a la mayoría de los economistas",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHlEUXZwbm5zU3VnVEVvSXNGOEJhTlNFY3Ruc1lUY09IUEU2Qm1wM2kzTWItODJjNE1Ra282c3dlUnEyWDhMeERrd3lCWjNGTVBjZGI1NGx4eVc0NWJ5UTJRTVMxXzJ3M201R0tFQjNCN2NQcWs5dEdhQWJsZFVpajJsSkVmUlVYOEFnTmlhdVAxMnlJQVJPNmNzNmhrV1FnZlJrX2NTLXV3S2lNNm5RcTFaM1pzbkU1QXJQcF93RElPOHhpLTIzYg?oc=5",
-     "fecha": "2026-11-18T08:00:00Z",
-     "medio": "WEEX"
+     "titulo": "La encrucijada monetaria de fin de año del Banco Central",
+     "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzVIam9mWDgySE12Tkp5cmdjcVY3QW1KSjZZRmU1UTl5ZjRlYW5LMVdCdlFBOEtLeDVhNjU4dkdQeC1lcXh4ZjkyZFBaMUlFUndqeWlCNXZLeTFib29TNXBWenFNY3RsbHRrUzZJXzlRYVpfUnZBR3kxemJFek51cXhUcl9xUmVkbGpGVHBJTndjeU1K?oc=5",
+     "fecha": "2026-11-07T09:46:09Z",
+     "medio": "Clapes UC"
+    },
+    {
+     "titulo": "IPC: inflación anual podría alcanzar el 4,8% y economistas anticipan aumento de la tasa de interés",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU2d0bmFWbzYzYVBsWk82UldONnNKN2I1WFlrQzZmN3BOSlotRkVCVWpBY0VwaUQ4UzNZOFA2cTI4cF90eE95am9SMlN5S1E5R2JucURWRklhaEFUaWlJamJVVnVUTlo1VHBPc1JjT1drQnlBb3k0VXRyODFMSURBN04tNE9QcldleXZ4YjlmOHQ3LXZTR3FuVlJqUzB1bjdCLUczQ3lRLXRLbkkxUUJUSUZtU2ZhQWFwamFMNnNWYU5WMUhUTVNXdWVOVQ?oc=5",
+     "fecha": "2026-11-06T08:00:00Z",
+     "medio": "Universidad de Chile"
+    },
+    {
+     "titulo": "Petróleo e inflación: Las razones que llevaron al Banco Central a evaluar una tasa de 4,75%",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTVaOEpTUVdMT0FMNlNGWjRRUklQajkzSW1jcVczS1lEM2paZGVMekhnczJlTnQ3QXh5MFhIaFluMDJsQ0hXRUJ0em9Dek9Odmc3TlloMzFwWVcwOGhQZkpCUnliTlZsZ3pxY25SQ0NvUm9HNU5udUgyUUJ3NHpWWmJnX2FsSWpMakZoUWdMWFdvSllDYmRZZ2g4bk5Qay01Z1djR3RVMFdVejRQY0dwaFZpV2hpT0k?oc=5",
+     "fecha": "2026-11-05T08:00:00Z",
+     "medio": "Chócale"
+    },
+    {
+     "titulo": "Banco de Inglaterra sube su tasa de interés por primera vez en más de tres años",
+     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUYtOU9ZYlduY0gycjZNZWNZczk0X1JOVGl2SDlxWDByTVF4d0pBWkpCT2x6RThXSTFTLXcxY2lUWlJBWFBBYVJRR3c5X2pDYW1xdVlEMzR5SGtUbUt5ZXFqVHBnRmJySEdVZExlRHA4eExmS1lMVTRFV2VNWlhRZ1R0d1pRdFNxV2NCY1ZUd3p3YXdQaDlXN2lGdEdpbFIwSUw2UlNsVElDaGNaTE9lWnBMY2htc29FcTViZtIB3gFBVV95cUxPVEFTbzg1UWdxZnR0aWpoZEVPQUxwUVZ0SHlWOXU4MWoxeGV3cThWX3lMaGFtaTZDNjR6SVRTR3ZHUU9hVzFLR0N2U3BfSlR5Q0xzYktiWkxvaEZEMm52WXNJWjhUZ0w5cGdONVItUGxWaDJrWHZaS2pmRTRzeWVQa1ZCZC1oVkpyeXcxX1MxMFFCQmxzelZYNmdhaVZVRWVYeHVXZU5YLXhRUWV5cXdxT3ZTMl9yOXNlcVY0TVdzVUNsd2xLcE13ODNhdFRTeWUtemcxaUJKOG5JaUI3TEE?oc=5",
+     "fecha": "2026-11-05T08:00:00Z",
+     "medio": "La Tercera"
+    },
+    {
+     "titulo": "El Banco Central evaluó subir la tasa de interés en octubre y enfrenta una encrucijada ante el bajo crecimiento",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOendoeHJFN0JmZE91M0o5RXViNGRLejlhaHhxY2x2NlVFT1ZGYW9SOEZlNzRob3VqTU80d25xeFVuY04tdmludHVkLUllbHp6YWZPY25rZ24zY3lVbjhRMDZYT2FpOWZnTjg0VzEtSGhHVUxmY3g1N2F1Z1hjblM1LVFZbnN4ZlNDRVRydUpPa1g0MnNVWkRfeXFOR01hTkJMdUHSAcMBQVVfeXFMTl9feVI3d2I1V2dxSThSbGNtdFEya2U0Z2tEaktNZUVMS01NSHFHMmF1WG9IVXE0MGtHdjA2VUdBRE0xVjBwdzg5WXFEY3hQbkVHZEx4dldIdURIU0pFajlYOHh2cU0zcW1pWW90bnF4RHZOWUhZR3VtZ0trVlVkNVF1ZFVIRGZIOXlUV2k2cEJxNmtSbUNzMTkwa1hwejZ0aU0wMTlrUGxWVDNCRGlfZE53cHo4dXVhWlhrMjQtcmZqTEhF?oc=5",
+     "fecha": "2026-11-04T08:00:00Z",
+     "medio": "La Tercera"
+    },
+    {
+     "titulo": "Minuta del Banco Central revela que todos los consejeros evaluaron subir la tasa a 4,75% en octubre",
+     "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLU5HSWVjTzMwUHMyem5mcHE4OGxTQVFCb0tqMW5TeHVyU1ozdmNSOWVPbElPN1dfYk9xbFd4c2NIX3V1c0dFX3gtYXBLRk04RzhyejVOcmZXc2ZWYkFEbjlNc0t2Tkd2NlNsZUFJRnloQ1htdFFiVDlXckZGcy1YbzNSYlRVR2djT2pKZmNPWC1IR2ppNUZWVm1JR2wwZ0xC?oc=5",
+     "fecha": "2026-11-04T08:00:00Z",
+     "medio": "CNN Chile"
+    },
+    {
+     "titulo": "Consejeros del Banco Central plantearon que era \"plausible evaluar” un alza de 25 puntos en la tasa en su reunión de octubre",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmYyZDNJc3RkSUt2WkRmcUd1a190WUMwMHBvd0xnZHJZRi1xVkxmcTlEMWxwd0VNR3ZnMkk4bHZfVnFXd0NhcWo3S05VMldObjc4RWluX3BYWUZxZUFJVXpBSkRZbVlLNWtVZ3NyS3QxRUFoN2NPd2V4Y2J3WGVOYy1Zcm5YS0JFSmVnRFBiRFlLcTc2OWF2S2M0cXZUWF9PM1RHU0I4M0M1ZG1BUzlrdTNYMDJyNUk0?oc=5",
+     "fecha": "2026-11-04T08:00:00Z",
+     "medio": "Diario Financiero"
     }
    ]
   },

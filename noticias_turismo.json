@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-21T03:28:10Z",
+ "actualizado": "2026-11-21T05:34:23Z",
  "fuentes": [
   {
    "clave": "turismo",
    "nombre": "Turismo en Chile",
    "items": [
+    {
+     "titulo": "VILLARRICA Y PUCÓN SERÁN SEDE DEL 30° CONGRESO NACIONAL DE MUNICIPALIDADES TURÍSTICAS DE CHILE",
+     "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzhaeHFOZE9ZZm5Yd3YzeUdiWkh3MjhkUk1hTDl1WHp6RG1BNXQ0cnZ1Ql90Q1NYVGFmOVZBTnloSlFPQlFiZFg3dS1LNGk1WWNEdnhEaU9PVmJEazJFTXN0eHFCV0NyVDJTVF9qS2hNVVA2bzBZa2hZN1ZQUXlmWEVaNm5lTmxtcUhWQzNuQ2prOHJsSmd4MHJvVnpkTFFpNU40OEJYcVowSWJYa1FlUG8tSng4Ri1Xc0dUWnVnYzA2SjktbUhrUkJETHduc0lMYklBZw?oc=5",
+     "fecha": "2026-11-20T23:04:24Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
     {
      "titulo": "Entre Ríos lanzó su temporada de verano 2027 con 70 destinos turísticos",
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX1ctZ0VPWldaX2NVM25KSi1Wd0FaeTNXVzlZZzhxa09MNU9BeUFidms2cWN5MEpBQ09Obm1mcmQ0RXI1QVFpU1RqVXVSOFpGYWFZLWZMbk1yTDdTSHZhaW5oS25GbDNLanQ3c3RuSlhXUk5oazhwd0ZpZ1Y3RGpkQ3NENk51NE15T1pzN3VYLXBXQnlsMFFDeU1rZ3hkMlZKXzhEblA0UGxjYkJFcmhnbHBtU1A2WFRKX1JHTnNHSnZ5QQ?oc=5",
@@ -22,6 +28,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN3l0eFhvQnhnamJESFFYWWpEa2xhSGFNX2J4ZnRYOTVOVWlGUzB5RExFOU5GQTFKekZkNU93a3Zmb0w3aVBWQ1F0cHByUGI4TEt5NmhaVmVzQkRobUVfc3BrX3hTUG50T0Y1RHFkRDBYd3lIbWpLWFdqVkRyT3o4djdBZURtOThzeFdVd2NiYVpHdTlnYzlYZGxvX3pXdThzV3c?oc=5",
      "fecha": "2026-11-20T11:12:56Z",
      "medio": "Prensa Mercosur"
+    },
+    {
+     "titulo": "SERNATUR y Servicio de Protección Especializada concretan inédita experiencia turística para adolescentes de residencia LIPNATUR de Antofagasta",
+     "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYkdicy1XVm8wU1ViaDh5RnlmaHhiWThBSWhyUmkwcEg4MWZxZlpsZFFhRHRtTVg1S2lNbkpBN0pqQ1pjZEt6U1hnLWlnWGhwdi1LdWF4YWhMU2JUb2F2bEVZNElhdDB3T3JfV0dIRHV3OWdOaXU0VGRZbTc3THBQRkM0MjVKT1hncHBCT05vR1dLU1B6WWZpMWItd0FwZ3dRRC13d2wwV3VuNjJvOFZQa3NZSzNYcTRkaUVMam0xMERMTTJ6UWJXU2wwMWVOTnVLaERxQm5Sb0dsY2pUWTE5ZHlKNHA5YzB5ckpmMFBvdTR0enJUekttdGh2SHlBSk10TVJJUHJ2QQ?oc=5",
+     "fecha": "2026-11-19T20:22:59Z",
+     "medio": "Diario El America"
     },
     {
      "titulo": "Por el Fenómeno El Niño, Entre Ríos lanzó su temporada de verano adaptada al clima",
@@ -42,10 +54,16 @@
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
-     "titulo": "SERNATUR y Servicio de Protección Especializada concretan inédita experiencia turística para adolescentes de residencia LIPNATUR de Antofagasta",
-     "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMVEzNnRXWHpFVHEzWUdCQ2pSbWJqWHJLU212SlZxalhQUENxb0VibkpOaUliaWdYN3ZyUURXYV94RmhQaXNyb190Q182ZDlxWG53N2wySWFjaWZhYjhSVU05d0taYWR0NlROVzNhN3p3U3NaQ3BHNFAtMUFCZjYwLXJidTRvVlpzNE1EUlpETEllZHk4dUo1Wk9GTlZad3NHQkFWWmU3d0s1YlA5Yk5yMnRNdEQzN0FHblBvOUJSZTVwbkZpYnhvbzZvdHJqYzMtUlVScGF4SHR5MERQOHVSUkROTDVDbUdGazVHdFZSR2ozdUpxVGJDT25rN0RoUFU?oc=5",
-     "fecha": "2026-11-19T14:36:16Z",
-     "medio": "Desierto FM"
+     "titulo": "Bariloche proyecta una temporada de verano con expectativas moderadas y turismo sostenido",
+     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNckFDUU52ekhSQ3A2UUZYQWxlVFlzMUJRcnQ1Y1lmUFRRNWplYUt4QVQ5VlZBSF8zcVNldWFJVVB6NkxTc0FSMDVqak8xTmFQVzRYS050V25TSGM3OGVlVTM1Mm9iR2tuRVdDUnhaaU1GNmlFYzQxcHFvRWcwTF9XR0x4bDY5NTE1WnE0TVlyYzNUVGJPRXUzeGJpTXpUeDdWWDhScUlENHhYREJnTXZRbzJOR0t2UlpxYV9WbGtLRUc3ZXhyVVBBenlfNmM?oc=5",
+     "fecha": "2026-11-19T16:11:14Z",
+     "medio": "Sin Mordaza"
+    },
+    {
+     "titulo": "Chile: Valparaíso enfrenta el desafío de consolidar su recuperación turística y poner en valor su patrimonio",
+     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM2JBcE5ETXkwY3JMa21xa1hsVF9saFFqQXl3bUpvbjFlUWhqSk9wMzlycXR1MGpQWHNLdWZRX1ZPMG5SeWRCRHFLUG9RcGQ3VTY3dmJBemdtcVdDbXhNQ3V4VUhMYjJKYUZQVTVLSXU3TFQ5OEYyNV9ieXVyekNXSQ?oc=5",
+     "fecha": "2026-11-19T15:21:53Z",
+     "medio": "Agencia NOVA"
     },
     {
      "titulo": "El turismo sigue tirando del empleo tras la temporada alta: supera los 3 millones de afiliados en octubre, un 6,2% más que hace un año",
@@ -76,24 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2xqN3E5bWR1U29DMnBjYi14Z0s5WFZkQ1U2VmpodDMxejRYdEx3VG9DN21jY0NMX0EteGViX25WWHlpM2JoeXBmWk1GNHNzZWZsOHdiT2N6MWx2eEJUaC1WMVU0a0RUTzJXTmdmVXY5QTJjbGhFWlNRakZnV05tYVZXVkRXalhZN2ktX0IwVFJZM2owTWt5SnhzY013ckdacUozTnBPemhKRFd6d3d1eDRTekrSAcgBQVVfeXFMTkhzUFd4VWpjUGFwMWt1eDRZR01KSTFTNzFEeTZOSGZSdXVfWExxOUxINjVnRUUzRS1NSzdkZ1BvNkczbDBCLXVzNHBITnV2bEJUd3N1ZDduRGpEQWI3bjhlYUhnMjFRSERqQ0xxcjhVaGVkUjZaYTg5UDJlaHNIV01ETDJOUmFMVHdzbkRKQ09jVG8yeXNPalNjV1NNRTNLYUtPUzJDUzFReU5WOEFBVTEwNVZTWjdnUGwwTDNFRkljek91QWNOSWg?oc=5",
      "fecha": "2026-11-18T01:57:12Z",
      "medio": "Caracol Radio"
-    },
-    {
-     "titulo": "Coquimbo busca conquistar el turismo internacional: compradores de Europa y Norteamérica recorrerán la región en diciembre",
-     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV2k1T1FSTG90bGlPVXZROUNTa0FrRElpRFBacUFDb0h6eEtETWNremdRMDFseUo4NE0wN1RVOWZZR3lsVDFCNmxvUlBCTjBSTG94YVpVTW9aWmJpd0Jud0RwZFpQUmNRTllkNS1Pem1FNXZhTHZ3eGNKZFVSUFFKcmZCRjRTa2dNOUdDR213NlZWYjNDZjdMWVhXQXR4VkswMmVQRVhacExNRmRRYnBfbW5kY3lZdWdCdjVaYTRKOTRpZklyZktRS0ZyTXo1cVo5Vmg4V3h1eFVJWU1mUmZVcW1BRFpKci1WM24yRFp0aw?oc=5",
-     "fecha": "2026-11-18T00:38:17Z",
-     "medio": "Mi Radio"
-    },
-    {
-     "titulo": "¿10 mil trabajadores del turismo serán capacitados? El nuevo plan que busca mejorar la atención en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTzFMUi1kdkNhOVJMblV5OHFRb25IYktVYUE1bGdGSnRyazNSYm91eGNXaFl0dFZaNTBvY0JhOWdSb2NuUHhMMWhXTzU5RTEzc0g4NWFCLUtDMzNlVzJUaVJGejU1UmNkRUJaOW85Smx6c3FIMGJ1SHdsdHNqREJ5ZHpIRjJHbTZjZ0RoNzhaWlhXSzlfRjVaNHNMNjlhU0lXcnQ2Y3Y0ZGZDbkY4M0RnZ3ZGbXVxbDZRM0Jrbmw0LXA1RnlXcTZBVA?oc=5",
-     "fecha": "2026-11-18T00:14:49Z",
-     "medio": "El Observatodo"
-    },
-    {
-     "titulo": "Presentan plan para capacitar a 10 mil personas y mejorar atención turística en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdjU0R0VVbDFvQ0IzaVpRZzhISFdwZXp2elF5aVNfYUE2UzJ5MFBrZ0E0X19XUUlpeDJZWU1ETVFySFhCZEM4TWFwLUhmUGxQeXJScHNwN09xaFNRd25CNk96Ymp2bmsxWG1IazBuVWxfakNtbjl5dHUtY1lycFBlY0NxdndoQ0Nyd0djckI3eVNURFk3Mk9BbUpuSGU5aWxVVGxmYnQ4d1M1M09FcTJfMzA5SkY2ZV84T1NoZmFLWTFqX0U2LTBtNXRaWXhMNEJicnAzdTBBVFRVUQ?oc=5",
-     "fecha": "2026-11-17T18:04:00Z",
-     "medio": "Diario Emprende"
     }
    ]
   },
@@ -198,16 +198,10 @@
    "nombre": "Hotelería y gastronomía",
    "items": [
     {
-     "titulo": "Newrest Chile ofrece trabajo en minería: revisa vacantes, turnos y requisitos para postular",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRG80NGpJU0dyay1mNi1oMERLc2ZxZEEtWW1MUlpQdWFrSE9IQVNoc2pEMDVxNFp6R1ZtS0ZFd0Rzd3ZSOVR4V1BuR3Y3VExiMURDeE1Kc1hmVTVvb1FHZGJNc3pGRWxWcTFncnFsZ2FvWmVfV1dIRGloc01NWlRWLVZMdzB1UzZScHFTWDlfaDlYUmNBb0JvWVk4TW5PbzZCZ01UUmJJRmtGZHFDbFBoRWxB?oc=5",
-     "fecha": "2026-11-12T13:05:54Z",
-     "medio": "Revista Digital Minera REDIMIN"
-    },
-    {
-     "titulo": "Sodexo busca trabajadores en Chile: revisa ofertas para minería, alimentación, aseo y mantenimiento",
-     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSG5Yc3ROSmM3dGdiSFlNdDVmTXpTb2diQWgwNHpDMHZ5SVFvMmxSN04yYXI1cldKYmRFTks0d3AweVpkWGZfUmZzbjZVOFF3RzY5MDBqWk13bVBoR1JacWtOUU1FWHdlaWI1Y0liSUJxNHZDTW5IVnk5MlVBd0ltOGRSS1M1WVk5R1ZyUkFYV0d5LXp6ZGdSZU5OQWwzeDI4Zk1QQjBiRF9fWDNwWDEtaUpDUzdVUWpiQUpR?oc=5",
-     "fecha": "2026-11-01T07:00:00Z",
-     "medio": "Revista Digital Minera REDIMIN"
+     "titulo": "Miles de personas marcharon en Chile contra los recortes de José Antonio Kast: “Ni un peso menos”",
+     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY09kRGFUSExIemk4V1J6V0otemdMbUs3a1JYTTlUcWpUVk9NREYtaVhnX05VMlNoRUtRVVdMdHFKeDlESERLU0xYbE9oc0JZVFlYb0FFVGtCMWZrUC16UnN0QmRINk9NYlVIdXFZZEgwa1RrNGs2RWZGRm13d2NwcVh6MGNjYy1MYnk2OEFCaHZ1UlZmVTdpU3U1UWFNRDdIUUlHS2U3R0FrbWt4akFDNHphOUxtUTBQVFRnRlp3?oc=5",
+     "fecha": "2026-11-19T02:27:58Z",
+     "medio": "La 4x4 radio"
     },
     {
      "titulo": "Colombia anuncia acuerdo con Chile para reconocer trabajadores en construcción y gastronomía",
@@ -228,52 +222,10 @@
      "medio": "ADN Radio"
     },
     {
-     "titulo": "Abelardo de la Espriella anunció acuerdo con Chile para reconocer competencias laborales certificadas: 26 perfiles serán considerados",
-     "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONEM0Z29nVzJLbllqUC16MG94NV8zUzBGaXFET0ZPcGRPd0lydV80cXJnNGx5WFVFNHQwdXJyRXUxZUxQOUNDNEFpNUM4ekRDZFhlbWhnYVFCSWhvUWV3dWxXZzJZX0FURzZFZlNYZHpHc0E1TTUzbmU5N0VVRGs2T2JoOFcyd3pEdGVnNVBkN2VlaXU1c2NTZ1VJTmpkUHdPSXFTUzBfTHpHNk1XTW85X0ZBQmxuR0RVUFRoVUt6d2Z0emhzbUlkUHFZdG1ja1NMdGNMNE5hYnQzVEdzZHNJV1FJX2hHVVE0bVhxUHA3MlZ0U1NQS043WkdCSDYtMnNYMWN5VFhyZ1XSAaMCQVVfeXFMT2xJTEI5WVpvdnB6YXpPaHFmcXZXdWpUTVNoT0tLOHk2SGNwc0J3MmxpcmpOMW1kTVBWMWI2aDFOOS0tNk05dHlkUWhSZVBPY081MVZSbE9USnFOeEFrV01XWEdaWk9PYlBaeXk4emt3bkxhZnlITEozWDVueFhTTnZKMUUweWlDR00ybDVBQ3hVdGZ4alBBNGhiU24tM1NZV3V2UURKMEIyWTJYeTJ3eUdnbUItTGV5aXJSMVBPcXlCQkVqYjhNWF9yT3E0LXRtMXpPb0RYam5fZFp5bXlJS2w3UFh2LXpYS0wtTG91S2ZRQl9wRDBOZmRJZF9vdktDblF6V2l1MmxfcGpySi12NkRrTnZsUV9OQmkzWjFRaHc2QXF3?oc=5",
-     "fecha": "2026-09-13T07:00:00Z",
-     "medio": "Infobae"
-    },
-    {
-     "titulo": "Colombia y Chile reconocerán competencias laborales para facilitar empleo entre ambos países",
-     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnlVNWFybldZcUJYQWxicHdVNGlsYjJoSzI5a04yTXdBR05PbDJZQmhyam9Xa3loaFkteDJ4VWR6bWRRdV9hcHptZG1yVlBrLTRPcEVzQzJwZ05JRzRXTE1RSGl5WDNNaGstYk5sdTlqNTluaWtaa1ROcGNYakRPYTIwYXN3Vnd6UHk3ejZjTVVENFhvRkpYMHNDN2ZIS1Bqdnh4ckhfX3VpVllVdEluN00zOUhWbTdVcFhaTXowR2lJSVR4d1HSAdoBQVVfeXFMT1BkeDF0MXVuOXVyNzE1UWpWenZCdmZwREh0VWZ5cHVxX2VhSU1lN2p1YUVMWlZ2U0IyN0kzNTBXNlgzUlhZVy03N1NfVXk5N1JkSm4tSlA0Mm01SlNOeEVGQ2cxaTlPbG9Hc1BDWGdsdEJGcDBXZktVQldPZW1rSnZuWmNERk5SZTRUWUpoQXhSOXdET05JbV9lSmdPZkdCRV9oNzlNOFRVVVpqeGpoMnZJbTBOX1BDNkVPT01mVGZrd0pxMkxsT2JHRVpqVmNESHlGeEpiYVJNQUE?oc=5",
-     "fecha": "2026-09-13T07:00:00Z",
-     "medio": "Caracol Radio"
-    },
-    {
-     "titulo": "Fiestas Patrias 2026: abren miles de puestos de trabajos temporales con sueldos que superan $1 millón",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQkt4cUp4TGhkUk9ZeUxKandxRDU1Qkc2U2tpWm1fSkdsbG1YMmJaQXRSd29XclZvdllUcXNiZFJhNXQwNHBManJzbE1wNTlWUUZLcUFZd3lMc1JvTk53Ylh1NUg5c1hGVm0wNlY2eS13am11eDF0LUJrY3hLbF9sbnBOSXE3MEFGNXBUVXp2d3NKc29tV3VmTklWNGVLWDFwSC1QZDNxOWVid1JjbXhKeG02SlNmbGM?oc=5",
-     "fecha": "2026-08-26T07:00:00Z",
-     "medio": "Canal 13"
-    },
-    {
-     "titulo": "Evacúan a trabajadores de Refinería Aconcagua de ENAP por presunto aviso de bomba",
-     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTFk0UGlGQi1rVXFiU1lIdkNhRHJvRWhteUxRMjBfeFFVS3ZodlBrX0pFYVFHblVXV2RPTmVUVk9kQU50S1pRY3dkTU9LcWg2LUlHUnZwLUx4cUoycmYzcjUtT2xETXIzXzN2dlk1bWo1RWY5MlJuUWl2SUkxRkRRTlRvZTJsQzZiRnhLSFRCN0YwamlCcWx5WV9MTHo0Tk5hR0dQTC1TMUJnOFh4TGgtVS1lc00wZzFlTXpGUEdLcVY3aDhROGwxMzdnbmdkaGMzUmxqYzVMZnc3cGh6bmFNNkVLNWNxMEJBeXNael9LX1QzMG9ZVnpz?oc=5",
-     "fecha": "2026-08-19T07:00:00Z",
-     "medio": "BioBioChile"
-    },
-    {
-     "titulo": "Hasta $1,2 millones de sueldo: Anuncian casi 3.700 ofertas de trabajo en logística, minería, hotelería y más",
-     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb3dBS2NkbU9KM3dnVWwyYlRzQzEwVC15UXRER2FVSC1LZ0lrd2lVVkF5N2IxOGJMTnd5Qm4xcHR3WlRWM241RHBZTUdVNGV3X3U1WTZHQ1N5bWpPQ0ZhNDV4M2NkUmdJRDdiRFVXQUdRMHRDTlh2NVNJNTB1bk9KeGJNVFBERHdRRHFZSFZvNUNkREJiNkpxazlXSGFXNTQyaUp4alkyc3dTd0NTTDVBWHhPeXBHQTg0OWhVdnluNEh6dERJbTl30gHMAUFVX3lxTE1uajl0OUpqQUlxVHI5VENFMzBvNC1jZEo2QlJQWTdNMmJQYU9peUYyM0RqeFFFTjhyenpCSlJjNkNuVEtQNE1PdE9VcjhMRHo3WENLQ054UlllcEFFYjVnYVRMbUpHcVZ4VGFNSEZPOWJhVkVxSFlJSFNldWgyaVlhVWNzRU9tcm9qNFVJZVp6YXNIeTFOcnQ3V2ZnT2NBZ1daVXQ5clZ2cHdyZUdrSEdsLXFtdjhicXQyT096a2VIYVZhUktQbkE1VVFNUw?oc=5",
-     "fecha": "2026-07-29T07:00:00Z",
-     "medio": "Meganoticias"
-    },
-    {
-     "titulo": "Sodexo busca trabajadores para minería: hay vacantes en Coquimbo y otras regiones",
-     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVEttSExtZDRDV1UydWlvZ0h6d284TWNKYjh5TUNfbU9aNFpxZ0NnYmhfOWItZ04wZG9QY0cxV1VnaGxhem4yeVhSUHlQN29KV1F1c3pCOFp5RW92czJfajJXZXhUaFowdnY1ZVBIRTdhYXYwSFRFNGFXSXg4RWNyM0VMUFF2UmN1azl5WndOM2lZNlZNS2F4UjRsNjdpa0c5VHo1TVA3RWxRU29iUGFtV3UzbFV5R1QwV0pWbVdsZktwZkFT?oc=5",
-     "fecha": "2026-07-07T07:00:00Z",
-     "medio": "elobservatodo.cl"
-    },
-    {
-     "titulo": "Reducción de jornada laboral, estatuto laboral especial y productividad",
-     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNVIyaEtOYVFUa1N1UnlZeU03UHctRlc1NjFzMnhkQVdsRXp1UXRPMm5pNHdVcnZPRHJvT2YwNnNxTFZId2ViUE4xS3dKX21uR1QwZlVaT3VaaGxuaERqWm91clJfNGZUSXpfRzNXWFN5MzlOSExaTXN6N2dIbEFlVHBVRWk4ZjdEY3pZVklmUEpfaV9oOGt2MmRoTWRCak5jd0VXcE53?oc=5",
-     "fecha": "2026-05-05T19:14:53Z",
-     "medio": "Chef & Hotel"
-    },
-    {
-     "titulo": "Gastronomía y las 42 horas",
-     "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TQ3ZUTVdQTkloc1N0YVo5QUh4RTlISWJVU3M0eFZWZ0l5WHFBS1c2X1Nwb3FELXNBV2pJX19EclF6WGZRV3JvSWJzU2RnXzhWaEZiREp1ek9QcmJ1b1Z1dEotNzUxV3J5NkNB?oc=5",
-     "fecha": "2026-04-08T17:22:26Z",
-     "medio": "Chef & Hotel"
+     "titulo": "Empleos personal no académico 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xQjYzS3RleUU0c3VLTUY2Rk9pUlFoWGxsX3lDblpSMk1MY2pDb3daYkdoVGxLMEdvXy1aRmtka25VMVBMYXFBNzNPVmRMTURMYnRyU0ZoN1dLNzZVQUJ4RHI3NThSREdaRDFFOFpTdF9vZnFuSlRTOXVwbW43akE?oc=5",
+     "fecha": "2026-06-04T01:04:49Z",
+     "medio": "Universidad de Chile"
     },
     {
      "titulo": "Chile: Enjoy Santiago logró un acuerdo con trabajadores tras ofrecer mejoras salariales y laborales",
@@ -282,10 +234,34 @@
      "medio": "Yogonet"
     },
     {
-     "titulo": "Aramark busca trabajadores con urgencia en distintas regiones de Chile: Revisa cómo postular",
-     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNWEzckhpNzNFaDExejhsdGhTUkdscTlQcXlGdmlsTVRJNzEyc0ttRzMwLVRHdG9pN21aZjBPV3BLb2hVQXRERTl5MS1qLXk3bDVKUjV6UnpxOVlicjUxT2VjeTZ0bFVrVmN3em82VDdDUGI2OERXcTdnUExxdFA0eHlLUGtXbkI3MEdsX3BldkZjZVJicnBvUXdzd3hLU24zWWJ6cmg4MERUbTVkQTlyelFNRVdiWUtVaGlQYnh5U3FkWWZXV2Nr?oc=5",
-     "fecha": "2026-03-11T07:00:00Z",
-     "medio": "El Rancahuaso"
+     "titulo": "¿Quieres trabajar en un centro de ski?",
+     "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGFYZzNYYmhUcVktb194eHYwaWo3Z2ZBTUIwa1hGM2hrcnhUSlFyZDktTXVVNnhwWnRidnRNOEgxMEVvNFR3dVZEWjEtQXpGQWg1MXR0dnRpTURwSElLZGdHNEtuRjlySHFFSGh1VGtBTE56eXpOTlNrVUFSNVhXRFJqYkZtdw?oc=5",
+     "fecha": "2022-05-08T07:00:00Z",
+     "medio": "Nevasport.com"
+    },
+    {
+     "titulo": "46% DE PÉRDIDAS DE EMPLEO Y CAÍDA EN LAS VENTAS SOBRE EL 50%, CON LOS CIERRES ANTICIPADOS DE LOS RESTAURANTES: EL DURO BALANCE DE LA INDUSTRIA GASTRONÓMICA A UN AÑO DE INICIADAS LAS RESTRICCIONES PAR",
+     "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUUwwODRTQmdtbkdDMm1UZGh6Y2Utc1BEQW9EQnJsaVQ0Wk5YNEVZZWNwVjJLWTdvZS0tYS12X0dkSDNmVHYyLVB5amlRQkg3Q2N0d1ZKZ2JXYVhVRnJGR0hkX0gyMTFweS1nR3VhOWFCYWZfVXBBSGJfd3J5ZE9yTjRXMG5OM3FfV1BYa0l1SXFIVVZlNkJUX0NDY182Q2FFbURVd1ZDTjJIV1dhVWhPQUg1dXl3Q0E2UDl1eFdFTExBS0FrYlJFcHg1NElnbU0tVjJkeXV3RThfLWVFWDBVUDBzNENacUVkMV83dmwyOUhUVk03dHZOSzBXbl9KVlJVYlQwV1Eydm92S0tzaTdkUURmaFdicVZMWmQ0?oc=5",
+     "fecha": "2021-03-18T07:00:00Z",
+     "medio": "Achiga | Asociación Chilena de Gastronomía"
+    },
+    {
+     "titulo": "Colegio Bradford suma siete demandas de trabajadores y una denuncia por maltrato laboral que se reabrirá",
+     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM0lUZUhycjFJM2Z6SFEwcG1uZGxtWkthbHI1RDdqcUZZVVJzOFRiUFJ3ODhJd0xFTERsTmhiWGtuV3ZPbk9kYUhxLTJnd3ZIa1ZHaExrUXJFUDNvT3dQb05PRlo4VVRGVTM4V18zdHNyTDZibXZQWXllN0t1MVhnUEdEUUR3MlZsZVNmdEdCZUVHMUpJV1QwRmE5TjgtZC1JM1lHZXhjYThqTnlaWW5XeEphdldKb3l1UzZPNUljdUo?oc=5",
+     "fecha": "2020-11-10T08:00:00Z",
+     "medio": "Interferencia |"
+    },
+    {
+     "titulo": "\"Canasta Solidaria FEN\": Estudiantes realizan campaña para apoyar a familias y trabajadores",
+     "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHozUWVqUGwwcjAzUERXVjRha1RzOFdIQk4xbnJtWFRBbTJqQ0RoSURJVXRUSC13VWw1c2dYWHFQa2h0NWdVckhLV21oYjUzOVd2cG1veXBHZ0VQZjJNdDBkSGVxdFU0MUs4Z0R4eFREbVBMQ3lpQVVkMzNRd3E4VTdyUEhjTlIxVGUzSQ?oc=5",
+     "fecha": "2020-07-22T07:00:00Z",
+     "medio": "Universidad de Chile"
+    },
+    {
+     "titulo": "Viandazo de trabajadores en Mina Centinela",
+     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDBSM055UkFFc3doVWZseXRubnhTMjRneU9RY3gxWDg5ZkVRby1QZk9fMTZyYUxkSFJCSVA2MjVGQUpPRW1nYUZZanZQemh4OEl2MDg2Vnlvd1RJV0JTU2V4SnVRem9XSV9kMVVIZm1MSThOdWlubmRlRmU2VjUtaNIBiAFBVV95cUxQV1d2TVRBYnlHNzU5RTY1WndGdldKbVo0Z2ZweC1EMFBLSWtYZzdJZHpYbnhqMV9YMTJ6dDAxbVNWT3ZQVnV3UFJrWHlVSHpFZXVQMHYtNWVBWjN6aXJNR1FiWElrMy04blM2MVpCTmk5NU5JLV90SjZSR0hGUDdpRXpLR1kwREZu?oc=5",
+     "fecha": "2019-10-20T07:00:00Z",
+     "medio": "La Izquierda Diario Chile"
     }
    ]
   },
