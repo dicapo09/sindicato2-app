@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T11:25:06Z",
+ "actualizado": "2026-11-21T13:39:49Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -73,9 +73,15 @@
     },
     {
      "titulo": "Santander, Mejor Banca Privada para clientes HNW en el mundo",
-     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOTN1RHRJNHJMdmJ6NkFZTnBUVGpHUmtlZkUtamlud00tTlRsMDJOTjdOM1Z0Uk5sT2oyc2ltWFNmTUdfVnFQTElQbDl5Nnc2OWNqRV8zZ1lZZHNqbzBmZG96WFgyOF9jSERjeTMwa2x1clVkMVJBMGVLdENXdVRrTzl6cGpfUGRrNjZMSDd6MVJablZXVTdaSzBQc2ZXVTR6cUQ2YXBfaWdNUGN6TEdVUDNHcGl5SllFRjJDZWlReS1KY25pX0RKVlJxRUFwQQ?oc=5",
+     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN0h4YUF4S0xIVDBMVm1zVGVOcEpGaWs5Nm1DUzdYVFdNOXNidzFPUVRlZFl3M2lYSnhGbnlITVNTXzhIVTJhR1JMMUNMQTRqd2dIclhtVUZyYmp2UVVpbEdFeTZGblBFM2hvcjR2M2k3eDlSSUVPem5SUUsxTlo5MzlfWXpUNDljT19pcmtyVTJmMU9WUTY1eUs0LUJSa0QtcnBqRDEwQUEyRHI4Rk5ORUZ0eE1lV19uTHBSSF9VUEoycTFweVZlZlB2REJGUQ?oc=5",
      "fecha": "2026-03-20T07:00:00Z",
-     "medio": "Banco Santander Chile"
+     "medio": "Banco Santander"
+    },
+    {
+     "titulo": "Bancos cerraron 27 sucursales en 2025 y disminuyeron en 738 personas el número de empleados",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVZZOVc0MUtqV3F0T0ZIMkx5MFZ3UUMxMVowX19WdGlZc2c4MDIyeGFHLVd4M29leTF3UHN6QUM4c1piSWRaTkQwdmxka0RaR0pZMkFUeEJpRXVPRnJVMHpTajl3NkRPZnJKd3Zab0xhNmR1aGNxcmhxSjJtZ3hEYWgyenlHd0Jtbi1PQ1NTbjUyQTRlUURNR1dzSkd4Skh1TTM0UDhDcTlVc3ZDZGRsaWVB?oc=5",
+     "fecha": "2026-02-16T08:00:00Z",
+     "medio": "Diario Financiero"
     },
     {
      "titulo": "Bci y Santander elevan sus utilidades en más de 20% en enero, Banco de Chile anota una caída de 4% y Scotiabank revierte pérdidas",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNmFLaXFtV00zT21XQTJsRkhzS2s2OUlvbmpUUC12cHQ3WU5YbENuSWppajRtV1l1TzZrMmwtNVBLdmIzZW84UnlxU3luWUFnN19TMzFhbHAxRncyNGJ5Z0RKRDRENks0TzZJdS1NankwZ254aDkwM2dxRGsxT1F5N1pNUWVYUkp0R3dSQ2dMS3UyRm9qYUxSWlhjNnVRbHBsaVBTNVpGUnFQZEJudnVuSUVlSWU5ei1EeXRwblc1WDA4Y3NUQkFBQ29aT3BWZjhjWkt2aTNiTmdFWHF2YXpTSFJ5LWFkZFpPVFIxa0hielFyUjBhMG9Ueg?oc=5",
      "fecha": "2025-08-01T07:00:00Z",
      "medio": "Banco Santander Chile"
-    },
-    {
-     "titulo": "Chile avanza hacia una banca más sostenible 90% de los bancos ya integra criterios ambientales y sociales",
-     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZEQtX1BhMHNRM1pFWG1YWFEtUWRRVURXMUFMNjBFSC1BWUZ6eHVvSndfU2lseHhPTE1BYWFTZE1wNnYwX05ITG4tcmZRWW85SDNjejZNdDY1ZTBUMDdiemszdWdDMmhJd2xidHg5SXJoV3h1VzI3dkRTWkd5T29mdEYyaDBvTTh2MVlsTE5uNG5jZC1PM081R3UzbXA5dkpQRXE4aEVmSW9BZXlKZDJqXzVwb0RNR3dnWHJId21ySlppc2ZINVhSalB4TnNXMHY1bGlUM3UtMFVvMldRWEh0RXln?oc=5",
-     "fecha": "2025-06-27T07:00:00Z",
-     "medio": "CAF -banco de desarrollo de América Latina"
     }
    ]
   },
@@ -372,15 +372,15 @@
      "medio": "Dirección del Trabajo"
     },
     {
-     "titulo": "Dirección del Trabajo difundió derechos laborales imperantes en Elecciones Primarias",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QQjE0RkZhSFh3aU1CVzM0SnV2TGJPc01nd1Q2ZGd0T25qYWZoUmlDRUNjRV9QclNSVFo2a044Ums5dGFmLU8xRHR2SjFwYVRSbUM2Nk9OdmgzYXRCNlRSV1A2VjFYUGM?oc=5",
-     "fecha": "2025-06-26T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
      "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
      "fecha": "2025-04-25T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
+     "fecha": "2025-01-15T17:57:43Z",
      "medio": "Dirección del Trabajo"
     }
    ]

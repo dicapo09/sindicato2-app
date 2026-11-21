@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-21T11:25:10Z",
+ "actualizado": "2026-11-21T13:39:55Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
+    {
+     "titulo": "Agricultura queda sin aprobación presupuestaria en el Senado pese a reposición de fondos para Indap y riego",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjdlLXYxa0VPWWVnZ2RGazdxNWZJUG8yUkpXdzZ2T2dzd1hPR3R1U2JRTEhDUy0wcFVJekxUUFBJeTRIV0tTWldtNjZlVVduZUR4OWhKOWlhdUozN21PTkVZczBLVS1zMEJZYzBUS2dKMW9nMndpZGpjNGE1RmNzeWNXT3VjTmxDR1pOVEZOdldwM2tBQzhkM3hraDdsbHl4R2RRWEFLMUx1OVhlSkcyY0UtOHEyam51Ylo1UEUtdDNVSkFRYnJuSjhR?oc=5",
+     "fecha": "2026-11-21T12:11:56Z",
+     "medio": "Publimicro"
+    },
     {
      "titulo": "Ministerio de Agricultura destaca fortaleza y empuje de agricultores de La Araucanía",
      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3JZSmhFVVN0SnZYLUtNRzJBV2ZjeFNTMUtWMk5xaThVNUYwNVVHTEVXRWg2Z1k3LWplRXdHRERCTWUzaXFVZVhFOEZ2UDRJN0N5b3lEdExlUmJjajF2d3dDNnN1TjdWYlg0YUNMYWFGZkNYU2ExN2szOE5TcVlhRnJqb0ZyU0tsYTJrbmNzQjcxWFJnY3Yxem84WmZfekRsakpjQ2tHc19kaDd4U1BtUDE5Q05La00?oc=5",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaEhtdXYzWmM1eEZIWlhWWXRpNGMwVXY1TmZqVWZQZmtpQ2Z1Nks1RU9ISW0yLVdFTUZXMmpHV0hLSFpVZ2ZVTzVJREpmSzFNbjU3YjhtZnZDVTRtUC1XWEZVVnpsbjAwM3BuaU5oY2NtOHNEemlZeDE2MlJuN21kMmMtbXFRQXhDNFAtRTZwb3BXMW4zTDlXQ2VkQ3dPd25xQ3Q2b29vcFFNZkxUUXFSTktTR3VLOUtGUC1jSWxLNEQtTXZmNTdUWg?oc=5",
      "fecha": "2026-11-20T13:40:16Z",
      "medio": "Radio Sago"
-    },
-    {
-     "titulo": "Plaguicidas y exportaciones: el desafío sanitario que preocupa al agro latinoamericano",
-     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVZWUlVPcDB1djFET3lvQUVHdHgtMTZxVjQ1UzMxWThPZUgwR1p6NWdlcFhJWDFHTncxYVRVNm1EQ1VSZWhsVzZTZDhWTWRnX3hGamV6b3JETUNXUlNuSU4yVVJfR1Z6X1lrNkx6QThxV2luS2NxaUd6WE5ZT1lBMlFnR1pXQ1JWdFRYRXh4MXhRMkhjWWZOM1gtbXhtdXN5dk9qS29zVGMta1loOGtVQWlvQUlBWFFiMngxaHNxeUpUbTlVeGhPeThuc1d1R2VQQUE?oc=5",
-     "fecha": "2026-11-20T13:20:02Z",
-     "medio": "AgroLatam"
     }
    ]
   },
@@ -101,6 +101,18 @@
    "clave": "araucania",
    "nombre": "Agro en La Araucanía",
    "items": [
+    {
+     "titulo": "Fiscalización en el centro de Temuco termina con ocho motocicletas retiradas de circulación",
+     "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRDRhbE55dno4bXp2eklFbGxjSE1qWXpQbDR2M3BaUWpzZC10TVBSdmQtUFB2b0Y0bXhzLWpqUFFRZ3VsWV9xb3RJTmVDbUJVSmp5djFuRElFai1lclZfTU5lQi1QWXBMeXpLeWprTS1velZJWXZMNTNUdnN6QUFDb25JYllyWjdT?oc=5",
+     "fecha": "2026-11-21T13:08:30Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "NASA Space Apps Challenge 2026 reunió talento en Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5td3hSakVjSWdtcmtvcDVvS1dpeS1kdjR2SmhwdWhEZGFtYXhrSkdudWJUdWN4Wlk0Z2pyWXJnNVNiTjlfSGFBdGdUSmZjS1ltYW5USU5pZF9RaVZnLWNmNERWU2JXMEhGdVZHb1NkMEFHZjYzaVhxVVJR?oc=5",
+     "fecha": "2026-11-21T12:37:12Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
     {
      "titulo": "Ministerio de Agricultura destaca fortaleza y empuje de agricultores de La Araucanía",
      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3JZSmhFVVN0SnZYLUtNRzJBV2ZjeFNTMUtWMk5xaThVNUYwNVVHTEVXRWg2Z1k3LWplRXdHRERCTWUzaXFVZVhFOEZ2UDRJN0N5b3lEdExlUmJjajF2d3dDNnN1TjdWYlg0YUNMYWFGZkNYU2ExN2szOE5TcVlhRnJqb0ZyU0tsYTJrbmNzQjcxWFJnY3Yxem84WmZfekRsakpjQ2tHc19kaDd4U1BtUDE5Q05La00?oc=5",
@@ -177,18 +189,6 @@
      "titulo": "GORE de La Araucanía destina casi $15 mil millones a programas de emprendimiento",
      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmM4a0RvQl9XWXFMY2NFQ3gwNHRBRmNlYkV3dFg5eEpESE1VQ21QeTl0UF85QkhXTnFxVENDeXFJRkdmOTZ0aDI0MHp4djFEbHNoWllZcjlQejdIT3BXbWtfUVBrb01YNHFQbkRNYzI1WWxnRjVJbGsyeE1BUWctSXJ3?oc=5",
      "fecha": "2026-11-20T19:37:47Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Fondo de Segegob financia proyecto de apoyo a familias TEA en Los Sauces",
-     "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0ZmX195cGVsYmJibGxRYVRrRk5pQnp4WW5IMjdZTWEwTHR5VWstNWhEOXpZdE8ySm5udjE2U2owU29La004WXJVYU5EdU9ObjJuaVlWREJoY2RLb2FBUkFoOGR5TnFhaEQ1NkpBN0dtb0dNbXllQVVmTHNTM1c0QnJR?oc=5",
-     "fecha": "2026-11-20T19:25:48Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Mercado Hortofrutícola Regional: aseguran recursos para avanzar en la compra del terreno durante 2027",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmhoRHJtdk1MRFJpZ1ZXS1hrSzREZ0NRWXNOb3lhVjJKX3B5NTNScDF0QWRMMnRjOHBXNjdzcUsxNDM5bTJFdjBZazBaR1o4OFNnUk4tU3F5N2pBTkZlS3NxU1I4djdJYVVIVjdXNWdxS2w2UFc3Uk1abzBBclB2ZzNLNkQ?oc=5",
-     "fecha": "2026-11-20T19:12:57Z",
      "medio": "Alerta Noticias Temuco.cl"
     }
    ]
@@ -306,12 +306,6 @@
      "medio": "Infocamp"
     },
     {
-     "titulo": "El Sindicato Agrícola de Constantí celebra la tradicional comida del socio con una amplia participación",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMXFyY0N2Nl8zbGFWMXNvUFljekhrR3BYY1RZM3k2eXJEcl9ERHVJel9TWnBUaF9vMVFHQzlGamNkYm1IQnBEbG9sc0wtZUZhMWZBQ3FtRUx6NHllMjNfRV9xVTA3WVV3WUxlOWxGeHFmbnFfbDdUYTdEWUdLSUZVVVYySlNKckFWN0MyeHRXRjFMVVh0X293Wi1TMkNYNV9PcHVyQnNNdjdsRHpraGhuNVI1c1JLN1VhUTNoc3ZRZXpnakZldEJiUm5hN000QVFkUFhLT1lxZlAySTFGUERaWEhCRGHSAeQBQVVfeXFMTzFxcmNDdjZfM2xhVjFzb1BZY3pIa0dwWGNUWTN5NnlyRHJfRER1SXpfU1pwVGhfbzFRR0M5RmpjZGJtSEJwRGxvbHNMLWVGYTFmQUNxbUVMejR5ZTIzX0VfcVUwN1lVd1lMZTlsRnhxZm5xX2w3VGE3RFlHS0lGVVVWMkpTSnJBVjdDMnh0V0YxTFVYdF9vd1otUzJDWDVfT3B1ckJzTXY3bER6a2hobjVSNXNSSzdVYVEzaHN2UWV6Z2pGZXRCYlJuYTdNNEFRZFBYS09ZcWZQMkkxRlBEWlhIQkRh?oc=5",
-     "fecha": "2026-11-08T08:00:00Z",
-     "medio": "La Ciutat"
-    },
-    {
      "titulo": "Quién fue Dolores Huerta, cofundadora del mayor sindicato agrícola de Estados Unidos y defensora de los derechos de jornaleros, mujeres e inmigrantes",
      "enlace": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPVHZ5cTllRHNSSUpoM1prOUdaNzBuUW02VjlTaHhZNEFiejZMeUluUVV2Wk1qSlktcUJDamtSZGhUSXBDZU9YWUJsUXV0d243ZFM0ZVRHalAyWGdsWlFMZDJ0ckRqS0M2WU9XYk5SajhsVXZhT05vb1VFb19fUmJpV285VU1DQjRnbThxMm1NMXprTGVvTGowLVNnWnFyMlB0SVA2Z2JWVFVJLW9zelR6a2Q3T0x5cjd6bWVUTnZXU0x5SG52SXdJN3J2WVpvWGVQSkxKTXVGWGFJV2hPNml5dkVYbDI1UFZfLXFpSjFtaVNoSkFqeUVPRTlOMTdiYUd4MFhLWUNWX3MzRjNoTzU1cUtFWDRIcURVblNKNFdwd3VJNkJx0gG_AkFVX3lxTE1LdV9iS08tVzJSM0txYWJFeWpDT2RuaWQ0N2lvV3ZHeGhXSGt0VElhRUJaRDNFZVVNQ1A5aXc1NlJoblROLXdzcS1zNkZ1WWVyOFpSZXAwVWwzM1IwNFJqWks4bHFQYmhOTTA2Z082YWkyOWp2YWdKUXZVdGVxMU1SLWd5cC10eXhHYTVoblE2TTJ6c015U3J1M252cy1lVUl5WjdlUklBanZlWDlNZHNhYnF4am1hQ3ZPSkV6LVNDdzcyQ1N1S2xUS1I1alVOLVl5QVB2Rms5V09KWFRmY0RweFU3clVCTVFvQkowUEVmQko0cWVlZXRvdmdlZENneTJZU3I4bkFfMnpteW9QdXpfaFhGVGlURW1xUXZWSDRpbzBOUnNwc3d4XzZQRmtPS3BNUVhtR1ZSMU50UDNENVE?oc=5",
      "fecha": "2026-10-29T07:00:00Z",
@@ -382,6 +376,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUERnNzZOOGtJdTlxMlNIUWh1M2pUQXNLSDlmY0xpZTQ2RFVjb0tZSWk0VUtvMlQtWngtWXBlbjVJYmYzOGFrUndRM0d1MW9oQ3V3aWxoZ0NIY3NEV3FYX050QnlzVTNfNEp5bUlINWJIVWlPTVVJbFlXUmZ3SUl3MGtUOGpBU2cwZXgwazh5VzBOYUx6NkgwWHJUNFl6SnNJZXozaWtJVDgtcy0yYzBaZ1duWnlMZ1RBeFMyN3JHZGhTTlBwVnc4U2NSWmV5bWExUGlWbzBFZ9IB6wFBVV95cUxOdGZKLVBPeFpxRlBTZ0tJbkZnMWhhTnRBSnA4UTBaN2szRVFLZlc1Rm1pNVhRb1ZzTTdBdUJnV05vUTRjVEdxSE9KQUtGOFBXd2YycVhkOThVd2ppMmxvR0x3Vzk3SXU4bmRiQXZQRjRUcTk5Q2ZSZzZ2TFh0clpGZHFhZkFVbmF5SFlfSjFhMmUxUFF1ZVBjY3RnQ2dUdHhCdHRkLXUxNlJYRmw5bU1zdF9NeExRd2hlZk90LURrQkYwMDMtb2FnaktUZENiNmRTLUFBQnRnV3k1UG0tZFpXa2l0VTVTVlJQOXBv?oc=5",
      "fecha": "2026-03-17T07:00:00Z",
      "medio": "EL PAÍS"
+    },
+    {
+     "titulo": "El principal sindicato agrícola francés lleva su protesta contra Mercosur ante la Eurocámara",
+     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalhWOVlERGE4akxWblhOa0E1d21zUmhvdDgyV2lnaHgwMExsc1FtRm05Qy1WTXRDZDQ3ZTZudjBWYUU2Rnc1QkZjQUhKT182YTJpR2ttTWZ5SmtBaGltN195MEExWDJQZGZqZld3ZW5LNzhFTGV6d01vQ1kxem9femZmQ1dkTmthUUtXTU9qNEZvRFVDcW9EOGd2Y0JSclZiRUtidDI4djdod9IBqgFBVV95cUxOczVLMmd5VzJWSWtmOU1iWTU5MVdVM2lSenowQ1FySHBsMWVOb05VTHV2YjN2ejFqN2hmN3JSTGN5N3NuUlN5ZVlubWdxMUpvX25vQzVvRnRVbHFGMk45TDNkQVF3alE1VjEyUHhWWTVhSDk0ZDFYcmtiVmVGRFhRQmFlZWhtbGEtaXZJMjV2NC1ManpueUotY3pIbXZScENlMjc2UzluTjJXZw?oc=5",
+     "fecha": "2026-01-20T08:00:00Z",
+     "medio": "El Periódico"
     }
    ]
   },
@@ -468,15 +468,15 @@
      "medio": "Dirección del Trabajo"
     },
     {
-     "titulo": "Dirección del Trabajo difundió derechos laborales imperantes en Elecciones Primarias",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QQjE0RkZhSFh3aU1CVzM0SnV2TGJPc01nd1Q2ZGd0T25qYWZoUmlDRUNjRV9QclNSVFo2a044Ums5dGFmLU8xRHR2SjFwYVRSbUM2Nk9OdmgzYXRCNlRSV1A2VjFYUGM?oc=5",
-     "fecha": "2025-06-26T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
      "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
      "fecha": "2025-04-25T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
+     "fecha": "2025-01-15T17:57:43Z",
      "medio": "Dirección del Trabajo"
     }
    ]

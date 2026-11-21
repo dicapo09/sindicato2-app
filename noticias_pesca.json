@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T11:24:58Z",
+ "actualizado": "2026-11-21T13:39:41Z",
  "fuentes": [
   {
    "clave": "subpesca",
@@ -48,6 +48,12 @@
      "medio": "Atacama Noticias"
     },
     {
+     "titulo": "Sernapesca y USACh avanzan en herramientas para la trazabilidad de la mitilicultura",
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHRtcDhNZGQ3WlhtNmhJZWdFcjFvMDZudVBkc2pvVlpjX3A3QklyM2RCNkNUZ1dOdklfMGxYRTZHd1lsNk5RY0lfN3UxcFVVeW53cVpJblNXbkxNZW1tOVRRYW01a1ZkTklPeE9wT3dXLV9lWlJFV1Z6dVNpZkE2WkVuSDBYSW0wSzNPRDUxS3psRGNSajMzMG1WYUhnTFpLM1pEYVlkc3dNcmZYQnVBbkNueTlZQQ?oc=5",
+     "fecha": "2026-11-19T09:48:50Z",
+     "medio": "Aqua.cl"
+    },
+    {
      "titulo": "Reportan varamiento de cetáceo en playa Obispito de Caldera: SERNAPESCA realiza monitoreo",
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDlNbjI1dmJpQVFkZU9TT2dOZHZ3M3kzRW9yTHFRSEFtMWlCUzdINWkyRDNJWUUwakNpaklJcXpZUU9LRjR1UGVMWDJ3U21iNWlEaHdXeU9nR3g0ZmxDSGtaYmN2LTVUMU54c0tienZCNlJKOTNfcDd2MzE3Q3ZSRDczT2hfN2s2YmlScGFPZHNtNW1hb3ZWZldSdURSZnFhbGZGWlE1dl9JbEpkSnNMVUZYUl9EZw?oc=5",
      "fecha": "2026-11-18T14:08:08Z",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRWgweHNfRE9zU3RhUkFMemE5YnBHOGd6Q2M5c1RieGdwbkxjRml3SnJBUkw2eGVQOGlfSG9oWDQwVWpITVI4RUpQYnltZ29IaUdnZkU3MFAtRFpaZkZ2MkViQTZsQW1KNU5vX1hGRGR4eGU5Z2hmcUQxaTVXZThmNThPMGVaSUJLRy02U0QxSkZBS2NGT1VXVGZRVzhfTFF5NTZxbzI3c2ZObGV2TlJGTkRKQW1xMTRZUGxFN0tLY1dCci1zZzI1ZHU4akJfWTQybFd6OHZucGN1bkptcHlNMkkwWGw3XzZpdmhhUUpmMkZJQVFvV25F?oc=5",
      "fecha": "2026-10-15T07:00:00Z",
      "medio": "Sernapesca"
-    },
-    {
-     "titulo": "Pablo Ortiz Lima asume como Director Nacional (S) de Sernapesca",
-     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcldNaVZiZ095RXZzLU9PTnF2YmRESU1NbmdnUTc3dWw1Wlo2NGU5dmxtUHpJN0FjUFpaVmljUVNtMFgwMmY1LXpBTS10b1k2c0l4elNRYnNSVzJDZi1rRk55S1ptUmtDRVc4V3pkMkcxWjBZOV9xSDNyZzZSUFA5RmpRWDBuMEw1MnpTNi1IdEptZXN0VUxIR1ltWlNHdw?oc=5",
-     "fecha": "2026-10-14T07:00:00Z",
-     "medio": "Sernapesca"
     }
    ]
   },
@@ -101,6 +101,12 @@
    "clave": "aqua",
    "nombre": "Aqua",
    "items": [
+    {
+     "titulo": "Organizaciones pesqueras del Biobío conforman bloque para enfrentar crisis del sector",
+     "enlace": "https://www.aqua.cl/organizaciones-pesqueras-del-biobio-conforman-bloque-para-enfrentar-crisis-del-sector/",
+     "fecha": "2026-11-21T13:00:00Z",
+     "medio": "Aqua"
+    },
     {
      "titulo": "CEO de Camanchaca destaca iniciativa de reconstrucción comunitaria en Punta de Parra",
      "enlace": "https://www.aqua.cl/ceo-de-camanchaca-destaca-iniciativa-de-reconstruccion-comunitaria-en-punta-de-parra/",
@@ -154,12 +160,6 @@
      "enlace": "https://www.aqua.cl/conferencia-internacional-organizada-monterey-bay-aquarium-abordara-el-uso-de-antimicrobianos/",
      "fecha": "2026-11-20T09:47:00Z",
      "medio": "Aqua"
-    },
-    {
-     "titulo": "Corte de Coyhaique confirma la prisión preventiva de cinco imputados por sustracción de salmones",
-     "enlace": "https://www.aqua.cl/corte-de-coyhaique-confirma-la-prision-preventiva-de-cinco-imputados-por-sustraccion-de-salmones/",
-     "fecha": "2026-11-20T09:46:00Z",
-     "medio": "Aqua"
     }
    ]
   },
@@ -210,9 +210,9 @@
      "medio": "Salmonexpert"
     },
     {
-     "titulo": "SMA formula cargos contra salmonicultora por sobreproducción en centro de Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdzFXYllzMHhPSHhZMGFuZHFrdG9kUmh1Z3JXSTNGcWtqSmdTbzlwVi1UWEhtOW5oMjEtM05scF9HM29TMFlFdnRSaXVFY1F2MFY2aEJTNEtYTUdtTWR0S1pCWThYVGpLZ2dhaWl0V0ZZeGtjS3FlVUxiZXNzU04wZkNOWXN5MHVuWXlSVUxYRHlabE1Ra3BtVU8tbXZXcmZlRzY4QVJOcjZDYU5peDZkSUtqSWpMT1hKclhKdlNtTWxtc1JONDNOMXBlQTREQnpwOUZqMw?oc=5",
-     "fecha": "2026-11-19T08:30:00Z",
+     "titulo": "Participó chilena: OMSA publica nueva guía para monitorear uso de antimicrobianos en acuicultura",
+     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU3JoaGllSHRRTzlpS0pkT3dhVG4xdFpLamdFQ1dBZXhzQjdRN0lDQW80TTNMYzU3ZzN5djFGblRaWEVDdGlEXzBLZXRPaEpxOGFWRkRsUUtWckRWS210WldTLWl1UFZGTUxHbTdhcEhSV3d1cHcxZnZWcFBFM2lrTGc2bDJLaWtwR1FPSXdmcDhfX2dzd2tiUnJfX3d2bFVvTm0wSE5FSUNCVFJnYjFiRG5laGEtZTdub3ZNY1FvNWszYUZnZnNxR0lhSE5uQ2lpVm80OVNOcl9ITm5CRjE0aTczVklHajAxRVM5bENiSm1rZWtnYWpDeQ?oc=5",
+     "fecha": "2026-11-19T08:10:00Z",
      "medio": "Salmonexpert"
     },
     {
@@ -484,6 +484,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0FaZUxrb0c3bUY1dmpfVVMycllYVDdkUFJRSGM4M09EcklNelUtTTFhd3lvd2V5VElwZW12eG5HdFp3aVVfbFBIRnFwTENWN2R6RmJnZFMxWnFtYV9ZZVlkdE9TODFZT0FaSjNxOXVHV2NPTUhJakptLVVtWHhVNVAwSGZGalg1MjlnbE9GRi1IMnJUY2N1Rm1vSEVBM1FVc19xUVVwdVQ?oc=5",
      "fecha": "2026-09-30T07:00:00Z",
      "medio": "Aqua.cl"
+    },
+    {
+     "titulo": "Biministro Mas aborda empleo, cuotas y jibia con sindicatos en planta de Blumar",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN2t4LVM4OG9Jb1BESkxzRlZWTkFwNjljdUw5dExKSE9hekpvYWxMVXRVNDlhenlZRnZ0dzF6X3RPUkRqTWxQbDZLelM4ek16MmpYNVZQb3ZKQ01QZFVzbkgwZFZjako0OVc3dm9MOFNYbjBGNFBDem1GR2JDZFNmX3ExazlVU01WeXZIQWVEZEVKVDBEdzVLTzFvbFBOMjJrZldkaVYtRWwzTkYyNTIzS21n?oc=5",
+     "fecha": "2026-09-29T20:57:24Z",
+     "medio": "Mundoacuicola"
     },
     {
      "titulo": "Conapach rechaza dichos sobre venta de pescado en la calle y defiende a pesca artesanal",
