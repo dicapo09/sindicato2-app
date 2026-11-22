@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T02:38:34Z",
+ "actualizado": "2026-11-22T10:17:23Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -30,22 +30,28 @@
      "medio": "El Divisadero"
     },
     {
+     "titulo": "Minera Pacífico del Sur comienza cierre de deposito de relaves en Alto Mañihuales",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQlBxLWZvZzlvdE56di0yc2k1WWJ2VEF4YS1kZWdRS0x1RWdHS1VfNE9uLUQ1ZjhfaHFMa0xKV3NoQXNvNlBfNWNxc3czMFRhTHU0WVJBU01oR09oRk5oWnBqdDVrZDZ5dmNfZjhDeUZCRmxOMlRzTy1MYWNnUFVuTzJEOXBuWjl4RDZoWTNqaHlhMXR6dTdhN21oZDZDYVRUWWozVjRrRGducHp2WW1SQkNoSU1yUUZ2SE1nT214SE9NNnRNWWxhV3FjdGU4akxmZlVXdE4zMW1pQWs?oc=5",
+     "fecha": "2025-10-24T07:00:00Z",
+     "medio": "Diario Regional Aysén"
+    },
+    {
      "titulo": "Minera Pacífico del Sur inicia plan de cierre del relave Confluencia en Alto Mañihuales",
      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXhTSGVLNVVyVFQyWmdNTHZWS0c2QVFGTVY3NWxHUmtXNExfY3h3endqUk9BcG5qSWl0MlJmT2NKNm1oNFA3cWtLemY2Ykh0ZURjRTAyRkxUWEt2by13eVRCdms2Y2hwLXpLOHpqQkpxNlV0S2w0MWhyQnVpRGU4a0ZWUUlCTkFXUWF6R2N0dDhWc2xfUVlZMVlIWGY3NmVzS1hSdWdiNHRTckd1OURNdmp2ZkZFV1dqaURJVFd3?oc=5",
      "fecha": "2025-10-23T07:00:00Z",
      "medio": "radio45sur.cl"
     },
     {
-     "titulo": "Contaminación en Alto Mañihuales: SMA anuncia formulación de cargos contra Minera Pacífico del Sur",
-     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVEdoOWdGbloxVXI5RWpSM2txZTNlZmpNeFU5MzI4bEIxQW5sRXBvSXExd1FGSndUZXJGOGMwXy00VHhpXzM0TEhFcmY5UkdLb1o5TjVWQVhOMjVXZW16RUFZNmJfNXRNR0JlbmJBeEd1WWFZMC1zaGNHWXhhYUU4aXc5dzlZRGs0UHhKZEI4N3ViTUY3bEoxUW1tTVgtbkhjMDZ5NGFVckZ4dE0wYzI4RW9QX2Y0aWx5ZVlldQ?oc=5",
-     "fecha": "2025-07-17T07:00:00Z",
-     "medio": "Fundación Terram"
-    },
-    {
      "titulo": "Informe deja en evidencia incumplimientos normativos y administrativos de minera en Aysén",
      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0phM0diTjdxVEFRQXBQZFBGZl9HZjE0TllDQWlrOURKWFhRYjBEdlBaTnJXa081azJzdm1YSy1IMVhhY3RBQ0lfZnJKVkFFUi1FNjM0LTVIekpja0xJeXd3d1UzaFUxcEs5LWE5cHdZOFpOX19pSEtScUhXa2xaSUhPd0Roa3h5Tmg0N2lTZUhaUm9TUUtRc3NyQ1FxNEdDY203NE80SUM4RzlLaWxsaF93?oc=5",
      "fecha": "2025-05-12T07:00:00Z",
      "medio": "Fundación Terram"
+    },
+    {
+     "titulo": "Aysén: SMA formula 4 cargos graves contra la empresa Sociedad Minera Pacífico del Sur SpA titular de la minera El Toqui",
+     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONkdGeXU4X0NiaEV0Vm1TbGRrRG1fOWx3TmtQeWkxcVlUQzB4RWtybnlUc1RKbVhHUmR3STc5V0E5Q3FGN0QtT2tOdUZjQkZxSGZyLVBNZ19jN3prU2IzOUR6c3N3NDY3N1EwX1JCbnE2bXQ4SkFjbXpBbE9xUUJWbTlKYnlLN3gySVp0aWRoY2xGTWwzVVQ3NDZ3TWlVRTJCa21HMjNMek9ZdXFaZ2Nyc3FFSkw3ZnNua3NTanVDRW14eENTdXNaVjYyT2hjcWhUd2ZrX3VxNUN5cWJkVlhTSnFtVzViZDBIbDJv?oc=5",
+     "fecha": "2023-12-15T08:00:00Z",
+     "medio": "Superintendencia Del Medio Ambiente"
     },
     {
      "titulo": "Seremi Minería Aysén coordinó convenio colaborativo entre minera Pacífico del Sur y liceo Mañihuales",
@@ -234,26 +240,14 @@
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "CMP incorpora 20 aprendices a operaciones mineras con formación de 12 meses",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWk02WlZKSERXM0dWZ3h4ODBadlVRTU8xYUg3ZnBQNEZjbmdNa09Xa0p6NjhsZTJUbGRMMmlDNlJpc0JxQkhWSlp0N2FzcHhxX29UamhMWDZoWVNQOWJ0bmVaYmpuZWYyUHhsRl9lZHdHWlFpdlVRWEtld0ViLWRLQ3cwZWZTRHJoSFVmX0JLbFZNeU9RdVA2Y2dYcnQ2UzllME9uTnFmWmh0OHJUdFJBdzhTb3Z3OG51X3c?oc=5",
-     "fecha": "2026-11-20T17:35:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
      "titulo": "Corte de Rancagua mantiene prisión preventiva por robo de cobre en El Teniente",
      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2trU2c5UkpuSW1zeG5QMC1zSXd5LUFIOXEtXzRaRk9UMlRiNER6NzNnR1lIM2dtaUdhQXRrVld6RzhDdUI4TzRCMm9EMWdiblU0andoYlZUVUdhbmdvWENRbGtqVXJoWi1pVlk5R2xraWd0cVdWVnBUZzEyemJaemYtbU1zM1hoV19xajV1Y19nemp6MnBZOWxCaVFHS2FyZ2EyNk9uWmgwME9GNzd3?oc=5",
      "fecha": "2026-11-20T17:16:00Z",
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "AVEVA apunta a integración de datos para potenciar productividad minera en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQXoxdEVpaDNJMklteEtha1BRaWp5WF9yQjFCTjU0QmNNX3lDVXhuQUpKdm1IRFJJQUM2NHBaNEZDUXBnOXFhS1dkcXg3RWtKZjdHRmhYVlRPa3d3QnUwWWpickJGWXhJay14c0xJOFpBc2JRWV85ZTBxMkoyWERxRnItTVZrUWpOU2hlMHNld0lNOU1rbFI5QVQyUTRJcWFobkNhSzNHU2Q?oc=5",
-     "fecha": "2026-11-20T17:06:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
      "titulo": "Cartera minera chilena alcanza $111.100 millones: litio impulsará crecimiento hasta 2035",
-     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzV4LWQ5cHdzSnEzY3dVeHJiM0lHbWNvQUZydUFmMG5vbW9rTVFvWjhQaHlWY1lzeU1CUnlPR0NZOEtnZWxvbWRqa3dpMEhkYl9LTnFMTURNN2NNcE5FSWJ1R0JqQUZxU2JHWGxSZHVLc2M3ZHc5OU14UC1SWk5lRnFkTXhzZVYyakc3VVh0bHRmRUVVdFRZaWwyRFQ3dXVsMF9EdjZlaUtDeHowZkE?oc=5",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUx3VmJlTDBTN0lxS3VKTGVsUnMwWU03cUhzZ0dzWEY1ZmdfMmEyLWVRM1kySVVRbEpJOUlQaDdyZ3pyRnZRdVlLcnJrbjZ1YmRZNU5jTUsxeVdGRlhFY2E3ZDFUOVlZT0lCbFF5b0dvS2U2bWVianJNN0RHOVNhUmt0QVlaYkJhazJaS3ZFbmZwMmhSODlQTUxTZTFFaU11ZnZ1a3FBVGJfbC1uakFZ?oc=5",
      "fecha": "2026-11-20T16:39:00Z",
      "medio": "Reporte Minero"
     },
@@ -261,6 +255,12 @@
      "titulo": "¿Sube o baja la luz en tu comuna en enero 2027? Revisa las nuevas tarifas y quiénes pagarán más",
      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSS1DX2lfNVJCMEM2X1Njdjk1VjlKalZNdzhRYVBKMDRUNTdabjFYeEtpT3hiQWtpNndhcHFfVDJLWDFnTkpiNldkTHpIWjI4SE02eXJQUXFkWTdpdzZkRWdJYWQyWWNaSzhvTVU0cDJlMWtpTEFQT1RaQ1otTExyanhyc2l0dzVTdTFSV0tKdHkwNHctTHVEUDBQQUp0S2I1Z2FDbkVTeWU4Q0doaEE?oc=5",
      "fecha": "2026-11-20T13:40:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "China acelera importaciones de cobre refinado en 2027 por escasez de concentrados",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd25TelpCSFVHbHNwekl5c1NnVHRBNmlPZ3FEZ0xLMzU0MWdiRlQxT3RFc2Zub2M0SW45dTRMLVpxYy1SWVpLNklwR0RRQ0J2aGtzWEhjUGZyUURRWHZOWmZHQjh5ZkVXbEVXcDU0ZkphSWFjNWh1NllDQ1VOUEZBVTdDVWFFOC11ODRCU1hIU29wcUVvajdiOGlkYmwtSjRtTzFNVXVyTHhNQWY3SExzMVptRnE?oc=5",
+     "fecha": "2026-11-20T13:36:00Z",
      "medio": "Reporte Minero"
     },
     {
@@ -306,9 +306,15 @@
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Collective descubre oro y plata en desmonte del proyecto Apollo en Colombia",
-     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVdCR2NNc0lxQ1FSZDVBT3BOVTZJZDJ2NUJVYXdfTkhQRHd5LXVZbWlEOW9UdEJJX18taHFjTEJjTzF3cWFjNVNVYXhaLUxXUTNZaUIxQmpHR0N3RTVZcFNrWlFISV9mcWJaa094ZVJpajRMam4waGMzekdUNDJxVzNDTUpfcEZuanU5WGpReTBuSm5raG5tWUZmc215SnUtRWFrVDN6ZWlIQQ?oc=5",
-     "fecha": "2026-11-20T00:15:00Z",
+     "titulo": "Especialistas chilenos presentan experiencias en seguridad de relaves en congresos internacionales",
+     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVmsySlJ5QjRlSFU1dS1LSlRob3pyZ0hDYTBXNUNYY0tCWGZjbnVkUlVEbllCdWVOb0JVZWZQdmRBZHQ1WmhLd1czMFJkM25QQWViU3o0MUlhMjhjaEZrOGpnRkRUOVVSU3dLcHNsb3RIQS1YanNXUTU5Y002MkNORWtEaGtZUDhYR2RhYXVfVFJ5Wm5aYWJuWXl0Ti1qbWZta0xoMmdaMGlCNF92a1dnakktN1Vvd3NYYWt3dw?oc=5",
+     "fecha": "2026-11-19T17:26:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "UCN mapea relaves mineros con tierras raras de valor estratégico global",
+     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlJBM3hOUEQwZFNwMHlidWxRQUVzMElXRGlPM0xMR25QekhadFVTNjEybnZKLWFsc2ZkWmJBWWJkYUkzWk9nVS1nZFRPaWhuemMxeDlESUFJd2ttVW41LTBWTGU2SV9QVHl2bUxKZXRMemxuS0RhNUxDYWtUcWdZbzhNN0d3Tjh1NlZFUEhoYk9sZ3poM2VUNG9uWjZaUE85Q1BEU1ktaFRQQ2J0?oc=5",
+     "fecha": "2026-11-19T17:18:00Z",
      "medio": "Reporte Minero"
     }
    ]
@@ -436,12 +442,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkEwRmtUVVNXR0Z2ZVlwU3NILTQtaGJ1X05rbjdZWS1Hb1JqNFlFSVg3eGhaOGV6NnRoOUhiNEUxUnFFRUNObDQ5WmRJT1U1Z25uOGxxVHk1T0FaODYtNlBKTUFKeWQ2bEpxLTNuZlpndm9ualZ5aG4zQkhCMEQxQ0NOM0JuMFlyTWtnNlJuVy1KVzI3bDluMmx3d1cwVkFob1dveA?oc=5",
      "fecha": "2025-10-03T07:00:00Z",
      "medio": "Diario Financiero"
-    },
-    {
-     "titulo": "Sindicato El Peñón irá a huelga si Minera Meridian no mejora su última oferta de negociación colectiva",
-     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjJScWNnejFxd1BCNXdJcjhtTkZfOEVEQmJFT21PSkVlMUdZM3RqSnFaX3J6aGJsdUUxZ2Z5SmxiVHNRMlpfaWxTalNOTU9wV2E3SENLaEh2ejl0NlVNS1ZzS25ZS3pBVUlOWnN2d3lMZ2llUFFsNlhBZkZkWE1QdGRhWEZBa0x6enhaSHpGdFh1N3NSeE5RcUg1WVphWDdFRlo2andZZmFFTUxmWXVab3ktMnBFd05wR1JSY0N3QzdseEHSAcsBQVVfeXFMUHgtOHlsRUlQRld4S1AzY2NXYXY5SFpzSFd6QVpzQ2lEaFZRbjF0S2dLdXVveG10TmVMcUN3aW5LZktTYzZVcF81SHpqVmhvUDZUWGVhVjVvblpOZHFvT0dXVzZNaGRaRXBQUGd4MEltd2JWU05OYVVNcERKZUUxTkd4ZHc2OXFxaEZOOWNDRFFJejRZNFJnWDlBRllsb1pNbkhWRlpldm4xQjdsUHl5QU1tYmlMZXJ0cWNZdDh1VHhJNGVBa1FCQkFrMVU?oc=5",
-     "fecha": "2024-08-06T07:00:00Z",
-     "medio": "La Izquierda Diario Chile"
     },
     {
      "titulo": "Minera Gaby acordó negociación colectiva anticipada",
