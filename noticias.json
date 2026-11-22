@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T18:01:46Z",
+ "actualizado": "2026-11-22T23:48:01Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -228,6 +228,18 @@
    "nombre": "Reporte Minero",
    "items": [
     {
+     "titulo": "MMG enfrenta mayor presión de la UE por operación de níquel en Brasil",
+     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2lUR3dEUjZFUWloNDdqQnJ3OFNzczFnSkgzTjBaQUlYblJ4eEFJZDdqRDFMaGR6YVU4eTdNZUV4ZnFJejFMcWM2UkhHRUE2d1d3eTlmallaZnBUc1I2VlNSU0NFdGVjaGJUUWIyUVdiSXJjdUpycU8yNjdUenVYelhveTY3UHFXSjdhRl82bFVvU1BtN1dCWDFJMFNpU09nbXFWS0VnektfSzQ?oc=5",
+     "fecha": "2026-11-20T18:16:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "CIPTEMIN e INACAP conectan estudiantes con innovación tecnológica en minería y litio",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDh0dVVTdnZRblhERjJHM3BYajNIeklKTmFYbFFTUUtsT3lEQVhLY1NSM0k2RGc0WmdBVTR3VHdWcFBIbnFJN0VyZ2pheEZINktlWlQ2Q0ZOcXRlQVV5cXowYmtCZGdEQVJrWmhMNlUwODF0NmVVZ1ZTb1ozRGdOV0dfSjkxZ1BITE5XMFRGb2gxMlpBQ2tSa28zVE9hRzZvUkpjUDZBdkJmNzV6N0NuR1o4cFA0ZTQ?oc=5",
+     "fecha": "2026-11-20T18:10:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
      "titulo": "GORE recibe 27 buses eléctricos en Antofagasta bajo programa de modernización del transporte",
      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3YxTk1UQW8tWU1rMWdnOVhhR2xhRVo3S1VTSHBjd1JObGlrNTRRWTNCMURPaWRvWXByN09hUENWT0RuYTQ3TTdxZDJOcWl2VHlDbVZsT0l3eXZSZGx5UzE1d1BDcHNZOHM0VVU2a0dqazN3MjNJeHk4OWtfMlNUbEkxQTNLLVpvN3ZWc3dVRUQzZkdxd1ZDV1hfbTJZTi02c281SlRPWFh4alE?oc=5",
      "fecha": "2026-11-20T17:38:00Z",
@@ -288,9 +300,9 @@
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "BHP reconoce innovación en seguridad, sostenibilidad e inclusión en premios HSEC 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHFHeTlPZWZBV2I5UXhya1dRdDZIVXNKYTlacmRnUzdFWkRMc2pLV0FseTFBRzFZbUpHdXlBU3F4YVN0SlM4dzNiWDRzdkY0WE1aZjExTjVzd0otSVVRTG96OGYwdWpjenlmazIwR3EzdEZsczFNS2ZHUk8xbTN0S1Ixcng0ZDdudjRhY2VzdjEtU2FNREN4WHpmT2Jja0M0bTRQNmlMbVMzVkI4ci04?oc=5",
-     "fecha": "2026-11-20T10:56:00Z",
+     "titulo": "SQM Group dispara ganancias 205% en Q3 impulsada por ventas de litio",
+     "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalZiTlBydUF2YzMtVDBPN0dkdElmekd1SDlDYlpTRTZpaHQ0V2E2cFROQnQyVzhrN0hvZUU2VHdlT1dfMW0yNlBHVkVxNUlVVWdZRFZYc1JJdUVJYl9EMUpjQV9XRFZ4bEVGcVh2ZXE4VHI5bmotekdMbGtUaUhxNFBxZzR0Y2JtcU5PZ0dxZWY3WlJDMV9rZnpScWw?oc=5",
+     "fecha": "2026-11-20T11:06:58Z",
      "medio": "Reporte Minero"
     },
     {
@@ -300,21 +312,9 @@
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Codelco reduce prima de cobre a China para 2027 en busca de recuperar ventas",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFJURkdVd0VIajBzbVVTODE5cnEwV2RRazY1bllxUXdSNFZmNFhEUG03TlZvVThralFGY0d1NllGNlFIOG5OZDNFNDRuVU1RSEZ2WGZhOVlvZ3BNeEI0SmZxNTNZVjZLaXYwbk4tZW51MnF2TndBRnhRUjVnOGVET3ZXc3FIR29BdGlHZmo4SHNtdVNQOFFxamRjQzR1NFlUUE9qTEo4V1R4Qklt?oc=5",
-     "fecha": "2026-11-20T00:23:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
      "titulo": "Especialistas chilenos presentan experiencias en seguridad de relaves en congresos internacionales",
      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVmsySlJ5QjRlSFU1dS1LSlRob3pyZ0hDYTBXNUNYY0tCWGZjbnVkUlVEbllCdWVOb0JVZWZQdmRBZHQ1WmhLd1czMFJkM25QQWViU3o0MUlhMjhjaEZrOGpnRkRUOVVSU3dLcHNsb3RIQS1YanNXUTU5Y002MkNORWtEaGtZUDhYR2RhYXVfVFJ5Wm5aYWJuWXl0Ti1qbWZta0xoMmdaMGlCNF92a1dnakktN1Vvd3NYYWt3dw?oc=5",
      "fecha": "2026-11-19T17:26:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "UCN mapea relaves mineros con tierras raras de valor estratégico global",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlJBM3hOUEQwZFNwMHlidWxRQUVzMElXRGlPM0xMR25QekhadFVTNjEybnZKLWFsc2ZkWmJBWWJkYUkzWk9nVS1nZFRPaWhuemMxeDlESUFJd2ttVW41LTBWTGU2SV9QVHl2bUxKZXRMemxuS0RhNUxDYWtUcWdZbzhNN0d3Tjh1NlZFUEhoYk9sZ3poM2VUNG9uWjZaUE85Q1BEU1ktaFRQQ2J0?oc=5",
-     "fecha": "2026-11-19T17:18:00Z",
      "medio": "Reporte Minero"
     }
    ]
@@ -328,6 +328,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGJKUEhsVkZ2N0VzTzQzai12aWNrZ3ZPaHJRVjlEalJJNGowZGdRVnIzeml2bDR3LU9rSmo2aWU4WnNiVGduTG9kOWFRUVJGTFZZODh3cUdqbzNsNTJLaDVQbTBkLWk5a2FGMmJGTDRaUTV1QzAxTHJwY2RBR2xkUXhiSG1jRmd0MHo5SDdzSl9VYTNoVnNsUkZvUlNGbFNNVmdaWkU5elBGZ2RlMUpQRHNTdWdRcjRabzNJSzRMem4tZllYZmItVzE2WUg?oc=5",
      "fecha": "2026-11-21T00:05:01Z",
      "medio": "Diario Regional Aysén"
+    },
+    {
+     "titulo": "Director nacional de Sernageomin visita Aysén para reforzar fiscalización y seguridad minera",
+     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd29yNTdpUXFtandkTTl5LURGLXVUOENYLTBDZnRNeGEySS1NeGZFeXRRdjk4V25lRV9TOWk2dFNuVmV0YldPQXhrYjZ2Ql84X1NXRE9Ic0RLR3ZyV3hLMGpBbVYxclB0OXI3UVFybUx6bFMxSDcwQnhNaFc4Q1RCUHB6ZmFiN0RTRVdRdG9fdDRETUxPVFp3NTQ5cngwVUk3ZktLUmVjLTFpajNVM2xKTzlUVnFPNjBSY1JGcERtbE04bmI2?oc=5",
+     "fecha": "2026-11-11T08:00:00Z",
+     "medio": "Canal Sur Patagonia"
     },
     {
      "titulo": "Aysén abre ronda de seguridad minera con El Toqui y apunta a sumar otras faenas",
@@ -396,22 +402,16 @@
      "medio": "Universidad de Chile"
     },
     {
-     "titulo": "Superintendencia formuló cargos graves a minera de Aysén por incumplimientos ambientales",
-     "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRl8wcVJkODNsNFRTeUJES0tqWDJqNHYtRk81UFRGdENma2dFVjM3Mml6RUdVOFVkMElyektvXzAtRFVNZkI5RzY3WVM1Qlh5TmZYZ2NVOUI4R1AzLVUwUnBiOFFyV2NaVi0wTDhGM0pmUmtiOUJWbXlkREQtbnNGMHB3WGs5eTlDcy1URUoxQWRyVU00TC14VU1KbUVGcXdqeGlwdnVCNXhkSmgtWjRCSTI0ck51SDN2cjZtaFJ6aXlfbWt3aDlfVlFtZFdHdS1XRWlrYU1aaVI1QzNreXZGMlVsLWdyMWfSAYwBQVVfeXFMTWI4dkE3QUZXNnp2ZHVsU2MyYlFnRGZab3o3a0VraV9FNTNUdTN5dmhOeHZHc1p0V0xQa25WUFN4Q2t3YW9yekNqQmNVSDRua2JPQ244RXBCd1VHdkVkcW5YNUlPT0FNYU1PWkRsTkhGVjg3c25LWW5LZGFwWmpKcG5qUE5tVXplZGRUTEM?oc=5",
-     "fecha": "2025-08-13T07:00:00Z",
-     "medio": "Cooperativa"
-    },
-    {
      "titulo": "Cuarenta años de secuelas tóxicas: la herencia minera que persiste en Alto Mañihuales",
      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb080VGtIQnlZS1dROVRhSXhjSFU4djZldzF5aHlMaW54bi11WmNtSW1lMDJDbHRGbUZZQ0o3b2VqdFh4VGRLN2x3QWFaVnVBaXA4M2ZiM1ltVnVfNEp5UjFNWVpldjZ4Wkhwb1RQRkRETGcwbzI4SlRkemJPb1FEUGZXM0Q3SUxQVjRmMjJIc3hPbHhOTXlIbzhGYjdHLXlYdV9Jb3o5RHpPUFQwVmVzYndVTkIzMzQ?oc=5",
      "fecha": "2025-08-12T07:00:00Z",
      "medio": "FIMA ONG"
     },
     {
-     "titulo": "Municipios de Aysén recibirán tercera cuota del Royalty Minero en julio",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcndoeGRCczZJQkRmUkNaZ1RFaV9DbFJWYWlNYjZJbTBFcGtLRWhpTUdwcTJFSVl1ZXZXeTRxLW83QWpzOUxRcHZyZmZoRE0wS1ZsNkhsOFVuUFNUYU8xQlhVQTZBVDBycGZJNk1MRkczZjdkNVFWTi1HV05kNWFQbDRTR3VKYUJEN05LM2lfZnJxRDdHazN2ZHV3TWZ3MUxodmlDR2tLakw?oc=5",
-     "fecha": "2025-06-30T07:00:00Z",
-     "medio": "radio45sur.cl"
+     "titulo": "Relave minero colapsado contamina el agua de familias rurales en Aysén: Llevan una década esperando medidas",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb212T3lDbU9JTFd4eW16THQ1U2hpX0pjX1MyaGt0ajJzR1UtZzF3Q3lNSHo5cTVyTTN4S3JyNXRPUlM2LWt1MjRaeFZNWmFMdmV4UlNMM2luRzFzUXViXzlpNDF6Vm1oblVkNXRrY0pkRWl6TXBobzJEdUFhVTBGTXVZdzlCZmNtRzNpUHJTdDIta0g2THFFZHJIeTlzNktZeWw1ZmdtVy1TcDJ2Z1lNNFJqWVk3MzRhTVU2bUY4a2lIS3dvRUtOaWlGYTNKd0NGek9xSGVDMHFBaFHSAeABQVVfeXFMUDA2cHVyZGpvSG5hTWhnR3hVSFhvMmNTeXgwdXNzek1SWklxbXJZcXc5d295dWNJWDlwZF9NYzUyaVJSQ3ptaDB0VVpEbThlMmxpNkRQVlNFaFhiY2NwTkcwTHE1TjlyNXhpZ0c5d2FLWlNmamFJc0FCdW5uQUNia2ZMblVrY1llNXVrMXlGOWs4dm10TVJjcFpsMWlfX1UwX0lTdlgyN2pKc3R3UlJiTUp6YjBFd0tnTFVjWVFHUWEtTk50OUdXQkRtV0Q2OUdwSy1EVC1CV2x0aWRydnk3Nko?oc=5",
+     "fecha": "2025-05-21T07:00:00Z",
+     "medio": "El Desconcierto"
     }
    ]
   },

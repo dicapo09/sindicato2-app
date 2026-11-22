@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-22T18:01:55Z",
+ "actualizado": "2026-11-22T23:48:08Z",
  "fuentes": [
   {
    "clave": "retail",
    "nombre": "Retail en Chile",
    "items": [
     {
-     "titulo": "Walmart Chile lanza ferias de bienestar para personas mayores",
+     "titulo": "Walmart Chile inicia en Maipú ciclo de tres ferias de bienestar para personas mayores",
      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVoyYVM3NmswLVFxSzFnVWp1RFVabHdjTHJOcnFfaU5MMDV5d0NHcG9YX0czX19BTFVPSE5OZFZqOWhpeFRQQXhyZmM2MWJFeE9JeHptbG9SN0d6aHZ6cE1fQ0xMY09DaUlEbFVVR3JDM3pZVUxnd2diM2xnRG1RNmRUOE5CWV9ycWpnc1pTVTB6b3hzNVUtSkE3Z01aRmZUVGk0YjhYZlFFUktiVmNMQmJ2WS1mV3lUdUV1Yk5ZcTQ?oc=5",
      "fecha": "2026-11-22T15:09:43Z",
      "medio": "Supermercado Al Día"
@@ -24,28 +24,10 @@
      "medio": "Walmart Chile"
     },
     {
-     "titulo": "Cencosud abre nuevo supermercado Jumbo en Chile: Cuenta con un robot en sus pasillos",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmpBUjNxblloMU1KZnJPY0JLeEpGS044dklGdHRKSDZuODYxbjNKVDRYUW52YkRZcGMwbWxIYy15V3BrUlNOb3ZmLXBJNHJLUXFiZkN6UUdKeE1hcVViSG9KeHRkYS0tQVBVMHBWbE5RUUZGaEtZMzY0RnZRSEE4WTNrczl0NEpoQy1aVUtzQjFLVWpVSUdOWGlwRUlnRTc4NkthaF9CYmJzUEFGWDdlYnVn?oc=5",
-     "fecha": "2026-11-20T20:57:20Z",
-     "medio": "En Cancha"
-    },
-    {
      "titulo": "Culmina un capítulo en Cencosud: dueño de Jumbo y Metro inicia nueva etapa con la transformación de uno de sus supermercados",
      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZjQ2Q1ctWXphRHVYUXlFV0VQVFdOUHJDRngzcjFWVGd5aldUeXpnVV9lQmFiSkU1LUFDb1ZIUjhKWDV2RTQ5bTRwaG1JR1NxY0x5anRXbGQtd2dvc2RITFNtaWV5dC1zWFg0Q3lFSDdGYW5fRzQ2bjQ1aUs3bFl5S2VFajNHclRRNzdfaThrc1NUeUREU2Z4d1VVcGtsWWU0OEEzNHh1VDNRTk42clRQMDUwN205UGRKRmVCUlZETmJ5MWZYT0V2VEV1Sm01bERZaXp2S3pfU0YzWG1ZR2hHQ0QzMkNYdVJRNUZWcU5JcmNSV2s1YjRLYjlOOVBwRzFTM1hsSlZn?oc=5",
      "fecha": "2026-11-20T20:47:26Z",
      "medio": "RED+ Noticias"
-    },
-    {
-     "titulo": "Cencosud presenta un robot autónomo para orientar a los compradores en sus tiendas: ¿cómo funciona?",
-     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeFd2VjUwekVRb2dLcUpsUS0tajAzb1VTQjREeFFhMUpkY3RqaWc3b3ROVzBtbVNQVl9KQWo3MnR6NEF3TWhrdTJOMkRFajJ4TUZwcXplMmFiZVJnbm1JdVVIbWZjS2pjSkhmZTBLTjRvYk0wRUNKX1RmUm5fa3dWcmJxc2Q2TXY3ZlBxMzRvNGcyTVB6NmgyTWFvSWlCNjJMaVBkQWhxUmVrTDBhbnlZV280VWZHSG10cGtCNUwxY1pnbFU?oc=5",
-     "fecha": "2026-11-20T15:34:06Z",
-     "medio": "Perú Retail"
-    },
-    {
-     "titulo": "Cencosud abre nueva sucursal de Jumbo en Chile: Un robot recorre los pasillos para ayudar a los clientes",
-     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMEU0N0FQVk9aemlGR05iMWtyeDN2SUIyWDJ0a2drang3a1VvV1lzM2NHLTFKS0ZyTHBKQjFKWnpoR3pSeEJoOWNRYnpMYWRPdmtBblh3cVh4ZVllREoxZ3BBdzdkdjdtakVEZ0pzYUhuckxFQWcyOW03dWVkYnBJbFFNTnBNdlhSSVpWNU1JNU1yZUpXLUUyWTEyaDc4bWxCaW1MX1ctQkVNblg5c2FnadIBtgFBVV95cUxOLVlaR2x2bGxzWnIyVkZvZXUxVWgxNU11UGJNWEZVRE55TU0zM3oyS0pFN2FCcmdxMFJjYTh6OWlDNnZ0cVNFRWdWUXBfVFZlSGVOR1llMmJQQjJZQlU1QU03cElSZjRHb05NY0c0NmVrS3RTWldNaU5PTnBHT0p1NS1kY3R5UDVheVFTd3ZHQTN6YVZrV3M4ME80Y2k5THo5UDl2WU9rS2VuVFdMZDN4WXVEOXRnUQ?oc=5",
-     "fecha": "2026-11-20T11:02:00Z",
-     "medio": "Meganoticias"
     },
     {
      "titulo": "Cencosud, dueño de Jumbo y Metro, sacude la competencia con nuevo supermercado de bajo costo al estilo de Tiendas D1",
@@ -64,12 +46,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJvbXdzVlVma3BEY0VpZVBZejl4VTNOdFMzSS1fR0VZdW45SlF6VWxNZEJHSmh3cmU2bllrVU1fdlFKdTVKSVBjTTJmbVU3dy1BWWJVbENHWTJUT0FWektGN0EzNHBWR3RFQXJlY2ppbzRKUGlwQ0lpV25GaGlUdlRnNWNsZkR6RzJXUk13djlvWUg1R1Uya2c0OWtsVmY2RTlvMjIxWTFXZWVsOFVqRmx3dUE?oc=5",
      "fecha": "2026-11-16T13:59:06Z",
      "medio": "Walmart Chile"
-    },
-    {
-     "titulo": "¿Llega a Chile? Walmart solicitó registrar Walmart+ en el país",
-     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnRPOHB1Y1c0LTlnYnVwQ3N2TnY5MXpkX0tCbFRtajkzYi13Z0pYUGdiU0hrT1k3aFFpXzJJck9ET0RiZGVXcVVjUHFuSTkxRURoQnp5WXhPZ1RqZ09MbERiZHlKYnQ5RkdxNzZ3SWlUaTZWVlJtU3ZzOUFpbW9rTXlUODMteW1hWHdlQmVkQmg?oc=5",
-     "fecha": "2026-11-14T08:00:00Z",
-     "medio": "Chócale"
     },
     {
      "titulo": "Cencosud avanza en innovación en retail: Jumbo lanza el primer asistente de compras con IA de un supermercado en Chile – PAUTA ADPRENSA",
@@ -94,6 +70,30 @@
      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzNsYTZkQTlGTkhHZDZTaXJKQWpXVWIxZmdBbG15TFNqR2N1cnM5ZTRTa1JuSXBOcmUzZ2dpekFFQnZYRDRHdHBzTlBZdnNkbTRnLWc2eTJnRWhUTFNqVVZqVkhfSkw4Mzlrdkx1V0FSWHh6dm9VTUlDaVBhXzVXRE43WmZkc1NfcVpZd09PZ3FjbXd6UGE2aEE3THY?oc=5",
      "fecha": "2026-10-07T07:00:00Z",
      "medio": "El Ecosistema Startup"
+    },
+    {
+     "titulo": "Falabella Retail recurre a ingeniero con dos décadas de experiencia en la empresa para que asuma como CEO en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDFJUDhjNVFmREs0ZzdiaDFWaDRHUlhIcWo4MlZaZ3lwUUVBQTlycDZJT0dMNEJ3N1kzeU9rbmw5c3hjSWhrRDFBMm5tWGNDYWt5ZTlkNDBlMjhfZFFzOEV2dXJSZ1ItVHNOT1k1TzJsaFQ0UTVJc2hwRi1rVUxJNVQ5VUQxdzVUV3lvbF8yV1k0ZGFFcFA2YVA0VS1hOFRKS0RZVzVCeENydms?oc=5",
+     "fecha": "2026-10-06T07:00:00Z",
+     "medio": "Diario Financiero"
+    },
+    {
+     "titulo": "Una Cumbre de Proveedores para el retail del futuro",
+     "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGR4cllsS2I1eHZKTmY2cDV5bXZLR1o5TmM0Sm1SeHQwUTIwZDdCODRXUDhCTVB1bzBseWZDYkJNelhsaHpDaDNxUEE4VHB5ZzJlZGoyZEpLVWFvWDR0Z3Eta3FTdEpxSVN4cXNKVWxBQnNzek13N1h0bXJpRG01X3YwNXJEelk?oc=5",
+     "fecha": "2026-09-30T07:00:00Z",
+     "medio": "www.walmartchile.cl"
+    },
+    {
+     "titulo": "Annie Walker: “Amo el corazón del retail: encontrar buenos productos y hacerlos grandes”",
+     "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVpnclRMZzlueDBGc0JlVVE5T2JoNGw1d2ZQdVBkWF81X25tcW00eGtJRUh5dWJvMjBPWWhQVFU3cHhZRmFMeXlRT01Wd2ZVWnU3TDh1VGM4QUlrSm94S0VqMDR6ZGFPVWtxSHJ1REM0bUl2cEhsSXdlYnZjQUdxZDJCWHRqLTRtRmNhTi1qcmhRSTFIdG5EcmJlZ085V2Z4cUNnbkNYNVV1TV9tRTdpcW9pYw?oc=5",
+     "fecha": "2026-09-30T07:00:00Z",
+     "medio": "www.walmartchile.cl"
+    },
+    {
+     "titulo": "Tomás Platovsky: El nuevo gerente de Falabella Retail",
+     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZkE5V0xWOGRMd2cxX3BIeHRya2t5V3k2Z2lMc2g5U1owaV9QV09lYU1fcXkxVkdIR3dOVWtLTTZCQlU3a1VvbFhDOTVxamdoQm5sTEFYWVdHbHd3SVlPRUlaQV9paXRJMmwwamRvdjhUcnpXRmJ2ZXl0RFhycGI0VVROSDY4ZUhaRk9iMFNkZll3aFFfODk2UnAyWDhkUWVCRkxXem12VXF6cTN5Nmljd2hXdnF0S0Z1WjlqVVpHb2lmU2dnVTlCTmhmMVhjVk9jM01UVXBrUG16ZlVySUR3?oc=5",
+     "fecha": "2026-09-01T07:00:00Z",
+     "medio": "Ex-ante"
     }
    ]
   },
@@ -106,12 +106,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamgyMzc2M1lja29nbmRGaVRNUWRMTTNpanQ1SlIyVXRsem1MRk53NmZQTnA1cGhPT2VYWmMzSlJ2cm5LMzNGblhiTW9pbzdmVkVKZzNyM1EzcEhEMlEtVzNjcDFOYl9jSFNKTVdqU1U2b1I2TC1LdDdpSXJFOF9XQ2xMdWt3T2I0RlJ3azRVNFBCLUtZenhkWmowYzVOTlRmUVdGZlcxd2lrM3R2TWdweEFUZlpwR0VwNlFoTzUxUk42ZzJ1RkUyUA?oc=5",
      "fecha": "2026-11-21T10:56:10Z",
      "medio": "La Nueva Crónica"
-    },
-    {
-     "titulo": "Pese a presiones de Trump, Ford mantendrá operaciones en Hermosillo",
-     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmJCYUpUeXJHLXJtNGVmTUtMeHVMaDJJS0lFRjVlWWE0UnJLelhEb2xTTTNiNmY5VDd0c25zdUxqRGx3M1FmZ3JraGh3aDJxWW5GazAycjNZZk01T3lmYXpzQ0Z4YU1ldENPcUR5NVFTVUFMV1NWV1NwU3FjVzJ3TDRnNE1HQ0dES0JLcjZQQmxucVRkMDBvaV80NWRFR3BqZ2xxdmZjVG5oSWfSAbABQVVfeXFMTmJJSTVfdFBnZWtlakx3VV9DUUlnOFk5dW9nVmxqSWlnYnluc2lCNmgwUl9tTUZ2RFc0aE5QaHE1c1lGdVpkNThodW9kcm9YTk55SVBCTGp5SXlOcC1DQ2FtOHJ2MnVhUExWT0FsS2Z3TXQ0bmtNc05vOWstc2dKOHBJOUhPRnkxdFNjY2xITUFBNXdGdms0LWFDb2Nhem5TZU1fTmw1czdZZENaX1RLaGg?oc=5",
-     "fecha": "2026-11-19T19:31:00Z",
-     "medio": "Uniradio Informa"
     },
     {
      "titulo": "MLB: Líder del Sindicato explota contra Rob Manfred por \"falta de seriedad\" en plena amenaza de lockout",
@@ -190,6 +184,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2hjMXIzaXdTSlFnSThuamEtM3lsRkFKM21BV3lmbmlvSEFjaTdsUzFzeFFEMmx0Q3J1c3A3SGtKNlg5UWVDNFNkWHNOekxwQ0pvVzFYa0JZc3RFUjRRYUVXcUZCQnVzeHdVQ1lHZTRKMFpBWjdJd2JjNzNSZzREOWVDM3VpOXpKbGlaYWxSYjQxYndZUVZ3clhDelVfSWlxTW9DZHR0aWswYkpSNE1YVmRIQ0hXb0pGaVY0?oc=5",
      "fecha": "2024-07-13T07:00:00Z",
      "medio": "Interferencia |"
+    },
+    {
+     "titulo": "Walmart logró acuerdo con un sindicato, pero siguen en huelga casi 10 mil trabajadores",
+     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUmhFT3R6cFhXdVIyOHB0bGktcnFtWmtuZ0h5cHNXZlFiVUw3T19vY1BYbl9ja1ZPUi1HbkMtN18tTUZLdFp6dzY4cmN3dGFSZDNLNEZmU1NJRExKVlBGSVVQYzk5M2xLWGhXckFOdE0yVGF0V292NmRyQkRpX25nQmUwdHNaZDBwclpVTFJuSi02Z2JJM0dIakx6V0dGcXctbUp6emh5cUozTzBWQXhMWEhhSmZ3c0FSMW8wSDg1QTBlTGhYV3B4WGFBWVBGVVIxbjF5MXJtYldueFVqeGNqRDNRYV9RWlVmWUU2Tm4wYzhBUXpVR0pHQtIBjAFBVV95cUxQTWdad3lLeFBwN210UXBKb196SGJoRTRqSEFZT3RNZ1VCQ0NnMF9icTNFSVNPaDFGZGpGRzMwQzZ0X3BsckRlcThwY3l5djcyS0ZiTi1wSGFHbVZaMlg2SnZUd1FmQkh5VEg5ZlpicHhmODQtX0FYMk9UeWNIUFktTVlvQmtqZHZKSEVVWg?oc=5",
+     "fecha": "2024-07-12T07:00:00Z",
+     "medio": "Cooperativa"
     }
    ]
   },
@@ -300,12 +300,6 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Cámara de Comercio y Municipalidad de Temuco firman convenio de apoyo en seguridad",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkpiZE9WMXJqdkFRcTBRNHMtOV80Q0lVWWRIbVVUZTBNMTQwNklDblhsejZlelhxNWl3SEozX0h6Qm54b29mQkF1aUdYZ2xDU0w4THJObU9FdHhRRzljeFpBbzM3ZHhIS1BOOFhLWkp5STl6ZklXTUVQN3lrcEdvUWNDNWQ?oc=5",
-     "fecha": "2026-11-11T15:33:20Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
      "titulo": "Temuco lanza plataforma para denunciar comercio irregular de forma anónima",
      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTJDSkdLMU9rNDRQNTVHVmN2TS1mbUtHRnlyNGpCcDJ4MmNWaVVxMWJaQVNOYXh1Tzh1clNzSmxJZldLTmZIalFqNU1GR2hoQmJJeVNNLVVoNndBNUdhTFFJTXhvc25Ec1I2aHdOd29NNW5xY0Y1TWtVTmd6aGpOajZEOUJtU19SV29qVTVLaU5famRlT0xoYkZZRdIBoAFBVV95cUxQel9ZSFZiN0hjQ2dBQWhHcFdPN1RiV2lSNUZDS2RkRmZSYkE4S2lld1NMSDFmdDBtUHZ0TkRTdmxlSkNTRkFTSlMxYTFGVWp1eHAtX2ZhaEJ1aU0wdEdZSnBnUzhjQmhxUzdVLWhWLVFMaEktNmdjRTFqQ1BOT1RNNUt6ZTdtT2tiNTNrOGRpREd1M0czbWhnT04zUzBUc1FW?oc=5",
      "fecha": "2026-11-10T02:52:37Z",
@@ -314,7 +308,7 @@
     {
      "titulo": "En Temuco lanzan plataforma para denunciar a comercio irregular",
      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORHZ3eV85QkRqbXQyam5XcVZuaU5CNjIxV21QblpMNUYzS1Q3N3l2UFR4OVN4OXBnMnEtZEc0TnFkTkgxTXRHMDRRXzk5M3RyQ1JMWkZvMVRQN3BYemsyc0hpVVZGa1lZWm9wYkhfQjNfTkc0R2hoZlVWXzFiNDJFbVhLZThSeDF6VjJWR3B5OTAtUmg5ckxlaXc5TFpQYlVx?oc=5",
-     "fecha": "2026-11-09T08:00:00Z",
+     "fecha": "2026-11-09T03:50:21Z",
      "medio": "TemucoDiario.cl"
     },
     {
@@ -364,6 +358,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWF3Wm16Z3hIX1Jsb09wLUtZTks0RXZQSHJzMWdTVWtKT2RaZlJaenllWURObHN1RnJYZEhVMlMzWnpsdUtXYzFtbk1LQjhiaTlod2pJMzNBYnR4dDRvZnpwbHlBZmJWREJzUGYxZG1WMjM2c2ZlVU1uQ2hYTnZFbTlzNkd5UDlIbHRRTnFPOVJfUjhfaG9vUEhNdERTT1J4SkhBblRXcHFxeTJzRGpKTEhsYk1Kd3dWOEV5c1Nn?oc=5",
      "fecha": "2026-09-16T07:00:00Z",
      "medio": "Teletrece"
+    },
+    {
+     "titulo": "CÁMARA DE COMERCIO DE LA ARAUCANÍA VALORA AVANCES MUNICIPALES CONTRA EL COMERCIO ILEGAL Y PIDE PERSEGUIR A LOS PROVEEDORES",
+     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUkZuWWMycEYtRDVpcDJnQzFDbk4yazNnaUhlQTQtaW9Qc2tfY2VkMG0zWlFBWEFzc3ZvYzFNakhtMTMyZ29ibExubGRhdzhDVnlyS1drS2lwVmNPNGpBcjd4RkdrZUNCUExKbjZwUVlHODIwMU9EVUxiT09jbUoxcVYwUVVtLUF4SDI1OUVwU3FnM0RsaFFIQUxKZ3A4alRpMERFSnVZVURSN01XVnV4Yk02ekZwaXNkanNVQjlKUGJrSDd5SEhLMFFISVJIaXhPeE9TQ29iTkIyZXR6T2dNZl9yeWZHNEdFT2k0c2ZwVXJ4VU5WQ2NXeV84cw?oc=5",
+     "fecha": "2026-09-13T19:31:11Z",
+     "medio": "Araucanía Noticias Temuco"
     },
     {
      "titulo": "Temuco: Operativo contra el comercio ambulante dejó cinco detenidos y ocho guardias lesionados",

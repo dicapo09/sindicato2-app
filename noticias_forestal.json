@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T18:02:00Z",
+ "actualizado": "2026-11-22T23:48:10Z",
  "fuentes": [
   {
    "clave": "forestal",
@@ -168,6 +168,12 @@
      "medio": "Conaf"
     },
     {
+     "titulo": "Pese a simultaneidad: CONAF ha extinguido y controlado 135 incendios forestales a nivel nacional",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjBFdEJMN09KMjZMRkgxREZJa0w5ekNhWWlpQ0dDZWhNTHg3TW5ESWU0MEtSMFhoS3BxTnNfSjJSWjlSeVY3YVR1TlRYX3BEYTR0amxkTm40aDVKM0hRNTl3MzZrQXFoZG5HV3czNGNDcG95ZDB2dGNSS0x2dlo4c3Z4QkFGeHJEdldPM3lHSmhjQzhzWkVwQkl3aTdQSTg2bDdLRFRSWmxvaFgycmRxVTdVTWJOMHJJ?oc=5",
+     "fecha": "2026-01-20T08:00:00Z",
+     "medio": "Conaf"
+    },
+    {
      "titulo": "CONAF Aysén envía brigadas a Biobío para reforzar combate de incendios forestales",
      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmpnM2g1LXpNTDN0VkNxbEFfelZkalYwUi1ENnJTUDVoRTlCMnlWMGl6SXlDZmNzcWdsVnhWMmltM1E5ZmJVMHI2cmZrdWt4Q1FUaHNDZXdSNGk3SGk2THQ4aGRGZmNheWlmajVBMFV6YlJDblBoLXlOMVJMY2ptOWJyYU1fX0s5M1NkVVBtNXlNVnNhQUdDTDc2eEVCZjRod0ZPbVJn?oc=5",
      "fecha": "2026-01-19T08:00:00Z",
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTG1FUjNORXBSaGNkVmsxa0ZOdlVWX0hvYTRwNlI0OHU0LXpKVTdNYW9nbXRVczZPVzczSy1jR2lSNFV0N2lXMjZVcktVLTJPMlVuVDhYTmN4R0pBTjhVSElZd1VvVlRiQk1UY04xU1hQQXM2eTVNTjgyeFB1aHVCMGkzN1dCUFZobmJ6ejdZNWU0bFkwblpZb0RMT1VyZFNKS0xYTzFxYnI3Q1Jz?oc=5",
      "fecha": "2025-11-05T08:00:00Z",
      "medio": "Conaf"
-    },
-    {
-     "titulo": "CONAF Ñuble presenta plan de acción 2025-2026 para prevención y combate de incendios forestales",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTJSanVsWDJXMjYxRTE0MGphVThQTjNSaEF5VVlxSUFvdHVPZEJqdW5wMUo3Ri1VUDkyMGo1Q3FIRFpEYTdmSDJyalFXbXd0bWtqLUsxT1EwYmJzNUZYd3c5UmlxVUtVSS1YSXpnZFp5VTBydmJJY0hWbDJ0YTRuemhpNzRISmxyellKLTdvWHpkM052ejRmXzU0QklDTlN2R05iZjM3ajBNbGxaMGpnT3JVZWdJbUpv?oc=5",
-     "fecha": "2025-10-21T07:00:00Z",
-     "medio": "Conaf"
     }
    ]
   },
@@ -197,12 +197,6 @@
    "clave": "araucania",
    "nombre": "Forestal en La Araucanía",
    "items": [
-    {
-     "titulo": "La Araucanía prepara simulación de incendios forestales y aislamiento territorial para evaluar respuesta de emergencia",
-     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa2tNWldpVy1zWl9DYjN3SlVzTlF4Y25FOUVENFRDQzFkMU1pZzVac2hRaHBwdTVYQkRGdUFvczloeHYzczJZcUE5WVJMT0RVYVNnOVR2dHpyQ2s0N3YyUDYwR192U2NOZFZyaUZhd1ZtUG5jTlNxVVdLUVotbUkwb2pCdWdUTk1YUG1XdXdqY0dBdU1xWjdvVmRyQW42TDNoci1tNnlEbjFIajZQNGNVVk52NjV3ckU0dzhndUN4NEhjY256a2hoS0lFR0JHRHZxM2F1NzZQZVY?oc=5",
-     "fecha": "2026-11-21T11:36:09Z",
-     "medio": "Publimicro"
-    },
     {
      "titulo": "LEY DE INCENDIOS BAJO AMENAZA: REGIONALISTAS VERDES EXIGEN NO CEDER ANTE PRESIONES FORESTALES",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUdaYzQ5S1doSlltblJrS1lFU3l1VHFPcnhQVl9HZ3NEejBkYldjcW5TVWRySG4xTERQY3FvUW10enJlWTVnWl9leXRMYWV6X0REamNJakRrcEFGemNLYXFKcC1meFpFZ3ZPb0VNaGhNUFRvc29JVm5zc1NFNjNKTnBoTS1WU0p2WW52REFvQ3lwNXlPUWFDNUFoVFY4dkRSMUVsaWhfbjFRRkRTbjNlTGxSLWpvWVE5ekRsSUlOYzFtbzQyU01IVGNERlJra1FhQ0RN?oc=5",
@@ -216,76 +210,82 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Comunidad mapuche Txokin Pehuén fortalece capacidades para el manejo sostenible de 82 hectáreas de bosque nativo en La Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOejZLUzRCVWM0d3VxemRRZEVxQndobWhuNGZVeDZVbjRxRXM1QVBJaWFRSlA5ZE1uYmJRQUhTNHhuWjRoNjR1ZVg4S2FkVzljakZIeUU2WW03cUhuUUNPZDZrM1hiNTYtQ1NBR1dIQmwxclYzOGpvUXpocGY1Qm1qS05DNFpKbC1POTRJRDRraDZud2FYSHlES3l5WDhBSE4xY2k4OHpiN0l3emdhVHVWQkdRMkFvYl9qQTlhTDdCdkhZWjB1czhnSWt6OGdGcEdLMFpkcWJuSG9NQzkteWthMm0zNEo?oc=5",
-     "fecha": "2026-10-22T07:00:00Z",
-     "medio": "Conaf"
+     "titulo": "Collipulli pone a prueba su capacidad de respuesta ante incendios forestales con simulacro en Mininco",
+     "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMnNGNm54eGpVQW5yWlRPbXktMEFPVURWRl95UFluRFl3MVdQMGFBRFE3azdXVVNxbnNhLWZudEtpQ0MwbmtfUVVlRkdPenowMzc3ZGFLQ3R2elI3UjJySE9pZTdVS2E0dzhaVUh5UHpDZWhBV0RabkVjWlY2UExGNXBqUGJsdw?oc=5",
+     "fecha": "2026-11-18T01:54:33Z",
+     "medio": "Alerta Noticias Temuco.cl"
     },
     {
-     "titulo": "Mesa Regional Forestal de La Araucanía constituye su directiva y define cuatro ejes estratégicos de trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTE2VDJGR3g3WWxyaVJRR3Vsby1FTF93VG40WmdUNFFaRER4WE4ySE9hLWhMQkdlNk1wVU0ycVZYRDdVakU0bXE5dy1oOGxHMF95Nl96UjdyQWtfNDFCRFhCOG12MzI5LUxmVmR3Tm53Mk1rcG1ZN1BPWFlId1owU0ZUdVQyMVVSRU9Jd1AxQ0QtdWxLNHJfZ0drX3JUdFd3UE15YmJRTDhCZGpZLVhvaW5CSW5tYkxRWEtVREpkeGRuSlJpRmJLNw?oc=5",
-     "fecha": "2026-10-13T07:00:00Z",
-     "medio": "Conaf"
+     "titulo": "Declaran Alerta Roja para Galvarino por incendio forestal que amenaza viviendas",
+     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TTjBtUzlIaDdyaUVuenRRZEhJZ0RldFJtZGhfMVZrX2F1ZmF6MGhpazVnckV4LTVXWDhxV1V6enhvLUlKWEEyenZMeVpDY2xwUk9UUFI0WUd2S1Fpd3pTTjNvS0JUWW9jVnROejA0S1FralFjMEtMVHJNazc?oc=5",
+     "fecha": "2026-11-15T16:03:12Z",
+     "medio": "Alerta Noticias Temuco.cl"
     },
     {
-     "titulo": "Por alta temperatura y viento: Conaf suspende quemas en La Araucanía para evitar incendios forestales",
-     "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQLTJ3SEhYYm1WS0lkeVdVSG92R0IxcklVMDFZa0QyNXU2U0tmcXhtem1MckxkYjZ2NGJGVjNodkFfX1VvMXYzNENZeVE4aWVDMUdYd1pEaXIzNXVmLXUwWmoxZG04dzdoQkl6SHZzRnlCQ3FUbXc1VXZGT1hjSlhTc082ajl2T3JCN3h0OEVmMEtIWWJ3ZENWVXEtWkRVVFZyUEFmb21rVjFMb3p0MklPb0kxRmhFZHZiOHdjMW5jalJKODBoQmtETk9lTE9IZjRQQmVzUVY1TFdPNzItWTdHdHZkVmM5M2FUUjBpMkxuQ2ZCNzBJS3NRNnk1eU8?oc=5",
-     "fecha": "2026-09-17T07:00:00Z",
-     "medio": "BioBioChile"
+     "titulo": "“Llevamos 4 años esperando justicia”: familia de patrullero forestal asesinado en Carahue denuncia impunidad",
+     "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlhPdW1wbnptZ2NhdDBMS0dTSndhSXYyNUFGdkpadVdHN2JvVTRibXZyajBHeEVBMXdCSzlwcWlrdE9iNzEtT1QzMmJMRGdWeVF5OFRnTjRLaDNic185Y1UxeGRwbU9hVWpRMXo2XzZTR0RyV1AyRy1ZS3hUbEtsNzVaRGZwc3FSMGVfZ0Q3bW53NXF5VWZvSWtB?oc=5",
+     "fecha": "2026-11-12T08:02:34Z",
+     "medio": "Alerta Noticias Temuco.cl"
     },
     {
-     "titulo": "Los Ríos y La Araucanía avanzan en agenda conjunta para fortalecer el manejo sostenible y valor agregado del bosque nativo",
-     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNUdsb0otVmNVa0NpV1ZCRmRYYUo5dEQtTkZvNE9zVkxQYk5sVEoyTjVHV3dQTndQNkMyNW1ZZUVUXzFUVm5MVzVWd01nOHo0ODhfTUN6Z19YYWRya0tGTno3dVhBakJkSGtnYm9rVGVuRDh0RFZ5M0pueExvd0lPZE1NbmRTbWVGcW1HZHRyVzh2UUpnZDBYbzFpZXFPX0ViQ2djdExyUlFsTjJiVlV2QnljcUI1UzhiOHlVVTUzbFcyVUE1QkNYVVQ0cUp5R2g0d3lWN25BcFpmbnFv?oc=5",
-     "fecha": "2026-08-28T07:00:00Z",
-     "medio": "Conaf"
+     "titulo": "AGRICULTORES DE MALLECO SE ANTICIPAN A LOS INCENDIOS FORESTALES MEDIANTE CAPACITACIÓN IMPULSADA POR CMPC",
+     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdlYzY2wwRkZYUldHampFWjZYVjVPcm1rSVYwSVYtbk1uelpVQ1VtUzNDemFaUHRlVEpnY3UxTzdWbWhlM2VzYU9uNmpiTVBiamNPRFJfWl9qN2Z3dnVyMTRBenlnamZEeFV2UGw2cTF6S3Z3RUdnOC13WFJ6cXNPLUVMWUh2bEc5Q3BKSmRzNW9LUVNPbUNtMTBoRGVlZElWcmE1TVZwWWdKS2xReUhVM0liNEt2dzJ1RjR3bVpiNDlZWENMOUdBSktOX3d2QjlGd2JPLXNBQmluSlFDVVVyUjFiOA?oc=5",
+     "fecha": "2026-11-08T08:00:00Z",
+     "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "CONAF abre postulaciones para labores de combate de incendios forestales 2026-2027",
-     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTBFQjRFcVk2YnpDMVhWZVFQeTFNcHBjeDczMFVrZmpBcUljNEN3ZUZVSVFtWUxVU0stajU3TFBqUk51MmhqYUlzRXFyTW13R2IzS2JaVjNmRWZrLTJTZllXYnNRZGZGX1hua3VUXzNhbWdtSUZIcGpKMGg4SjVpYkcyNW5US0ZQSHhLcHFiZEQ5VEhaWVc2SGhmUG80eEVGOFBPVllkdw?oc=5",
-     "fecha": "2026-08-07T07:00:00Z",
-     "medio": "Conaf"
+     "titulo": "La Araucanía: identifican 600 puntos críticos de incendios forestales de cara a la temporada estival",
+     "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeloxanRrMUthQkFPSkdKRzNzVzBoUGVyNHljSnBpUUduX050UWNTWjhRMnRkTWNGd1RmUHZGblVCcFI2RjU4RmxydzJzZnVSN2pFcXZId3ZGWEFRVDY3Yl96OTJqME1jendPUks4VU1Bc244cHNnR0dzNFpZcHU3cjRDZWUzc0YxeVVEbEdmN3dyUnFvdDhhTTd3?oc=5",
+     "fecha": "2026-11-05T13:25:11Z",
+     "medio": "SoyChile.cl"
     },
     {
-     "titulo": "Equipo directivo del Proyecto +Bosques visita la región de La Araucanía para conocer avances",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWWZaM3FyaGpUOEpDTEhHcGNiaUlIbzZtaVB0a1dsbm9JUlp6ZThHU1NLbl9ON3NGNUpmSXROWnVDYW5BdTRWc21kbG9xYV9QQVJtMnFPT2lVWUJST2ZEUmRVYTY2N3FTa01lcWFXbktEZzdoWGhrbzZvNkpON0RDZGs0NkxHTHVjN05VcE9wbWJsenBOQzVvb0tPM3N0OFp4TnpnUF9nQVVZd1ppT2hFNXAxTmxQVzA?oc=5",
-     "fecha": "2026-08-04T07:00:00Z",
-     "medio": "Conaf"
+     "titulo": "La Araucanía identifica más de 600 puntos críticos ante riesgo de incendios forestales",
+     "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSndqS0dPY3VQdzhhd1h3M3A0NUpHTG4wSE9qOEJsUHVncDNjSV8wTGxWbGpuVnZoa293UjJ2ZWlrWU5VeGJnZ0VNVDd2Nm53clhMSm9xRUxnemZTTkhSTUdzMWlVeHRtV20yZGVISGlXMmczbzNVejVMQ2Z4V3JLWjZac3BIaElXSGI5VEhaQ205UFBp?oc=5",
+     "fecha": "2026-11-04T02:50:09Z",
+     "medio": "Alerta Noticias Temuco.cl"
     },
     {
-     "titulo": "La Araucanía refuerza preparación ante incendios forestales e inicia trabajo preventivo para periodo 2026-2027",
-     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYWlQRzM5QW5qc0N5MkViOFU1WlNCQzFUSk1vM1pQT3ZxWUFpWko1cUp0ZVJ0YVNpUjlibW9zMFY4aVFDN2lXVTI0M2p5eDBuR0dYZS1IdWMwYkg5Y3pRN3U3eUtEUXViRUc3Q2pFcFNIZmlXRHlHRGl1X1JTLVc2d3FVTkNPRU96U0x2V1dHZ00tVTFvSWNCVlNEeWR5RzNpRWhERUdkVUxibUVReTZxSnlSaVlMUklvZkZQNC1uYjQ4ZWNyLVZVMjB0b04?oc=5",
-     "fecha": "2026-06-03T07:00:00Z",
-     "medio": "Conaf"
+     "titulo": "DELEGACIÓN PRESIDENCIAL DE MALLECO Y SENAPRED REFUERZAN COORDINACIÓN MUNICIPAL ANTE INCENDIOS FORESTALES",
+     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUFlWWUM4UHVtWFR6U1IxLXhYa0Z3TjZQaXdlYUdpdzBMSnNicXFrbW5WZlliSnNjNE41YlhaYy1FaFFxNGNNSDhoVEU2dVVNYmd1WUJ6cTJzSXZJdVBhMVZZUWdJc3V2OFhhN21OcEZINlBkX2ZhSzFZejlUazI5QVpJSTJxSzg4VDNxeHVmU0pLVkVhNXVPNENEV3drMFg3VTFhc3hySHkwV1RGazRQMFNnVzY5bDRUUDA4THFLYUlxY3ZOdUNjUDBHekRSRldheTVDQlFKMXBZQmp0ZC1NTHByVQ?oc=5",
+     "fecha": "2026-11-03T08:00:00Z",
+     "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Fiscalización en La Araucanía confirma alta efectividad en reforestación de araucarias bajo normativa internacional",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTXd0T0QwekdQOWU1OXBXa3dWU3NHTXAzUkZ5MGwtemdOdmNsZVY2dXhQVjRHM3lGNlh3b1RFcWxrMWZJYVo1N1Bja0FnQml4WHI3SkV6NkVPMEtoV0hicDBjMnJtVUdoeTJwT3J2Qi10elN3aXFlQ2V2S09mY3ZfdzRoQi1GdXRpc3pQMTNwdHhwam1IOFdydXVxVGhOeU9tLVdVdFNkYVdzU3NJWjFFTFgyT2ZWS1g2Nm5yaE5ncHAwS19oSTlDenRvcHRScHAyeGpF?oc=5",
-     "fecha": "2026-05-09T07:00:00Z",
-     "medio": "Conaf"
+     "titulo": "Violencia en La Araucanía: incendio intencional destruye transporte forestal en zona urbana de Collipulli",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOXzdJRFl6WUFuTGR5SFhYaUwwNWhPWkN3bWwwLUtOOHdCXzlxYnZ4aXlEZDVIMVVQeTktaFAxMU9BU0Vld1QwYk9wSFNHcWgzRm9FWThsQlJ1dDMwal9TSXU1R0F6VG52V0ZkMkVlbjZDcE5uMTNndWV5OFRWWXMxSUJhWG5iMWM0cXZpRjEtR21BOUE3bHY2T0xGTlE2QUlaaXJrY1ZKSldxN1ZGcnd0UTk3NUxHazZJOHhPUWNTbkRoZV9qeWc?oc=5",
+     "fecha": "2026-11-03T03:13:02Z",
+     "medio": "Publimicro"
     },
     {
-     "titulo": "Inédito rescate busca salvar especie en peligro crítico en La Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzZ0U2YyYy1JX2MxX1VIV0FFT2F5UU0yUHpQRVJrTkVUWm5WX2tDLUxtSkgyNDE3YUdWdjAtbUtDZDdPUVJjMzFuT05kTmN2djZlY2MtWXQ4Z0x5ZUpoN2o4WTFMZ1pRZkJ5Q1UxU3hRbTNjMlNmWHdDcl9VRG4zdXk3N3FMTnVYS2RwemlDRTZpRnFTbUx4cA?oc=5",
-     "fecha": "2026-04-21T07:00:00Z",
-     "medio": "Conaf"
+     "titulo": "Camión y carro forestal son incendiados en Collipulli",
+     "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZm5tNmVyNGxsOWZuT3pvbUpBUElfVWg0bFdaX3pLM3VFQU1ERU1ETHNsR3NPaXFVMUxHdWdBaTNSalRhRW5DQ2lobFZLSFU4Yk1NM1N5NDJWMzM2bHZjNTJFVDlEakJ5bTQ5WVlyUVRQWS1acjE2eFMtcllmSDlZR25fVm1BWU1wUVJFZm44WExjVDl1WGpSR1Npbw?oc=5",
+     "fecha": "2026-11-02T12:45:05Z",
+     "medio": "Las Noticias de Malleco | Region de la Araucania"
     },
     {
-     "titulo": "Ministerio de Agricultura declara emergencia agrícola para Región de La Araucanía por incendios forestales",
-     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLU1Pd0t6ZnpheFFkNVNMdE1NdEJQVVF0cFlYQjdwWktoWDB2RkFsdVR0cXVVbW5aTUNDV3FqZ3B4bnlLTlJYV3M4TnFCRV96OWZGLWlmR20zbnNjWDZ2T0lFSHZ6LWozN0IyRUh0VDh2UnRPLVdjOHpBRk9ZVjhLcUtkRzc0T00zUzNUWjZmaUVZcTIybDh2d1lGd3l5SXY1N2w0VERJcUp3Q0NIWHpIaUJOT1VIcDFTM3FF?oc=5",
-     "fecha": "2026-01-30T08:00:00Z",
-     "medio": "Indap"
+     "titulo": "Incendian camión y carro forestal durante ataque registrado en zona urbana de Collipulli",
+     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUJpU0NhNzNhR05iTkpoQ1dwUnJwUGRJWTkzelJodUhJMU1GQm5FRFdiS1FVaUFSZkIzZGxIcDlrNUZTWi1jTUpPeTFiZzNYTFM5S3h4U1R6dklIVmo0MWItTG1NV0lYZDdzV0RXZ1BEeDRPN3h0Ykg1UHpnVmNWWkdraDFEMmJTVXdFOWdNellsSkQ1bkhXQVh1SXp6VGE4dzRHenJPR0p6S3R3bXMwWXNSRkdyY0Q4Z3FyS0FFWDNlN1ZyRkNSeQ?oc=5",
+     "fecha": "2026-11-02T08:00:00Z",
+     "medio": "El Dínamo"
     },
     {
-     "titulo": "Ministra López, enlace del Gobierno en La Araucanía, anuncia alerta roja en Angol por incendios forestales",
-     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNlZkTk5TVXZ6Tnd2enN6VEM4S2dMN05wT3dmZ1phb2NuVmJHS1VDRWh2V1FyeW1sd0Vka0dsWF8zMzJhbDdUY1g5Y3ZBeDRBS3NRVi1lNTRyWENGVGRMWU8xZTNPclowbTk2cm85ZnVzZkZUTkw4X1hKS0tpNVZUWGZNdVRDVURrQ3Mwdmh1OXk5QmpwMHE5Ql9ZdWRuNlM4YWNPY1NJNnRkbWQydnhDbWVELXlIS3VXUXZBV2lZaVpSZHJfRE1r?oc=5",
-     "fecha": "2026-01-22T08:00:00Z",
-     "medio": "Ministerio de Obras Públicas"
+     "titulo": "Alcaldes de Malleco abordarán prevención de incendios forestales en Victoria",
+     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVBXWnl5bEJVUS1STUpFSUJFNGgxVHZBVXZ3UUpVWnFWUU43TTh0Y29ZVnhmcTJzajdRX0tFdUlSdjRaWEZjSUxqVjV0OFQyMHBySmxTTTktZkpXclRXWXdhbkdWZ0dhWVNIYWFuaDMwWU40djZsNkVudjdaTzcxRDZYX2FuWmRmODBJQjk4VnpNZGlHR1lUVVY1V0kxeGxaNGlURXAzZTFPQWhMX1JqSmtFY2FDbXBMOWNIOA?oc=5",
+     "fecha": "2026-11-01T07:00:00Z",
+     "medio": "Las Noticias de Malleco | Region de la Araucania"
     },
     {
-     "titulo": "CONAF despliega importante contingente humano en Ñuble, Biobío y La Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFd2Q1gxeHFHa3BLZkptQzNiU2FDQ0Q0SVBmTmRlNUtSMkxwbU5ZRzdteXNSalozOHV5cXBjZTlFVjV1NXoyRFFLUzItR2hqaVh0WEI0ZkIwQUNTQ2tMbVdfOC13ODVnZG9kbERyT3JuQ3dmcGdqVWNZWlpDMU9vQ3VxSlhoLWUxRXlTUUJwREJxQjRMdHZPYzE5cDd1SVU?oc=5",
-     "fecha": "2026-01-21T08:00:00Z",
-     "medio": "Conaf"
+     "titulo": "CMPC y Gobierno lanzaron plan de prevención de incendios forestales en La Araucanía",
+     "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVzhzbEdlOFZfM1VyY0dkTThiREx4Tzhyb2lZalNza0kwNF9ySTV6Sk01eDRNVVFQcDNvNEd4V1FLZmdnU2hyOFZJUlNqSlZxZEdVUW1UcThfZmZBZFQ1TERBNy1kN3V3dGhkbWRYYTdRREVLaUNpS1ZIa1d2QXBZbW80UkRmaEllaUFWWThITjFDTVdvNzAyY2E5TU1uZjBmd212b3JzcmpETkxVQzNnM1RWOWw2TFFxQWxZYzU2S1FkT2ZQWk9HMmx0ejVfYXBQaENlUXZEVzk3RWdWSDB6OWxsS3JTUlhNVmJGY2pSUE96a3lTUWtVR2NqZEpTajNhWTg2cy1R0gGMAUFVX3lxTFA5UjE3SHFORkZVRDVlU28zcXZiQ0htQnhmS0gzamlLT0YyYXNhUUFuLUFIdmgydnVQRWN3cmFmc00yd1pYaElMZHdrcEVlVWdUVW1XN1VwTDhHdGliRFdRYlJYaml0ajhTQ0tmLXU0U29oNmhlSTRkN1JjVW1jTVF4VG52QlRncjlwSU1E?oc=5",
+     "fecha": "2026-10-30T07:00:00Z",
+     "medio": "Cooperativa"
+    },
+    {
+     "titulo": "Año lluvioso genera precaución por incendios forestales en La Araucania",
+     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWI4LUoyZXhYeUdhUmF2Z3NLT3hUYUVNSURkajEwU3I4aUtTbVE1dUxXelIyQTRhUzhJcXRTUFN1eUtQaHY4OFVYX3c1MkR4TmhEaEczd1NBV2pLVzVNTlljNnZ6UXhZMk5rT0ZiWmJRaU9kOG5nbXhtVXVscGUzLVB0aVhtUkdtNW9BeWZOV2ZrblczNGo1WHVncGh6MExlZzBrNUNGQzk2eFk?oc=5",
+     "fecha": "2026-10-23T07:00:00Z",
+     "medio": "TemucoDiario.cl"
     }
    ]
   },
@@ -298,6 +298,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2Vib2dzRGlyU0FEejN6TDY1cTMzSEg3SE1QdGZjNTMwV2FnenlleFM0eERRZE9lNGlwaVBoUVVhRU5rZ19HQWsybzBvaEJvQU5FVkNJUGwzRVU3Q2I1bDN1QWRGTnlNMzNLTk14NTdvS3g5VW5Jcm1vWHpvblB4M09uN1c2a1hhOHNIOHdNOUVTY1hpbjhvTUdnaUhSXzRuNzZzNVJtYi04UktBaUZTSVNRWkx0VkFk?oc=5",
      "fecha": "2026-11-20T11:45:43Z",
      "medio": "Noticias UdeC"
+    },
+    {
+     "titulo": "Condenan a presidio perpetuo a ex militar por los homicidios de 17 campesinos en la llamada matanza de Chihuío",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOanhSYmRkMkZmcFFxM2ltRWo1Z1NTbjI1aWlxTWtmUkNUZGtlNS1maVgtTkZTR1JPUVY3M0V6TklUSkF2ZVZnMnFCQU1xZjQ1TDA1dTV0TWRvOUtqbXV1dG5iNzJOejBKaXFQbXo4a2JNUnFCRi1QM2RHTjQ5Q1dsdVhNWlN3UGxCYllfZUJSR2xGLTZJdWMzeVdQY2NnNjZGaFJlVUF3Z21GM0RKc0t6bVpVSGZ6dVliQWt5NmpoQjhDQmRCRkZBZHh3?oc=5",
+     "fecha": "2026-11-17T13:27:58Z",
+     "medio": "El Siglo"
     },
     {
      "titulo": "Saluda Sindicato Agropecuario, Forestal y Tabacalero el Primero de Mayo",
@@ -328,6 +334,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNG1rY2p0OExKejBqRXRKeVZjSHZlQWIwN2RfYVQwRkQxWi04dzJDZ2t6VlNmeHdYUTlUUnJobkNkQ0JObVFYenpTX2pBUVp1MGJIZlkyQnE0WFRLM095V3BlMmdHUDRlaGRrcEx0YW80X3hZRjl1YURyYzZnQzZqR0swbDJ3dTRSeFB5TEFna3JhbDhXdEhJTUNXMWlhY21feWpqMkNuZXNtMjdNS3J2YU9DNXkxZw?oc=5",
      "fecha": "2026-09-07T14:38:53Z",
      "medio": "Noticias UdeC"
+    },
+    {
+     "titulo": "El Gobierno de Aragón lamenta que el sindicato OSTA priorice la confrontación política a la defensa de las reivindicaciones de las brigadas forestales",
+     "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbF90a1ozeUZtd09UelBLZUFwMzNSbUNhcEdEdEcxRUtaM1lFbDlqTGNib0Y0anZqV0tyc3ZXYTlXNUM5bWRWNnB0cGtSZkxPekJkTlFJSUZqczFrNHk4TE9xMl95ZEVDY3g4ZWRqQ0wybXBrQkxlb0RmQUlmRW05ajVTb2JEaURfNDVUbnZwbWtLTl9WS1AtaEdMWS1qdk0xbm5raEZXRWJCZ3lQRE5QMWxOeXc5NHo2Z1NVMTZVOWFCZ1pVU2p4QTc0V1N1RTVYS2xUcUFkN2VNOEgyRm1LczVjbmQ4UFkzZ2dyYVhCUVN2TXRndXJEOVlpTlROMmPSAYQCQVVfeXFMTnpueTVPQ25yczdMUXJPRVdtUEhmTURBakY3ck5tX1ZEZEdkdDNfekJVRkVPWXdwM3ZuaUM3aUV3WHV4QUxaOUctbEQ3cUFhNm8tZldWQ2JYN01iMVJidzgxX3FQcFQ3eEJBdFJsUlV0bkJQWjM3UnNpbTEzYVJ4VFk4U04xbkJBOVFhNVVVMHZ0dldERS1YQnV5WHlOWmhXMnlnS0p0UUFpdkN3X3pjWHVra1UyWDhSUncybjNacXFKeTJBUEFHY3BaYUh2VW9zT2JRN0ZOZ0JIM1o3N2U1bDZvc1M1MllWY19pQktxWlQ2UnZpNUp0T3FTUVl4Y3J6VHRCdUc?oc=5",
+     "fecha": "2026-08-25T07:00:00Z",
+     "medio": "Aragón Hoy"
     },
     {
      "titulo": "El Sindicato de Agentes Forestales de UGT expresa su pesar por las víctimas del incendio de Los Gallardos",
@@ -370,18 +382,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMGk4dWstUDFMM2FzOTd4V2ZrcWw1YUlWUmR4eFNGdmdZMTUxa1RWek5tS0tOM3Y2cEJWZG9YdTc0UFlsRk1kRkNfcVpjMGh2TmFfQ1FXX0NvR3YzYXd1NkVSdk9Cc1M2YThIWlozbVJBWVVoQ1p4djU1UlczWEE5YmphRllVQTdaSnE0WTdpTm1tbDBHb09FNDVoNXd3QmtreU9yMnNja1FmTk51aVhINGw1cDR6NHNUUHdYaDNFeURDQ0RzWDVnV0hac1ZXdkdHQkZ2Skp3a085ZTZ1MFZQQkF5Wjh0OEdTYU5rb0JnVzlNemhBZlBFT1Z3LThTQdIBgwJBVV95cUxQYkJoNEtYWmd2T2hPUXRuOWtTTXJ1NmYzUVl3Rk5SRjNTeFNpMUdvQnc4bC1BSnZpVm4tYy1Gc1R0OFJUR2NjZFBEVEFOUWltejI5SjZ6Y1BHbUNtYndqanlQdFJwbDloNl9nTWZiMjFLMmFVMGVZb0t4NzZRd1J3OXVOUXhFVnFhbGFRR0lOYmppYl8xRVNKb1ZkNHhRVXJrTmZPcFBhNmNFTVpLU3JlQ29fek1vczhQYVZlSlZLTzNnaFJNcDhuajI4NnN5TGNDWURQVzVpV1lfZlA1d1JaWm53UVJrVU1DeXlnQ2VDRkQ0MHotSGhDTXlBZ3ZXTldMb2ZN?oc=5",
      "fecha": "2025-01-14T08:00:00Z",
      "medio": "BioBioChile"
-    },
-    {
-     "titulo": "APOYO SINDICATO NACIONAL DE TRABAJADORES DE SITREM CONAF",
-     "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeVlCTEdPSG9ocW1KTm1QOURJdVM5RjNfZjNFSWowa1hMZE5JZk54dDJIZTdubm5NQWt3TWpTMGZtaXNhQVZCMllRWUNjZFY4TVFUVmtyU1FnNC0tUndMUTFkdUlmazBybzR3T1lCTG9xRGpSN2pFSklXM3Nhdw?oc=5",
-     "fecha": "2024-09-03T01:25:43Z",
-     "medio": "anef chile"
-    },
-    {
-     "titulo": "Corte Suprema confirma fallo que acogió denuncia de tutela laboral de conductores de camiones forestales",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRC1ZYWFZbTZEX3JGRy1YcC1nYmlUNFE5MHoxSS1kYzJ1SjZvNWlscG43cjJRcllZRGRZZldBNlJNdnByQnU1aDFvSnA1LUJvcWt3TXotX1lFaUtMYi1sUVBCU0JnSXJGc2NWN1d6ZHROWmlxMHlXeUpiTEc1djMxVjh5WE0?oc=5",
-     "fecha": "2023-12-13T08:00:00Z",
-     "medio": "PJud.cl"
     }
    ]
   },
