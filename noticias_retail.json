@@ -1,10 +1,22 @@
 {
- "actualizado": "2026-11-21T21:56:06Z",
+ "actualizado": "2026-11-22T02:38:42Z",
  "fuentes": [
   {
    "clave": "retail",
    "nombre": "Retail en Chile",
    "items": [
+    {
+     "titulo": "Cencosud inaugura nuevo Jumbo en Linares y alcanza 61 supermercados en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaS03bm1yRU5JeDdoTVhwRmRpZG5yMXN0WDh4SDZub2kyZFc4RHQyeVA2MW9JR2NkbkdJalFOWTFMVDZ0M3hNWWRMSmgwOGd2TVBFSHUyRGJRelUyZnMxX3V0RTBYdkZUVDVPSWRRMS0tZ0JSOXNwNkR2b0lwUV9GRnRwb0xwMkNFWGRDNmV5NF9yRnJrcVdQeGZodE51OXd5Z2wtTC1GZw?oc=5",
+     "fecha": "2026-11-21T22:30:37Z",
+     "medio": "Chócale"
+    },
+    {
+     "titulo": "Transformamos nuestros supermercados en espacios de bienestar para personas mayores",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOTVjYlowWkFzcHUydWpzTklHVGN6Qkd1QkRsT3VialZyVGJ5TGh2bl9HUmVkMm8yTWhJSmxzLV9FMTFvNE5iNWMzMHFILUxLcXBNdUdEYTU2d3ZraF9NVUNLYnA1VW90UjEzakxld0JOZDVzcnZyVnVRN2RtX2RqWVh2dU9nZmZrRGtUVkE2ZlhMNE4yWlVhZ1hXS0JfU0F4RnJUeTdxVFhYRXZsNXYteEtR?oc=5",
+     "fecha": "2026-11-21T17:06:11Z",
+     "medio": "Walmart Chile"
+    },
     {
      "titulo": "Cencosud abre nuevo supermercado Jumbo en Chile: Cuenta con un robot en sus pasillos",
      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmpBUjNxblloMU1KZnJPY0JLeEpGS044dklGdHRKSDZuODYxbjNKVDRYUW52YkRZcGMwbWxIYy15V3BrUlNOb3ZmLXBJNHJLUXFiZkN6UUdKeE1hcVViSG9KeHRkYS0tQVBVMHBWbE5RUUZGaEtZMzY0RnZRSEE4WTNrczl0NEpoQy1aVUtzQjFLVWpVSUdOWGlwRUlnRTc4NkthaF9CYmJzUEFGWDdlYnVn?oc=5",
@@ -42,33 +54,9 @@
      "medio": "RED+ Noticias"
     },
     {
-     "titulo": "Ripley eleva sus ganancias 53,2% en 3T26 con fuerte crecimiento de sus negocios en Perú",
-     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3FHa1JGbVNuSWV3Zkl5Uy1reDFUSk5OaWRadC1GbGZ1a2ZtcDRUZUJud0taUTE2QWxOQjVnRDF1eno2c20wRGZzX0lzTHB0Q0xlQXVqWVF1NTViYVFLM1A3YlFFd0pDbmpkd3VoaDlQVWdnOG9ScDBQU1puQkFJWjc1QnpNS0tnSzJuV2YzXzhIY0ZnOVZqc2ZyQlVINFhuZ0Z2QXBUbk0zZ3dOcmdZcDdZZi03Yk9CY2xzSQ?oc=5",
-     "fecha": "2026-11-18T18:14:08Z",
-     "medio": "Perú Retail"
-    },
-    {
-     "titulo": "Walmart Chile y Desafío Levantemos Chile cierran programa que apoyó a 120 emprendedores del Biobío",
-     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUks4cURsSVFmZjdPMUJNeFFLdEhZUjVXeGZVd3dteFpNZGRxVkNId0tvcFZPOGQtLVZPN29ZYTlxY0RoVEVvS1hZdVg1WnA2TTJCbUVpVFNfcEl2VWpicGJEempDeXpISEFLR09IdnJYQ0hGN0xYdUdkbjZmYUhSWEtfYl8weENFTHN1TG5INlF4V2lhSDM1U295QzlUT2duUDlISTBBVEpNZzRieWFvQ29FQnNyUFRTY0NLMHNuTGtySXF2NndranRmemtKSVY3WHc?oc=5",
-     "fecha": "2026-11-18T14:24:34Z",
-     "medio": "Supermercado Al Día"
-    },
-    {
      "titulo": "Walmart Chile, primera del retail en ranking de innovación MIC 2026",
      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWpwdWdLdkRNbzd4U1Jvc215Y1lhb3lMTDVUbF9CbUNYYlZ5Nk1FdERvX0ttOHJQeE1lcW9tcjhESmw2X0NtSmhKdGVxUkxHeV80TXJTcUp2YnBod09rQ1cyRmhlVksxaGN5ZTlEcU9uR0pIMnd6RXBvNU1CUTd5RVZuakJBbUJTd2x4Si1mU1kyb1dxekpUeXNubmc3Rkh2NUM2TFRxMk4tZmR1Y3dJ?oc=5",
      "fecha": "2026-11-18T11:59:36Z",
-     "medio": "Supermercado Al Día"
-    },
-    {
-     "titulo": "Ripley dispara un 50% su beneficio en el tercer trimestre pese a la debilidad del retail",
-     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVNKVU9JUG5zdDZib2hkWnhQOU5uQUc2YUFWd3dGMzdhX3pmb1huZ3RORUs3aDBZR2N5dUM0U2tFVjFtTzlySWI0MVJJc2ZwX0ZDUlExVXhiUHZhVE9KcHFrMDhISk84VXZlVHFiYlJ5ejN6U1J2ZkZRNDEycDBZQU92T3JaMXczaWdteFNOR3l6YzRvbkx1dzdYalpPUjBaVUxDd1gxSUF4VXY0Ylp2M0cyb0N3Q01KUjNr?oc=5",
-     "fecha": "2026-11-18T09:32:00Z",
-     "medio": "Modaes"
-    },
-    {
-     "titulo": "Ganancias de Ripley crecen 52% en el tercer trimestre de 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSW9BaGhDSHk2UDFlMmliOWdBX3VHYThlRWRHSEV5QVVib2hoemUwaHZLSjhMMEgxSE9zczk0VERnc3pMdDZqYWFZeEhLcFRYTndkeU9hWHBWMWtHNnNqZUwyeks2c25oQk9XOFl5T0FZS2xmNzJ3MEExbndpZ2x3MWM4dVBsS2R1NHczcV9KMUUwMU9WbGIxcA?oc=5",
-     "fecha": "2026-11-18T09:28:54Z",
      "medio": "Supermercado Al Día"
     },
     {
@@ -76,12 +64,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHVZeDBnWTNpcmpwczJHLTRPX1d2WU8tNkx1M3JiVnFrR0Z1Ym1fU1JaTVlCMFlnaTVGOWNPclVlT3lwcGZ1QlQxU29zcWoySGZjalUyYkhuSElCOFREdGdXRnJUM2NZUUZtS3UzaVlsV0tTVHQ2SEczVjFtd3dqcy1RTHVhVUJRNURxS0d1UUI0alkwUmRZLWl3cWlLa1hqUmfSAcMBQVVfeXFMTlZmeTlDRV8xbW9Xb3pQeVMyUzN4bFkyQktaT1d4NktESjBrREVGWmpnYVFPdHdXRF9FX0lMNUZhSnNtMmxxRVhVNU02Z3YxOW9KOU9jV1VVd2tjcDdRWmRJQ0Jwd2FuRHhkMWpFdmFPak01U3JnREVaTnFhb0VsOERxZ0ZzdzU1YnFRTzIyUFlQTGRkUzB4bW1VNkhqWHFDZ2JPc3doOGtOd3JidU9MYklSM1lTd1VVUExyQ0JNaTllUElV?oc=5",
      "fecha": "2026-11-17T22:27:07Z",
      "medio": "La Tercera"
-    },
-    {
-     "titulo": "Ripley Corp. aumentó su utilidad neta 53,2% en el tercer trimestre, impulsada por Banco Ripley Chile y sus negocios en Perú",
-     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcl8xVWxfVUg2ajBkY0laYk4wNll3emJQUFd1SVB0RUNhNkRBMGdLUGZGUGxoWVd4ZU5ZdHBsdjVSYkp4bjVSMnpmUFRLbjF0bV9zR1JqQWZ3ZUY4Y2ZGZVp6NVpOaWt5WHcteFAzSHpJbVU3N2FxZXZHVkJCLTREY3BLMGZ1Tmtud2RyMHdTZzl5S2hZMnBKNmZpdE5MNzgwQjBPVGM1T09BVTlBek54WmVfWG81UW16UThwRjd6N1NBSXNJcHZZbE1GS2ZDSWYxdkNfdmlZTmhxcGwzaWpvbzhtN3hidWV1dk1ITnFpaw?oc=5",
-     "fecha": "2026-11-17T18:34:00Z",
-     "medio": "Diario Estrategia"
     },
     {
      "titulo": "Más de 500 empleos generan los tres nuevos supermercados que Walmart Chile abrió en el último mes",
@@ -94,6 +76,24 @@
      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJvbXdzVlVma3BEY0VpZVBZejl4VTNOdFMzSS1fR0VZdW45SlF6VWxNZEJHSmh3cmU2bllrVU1fdlFKdTVKSVBjTTJmbVU3dy1BWWJVbENHWTJUT0FWektGN0EzNHBWR3RFQXJlY2ppbzRKUGlwQ0lpV25GaGlUdlRnNWNsZkR6RzJXUk13djlvWUg1R1Uya2c0OWtsVmY2RTlvMjIxWTFXZWVsOFVqRmx3dUE?oc=5",
      "fecha": "2026-11-16T13:59:06Z",
      "medio": "Walmart Chile"
+    },
+    {
+     "titulo": "SMU gana por cuarto año consecutivo el Premio Impulsa en retail",
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmVkbzBEOW1rT1FYdDZFcG1mcGVhMXhYc1RXc21CYmZpUDVHREJxRnJ2eGNVMGthN2FCOVhwNTM3SnJyeXZjbUpqS0dsRFFscC1BTzNjdTdLZG5WNXBIUG45SzVzUlNITGdVMXBRUFhlUFV3VWVGRUNndnR3VGxnWU10Sm5kZ01qaUltOFcwNkM3ajR2Znc?oc=5",
+     "fecha": "2026-11-13T15:59:18Z",
+     "medio": "Supermercado Al Día"
+    },
+    {
+     "titulo": "Growth Summit: 31 pymes entran a Walmart Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHZ6YkJCR2FUeWlkX3phcFlhX0FraW1OQk93Z2pSaVlISjRBeHZpbmZlZUtCRFhLUldidmRGMmpESWtGTlljejlaWnM4YlF1MkV4bFdMRm82N2d2eGJCQ05aYV81UnZubFdnTnV6emh4ZGFHN3VXV1NOZlJub0lib1l3?oc=5",
+     "fecha": "2026-10-16T07:00:00Z",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "titulo": "Falabella Retail: perfil de Cristóbal López, nuevo CEO en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWEVxVUpId1pDN0VETDdKQ3JMTDF0VHJCQU5GckZ5M2Q0ZTljc1NlLWlPLTZDLXBUYzZXcnpBMUpGMG9adEstelBKUkdmeXI5RUJVbzZZMWpPZC0zbGVwVjFKYWZwYVY5cTZXWWZhcmc2SmxjQXBRd1U1UnM?oc=5",
+     "fecha": "2026-10-12T07:00:00Z",
+     "medio": "Ex-ante"
     }
    ]
   },
@@ -130,6 +130,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjd5bXAzYS1FNWV2ZUFHRks3Y2dPOV8yV0Q1dmhLUTZOb2JUenFxdXpoOFktUU9wcUQtVVA5Z1drN3dzLWVveEx0cW5kREhNQktyNmRYNGtOYS05X1NKSWhobzRWS25mX3RXNjFFcUF1MGd4WW5oMnc4cFM2RUh2VlZBM0Q0VEE5NjNtQjBrTEdpbDl5d21FMdIBngFBVV95cUxQckhyQWZhVDFPM052OU1GbHhYVE5OajJNRkFrQ1lsajdraTRfTEJ0MUtvRXlpbjRCbVhYc0UyT0FrN2JpVmFjX3pLeW14THpfR0lwdmU5SERPZkRrN25WN3k1Q002aWU2ZTkyRGUxNUJvLVFnUjVEZnZ5dEZRRkRxS3IwVkllaWJUbTVOd2hWRy10QU54TnVqeWZqaVFrQQ?oc=5",
      "fecha": "2026-10-09T07:00:00Z",
      "medio": "The Clinic"
+    },
+    {
+     "titulo": "Recapturan a presunto líder del Sindicato 22 de Octubre; enfrenta acusación por extorsión en La Paz",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOTFVOUxyaXJqeE56eWVsM0JEZ1RQS2p0LWthQVpUckJsR3F0cmVzT3lCQnhXaHZxcXg3Njg1am9GbnN6c0VVSG5PSTgwUHh3ZWdtZDRPcF9SUjZvOXFaY1R0N0JJMEZTczV5N0E4eGZfTDFVc1FCdG9UMGRYQTM2Y3lsTHVXZmNzemhrbjZTb3NQZlUtazBvRzhyUXU4ZlFXc1pWc1YxaFFZQXMwOXVlLTh0YzdHZ0Ita0czU1lJeE1GRU9JUzU4clE0UDVhQjROLWJpYVdnaDZCSzNSQnFzc3o0dms4dkJrRm1IamlGb2dIY00?oc=5",
+     "fecha": "2026-09-03T07:00:00Z",
+     "medio": "Sistema Mexiquense"
     },
     {
      "titulo": "Sindicato Interempresa Líder Walmart presenta reclamación ante OIT por eventual negocio de mutualidades",
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeHRhOHFnLXVvYTlsNU1QQ011MElXbS1uSzJ5X0lJbXFYbUFjNGVYU01lMmt4V3hYRXBNRG1KeUNjX3plc1RxQ3pqaTE1MGZOUktBNFdyb0JfNHF0eVNnVFFPR2lubjRFekhTS3JqdWgwbWF5cUNpQXYwR3NSU0hMcUxkemlNQ3piQlRDNU9sbXM3VC0tcW1acFFVV2d4cU5JeHdZcF9wN3NOUmoyV1ZabHNwU1ZGQzhvN1c3ZnU2R0c?oc=5",
      "fecha": "2025-03-24T07:00:00Z",
      "medio": "https://www.mintrab.gob.cl"
-    },
-    {
-     "titulo": "Presidenta de sindicato de Walmart Chile en huelga: “Walmart está realizando prácticas antisindicales",
-     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2hjMXIzaXdTSlFnSThuamEtM3lsRkFKM21BV3lmbmlvSEFjaTdsUzFzeFFEMmx0Q3J1c3A3SGtKNlg5UWVDNFNkWHNOekxwQ0pvVzFYa0JZc3RFUjRRYUVXcUZCQnVzeHdVQ1lHZTRKMFpBWjdJd2JjNzNSZzREOWVDM3VpOXpKbGlaYWxSYjQxYndZUVZ3clhDelVfSWlxTW9DZHR0aWswYkpSNE1YVmRIQ0hXb0pGaVY0?oc=5",
-     "fecha": "2024-07-13T07:00:00Z",
-     "medio": "Interferencia |"
     }
    ]
   },
@@ -306,12 +306,6 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Cámara de Comercio y Municipalidad de Temuco firman convenio de apoyo en seguridad",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkpiZE9WMXJqdkFRcTBRNHMtOV80Q0lVWWRIbVVUZTBNMTQwNklDblhsejZlelhxNWl3SEozX0h6Qm54b29mQkF1aUdYZ2xDU0w4THJObU9FdHhRRzljeFpBbzM3ZHhIS1BOOFhLWkp5STl6ZklXTUVQN3lrcEdvUWNDNWQ?oc=5",
-     "fecha": "2026-11-11T15:33:20Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
      "titulo": "Temuco lanza plataforma para denunciar comercio irregular de forma anónima",
      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTJDSkdLMU9rNDRQNTVHVmN2TS1mbUtHRnlyNGpCcDJ4MmNWaVVxMWJaQVNOYXh1Tzh1clNzSmxJZldLTmZIalFqNU1GR2hoQmJJeVNNLVVoNndBNUdhTFFJTXhvc25Ec1I2aHdOd29NNW5xY0Y1TWtVTmd6aGpOajZEOUJtU19SV29qVTVLaU5famRlT0xoYkZZRdIBoAFBVV95cUxQel9ZSFZiN0hjQ2dBQWhHcFdPN1RiV2lSNUZDS2RkRmZSYkE4S2lld1NMSDFmdDBtUHZ0TkRTdmxlSkNTRkFTSlMxYTFGVWp1eHAtX2ZhaEJ1aU0wdEdZSnBnUzhjQmhxUzdVLWhWLVFMaEktNmdjRTFqQ1BOT1RNNUt6ZTdtT2tiNTNrOGRpREd1M0czbWhnT04zUzBUc1FW?oc=5",
      "fecha": "2026-11-10T02:52:37Z",
@@ -372,6 +366,12 @@
      "medio": "Teletrece"
     },
     {
+     "titulo": "CÁMARA DE COMERCIO DE LA ARAUCANÍA VALORA AVANCES MUNICIPALES CONTRA EL COMERCIO ILEGAL Y PIDE PERSEGUIR A LOS PROVEEDORES",
+     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUkZuWWMycEYtRDVpcDJnQzFDbk4yazNnaUhlQTQtaW9Qc2tfY2VkMG0zWlFBWEFzc3ZvYzFNakhtMTMyZ29ibExubGRhdzhDVnlyS1drS2lwVmNPNGpBcjd4RkdrZUNCUExKbjZwUVlHODIwMU9EVUxiT09jbUoxcVYwUVVtLUF4SDI1OUVwU3FnM0RsaFFIQUxKZ3A4alRpMERFSnVZVURSN01XVnV4Yk02ekZwaXNkanNVQjlKUGJrSDd5SEhLMFFISVJIaXhPeE9TQ29iTkIyZXR6T2dNZl9yeWZHNEdFT2k0c2ZwVXJ4VU5WQ2NXeV84cw?oc=5",
+     "fecha": "2026-09-13T19:31:11Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
      "titulo": "Temuco: Operativo contra el comercio ambulante dejó cinco detenidos y ocho guardias lesionados",
      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZE9wY2xVa28yd2d1cjMtR1hYdEZCNnJUNVNWZjg1VXk0eXI1dXVrRndBYTB4T0VTRHRfSTdQckc1Yng0bjBSMmdGZ2R2ekw2Q0lkVmtzVlRyblM5RDE3b21YRFBYY3NITzI0YnE4Njd0cHFyMWM5S3NJSEhLOU5JVFRTcmt3TllzZDVTcHh0bDdQay1aeGppTm1EZGNTbVZzZzNDM05JZ0EwUXNkZDNJbWhrSjl4S0hCYXA2MVVaRU53bGdNVGwtQjYtTFlSOFJhWV9DZHNQYzYxb1ZtMDRHeXBCN2lrQkhMY2Rz0gGMAUFVX3lxTE0xWVh4R2FWeXp6TVI0Y1E0RGNyUjVmbmV3YkowRXhEMHhtY0F1cTQwemhoVmh2WUxId2Y4ZUF5Y2Z0ZlNyOF9CZklvMk9iZWRiMlZBRGZjbzZZZGNQbkw0SlpMMnpxeG1uVU1CZmhIRWtwd1VNOVFkTWFIZ05qMHAzaVMyNmZYVm9mRGZ4?oc=5",
      "fecha": "2026-09-01T07:00:00Z",
@@ -414,12 +414,6 @@
      "medio": "Meganoticias"
     },
     {
-     "titulo": "Ley 40 Horas: ¿Cuándo será la próxima reducción de la jornada laboral en Chile?",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXpmWVNTa3dsSFFqUHY0MlVXWFdwNXlzenJkeW1Od1p6QTdkYU9IU1VVRDZkRDJETE9iSGt4cnAxNVJCNmJrZ052ajRFYWZGRjlQSFFuSXFHTlVQS0Rld3VZVnBLdVVRai14SVdXbzNHR096Ykw4OTc2c1BFNkhpV3o2VXpQc1EzMlVvSzJTMXdrVVkwWnJBd0RqRVZMYnpzd0RfdXhua2dVX2Fab2FYa29PLVlpX2I0?oc=5",
-     "fecha": "2026-11-16T19:54:02Z",
-     "medio": "Canal 13"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
      "fecha": "2026-11-16T13:14:42Z",
@@ -432,52 +426,58 @@
      "medio": "CNN Chile"
     },
     {
-     "titulo": "Sindicato Sandvik Chile Nº 2 concreta acuerdo en negociación colectiva: La unidad y la organización sindical permitieron avanzar en mejores condiciones para los trabajadores",
-     "enlace": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNN3pieGlrbWZCbWsydmEzU2hIM2RiVTZuRnI4TDRQbHRVTGJoUE5PS3UtZWpzVTlkbllYNUU0VG93NjROUHlpWVM0QUNQaV9IcVB5MWRFY2JmMzM4RWVqN0ZSVzdKQ3RNZV9ZeGdxenBvR0dOMjJiNV9IeUhYVmt2SnB2OHRUS2d4STU2bVdSeDZiOFJ2eG53Sjg2YVJIeUkybENBY2RWSU01bWV2dVJXM1VKZHdFTkxMa193c1FOR3JHM2JteUxyT2ZBUHlsSkhlM0lHWUFmQlQ3dUhhTnFoUkMzOTVrdTQ5TWlxYkJka2dDMTdra2YzYU43cmJtRF9OZFk4bXZkN3FhcFo0VkZwaDYwQWxPUnp2aVlXUnFQRTc5bm90MUNEckh2ck9PQzR3T2hEZ2JPZUxNaF82X28wNjFjb19pVEpqTXNGMWpNcGE?oc=5",
-     "fecha": "2026-11-11T18:04:22Z",
-     "medio": "Confederación de Trabajadores del Cobre"
-    },
-    {
-     "titulo": "AVANCE DE LA AUTOMATIZACIÓN EN CHILE: CAMBIOS Y DESAFÍOS POR LA LEY DE 40 HORAS Y LAS EXIGENCIAS DEL E-COMMERCE",
-     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmpWX2VtdkduRjNmQWFqbHZkb3htcUJuSGhjVHZOaVVNUmdIeTl3TGk4bGRicHdFQThoZ2MxR29TTHF5ZlY0R2lUd0lTWlNUTmFtckR6NEx2bXVRM3ZIcDdQOGRSRVRBRW55UkRnQmU4X3k4UHZjdlhiN3Z1MmpnRGdfVkFjaElpU28xNjlWWjc4LWthQ0lORW9tUThfdHlERF9iaW92aVVXX2xmNWh4b0RudHhIT0NDV2w3TzgtYWNBWWx2UnhFMFo2cmJmS194Z2pqYXQtaUZGbUdRTFN3OEJOc3hzUkM0OENGRzc0YWlBUm1XZzZR?oc=5",
-     "fecha": "2026-11-10T15:45:46Z",
-     "medio": "Revista Logistec"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
      "fecha": "2026-11-10T08:00:00Z",
      "medio": "EL PAÍS"
     },
     {
-     "titulo": "Ley 40 horas: nueva jornada laboral en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjcxMDBXNFJOeDJFZWFBSlRPWHhQY1h6a1hXbVBRc1FibEZXVzhwYUV6blVfQXZxVnVydDlKRThMTl96SnE4RUlRODl6am1zMmUxMDhaRVMwVU1CbG55cEhLOW9OMVdZTVBkeHhfZmp1aG42aHQyOVdzS1FNT242NnVmalJrRjBoenlFZUdNMFJEV3BuZ0JYMUw1MUhhY2N6UkdKN3IyVQ?oc=5",
-     "fecha": "2026-11-09T17:51:34Z",
-     "medio": "Enfoque Digital TV"
+     "titulo": "Todo lo que debes saber sobre la Ley de 40 Horas en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xbTAtM2h3VDctb2RtQ3ItaF9fRWg5Y1FjMkh2MWVycFdJTEtBQTI5Z1JvY0xDQ1Q1THQ1UmE5OEtjSXk1ajY3NldUWVhEbk1BMTVCWldmb1pUdlRuOTY00gFvQVVfeXFMTzZkZEdkY04tcnVFbzFacHNzZDQ3NG1NanhnYkswNG1hYkx2bFdkR1ZPajkxZVllMlFrRllTTmdOX1VhRm1vVzl6eEN4ZzBtVHZuYThCYTloRFE3THZELVVuSEk5NFpVNFo2allmMTY0?oc=5",
+     "fecha": "2026-09-30T04:58:34Z",
+     "medio": "InvestChile Blog"
     },
     {
-     "titulo": "Ley 40 horas: cuándo es la próxima reducción y a quiénes no aplica esta normativa",
-     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWHpzd09TeEVrTzJLcVNhc1R2bDAxcGhSQTg1TWtZczVyVFNMOE5fUzNzMlotOFc5Sk5wSlRVV01LeFM1Z3ZKVlR0NnBlRTV1cjRoc1N3cGxoV285dV9DQ3h0WmNqLU1lblpNNEh6OFdVZWNheHlpcGdzejM4Ymx4NllWRFZhU3NFbFB4bUZpdWVTRmZlc1g0cEpZTmpBUmdyOW9PVmJicjNKSGluNU1LYTlYN3hIaDVheUJBdWhYWlFxekxjeVZ3QncwUVpycUdtcnVjSU15QWRlUXBxcU5RUHlQcXNycmdJ?oc=5",
-     "fecha": "2026-11-09T08:00:00Z",
-     "medio": "BioBioChile"
+     "titulo": "Kast quiere modificar la ley de 40 horas y flexibilizar los contratos de trabajo por turno",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmxfdTFvbkFqNzFBbFo1ZXF2SGRFR0VkOUFsTjVzUkZrXzlMMTk0bTVLdTd2TEwzSkRsMTVxMmU2NmdGTzFlZ1prUFBiTGdoWktES1VWZzdBaWFuTmJaeWFqYmhGMnFMVHhBYkFRbHBQZU5ERE1DWGMxd1VDUllZRlEwRXJIWUsxMzlCeXc5MFd6VUF1LVM2TVNobW1MaE82dlVxcl9CeGhha296N29YNDE3VjgtT2lYNTFFbHNiT3JOZjhEUUZnOTVPc9IB3wFBVV95cUxOUWtERVpjUm9YWVg4VjRKNG9YRnFvRDk0VU5QQ0djWVNXWFNjcGMwVi1zWGpqaHc0VUdqajFyclFPNHNJS3hzMkoxendMUDFBM1Q1TFNlNnlKa3BmN2JUYzRCWTZXMWF6d2hzejZhZGdIVG1QQjRLUC1MaEx4N3BoT3BVcEg5WEtBcTNaVlZjdVFfRWpNQUZsUXFucDdWXzVDZXU2VzZ2dUhHNm9CbmZIZkluejR1bnRrS3I0YUttR2EzamY2REVWcFpaSlhWd0lObGw5Y3hNOWFMWWs3c0JB?oc=5",
+     "fecha": "2026-06-25T07:00:00Z",
+     "medio": "EL PAÍS"
     },
     {
-     "titulo": "Las 40 horas en Chile: Conoce las fechas de reducción de jornada laboral y quiénes quedan fuera de la normativa",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcWZTNnN0ZEtFeVZNMXIxd0tDbkpOQnBJY2RkS25qbUJNRnFjRzZqMWZQZGNndGNCSGd0TjRsT3hJZDYwbmZMTHI4aWF0VzdxTEc2MFdkY3VidVFzcVpKeEFuUFJtMWxkcVNIa1g5N0R5SVJBWnVkZ3lLTkdpcEk2YkVVNFFLS01xMk9odVZ3SGRVeFR1VWxMLTIzbDFTTEh1dVpkc3hVc0RHNmM5MGF2Uk9WRUViWS04eDZobDhDaWRpNVhwTkF1alJZTDVMRlJ2dFhJS2lwbmpfaVRHbWVILUV3SzNPSDNzNy1IajhB?oc=5",
-     "fecha": "2026-11-09T08:00:00Z",
-     "medio": "Publimetro"
+     "titulo": "Ley de 40 horas en Chile: cómo y a quiénes beneficia la nueva reducción de la jornada laboral a 42 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbkFKaS1IWS1BSm9LWXBvUXIwQWYxc1hHc0tmRTNpR3JYU09TOTVfUnpBM29SaEh2bzdGTGNTY2MyRV9kWHlYVnBhU1JPeTNhdWo2RjF1MzY5UTRpMkV1RFAzcVVsRDFYRW5NNjRacldVRUxTekQ2S2lhWHdycjlqZUpnS3o3VU45UVV2bGpSTGhSREZaTFoxRS1ndEk5LS10dFp3NWpnWkFJSFZUS0lyTUN2czc4azB3SV9SM0ctS1AzSHFkZnBTM3Ixb1lsc2N4d1YwcnhzSEVMQi1S0gHwAUFVX3lxTE1FVjhOWm41eXNFeFdXSWpaYUMtbUlLb1hBRWFsdEFnVHAzVnA4aTJqQ2tna3lDX0VJSlNoTWNzRGJ2TUxQMk1XM3BhU1U0OWU4SmpXcFJQR3JRcnhnbjFHQmVheWlseElpd3hvSFRJeFg0Q3JXc0Yxb0FUekpLQkJEQ3ozRE1XME1tMWhMT0xZWWNXZFE4cW80dTFNclYzNnZTSEtQUkhKMWZ1UjRJSFU5OFhEZXl2czNGVTRNZ1lWN2pRWlIxOGpMNGZxU0k1cVNvaVV6Rmp1dDlHUGpBTnE0bGZza3lUYktnQTA5dThWNg?oc=5",
+     "fecha": "2026-04-21T07:00:00Z",
+     "medio": "EL PAÍS"
     },
     {
-     "titulo": "ANEF junto a la Mesa del Sector Público inicia proceso de negociación colectiva de las y los trabajadores del Sector Público",
-     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlFwU19KRVhVQVdRcUlSR3VXdlNOd3c5VzcxMTJZS2lwYmhuVVI3cXh0TkIwWGJPdDBERUM1OG9ieG1TUnhPSnVlRU81eFI4ajNDTGFjZEVMbXc0d3o1ZGJqNUM0cUZnV056OEcyY2NZUjE3QmZLLVlTdTJaaFEwdmNYTDZnVnBjdHRHMXFPcVZKNXYyR0RYVjNBejhtQ1c0amdCOU5lN0lyMXBhWFctNG1telUwWjBFbDFoN1RRVmplNWRDMWtzbmR4VFl4YVVvbjBmZnN1OU0?oc=5",
-     "fecha": "2026-11-05T07:40:01Z",
-     "medio": "anef chile"
+     "titulo": "Ley de 40 horas: Contraloría excluye el tiempo de colación de la jornada de los trabajadores públicos regidos por el Código del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPM3RlZUZhQkttWGM2azVWcFozazM5OWJFQzlEdENjTFM3NElvVkdoN0dmYVhZMnAxNFM5RklCOEUyX1VSTFNxQlFGNUxGc3dBUTA2Qjg1ODhlZG9RYnZMSGI2cTU3SXZxaWNHYmFMdkRrYVVidk5GcEZqTVRXdERRdTlRTDg1QmNud2NXT2xrU0JuUE9XZWcyV0pSTmg1ekZiZV9XT1d2WndLQnBkMG1VRVVyRWJILWRvREJQeG1pZDBGM1dkUHAwNjRZeVJlSGdVZzdiRkx2bFh2ckQ1ZmpYYXpnOXBNeTROZ2FCc2NMWXFOOFpaVmoyaExSREJJZ1FtRXc?oc=5",
+     "fecha": "2026-04-20T07:00:00Z",
+     "medio": "- CIPER Chile"
     },
     {
-     "titulo": "BHP ofrece $28 millones por trabajador al Sindicato N°2 de Minera Escondida en propuesta final de negociación colectiva",
-     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRkxmM0Y5Y25LcUpDSTc4ODVBY0FhNnRXM2ttcjJxb3RtZVpqZmt2b1ZuV3g2WTZGYXBqVnd1UUFWLW9PMHRCdk5WTkJUdWgtdkVwUWV2bkhIM2QzZU9neDRUazZNbV8yUzJ2Wm5TdDZHVG1xeXVoSUk3dzY2b0RPQnFZRk90N0l6OHRieTVhSWQzT2otV19NOFI0MldXQk4zYVhMVFYyX2ZORW56NDZGQkZvMjRyQzd6Vko0bm5XeXk1dDRYNm1FcGdxUU51UWJPbXZkMGNlTXVTNDlPd1JfdUJ3?oc=5",
-     "fecha": "2026-10-13T07:00:00Z",
-     "medio": "CNN Chile"
+     "titulo": "Nuevo dictamen amplía criterios para negociación colectiva de sindicatos interempresa",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iTmpwWDAycjZLaVp6YmlqSG1QcXJRU2tCb29kdFQ1ME55ejlzYWFZOE1fM3hjZ1F5RlVKb3Y5Q2JJUjY1NlE0bnNDV3BDTWZHYWZ0SGpVWThHTm9iTV9HNVQtSUFnTWc?oc=5",
+     "fecha": "2025-07-25T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Dirección del Trabajo analiza efectos de las leyes de 40 Horas, Karin, salario mínimo y conciliación de la vida personal y laboral",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5ZmVwM1ViV1RoZTRCZkpBYndLM21hTGRwVEZLam9ndWdIWjhKNldWNHlITW9SUzA5NUM0NTRBa1hwbWk4aXljeVJfRHItZGlzLXFrdkE0Qy1tREh3eS1NTFdyUi1CRkU?oc=5",
+     "fecha": "2025-07-15T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Cumplimiento de reducción efectiva de la jornada laboral a un año de la nueva Ley de 40 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRnlQVEdjQ25saDNmaHdLSTFodk9pdkVMdWZNa2dpZmEzdHBmb2RZZmJYWEhqZXdBMjNGcHgyU3JZYS1oVG01STBUTTVfUWczTktVek1PcE8tb3g0dWx4R1dQNHREeGM?oc=5",
+     "fecha": "2025-07-14T21:58:48Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
+     "fecha": "2025-01-15T17:57:43Z",
+     "medio": "Dirección del Trabajo"
     }
    ]
   }

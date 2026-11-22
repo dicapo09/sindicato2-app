@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T22:02:09Z",
+ "actualizado": "2026-11-22T02:38:47Z",
  "fuentes": [
   {
    "clave": "salud",
@@ -18,10 +18,22 @@
      "medio": "Radio UdeC"
     },
     {
+     "titulo": "Los centros asistenciales con mejor reputación de Chile en 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORENYUmdkLUI3ZHduYjhvaUxneVZtNEVPYmdWQU9Ya3FGOUpXZ3JlODRfN3M1b1NDSzZUYkdJX1Zpd3MwbUE4dGVOMGdLWnZWeFk1REFiclZSZ1IxdG40THRvVGY0QkFWUzY4c0FYYUpVdENGTlpNYk5DWWh5dWJLdUN3RV9vSXFwVW9EUnBtZUIzR01URzVFaUNsUjR5cE9XV3diR3JyWUVkTGxTTTBwejA2RTFic25D?oc=5",
+     "fecha": "2026-11-18T10:44:07Z",
+     "medio": "Tour Innovación"
+    },
+    {
      "titulo": "Habría costado $120 millones: La comentada campaña antitabaco del Minsal que desató críticas en redes",
      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOemFncFpZVWJ4Zm1maGRFbkh2S0R4bnNIblpVa3phcVcyVlQzcDlhQzZabVlvaVVOeUV5Mk5nT3M1VlEzSmZZQWNYMmc5VkJFekJhaDRXZlJnUExSQi1EWlowaHNMNDVWUkhONGc5RGlXdlpKQktzbXdmYWJ1d3YxSkltaVJ2WGhTcDVIa3FOM0lyQV82dVNpbkx6bldybjhla1pPaG1rRTA2MHN0a05JMXpJTVd6dnZjNmZRcG92cS03MWFzOTliemN1d1BkRTZmc1dTakJRMFRzbTF2aFE?oc=5",
      "fecha": "2026-11-17T20:29:47Z",
      "medio": "Chilevisión"
+    },
+    {
+     "titulo": "Hospital Las Higueras es el primero en la región y el tercero en Chile con mejor reputación según ranking Merco salud",
+     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRXFucWx4NHY0WDVFcDk0ZlhyUE5JUzMtQUNZYkpybVBmcGJ0WjFFcnc0Q2lpcU9OaElyNURSdHRfaUMydW84SnNJdmRmME9ma3pCbzhlWGJXZ0xUSXFtZkV0ajhiOXhubHFSVGtWWFFhdnAyc1d0NkJXQ1JjZjNycmZ0ZnVLQ2haRVNtMHFLYjY4Q1M3M0lxZjRYdDBBc29NQklGZ0RCc1l0cmJ1Y1RPYl9fN3Y3aVZRTFE5UmM4TWEtVWxvcVFscHFFa0pwekhqaERFWUllcURxWXl1aE5PSlByTQ?oc=5",
+     "fecha": "2026-11-16T20:02:51Z",
+     "medio": "Canal 9 Bío Bío Televisión"
     },
     {
      "titulo": "Encuesta Mundial de Tabaco: Uno de cada tres adolescentes chilenos reconoce haber vapeado",
@@ -82,18 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SUzY5ODQ2d2RnSjdNRF9wckE4dlVrWnZObTZSZTd1NUlTSGt6bkgxdzlMZXdqbGtTQVgwVXBTdnoyOGg4alRRTnctZ1FvYlRHNGRGSlFxWGR2RlpGOWx0VDhUdHlFck1ESW5EbnlEZVNmMC1l?oc=5",
      "fecha": "2025-06-25T07:00:00Z",
      "medio": "Pontificia Universidad Católica de Chile"
-    },
-    {
-     "titulo": "Ley Mila",
-     "enlace": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SeGdUNUUwSy1Mcm9EWUtmSm1fTUZYdHZSSnExQ2FYZG1saG5wUVpNZkVTYXQ3MUJmZ0pfNVZHU1U3VVktT0QtQy0wNFZXbU04LTJj?oc=5",
-     "fecha": "2024-08-06T14:34:58Z",
-     "medio": "Ministerio de Salud de Chile"
-    },
-    {
-     "titulo": "Programa Nacional de Infecciones Asociadas a la Atención de Salud (IAAS)",
-     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tWVhUVjdUS1Zjei1yTWxBeEprVjJ2S0x4WkFYVGRwbHJxTlNja2lJVi1FUTFoUGtzN20ybjRnTGljM3llakR1aXdNSGg5TlZBU1ZJYnBVc3JVZmt3dmhBbXlOZGtPT0Q2LWYyTnRtOWoxZ2JSRnN4Yk5Fc1E?oc=5",
-     "fecha": "2024-05-23T00:59:33Z",
-     "medio": "Ministerio de Salud de Chile"
     }
    ]
   },
@@ -101,6 +101,12 @@
    "clave": "gremios",
    "nombre": "Gremios de salud y públicos",
    "items": [
+    {
+     "titulo": "Confusam exige celeridad en investigación en Cesfam Damianovic y alerta que “las sanciones son altas”",
+     "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOUp4R21Bb1hkWmplODFfU25vckRjbmRXSEltXzNoaHZmbFdUd1kzQXRVM3NSZ3VzXzNOTGZ3aHhvUlpMRENGZnIxN1hOa1pDR2xOLTJoUkJxbExuTm5yOUV6WmR3b2JYaFRFRXNiZFZ6aElzRXpWTmlaQldlTjlTVFRDaGYtd245YnE1LVdMVXBISmotQmtOZ25wWXgyVllOaTBBRnpabVRNV3N4ZmlZN3pOTUFYaFJFdFFTeWJYNnNXa1hHWEF1WVdjS1JtT0Jx?oc=5",
+     "fecha": "2026-11-22T01:38:12Z",
+     "medio": "El Pingüino"
+    },
     {
      "titulo": "ANEF Valparaíso se moviliza por un reajuste digno y en defensa de los servicios públicos",
      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1d2aTNULWVHX0RHNV9sY3JTOTRSRmJrOEF0Njc4V3RaRWQ5Wm1oR0RTOG1oRS1zTVd6QXlDTzdCX0lHS2VQWVc4blF4bjJ5OGwzVTF3Sjh3MU4yZDhJY2txbmZOU0ZyM085MVpqZUFMZ0ZoXzdKNXJrMkU0UFVYZGdQeU1xV3RROWJQaVJ2Z09IU005UHVHalgtbkt4SUZDNUljcXc1Y1E?oc=5",
@@ -162,6 +168,12 @@
      "medio": "anef chile"
     },
     {
+     "titulo": "Minsal: 57% de los centros de atención primaria afectados por paro de la Confusam",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdG1VY0RaQ3ZVS1BDdlJUNmVSS0o0ZzJ3cTNabExJNU9iTXNWcnY0bWZHM3duTUtfYjFlbVU5aUZlNHYzSWEtNk54TlNuZFdXTkc4c0I1MWp3QnZDZlJYR2ZORHJvMGd0UHJDWEtJVmllU1YzUVpUTEhtd19GT1JUcFVoYkZQSDVpaFJXMkhwall5M1FveWJvbFo3QmtPQmdIYWp2R1FjQjg?oc=5",
+     "fecha": "2026-11-19T09:05:00Z",
+     "medio": "Antofagasta TV"
+    },
+    {
      "titulo": "Marcha de CUT y Anef contra el presupuesto para 2027 termina con detenidos en Temuco",
      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTG5WLTg4Qm45NHhYWHhKLTRyMnVfR21zOGZycVc1aW53QWZyRHp2M2JqR09uNmU0MzhucVJNaDkxeWhOUkFpc1lnSHZhakRHamNMNm02c2JmWllqT1lubEViMUZOeHFHUHdpOUtUem1nOXFGRXZxWXo2ZnFQWDFKU1I2YVFMMTJ6dGpheFZ1OC1aNTZLeFE?oc=5",
      "fecha": "2026-11-19T01:00:46Z",
@@ -178,18 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVBVYU1FUkNQSUF2a3lsaGNaUFNGT1hIeWkxRUZ3aUNTSXQ0TGc1TXRkN1NrTWFjOUZ4b0JaMVVJNlJQcG5Nd3NCSGY0dnlDNlhxVkNSZFdjZm9Yc0VCWi1yUzI5N2d1M2ZKaVNKVlhxS3hFaGE1SS1XLVNibExsMzRIMmNVNDhFZ2FZMzdaZjV4MXNDS1Q3Q3RteWQ2T3Ftb19kcGZoYnlXeWFibklEMXoxMG1TdkZYQ1EzWHpnSzk?oc=5",
      "fecha": "2026-11-18T15:13:00Z",
      "medio": "Radio Atacama"
-    },
-    {
-     "titulo": "ASISTENTES DE LA EDUCACIÓN DE LAS CORPORACIONES MUNICIPALES DE CHILE, FENASICOM, SE SUMAN A LA MARCHA Y PARO DEL 24 DE NOVIEMBRE",
-     "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb0JDSGF1RTFPeDdpeW10cDhfOTVPYkRYLWpwYzJjdjFKb1hhMHhGUXhPeWZnRktYSTI3dUdKUG5RMDF4cnl5YWZScHZqd3RmUDJyZHFNbTlOd0pVMU9rSFo0bW9XejJTOWUwNUNYOEpMSVlpQl9pc3VxWUp0RVdfSjE1cVhZcll4S2Rxc3haTHRHTXBwQjFEMFdram5EMThjMDNReG5xMWpwend2ODFvSzl5bXRYRmpOVVhSaEVpUmRQLW4tVFRuSFdRTHZZNnU2QmRpYTJuSFdtdzV5dUFKOENQOUpJM0tfeEoyVVFvRGwtTEstRTlheTVjTkhROUJWUEFN?oc=5",
-     "fecha": "2026-11-18T14:59:30Z",
-     "medio": "Colegio de Profesores"
-    },
-    {
-     "titulo": "Anef y asociaciones acompañan asamblea de ANFUSEPU: funcionarios advierten riesgo de despidos masivos en servicio para el 30 de noviembre",
-     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQU80b2tHbnhXT3RRQmZ6U2xzT3Z0SWdxSDAzQVZOM1MyMEd3Z3hPQk4zVXVXcEQxS2dlM3BtVEtrRnNTZVJzbHJVQi1kT01Ka2pkaUl4QXQ2dVdMQ3hLV2hfeXNUVGxzQTYzdVFWUkc5WFZMSXVrb0g3bEFCS2hCdV9DLTNIN3BERGxGZ1pOMXdleklGTy13ak5BbDNWZUFlS2NBNnRjVWtfby1qeHNwZHI3UXJlb1NYTnRaVV90czNTV250MEZLcXZUUkF0bzhDcVZOdUExbDFTeXZDU1A2cHp2UGRiSjct?oc=5",
-     "fecha": "2026-11-18T13:29:48Z",
-     "medio": "anef chile"
     }
    ]
   },
@@ -197,6 +197,24 @@
    "clave": "publico",
    "nombre": "Sector público",
    "items": [
+    {
+     "titulo": "El Ministerio del Interior está endureciendo los procedimientos de contratación y traslado de funcionarios públicos durante el período de revisión de la plantilla.",
+     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3R1WWVqMHN5MlNIN0dPTE5tS0U3MEZiSXgxT2FENDZKUXBuTVdqZmliSjV1d0hOUDhrX2xaWnFiLXBQR1AtS3ZSZHNEbTE0bldzejh0OU9ES0d3RUp4ZVhMWVJ0M3ZJbVU3TGRwX2tYb1hXMUhRczFiOWozMzhyYUVtNk1vN2huNjAwbURIeWlfTVR6Nkp6T0diZ1dOZkYyUEczMTFoaHZwZw?oc=5",
+     "fecha": "2026-11-21T22:12:38Z",
+     "medio": "Vietnam.vn"
+    },
+    {
+     "titulo": "Neuquén: proponen que funcionarios públicos acusados de delitos sean juzgados obligatoriamente por jurados populares",
+     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQUc2QlJBak9tTXk1dWNaOTV0SmptWllrU202VUJnd1l4SDJCSmFycElYRUNRRFFrMkFsY2M1UlAtQ1VDUXI1WUc0bFNhYldhVU9ENUw1MmtVcmNZZ1NlS05UMWttS1JyQUlYM3dtVVhjVTRJLWZHYXp2M3ZfZHE3MFdPaHNiWkUzRUNGeHFEZWhjbTZYZ0twdHFnQURYdlUzakN4eDlrNzBFLXU5R1FPcVYyRGZwM3JkY09uUm1JNEFDODlCeWNiVmxEaTB6NUxTV2UwMmhnVW01NWRiM2Fr?oc=5",
+     "fecha": "2026-11-21T20:36:56Z",
+     "medio": "Diario Neuquino"
+    },
+    {
+     "titulo": "Suspender temporalmente la contratación y el traslado de funcionarios públicos al elaborar los planes de personal.",
+     "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDctZ2h4RzYtMjRCWXRxWV9SRmFnMlRDeUZncEN3M1U1eDFmNjdvdUxVSlp2b2dTWkpzdTBVc0VBT011dGFQU1NQZ0FvaXIxc3RxX3FsWGdkZERXdm0xUmJvZEF2Vk5fbFo0LVFJZU13bkVsVnVmcFkwc1ZTWjIzV2QtR2lXQkktdk1QRVlXV3VncngtbTRXVDlXZWpleDQ?oc=5",
+     "fecha": "2026-11-21T16:35:30Z",
+     "medio": "Vietnam.vn"
+    },
     {
      "titulo": "¿Se acerca el fin de tu contrata? Qué dice la ley sobre el 30 de noviembre y cómo evitar una desvinculación arbitraria",
      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOWU5SlRQWXBPRVI0allRc0xGaFZDZFNESFl3MUFDeXNvZWtMMHBLSjFDVGxrT3JVeDVtaElZZERoTXRUdjRPRzNKZ0NjN0huUVRNRkdrUG9oa0NGeExaUDR5c043bV9xVXBuWW5lajNfZlRwRlBDbVFGYjZJOUt0UG9veDkydENfUjJUdEdXeExQcUR6MGVHejh0UFdtQ1JiaFhXSUtjNFBiSldHUFhhUGx5RkZ2SUtBd0NzSE5INi1BVVlYUlhLaA?oc=5",
@@ -220,12 +238,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEVBcUZGN2MzaTFRWjY0bVRNX0xOMGVFZ01VTWRFcm1rZmpmQWFCb1V2c2tWX3R4bUpZQW93Si1xWnFTUE5USGQ4OEJPVE1KMmlrZFZENXlnalpGUlNaVl82ck5PcFFUbVNUOUptdnRnd3BGWXc2elpuZ0JFam8xZGY0bV9uY2lfdVNPTS1kSUlHQ1k1aEF6N2hOMzRkRlA4?oc=5",
      "fecha": "2026-11-21T04:43:00Z",
      "medio": "Yahoo"
-    },
-    {
-     "titulo": "Suspender temporalmente la contratación y el traslado de funcionarios públicos al elaborar los planes de personal.",
-     "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTlCeENieHdOVk1hM2ZtcjI1MDY3Y1VSZmZFYS00UEhiVmlnSzhhVWZGQU43Rm5qTGZPZC13QTAzaG5BcERBMmZNSTBEVDdvZXliSTczWG10bEhKUFZUd2kzZjlvMTdZT3NQRlB6WV9KTjJUYVpYZEI0dU5VWHVLNkFBcE9KbkxRbmljd2RQVWRXeHI3SUdicXVtSi1rV3o0?oc=5",
-     "fecha": "2026-11-21T04:17:13Z",
-     "medio": "Vietnam.vn"
     },
     {
      "titulo": "La contratación de nuevos funcionarios públicos quedará temporalmente suspendida mientras se elabora el plan de personal para el período 2027-2031.",
@@ -274,18 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVWt0cFVEOGJRZG1iVE1HcmdKYWhsSC1uMkVuRFJXTTVSTDN4dVByZ2R3bDRoVjg4bmp6WFZmMVFfak44RGE0OVY3NU9hZFIwRERSMXdmRU5EY2l5b1ZMN0tQODlXNWtYd0dxNmtMeGZsa2huVUpVMFA1MzNVWXpwQ2tONVFTbG12cTh1NnRFdk5PZ21Dc0JhbWE4SnQzNVNRdENJMVFIZjB4QnRSc0NsMi1WeVlobnJZZzFEMjR4eGlYMnRVVnpQSVNYWFJWU0I5LWw2UENBckdmVlVC0gHiAUFVX3lxTE5ySnZ2WjR5WVFyVTFlbGNQZWNuMk1YWk1ybWY1MkNFbm85LUNwLUhOSkJOMHpITWQ0MDEzSGRRaGZHc0NJZzZMQlhZUmtPYmFmaUdZeTM3MEJsVzFBc3hGLVFOeDN1TWQ1TV9pMTFrMml6SF9hdnI5a0tVVGpPWnBsd3k3ek5Zcl9mbzlIZTVKNjZjZ1NoMlJBQVptcDkwM0dGTF8tMDRfeGJzMkxxelRnb0tPaC1HZFlsXzZPeWo0UzJEZFphQldYLU5rYjFRSnFCcXdnaU4tb1ZiZVpRTG5MNlE?oc=5",
      "fecha": "2026-11-20T05:59:00Z",
      "medio": "Meganoticias"
-    },
-    {
-     "titulo": "Gobierno analiza reponer indicación que restringe financiamiento para tratamientos hormonales en menores",
-     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQTBhTU5ZZkx4TDNWaVRpWlhaSmpJeF96dUppbWJmcVc1cmpvdDl5aGc4blQwMzFHMlhaTEhScW9UYlZZZUt4eG1tRjFSNXVHekphdXRuRC0yYnlQN1hHZUdaMGxTTU56X1dVZGQ5STYzYlNYLTBTN29FMzJUWEI2eFozRV9ZZnhoLTgzVnBTWlJCZ21pUFlENEFJZ3ZhNmU3Nk96QmRLNE15NTBYSHNMQXk1OUI1d09QSzJrVTBn?oc=5",
-     "fecha": "2026-11-19T23:55:11Z",
-     "medio": "Teletrece"
-    },
-    {
-     "titulo": "Funcionarios públicos con condena vigente: \"Llaman la atención casos de Carabineros y el Ejército\"",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUFVa3o1cUR4OW9HeFZzYW16WjFIZFM0MXRHRzRsc1MtelJneEsweVFod0FDX0tYSzdqRk9vbVRwaVhKMWtwZE50ZHBleDU3VmtGMHF3NEhKNGg2Uk5YV3BOOWtER3NyelpwbVVZV3FZQlRPTEVEMzZoRFhfSTlCaXQzZEJHUk5ITU5hSUlEMVNUZWRWTXNlanpVZGlDeUZTRW1JaGZQZ2F0c002RkxZ?oc=5",
-     "fecha": "2026-11-19T23:00:00Z",
-     "medio": "Teletrece"
     }
    ]
   },

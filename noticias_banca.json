@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T22:00:22Z",
+ "actualizado": "2026-11-22T02:38:46Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -18,10 +18,46 @@
      "medio": "Diario Financiero"
     },
     {
-     "titulo": "Jugador chileno revela cómo lo afectó la crisis bancaria en Paraguay: “Me pagaban el sueldo en Ueno Bank”",
-     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTURINnBWQTBIYzYyVnJjZlJ2X2gwbFpHUnF1MGRhUlVscEhTTnJmZ1ZMMmNZZlZOU3ZfNDRBeWVNSnNnd0loNGdsM2pWR29hbXZLd1hsSE5WMjhvcmN5UXF0XzFCUllocWl2YWxFWDA5bDBqUnBWRUE4OHpSRk1nc3NpNml3NkpKbVIxUGhKMExQcFhVSS1PREYwSVJxcjVDX2MxajR2cjRrdmtraXphNEhmeFAxSnpWa2lfWGhVcmx4bW1KSzJOdnpPb3p6blNDV3FnM3RQRmFSaUVYQWpPZm5TclZmd9IB-gFBVV95cUxPSFVxbUVBdUxiRzhfWDlEYmQ5N2JHYUZtOFVELWxCMDFDTHJ2YkE5WkQ0Tl9wMWlPZ01ZTFFXQXBYN0luTXNkcUMwV0FBRFBPbEZoejB5NGlEeWN4dDJyZmNLbFVKQkZZWFZ4aW13YkFjNlBGVEE0d040OVduZlJGQzBlQ2RFVmZfSGtyQzAweGhHdWZldlBHakVwekItRkI4ZVgtSl9STkk3bEo3cmZXOEp1V3FYX1MyYk9XaE1Kbkp5Nzl4U1ZLYmpIenhtRHR1MWJTaUk5ZlhhLWZ6MC1XQUU0UXNYTTFtOHI0ZE9nSld3b25CU0dfT1VR?oc=5",
-     "fecha": "2026-11-14T20:09:36Z",
-     "medio": "AS Chile"
+     "titulo": "Ni Santander ni BBVA: el banco que está presente en el 45% del territorio de España y domina buena parte del mapa bancario",
+     "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcGhHeGR3d2ZqcFByc0ltSlQyZGJyeUNOWW5vVUU0alR2cjlnd2p6RTF0U2txY0lDNWlLUkh1S3doVUh3RXRRNmRoS1plSDlNWjZET3QyV1VGN191eXBrdjItTGEyVmRmN1pGVENCN1NvYTVDaVR3Vk9pcURYZm10RGM5WHRGWl9kSHpBVFNRbEt0aHlrOTRIRnJIb0hBOXFfQWFseWhTLTRvbWpoNUxpb2RaWVRZTC0tSTdtcFAtZU50ckN5RHBVYXcwTVd6TmJHb2cxT3BPNjkyNWdKalBTZkdVNFJtcTJXNTE0aWY0RTZsZ1ZyaTBEYlU2bXRiSUFf0gGbAkFVX3lxTE5CUEpqQW0zYUh0R0E4ZHFPU2ZZUjRzYjZsb2ZwZzlFSFJ3S1cySEVHMENKUjJ2X09pc2pPX2JhRmI0NkFITlJWOThLaG5mVjZNTDBYSkxXcC1QaVNPU19tOUR2STkwRnh1RVJHWG05VkFHNFR0TXFpQnpjMzBoWGpuMXAtN0VqQXBaMlN2V0VMZ1FGa3h3VE5NY2FCWUNlb1liOGc5bW9TV2oyQXMxYTN6Q1h0SGlHTi1GNFJ4OUxmRFJDU1Fxa2lPV3YwdG0zcG5jUnpJVXZscmhmTm5CMHF6TG53U29Hb3ZkSVVTdEJVZFpFWlNURU54ejJGMDcwVzczQkNiUmtheXJRTkYwZWc5cllhN2YtUnpkSms?oc=5",
+     "fecha": "2026-11-16T14:42:32Z",
+     "medio": "El Cronista"
+    },
+    {
+     "titulo": "BBVA, Banamex, Santander y HSBC cierran sucursales el lunes 16 de noviembre por feriado: qué bancos sí abren y desde qué horario",
+     "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdHNZbFZKSC00Y1FWWVNLUHI4UmNaNkJGNGVZb2UycDVEc1J2Z29kQzUtdUdWeTJSd3A5cVVPSHBkcmt1N2ZMd2xLbTY0dGxaWjE4UG93RnIxbVJJUkx4VnN3c1J6Z2ZNUk1feTVBQXB4bmxXWDFxVkxrVWNjeUllYTVvNGdkZ0Q4RWVnam9JMmRtMVIzSlFmX2k1V05JOGdackU2M1YtOVRsU2lVMW9pY2Flc0lrTFQ2dzVkbFhMZXQ0MHBJZ3NhUzJoSHQ1bHlvU25iQ2VNc19hSVhIQUl5ZXF2bHgzNnAwZlVGRDZ4Y01OZDdJRDRtRXZFSTPSAZcCQVVfeXFMUHViNDg4dG5Ka3JUbS1nMjl0b2VRNHhUUDZ6VDBjNTQ5M2FqU2g0THRIUVcxSWxzVGkxX2JWQzBZNUVWM2hlZ1J3Uk1EajJicEtBMXdMOC1COFdhUWxoY21zWDVTYTd3NDRMRzhhd2FLSG5ZcW94RV9RUzhRSC1Pd09NazVMeFpPLXR0d2RGSGZCWVRXaHlZbXBaTzBjUnJKZXYzZ1ZSa3BncXRtMWllREN2NmtlRzRHcFlsYVdvQmJDd1FxaUVsbVR4UVJuVmNPaGp6bkFVOEJqemJDaDdpSGJOT0xEd2RMUVFvMDAyLVFhUTRYR19vdUtBRGdJUHRTeXJhZTBRdV9rXy0wdFpralF4TF9WUTFN?oc=5",
+     "fecha": "2026-11-11T08:00:00Z",
+     "medio": "Infobae"
+    },
+    {
+     "titulo": "BancoEstado discrepa con el gremio bancario por duración del Fondo Nacional de Vivienda en debate por reforma al mercado de capitales",
+     "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPc1JVQ0FvR1lZNlhsaWJNRHdjaGVmelExdk9FZS1WTXFfSGtJaExaYlJrblRvYUpZVHpzRVRGSk9xWWY0bGpuQUdfV05uLS1RaTEzaXdJZnJWektmZC00c05LLWpXUXNqQ3FWcHpxSWhULUZZWDhGcmxpZW80UHhvdXlaSVhucmNEUkVIT1E4eFJXc0hzaEdReGRLQk51RHJtM0twcFYxMWFCWTBLU0IxSVBWRnotWWUyQ2hZempGTm1UOF9mT2s4MkxmTERNUnpqUEcwa29CS2thNGY3SmozVXc1clliM3ZUaHhQVGtYZGtmYWNNOGFPTU5xZ0JvbEE?oc=5",
+     "fecha": "2026-11-10T22:03:59Z",
+     "medio": "The Clinic"
+    },
+    {
+     "titulo": "BBVA, CaixaBank y Santander, los más rentables de Europa hasta 2028",
+     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdi1iMG90dG5lek5rYTYwa2YxWE1ZamZQTmM1WWo5Q1Q0bTJtQkhMYnNMQkJBR2tHMW1xbXZBeW5yc3doUW1xQ2JPT25HT0hOdXBSNTU0elVwaC1KdmlpeEJ3b0F4elB2dzVNcWpjRmRSUmRZSy1DRk1IUEFvMEVoNFg2LTlOcTVRNlVPR0p1MFlBZkcyVGhUYmw4MTFZNWpKcHRQT1BB0gGmAUFVX3lxTFBCVG9ZRGkzcFZveWZPUS1mSVh0b0hCNjNVY0EwS1pjaDBTenlwVmpsUnh6dTFISGNQaTlIQnRFMkpEczR4enZ0YzRndzR0a24wQzJ3SmpUcmhCVUZUUnRDd1NNbndtLVV1SkMzS2tmRF9DYnlrUXliMC1ORjcwVUU0TWJXZFhHb1VaNDg5SUt6OFVBb1Q5eHZkOExhR0ZNOFYxM1hGZHc?oc=5",
+     "fecha": "2026-11-08T08:00:00Z",
+     "medio": "Expansión"
+    },
+    {
+     "titulo": "Ana Botín: Chile, ejemplo de respeto a las instituciones",
+     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXlSZ0hBRkxwbUIzdnhrNG5EclJUSmR1U0NWWjZRMV9hajJ2LWVRUDRlbkRzREszSXRpM2cwTmxYNF9wVlhQTUlMMHlUejN3S29qQjhQTUtiVGZrdDJ3Qm5VcEwtSzdBcmR4X1Y4VHVCbEk1MUZkMEFDMFNmSGV6dTBMOUlqVVlEbE90amhn?oc=5",
+     "fecha": "2026-11-04T15:03:28Z",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "titulo": "Ana Botín de Santander: \"Chile está sentando las bases para acelerar el crecimiento y la inversión\"",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3JmNXROTE1xS0N2bm42U0c5REdtUUgwbjhic0lENVB2cTFVNnVYQ1FZRkhpQmd6cldpODVxamV1N3BnbnlZNFhGLU96ZWJGOWVCM0tDYnZDakZHVU9yZVJUaWNOa1c0UjB3QVR6eG1GbEg1b3d0RkFGRFJQTXlialNyRnFfV2JrcTFRVE1ucGxNZzRlNGItLXhVb1hOUWV5Z1M3OWxnQ0UyV1lEOEZR?oc=5",
+     "fecha": "2026-11-04T08:00:00Z",
+     "medio": "Diario Financiero"
+    },
+    {
+     "titulo": "Europa necesita crecer más rápido y mira la agenda de reformas de Latinoamérica",
+     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWExUMnVVXzNOM2hNV2ItM25xaWZPb0dxeGRsZmZQMmlTM2w1UjE1Nkh6ZVFDZ3M3S3NTQi1nM01zaDlWX0pfRkVQOURyOG93cDNsaTdxdjFsa2owT3pLckZNQm9kTm8wbkRINGR3WFFXbnFVNWJ5Q0ZHcFRoMXZwZGFoN2VTcnZ0aXRHV19icjRWUnpfUkRRNW5zc2N1N0lWTXZWTWwzUUJ6V3hFUjB3R0p3ZXZoU3M3Sk5rN9IBwgFBVV95cUxQMHdfS0VKX3Y2ZEg4U1ZSbGZMSWNYWHo5UGh2aWs5SldPdVAxMW9HbFNTaEVrOU8xUTFDd3g4SnF5a3VyaXZWVUIyOTdwd0dUREVxMWRaNVZjVUtDTGdxZWpXemJYOFdfenVOOHAyaVE2TUVyUzZ0RzF4aEh6T2h5UlpsMXZjX2ZZOFE3NXBQdlMza2FBYndjMEtDanZfVk5jUV9keVQtblJ1bGhwTTVQN3d0ZUgzdEhEV2RLa1o1QlR4dw?oc=5",
+     "fecha": "2026-11-04T08:00:00Z",
+     "medio": "El Observador"
     },
     {
      "titulo": "Banca gana más de US$ 4.400 millones a septiembre y Banco de Chile lidera el ranking de utilidades seguido de Santander y BCI",
@@ -30,70 +66,34 @@
      "medio": "CNN Chile"
     },
     {
-     "titulo": "[Columna de Opinión] Banca chilena ante la NIIF 18: un cambio con definiciones pendientes",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFJEcElmUXdDRko2WUtDRXliQnloRG5nT2RleVluN0Jyb0VkZjZTVG5fUXlEcGltMWRuZzFuUkd0ekZMS182WmdJZ28zTkRJOFlpSHE3djJ2NEMyb2NsMjRuZ2gzYVM5SkpCR1BpQ21sSFMtSVh3VWlHU0dpc1dlTFlLRWc3QVc4b3ZrWndBWFJtZ2ktU0NvamRwTnNlVmhHeG9jc0dZUmpwNWQ0RnFRcUtTTHlhd1RhTVlTaUhRcw?oc=5",
-     "fecha": "2026-10-01T07:00:00Z",
-     "medio": "Universidad de Chile"
+     "titulo": "El Santander supera los dos billones de activos tras la compra de Webster y pugna por el trono de la banca europea",
+     "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNN21LYTM0TXhyTGpPMjNUaG1tcDZSeGpjWkcwemRwRElQZ1ZmVjNBdGdSaDNtR3RjUXFFV05STjlOZHJmajNmYkxMUW9KTEpDYktRanU4WWlUbm1jdWI1QlpTMm1QWnh2Z3IxNlFJcGc5RVRHLU00SmJNdnR3bno0VEZ1dFlINzNUdHRpTUs1bUFuXzlGeEcwaEVHYk5VMFVFeVNWYWJTNWdVTktmR0JFalhsMDJLb0s3NWZ4TFRkTEZVTTFsUEdHM082Z3NMRzA5a05MenZ6Wi1qQ2dmZl9HQk0yTWdNLXR3ekxtN2F6cXo5YlJEWUhuNWxDYmctQdIBkgJBVV95cUxQNlE3WlVkREFHREF2R1FtZVcxQnlJSl9zTkF6bzFtN1dsV192Q0kyYWFBek11bHFfODVvLTFSS0NRWDNZT1JQZDY0V3dQZ0daWUpHSUVkdVI4Y2pnQ2RhVlg2OFNCbnQ4eUZMUjN0RTMwQ2p0Y2ktb3BHU0JqRkg4R1RhbGt6cGJFeUFwSWRGcVFrQU9SV3dQSDIya2xtampPaDZwQy1TRTl2SDVrcjQyeF8zT0J0elN5c0ltMm4zLW1MRlpyMlBuTmNuZmFwZ2lYR1N0QkpKQ1Y0RmRPbkVnY0xQWGZYNk5IbFdzRFppQUU2dEk2THU1NDFmLUV4MDRvRW9YcnpOMHVvTWhLMDhYY3F3?oc=5",
+     "fecha": "2026-11-02T08:00:00Z",
+     "medio": "Cinco Días"
     },
     {
-     "titulo": "10 años de Santander WorkCafé: la innovación chilena que transformó la experiencia bancaria en el mundo",
-     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZUgxZEJmTG1xaGM0Q0dOSFEtSVl4V0dSUXZ6THN3YVhjNm15dnFqb2pLQ3dMRHA0WE40YzlENDZBcEd1NHBjZVBuRUxEcTgtWDl4SnVKMXItX0V5Z2Q1cDRyQ3JzQ2t5QjZsaVBGb3NKOXhxMUwzOE1BUl9nd3kzbGg0LThPOXFyLXNzbWdES0lQWWptdldIV01ZUExMTXBHSVY4V2NWTWFTSC1Vdk1rQkhySkEyVVhaVmdIVk9nVC1IYW1tOHVFak9aM1Z6QnFVc0FJd1c4WEp4NEN0OWx2YkIzRmtVZ09VT1lwMHBZSkQwZw?oc=5",
-     "fecha": "2026-09-30T07:00:00Z",
-     "medio": "Banco Santander Chile"
+     "titulo": "¿Qué bancos abren hoy 2 de noviembre? Horarios y sucursales disponibles",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGVTNTBXdy04Uk1BZVZ6VzlscGFyZGZHd0dSbVp4dlZnRk1pWjFUWjBqcllCeFBBN01xQndQR0hlLUJoSkJrUmloZVZFX1JFZndHOTBXY0RhWDlUb3VER1hWb1E4NWoxdVFUMGhWNGk1LXNSVGlHXy16Zl9hNlAwMEFub3FaVjcta3hRRGgtcVVoTVZnNHhya1VJeFVtR19zVHBXeTFFTDhiRm1BYXk5SlB30gHMAUFVX3lxTE9CX0hZQ2lVbkZ4MXhHdS1HUU5McHY4SndsbjJqRkM3LUo3OTJ3cmVDMUdPcEpXeFFpY2tMb3ZVMFd2THYzVHRtb1NjNGUyczcyRFBBc1pKYVFhYmVLVkZ1VVc0d1F5dGxUQmpzenJOS0tDVFB3ZW9lcGxJWGNmWDM5cGQ1Sm1xRFpWT0phSHNXbDZIMjFQOGZRZWhDUFk2bDRRNUdYWGw2Q0FDcUJnNmtRM2dVQ1VOd2ZvbVJRWHhxbnBVOGxhVHB1aXcybg?oc=5",
+     "fecha": "2026-11-02T08:00:00Z",
+     "medio": "Infobae"
     },
     {
-     "titulo": "Nicolás Trajtman, gerente de banca empresas de Santander Chile: “Las firmas están dispuestas a invertir, se ve un cambio”",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNand4dmp0VjRWZEpCNUJIZVY2Q2pnbHFZeWRSODBzNWRJT1dqUjYzU2ozLUVIeGd4QTF3LTF2a25SdkF1VXhzWkg5RVBuRW9pa2JjanNwZndaYmJBc2JOYUU4ZHpEQXJERXB6aUlQc0U4VVdmekVTMmhBS0ZNeUI2dVp1WDR3OGZyZXM3eDdMdlF5S29seWZvMlU1Y1NSa0lkc2ttQWlmak5iOE0zQjBuQnlhRFJReDZEbG84Z2pyM01EMXl2MjZIb2M5M1ltTGxfOUtKeWU1eFQ5V243RWxiWTllb2YwRTBEZ1JjdlNB0gGPAkFVX3lxTE0wT1cyMXJ0ZVJuZDJvTGJpcG5xQUhQcVgzUUZEc1Fmb29xNlZlUl96bHl2bUFBXzJGV1p0a1F4UHBlNW93RlJKV1pRN3Q2OWhIcjBrWUpMeTU1VjdpS28xcHVueDc3VjFVcTdENHNkV2hiOXRYWEM2OWljOEJxcXp0UXBRMjFyVXJnNThIQVpXOXNlSndWUXJDcGVNbWF2X3plaXJoWHNHV3hiaTVMeklNOFczbzQyUThkSnM4bmZkZmgwNnR1T0VjS3NOMmRMYzRJcUNMOHZmZGdHcFVZSUZwTEcyT1RLOE9WTEVlVzduVGlLOU5RUFhKV0M0blVONGVCUDY3ZW5mQkF6XzZGS1k?oc=5",
-     "fecha": "2026-09-15T07:00:00Z",
-     "medio": "La Tercera"
+     "titulo": "La banca española no toca techo: sus beneficios se disparan y rozan los 30.000 millones hasta septiembre, un 15% más",
+     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSVo4cWRMRjhqTThYRE5kVU5KSU1wZ3l5ODZpT0dYWWxIQnB2UHhLNE5oYmlUYzRoRXczRFIzY09kTWlpU2tid29wYkhaSVl0bTVPb2RwbUl5SkNRcFZXOHFBbmdacjREUDg1TldPdzRjcmo4MFVwZkYxRXFnM3lEbDAzSTVSbG9hemN5VThWRWpWZWVTS1dRUzRFRHRUdmZBM19TQUNJSkZnNDlacXE1R05yZ0JVNUFGOGotZUpBeXVJYnVQM3g3ZzNIczJlSG1kNS1kNDE2d2tMcVdobUllY2lCdFN4M2NFdE5Z0gGGAkFVX3lxTE1YcnJoUFRWaTR5WXNOc05tSU1rbXJ6U0xEZDROZTdfbnJxbTc0YkpQaThkd2txM3pzRWhKcmlkbVZIaGVJUUxhaGZuTmVxS0NobHRLS2R6REtESEk3QnBwNWdVY0lRRDc3TTN1SWRvVGZ1clRPMTVGWFZFcVJlOUlZV013TmpHQjVTN0VhekI5Y0FORm1KN1VudVdENXlHVHZQZ1k5UmtjbFoyX0Y2WFpZaTEyWnpNaU55Y3ZWMDlLV3J0M2FlT0dmQmdRMVB6STVoNi1lSDdCN3R3QWFfSzA3X2JYUjBOakgxOTNud2hqWXgwaGxLbHBWV2hzYTcxcHNYYjRjQVE?oc=5",
+     "fecha": "2026-10-30T07:00:00Z",
+     "medio": "Infobae"
     },
     {
-     "titulo": "FEN y We Are Mef reunieron a líderes de la banca chilena para analizar tecnología, datos y confianza en el sector financiero",
-     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUDlhSXRWRG9hc0hKVFZuRmVEX0ZqcHdISDBoUEV5U05BNVIyUEY4WkF0Q2RYSVFkcmZjb1hxQlRXdXhEbjZfSjlTa3VfbG1iMTFORU5ET1FKVnJHbEJ4YVpZRkdPWWNkeVNZSDhJQkxzMmo0M0h3MFJrbFFIQm1wS1VMOGNmOExLc1BIVXpiX21rX3hpODl6WmJ3OU1xclNpOE9nZkFKLXdvcUVzemgzN05mbkJvODZNTWx1RHlJd3dRWHowYzZhSmdkcWNwYTlTcHFxY0twWUpXM181QWUw?oc=5",
-     "fecha": "2026-09-08T07:00:00Z",
-     "medio": "Universidad de Chile"
+     "titulo": "Tener cuenta bancaria no basta: persisten las brechas de inclusión financiera en Chile | Economía",
+     "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRy1rWVJQMG1fSjZBemc2X2hTODBlclN5Vmh4ZFdnVjNJeGJUdlNueGNWd1l1U2l2RGNtaUwyVGV3OVJ2aXVtSXlpamVzZVdsM21BZ2NlbXBfWVNkSjA5S0NQdzBxY1VpTU1YdWc0d2hYX2NQZ0JSOWlQRENlU1YxT1o2XzVBRWtaaTN1VjBIX3RXTUYwNEh4VUVueUMwYmw4a1JEQVlPSVdxMllHSkREVnVxOXR4Z0tVZ1RIalRJSXdzc3U4dHVXNWdLUWFnZC15dW9IVFl5U3ROVnJMcmdWSWRuaFJYckcxZ3NyOGx5YlhnYzM3S19LZmNldnc?oc=5",
+     "fecha": "2026-10-29T07:00:00Z",
+     "medio": "BioBioChile"
     },
     {
-     "titulo": "¿Por qué Banco de Chile constituyó $ 50 mil millones en provisiones adicionales en el primer semestre?",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmtCeFktc1ZDWENGZm9ITXYxRlNxSFIwNWxqX2x2a0FHLTV2cnZwZzRLWUVWRl9ENGJ5MGpaYjRRRndmU2xsMFFKOVllM0FDMy1BeDdkT3duYWR3QnZVZzkyQUdjb1dZVjNmWkxZNWE2QkZNT2QxZGNxZEJFYzkxYnJMM0h6ZWpnUTh5SDZ2TkIzYlRPb3lGWnVaSkI3QTIzUDE4bjZmQ3U?oc=5",
-     "fecha": "2026-08-03T07:00:00Z",
+     "titulo": "Cambio de era en Banco de Chile: Eduardo Ebensperger deja la gerencia general tras una década",
+     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORHVmV28yV1cyc3VpSThxWWNMZ2lMdkYyVW5Keng5NUFOLTlmOGwxTXppcVNvVkhyME4yWndZTEp6RU9xaFJwU2hoV0ZOeUtUa1plSTZjamF0ckhwbWZsM2NEekE5dzRaMFBVXzllclVmdlB5R0RGU3ZLMDFYRkNyWlYzeW1mbm03amxMczBZOGNTOHZlTEFabDlJbFg3OVk0M1hoUzJ1X3JjNlFkVVE?oc=5",
+     "fecha": "2026-10-29T07:00:00Z",
      "medio": "Diario Financiero"
-    },
-    {
-     "titulo": "De una idea innovadora a una nueva manera de hacer banca: los 10 años de Santander WorkCafé",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdGJBZ3ZFeDI1cHVrTjA3amYzSndDemdGTDZsb2UxLUF5T3VUOFd5ZVJHTVNEd1ZvMzRyNEtKVm9LbHZTWWpoMFgxM1l2XzhqT1d5SDI0X2REelhpeEcta09kNHI5WGxkZ1VtMk53RUxieFZfdjliUDlVTnlVWVE2Z2JKdUhhd0tnX1U1NjBnaE1lQUlhbVUtZFNGT1VnTml1NmVYaG41N3Y4akYtd2huN2ZWRlNoVHpYN0E3ajZqYzhiR2xFbXNvWjRHTDRjYVNOY19yMkYwc19vM0ppN25hZmU5ZmxUM0YwcEdVSWVR?oc=5",
-     "fecha": "2026-07-12T07:00:00Z",
-     "medio": "Banco Santander Chile"
-    },
-    {
-     "titulo": "Cae la red más grande de lavado de dinero del Tren de Aragua: detenido ejecutivo del Banco Santander",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeTg0Wm1wc2R5QkNsc3JVaE5Sek5UeVI1ZlF3YXlHaU1jMHdua21hOXBpOG9RZ2xaanhwVDFwbWt6bl9kYWpzb0hCeTBXNFRWOE9QdmJDcGdITVJqVkFnakpFNEs0WVZyalBBLTZtNElHeGdvMjBiQXA0Xy10TUVxQzU2YkR6anpMb2xvQ1UxdjQ0dElCUlNQS0F5dkYzQ3E5NUNTM3ZBZ2M0NENjOGxiZTZQX1lGV1JhdUpXR21nNm45dW5BRmttYTZiRVJKVHE5Yjlr?oc=5",
-     "fecha": "2026-06-02T07:00:00Z",
-     "medio": "- CIPER Chile"
-    },
-    {
-     "titulo": "Santander, Mejor Banca Privada para clientes HNW en el mundo",
-     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN0h4YUF4S0xIVDBMVm1zVGVOcEpGaWs5Nm1DUzdYVFdNOXNidzFPUVRlZFl3M2lYSnhGbnlITVNTXzhIVTJhR1JMMUNMQTRqd2dIclhtVUZyYmp2UVVpbEdFeTZGblBFM2hvcjR2M2k3eDlSSUVPem5SUUsxTlo5MzlfWXpUNDljT19pcmtyVTJmMU9WUTY1eUs0LUJSa0QtcnBqRDEwQUEyRHI4Rk5ORUZ0eE1lV19uTHBSSF9VUEoycTFweVZlZlB2REJGUQ?oc=5",
-     "fecha": "2026-03-20T07:00:00Z",
-     "medio": "Banco Santander"
-    },
-    {
-     "titulo": "Bancos cerraron 27 sucursales en 2025 y disminuyeron en 738 personas el número de empleados",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVZZOVc0MUtqV3F0T0ZIMkx5MFZ3UUMxMVowX19WdGlZc2c4MDIyeGFHLVd4M29leTF3UHN6QUM4c1piSWRaTkQwdmxka0RaR0pZMkFUeEJpRXVPRnJVMHpTajl3NkRPZnJKd3Zab0xhNmR1aGNxcmhxSjJtZ3hEYWgyenlHd0Jtbi1PQ1NTbjUyQTRlUURNR1dzSkd4Skh1TTM0UDhDcTlVc3ZDZGRsaWVB?oc=5",
-     "fecha": "2026-02-16T08:00:00Z",
-     "medio": "Diario Financiero"
-    },
-    {
-     "titulo": "Bci y Santander elevan sus utilidades en más de 20% en enero, Banco de Chile anota una caída de 4% y Scotiabank revierte pérdidas",
-     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdm8zT1ZJZGtkRUcwMWJjX0N4eE9ZRmZNZXN2MUphS1k3d0wwcHRGX05KMENpbHdEb3BTb2hxQXIzUnplY2I0aUx1ZW1XanNrZm1Tc2JjeWpuRHM1cGtxa0kxVTlJZXNFc1h3Z3c0OXJpZ0pGRUVHT1FLQmZreGtyTllJRDVuXzNvN2JiOURCYTlqS3Z1WWxsN3g1VVhxcUUzODNVc24zZWlYZGN1N2c?oc=5",
-     "fecha": "2026-02-11T08:00:00Z",
-     "medio": "Diario Financiero"
-    },
-    {
-     "titulo": "Banco Santander lanza la Tarjeta Platinum® American Express dirigida para clientes de Banca Privada",
-     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNmFLaXFtV00zT21XQTJsRkhzS2s2OUlvbmpUUC12cHQ3WU5YbENuSWppajRtV1l1TzZrMmwtNVBLdmIzZW84UnlxU3luWUFnN19TMzFhbHAxRncyNGJ5Z0RKRDRENks0TzZJdS1NankwZ254aDkwM2dxRGsxT1F5N1pNUWVYUkp0R3dSQ2dMS3UyRm9qYUxSWlhjNnVRbHBsaVBTNVpGUnFQZEJudnVuSUVlSWU5ei1EeXRwblc1WDA4Y3NUQkFBQ29aT3BWZjhjWkt2aTNiTmdFWHF2YXpTSFJ5LWFkZFpPVFIxa0hielFyUjBhMG9Ueg?oc=5",
-     "fecha": "2025-08-01T07:00:00Z",
-     "medio": "Banco Santander Chile"
     }
    ]
   },
@@ -102,9 +102,9 @@
    "nombre": "CMF y Banco Central",
    "items": [
     {
-     "titulo": "Valor del dólar BCV hoy, viernes 20 de noviembre: cómo se cotiza la tasa oficial en Venezuela",
+     "titulo": "Valor del dólar BCV hoy, sábado 21 de noviembre: cómo se cotiza la tasa oficial en Venezuela",
      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdWxJUzVCTXRheHVvM0NaMUt6djRCWDBkODMzeXFYT2tzd2t5R2ZjWUhURGJBeExzTEFoXzREck9OQ3ZsUVJDUjQ3VDIzc2FEMUw4UE5sTS1kMGdQTEVRcWlpVzJjWHd2VnE4TmRZbmYyQUlSSnVOY0o5eDNMWTJwdUdnaGFsbm5STHAxUG5RU3NteHFWTjhPdmdTT3c5bHg1dXNLX0psLWR5dHZfOUJnS0FfWXNSUUM1RW1scUhNMTRPSVJfelNQNVpmWFp6SlBtSDQtOVhKcHVqQ2JNUHFlYmt5WkJadGhJRV9Na2ZxamjSAYQCQVVfeXFMTnQ3N1ppRjJpZlhXVzVtN2ZMNlo3SS1QdUFRemczUEZ6Z3d6bjBmYjhWN1JmM0JVbmhWaXRyYXRVZEV6M1BDVkxNTzM0R0c1b1FKM25yY2ZEcnFMU1Q2Y05WNVpJaENuSnRxRHRRSzFIODB1WU54ekxSM1VKUk1BYXk3OTRUaUF3emI4Y1JZdENkMmNHQk5ZczFTTlRmamNQUDkzUF90LW50QVlMMG82b0oxQmI3U05LeXZoVVQyX25sem95bUctM0h3U0h4Tml2aXpTSHl6VmNBQTRhSmZrX2NNLTgtZlNocFRVS3dMMEwySlhVYmRzcG5JUU5admFzeFZzRlM?oc=5",
-     "fecha": "2026-11-20T20:13:01Z",
+     "fecha": "2026-11-21T21:27:33Z",
      "medio": "El Comercio Perú"
     },
     {
@@ -162,12 +162,6 @@
      "medio": "Infobae"
     },
     {
-     "titulo": "Precio del dólar BCV hoy 19 de noviembre: la cotización supera los 917 bolívares",
-     "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wLU5wWERFQWFaeHR0QW85RGw0ak5wNUN1dThlLWhWek81RERrVzUyWUhWOGdmMXAwbGcwR0dnaVZaT0pGMFlsZS1FLW95d3Nqa2xMT3BQMVdGaTdIa0dkZi1kUl9MWkZPQlNSbklmbWEybkVnR3NGY3p3Y1dPdw?oc=5",
-     "fecha": "2026-11-19T09:10:00Z",
-     "medio": "El Estímulo"
-    },
-    {
      "titulo": "Precio del dólar hoy miércoles 18 de noviembre de 2026 en RD: compra a RD$60.01 y venta a RD$60.34",
      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0xwZkFzazBwUy1kWVNBYU1tRGVNSTNKck52Qk44TWd0dXJheXp5ckNpMHBKa0w2TUdDck9fX2ZUZ2wwaU1qaFdoRlNDNC0wSVpVTUp4OGF3SkpWZ0hMX2tTcWlqd19LUDA5QTFicTBvQXJCb3VjMlBoMWxuQ0tHR1JoRHdWSmU3WXFJYkhCZ0lhMGduWC1Mc0xwRWd4Y2M?oc=5",
      "fecha": "2026-11-18T21:09:37Z",
@@ -190,6 +184,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHlEUXZwbm5zU3VnVEVvSXNGOEJhTlNFY3Ruc1lUY09IUEU2Qm1wM2kzTWItODJjNE1Ra282c3dlUnEyWDhMeERrd3lCWjNGTVBjZGI1NGx4eVc0NWJ5UTJRTVMxXzJ3M201R0tFQjNCN2NQcWs5dEdhQWJsZFVpajJsSkVmUlVYOEFnTmlhdVAxMnlJQVJPNmNzNmhrV1FnZlJrX2NTLXV3S2lNNm5RcTFaM1pzbkU1QXJQcF93RElPOHhpLTIzYg?oc=5",
      "fecha": "2026-11-18T08:00:00Z",
      "medio": "WEEX"
+    },
+    {
+     "titulo": "Subgobernadora del Banco de México no baja la guardia y observa “riesgos al alza” en torno a la inflación en México",
+     "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNEFsYzFXUHo3S0xaVkczakxXMWlMUHp3cTM3MUxSRW02LVU2YmRsNGpaUzRxWXZaTUk1QzdfMFQwd29BVE15V1R1NkhRSkRsYXlOTGtMX2pQZV84RlVfbWFmVk4yUE9uNmk2MkJHVzduSDB4X3BwUV9TMm5nSkRBWFZJOXFRRENYVmVGVThscUxfNmczTk9SUlhRd2pvaVJYRktSV09UV2hmVWpsd1NnTFZZYklmQlcwOE5mR0hwVUhDcUZEdWFtdldoblA5Sk9sWTgwd2FVUWVPS0E3V1FmcVdyakpFaU15WjRDUtIBhwJBVV95cUxPMDlMRGtPTkJKWkRxa2REaV9yeTExNW4zWUdtODlZbkNxLWF1ZE5ueFFJZjMyRm14dERoUlkxSExkUUhRNWRjOG1pR3dvSlFvT21qTkJGcElILXVLY3hIcTJCdmZadEtUTGMxd1BpaVUxclAzMWRUSGxFenUyMUo0Nl9tYm5jNzVnTEQwbjg4NFNQellRa1dsSDUwbXlTcUhXdnlkX2ZCN3RmSE4yZ2J3Q252MC04eEV4R3lxTDBydmtkUk5SS0lFdzkwLXp0QWtTWDQ1QVBjRDFJbTVWcU9kUzNLZmctWFdwTmE0R2c0VzlCdDQ0cVplYUNiVmE2Q0dadEZMMzI2NA?oc=5",
+     "fecha": "2026-11-17T21:22:00Z",
+     "medio": "Infobae"
     }
    ]
   },
@@ -318,12 +318,6 @@
      "medio": "Meganoticias"
     },
     {
-     "titulo": "Ley 40 Horas: ¿Cuándo será la próxima reducción de la jornada laboral en Chile?",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXpmWVNTa3dsSFFqUHY0MlVXWFdwNXlzenJkeW1Od1p6QTdkYU9IU1VVRDZkRDJETE9iSGt4cnAxNVJCNmJrZ052ajRFYWZGRjlQSFFuSXFHTlVQS0Rld3VZVnBLdVVRai14SVdXbzNHR096Ykw4OTc2c1BFNkhpV3o2VXpQc1EzMlVvSzJTMXdrVVkwWnJBd0RqRVZMYnpzd0RfdXhua2dVX2Fab2FYa29PLVlpX2I0?oc=5",
-     "fecha": "2026-11-16T19:54:02Z",
-     "medio": "Canal 13"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
      "fecha": "2026-11-16T13:14:42Z",
@@ -336,52 +330,58 @@
      "medio": "CNN Chile"
     },
     {
-     "titulo": "Sindicato Sandvik Chile Nº 2 concreta acuerdo en negociación colectiva: La unidad y la organización sindical permitieron avanzar en mejores condiciones para los trabajadores",
-     "enlace": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNN3pieGlrbWZCbWsydmEzU2hIM2RiVTZuRnI4TDRQbHRVTGJoUE5PS3UtZWpzVTlkbllYNUU0VG93NjROUHlpWVM0QUNQaV9IcVB5MWRFY2JmMzM4RWVqN0ZSVzdKQ3RNZV9ZeGdxenBvR0dOMjJiNV9IeUhYVmt2SnB2OHRUS2d4STU2bVdSeDZiOFJ2eG53Sjg2YVJIeUkybENBY2RWSU01bWV2dVJXM1VKZHdFTkxMa193c1FOR3JHM2JteUxyT2ZBUHlsSkhlM0lHWUFmQlQ3dUhhTnFoUkMzOTVrdTQ5TWlxYkJka2dDMTdra2YzYU43cmJtRF9OZFk4bXZkN3FhcFo0VkZwaDYwQWxPUnp2aVlXUnFQRTc5bm90MUNEckh2ck9PQzR3T2hEZ2JPZUxNaF82X28wNjFjb19pVEpqTXNGMWpNcGE?oc=5",
-     "fecha": "2026-11-11T18:04:22Z",
-     "medio": "Confederación de Trabajadores del Cobre"
-    },
-    {
-     "titulo": "AVANCE DE LA AUTOMATIZACIÓN EN CHILE: CAMBIOS Y DESAFÍOS POR LA LEY DE 40 HORAS Y LAS EXIGENCIAS DEL E-COMMERCE",
-     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmpWX2VtdkduRjNmQWFqbHZkb3htcUJuSGhjVHZOaVVNUmdIeTl3TGk4bGRicHdFQThoZ2MxR29TTHF5ZlY0R2lUd0lTWlNUTmFtckR6NEx2bXVRM3ZIcDdQOGRSRVRBRW55UkRnQmU4X3k4UHZjdlhiN3Z1MmpnRGdfVkFjaElpU28xNjlWWjc4LWthQ0lORW9tUThfdHlERF9iaW92aVVXX2xmNWh4b0RudHhIT0NDV2w3TzgtYWNBWWx2UnhFMFo2cmJmS194Z2pqYXQtaUZGbUdRTFN3OEJOc3hzUkM0OENGRzc0YWlBUm1XZzZR?oc=5",
-     "fecha": "2026-11-10T15:45:46Z",
-     "medio": "Revista Logistec"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
      "fecha": "2026-11-10T08:00:00Z",
      "medio": "EL PAÍS"
     },
     {
-     "titulo": "Ley 40 horas: nueva jornada laboral en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjcxMDBXNFJOeDJFZWFBSlRPWHhQY1h6a1hXbVBRc1FibEZXVzhwYUV6blVfQXZxVnVydDlKRThMTl96SnE4RUlRODl6am1zMmUxMDhaRVMwVU1CbG55cEhLOW9OMVdZTVBkeHhfZmp1aG42aHQyOVdzS1FNT242NnVmalJrRjBoenlFZUdNMFJEV3BuZ0JYMUw1MUhhY2N6UkdKN3IyVQ?oc=5",
-     "fecha": "2026-11-09T17:51:34Z",
-     "medio": "Enfoque Digital TV"
+     "titulo": "Todo lo que debes saber sobre la Ley de 40 Horas en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xbTAtM2h3VDctb2RtQ3ItaF9fRWg5Y1FjMkh2MWVycFdJTEtBQTI5Z1JvY0xDQ1Q1THQ1UmE5OEtjSXk1ajY3NldUWVhEbk1BMTVCWldmb1pUdlRuOTY00gFvQVVfeXFMTzZkZEdkY04tcnVFbzFacHNzZDQ3NG1NanhnYkswNG1hYkx2bFdkR1ZPajkxZVllMlFrRllTTmdOX1VhRm1vVzl6eEN4ZzBtVHZuYThCYTloRFE3THZELVVuSEk5NFpVNFo2allmMTY0?oc=5",
+     "fecha": "2026-09-30T04:58:34Z",
+     "medio": "InvestChile Blog"
     },
     {
-     "titulo": "Ley 40 horas: cuándo es la próxima reducción y a quiénes no aplica esta normativa",
-     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWHpzd09TeEVrTzJLcVNhc1R2bDAxcGhSQTg1TWtZczVyVFNMOE5fUzNzMlotOFc5Sk5wSlRVV01LeFM1Z3ZKVlR0NnBlRTV1cjRoc1N3cGxoV285dV9DQ3h0WmNqLU1lblpNNEh6OFdVZWNheHlpcGdzejM4Ymx4NllWRFZhU3NFbFB4bUZpdWVTRmZlc1g0cEpZTmpBUmdyOW9PVmJicjNKSGluNU1LYTlYN3hIaDVheUJBdWhYWlFxekxjeVZ3QncwUVpycUdtcnVjSU15QWRlUXBxcU5RUHlQcXNycmdJ?oc=5",
-     "fecha": "2026-11-09T08:00:00Z",
-     "medio": "BioBioChile"
+     "titulo": "Kast quiere modificar la ley de 40 horas y flexibilizar los contratos de trabajo por turno",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmxfdTFvbkFqNzFBbFo1ZXF2SGRFR0VkOUFsTjVzUkZrXzlMMTk0bTVLdTd2TEwzSkRsMTVxMmU2NmdGTzFlZ1prUFBiTGdoWktES1VWZzdBaWFuTmJaeWFqYmhGMnFMVHhBYkFRbHBQZU5ERE1DWGMxd1VDUllZRlEwRXJIWUsxMzlCeXc5MFd6VUF1LVM2TVNobW1MaE82dlVxcl9CeGhha296N29YNDE3VjgtT2lYNTFFbHNiT3JOZjhEUUZnOTVPc9IB3wFBVV95cUxOUWtERVpjUm9YWVg4VjRKNG9YRnFvRDk0VU5QQ0djWVNXWFNjcGMwVi1zWGpqaHc0VUdqajFyclFPNHNJS3hzMkoxendMUDFBM1Q1TFNlNnlKa3BmN2JUYzRCWTZXMWF6d2hzejZhZGdIVG1QQjRLUC1MaEx4N3BoT3BVcEg5WEtBcTNaVlZjdVFfRWpNQUZsUXFucDdWXzVDZXU2VzZ2dUhHNm9CbmZIZkluejR1bnRrS3I0YUttR2EzamY2REVWcFpaSlhWd0lObGw5Y3hNOWFMWWs3c0JB?oc=5",
+     "fecha": "2026-06-25T07:00:00Z",
+     "medio": "EL PAÍS"
     },
     {
-     "titulo": "Las 40 horas en Chile: Conoce las fechas de reducción de jornada laboral y quiénes quedan fuera de la normativa",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcWZTNnN0ZEtFeVZNMXIxd0tDbkpOQnBJY2RkS25qbUJNRnFjRzZqMWZQZGNndGNCSGd0TjRsT3hJZDYwbmZMTHI4aWF0VzdxTEc2MFdkY3VidVFzcVpKeEFuUFJtMWxkcVNIa1g5N0R5SVJBWnVkZ3lLTkdpcEk2YkVVNFFLS01xMk9odVZ3SGRVeFR1VWxMLTIzbDFTTEh1dVpkc3hVc0RHNmM5MGF2Uk9WRUViWS04eDZobDhDaWRpNVhwTkF1alJZTDVMRlJ2dFhJS2lwbmpfaVRHbWVILUV3SzNPSDNzNy1IajhB?oc=5",
-     "fecha": "2026-11-09T08:00:00Z",
-     "medio": "Publimetro"
+     "titulo": "Ley de 40 horas en Chile: cómo y a quiénes beneficia la nueva reducción de la jornada laboral a 42 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbkFKaS1IWS1BSm9LWXBvUXIwQWYxc1hHc0tmRTNpR3JYU09TOTVfUnpBM29SaEh2bzdGTGNTY2MyRV9kWHlYVnBhU1JPeTNhdWo2RjF1MzY5UTRpMkV1RFAzcVVsRDFYRW5NNjRacldVRUxTekQ2S2lhWHdycjlqZUpnS3o3VU45UVV2bGpSTGhSREZaTFoxRS1ndEk5LS10dFp3NWpnWkFJSFZUS0lyTUN2czc4azB3SV9SM0ctS1AzSHFkZnBTM3Ixb1lsc2N4d1YwcnhzSEVMQi1S0gHwAUFVX3lxTE1FVjhOWm41eXNFeFdXSWpaYUMtbUlLb1hBRWFsdEFnVHAzVnA4aTJqQ2tna3lDX0VJSlNoTWNzRGJ2TUxQMk1XM3BhU1U0OWU4SmpXcFJQR3JRcnhnbjFHQmVheWlseElpd3hvSFRJeFg0Q3JXc0Yxb0FUekpLQkJEQ3ozRE1XME1tMWhMT0xZWWNXZFE4cW80dTFNclYzNnZTSEtQUkhKMWZ1UjRJSFU5OFhEZXl2czNGVTRNZ1lWN2pRWlIxOGpMNGZxU0k1cVNvaVV6Rmp1dDlHUGpBTnE0bGZza3lUYktnQTA5dThWNg?oc=5",
+     "fecha": "2026-04-21T07:00:00Z",
+     "medio": "EL PAÍS"
     },
     {
-     "titulo": "ANEF junto a la Mesa del Sector Público inicia proceso de negociación colectiva de las y los trabajadores del Sector Público",
-     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlFwU19KRVhVQVdRcUlSR3VXdlNOd3c5VzcxMTJZS2lwYmhuVVI3cXh0TkIwWGJPdDBERUM1OG9ieG1TUnhPSnVlRU81eFI4ajNDTGFjZEVMbXc0d3o1ZGJqNUM0cUZnV056OEcyY2NZUjE3QmZLLVlTdTJaaFEwdmNYTDZnVnBjdHRHMXFPcVZKNXYyR0RYVjNBejhtQ1c0amdCOU5lN0lyMXBhWFctNG1telUwWjBFbDFoN1RRVmplNWRDMWtzbmR4VFl4YVVvbjBmZnN1OU0?oc=5",
-     "fecha": "2026-11-05T07:40:01Z",
-     "medio": "anef chile"
+     "titulo": "Ley de 40 horas: Contraloría excluye el tiempo de colación de la jornada de los trabajadores públicos regidos por el Código del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPM3RlZUZhQkttWGM2azVWcFozazM5OWJFQzlEdENjTFM3NElvVkdoN0dmYVhZMnAxNFM5RklCOEUyX1VSTFNxQlFGNUxGc3dBUTA2Qjg1ODhlZG9RYnZMSGI2cTU3SXZxaWNHYmFMdkRrYVVidk5GcEZqTVRXdERRdTlRTDg1QmNud2NXT2xrU0JuUE9XZWcyV0pSTmg1ekZiZV9XT1d2WndLQnBkMG1VRVVyRWJILWRvREJQeG1pZDBGM1dkUHAwNjRZeVJlSGdVZzdiRkx2bFh2ckQ1ZmpYYXpnOXBNeTROZ2FCc2NMWXFOOFpaVmoyaExSREJJZ1FtRXc?oc=5",
+     "fecha": "2026-04-20T07:00:00Z",
+     "medio": "- CIPER Chile"
     },
     {
-     "titulo": "BHP ofrece $28 millones por trabajador al Sindicato N°2 de Minera Escondida en propuesta final de negociación colectiva",
-     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRkxmM0Y5Y25LcUpDSTc4ODVBY0FhNnRXM2ttcjJxb3RtZVpqZmt2b1ZuV3g2WTZGYXBqVnd1UUFWLW9PMHRCdk5WTkJUdWgtdkVwUWV2bkhIM2QzZU9neDRUazZNbV8yUzJ2Wm5TdDZHVG1xeXVoSUk3dzY2b0RPQnFZRk90N0l6OHRieTVhSWQzT2otV19NOFI0MldXQk4zYVhMVFYyX2ZORW56NDZGQkZvMjRyQzd6Vko0bm5XeXk1dDRYNm1FcGdxUU51UWJPbXZkMGNlTXVTNDlPd1JfdUJ3?oc=5",
-     "fecha": "2026-10-13T07:00:00Z",
-     "medio": "CNN Chile"
+     "titulo": "Nuevo dictamen amplía criterios para negociación colectiva de sindicatos interempresa",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iTmpwWDAycjZLaVp6YmlqSG1QcXJRU2tCb29kdFQ1ME55ejlzYWFZOE1fM3hjZ1F5RlVKb3Y5Q2JJUjY1NlE0bnNDV3BDTWZHYWZ0SGpVWThHTm9iTV9HNVQtSUFnTWc?oc=5",
+     "fecha": "2025-07-25T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Dirección del Trabajo analiza efectos de las leyes de 40 Horas, Karin, salario mínimo y conciliación de la vida personal y laboral",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5ZmVwM1ViV1RoZTRCZkpBYndLM21hTGRwVEZLam9ndWdIWjhKNldWNHlITW9SUzA5NUM0NTRBa1hwbWk4aXljeVJfRHItZGlzLXFrdkE0Qy1tREh3eS1NTFdyUi1CRkU?oc=5",
+     "fecha": "2025-07-15T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Cumplimiento de reducción efectiva de la jornada laboral a un año de la nueva Ley de 40 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRnlQVEdjQ25saDNmaHdLSTFodk9pdkVMdWZNa2dpZmEzdHBmb2RZZmJYWEhqZXdBMjNGcHgyU3JZYS1oVG01STBUTTVfUWczTktVek1PcE8tb3g0dWx4R1dQNHREeGM?oc=5",
+     "fecha": "2025-07-14T21:58:48Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
+     "fecha": "2025-01-15T17:57:43Z",
+     "medio": "Dirección del Trabajo"
     }
    ]
   }
