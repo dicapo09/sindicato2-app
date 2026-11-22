@@ -1,7 +1,7 @@
 {
  "uf": {
-  "valor": 41377.93,
-  "fecha": "2026-11-21T03:00:00.000Z",
+  "valor": 41384.81,
+  "fecha": "2026-11-22T03:00:00.000Z",
   "fuente": "mindicador"
  },
  "dolar": {
@@ -31,12 +31,12 @@
  },
  "oro": {
   "valor": 3539.0,
-  "fecha": "2026-11-21T19:08:38Z",
+  "fecha": "2026-11-22T11:37:39Z",
   "fuente": "gold-api.com"
  },
  "plata": {
   "valor": 41.08,
-  "fecha": "2026-11-22T01:24:08Z",
+  "fecha": "2026-11-22T11:37:39Z",
   "fuente": "gold-api.com"
  },
  "zinc": {
