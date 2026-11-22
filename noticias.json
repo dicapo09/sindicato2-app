@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T10:17:23Z",
+ "actualizado": "2026-11-22T18:01:46Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -228,21 +228,27 @@
    "nombre": "Reporte Minero",
    "items": [
     {
-     "titulo": "Milwaukee Tool y CEIM realizan segundo Innovation Training en Antofagasta",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXJldkpVWjF1Vmg4WUZVV0l2OS1INlQySXFlSUZzNjNvWVgyZ0NEdGt4WlRqVUxfV0d5NGRIVDNiUHhmem5JOWVDeDVnM1RyRnMtb08yT0ZUS2R3RzZmUFNrVldaeV9JZ1RnSnpGd01UQzBPY3VYV0FwZ1RWZ3JST0VYa1dQZDJOd01qc3E0LWZIT0xCSmVyY1dVdlNHSW9Ea0EyZlhqaDluSVgzRElj?oc=5",
-     "fecha": "2026-11-20T18:11:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
      "titulo": "GORE recibe 27 buses eléctricos en Antofagasta bajo programa de modernización del transporte",
      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3YxTk1UQW8tWU1rMWdnOVhhR2xhRVo3S1VTSHBjd1JObGlrNTRRWTNCMURPaWRvWXByN09hUENWT0RuYTQ3TTdxZDJOcWl2VHlDbVZsT0l3eXZSZGx5UzE1d1BDcHNZOHM0VVU2a0dqazN3MjNJeHk4OWtfMlNUbEkxQTNLLVpvN3ZWc3dVRUQzZkdxd1ZDV1hfbTJZTi02c281SlRPWFh4alE?oc=5",
      "fecha": "2026-11-20T17:38:00Z",
      "medio": "Reporte Minero"
     },
     {
+     "titulo": "J.E.J. Ingeniería abre 100 vacantes para mujeres en áreas técnicas de minería",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVWVVSm5XMEI0akJ4ajRGTTFVVHdfWXV4X18xZjJCRHNLSUJJZFFpWWtLRUFTcUl0YllQd0U2SUxIbmVBMHdLT1ZTZVFOZFlIdFNlZXl0SUMwU0hyV3hnenN6NGtiSGV4X1RlTTgzY2d3TDlJX0dkWTZ4UUprRUN3ekk5V2RWQlBBZXFiWXJZaDd3SXg5ME90b3NZdXRDMHRtTjJiVzVTTUo?oc=5",
+     "fecha": "2026-11-20T17:24:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
      "titulo": "Corte de Rancagua mantiene prisión preventiva por robo de cobre en El Teniente",
      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2trU2c5UkpuSW1zeG5QMC1zSXd5LUFIOXEtXzRaRk9UMlRiNER6NzNnR1lIM2dtaUdhQXRrVld6RzhDdUI4TzRCMm9EMWdiblU0andoYlZUVUdhbmdvWENRbGtqVXJoWi1pVlk5R2xraWd0cVdWVnBUZzEyemJaemYtbU1zM1hoV19xajV1Y19nemp6MnBZOWxCaVFHS2FyZ2EyNk9uWmgwME9GNzd3?oc=5",
      "fecha": "2026-11-20T17:16:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "Japón inicia minería en aguas profundas de tierras raras en febrero con test a escala completa",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmE3cVBlLXlVY040S1RWLW4tRVpyQmZPeHFtUzcwSTRrdkUwMmhwV3ZHVXg2WDNnUEZ2ZnV3eWVlcWxWTVdVdG5haW13WG1VVGZHS1JmNDVseHpmbHVGWnZMdG45YmpXRndUeXlSeFJGTDNfTjZJaTdBcVRhYjVpRnJkVnpiZE5YeXJWaU1lUEg4VFdwWlNqU2t2d1puVDVXNWFnWUttbnlVMEJSZDFR?oc=5",
+     "fecha": "2026-11-20T17:08:00Z",
      "medio": "Reporte Minero"
     },
     {
@@ -264,9 +270,9 @@
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Coeva aprueba continuidad operacional de Sagasca por US$63 millones",
-     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDgteFRvUDlwYUtVd09lT1Y4TncxV1VUeUZDclFQanVRc3ZwMENqV09CeDFORUF6RHlnd0UzV1R5SVB5RUJCa3dBbURabjZ1MG1nWmU2MkFDQUt5OFFCOWkxdWR5RFJ5VGYyRF9EV1N6X2VjOXBlMldocWtxWTBlaklkRVVyZlVQT0RVcTZ1eDA0TUgxUXZ6d0dHOHN5Q1BrTHBPU2laU3RobzRWTTZqTQ?oc=5",
-     "fecha": "2026-11-20T13:35:00Z",
+     "titulo": "Minería regenerativa: Suecia y Latinoamérica avanzan en alianza regional",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFZOWTVCRC1CUjg3MXVBNnVUTnlYM3Vnb2NmTGgzWmF2SHlkY09DSFBZdDRtVnhjWE1kc0NkaVo5a1pmSllkQ0lUMVpKNnpsNE5fVEVUaENuMmsyN09FSkVvbGpQRHBHTzFXSWtxVHRfV3FWT3J0Z2tPSWwtUVVIc1FsQ2RfdXdYbTdHWVNmWUx3cXZ4TGRtT3VSSlJaNHkybFJDM1d3aml5RGVZTUg4N29B?oc=5",
+     "fecha": "2026-11-20T12:59:00Z",
      "medio": "Reporte Minero"
     },
     {
@@ -291,12 +297,6 @@
      "titulo": "Vizsla retrasa inicio de producción en Panuco a segundo semestre 2028",
      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVlhTZmRXa1JucDR1aHdhVHVlT3Ztb1gzNjU2YUx2LUc2alpEUGNyY1k2aW5VME40U0MtZk5BQjNWNDhqRzlWOWd0WjB0ZjVhc1lBdFJiOW5PODNIMDdnbTNXMDJ1Z1pkRVVSaGhSam9MR0RVbm4ybFZPb21HdU1GalRVMi1RTlBaazNiekZ6bEIxS2ZocnZGdUZSdGlJV1BneklIcGpUdmF0dTg1?oc=5",
      "fecha": "2026-11-20T00:58:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "ICMM publica mapeo global de minería con biodiversidad e intersecciones críticas",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU2dEN2pIWF9vS2ZHUzNibnhIbFZaaDYzd3JYUFhqVGFPcF9QbURIcXpJM0ZuSnRpS2ZJYlotSFp0b3ZxcUVjM1lKRW16Vm9yTld1S2stT1NiS3JUV29UVmVDWUlENjBEX2ZTUEYzNENjaVJDNXR6Wk53VWtTa2l3YjZkOHNxQnlySEVDc190amoyQkxoOWJaQlJYT3psRk9sOWo1LXZqZVBWVmZYRi11Y3VrUW1qeXlkOFE?oc=5",
-     "fecha": "2026-11-20T00:35:00Z",
      "medio": "Reporte Minero"
     },
     {
@@ -328,6 +328,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGJKUEhsVkZ2N0VzTzQzai12aWNrZ3ZPaHJRVjlEalJJNGowZGdRVnIzeml2bDR3LU9rSmo2aWU4WnNiVGduTG9kOWFRUVJGTFZZODh3cUdqbzNsNTJLaDVQbTBkLWk5a2FGMmJGTDRaUTV1QzAxTHJwY2RBR2xkUXhiSG1jRmd0MHo5SDdzSl9VYTNoVnNsUkZvUlNGbFNNVmdaWkU5elBGZ2RlMUpQRHNTdWdRcjRabzNJSzRMem4tZllYZmItVzE2WUg?oc=5",
      "fecha": "2026-11-21T00:05:01Z",
      "medio": "Diario Regional Aysén"
+    },
+    {
+     "titulo": "Aysén abre ronda de seguridad minera con El Toqui y apunta a sumar otras faenas",
+     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmd4S3NKeDdTNXl5MzhEdEQ3M1E4ekJyZ2VVdEZtaXg5dWVtQi1qZVd3bUVIUDBBaWEtR2dIdXVTUE9zOGxyN1ZhbnVGTlc4LVB4U1V4cmdONG1kM05NbWVMU2pDbVRlbW1YckhtWFhMTmwxVHZJTWJUMFlUblhaVVZhQ1lKbkJKY0h6UzV6MXlXSGpSNkpaNkpDbzRMTnNpMXVVcg?oc=5",
+     "fecha": "2026-10-29T07:00:00Z",
+     "medio": "Revista Digital Minera REDIMIN"
     },
     {
      "titulo": "Seremi de Minería y Sernageomin de Aysén inician reuniones con empresas para fortalecer la seguridad minera",
@@ -406,12 +412,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcndoeGRCczZJQkRmUkNaZ1RFaV9DbFJWYWlNYjZJbTBFcGtLRWhpTUdwcTJFSVl1ZXZXeTRxLW83QWpzOUxRcHZyZmZoRE0wS1ZsNkhsOFVuUFNUYU8xQlhVQTZBVDBycGZJNk1MRkczZjdkNVFWTi1HV05kNWFQbDRTR3VKYUJEN05LM2lfZnJxRDdHazN2ZHV3TWZ3MUxodmlDR2tLakw?oc=5",
      "fecha": "2025-06-30T07:00:00Z",
      "medio": "radio45sur.cl"
-    },
-    {
-     "titulo": "Relave minero colapsado contamina el agua de familias rurales en Aysén: Llevan una década esperando medidas",
-     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb212T3lDbU9JTFd4eW16THQ1U2hpX0pjX1MyaGt0ajJzR1UtZzF3Q3lNSHo5cTVyTTN4S3JyNXRPUlM2LWt1MjRaeFZNWmFMdmV4UlNMM2luRzFzUXViXzlpNDF6Vm1oblVkNXRrY0pkRWl6TXBobzJEdUFhVTBGTXVZdzlCZmNtRzNpUHJTdDIta0g2THFFZHJIeTlzNktZeWw1ZmdtVy1TcDJ2Z1lNNFJqWVk3MzRhTVU2bUY4a2lIS3dvRUtOaWlGYTNKd0NGek9xSGVDMHFBaFHSAeABQVVfeXFMUDA2cHVyZGpvSG5hTWhnR3hVSFhvMmNTeXgwdXNzek1SWklxbXJZcXc5d295dWNJWDlwZF9NYzUyaVJSQ3ptaDB0VVpEbThlMmxpNkRQVlNFaFhiY2NwTkcwTHE1TjlyNXhpZ0c5d2FLWlNmamFJc0FCdW5uQUNia2ZMblVrY1llNXVrMXlGOWs4dm10TVJjcFpsMWlfX1UwX0lTdlgyN2pKc3R3UlJiTUp6YjBFd0tnTFVjWVFHUWEtTk50OUdXQkRtV0Q2OUdwSy1EVC1CV2x0aWRydnk3Nko?oc=5",
-     "fecha": "2025-05-21T07:00:00Z",
-     "medio": "El Desconcierto"
     }
    ]
   },
@@ -442,6 +442,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkEwRmtUVVNXR0Z2ZVlwU3NILTQtaGJ1X05rbjdZWS1Hb1JqNFlFSVg3eGhaOGV6NnRoOUhiNEUxUnFFRUNObDQ5WmRJT1U1Z25uOGxxVHk1T0FaODYtNlBKTUFKeWQ2bEpxLTNuZlpndm9ualZ5aG4zQkhCMEQxQ0NOM0JuMFlyTWtnNlJuVy1KVzI3bDluMmx3d1cwVkFob1dveA?oc=5",
      "fecha": "2025-10-03T07:00:00Z",
      "medio": "Diario Financiero"
+    },
+    {
+     "titulo": "Sindicato El Peñón irá a huelga si Minera Meridian no mejora su última oferta de negociación colectiva",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjJScWNnejFxd1BCNXdJcjhtTkZfOEVEQmJFT21PSkVlMUdZM3RqSnFaX3J6aGJsdUUxZ2Z5SmxiVHNRMlpfaWxTalNOTU9wV2E3SENLaEh2ejl0NlVNS1ZzS25ZS3pBVUlOWnN2d3lMZ2llUFFsNlhBZkZkWE1QdGRhWEZBa0x6enhaSHpGdFh1N3NSeE5RcUg1WVphWDdFRlo2andZZmFFTUxmWXVab3ktMnBFd05wR1JSY0N3QzdseEHSAcsBQVVfeXFMUHgtOHlsRUlQRld4S1AzY2NXYXY5SFpzSFd6QVpzQ2lEaFZRbjF0S2dLdXVveG10TmVMcUN3aW5LZktTYzZVcF81SHpqVmhvUDZUWGVhVjVvblpOZHFvT0dXVzZNaGRaRXBQUGd4MEltd2JWU05OYVVNcERKZUUxTkd4ZHc2OXFxaEZOOWNDRFFJejRZNFJnWDlBRllsb1pNbkhWRlpldm4xQjdsUHl5QU1tYmlMZXJ0cWNZdDh1VHhJNGVBa1FCQkFrMVU?oc=5",
+     "fecha": "2024-08-06T07:00:00Z",
+     "medio": "La Izquierda Diario Chile"
     },
     {
      "titulo": "Minera Gaby acordó negociación colectiva anticipada",
