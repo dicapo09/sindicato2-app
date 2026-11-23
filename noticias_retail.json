@@ -1,10 +1,46 @@
 {
- "actualizado": "2026-11-23T08:10:53Z",
+ "actualizado": "2026-11-23T20:32:06Z",
  "fuentes": [
   {
    "clave": "retail",
    "nombre": "Retail en Chile",
    "items": [
+    {
+     "titulo": "Falabella y Mallplaza firman energía renovable con Colbún",
+     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDFUMW85eW5QWG5SNmdXcDQzZzNER3p4bWRya0hJWkNGY0NlMFVpajlKU2RqMWJXeUoxR3F0STBScF9faGdIQ2x5dWpvQUZjRzVGUlhveUJFWEpFOWxYd09mSUtnQTg5M283YXNTdEp1a2hHZ19LOWU4eGdndHZFeVYyWDdHNWJvdlh2Y2JSUnQ4M0xlMnN6Rzl6cGJ4c181WmtDMGdJUDRweVJy?oc=5",
+     "fecha": "2026-11-23T19:40:32Z",
+     "medio": "Supermercado Al Día"
+    },
+    {
+     "titulo": "Cencosud reorganiza sus filiales en Chile: aprueban fusión de Cencosud Retail en Easy Retail",
+     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTVdXUC0yTkhrRHlRejFoOHh0dGhNQTkybWxNSUl6MlBqRkRaYUlvQ3pieTdCYUdhTjFaZF9XWFFUcnF1bnNJeGt4ZGhvTGU4T2RQMlBua3VYMUswd3NEdkZJR0ZwNlJUSVRxTFd1QlNUb09xWE9XYUU4SjBjSzFPeTZWbk5HY1lvQktHb2ZvSEhMRVBYY2p1Q19vMW9MNVNJczRuZGNDeUdwYy1pUC13bTU4WnZ5bl9idjZEUQ?oc=5",
+     "fecha": "2026-11-23T15:33:45Z",
+     "medio": "Perú Retail"
+    },
+    {
+     "titulo": "PriceSmart y Walmart cierran disputa por la marca SmartPrice",
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXy1Lb3lubmVnSTBOMVpwSnBBelI5dGNabTd6OXh1bS1SQUdpMUs4QU1HZmVGZWdhSGk2SURSdGkwZWRyeE4xZ3lJTFFGcTlGWGFrMFdDN2lIdkN6Y3lzLVZtUjI4VnpQRkh0OTBMWmU0ZFgyM0xELTNVeEo5UVE1eXhDdTZzQTc4VWI5X0ZfdGpwOVB0U0E?oc=5",
+     "fecha": "2026-11-23T15:09:49Z",
+     "medio": "El Ecosistema Startup"
+    },
+    {
+     "titulo": "PriceSmart y Walmart protagonizan disputa por marca en Chile: ¿cómo terminó el conflicto?",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVdaZElvekZSMWk5aUxiYzBXTEJJUE5oQlVJbmdLNFV6NzBpYnlLcWN3b01raTBkcmdOUTNaYUxSQ0pQaW5NMnd3akxQQjJTSnFnS3N4dGpNenBKcVhzY09NSGRoOEJxcU5EWUlOZmFnSWJiVHpSN2ZyNmljcDB3TDFKZmYxZ0gtWTVKRVNYNFNWNGlsSWY0emxnOHcxOGNUc1lDNWpLUGVFVUZLNEx2S1FhWnZmSU84cWp0VHp4bFQtLW8?oc=5",
+     "fecha": "2026-11-23T13:31:29Z",
+     "medio": "Perú Retail"
+    },
+    {
+     "titulo": "Accionistas aprueban fusión de Cencosud Retail en Easy Retail a partir de 2027",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzR4eTFJSmszZlotWTk5SEZTYTVsWUpVSGgxakJsRXlKSS10MlQwQUJHR0pJVm1SLVBrOFBlVTIxS3MyWmZVdW50V29TdllXc1pUWUJxRUNWTnIwZ253UERpN1RHNTY1MzQzMW9CQ0s2bTNKc3dFdzNjR0puZ1VHa0ZNY0NXVlNIMlh1WVR5akprWUpDV1pUUXFaUThYcUhTLUdUbm9wdzBrVTloeWlUdGlVU3VqcVE?oc=5",
+     "fecha": "2026-11-23T12:59:47Z",
+     "medio": "Supermercado Al Día"
+    },
+    {
+     "titulo": "PriceSmart y Walmart ponen fin a disputa por marca en Inapi",
+     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXMzckpFdE9nTmFnZHhnUHB2cmw2aE40ajc3RHpZVzVyUVkxMUpvZjRiTHc5Nk9BSmwyNnladGZOUW1wNHdRVkFlSVI5dHFFQl8teTAwelZMUjl0VEJQVU82TTdnbGdZWkgtOTZyRWFiYmFfM1dLU2ZJZDFJS0p6eDJyb193bGw2UENYcEZKTzRwNzEzTV81eFp3cXVVdw?oc=5",
+     "fecha": "2026-11-23T10:47:05Z",
+     "medio": "Supermercado Al Día"
+    },
     {
      "titulo": "Walmart Chile inicia en Maipú ciclo de tres ferias de bienestar para personas mayores",
      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVoyYVM3NmswLVFxSzFnVWp1RFVabHdjTHJOcnFfaU5MMDV5d0NHcG9YX0czX19BTFVPSE5OZFZqOWhpeFRQQXhyZmM2MWJFeE9JeHptbG9SN0d6aHZ6cE1fQ0xMY09DaUlEbFVVR3JDM3pZVUxnd2diM2xnRG1RNmRUOE5CWV9ycWpnc1pTVTB6b3hzNVUtSkE3Z01aRmZUVGk0YjhYZlFFUktiVmNMQmJ2WS1mV3lUdUV1Yk5ZcTQ?oc=5",
@@ -24,10 +60,22 @@
      "medio": "Walmart Chile"
     },
     {
+     "titulo": "Cencosud abre nuevo supermercado Jumbo en Chile: Cuenta con un robot en sus pasillos",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmpBUjNxblloMU1KZnJPY0JLeEpGS044dklGdHRKSDZuODYxbjNKVDRYUW52YkRZcGMwbWxIYy15V3BrUlNOb3ZmLXBJNHJLUXFiZkN6UUdKeE1hcVViSG9KeHRkYS0tQVBVMHBWbE5RUUZGaEtZMzY0RnZRSEE4WTNrczl0NEpoQy1aVUtzQjFLVWpVSUdOWGlwRUlnRTc4NkthaF9CYmJzUEFGWDdlYnVn?oc=5",
+     "fecha": "2026-11-20T20:57:20Z",
+     "medio": "En Cancha"
+    },
+    {
      "titulo": "Culmina un capítulo en Cencosud: dueño de Jumbo y Metro inicia nueva etapa con la transformación de uno de sus supermercados",
      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZjQ2Q1ctWXphRHVYUXlFV0VQVFdOUHJDRngzcjFWVGd5aldUeXpnVV9lQmFiSkU1LUFDb1ZIUjhKWDV2RTQ5bTRwaG1JR1NxY0x5anRXbGQtd2dvc2RITFNtaWV5dC1zWFg0Q3lFSDdGYW5fRzQ2bjQ1aUs3bFl5S2VFajNHclRRNzdfaThrc1NUeUREU2Z4d1VVcGtsWWU0OEEzNHh1VDNRTk42clRQMDUwN205UGRKRmVCUlZETmJ5MWZYT0V2VEV1Sm01bERZaXp2S3pfU0YzWG1ZR2hHQ0QzMkNYdVJRNUZWcU5JcmNSV2s1YjRLYjlOOVBwRzFTM1hsSlZn?oc=5",
      "fecha": "2026-11-20T20:47:26Z",
      "medio": "RED+ Noticias"
+    },
+    {
+     "titulo": "Cencosud presenta un robot autónomo para orientar a los compradores en sus tiendas: ¿cómo funciona?",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeFd2VjUwekVRb2dLcUpsUS0tajAzb1VTQjREeFFhMUpkY3RqaWc3b3ROVzBtbVNQVl9KQWo3MnR6NEF3TWhrdTJOMkRFajJ4TUZwcXplMmFiZVJnbm1JdVVIbWZjS2pjSkhmZTBLTjRvYk0wRUNKX1RmUm5fa3dWcmJxc2Q2TXY3ZlBxMzRvNGcyTVB6NmgyTWFvSWlCNjJMaVBkQWhxUmVrTDBhbnlZV280VWZHSG10cGtCNUwxY1pnbFU?oc=5",
+     "fecha": "2026-11-20T15:34:06Z",
+     "medio": "Perú Retail"
     },
     {
      "titulo": "Cencosud, dueño de Jumbo y Metro, sacude la competencia con nuevo supermercado de bajo costo al estilo de Tiendas D1",
@@ -36,64 +84,16 @@
      "medio": "RED+ Noticias"
     },
     {
+     "titulo": "Walmart Chile y Desafío Levantemos Chile cierran programa que apoyó a 120 emprendedores del Biobío",
+     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUks4cURsSVFmZjdPMUJNeFFLdEhZUjVXeGZVd3dteFpNZGRxVkNId0tvcFZPOGQtLVZPN29ZYTlxY0RoVEVvS1hZdVg1WnA2TTJCbUVpVFNfcEl2VWpicGJEempDeXpISEFLR09IdnJYQ0hGN0xYdUdkbjZmYUhSWEtfYl8weENFTHN1TG5INlF4V2lhSDM1U295QzlUT2duUDlISTBBVEpNZzRieWFvQ29FQnNyUFRTY0NLMHNuTGtySXF2NndranRmemtKSVY3WHc?oc=5",
+     "fecha": "2026-11-18T14:24:34Z",
+     "medio": "Supermercado Al Día"
+    },
+    {
      "titulo": "Walmart Chile, primera del retail en ranking de innovación MIC 2026",
      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWpwdWdLdkRNbzd4U1Jvc215Y1lhb3lMTDVUbF9CbUNYYlZ5Nk1FdERvX0ttOHJQeE1lcW9tcjhESmw2X0NtSmhKdGVxUkxHeV80TXJTcUp2YnBod09rQ1cyRmhlVksxaGN5ZTlEcU9uR0pIMnd6RXBvNU1CUTd5RVZuakJBbUJTd2x4Si1mU1kyb1dxekpUeXNubmc3Rkh2NUM2TFRxMk4tZmR1Y3dJ?oc=5",
      "fecha": "2026-11-18T11:59:36Z",
      "medio": "Supermercado Al Día"
-    },
-    {
-     "titulo": "Kodak vuelve a Chile de la mano de Mr. Click y Falabella",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzdBNDZYRnRmRTFFVmJXTzZWbG01ZmRtbDVodWdzd19zeFBjdXBmWnJaX1pRXzNSVmM1REQyM2tlYXNac1VUVTdURkU3azVrMV9uVVI0UUJISzhWekx3c3cwY3pFTGp6VEItRUV4LUlzYWFiMm92WnN4Skw1QVFDQzR2Y3gydFh6S3RYZU4xTXl1M1dzQk96OXVJRHhtVjNoanE2aERyazFPYmJKd2szVjlmYVBlT1U?oc=5",
-     "fecha": "2026-11-17T18:24:56Z",
-     "medio": "Supermercado Al Día"
-    },
-    {
-     "titulo": "Más de 500 empleos generan los tres nuevos supermercados que abrimos en el último mes",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJvbXdzVlVma3BEY0VpZVBZejl4VTNOdFMzSS1fR0VZdW45SlF6VWxNZEJHSmh3cmU2bllrVU1fdlFKdTVKSVBjTTJmbVU3dy1BWWJVbENHWTJUT0FWektGN0EzNHBWR3RFQXJlY2ppbzRKUGlwQ0lpV25GaGlUdlRnNWNsZkR6RzJXUk13djlvWUg1R1Uya2c0OWtsVmY2RTlvMjIxWTFXZWVsOFVqRmx3dUE?oc=5",
-     "fecha": "2026-11-16T13:59:06Z",
-     "medio": "Walmart Chile"
-    },
-    {
-     "titulo": "¿Llega a Chile? Walmart solicitó registrar Walmart+ en el país",
-     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnRPOHB1Y1c0LTlnYnVwQ3N2TnY5MXpkX0tCbFRtajkzYi13Z0pYUGdiU0hrT1k3aFFpXzJJck9ET0RiZGVXcVVjUHFuSTkxRURoQnp5WXhPZ1RqZ09MbERiZHlKYnQ5RkdxNzZ3SWlUaTZWVlJtU3ZzOUFpbW9rTXlUODMteW1hWHdlQmVkQmg?oc=5",
-     "fecha": "2026-11-14T08:00:00Z",
-     "medio": "Chócale"
-    },
-    {
-     "titulo": "Cencosud avanza en innovación en retail: Jumbo lanza el primer asistente de compras con IA de un supermercado en Chile – PAUTA ADPRENSA",
-     "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQlFHNUlraEloejBGS0M0cGlaaVluVUdpeEZseG05b0drRjh3QXI4dXdFV2tjVnZZdFlUeGZHenFKZVl5emxmN3JrLVF0alV2Y0ttRGNzVng0TExDVDItVmRRVmpIUktwZTlET3F2RVk2clpveGtHWW04ZFE0aExFbDE5UTJ4MHhtLTBFTjhvVEhKQzVBQUtld1hmR0xjTGozN19fSnN0TllTOEhkelF0ZExHaExPZVhkXzNJODZZMEdpd2xzUGNTdlVlSHo5ekpvV21UMA?oc=5",
-     "fecha": "2026-11-12T16:09:54Z",
-     "medio": "AdPrensa"
-    },
-    {
-     "titulo": "Growth Summit: 31 pymes entran a Walmart Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHZ6YkJCR2FUeWlkX3phcFlhX0FraW1OQk93Z2pSaVlISjRBeHZpbmZlZUtCRFhLUldidmRGMmpESWtGTlljejlaWnM4YlF1MkV4bFdMRm82N2d2eGJCQ05aYV81UnZubFdnTnV6emh4ZGFHN3VXV1NOZlJub0lib1l3?oc=5",
-     "fecha": "2026-10-16T07:00:00Z",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "titulo": "Falabella Retail: perfil de Cristóbal López, nuevo CEO en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWEVxVUpId1pDN0VETDdKQ3JMTDF0VHJCQU5GckZ5M2Q0ZTljc1NlLWlPLTZDLXBUYzZXcnpBMUpGMG9adEstelBKUkdmeXI5RUJVbzZZMWpPZC0zbGVwVjFKYWZwYVY5cTZXWWZhcmc2SmxjQXBRd1U1UnM?oc=5",
-     "fecha": "2026-10-12T07:00:00Z",
-     "medio": "Ex-ante"
-    },
-    {
-     "titulo": "Falabella nombra a Juan Cristóbal López CEO de su retail en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzNsYTZkQTlGTkhHZDZTaXJKQWpXVWIxZmdBbG15TFNqR2N1cnM5ZTRTa1JuSXBOcmUzZ2dpekFFQnZYRDRHdHBzTlBZdnNkbTRnLWc2eTJnRWhUTFNqVVZqVkhfSkw4Mzlrdkx1V0FSWHh6dm9VTUlDaVBhXzVXRE43WmZkc1NfcVpZd09PZ3FjbXd6UGE2aEE3THY?oc=5",
-     "fecha": "2026-10-07T07:00:00Z",
-     "medio": "El Ecosistema Startup"
-    },
-    {
-     "titulo": "Falabella Retail recurre a ingeniero con dos décadas de experiencia en la empresa para que asuma como CEO en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDFJUDhjNVFmREs0ZzdiaDFWaDRHUlhIcWo4MlZaZ3lwUUVBQTlycDZJT0dMNEJ3N1kzeU9rbmw5c3hjSWhrRDFBMm5tWGNDYWt5ZTlkNDBlMjhfZFFzOEV2dXJSZ1ItVHNOT1k1TzJsaFQ0UTVJc2hwRi1rVUxJNVQ5VUQxdzVUV3lvbF8yV1k0ZGFFcFA2YVA0VS1hOFRKS0RZVzVCeENydms?oc=5",
-     "fecha": "2026-10-06T07:00:00Z",
-     "medio": "Diario Financiero"
-    },
-    {
-     "titulo": "Una Cumbre de Proveedores para el retail del futuro",
-     "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGR4cllsS2I1eHZKTmY2cDV5bXZLR1o5TmM0Sm1SeHQwUTIwZDdCODRXUDhCTVB1bzBseWZDYkJNelhsaHpDaDNxUEE4VHB5ZzJlZGoyZEpLVWFvWDR0Z3Eta3FTdEpxSVN4cXNKVWxBQnNzek13N1h0bXJpRG01X3YwNXJEelk?oc=5",
-     "fecha": "2026-09-30T07:00:00Z",
-     "medio": "www.walmartchile.cl"
     }
    ]
   },
@@ -102,28 +102,10 @@
    "nombre": "Mundo sindical",
    "items": [
     {
-     "titulo": "USO denuncia el \"abandono\" del Hospital Santa Isabel de León y exige una reforma integral",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamgyMzc2M1lja29nbmRGaVRNUWRMTTNpanQ1SlIyVXRsem1MRk53NmZQTnA1cGhPT2VYWmMzSlJ2cm5LMzNGblhiTW9pbzdmVkVKZzNyM1EzcEhEMlEtVzNjcDFOYl9jSFNKTVdqU1U2b1I2TC1LdDdpSXJFOF9XQ2xMdWt3T2I0RlJ3azRVNFBCLUtZenhkWmowYzVOTlRmUVdGZlcxd2lrM3R2TWdweEFUZlpwR0VwNlFoTzUxUk42ZzJ1RkUyUA?oc=5",
-     "fecha": "2026-11-21T10:56:10Z",
-     "medio": "La Nueva Crónica"
-    },
-    {
-     "titulo": "MLB: Líder del Sindicato explota contra Rob Manfred por \"falta de seriedad\" en plena amenaza de lockout",
-     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYTNFSndncnZYMUFtU0pBQTFJNlFZMVFuUjFBNnk0Mm11SURTNUh5aVJka2xWMGllSDdlN0tiU0QzWGgyMDNja2FRdkZ4cWN0NlJxMWtucGZyVGtXb3dPRDJ5d2VaQnhOY3U2RXF5a0FoM3c2dkR0YllydTRUZ1dlczc3ZXJXbm9uZWZjcS1YUVZwUGY1MzhSd0d6dmNLZ3hnVW84b09keVc3SkpFTzZabC1PaG1adnhoajRzdExJakZWSjFDbW1TaFkwWC1aQTU1aTA3Sm42NUF4RVg0M3fSAeMBQVVfeXFMTlctM3RIRjRSUGRJaGJHOVZTTnB2RFYtLUtfMm52Q2ROOGllNElpR2thMDllV2MyMlhsamU0S1FLRWJ6WkZRcGF3NXhJWldxcXBtV0tCY2l2VkdFWjV4WUNCTDRVNDkzLUJXQ0ZBb0t1dDFUcjNIMFFrRXNxNW5kX3hjYnBCU3BsSmhHUjVkNm5wWVk4UU5rZmVFN0F0MEJXdGhQTS13QnI0QjRaWmhnQ3Nkak1IUEtfNHA2NHZTX1ZENGlRaEV1SnV1QkR2Q3NSTFQ5b3RmcEtqWi02eU1QUVVEWVU?oc=5",
-     "fecha": "2026-11-18T23:41:00Z",
-     "medio": "Al Bat"
-    },
-    {
      "titulo": "Luis Velásquez, presidente del sindicato de Santa Isabel: “Siempre le hemos ido diciendo la verdad a la gente”",
      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjd5bXAzYS1FNWV2ZUFHRks3Y2dPOV8yV0Q1dmhLUTZOb2JUenFxdXpoOFktUU9wcUQtVVA5Z1drN3dzLWVveEx0cW5kREhNQktyNmRYNGtOYS05X1NKSWhobzRWS25mX3RXNjFFcUF1MGd4WW5oMnc4cFM2RUh2VlZBM0Q0VEE5NjNtQjBrTEdpbDl5d21FMdIBngFBVV95cUxQckhyQWZhVDFPM052OU1GbHhYVE5OajJNRkFrQ1lsajdraTRfTEJ0MUtvRXlpbjRCbVhYc0UyT0FrN2JpVmFjX3pLeW14THpfR0lwdmU5SERPZkRrN25WN3k1Q002aWU2ZTkyRGUxNUJvLVFnUjVEZnZ5dEZRRkRxS3IwVkllaWJUbTVOd2hWRy10QU54TnVqeWZqaVFrQQ?oc=5",
      "fecha": "2026-10-09T07:00:00Z",
      "medio": "The Clinic"
-    },
-    {
-     "titulo": "Recapturan a presunto líder del Sindicato 22 de Octubre; enfrenta acusación por extorsión en La Paz",
-     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOTFVOUxyaXJqeE56eWVsM0JEZ1RQS2p0LWthQVpUckJsR3F0cmVzT3lCQnhXaHZxcXg3Njg1am9GbnN6c0VVSG5PSTgwUHh3ZWdtZDRPcF9SUjZvOXFaY1R0N0JJMEZTczV5N0E4eGZfTDFVc1FCdG9UMGRYQTM2Y3lsTHVXZmNzemhrbjZTb3NQZlUtazBvRzhyUXU4ZlFXc1pWc1YxaFFZQXMwOXVlLTh0YzdHZ0Ita0czU1lJeE1GRU9JUzU4clE0UDVhQjROLWJpYVdnaDZCSzNSQnFzc3o0dms4dkJrRm1IamlGb2dIY00?oc=5",
-     "fecha": "2026-09-03T07:00:00Z",
-     "medio": "Sistema Mexiquense"
     },
     {
      "titulo": "Sindicato Interempresa Líder Walmart presenta reclamación ante OIT por eventual negocio de mutualidades",
@@ -190,6 +172,24 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2hjMXIzaXdTSlFnSThuamEtM3lsRkFKM21BV3lmbmlvSEFjaTdsUzFzeFFEMmx0Q3J1c3A3SGtKNlg5UWVDNFNkWHNOekxwQ0pvVzFYa0JZc3RFUjRRYUVXcUZCQnVzeHdVQ1lHZTRKMFpBWjdJd2JjNzNSZzREOWVDM3VpOXpKbGlaYWxSYjQxYndZUVZ3clhDelVfSWlxTW9DZHR0aWswYkpSNE1YVmRIQ0hXb0pGaVY0?oc=5",
      "fecha": "2024-07-13T07:00:00Z",
      "medio": "Interferencia |"
+    },
+    {
+     "titulo": "Walmart logró acuerdo con un sindicato, pero siguen en huelga casi 10 mil trabajadores",
+     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUmhFT3R6cFhXdVIyOHB0bGktcnFtWmtuZ0h5cHNXZlFiVUw3T19vY1BYbl9ja1ZPUi1HbkMtN18tTUZLdFp6dzY4cmN3dGFSZDNLNEZmU1NJRExKVlBGSVVQYzk5M2xLWGhXckFOdE0yVGF0V292NmRyQkRpX25nQmUwdHNaZDBwclpVTFJuSi02Z2JJM0dIakx6V0dGcXctbUp6emh5cUozTzBWQXhMWEhhSmZ3c0FSMW8wSDg1QTBlTGhYV3B4WGFBWVBGVVIxbjF5MXJtYldueFVqeGNqRDNRYV9RWlVmWUU2Tm4wYzhBUXpVR0pHQtIBjAFBVV95cUxQTWdad3lLeFBwN210UXBKb196SGJoRTRqSEFZT3RNZ1VCQ0NnMF9icTNFSVNPaDFGZGpGRzMwQzZ0X3BsckRlcThwY3l5djcyS0ZiTi1wSGFHbVZaMlg2SnZUd1FmQkh5VEg5ZlpicHhmODQtX0FYMk9UeWNIUFktTVlvQmtqZHZKSEVVWg?oc=5",
+     "fecha": "2024-07-12T07:00:00Z",
+     "medio": "Cooperativa"
+    },
+    {
+     "titulo": "Trabajadores de un sindicato de Walmart Chile inician huelga legal emplazando mejoras y beneficios",
+     "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPd0xjV1JNNnJNcXJFYWhmVjU1YXBRRWpoZXcyQUNTdlhTVEU0U2pFMGhwWTlGa19pUi0yV3NQdEU3Rnh5NWZpSzNJbEN4TlZWNHdPV05fRDNMOGFvMm5WNnhWeDhfZk1yWEhoQlFvSlVWS2ZYYi1CZ0wxVGtkeFQ0Z1lHWHA2V1RSRFBlZ193WktpUlJuNzJCQVlJeDMydnpHdjl5aE5PUzZaWUNnQm1OMTAzYXhWRFZtcV84RThsdmZRdjB0YXlmb3NHZEhxQ2VHRVc2bjNkcXFvVGpOWi1yU045b3MtUlppaW0wLTZmaFRkRmlJM0tISkpFaFhQQTdzVkVlNkgyU2dTOTRXSVHSAZMCQVVfeXFMTkdVdS1vVW1IZjNEejdDQ0hjMjROTW5MUUxrX1JTNUhpeHZfekhnTGp0bmZsZG5RRE1NbHVzbHM3TkdYdkJ3WnRJcnkxMTNGYTZxMnluWXpSMWZDNXQ1MTF0ZFlCemgweTV2NWJ0WjZ2UFpmM3ZTT1B0N3dpQlY1UVRndTVmZU5IQlhQYTBQRHBxWGpIZmhwa3B2bzhfZTlyNlhDUFBSV3RqdHc4empmdkdLNnQyRDlLLVozdEVsZnNfdGpxSVk4ZnIzbFR3LU5rU1BOaG1tVmZ5QTRyVjl6OXA2RTYzX1A4aHIyb3FLU1Z4Y3h0aDNyWEV6b080UWE5cjV6ekFwOFJDRFJVZ3NVM0FuMDQ?oc=5",
+     "fecha": "2024-07-10T07:00:00Z",
+     "medio": "BioBioChile"
+    },
+    {
+     "titulo": "Sindicato Líder denuncia que Walmart Chile recibió más de $3 mil millones del Estado, mientras despedía a 9 mil trabajadores/as",
+     "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkkySDYzeURMYWl1WXFtQ3Y3LXRwUTN1OFhjbWZfYzBQU2tUNTU2N2dla01kTTJaU0p1S3VYelduZlhnLTM1U0VTQ3lGSC1kWGhOTFFXbm9vOTg1QVlVS0JJR3J1Q3ZJdFJkMFBVR0dwLU1HMHphYk9pSGtXbkt2RzRiSl9kVFFhY3lFYUhGLWxPX1dtRjZSbDhqVHpMUkRjMFJ0bW1ONXlxVm1VOGxSbmMzU2tDVjltSFRibi12a3lyeDMwNW9HaWg1bVVGNG9OWS1OZWFoNTdqNkVvVExVWWctU0JQci1yQ3c?oc=5",
+     "fecha": "2023-04-05T07:00:00Z",
+     "medio": "Resumen.cl"
     }
    ]
   },
@@ -197,6 +197,12 @@
    "clave": "comercio",
    "nombre": "Jornada y comercio",
    "items": [
+    {
+     "titulo": "Revisa aquí si es feriado irrenunciable el 8 de diciembre",
+     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDRJQ1YxenVvWEpHcWN4ai1jMHp5LU1IeXlCR0ZPQzIxVGdlaWc5a0RXV3ZlSDFMSEIxRTZ1WHN5QS1taVEtN2gwdHN4M3M0eTVtbUYxbl9SSmhva3BsZERwbXRWS011YkZmeXJpaUJ1eEFfLWtyY3pqSFNFeDg1UG1IQTBOdFVLMWNBUlFFTndCM2ZRTjJlYnZWM28xbHZNaHlvbQ?oc=5",
+     "fecha": "2026-11-23T16:38:05Z",
+     "medio": "El Informador Chile"
+    },
     {
      "titulo": "Confirman multa contra McDonald’s por no otorgar feriado irrenunciable: Empresa obligó a trabajadora a prestar servicios durante Fiestas Patrias dos años seguidos",
      "enlace": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQN1ctUEU2dk1mX09jQkJacGVrUjlRd0psRGFYSUlfdk12YU1GSHcyRUJZNW5fUUJ6bF9IZHVFT2FfYndGaVpnTVBFZGx6WUltY3VfSE5sTE1ieHJwZVF4Si1xYTZ0eUVyZlI4cVlDbGduX0hFZVVQSXRyVmNsb0RrRjUyZEtzWmZlSlh4VVVRQnJzaTN2RmtFRmotdUxiQUxxRTNKYTI5eEd6aDZnbW5LNTQ5enZvZlMtTmxmeHFBaXRVRVFWejdLd2pmTlJiaDFJSTZLT2V1Y1pZc3Y3TTNNdjdBOXRpdGt0T1JYNEVXZzlhSUM4ekdidnFacGZjMGZDY3AzTGxvbWVySGZDalVRak5rcFRWXzBsdjktbFBhZFo?oc=5",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOXVpUkFBTENtanZtVWU0NkVBbm9IRmh2RVEySm9LMG1id2RCejI0S3VCclNLVElGOS1GTm1SV3pQdWg1V3NwSU9qT09NZHllc2NzVjAtOVFfMHYtdHVwTUFjSEdzc24yblVianpQdVJtOWg4Rkw1dlJKZEl6VzNsaDlVbWtQWEp1OXVRQ2didUg1YWlTOTQtY2t1cXA1NVd6RHRBZDZZZ080N0tsMFJnalhmZmE2blRHTk5yR1FYWnFYQnRJc2c?oc=5",
      "fecha": "2025-09-19T07:00:00Z",
      "medio": "El Mostrador"
-    },
-    {
-     "titulo": "Estos son los comercios que permanecen abiertos durante el feriado irrenunciable del 18 de septiembre",
-     "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoYjExeEQwZWtxMGxBUjRrR3hHQllLX1Fpb0h3Rmx2TmREVEt0WV8zVmxPRGRtRHR1bHpNdV9RQzc0VzhRcG9TeFQyeld1ckFNUnFLZVpQaXE2aS1oeHU3el9QcndfTmJfZi1IMWtYRG0xMGZvWTMxeVZKOA?oc=5",
-     "fecha": "2025-09-18T07:00:00Z",
-     "medio": "CNN Chile"
     }
    ]
   },
@@ -314,7 +314,7 @@
     {
      "titulo": "En Temuco lanzan plataforma para denunciar a comercio irregular",
      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORHZ3eV85QkRqbXQyam5XcVZuaU5CNjIxV21QblpMNUYzS1Q3N3l2UFR4OVN4OXBnMnEtZEc0TnFkTkgxTXRHMDRRXzk5M3RyQ1JMWkZvMVRQN3BYemsyc0hpVVZGa1lZWm9wYkhfQjNfTkc0R2hoZlVWXzFiNDJFbVhLZThSeDF6VjJWR3B5OTAtUmg5ckxlaXc5TFpQYlVx?oc=5",
-     "fecha": "2026-11-09T03:50:21Z",
+     "fecha": "2026-11-09T08:00:00Z",
      "medio": "TemucoDiario.cl"
     },
     {
@@ -390,10 +390,28 @@
    "nombre": "Leyes laborales",
    "items": [
     {
+     "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQzNnUFZqY2lmX21PVUVrVWtLOU5Vb1FreF9zUEJmcE1aM3BHM1Utamw1V2lPa0Y4Z3YtbEFrSndyTHFuMkZFMXBQMTV1S3JEMXlMaV9tYW5pSmZkMmJvRXNtZmRHZlRFWk9vTTJaVFphRW5iTXhaZGRpUVVuaTF2UjdoVDI3T25JeHp6Tkl6Y28yWU02dGxBei04UjUyTzlFdUgwQVFVbm1QcGhCUUFEei02Wko3LXpqLTBheGkyMUFuVEp4Z2hYeVpSaw?oc=5",
+     "fecha": "2026-11-22T03:48:16Z",
+     "medio": "El Mostrador"
+    },
+    {
      "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
      "fecha": "2026-11-19T19:41:17Z",
      "medio": "Publimetro"
+    },
+    {
+     "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnRROW8yVWJ4aktfWDNWZ0tnQU4zalpndTV1a2tBYnR0SHlWOWZPWDJwVThRVHA3NmdOT3VKMzY0c0gzLUxuNTIwcTRLLWR4RUU2MkxfYlN1Y3UxdVZ6SWVGRy1sa0w1WF9JUDBoS1V3eFdGLXN4OXlFQ3dJUTNsZk9OV3V5cmpSZDN0SkhoRmI0Z0xGUkpnaV9XN2MybGg4MzNtUnBrQm51RmpwMk1JM01pYUNJUkFqOXc?oc=5",
+     "fecha": "2026-11-19T19:21:59Z",
+     "medio": "El Observatodo"
+    },
+    {
+     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
+     "fecha": "2026-11-15T21:03:47Z",
+     "medio": "CNN Chile"
     },
     {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
@@ -444,12 +462,6 @@
      "medio": "Dirección del Trabajo"
     },
     {
-     "titulo": "Sello 40 horas: Conoce las recomendaciones sobre su uso y aplicación en los procesos de compras públicas",
-     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEZ5aTZZUUtzVEtuR3RnTHVrYmpUekxXRnptNUtYMEVjYkttOGFyWWtnYllUc3FiQllpRkJMdnd1V1BuTmRaQ1BtLWJXRXNURnN4UTROVGhaLTc5S2VqQ1h1NWpfWDBxTmNERjl4ZnkyM1d2MDV2b2ptVFA5UXI4MWJCWURPZjJlTGRzMm5YS0JLSHZLUTFXV1hSb1k5bTVxZXAzeXVzc1VWaEZoOVFjdUxoOUg4WjlMdnpwSVphNXlldHl2ZnhodW9ud1N1U01wMFE2c3Vn?oc=5",
-     "fecha": "2025-02-28T08:00:00Z",
-     "medio": "ChileCompra"
-    },
-    {
      "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
      "fecha": "2025-01-15T17:57:43Z",
@@ -465,18 +477,6 @@
      "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
      "fecha": "2025-01-15T17:20:30Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Los 100 años de la Dirección del Trabajo en Chile - Aporte al Debate Número Especial",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMXZIY1dKSS1DbjEwZkJPWnc1Sl9TS0JrSFdDUnBPMUx4cE0zUDNKME80Tm5hZHBCRlVpcnN6cDd0QXgzeERJYUk5dm9JVzMyV05FY0xaNjVxdXVZaDlHUWZFVHZYVWM?oc=5",
-     "fecha": "2024-09-30T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Sindicalistas de la banca conocen estudios sobre negociación colectiva multinivel en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTaHktV2VwMlozU3duRFJPaEE0VW9VQlJKOTh3WVdybFczdFF2TFV0NWxTWmRVczg1M05BVFh4LU44My1qU3IwZlkxTGdmOTVIWmh5VHpSQkEtNkJSME5iTFNFc1lhZjg?oc=5",
-     "fecha": "2024-08-06T07:00:00Z",
      "medio": "Dirección del Trabajo"
     }
    ]

@@ -1,10 +1,28 @@
 {
- "actualizado": "2026-11-23T08:10:55Z",
+ "actualizado": "2026-11-23T20:32:08Z",
  "fuentes": [
   {
    "clave": "forestal",
    "nombre": "Sector forestal",
    "items": [
+    {
+     "titulo": "ExpoCorma muestra cómo el sector forestal se prepara para un verano bajo amenaza de incendios",
+     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSGlhWExHUnhTbk9idGtCOFFsNmR5Z21qeS1ZS2QzbWtsVWFXTHJBcVVEMmVTUUpfaWwyUmNsUkVEbk5qb2FOV1VBMDAzMzFUdHJWcjRiN2swZHB5RlRwTjlnUFN3X3FGMVpfR2wyanMzM3pOVi1HSThXZEhMUGRyOXpXaGMzVjRtZVZiUGNQLVNOeTRiT0F3aEFVb1dIdjNzN3dmR2lrdzIyYWJ0MlVfa3FPdkNrZTExekoyVEgtcmNqRi1ZYks1aW1VQm11TUJoOFE?oc=5",
+     "fecha": "2026-11-19T21:22:05Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "Ministro (s) de Agricultura aborda recuperación del sector forestal en ExpoCorma 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWs2cFpIdkRIR0NPeUtzRmdQMVpIbXZoY2ZucG5vMzRGMFJiWk4wSzV6YkFFUnBrQVNQa1gtUWRzQnl4QjlNblNnaHJvVmNmN0xOMDBiQVdhaUhIcU9jTWZOdGxKcDR0VUlxaHItOVBISHhwY1dNdDhsS29XVWltNExCaEo2emUyWldEWTg3aUlHdzQ0X1o3M2hsVE02SmZKVkQyV0J3NElPRGotdEF1WnFHa0tnbEJubGtXN1d5a1hwMk02?oc=5",
+     "fecha": "2026-11-18T21:23:02Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "Colegio de Ingenieros Forestales llama a incentivar la forestación ante crisis que afecta al sector",
+     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcjVCY3N4NTE4bVRkWjV1NTZ2NDBUeWE3YWJUajJMYXFsTnRmTXU2M0hIVjE5NFBkWEtHRFRIXzJXU0o4TlBmTzZodldveVVlVkFKUEQ3WS1kN1FZZm9hclNTWmFrMkxqZXZ3emx1d3JzejlJNkdjdmtxc3ZzNFpwelZudzV0UTc4djJubTVDQkl2cV9ESHg4QjZ3aEhkLXBVYmFwYm1jOVBDVU0tSjhqc1p0Q0V4Vm05bWRseEZfOThwdlF5LUwyUTA0b2w2dWFWaVppVkdqcVE4dw?oc=5",
+     "fecha": "2026-11-18T19:59:01Z",
+     "medio": "Canal 9 Bío Bío Televisión"
+    },
     {
      "titulo": "Comité de Capital Natural de Chile y la Universidad de Stanford se reúne con sector forestal y de desalación para avanzar en el enfoque de Capital Natural",
      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGFETUVxd3ZtRlc5RlBfa1JKUDN6QXBMSEg0V2p0VTVnZkxnNDlfLUNrTHo5LXY3RnRpU0lWYmpvNUh0Z05wamo3Z0lubHlXUVBzaUh4RDNGd3ZmZ1JrX0pQaDB3MzZoSVd4b2o3WTBIa0dzQzlQMG5mSU5qVkJLZ3Ftb3l6YmtueDdMc1lDNndJa3RWMXBzd3phX1NKU2FnSTZnMnYzWUlHbXZvTW5EWDhVeThuVFR0dW1qbGIzYVpLZVF0ZWpXSXRPa21ObHc?oc=5",
@@ -60,12 +78,6 @@
      "medio": "Infinita"
     },
     {
-     "titulo": "CONAF conmemora el Día Nacional del Brigadista Forestal con homenajes en todo el país",
-     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnF2RXdfNXpyLU1pak5FMHh6VXJRUkZRQlYzVklVVzkzZld5SkxOZ1FoV1NMQXlXUGpsQ1JhZVhRWEpGcUc5RTJaU1NRaHVxR1FNYWNqTXJYZ2JIdWJUZVlXXzR0NlFOVUdOQ0NGU2c5Tm1JM05LUlNDT1pRTV9TaUZ5eGVYajltckphZUdUSlA4WHBOOWUtYm13ZnZKSUVTZlFyeE5GVzZ5bzA?oc=5",
-     "fecha": "2026-02-15T08:00:00Z",
-     "medio": "Conaf"
-    },
-    {
      "titulo": "Incendios forestales en Chile: cuando lo previsible se vuelve mortal",
      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzhET1Bkd1NfVS1rOWgzUWNvRzJRWFVNX1RzWjFKNkxiVmNiR1ZuQ0IwbC02TUsyM2daTFFldDNhNXQxWFlzYng0eXBxTnMycHlad0lLb3RmalVtR19wMXRSRkhjdGJ5aVlvVXI4TW1LcVp0R1R4UUk4SWJkNVFFNmNudWtIU2xmN2FEWTJSN0RqWDFzOUZMcmNUMG9zaHVLWWZxalk3RFQ?oc=5",
      "fecha": "2026-01-19T08:00:00Z",
@@ -82,18 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZVdDUkNaZlZKVzk3bUlUTWE2NktCZGw2a3RHVS12NmpCeWtFaW11WUF3bGdncXJIYUd6dXJHQzhkdkdGTkdGZ1cwRFVkdmUxdWJQU2hreXduajBLRHY5ZjVEdzRKSThCS2R5RTVmTjBUaGVhNUZSUXQtLTM3bTNjNDl1LXBYdklscG15Y0lfN0w3bmVmRHRWamVhUU1QS0pkZV9CbXJJLURJQ3dFSTBlMzZGUVFNSlVlZVdxaXU2TmNReDZxcGRWa0pOS0JFYnFxZ1RLX09sX1JQV0xEc0tfSUZMWGVqYU5oeVJtZmFNNnloWlREcWVTSFh2VmFBekJyNjJkdkRxRGdoUQ?oc=5",
      "fecha": "2025-06-20T07:00:00Z",
      "medio": "Food and Agriculture Organization"
-    },
-    {
-     "titulo": "Crisis forestal en el Bío Bío: advierten que sector maderero está en riesgo de desaparecer",
-     "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZjd2dlhocl8yWVluZFk4Njk3WkYycDg5eGlGTnZtTWM4Q0hsNlJjaTRrVWZVQnV2TzhOVl84VzI4V2hIN0xLUEVGTXZ1dDc5NGdJLUQ0YTJtdGVOUDBzVXd1TlQwNDNxaUc2Z0dPM3BKVXBqSy1STXpBckU1aVlYUW55eTIxdVMwWFNaejV3bENocTRNX0lpeThMREs2OTYtM1hDeENuS043TjcyZHJkZE5xR2VFRmFHM3NSM3ktV2dQWTVXdTBROTdId2hqU0ZSQ2stSHpRVlF2aWlDN3FtTUthV3VRZlAtX2hOZWdhQktrOTNaZUh6QzI4c1B4WDDSAYQCQVVfeXFMT0o0cTU2bDNlcnkyb3dfLTlwMzkxT1JtVjZjcFVYRFdmWGhuRVVtOWd1ei0yMEEyZEV0TUVoNk5PV2Z4M1ZQY0lIZGxEQXZUeHZxcEk1SlkwMXloclF2ZlJKQU9la2pVeWM4TFYwWnRwUmFXaWE0aE5oXzVyaWlQMl9NS29CVGNOdE1abEhZeW0yb3hNeXdZMlRFYlFab040cEJvWGlKQ0dhbUlQcW4tRGQ1OXEzQk53NnZMbjJWN3pGblZhMFJnQk9UMTh1QVlTcnRpcnhvVjVlVmVCbWVaWUpWamlMQVBrR0NkdjFFdExWQWh5cDVETVhwajZobVZGX2NqUzc?oc=5",
-     "fecha": "2024-08-20T07:00:00Z",
-     "medio": "BioBioChile"
-    },
-    {
-     "titulo": "Sociedad Nacional de Agricultura",
-     "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSm1fZ3QtRU9sUnk1b2d2VUlRWkQ2T0dYSDNMd2diRHd5eDZKNGU5clFhVFZ1VmFvX0cxejMtVFhpQ2FoX3lHeVg5U3VxYTVzbnk0WWEwdUNaX1U1QU5oNWNqSlU0Zm5mY2JOeGw4bVdaTGppemt1UGd4QWFmbEtKbTl3cXpGa041MzFvODVNYVJDbS1ZWGNMQ3FJV1dhX1Y3?oc=5",
-     "fecha": "2024-07-10T07:00:00Z",
-     "medio": "SNA | Sociedad Nacional de Agricultura"
     }
    ]
   },
@@ -103,8 +103,8 @@
    "items": [
     {
      "titulo": "CONAF Ñuble capacita a Brigadas de Refuerzo de Incendios del Ejército poniendo foco en el autocuidado",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcjU1NmpZbmtwanRnSHZsNWNFNHN0TThQc2M0d1ZFYW1JMEhiVFVRSm44OFJ5NkdBQ0c1a09kS0Y1NGZWajJ6S21VMXg4RzJ2ZDhrQzhSTGNpWmlfUlE4bHlOSDNwbTNpN2JJbm0tcEFRdWdyaGhqMnBxcDBmaEtnRks3XzBoeDczbmNhZmpUbUc0dVd4blYtY2JuWjhOYnFqUXNheHlGYTlUa3lTOXo4Rm84NkRNYjBNQ05rRzkzQWlsRzM1MWVEU2h2RXJDc0ZmWG9iTDlCNzFvOVhhWnJ2SGYza3U?oc=5",
-     "fecha": "2026-11-20T14:07:26Z",
+     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV1pmZ3VWaXdWUGxnUlJnTUpJb3NacFduNU5Rc0RLemxSZU9jUVFkc1duREs1ZmdoSFBqY1M5dXg5eFppLWtLYWdUOWp6MXYzMDNtb25wMkZTdEN4MTNycjRwYzB5V0EwQXN5OWZYRGJXUXVEX1NoNUR0bFQzblcxUEZ6Z0tOcVF6RnZsNzQwTG5hQ3lKUmluSmhSOTgyb0xJc2UtUENaYXpRYkVuUzJkN3I4VmY4eUJJU2ZmbTBNaWI?oc=5",
+     "fecha": "2026-11-20T14:06:09Z",
      "medio": "Conaf"
     },
     {
@@ -198,15 +198,33 @@
    "nombre": "Forestal en La Araucanía",
    "items": [
     {
+     "titulo": "Expo Madera 2026 reunirá en Temuco a 25 expositores para impulsar la industria sostenible",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01bTVNdjBWbVlWRjBWaEpNakd5dFZpME1xX2JRSHpVX1hjSl9ycC1sTXViOUxoM0Q2OGtFWl9nRGgtMkNTOTRzbGx6Q3BuS1hFQzJ0ZnlsSC1WTDIyOElNa2ZWMmY4MUE?oc=5",
+     "fecha": "2026-11-23T15:46:17Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
      "titulo": "Encapuchados armados robaron camioneta a trabajador forestal en Angol",
      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdXI2YXpieFFEc1EzbnVUclktRHNYanpvTmV4bkVQLXRwZjFBME9HVUJVZ1VJa3RwTHVCdExiODUxOWx4N0xCZ21naXIwR1lVS0ZxWlVQTHpBa01vcFY5eEtIV3lGYjZrOFZCR2QzcFpONjg1LTNtVFBqMWpidEN4UEJhS3pCbHA5ZGRhYS1fMzdsN0xlb2JzVkl2cG5WTUVYQTgybTRUZWpUeld5cURmdG1VNHNuLUhYdHQtZVVGNjlCNmNFNG0tc3JuMmJIZ3hfaE5RN1RfYm5pVUtPcnlrYjlQUVM1SFVyS1VmddIBjAFBVV95cUxOc0JlQVVNZW5QT0xJR2JPemJpalFvblhDRGVGbnl3VXhDZDNKR3BLb19SMzdqWFZDRWhXd0taUDJYNG45Z2VZc3hHSTNNYk9Rb2I1aEs4REUzZjBmSlRWUkc1UXpHVm1tWXk5TGZKZFVpdkNzdVJsZlZYNEZ2WlYxVEhwa01FYWZVcXEwVg?oc=5",
      "fecha": "2026-11-23T00:30:00Z",
      "medio": "Cooperativa"
     },
     {
+     "titulo": "TRES ENCAPUCHADOS ARMADOS ASALTAN A TRABAJADOR FORESTAL EN ANGOL Y ESCAPAN CON BOTÍN DE $31 MILLONES",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOE9KeTduYnlEanhOZmtvV2xiTmdtSHN4UkUyRUstR3lzYmJxNWN0c0hfTDRXOTExS1ota2F2WW9rSGdlQ3JPY0RCdDRjdzd2blRsMmxZZ29IY21GLWpsR3pSMFB1djhWaV93UGRQdjI0c00yOGJBU21RbFozSDBaemNfcERhUWJfYkE5QTB2dkt4ckJna0NSMG1NT2lxRU11MThZanFXMWJKal9pdlgwQUV5WXdTNXlaekc3Y3VyYjlBQzhPRjVBeGVsUTRVLWhsVEwtZWRCbkxzelVl?oc=5",
+     "fecha": "2026-11-22T23:17:08Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
      "titulo": "LEY DE INCENDIOS BAJO AMENAZA: REGIONALISTAS VERDES EXIGEN NO CEDER ANTE PRESIONES FORESTALES",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUdaYzQ5S1doSlltblJrS1lFU3l1VHFPcnhQVl9HZ3NEejBkYldjcW5TVWRySG4xTERQY3FvUW10enJlWTVnWl9leXRMYWV6X0REamNJakRrcEFGemNLYXFKcC1meFpFZ3ZPb0VNaGhNUFRvc29JVm5zc1NFNjNKTnBoTS1WU0p2WW52REFvQ3lwNXlPUWFDNUFoVFY4dkRSMUVsaWhfbjFRRkRTbjNlTGxSLWpvWVE5ekRsSUlOYzFtbzQyU01IVGNERlJra1FhQ0RN?oc=5",
      "fecha": "2026-11-21T01:03:42Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "OPERATIVO CONTRA EL CRIMEN ORGANIZADO LLEGA A LA RUTA 5 SUR CON FISCALIZACIÓN AL TRANSPORTE FORESTAL",
+     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUkl5a3B1U3U1LThmLU9iTmlKN1FrdUN1NEpxcGFpUHpIOW1LS3VmeUtuZVQ3S0lHbDlJSEM0ay01bUdhYWVDUmdYS0N4aXl6UHZZYlZRZkFsd3hVTkd6XzRhSE1rVUNEcmZYeUJMZmF2bUFKM1JmSzlrZ3QtaUkwdnlVX3dpM3plUjBINnV0c095Yl9XMzRtM0pKendQRmQ5NWlnXzZDMERKMWtFYjMzaFFGa045a09DUUlaMHFjcVFXSlV4MWUxQnYyU3A3WnBkNjJkajVMdFFZYWRMR2c?oc=5",
+     "fecha": "2026-11-20T02:00:51Z",
      "medio": "Araucanía Noticias Temuco"
     },
     {
@@ -234,12 +252,6 @@
      "medio": "Conaf"
     },
     {
-     "titulo": "CONAF abre postulaciones para labores de combate de incendios forestales 2026-2027",
-     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTBFQjRFcVk2YnpDMVhWZVFQeTFNcHBjeDczMFVrZmpBcUljNEN3ZUZVSVFtWUxVU0stajU3TFBqUk51MmhqYUlzRXFyTW13R2IzS2JaVjNmRWZrLTJTZllXYnNRZGZGX1hua3VUXzNhbWdtSUZIcGpKMGg4SjVpYkcyNW5US0ZQSHhLcHFiZEQ5VEhaWVc2SGhmUG80eEVGOFBPVllkdw?oc=5",
-     "fecha": "2026-08-07T07:00:00Z",
-     "medio": "Conaf"
-    },
-    {
      "titulo": "Fiscalización en La Araucanía confirma alta efectividad en reforestación de araucarias bajo normativa internacional",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTXd0T0QwekdQOWU1OXBXa3dWU3NHTXAzUkZ5MGwtemdOdmNsZVY2dXhQVjRHM3lGNlh3b1RFcWxrMWZJYVo1N1Bja0FnQml4WHI3SkV6NkVPMEtoV0hicDBjMnJtVUdoeTJwT3J2Qi10elN3aXFlQ2V2S09mY3ZfdzRoQi1GdXRpc3pQMTNwdHhwam1IOFdydXVxVGhOeU9tLVdVdFNkYVdzU3NJWjFFTFgyT2ZWS1g2Nm5yaE5ncHAwS19oSTlDenRvcHRScHAyeGpF?oc=5",
      "fecha": "2026-05-09T07:00:00Z",
@@ -255,12 +267,6 @@
      "titulo": "CONAF y CORMA refuerzan coordinación para enfrentar riesgos de incendios forestales",
      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXFJU3ZsZGdXNU9kNHNGNEhhZEtncXRKV0NhQ2xSZmhBQWE5OUtvX2FmOGpadlBzNlBLVlpIRElXVThFdTU2WVZMOWhPTTRPSkQ3MHpicFcyTV9FTm5VSndOVkN0blNWOXVFRG1MMTZ0TFZKeGVab0RKUDFlc0NBa25KOGtDRG80N1R0aVRaaDZFblgxMWEyamJYRUtGVmtHTUtpSHV4V00?oc=5",
      "fecha": "2026-04-08T07:00:00Z",
-     "medio": "Conaf"
-    },
-    {
-     "titulo": "La Araucanía: autoridades conmemoran el día del brigadista con desayuno y reconocen labor de combate",
-     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN1VsVWpNQ28zVm1NdkNPSDRxVU1FOUxUMTJPWlppaFdCUGFMWVl2S3BhZWMxYTAtdXRIdkJmQkxfRHpZYTFuTUc4UGtKNlBSQk5UVEdSdGtXZEpfM2NCYTFJcUczNFNvdlRyei1ZS0d4SEswODFXSFZGMlRtSzFkcFpEc0xxaFZ1MzhMcl9wU25OaXU2T2h3bVF0bEZUYzhEcVNFdUVKXzNOZEVRbVNqZ2kydjBwWVYtNW1yS0hB?oc=5",
-     "fecha": "2026-02-17T08:00:00Z",
      "medio": "Conaf"
     },
     {
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFd2Q1gxeHFHa3BLZkptQzNiU2FDQ0Q0SVBmTmRlNUtSMkxwbU5ZRzdteXNSalozOHV5cXBjZTlFVjV1NXoyRFFLUzItR2hqaVh0WEI0ZkIwQUNTQ2tMbVdfOC13ODVnZG9kbERyT3JuQ3dmcGdqVWNZWlpDMU9vQ3VxSlhoLWUxRXlTUUJwREJxQjRMdHZPYzE5cDd1SVU?oc=5",
      "fecha": "2026-01-21T08:00:00Z",
      "medio": "Conaf"
-    },
-    {
-     "titulo": "¿Cuáles son los incendios forestales activos en combate?",
-     "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTV9NVUxlZVNlUEprRk94NnlmbjU5MGowQkVvZGxYbTRQZGhaWWVkN3QxeHZDRnc0QXYwTEVuZkYzMzhYbFpPWlB4MHZaM3VscTBobzZiRDRfTTZyTHppeHlpU1BTREs4OTZXVHRQaXVIUUg4ZmRxd3FYMU43TWEyZ0hzOVM5VzBGUUdZ?oc=5",
-     "fecha": "2026-01-19T18:49:53Z",
-     "medio": "Gobierno de Chile"
     }
    ]
   },
@@ -306,10 +306,10 @@
      "medio": "Periódico Sierra Maestra"
     },
     {
-     "titulo": "UGT denuncia el cierre de tres torres de vigilancia forestal, una de ellas en Guadalajara",
-     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSDhyTERpMmw2V1h1d2JTT09jb29vSjBUQlZLTE1yVDVYb21WdThjRGpuVC1hdzhwbFctUW1iLUo4VTlxNTk1ODBTT2FObGRQUFdwalU4V09KSFJydUhFZnB6VHV2WnN1MS11OEVvWnBZdjhpYUFkTWdGOGktNjhXamRLVGhwSjhPVlctb3o0S1ROaGNfWTlsamVFYXdqOWc2Y1RlX1B0NS1neE0xX0NEeHREZFRaMGF3TklQZ3dMNGZQVV9mZW95Z0FZQlNnLU5XZkc1eE1BVEg1Qnpk?oc=5",
-     "fecha": "2026-11-03T11:26:22Z",
-     "medio": "EL DECANO DE GUADALAJARA"
+     "titulo": "Sindicato 3 es la grata revelación del Torneo de Clausura de segunda división",
+     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFJUNTRfMGhDVUhlOXU3S3I0MHptUU1vR2JGQzZpNWY3a0I0VTlneEg1NmktTFRkd2xBWXI1dVlNTXpLOUR2ZXlpN3RUajd0SE5nM0Z5Z0lPNnVKNFlQbW1BWVhZWkdYVkphTUNyYW9DcVBGRDJmOEtqYzl3UW52RlQtWWlqZVFDeHZqckpWczNiMzNPeFBxV2d2NUV4bVVhUG9fQnJB?oc=5",
+     "fecha": "2026-09-28T07:00:00Z",
+     "medio": "Noticias UdeC"
     },
     {
      "titulo": "INFOEX: mañana se realiza un nuevo llamamiento de Bombero/a Forestal Conductor/a",
@@ -320,8 +320,14 @@
     {
      "titulo": "Periodismo derrotó al vigente campeón del Torneo de Apertura y es escolta del Sindicato 1",
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNG1rY2p0OExKejBqRXRKeVZjSHZlQWIwN2RfYVQwRkQxWi04dzJDZ2t6VlNmeHdYUTlUUnJobkNkQ0JObVFYenpTX2pBUVp1MGJIZlkyQnE0WFRLM095V3BlMmdHUDRlaGRrcEx0YW80X3hZRjl1YURyYzZnQzZqR0swbDJ3dTRSeFB5TEFna3JhbDhXdEhJTUNXMWlhY21feWpqMkNuZXNtMjdNS3J2YU9DNXkxZw?oc=5",
-     "fecha": "2026-09-07T14:38:53Z",
+     "fecha": "2026-09-07T07:00:00Z",
      "medio": "Noticias UdeC"
+    },
+    {
+     "titulo": "El Gobierno de Aragón lamenta que el sindicato OSTA priorice la confrontación política a la defensa de las reivindicaciones de las brigadas forestales",
+     "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbF90a1ozeUZtd09UelBLZUFwMzNSbUNhcEdEdEcxRUtaM1lFbDlqTGNib0Y0anZqV0tyc3ZXYTlXNUM5bWRWNnB0cGtSZkxPekJkTlFJSUZqczFrNHk4TE9xMl95ZEVDY3g4ZWRqQ0wybXBrQkxlb0RmQUlmRW05ajVTb2JEaURfNDVUbnZwbWtLTl9WS1AtaEdMWS1qdk0xbm5raEZXRWJCZ3lQRE5QMWxOeXc5NHo2Z1NVMTZVOWFCZ1pVU2p4QTc0V1N1RTVYS2xUcUFkN2VNOEgyRm1LczVjbmQ4UFkzZ2dyYVhCUVN2TXRndXJEOVlpTlROMmPSAYQCQVVfeXFMTnpueTVPQ25yczdMUXJPRVdtUEhmTURBakY3ck5tX1ZEZEdkdDNfekJVRkVPWXdwM3ZuaUM3aUV3WHV4QUxaOUctbEQ3cUFhNm8tZldWQ2JYN01iMVJidzgxX3FQcFQ3eEJBdFJsUlV0bkJQWjM3UnNpbTEzYVJ4VFk4U04xbkJBOVFhNVVVMHZ0dldERS1YQnV5WHlOWmhXMnlnS0p0UUFpdkN3X3pjWHVra1UyWDhSUncybjNacXFKeTJBUEFHY3BaYUh2VW9zT2JRN0ZOZ0JIM1o3N2U1bDZvc1M1MllWY19pQktxWlQ2UnZpNUp0T3FTUVl4Y3J6VHRCdUc?oc=5",
+     "fecha": "2026-08-25T07:00:00Z",
+     "medio": "Aragón Hoy"
     },
     {
      "titulo": "El Sindicato de Agentes Forestales de UGT expresa su pesar por las víctimas del incendio de Los Gallardos",
@@ -354,6 +360,12 @@
      "medio": "Sindicato USO"
     },
     {
+     "titulo": "Nueve años después: la AIB nunca olvidará a los 19 de Yarnell Hill",
+     "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZTJCNjAzT3dZUWFucjZxMG5jN0pPR1pUYWZNRTE0bnhlVkluMnJRN2wwbUVUZ19yZl9sUjlPemJmWksxdXhuOUpJbjJXNzRKaWFUNXl0NEh5SXhETzVWLW96eWJKak1WdnhvZjg0OU5SYjJkT1lVQXM0cjlSMUpWb2VSMm5BcjVGQ3M0?oc=5",
+     "fecha": "2025-08-02T18:28:59Z",
+     "medio": "IAFF"
+    },
+    {
      "titulo": "Lista de espera para la categoría Bombero/a Forestal Conductor/a. Admitidos",
      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZGVhZVZOS1dLS21NUWlSWmNsRmdkZ2VSZE8wZkkwUlpNUXNJVnQ1dl94X1h6XzlDRWdrQXFhdUo5bHhJa3VYb3lxMXZHUnhURzRBQXlXV1NMWW1fajVhSEZZbTFxcHdENmlDT3k2TmprRWhRRnYzZ2lVMnM5dTBBUEFJcFBJZkhqaFE5MGsxTjBjbjBUcFpoZDZTSFk3MnBHbTJvVTh3Yjl1bDVPN3dFWnBLbzdsUFU?oc=5",
      "fecha": "2025-02-17T08:00:00Z",
@@ -370,18 +382,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeVlCTEdPSG9ocW1KTm1QOURJdVM5RjNfZjNFSWowa1hMZE5JZk54dDJIZTdubm5NQWt3TWpTMGZtaXNhQVZCMllRWUNjZFY4TVFUVmtyU1FnNC0tUndMUTFkdUlmazBybzR3T1lCTG9xRGpSN2pFSklXM3Nhdw?oc=5",
      "fecha": "2024-09-03T01:25:43Z",
      "medio": "anef chile"
-    },
-    {
-     "titulo": "Corte Suprema confirma fallo que acogió denuncia de tutela laboral de conductores de camiones forestales",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRC1ZYWFZbTZEX3JGRy1YcC1nYmlUNFE5MHoxSS1kYzJ1SjZvNWlscG43cjJRcllZRGRZZldBNlJNdnByQnU1aDFvSnA1LUJvcWt3TXotX1lFaUtMYi1sUVBCU0JnSXJGc2NWN1d6ZHROWmlxMHlXeUpiTEc1djMxVjh5WE0?oc=5",
-     "fecha": "2023-12-13T08:00:00Z",
-     "medio": "PJud.cl"
-    },
-    {
-     "titulo": "Forestal Arauco y sindicato de boteros inauguran Sendero Quebrada de Camarones en Constitución",
-     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYjNuOVpEVG1rYTh2LTNTSTQxV1FSY3Faam81dWlEV1p6RlVibG5RUm1lTWxyUWg2MDhQdmh4ZTN0XzRDQ2IyVG1YUnoxVW5fZ2daLUg5eGNlX1E1NjBaMUtwWXJlV0t0NXRNc0dDdmtVUlNtRVh3MUNzcDhUcmdXMG45eGp5cFF0U0hldXdxYWJyV1hyejQyZ05YUnNZQQ?oc=5",
-     "fecha": "2023-03-22T07:00:00Z",
-     "medio": "Diario El Centro"
     }
    ]
   },
@@ -390,10 +390,28 @@
    "nombre": "Leyes laborales",
    "items": [
     {
+     "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQzNnUFZqY2lmX21PVUVrVWtLOU5Vb1FreF9zUEJmcE1aM3BHM1Utamw1V2lPa0Y4Z3YtbEFrSndyTHFuMkZFMXBQMTV1S3JEMXlMaV9tYW5pSmZkMmJvRXNtZmRHZlRFWk9vTTJaVFphRW5iTXhaZGRpUVVuaTF2UjdoVDI3T25JeHp6Tkl6Y28yWU02dGxBei04UjUyTzlFdUgwQVFVbm1QcGhCUUFEei02Wko3LXpqLTBheGkyMUFuVEp4Z2hYeVpSaw?oc=5",
+     "fecha": "2026-11-22T03:48:16Z",
+     "medio": "El Mostrador"
+    },
+    {
      "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
      "fecha": "2026-11-19T19:41:17Z",
      "medio": "Publimetro"
+    },
+    {
+     "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnRROW8yVWJ4aktfWDNWZ0tnQU4zalpndTV1a2tBYnR0SHlWOWZPWDJwVThRVHA3NmdOT3VKMzY0c0gzLUxuNTIwcTRLLWR4RUU2MkxfYlN1Y3UxdVZ6SWVGRy1sa0w1WF9JUDBoS1V3eFdGLXN4OXlFQ3dJUTNsZk9OV3V5cmpSZDN0SkhoRmI0Z0xGUkpnaV9XN2MybGg4MzNtUnBrQm51RmpwMk1JM01pYUNJUkFqOXc?oc=5",
+     "fecha": "2026-11-19T19:21:59Z",
+     "medio": "El Observatodo"
+    },
+    {
+     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
+     "fecha": "2026-11-15T21:03:47Z",
+     "medio": "CNN Chile"
     },
     {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
@@ -444,12 +462,6 @@
      "medio": "Dirección del Trabajo"
     },
     {
-     "titulo": "Sello 40 horas: Conoce las recomendaciones sobre su uso y aplicación en los procesos de compras públicas",
-     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEZ5aTZZUUtzVEtuR3RnTHVrYmpUekxXRnptNUtYMEVjYkttOGFyWWtnYllUc3FiQllpRkJMdnd1V1BuTmRaQ1BtLWJXRXNURnN4UTROVGhaLTc5S2VqQ1h1NWpfWDBxTmNERjl4ZnkyM1d2MDV2b2ptVFA5UXI4MWJCWURPZjJlTGRzMm5YS0JLSHZLUTFXV1hSb1k5bTVxZXAzeXVzc1VWaEZoOVFjdUxoOUg4WjlMdnpwSVphNXlldHl2ZnhodW9ud1N1U01wMFE2c3Vn?oc=5",
-     "fecha": "2025-02-28T08:00:00Z",
-     "medio": "ChileCompra"
-    },
-    {
      "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
      "fecha": "2025-01-15T17:57:43Z",
@@ -465,18 +477,6 @@
      "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
      "fecha": "2025-01-15T17:20:30Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Los 100 años de la Dirección del Trabajo en Chile - Aporte al Debate Número Especial",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMXZIY1dKSS1DbjEwZkJPWnc1Sl9TS0JrSFdDUnBPMUx4cE0zUDNKME80Tm5hZHBCRlVpcnN6cDd0QXgzeERJYUk5dm9JVzMyV05FY0xaNjVxdXVZaDlHUWZFVHZYVWM?oc=5",
-     "fecha": "2024-09-30T07:00:00Z",
-     "medio": "Dirección del Trabajo"
-    },
-    {
-     "titulo": "Sindicalistas de la banca conocen estudios sobre negociación colectiva multinivel en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTaHktV2VwMlozU3duRFJPaEE0VW9VQlJKOTh3WVdybFczdFF2TFV0NWxTWmRVczg1M05BVFh4LU44My1qU3IwZlkxTGdmOTVIWmh5VHpSQkEtNkJSME5iTFNFc1lhZjg?oc=5",
-     "fecha": "2024-08-06T07:00:00Z",
      "medio": "Dirección del Trabajo"
     }
    ]
