@@ -1,10 +1,16 @@
 {
- "actualizado": "2026-11-22T23:48:13Z",
+ "actualizado": "2026-11-23T08:10:57Z",
  "fuentes": [
   {
    "clave": "salud",
    "nombre": "Salud pública",
    "items": [
+    {
+     "titulo": "Lesiones por presión: cifras del MINSAL evidencian brechas preventivas mientras nuevas tecnologías llegan a Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMmJlaTh2dzlGenh1cVc3TVZ0Ry1Ub2VRcTI3M0wzSkpDWTRobTFIZndwd0NKbFBYQV83WFVQRUZMSUlocURZOFdfNVBkSlh1bmhwLXN2VlQ4WWJsVTFlR1FXbWEtNmhSY096Mk12WHRmc05FZDVqM28zNURvMkFrZ0d2SUU5MlBfaG5YZWh6MXF1TEVJT3ZhUzJrbHZpSHFMTUozbUxNcjBhMmtCaFZBa0hnZ3VSWXh4NWZtOXdCWjVsMGdxRXJsV1UydmhSRTB6NGdsenRCU21URWN2dm84el9GWnctMktfZUQ5VDNJQQ?oc=5",
+     "fecha": "2026-11-23T01:21:23Z",
+     "medio": "Tierramarillano"
+    },
     {
      "titulo": "Presidente de la República nombra por Alta Dirección Pública a nuevo Director del Servicio de Salud Los Ríos",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHlQYVRQUVBpTF9iY213MmFnUW5oekIxNTlQUVpBdVp2ZnltSUpzbG9CYi1KSTJDaTYzUHRjT2trZEp3YjB4SWQyblJyMGV2ekJ1aGpIakFjVEU1elZTVFZFZm80ajB3X0ZXWjlKMzZEZHdRXzN2aXY4dDNDSnVpTXRDczFKTk5kSzlhSUIxZWY3ZkFLanJUU0pZN1YzMlo4Qzd5QkIyeHZTcG5NNnJaTGF2SHNieG5wb2ZIQ3VOdHF6Tk8ybFNEZ2V2Yw?oc=5",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT21DcU52Mll1UXB5Vk1uZWliSVhPRW94Z0g2aTJnbGRPeU9SLWNkNXdYVzVFMGlQcUx4ekNDWjlFR1Roc1RUMHpac0kxZDJ6a3NLRjVzWkZzRzlRWXBPR2g2X2kxbVAwR0k5WlFSTE1yRUJQdTEtZ2UtRzFITHNHeG0zYXFhZU5qcU9QUm9hc0RSWWJkcXNQZXdJbUh6bFJXY3VxZlpMWDM2TnQtakhaaGdidFpNTzBQZEU1dUN2WGVvdmhnaU5EQQ?oc=5",
      "fecha": "2025-10-01T07:00:00Z",
      "medio": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación"
-    },
-    {
-     "titulo": "El mal crónico de las listas de espera",
-     "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SUzY5ODQ2d2RnSjdNRF9wckE4dlVrWnZObTZSZTd1NUlTSGt6bkgxdzlMZXdqbGtTQVgwVXBTdnoyOGg4alRRTnctZ1FvYlRHNGRGSlFxWGR2RlpGOWx0VDhUdHlFck1ESW5EbnlEZVNmMC1l?oc=5",
-     "fecha": "2025-06-25T07:00:00Z",
-     "medio": "Pontificia Universidad Católica de Chile"
     }
    ]
   },
@@ -129,12 +129,6 @@
      "titulo": "ANEF Valparaíso se moviliza por un reajuste digno y en defensa de los servicios públicos",
      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1d2aTNULWVHX0RHNV9sY3JTOTRSRmJrOEF0Njc4V3RaRWQ5Wm1oR0RTOG1oRS1zTVd6QXlDTzdCX0lHS2VQWVc4blF4bjJ5OGwzVTF3Sjh3MU4yZDhJY2txbmZOU0ZyM085MVpqZUFMZ0ZoXzdKNXJrMkU0UFVYZGdQeU1xV3RROWJQaVJ2Z09IU005UHVHalgtbkt4SUZDNUljcXc1Y1E?oc=5",
      "fecha": "2026-11-22T15:08:14Z",
-     "medio": "anef chile"
-    },
-    {
-     "titulo": "Anef y asociaciones acompañan asamblea de ANFUSEPU: funcionarios advierten riesgo de despidos masivos en servicio para el 30 de noviembre",
-     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQU80b2tHbnhXT3RRQmZ6U2xzT3Z0SWdxSDAzQVZOM1MyMEd3Z3hPQk4zVXVXcEQxS2dlM3BtVEtrRnNTZVJzbHJVQi1kT01Ka2pkaUl4QXQ2dVdMQ3hLV2hfeXNUVGxzQTYzdVFWUkc5WFZMSXVrb0g3bEFCS2hCdV9DLTNIN3BERGxGZ1pOMXdleklGTy13ak5BbDNWZUFlS2NBNnRjVWtfby1qeHNwZHI3UXJlb1NYTnRaVV90czNTV250MEZLcXZUUkF0bzhDcVZOdUExbDFTeXZDU1A2cHp2UGRiSjct?oc=5",
-     "fecha": "2026-11-22T06:15:56Z",
      "medio": "anef chile"
     },
     {
@@ -190,6 +184,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHhOaEVxWmRDamZERE01d3BQVEpieFZ1X0F5NWU1OEltaFBPc0YyXzVRUFgzVlVBQzJ6emo4XzJsMDlVMml2SUQ1WC0wcV9mTm9Gb3k3SFRrTFFWMHpoTGNpSTBOTkhkZDRCM3FpUjlYVmdQRnFGRU1XMGZKVTRwN1lhdkdnM2hNRzZRTzlFNklrOTc0d0hLUGN2LW93OHlpX0VRY01FZndBRVIxcTRB?oc=5",
      "fecha": "2026-11-19T16:17:10Z",
      "medio": "anef chile"
+    },
+    {
+     "titulo": "Marcha de CUT y Anef contra el presupuesto para 2027 termina con detenidos en Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTG5WLTg4Qm45NHhYWHhKLTRyMnVfR21zOGZycVc1aW53QWZyRHp2M2JqR09uNmU0MzhucVJNaDkxeWhOUkFpc1lnSHZhakRHamNMNm02c2JmWllqT1lubEViMUZOeHFHUHdpOUtUem1nOXFGRXZxWXo2ZnFQWDFKU1I2YVFMMTJ6dGpheFZ1OC1aNTZLeFE?oc=5",
+     "fecha": "2026-11-19T01:00:46Z",
+     "medio": "SoyChile.cl"
     }
    ]
   },
@@ -228,6 +228,12 @@
      "medio": "Diario Neuquino"
     },
     {
+     "titulo": "Suspender temporalmente la contratación y el traslado de funcionarios públicos al elaborar los planes de personal.",
+     "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDctZ2h4RzYtMjRCWXRxWV9SRmFnMlRDeUZncEN3M1U1eDFmNjdvdUxVSlp2b2dTWkpzdTBVc0VBT011dGFQU1NQZ0FvaXIxc3RxX3FsWGdkZERXdm0xUmJvZEF2Vk5fbFo0LVFJZU13bkVsVnVmcFkwc1ZTWjIzV2QtR2lXQkktdk1QRVlXV3VncngtbTRXVDlXZWpleDQ?oc=5",
+     "fecha": "2026-11-21T16:35:30Z",
+     "medio": "Vietnam.vn"
+    },
+    {
      "titulo": "¿Se acerca el fin de tu contrata? Qué dice la ley sobre el 30 de noviembre y cómo evitar una desvinculación arbitraria",
      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOWU5SlRQWXBPRVI0allRc0xGaFZDZFNESFl3MUFDeXNvZWtMMHBLSjFDVGxrT3JVeDVtaElZZERoTXRUdjRPRzNKZ0NjN0huUVRNRkdrUG9oa0NGeExaUDR5c043bV9xVXBuWW5lajNfZlRwRlBDbVFGYjZJOUt0UG9veDkydENfUjJUdEdXeExQcUR6MGVHejh0UFdtQ1JiaFhXSUtjNFBiSldHUFhhUGx5RkZ2SUtBd0NzSE5INi1BVVlYUlhLaA?oc=5",
      "fecha": "2026-11-21T12:07:59Z",
@@ -238,6 +244,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQXppZ1VLUGVoYWQzQmVmMmM3dm96UDQ3SGdwd1VCSjVHaC1UR0R1TnVnRk9hMDBvMGlHb1ZWenFHaFk1dy1qTnpCSVU4SGQ0bUEyMkt1SXhNMFcycWc4QlRRaFRDWVJ2OVlZdm1EQjdkZUE5UDJaSXd6amdhNVQzd05FVnB4RXRRa0Ezc1hSMA?oc=5",
      "fecha": "2026-11-21T10:09:23Z",
      "medio": "El Ecosistema Startup"
+    },
+    {
+     "titulo": "Ministerio del Interior: Suspende temporalmente la contratación y el traslado de nuevos funcionarios públicos mientras se elaboran los planes de personal para el período 2027-2031.",
+     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1hBUXQxRW1LTEtiRmlMLTFwZjdGUldVNWs2TzREWFo1WXdfTVJpR0ZXS1BwRzNQRjM0dFdoTGRZLTNyM2dKNmVORVpYTVhHeFdlNmd6ZG9WZ2pzVVNEWmdmVVFQUmNtOExVZTFXU0JPcWtpRTk0emdndjd2cF9zX1l0NnB1TXhmM0RwX3JZV0g1V0N1YThIYUczZE9HWEFZUDd4TndSRV9DR1lkTkdKNll5ZmdLWEpmMTNqX1FTQ3o?oc=5",
+     "fecha": "2026-11-21T05:31:54Z",
+     "medio": "Vietnam.vn"
     },
     {
      "titulo": "Aguinaldo 2026: cuánto recibirán los senadores y funcionarios públicos en México",
@@ -264,28 +276,16 @@
      "medio": "Diario Constitucional"
     },
     {
+     "titulo": "Ejército y Carabineros lideran la lista: Contraloría detectó más de 300 funcionarios públicos con condenas vigentes que siguen en sus cargos",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV04tU0wwLVotcDNkLXNhc3pLZ29fQ2k3N1d5bG85ZDF3WjdjSXFZZXUtZk5JclhucVRscTFnNVFwQnhpeklmYU1XNmQweE1TS2Voand3R25abFpxVzVIRnk2ZkZJekVSRjF6YlF0Tmt0V0hCVXhWOXJJMl96QVNCTmtRZl9QblQtTGw3Z3l1UGRQTmNSZnB1T0Vqa3BmeWN4UmpEUFI3SjZJY25aRERLWFZ6MDg?oc=5",
+     "fecha": "2026-11-20T15:16:03Z",
+     "medio": "Canal 13"
+    },
+    {
      "titulo": "Senado despachó la Ley de Presupuestos 2027 después de tres jornadas de debate",
      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUZUSGt5ZUN3ZktKU0l5YWhNVDl4b3hhS3dfeGd0TVQ0NER5aWJqWkF3WFdUN2ZxazVENGhHT2Y2djlUQWU1OWxDNDRGRm9VUjhGS0k3N3NJZGdHQ2NpTkZuYnZiRFZ2cFo0Wl80U1VXb1hFSHM3blk1NjBOODhhZU95MHd5VE5VWnpFaVNfS3Nhd3BpekR3d0JGOFJXTnRf?oc=5",
      "fecha": "2026-11-20T13:06:21Z",
      "medio": "AdPrensa"
-    },
-    {
-     "titulo": "Senado despachó Ley de Presupuestos 2027 con rechazo a partida de Agricultura y reposición de fondos a Educación: Ahora vuelve a la Cámara",
-     "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNGVoeFdEeV9wbnI4cG85OHVZdWdycldPemJGMmdDNzNKbk5mYTJPM0U4bUFOS0xvd0E5WXdha3J2a0tyX2ZnUXJKTHpzZVFMOGFVRFMtc2NtUGh6c2ZzQTl3cVQ0OEhqWEdNbF9vNGdpcEdUOFFMVmhRRU14TWRaTVByOEFPbjBfMndweWFESWhycjZTdnJEOE1xelRobnE0eGxUa0l4WlF6cmRwRkl0LXpDTERuaHdaWXRwSmVfR0V6SWJWNHBJd1haZWhOcDQ2RnFsb3VzOUhlZkdMcFVpX3Jsd25ZN050OVVmMlI3aVF4alRIWHdaa3h0MC0?oc=5",
-     "fecha": "2026-11-20T10:41:42Z",
-     "medio": "CNN Chile"
-    },
-    {
-     "titulo": "Viernes 20 de noviembre: El Senado despachó la Ley de Presupuestos 2027 a su tercer trámite legislativo",
-     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWlfcFNnYlJJeWhrNkc1RDBHbjBXODJ6RmV6U3NhMndiRG9vMS1DNTFRaFVnTzczR1NxMHRaVWM0bjBBbkVobXppMl9GRll5aXhyX1E2ZnIyamhkQUFtUU9Icnh5elhwQTc5dUpQdUJMT2theEc0a21FMjRfYnh5a1pzTk95MXA5Y3NEQzhZdlctZnBQODFvOTF4T2ExdG9WVVlsSFFxcHFMRkxjSGd1bXIwbkMzNGdQX1VVd195cVB3V3lmSm04NWVjQlZDdw?oc=5",
-     "fecha": "2026-11-20T08:00:00Z",
-     "medio": "Tele13 Radio"
-    },
-    {
-     "titulo": "Senado despacha la Ley de Presupuestos 2027 luego de tres jornadas de debate: Hay acuerdo en Educación pero no en Agricultura",
-     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVWt0cFVEOGJRZG1iVE1HcmdKYWhsSC1uMkVuRFJXTTVSTDN4dVByZ2R3bDRoVjg4bmp6WFZmMVFfak44RGE0OVY3NU9hZFIwRERSMXdmRU5EY2l5b1ZMN0tQODlXNWtYd0dxNmtMeGZsa2huVUpVMFA1MzNVWXpwQ2tONVFTbG12cTh1NnRFdk5PZ21Dc0JhbWE4SnQzNVNRdENJMVFIZjB4QnRSc0NsMi1WeVlobnJZZzFEMjR4eGlYMnRVVnpQSVNYWFJWU0I5LWw2UENBckdmVlVC0gHiAUFVX3lxTE5ySnZ2WjR5WVFyVTFlbGNQZWNuMk1YWk1ybWY1MkNFbm85LUNwLUhOSkJOMHpITWQ0MDEzSGRRaGZHc0NJZzZMQlhZUmtPYmFmaUdZeTM3MEJsVzFBc3hGLVFOeDN1TWQ1TV9pMTFrMml6SF9hdnI5a0tVVGpPWnBsd3k3ek5Zcl9mbzlIZTVKNjZjZ1NoMlJBQVptcDkwM0dGTF8tMDRfeGJzMkxxelRnb0tPaC1HZFlsXzZPeWo0UzJEZFphQldYLU5rYjFRSnFCcXdnaU4tb1ZiZVpRTG5MNlE?oc=5",
-     "fecha": "2026-11-20T05:59:00Z",
-     "medio": "Meganoticias"
     }
    ]
   },

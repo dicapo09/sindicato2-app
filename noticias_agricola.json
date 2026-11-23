@@ -1,21 +1,15 @@
 {
- "actualizado": "2026-11-22T23:48:16Z",
+ "actualizado": "2026-11-23T08:11:05Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
     {
-     "titulo": "Encuentro Chile Agrícola 2026 reunirá a representantes de todo el sector para difundir políticas públicas",
-     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2FyTHJzUVFUNTlpcmVTUmE1OG0yaWZvbzJIVl9QV2RSeTZfdm5fY3VzR3pKaU1HSE9oc2d6NVJQd1J4cnVpMTlWMVFzVEM5eUJvNVMxNzJqZWJWNzZ4WHNtQzhwblJsOExVNTBmc0xDNmVlZGg3bUc2VFFuTUxEOFVPVkZjV2NkRXhiOTJzLU9rZndwdEJGNjZFTHNhWVV1cHFfX2VZd1l5czc4cm5NQzZPSWpQa1c4a09LbmtrbTZITnI2WjhFejVWa0M?oc=5",
-     "fecha": "2026-11-21T18:49:07Z",
-     "medio": "Radio Agricultura"
-    },
-    {
-     "titulo": "Chile reabre su mercado a la carne bovina de Colombia",
-     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHNTRVcwbWVPRkdaM0h3ZEVRYlB4eV9RSkxwWm93VUNwdU9IOFl2UkVzQnM4VWIybEk1bmJULWk0TWRPLXFLcWdDVk9USjJJY2UxSHpYaC0zc1RpYTBpNVZGM1dsT0t0MkJwamF1RS11VzA2RFVGcW9oSGd5LXBQc29ucHZtbzdzb3ltQW5R?oc=5",
-     "fecha": "2026-11-21T16:42:57Z",
-     "medio": "Pluralidad Z"
+     "titulo": "\"Dos años de esfuerzo perdidos\": El drama de pequeños agricultores afectados por muerte masiva de aves compradas con apoyo estatal",
+     "enlace": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNUhsSTRJc2tURS0xd2NIMW9sQk93TU1nM0F3U253NDdSN2hSdExtTm1Wc1VzZC1sX2FMd0hnb3JsdUdfMktLdm9MNWxDc3IxNlJRZE41OXRHWkxOeDRKeDY3R1BXZzdtTEh2bEh3VTN6a1laLTQtU2MzdC05MUxCZ2VORzdiVk9Nd3JJSGhsRlAtRDljU2I3ajE3Z2c2VDBCSDl2ZHlvWHJobllxcncwRlVvTC1hYUVxNVZFWE1CSmptYlJjbGVnTER0NFBwbUFfWG16WmNnSl85QUN0cWZ1R0xPcXQzT2ZhQjhlOGd0QTdLdXVxZW40MU1tNktUa2F1czhGUm5NVW1oalV5VnJpaQ?oc=5",
+     "fecha": "2026-11-23T00:18:05Z",
+     "medio": "El Divisadero"
     },
     {
      "titulo": "Agricultura queda sin aprobación presupuestaria en el Senado pese a reposición de fondos para Indap y riego",
@@ -40,12 +34,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VdGU5enV5UHpqMzB6LVpiMHB2QXFSTTR2ZXMtOHRYOENqRDZJQmdqNXc2YWMySUQ5NHZodXZDMEd2dWhYTmJ4aDJtSGloeU81MHZCRU1xUUJiUUItNjFqS3ZKZTVRbWVTdWtiblNyaE9xUDNjdlE?oc=5",
      "fecha": "2026-11-20T23:38:55Z",
      "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Comité de Arándanos de Frutas de Chile destaca sus avances en investigación aplicada en evento de fitopatología y postcosecha de la UTalca y publicación de estudio en revista internacional",
-     "enlace": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPaFFvS2JWbXVFckRXd1VtVF9YY0R5TXA0SldPTFJBRnBQWWkybE1MNjl1cnoxMTRwVlFxMWc0cmN5Q3hFZkk3Y1NIbExDdG54RVY5amU3WmxTMGNVV1REMzlsakdXVFF4cll3bTQtcVI5NUZUZ2VVSXJIQXkxN2ViX0FqSmFQN3BEaG1UNTNnNUNfLVF4cUNMc3pqSDBRLXY1OTNfVmxWWFZfM1FheTVaOEpWMWVQY0xxaGFsR1RKNXF5R3dZV3l4NU4za1dPZFFaVHVRTlZyckg1cUE4M2dxME9jT3dlZVhPQ1VKXy1Gd0ZiSEVvcl9zY1B0S0xKazNNUlBmUDdUT1U0bHZUem4tNldqOFk2RC1Kb0REYXEzeWU0SDFsRHdYRXBncHJZajhqQVVDaW5wTHlZZnJMblU0ZVlIaTFpZWdoYjVaZHkwQ2k?oc=5",
-     "fecha": "2026-11-20T21:11:11Z",
-     "medio": "Portal Agro Chile"
     },
     {
      "titulo": "MOP y Agricultura constituyen Comité Regional de Infraestructura Hídrica para abordar brechas en Ñuble",
@@ -94,6 +82,18 @@
      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWjBVdl9yMUhCb0swaWZDaDFidlRhYkZfMXo0WFZhWnJCcDlCaktyWC1NdUxkQVIyb1l1TGJEZ2o3T1luSVV0ZXRkSzd2UFlYRVZFLUlCUzZjSTNCSjRzdGd1b0NzNWs2RUlFTnBJaFpUSGlkbkVTT2xVbVdsU3BXajhRbGVibUFUQ3ltVFdkNA?oc=5",
      "fecha": "2026-11-20T17:23:42Z",
      "medio": "SoyChile.cl"
+    },
+    {
+     "titulo": "Expo Mundo Rural de Indap acerca los sabores del campo a Temuco en pabellón de feria Expo SOFO 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONm1OQjRjWXdLTzh4VUJMV2YtYS02REgzbjlqNUlxa1p2Qlk0Slh3MUN2dUEwTndHcENyX2VPc0hiemVuTmxBMkotRFVqMjFJSnQ5MEJVaDJFdVYtWjBOMFdNNHdtWndGQjhFUzM1dDZKVFVoeUpNMUp4ZEdlb0xqOWhVRkZ1WUF5WDFEdEVoTHlDSjJNVE13Ti1LYnZMRW93TllfOTVHTkxmdGZENkpLU0xSTlhSaW9ObEtGTU9pOHVQUTZpcTQ2M3piZnRyMTRzWjQtbjBmdVpPUQ?oc=5",
+     "fecha": "2026-11-20T16:33:13Z",
+     "medio": "Atacama Noticias"
+    },
+    {
+     "titulo": "Chile proyecta una nueva industria del pistacho y atrae interés argentino",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNzJ4RlFyM18yeEc5OC16eXdFWWFHR3F2VmxjVDZQU3JJeThGcEdWY2RuZVZUVVgzOU9iZlJKbllQbjY4SFdJc002Tjh2RmNMdUlSWVlaVm5RUXdNaTFxRGJncS1VVXRSV1JrS3JRV3cxNVl1V3lNQUZueV80eTZBVGZOSzcxSHE3ZjRDWlZHV0FWZzBzTWwtOU16SF9vLThVNUNTaHlrV0l2WlVIbXFuVEdhZzhmb00?oc=5",
+     "fecha": "2026-11-20T16:20:32Z",
+     "medio": "Portal Agro Chile"
     }
    ]
   },
@@ -101,12 +101,6 @@
    "clave": "araucania",
    "nombre": "Agro en La Araucanía",
    "items": [
-    {
-     "titulo": "Victoria revive sus tradiciones campesinas con la XVI edición del Festival de la Esquila",
-     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BWmdMazVWU0hTcXp4M0xUeEo1bG9GSDlZWkVwRzRnbkZOcWZTYlEwekVaVDhvS3J1NE01VTF3cDFqZzduNllib1BMZXJFbWl0dk81UEpEc1dWZnc0Q00zMmZUTUZpRFpmU3k4WmktZWhiUTdDYWR1d3ZZZVk?oc=5",
-     "fecha": "2026-11-21T15:00:05Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
     {
      "titulo": "Jinete temuquense de 16 años se corona campeón sudamericano y recibe reconocimiento del Gobierno",
      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEZ3UU5Xalg1S3pHaW8tR0cxeEpfQXk2OXhvWURDMEV4TUdCNk84c1VsZGZDQW9lOEprYl9VaWJlX2xGM0I2ZEV0Qklyejg0WElNazc0X3dzekhCdlltZFhtMlBkb0FmLWNBcjNXNkhvYXRlaFdSMEJNQWhid0tFWllsdw?oc=5",
@@ -172,6 +166,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VdGU5enV5UHpqMzB6LVpiMHB2QXFSTTR2ZXMtOHRYOENqRDZJQmdqNXc2YWMySUQ5NHZodXZDMEd2dWhYTmJ4aDJtSGloeU81MHZCRU1xUUJiUUItNjFqS3ZKZTVRbWVTdWtiblNyaE9xUDNjdlE?oc=5",
      "fecha": "2026-11-20T23:38:55Z",
      "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "MINISTERIO DE AGRICULTURA DESTACA LA FORTALEZA DE LOS AGRICULTORES DE LA ARAUCANÍA EN LA EXPOSOFO 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnhuaEw2Rmhqc2JTUjRsTi05U3VFZUV0SnBfeUY2Wkt3cFFDY0h1TVdYYWtCYmZvNnlkNFluWk9ZSGRacXJrcEQtNWFYVEhxNm1oYk9UNU43Ynp5dTlOd19ESWsyZmtjMWh3d0NfWDFwNF9kNEU2UURpNDZKUGI3MlJXMkJwNEVqOVlCVG1RMEpKeWNXY2RRV1NvNk1qbUhUVWRYTnI5SlZwT0ZaR096NDBXZmJLdm1aa2t2YXVUOGVQQ1hiSFBKRlVHUTY5Qmd2ZE9lMkZNVjVmOFQwNVQxQQ?oc=5",
+     "fecha": "2026-11-20T23:16:38Z",
+     "medio": "Araucanía Noticias Temuco"
     },
     {
      "titulo": "35 años de Arquitectura: una historia que comenzó en Temuco",
@@ -271,7 +271,7 @@
     },
     {
      "titulo": "Cómo vive y cuánto gana un temporero migrante: Luces y sombras del boom frutícola",
-     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORDh5MF9ZRWM2azQ2VmZQT3JGMnQySklhTW5Hdl9lUUhUN2Q0dG12WG5iT0RaM19LdlZyc3dHNXU4SzVjRGxtanZEeEM5V0doWWFSRGNyYUJmY0N2UjhCNXR2aVVDYlQwdlcwWk1UekZ6aTdhbGRnMXNIbHEwcWZDaDVNRDZmVW9kbm5vWjJ6SVdYVnRPMTZfRzVEZTgtMFQtNV9iRHlXa2lKdG91R3NmNlBtUlNjaWREeDdiUmN30gHfAUFVX3lxTE9oeGtaWGNRTVV6ZUtnU0ZEZFlmMzRyU0sxUHlCSnFXYXdQMzlfU2lCSGhvMlJKN3A5WTIwaFdzRVpHSFpIeWZBWEkwdjNtQ3dFSW5WOFQ2bE4ta0RITUlaUHAwRmxQY21XYUxicjkySDlfVEJjRTBzblJRM0dBZGdjRk5ocDhKVThBSzBjS041dXYxVXIxN1VqaXdYX3J3X21zd3hYd2hSNXpvcVhvS1pLUTU3cS1xZkVSNXdUR3A4MVhmRHROcFNjWmFnZ3gxbzBDdlFPOE8ycEVKQ0dJX0k?oc=5",
+     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORDh5MF9ZRWM2azQ2VmZQT3JGMnQySklhTW5Hdl9lUUhUN2Q0dG12WG5iT0RaM19LdlZyc3dHNXU4SzVjRGxtanZEeEM5V0doWWFSRGNyYUJmY0N2UjhCNXR2aVVDYlQwdlcwWk1UekZ6aTdhbGRnMXNIbHEwcWZDaDVNRDZmVW9kbm5vWjJ6SVdYVnRPMTZfRzVEZTgtMFQtNV9iRHlXa2lKdG91R3NmNlBtUlNjaWREeDdiUmN3?oc=5",
      "fecha": "2025-10-11T07:00:00Z",
      "medio": "La Tercera"
     },
@@ -354,12 +354,6 @@
      "medio": "IMER Noticias"
     },
     {
-     "titulo": "100 años del Sindicato Amarillo",
-     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTdFYUhZMVpOUEgtLW5NWjBlQTlTSWs1bkFBbmE3RHlvdnB3NmdOY1c1RFg4Y2wzVThPLXhtdjVyRjBpMmg5RnJ4Snhhb2RxREV4X255dzBvS05UV1k0WlhMSnR3YWhFY0hyMDNDX01FYnExUjlGRy0wNmZBbDFpSw?oc=5",
-     "fecha": "2026-03-22T05:37:34Z",
-     "medio": "InfonorteDigital"
-    },
-    {
      "titulo": "El secreto que guardó 60 años la líder sindical Dolores Huerta y la importancia de su legado",
      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNnRWbUJ2bHJfUlhubXI5b09reHdTOXhmcFZHQkZ5UjZMaDN2V0lMZHNDY29hQVkzU2E4TkdGYVdUc1I1QVhoQzBJbnZYaERlLTVqV01YeWs1QzdTTFJhaElFODlic0Etbld0TmJMS3FpcWpmVENfNld3cEFTZWpaRGhnZEhLWWtIYi1MM2ctTGkyUWlmTVJoYUhIZkhUNHI1by1BdFg5TVFpMlJxVXdWY1E2YUg2bWR3aHhvdHVkUDRqM2NZVFJYdk1DVEY3UDUwOXVTTEtSRXFmdTBRM3I0NUlaWQ?oc=5",
      "fecha": "2026-03-19T07:00:00Z",
@@ -382,6 +376,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPandTb2g1QzA4RG9kcmZaVmV2R0o2bG0tRWgzeHVDQ3Y4bEZtSG5lSGNuazV2X0lKbmgyak9yaUJhQmk3MGI4MDlGRGw3NU9jZThMWjVyWnN2TG5qUkNfb0JwNEdMc2oyanNSUENVMkNTUjRsd29lUzM3OElCeDdqbEl2Mk5lMFJoVlVIa19VNDFReG1BbFh5clliNlpwRmNMS1lLZE05OWtyWVN1V3dXZTNQVG1EU3JBNDVuRlRzbFdtX1V0Y1J4WUFxRjk4VDRaYTVlMlhWcGFEdlhFMGxuQg?oc=5",
      "fecha": "2025-12-19T08:00:00Z",
      "medio": "RTVE.es"
+    },
+    {
+     "titulo": "La Entrevista - El ICE “está prácticamente secuestrando” migrantes, denuncia sindicato agrícola de EE. UU.",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSUdSMWlHSDFIN19oclYxbGRQZHQ2ek52LVR3MEVBRXBfVHRFdE9aYmxQX2tVRldMcEtna2hUVUFrLUJXNUJfQ3dfdjY3XzI5VE5WODF0SUF3S1Z5ZDRoTzZ6X2FKZ0JJZHU1SUFwcVFnZUtwN3prdnEwOVNMeVpvRDdSamVMMkhveTJzY1hndnNhUmc0bjVqSGhRTkpla0h4NVd6TDdpTFZuOElaNlA3Z3ZiVHc2Vl9rbHpEQ1JPMzFtaWk0XzdHWm9BZVcyTFZDbFpwN1BCWGNsWE56bVBHR3FzbVFNY1lvdFRnTFZ2cnlBaXM?oc=5",
+     "fecha": "2025-07-22T07:00:00Z",
+     "medio": "France 24"
     }
    ]
   },
@@ -390,22 +390,10 @@
    "nombre": "Leyes laborales",
    "items": [
     {
-     "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQzNnUFZqY2lmX21PVUVrVWtLOU5Vb1FreF9zUEJmcE1aM3BHM1Utamw1V2lPa0Y4Z3YtbEFrSndyTHFuMkZFMXBQMTV1S3JEMXlMaV9tYW5pSmZkMmJvRXNtZmRHZlRFWk9vTTJaVFphRW5iTXhaZGRpUVVuaTF2UjdoVDI3T25JeHp6Tkl6Y28yWU02dGxBei04UjUyTzlFdUgwQVFVbm1QcGhCUUFEei02Wko3LXpqLTBheGkyMUFuVEp4Z2hYeVpSaw?oc=5",
-     "fecha": "2026-11-21T14:25:32Z",
-     "medio": "El Mostrador"
-    },
-    {
      "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
      "fecha": "2026-11-19T19:41:17Z",
      "medio": "Publimetro"
-    },
-    {
-     "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnRROW8yVWJ4aktfWDNWZ0tnQU4zalpndTV1a2tBYnR0SHlWOWZPWDJwVThRVHA3NmdOT3VKMzY0c0gzLUxuNTIwcTRLLWR4RUU2MkxfYlN1Y3UxdVZ6SWVGRy1sa0w1WF9JUDBoS1V3eFdGLXN4OXlFQ3dJUTNsZk9OV3V5cmpSZDN0SkhoRmI0Z0xGUkpnaV9XN2MybGg4MzNtUnBrQm51RmpwMk1JM01pYUNJUkFqOXc?oc=5",
-     "fecha": "2026-11-19T19:21:59Z",
-     "medio": "El Observatodo"
     },
     {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
@@ -456,10 +444,10 @@
      "medio": "Dirección del Trabajo"
     },
     {
-     "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
-     "fecha": "2025-04-25T07:00:00Z",
-     "medio": "Dirección del Trabajo"
+     "titulo": "Sello 40 horas: Conoce las recomendaciones sobre su uso y aplicación en los procesos de compras públicas",
+     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEZ5aTZZUUtzVEtuR3RnTHVrYmpUekxXRnptNUtYMEVjYkttOGFyWWtnYllUc3FiQllpRkJMdnd1V1BuTmRaQ1BtLWJXRXNURnN4UTROVGhaLTc5S2VqQ1h1NWpfWDBxTmNERjl4ZnkyM1d2MDV2b2ptVFA5UXI4MWJCWURPZjJlTGRzMm5YS0JLSHZLUTFXV1hSb1k5bTVxZXAzeXVzc1VWaEZoOVFjdUxoOUg4WjlMdnpwSVphNXlldHl2ZnhodW9ud1N1U01wMFE2c3Vn?oc=5",
+     "fecha": "2025-02-28T08:00:00Z",
+     "medio": "ChileCompra"
     },
     {
      "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
@@ -477,6 +465,18 @@
      "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
      "fecha": "2025-01-15T17:20:30Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Los 100 años de la Dirección del Trabajo en Chile - Aporte al Debate Número Especial",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMXZIY1dKSS1DbjEwZkJPWnc1Sl9TS0JrSFdDUnBPMUx4cE0zUDNKME80Tm5hZHBCRlVpcnN6cDd0QXgzeERJYUk5dm9JVzMyV05FY0xaNjVxdXVZaDlHUWZFVHZYVWM?oc=5",
+     "fecha": "2024-09-30T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Sindicalistas de la banca conocen estudios sobre negociación colectiva multinivel en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTaHktV2VwMlozU3duRFJPaEE0VW9VQlJKOTh3WVdybFczdFF2TFV0NWxTWmRVczg1M05BVFh4LU44My1qU3IwZlkxTGdmOTVIWmh5VHpSQkEtNkJSME5iTFNFc1lhZjg?oc=5",
+     "fecha": "2024-08-06T07:00:00Z",
      "medio": "Dirección del Trabajo"
     }
    ]

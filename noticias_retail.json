@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T23:48:08Z",
+ "actualizado": "2026-11-23T08:10:53Z",
  "fuentes": [
   {
    "clave": "retail",
@@ -42,10 +42,22 @@
      "medio": "Supermercado Al Día"
     },
     {
+     "titulo": "Kodak vuelve a Chile de la mano de Mr. Click y Falabella",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzdBNDZYRnRmRTFFVmJXTzZWbG01ZmRtbDVodWdzd19zeFBjdXBmWnJaX1pRXzNSVmM1REQyM2tlYXNac1VUVTdURkU3azVrMV9uVVI0UUJISzhWekx3c3cwY3pFTGp6VEItRUV4LUlzYWFiMm92WnN4Skw1QVFDQzR2Y3gydFh6S3RYZU4xTXl1M1dzQk96OXVJRHhtVjNoanE2aERyazFPYmJKd2szVjlmYVBlT1U?oc=5",
+     "fecha": "2026-11-17T18:24:56Z",
+     "medio": "Supermercado Al Día"
+    },
+    {
      "titulo": "Más de 500 empleos generan los tres nuevos supermercados que abrimos en el último mes",
      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJvbXdzVlVma3BEY0VpZVBZejl4VTNOdFMzSS1fR0VZdW45SlF6VWxNZEJHSmh3cmU2bllrVU1fdlFKdTVKSVBjTTJmbVU3dy1BWWJVbENHWTJUT0FWektGN0EzNHBWR3RFQXJlY2ppbzRKUGlwQ0lpV25GaGlUdlRnNWNsZkR6RzJXUk13djlvWUg1R1Uya2c0OWtsVmY2RTlvMjIxWTFXZWVsOFVqRmx3dUE?oc=5",
      "fecha": "2026-11-16T13:59:06Z",
      "medio": "Walmart Chile"
+    },
+    {
+     "titulo": "¿Llega a Chile? Walmart solicitó registrar Walmart+ en el país",
+     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnRPOHB1Y1c0LTlnYnVwQ3N2TnY5MXpkX0tCbFRtajkzYi13Z0pYUGdiU0hrT1k3aFFpXzJJck9ET0RiZGVXcVVjUHFuSTkxRURoQnp5WXhPZ1RqZ09MbERiZHlKYnQ5RkdxNzZ3SWlUaTZWVlJtU3ZzOUFpbW9rTXlUODMteW1hWHdlQmVkQmg?oc=5",
+     "fecha": "2026-11-14T08:00:00Z",
+     "medio": "Chócale"
     },
     {
      "titulo": "Cencosud avanza en innovación en retail: Jumbo lanza el primer asistente de compras con IA de un supermercado en Chile – PAUTA ADPRENSA",
@@ -82,18 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGR4cllsS2I1eHZKTmY2cDV5bXZLR1o5TmM0Sm1SeHQwUTIwZDdCODRXUDhCTVB1bzBseWZDYkJNelhsaHpDaDNxUEE4VHB5ZzJlZGoyZEpLVWFvWDR0Z3Eta3FTdEpxSVN4cXNKVWxBQnNzek13N1h0bXJpRG01X3YwNXJEelk?oc=5",
      "fecha": "2026-09-30T07:00:00Z",
      "medio": "www.walmartchile.cl"
-    },
-    {
-     "titulo": "Annie Walker: “Amo el corazón del retail: encontrar buenos productos y hacerlos grandes”",
-     "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVpnclRMZzlueDBGc0JlVVE5T2JoNGw1d2ZQdVBkWF81X25tcW00eGtJRUh5dWJvMjBPWWhQVFU3cHhZRmFMeXlRT01Wd2ZVWnU3TDh1VGM4QUlrSm94S0VqMDR6ZGFPVWtxSHJ1REM0bUl2cEhsSXdlYnZjQUdxZDJCWHRqLTRtRmNhTi1qcmhRSTFIdG5EcmJlZ085V2Z4cUNnbkNYNVV1TV9tRTdpcW9pYw?oc=5",
-     "fecha": "2026-09-30T07:00:00Z",
-     "medio": "www.walmartchile.cl"
-    },
-    {
-     "titulo": "Tomás Platovsky: El nuevo gerente de Falabella Retail",
-     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZkE5V0xWOGRMd2cxX3BIeHRya2t5V3k2Z2lMc2g5U1owaV9QV09lYU1fcXkxVkdIR3dOVWtLTTZCQlU3a1VvbFhDOTVxamdoQm5sTEFYWVdHbHd3SVlPRUlaQV9paXRJMmwwamRvdjhUcnpXRmJ2ZXl0RFhycGI0VVROSDY4ZUhaRk9iMFNkZll3aFFfODk2UnAyWDhkUWVCRkxXem12VXF6cTN5Nmljd2hXdnF0S0Z1WjlqVVpHb2lmU2dnVTlCTmhmMVhjVk9jM01UVXBrUG16ZlVySUR3?oc=5",
-     "fecha": "2026-09-01T07:00:00Z",
-     "medio": "Ex-ante"
     }
    ]
   },
@@ -150,6 +150,12 @@
      "medio": "UGT Navarra |"
     },
     {
+     "titulo": "Vinculado a proceso Limones, líder criminal y operador del sindicato Catem",
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0xRRU9uNjQtUFhDZlpXUzBCSDhoalBTNnJ5QTF6MjE2UVVtbnRXb3ZjSW5zWjRtS05LdjV0cy1OSEFDeXFnUU8wdTUxeElJR2o2ZmNBS0tKbTBicGltTlMzOFZjWkVRYVNHcXF2ZWQxSUo3ekdWRnJsZHhwQ184azlYdnQ3MFFiY3YzcXNmU0pqUFlaTTNSRFFpR0xHTVdCdGNMTFRsR1paWTBNdG10R1dPZy1KZ9IBygFBVV95cUxNLUc1T2NhUWdHMjJ4WXNjQTdBN2cwTFhNSGlHdVNJeHA5Y0ZoU082VEl3RUt0MHVVOEd5VGhwT3B6Sm9jbnFNQjNnbVNIX1JqSXp1QlZ6TmVIUkpHYU1GRTY2QnFBVkRaS2pJSEJHazkxUllCWGkzTkVDNng5bDYteC1aZjFTUkg2aVZ0emNJc2JnU0lDcS16WUhHRWdwcXJWQTNGVWFBSllsZXdLSjVrbXg0TVFSX2ZMbmM1WXZOb2EtMFotRHhSME1B?oc=5",
+     "fecha": "2025-12-17T08:00:00Z",
+     "medio": "EL PAÍS"
+    },
+    {
      "titulo": "Pese a millonarias utilidades del consorcio: trabajadores de Cencosud denuncian cerca de mil despidos",
      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZGNzdk9rQTkyeEdfR1JGM3NCODUxN2FPZmRDNVJtN0xZUWJwT0NaOFF4aHhDdWlRaXN3YlFKaWI0ZFIwRW1VNWtwQmg3ZHE3aDFnR1hDTXlQR3RXVWNCVi14a2NLQlpJQ3pwa2VjZlJrLWl0UkVJTmtobmpwOTIxNkpEbm4zWmo5RmROQTV4UU4wVzM5MGs5R2QtVVhBNDBNWVVDdHo4TzkyR2F5WFB6dy1MNmJQbkN2ZU1FcnFNWjRLVENCSF9iWmpoN3ZoQnV3Vnc?oc=5",
      "fecha": "2025-10-01T07:00:00Z",
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2hjMXIzaXdTSlFnSThuamEtM3lsRkFKM21BV3lmbmlvSEFjaTdsUzFzeFFEMmx0Q3J1c3A3SGtKNlg5UWVDNFNkWHNOekxwQ0pvVzFYa0JZc3RFUjRRYUVXcUZCQnVzeHdVQ1lHZTRKMFpBWjdJd2JjNzNSZzREOWVDM3VpOXpKbGlaYWxSYjQxYndZUVZ3clhDelVfSWlxTW9DZHR0aWswYkpSNE1YVmRIQ0hXb0pGaVY0?oc=5",
      "fecha": "2024-07-13T07:00:00Z",
      "medio": "Interferencia |"
-    },
-    {
-     "titulo": "Walmart logró acuerdo con un sindicato, pero siguen en huelga casi 10 mil trabajadores",
-     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUmhFT3R6cFhXdVIyOHB0bGktcnFtWmtuZ0h5cHNXZlFiVUw3T19vY1BYbl9ja1ZPUi1HbkMtN18tTUZLdFp6dzY4cmN3dGFSZDNLNEZmU1NJRExKVlBGSVVQYzk5M2xLWGhXckFOdE0yVGF0V292NmRyQkRpX25nQmUwdHNaZDBwclpVTFJuSi02Z2JJM0dIakx6V0dGcXctbUp6emh5cUozTzBWQXhMWEhhSmZ3c0FSMW8wSDg1QTBlTGhYV3B4WGFBWVBGVVIxbjF5MXJtYldueFVqeGNqRDNRYV9RWlVmWUU2Tm4wYzhBUXpVR0pHQtIBjAFBVV95cUxQTWdad3lLeFBwN210UXBKb196SGJoRTRqSEFZT3RNZ1VCQ0NnMF9icTNFSVNPaDFGZGpGRzMwQzZ0X3BsckRlcThwY3l5djcyS0ZiTi1wSGFHbVZaMlg2SnZUd1FmQkh5VEg5ZlpicHhmODQtX0FYMk9UeWNIUFktTVlvQmtqZHZKSEVVWg?oc=5",
-     "fecha": "2024-07-12T07:00:00Z",
-     "medio": "Cooperativa"
     }
    ]
   },
@@ -252,12 +252,6 @@
      "medio": "24horas"
     },
     {
-     "titulo": "¿Nuevo feriado irrenunciable en Chile? Líder de la Iglesia católica pide el cierre del comercio el Viernes Santo",
-     "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaW5kZVBmbnhOYjR0R3Y3cUx3WGZmU3RhZzN5cU1ZaG5aN3VXcnJ0X2U4YW9Xc0dPTjVzY195U016ckpzdVlXUFRmalZoaDRtakpUQkVTS0N2bTVpcHN4S09ILWE0ekljcFh4cTBYT3NFbk1OOGRySEl1TVA3SHdHLWFucF90RUd0RThfMWpzb0w0RGhDYXRjT1JfMjQxbl9QZVJCS0t0bXRmRXpTVWNHNGFFZXJDWmRVRXNfcnFDN3NQb0lCeHpkTldpeUFqN1BDMFUwa25OeFZiX010dXREX2hlSFRtRFAzMHhBZFBGQnNlcVFyYXN0ZldaMHJFbDlaSTdqTQ?oc=5",
-     "fecha": "2026-03-17T07:00:00Z",
-     "medio": "En Cancha"
-    },
-    {
      "titulo": "Qué está abierto durante el feriado irrenunciable del jueves 1 de enero",
      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2FnZi1pbExlNzhtaVhrejh2cUt2NlZ4bDVETk5IZ0l3ZERzRzZMbDhXOFBEU2djZ2VzaGNlSzdjSTJoemswbXEzYWRRSUllUWNwV2JKNURJWThlSXQ3cGtpa19kRTR3TVAtY0diYWZKUm9SYWpQZUQ3VmxKVjRZRFEtcFhtNHlnakJmRTNTaEctdTh4a3BBMEs4TVItRVZrcjB6OEt0SDNFZFpMU09TUXI5WXlMSG_SAdgBQVVfeXFMTkJlcTdITmJoWFA3MWJLMjBrVlpKNlpEV250NjRpdWZlRlNKek5hUEJhYW9zTEtHd0NBUXBacEl1V3JNTE95SDFvVTN1UFN4b0RkenhMZ1NSZUNvVlhsZ3l3X0drR1ppdkQydWpPbWFJSTZrU0FYdExBSmNlSzd1dkM0cVc5NjVHQnN3b09wUEV0Q2VleWhiYVhkZEg3MlViMF9MVzVUaGs2TGd6YmxtUVBaWjdRQk84NlVFbXVRWS1ETzZXMnFDcHA3RmZfdms0X2dmbHlnSGxo?oc=5",
      "fecha": "2026-01-01T08:00:00Z",
@@ -286,6 +280,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOXVpUkFBTENtanZtVWU0NkVBbm9IRmh2RVEySm9LMG1id2RCejI0S3VCclNLVElGOS1GTm1SV3pQdWg1V3NwSU9qT09NZHllc2NzVjAtOVFfMHYtdHVwTUFjSEdzc24yblVianpQdVJtOWg4Rkw1dlJKZEl6VzNsaDlVbWtQWEp1OXVRQ2didUg1YWlTOTQtY2t1cXA1NVd6RHRBZDZZZ080N0tsMFJnalhmZmE2blRHTk5yR1FYWnFYQnRJc2c?oc=5",
      "fecha": "2025-09-19T07:00:00Z",
      "medio": "El Mostrador"
+    },
+    {
+     "titulo": "Estos son los comercios que permanecen abiertos durante el feriado irrenunciable del 18 de septiembre",
+     "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoYjExeEQwZWtxMGxBUjRrR3hHQllLX1Fpb0h3Rmx2TmREVEt0WV8zVmxPRGRtRHR1bHpNdV9RQzc0VzhRcG9TeFQyeld1ckFNUnFLZVpQaXE2aS1oeHU3el9QcndfTmJfZi1IMWtYRG0xMGZvWTMxeVZKOA?oc=5",
+     "fecha": "2025-09-18T07:00:00Z",
+     "medio": "CNN Chile"
     }
    ]
   },
@@ -298,6 +298,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObHg5bk55U3FfWW5HVHZpS25wRTVEbFdBNlIxTjFwOFJZRFEyVnIyQmJlQkdNUlNFekdyZC00d0dJeDVGOUlLQWxLRnlIbUc3Q0tvRWRqTkhBNWNxbFNNRHU5cWVwWFRvOXR3QkpEcmwyMnVPTUJhTEtONU80WVNfTDBzb0hZWVlpeGpLVUZYLWRkMzg2dXhpcGwxb1dJUXdobEtyY1BoTGFZTVY2R252VS1TR1ZFWmZHRHZINnBaUnFUQ1VHeDlyMGlXXzN5VDdwX3pfTDRKQloya0R5VUE2YkZWeEQ1bUJUaTZMQmY0TS1IUnNTeklHdzEzUTJOUQ?oc=5",
      "fecha": "2026-11-12T01:34:55Z",
      "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "Cámara de Comercio y Municipalidad de Temuco firman convenio de apoyo en seguridad",
+     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkpiZE9WMXJqdkFRcTBRNHMtOV80Q0lVWWRIbVVUZTBNMTQwNklDblhsejZlelhxNWl3SEozX0h6Qm54b29mQkF1aUdYZ2xDU0w4THJObU9FdHhRRzljeFpBbzM3ZHhIS1BOOFhLWkp5STl6ZklXTUVQN3lrcEdvUWNDNWQ?oc=5",
+     "fecha": "2026-11-11T15:33:20Z",
+     "medio": "Alerta Noticias Temuco.cl"
     },
     {
      "titulo": "Temuco lanza plataforma para denunciar comercio irregular de forma anónima",
@@ -360,12 +366,6 @@
      "medio": "Teletrece"
     },
     {
-     "titulo": "CÁMARA DE COMERCIO DE LA ARAUCANÍA VALORA AVANCES MUNICIPALES CONTRA EL COMERCIO ILEGAL Y PIDE PERSEGUIR A LOS PROVEEDORES",
-     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUkZuWWMycEYtRDVpcDJnQzFDbk4yazNnaUhlQTQtaW9Qc2tfY2VkMG0zWlFBWEFzc3ZvYzFNakhtMTMyZ29ibExubGRhdzhDVnlyS1drS2lwVmNPNGpBcjd4RkdrZUNCUExKbjZwUVlHODIwMU9EVUxiT09jbUoxcVYwUVVtLUF4SDI1OUVwU3FnM0RsaFFIQUxKZ3A4alRpMERFSnVZVURSN01XVnV4Yk02ekZwaXNkanNVQjlKUGJrSDd5SEhLMFFISVJIaXhPeE9TQ29iTkIyZXR6T2dNZl9yeWZHNEdFT2k0c2ZwVXJ4VU5WQ2NXeV84cw?oc=5",
-     "fecha": "2026-09-13T19:31:11Z",
-     "medio": "Araucanía Noticias Temuco"
-    },
-    {
      "titulo": "Temuco: Operativo contra el comercio ambulante dejó cinco detenidos y ocho guardias lesionados",
      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZE9wY2xVa28yd2d1cjMtR1hYdEZCNnJUNVNWZjg1VXk0eXI1dXVrRndBYTB4T0VTRHRfSTdQckc1Yng0bjBSMmdGZ2R2ekw2Q0lkVmtzVlRyblM5RDE3b21YRFBYY3NITzI0YnE4Njd0cHFyMWM5S3NJSEhLOU5JVFRTcmt3TllzZDVTcHh0bDdQay1aeGppTm1EZGNTbVZzZzNDM05JZ0EwUXNkZDNJbWhrSjl4S0hCYXA2MVVaRU53bGdNVGwtQjYtTFlSOFJhWV9DZHNQYzYxb1ZtMDRHeXBCN2lrQkhMY2Rz0gGMAUFVX3lxTE0xWVh4R2FWeXp6TVI0Y1E0RGNyUjVmbmV3YkowRXhEMHhtY0F1cTQwemhoVmh2WUxId2Y4ZUF5Y2Z0ZlNyOF9CZklvMk9iZWRiMlZBRGZjbzZZZGNQbkw0SlpMMnpxeG1uVU1CZmhIRWtwd1VNOVFkTWFIZ05qMHAzaVMyNmZYVm9mRGZ4?oc=5",
      "fecha": "2026-09-01T07:00:00Z",
@@ -390,22 +390,10 @@
    "nombre": "Leyes laborales",
    "items": [
     {
-     "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQzNnUFZqY2lmX21PVUVrVWtLOU5Vb1FreF9zUEJmcE1aM3BHM1Utamw1V2lPa0Y4Z3YtbEFrSndyTHFuMkZFMXBQMTV1S3JEMXlMaV9tYW5pSmZkMmJvRXNtZmRHZlRFWk9vTTJaVFphRW5iTXhaZGRpUVVuaTF2UjdoVDI3T25JeHp6Tkl6Y28yWU02dGxBei04UjUyTzlFdUgwQVFVbm1QcGhCUUFEei02Wko3LXpqLTBheGkyMUFuVEp4Z2hYeVpSaw?oc=5",
-     "fecha": "2026-11-21T14:25:32Z",
-     "medio": "El Mostrador"
-    },
-    {
      "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
      "fecha": "2026-11-19T19:41:17Z",
      "medio": "Publimetro"
-    },
-    {
-     "titulo": "Registrar mal la jornada: la principal causa de multas laborales en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnRROW8yVWJ4aktfWDNWZ0tnQU4zalpndTV1a2tBYnR0SHlWOWZPWDJwVThRVHA3NmdOT3VKMzY0c0gzLUxuNTIwcTRLLWR4RUU2MkxfYlN1Y3UxdVZ6SWVGRy1sa0w1WF9JUDBoS1V3eFdGLXN4OXlFQ3dJUTNsZk9OV3V5cmpSZDN0SkhoRmI0Z0xGUkpnaV9XN2MybGg4MzNtUnBrQm51RmpwMk1JM01pYUNJUkFqOXc?oc=5",
-     "fecha": "2026-11-19T19:21:59Z",
-     "medio": "El Observatodo"
     },
     {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
@@ -456,10 +444,10 @@
      "medio": "Dirección del Trabajo"
     },
     {
-     "titulo": "Dirección del Trabajo fiscalizará a 464 empresas de la construcción en todo el país",
-     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZEJMU2h2M1g2OTd4MnYxa2RSYjRGSUNJbDBNNWNMNVpPRzRwQVVyV1JydGNzYkRQdDM4RTlTWTVjNVgzcHNMMkljcDlkNWdCM2pEM200WEhUeEFaQWs1MllEa1NrcTg?oc=5",
-     "fecha": "2025-04-25T07:00:00Z",
-     "medio": "Dirección del Trabajo"
+     "titulo": "Sello 40 horas: Conoce las recomendaciones sobre su uso y aplicación en los procesos de compras públicas",
+     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEZ5aTZZUUtzVEtuR3RnTHVrYmpUekxXRnptNUtYMEVjYkttOGFyWWtnYllUc3FiQllpRkJMdnd1V1BuTmRaQ1BtLWJXRXNURnN4UTROVGhaLTc5S2VqQ1h1NWpfWDBxTmNERjl4ZnkyM1d2MDV2b2ptVFA5UXI4MWJCWURPZjJlTGRzMm5YS0JLSHZLUTFXV1hSb1k5bTVxZXAzeXVzc1VWaEZoOVFjdUxoOUg4WjlMdnpwSVphNXlldHl2ZnhodW9ud1N1U01wMFE2c3Vn?oc=5",
+     "fecha": "2025-02-28T08:00:00Z",
+     "medio": "ChileCompra"
     },
     {
      "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
@@ -477,6 +465,18 @@
      "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
      "fecha": "2025-01-15T17:20:30Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Los 100 años de la Dirección del Trabajo en Chile - Aporte al Debate Número Especial",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMXZIY1dKSS1DbjEwZkJPWnc1Sl9TS0JrSFdDUnBPMUx4cE0zUDNKME80Tm5hZHBCRlVpcnN6cDd0QXgzeERJYUk5dm9JVzMyV05FY0xaNjVxdXVZaDlHUWZFVHZYVWM?oc=5",
+     "fecha": "2024-09-30T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Sindicalistas de la banca conocen estudios sobre negociación colectiva multinivel en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTaHktV2VwMlozU3duRFJPaEE0VW9VQlJKOTh3WVdybFczdFF2TFV0NWxTWmRVczg1M05BVFh4LU44My1qU3IwZlkxTGdmOTVIWmh5VHpSQkEtNkJSME5iTFNFc1lhZjg?oc=5",
+     "fecha": "2024-08-06T07:00:00Z",
      "medio": "Dirección del Trabajo"
     }
    ]
