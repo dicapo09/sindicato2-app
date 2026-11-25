@@ -1,15 +1,51 @@
 {
- "actualizado": "2026-11-24T18:17:09Z",
+ "actualizado": "2026-11-25T02:46:52Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
     {
+     "titulo": "Senadora Gatica destaca reposición de $10 mil millones para INDAP en acuerdo alcanzado en Comisión Mixta",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaHZqVDZwdGtfZDdzWWplc3hwV2pMNFF4T1RoclV3M00zVl9lN2JaeUVaS2s1TXloQ3lJeUlPVnpxR0l0VUhGWEtFQXlIOHR6Q0FRNF9kaDlEM0Z6Y2ZGVXpVVlZ0cWFlYVdGMUhncmNzSWQzdlFLRFNhb2hJdHk1SXo2dHgzVnNBR01Fa0hLSlVLZklYbG9FZWdCa2ZpLWg0LXBSeWxnU2RNWURWUFI5MlFnYVBVZ2ZaZFJSek1BX2FiZW1WS2haV0k0WjFJQ3o0MDdj?oc=5",
+     "fecha": "2026-11-24T23:49:30Z",
+     "medio": "G5noticias"
+    },
+    {
+     "titulo": "INDAP recuperaría $10 mil millones en el Presupuesto 2027: revisa cómo se distribuirán los recursos",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObXlEZkd3cmpKX2RObm14ektzOUlMREFwbUFGY0EyRkI0SFE5ZG15V0g3NE4xU2pUQWhwYlczS2RfY1hEcHRLZ29tY3dCX1hVb0s0VVVfZmd2QjlTWkNLNnZxNmFkZ1ZDT0FNeG9wbjUwNTN6T2x1dW13UC1fY2pnem9tZVpFQzBuOV9QZlR3OUVyaV9QUGdzTUxjalNXa2FicE9qeF9PalpPMmtFS3lzc0pydWRSR3Z6X3NockZSNWJSWEdpU29kVmQ0cTgzMm4xNTM0LWRCZXIwMDl2OWZybEVvODIzMHFicFNvWWhR?oc=5",
+     "fecha": "2026-11-24T22:10:04Z",
+     "medio": "Radio Agricultura"
+    },
+    {
+     "titulo": "INDAP destina más de $2.182 millones a proyectos de riego en La Araucanía para fortalecer la agricultura familiar",
+     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JNE5YZ0loYWQ4VkE3S2g0OEJHM3dENlkyY09ndjhlVUUwa1huTWZLa0d3a2lid3lZME9oa21CRGdheGMxNkxoZ205OVF5aFhfYUFERVZISFV0dkdMQS1ONGpMT2RlN2I3NWxyV3pVaW5keWJJUXJibVJ2UUo?oc=5",
+     "fecha": "2026-11-24T21:58:52Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Subsecretario de Agricultura anuncia $10 mil millones adicionales para obras de riego afectadas por emergencias en Atacama, Coquimbo y Valparaíso",
+     "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPZWRkUU1weXJzc253OXgtV01pMm1LQUpMSE11N3U4bWdWUW5mY3hfLV8zTDVrYkpaWWdfdVNULXhZZTZkYkNzdFRrT3JzSGgwc2VzNDdFVU9mNzhRdmhScXBaRWY1MDk3Tnh2czhtQnRXLWpoODhOcTdYTnY1YjMweHpXaEp0Q2tkMXoxMWZLQ2lLNlVldklueDExVDFnamJMZjNzYldOM004Nkpsd3RONkF1aldhN1N6VlBQYVRxRzl4enotbjZfLXgwOEhKNC14bDFaYUo3bk1qT3FBQ3d0cHRBQUxmMndNeVdIcmE0Q2NRdlVzVGFqSkxTUlNfckN4cTZBTWw5LUVsc3hPdUFFT2l6cDA?oc=5",
+     "fecha": "2026-11-24T21:26:19Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "Seremi de Agricultura llama a reforzar la prevención del sector agropecuario ante máximas de hasta 32 °C en el Biobío",
+     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUVhSUm1IOVdrYW9GTUV0bVQ3d2VjcFR3REpmM3l2S3lVWklkclFFMEE3dk9UejdkMkxzRXdNWl9WbzlvNEFET0NNOUZnRVp0M19RUEN2NkZtQmI3RVpmNUdiR1dySzd1a0J3ODJCd3dvVDIya0tKY25VVHNCazU1ZGMtRlRzWHA5ZTFFT2laTm9wLXM1OW1Hck5YNHZscm9HamdEWGdQYzZmX0ZoN09OQ1FjU3ZTaGRtMEcxYlZpakFaVXVkd2JKdWJsSE5ZRkhWTC1LaUllWXExdnR5MVo4eVNBX2pnN1NtUE55SDJaRG8?oc=5",
+     "fecha": "2026-11-24T18:43:08Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "Chile presentó experiencias de comercialización campesina en encuentro del Mercosur",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeklaZHliMXFjdlBpTjVVbG9jcHpiV1UwdnR4OG5tenFsMVBCVWEwLXpSSTVSQjNCbGpJeVRRNEFHbG9NWkFEdnVOcF9TWTBFbmpwZGhYekFPS3Y5b0hsWS1WUEd6NXlGbE9qbms4RUVzNmliYWl4bTVOYXhFUVh2Q3lHWnJMS3M3ajZBR0U1OUtZVFZkRG1vZDVSYzV6YWJRbjVfelh3N1RqeXdMdDdVVEtIRzFnU0E?oc=5",
+     "fecha": "2026-11-24T18:37:57Z",
+     "medio": "Periódico El Insular"
+    },
+    {
      "titulo": "Con maquinaria e infraestructura: INDAP impulsa la incorporación de nuevas tecnologías en el Mundo Rural de Vicuña",
      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUlTeDRJNWd4eUtPcVBKbkFwWUtaTFVGSFV0cExBeWFwcXRTRnNlTzBPUGpFbHh3MEgzd3QyQUJZTlBqLWRza09pWHByY2hMVHFlcldPbmlxaDRhak9nQ0xrTGg4T0pIWmFVNFNmZVNJUVJVajZzd0pkR05FSkMtbVhIcmQ3ZUpaOWo1OEU0QTJhOTNmdV9MTFpUajE1WjhhMDR2aWNxN0tfRGgzZ1FtVTZHYUpwOGZTamtMdHpESmxiX3hMVGFDOWJiLUxiekZCa0pTSFdhbGRWMWZOQWl1VQ?oc=5",
      "fecha": "2026-11-24T15:42:40Z",
-     "medio": "agustinafm.cl"
+     "medio": "https://agustinafm.cl/"
     },
     {
      "titulo": "Mixomatosis en conejos: cómo prevenir y reconocer sus síntom",
@@ -24,10 +60,22 @@
      "medio": "Portal Agro Chile"
     },
     {
+     "titulo": "La Serena: anuncios para adultos con discreción entre el valle y la costa",
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbjRPc2diUG9FX1VzdEVSZ3NtS3BYeHBLdkdyRlR0UTlqdDlsOTIyZEV5eEE0cWM0UE1fNWs3WnJGSFV2cEJBSEI4YmxBMHJ6aVhIY0cyMklxUnBGNUoxWTRzVGQzdFN0LVhFZWRXQWZBeFFwWVZZaUUxVjQ5b0wxYU9UM0xaQ0xra1RxZjNoNWxQMy1JblpUVmtQdEhJTjlyVy01X0NuZWtuUmRPZEhMbmVMVWhFdw?oc=5",
+     "fecha": "2026-11-24T14:43:03Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
      "titulo": "Más de 25 técnicos de la SAG viajan a Israel para fortalecer la agricultura ante efectos del cambio climático",
      "enlace": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zMk45X0hsaGU5Z3RTR2RBdWlzdWo4ODBDUEx3a2c0UTJNcWoyN3lOU2VpbGpjWnVyMTRWdzZhbGVFd0NRU3EzQVlkNXE1S1kyUEIzMFJQOA?oc=5",
      "fecha": "2026-11-24T14:25:23Z",
      "medio": "El informativo.hn"
+    },
+    {
+     "titulo": "CNR reitera llamado a agricultores y organizaciones de Atacama y Coquimbo a postular proyectos basados en la naturaleza",
+     "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOUZnemcyUndZeVoyRkl3ZkV4ODkyQU95Rm9jeV9JdXJkSkRTa1l5WXBkbVpHQ0RjWkFoSzQ3ZG9Cd2dpUDRPMHdkbUROeHBZZExUcUp2R0t6ejJqMkhWbXZlNFFSZm1CQzZZWmFqSFlld1UydER5Um1OX081SkJHVnNhTVFZTkNDRElvckdjZDljdGNaMEtrRHJ0TTFuTkVmWE9GS2drS0pDb0ZiY29uTnJFSEV5aWRQT0kyOFdCNXh4YmdPSnhZUWVySkM4WGhPcDJWSFQ2ejNMNEttVmswZ01sV1ExcVFHNjQxcy1qVUlzTzFM?oc=5",
+     "fecha": "2026-11-24T13:45:08Z",
+     "medio": "Portal Agro Chile"
     },
     {
      "titulo": "INDAP expuso experiencia de compras públicas y Mercados Campesinos en 45ª Reunión de Agricultura Familiar del Mercosur",
@@ -46,54 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbHdzcGxJMW9vOTVDMHM2WjhtTG0xWHBDbU1sUUtkOFctMkh5WFRYYWNjRlYxcHRWbW55WG9sV2ZDVUZhTGxwdkhBdFVva1FZaXFvb3JlOWhiSlMtdEFVU0lzRV90QV9NNVZmdDZOWHBVcnE0TEIzd2Fib0psMEhTX3FMWGIyWlRRU1IwSmM2MFBvb1p5Y2pIczc4UGgxdm5LZzk0TDRZUVJvcnl0b3RHaUl1T3piaDZOdzJ1eWZBTFc4SVNNMERoV2hJMTM?oc=5",
      "fecha": "2026-11-24T12:42:09Z",
      "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Investigador de INIA expondrá sobre robótica e inteligencia artificial aplicadas al agro en el Agro Summit de la Sago Fisur 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd25VdEtjNDN6MGdFSkFTZGdlcWJsYmZld1AtMXJHeFFraVU3Z0dLNjl0cTkwdkp0VEM2MWZRNDRwdkNsWTVVMGZwcmczUkpCTGlGVm4xX01ubnhFb0kwMUt0bnlnWjJEV3pCdE9YeTkxWFpRUVFNMUJ4RDBsa1ptQWVoRHpVUkpvSks5aHdTQS1NQVFLRGx2QTdPeFRpVDFQcDU3Wk5Qd2lLVlRGak43TmY3aGc5Q3FEWkItbXVFTmRVcG9zQWJWQXhCU3VlMGNCYW1FNmFTY3M3YUIxRjhUVGJ6ZTF1Y2NWd3RxZlI0WnVQVjRMdVpEUmhkR2xCTFpo?oc=5",
-     "fecha": "2026-11-24T04:26:00Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Frutas de Chile cierra exitosa participación en Chile Week China 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWRIcjQtcUo3UGxQMVkteTlIcGU3b3J4UEkyYzZrN1hYRllUbFdiYlgyVzJ3UDZOSnJ2V1cxUFFteXlsWW5oRlAtMVJEd01EcFFFWjFxZXlURTZjZzU2bHd5SHJDdUpaYjJaUU5pa2tyYmt1aWRSVVJTSHJxV2pBQnNPc0VBai1mVllPZl9MQ0twLUkxeS15ZUlyMUNmazRPU0k2SVNlSUttVktmaVZma3RB?oc=5",
-     "fecha": "2026-11-24T04:18:17Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Capacitación en buenas prácticas a pequeños agricultores de uva pisquera en Ovalle",
-     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcmU5NDB4TTZ1VjVpM1lXRzl6eF8wcEtJRmozTkhvV2lGc3dReno3NExZR0E0aEttMVJwU2JpeHJlRklkbzlIbmNvNTdIc0k5djg4Vl85MFhyWnVXYVNHdzhlcVQ5NXllQzV6TzY3dzRmOGxCSS1qelpFVDRYRGZyZEY5OTZnZ3RXNEdraHQyZDlGOXVoYi1NcmQzWlFkNnRvNWlqTDZxUV9OSGxYeVh1Mzh0T1NxcjBVblpuUXFMd0R2RFE?oc=5",
-     "fecha": "2026-11-24T04:10:49Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Cámara aprueba cambios del Senado a Presupuesto 2027, pero lleva partidas de Cultura y Agricultura a comisión mixta",
-     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcU9HT0ZpV1plT0xQb0NRUHdGWmtvSmxPZWMyNGVoeTUxTktrc194aXRSZ1FocUxNMlFjN0FEVFN3S2o0bVdUcjNIbHU3OUh3V1AyZTFpZmtrRHRQSEFhNVpxdEtKdzBPWWFiNGwtelF1ZXRRdEVuUG40T2dCakc3SENQakN4LWVrUnI2U0xubkJzWnpKQXUwZkNLVTJFU2FKLUZERktmbDQtN0hIb3MyYUlDQ0szMXZTS1Ryc0JyNzA3VHRaNnd1OWc4U2dRaHJpQll3d0FiOEYtVXZLTzNQYmVhdGxIZFFEeGptVXJYUdIBkAJBVV95cUxPQW9lNlpNSVpITUUzb2RFRXlKc3hIaHFacVdmU3ExMDBQU20tVG5LZkV1dW9IZHpKekY5OFhoR3dsUDlSa3R5alpYMjhDYjVTNUpmNEFlUW5aZ05KQ0RtNVk0cmdNTU51cVhvS0RObTdBM1BLOTVXTV91dmJWd1lkblN4U0NQaHVNUUxDcGNNRWViYVpqd281bVo4N1c5Q2dJZ1V1clYtUVQxckI3djZGX1VSR3lObTdwWWticUdQQktZZ0p1V1lVTkdCMXlLdHg4b1Z5bmFKODMxVFdWUlpWRWhYWXFaQ082OVVPeTVZWUNjQnV1dGpKbC0ycVVfbm92bXZzdUgtNkVkTldGekFobw?oc=5",
-     "fecha": "2026-11-23T23:49:03Z",
-     "medio": "La Tercera"
-    },
-    {
-     "titulo": "Vallenar: Comunidades indígenas refuerzan sus sistemas productivos con apoyo de INDAP",
-     "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX2xUVnEyYWhQM0YxeE9ja3pXdzN5ZVZjakd2Tm53TkNJQzNnN1V4Q1VQX3VRclJqUmRkY25WcVhQQ0hIc0VzZVdQWmoxYlFBMy12Y0YzUmZzWmVoSVhKSFJTcE56VENva2NiTlA0RU42UHJjcklwaUdhcUF1Q3dSU0ZKLWZnS3BxSkR6dEhZUUY4OTlmZncwOF9ZRTZpRWtxYkR4R0xiOVFGa2pRX1QzWVh4clh4R1liSVRNemF2OGY0RDhKblVUVHl0eHRWNDdQ?oc=5",
-     "fecha": "2026-11-23T19:43:52Z",
-     "medio": "Medio digital El Zorro Nortino"
-    },
-    {
-     "titulo": "Gobierno presenta avión tanquero que encabezará labores de extinción de incendios forestales durante la actual temporada Agricultura",
-     "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeXgyejE4NmZIclpzajRYaDAwS3hydDNieDBhWS13cUxZVXY3dE9lc0NLckIxQkdQM0NrTko0bzB1X2RrQTdTdTlUYmhfT2pEQnpjMmdWMjBrWXphMXh0MU9SNHF2X0VydHN0akYyX1o3bVFtR3VwZFIyTjkyY2xnM093bl9rN3U4dloxSkpjNFN4d2Q0aXQtWnZtM3dsV05ESTBYb1RSYUxKYl85THZ2bGx0bi0tLUp1VEdtN2dSbVEzZHZEU0FOSEVpZEJ3bU5JTWJWcHpIM0F1WXZjc1ZablQ5aDJuUUk?oc=5",
-     "fecha": "2026-11-23T19:03:50Z",
-     "medio": "Ministerio de Agricultura de Chile"
-    },
-    {
-     "titulo": "Más de 1.000 personas se reunirán en Chile para hablar sobre agroecología en Latinoamérica",
-     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPendaMlpDMWdkTk5pRmp5UFB4Y3hubmpUX04zbXVoWVBPLXRHc0lCZkxMblJHWmZQSmM4cXdfZHNCT0g0OV9ES1RfU3hyMXJUZzh4b0pyQkFjSkVYcm0zU1ZydUU5LWl1cFBUdDA3U0k5Nkl4dlVKd0JtM1RtbXhHN0NES19lWjlGYld1dXRJVjRoNlQ3MmRnZDZ4YWV5QWJrM2NFc1BVSmFEdFZRcjZxM3RTbDZ3TVZsNkdtVk1DbTJ1b1FjWVlFdUNwR010Zw?oc=5",
-     "fecha": "2026-11-23T18:19:02Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "CABALLO LOCO, MÁS DE 30 AÑOS DE ESPÍRITU INCONTENIBLE",
-     "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkVueXlXY1h3eXNGb1NGb25oa1d5OU5zNm1NOWUzVm9SSzkzM1pvbWwtQmZjLUNpNmJTZnZ1dktOTXFrcnVERXpTcGFpWkNnU3JwWHNQS2dwRmxuejUydDFIbU5odDdIVFBvazZrX0hqcEJTYXRKM0RvaDhnczZSVXZ4OExSRlR6Z1BLR2toTEdwYVF0ZUJDNzJoQQ?oc=5",
-     "fecha": "2026-11-23T18:12:15Z",
-     "medio": "Portal Agro Chile"
     }
    ]
   },
@@ -102,9 +102,87 @@
    "nombre": "Agro en La Araucanía",
    "items": [
     {
+     "titulo": "SENADOR BECKER GESTIONA CON BANCOESTADO SOLUCIONES PARA DESTRABAR CRÉDITOS DE AGRICULTORES EN LA ARAUCANÍA",
+     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN3Z5TUk5bGl4QUNXTVY5T3M2aG9BUmY4aFM3VWxONXBvb19RWWJhWW05S05jeDV0TEZlbnpKYU04ZE5Md2hhZ2txR3dOMW1fRllyN3JhUTVSU2R6eVdvYXp6VHl2clh6QkdQLTg1WVdTVXEtdmJqUXRHeWw5aDZiLWxJMFRLcXp1OF8zNVlkRkwyaVBFTnRsOWVESEdfWUYzN3k4b1M1eWdncmdTbnpCX3QwR0MzV01lUUdXemNoeG14VVprc0I5NzVKNUsxM0VlZkg5dVhmVTlHX1pSNTZ6UktqQk9LZw?oc=5",
+     "fecha": "2026-11-25T02:16:41Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "Encuentro regional reunirá en Temuco a personas cuidadoras para informar sobre sus derechos y beneficios",
+     "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVWU2alQ2b1d4Y01pQUpfMjRCUmpvUHZYMkttR0tCZHAyR1dMMTJWWUoxTFpLcTlYeS0yb29TSEhGVWdsS1UtVDN1ZWxObEVfQW9OMG9kRUs0NnpRdFVOMXpZektiWDVONmlqcTJxVElTX0h6ZEJVTTRqVm5lN0FlQVN6QlpTUDJMWWc?oc=5",
+     "fecha": "2026-11-24T22:39:07Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "UST Temuco reúne a especialistas y pacientes renales para abordar el rol de la nutrición en los tratamientos",
+     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdWtUNEFuRUI5TE94Ylh1RHpLWW9YU3J0eXdnQVREUU81UHJPSnU3MHBsQ2hFeEJzLXFyUE15b0psN2FCYW51QUVMTHowRGdXQU1hUlNtYm1vSFFVaGd4NUpkRGVtNkd6SENEWE9veFdwM1NMZlo2ZVJzR3Y0Snp1N1VWMVE?oc=5",
+     "fecha": "2026-11-24T22:24:02Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "INDAP destina más de $2.182 millones a proyectos de riego en La Araucanía para fortalecer la agricultura familiar",
+     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JNE5YZ0loYWQ4VkE3S2g0OEJHM3dENlkyY09ndjhlVUUwa1huTWZLa0d3a2lid3lZME9oa21CRGdheGMxNkxoZ205OVF5aFhfYUFERVZISFV0dkdMQS1ONGpMT2RlN2I3NWxyV3pVaW5keWJJUXJibVJ2UUo?oc=5",
+     "fecha": "2026-11-24T21:58:52Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Lumaco incorpora tres furgones y un bus para fortalecer el transporte escolar rural",
+     "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NeVJ5R1FCNVoxQm5jVFZ2TC1ZVFdlS1NrSkRiTFRuR2hRRFg0cjhjYzR1Vk9YQ0FqWlVuRDFtTDEtMUFLcDJNay1CdVBhUTBRQTdwWUd3c3A0Ylo4TktNZjdrUC1YSXhFWVdpemZ4a3BHNVA2TmJXRVF2Nml2OEk?oc=5",
+     "fecha": "2026-11-24T21:49:36Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Salud decreta prohibición de baño en playas de Saavedra y Carahue por presencia de fragata portuguesa",
+     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYUJPeFFOUmpUeEVKY1ppdVdNc1JaNENaM2RWbXhib0ItbkRUZDVPeEF6Y1E0X2V4czFqTHhSVWFHV3VDT3R2LW1WTmNqYW4zR1NfNlRHc2NfTE1wMmg0X3pKZjA5TEVJWExVY1ZqRVB6MXV4djJGYVFndnFvR1pPbDJRS0ZlSjNqQW5rTFRR?oc=5",
+     "fecha": "2026-11-24T20:33:24Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Justicia ordena al Gobierno Regional reincorporar e indemnizar a funcionario desvinculado por René Saffirio",
+     "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGFKa3B1dGp6ZVRtVDBPUGZNU3ZlenhGUUFYNWxRNjdCMG1JNXoyRHRzWFZwSFdMeGphRFNoUk9icHFnUS01N1hJWl9UbDctY2pYaDc4NS14dUZnVnBUQmlVS1B1RExoejlhc0NleUxMZG5aNW1XTlo3V29KNlB2VGFIMVd6LU40aXRZRjBWRQ?oc=5",
+     "fecha": "2026-11-24T20:33:24Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Directora regional de Senama renuncia a pocos meses de asumir el cargo en La Araucanía",
+     "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVHZwckZlY1FfSUtweHN3bkU4cGRaNk9Ha25iMEltUDdfWHlBYjRWT2Rqd1ctTVFmQ0VyM2lyR1BvTFVRSEdoa2J4T2hDY0EtYTd0ek9NYm0zekcxQ0I5bzJsb1oyS1p1MHprT2VPYU5Yc29GbGt2RkhsVTI1bTRRckt1NA?oc=5",
+     "fecha": "2026-11-24T19:37:03Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Salud primaria en alerta: diputada Flor Contreras exige al Minsal y Dipres aclarar financiamiento de programas para 2027",
+     "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY3E1U3B6Z082akRvRzZPTEFKUktESmhRclBENHAxMzV1YXc3RUlWWkdYT002TU0yLUpuaHFZX0MzUXVyWE5QVnpmOGczRE5McVNrbEllM08tSDRuUE5hR2pxa01JOXdOcEladmUwMV9wdnEwZ2JFREtVSldQOVg3b0hFcw?oc=5",
+     "fecha": "2026-11-24T19:37:03Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "CONADI entrega más de $1.072 millones para proyectos de riego que beneficiarán a 221 familias de Malleco",
+     "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbEpDTUI5d0xKWDRMaXFnai04cWlTNENDLUJIODhENGlpQkQ1ZGVkbWRCNkNZVXBqS0xkYThHeVAwbWR2NE1IeHpxaGU4RlVfTjNoVWxUa0NXYW50WkNzd2xNVmNyblUtMXAtQWp6dWd4SFJ0WkVlUm5rbm9EQQ?oc=5",
+     "fecha": "2026-11-24T19:32:00Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "MÁS DE $1.072 MILLONES EN PROYECTOS DE RIEGO BENEFICIARÁN A 221 FAMILIAS DE LA PROVINCIA DE MALLECO",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRmYwQllVNUFmVXBHazRaaUZpcl9JUUw2akM0NUE0UGVBQjFvMVM1cS1oYUFScGZzMnZJd2FPZVdjM2JfdUtPYlVHendoVmczdzQ4T3RDdmdNOGpNZ2ZpRHZNZHZLX3lDUVhFYkZqeGZwaEtWeHBhWkdjcElDV2tqN3YyUHJ2cXIzczhleXpwWjJwVDN6aVhUX3VpdW9ELUFCVFZzTnNLQnNqNThBci1waDFZNGFlSHVRZ0ZyYUJxY2xDX2RiaDZSdVpraXAwemw4NURhYVoyN21peWM?oc=5",
+     "fecha": "2026-11-24T17:48:07Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
      "titulo": "EXPOSOFO 2026 reunió a más de 25 mil visitantes en Temuco",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3IzRkNZSDlGRnZHSVdWbjBCOFZWWGFNYjJJSEMzcC04SENnQnBWTHZmbzRTOFJFOFFHc3ZYMHNrekFtY1lnVEdVMElZdkNhNWVjZERGUTJZd296WXllWWJGNzg3Tjc5QjUyMVoyZ2dqWFp6WHRleU4taXRpNUpvUG9OaWk?oc=5",
-     "fecha": "2026-11-24T13:59:26Z",
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWkdWVzdKRExDY2RySmR6QWNhMFZwbGVYODFsLU1MajItX0h4di1iOGRUajMwX2xMMTBSOXZSaGl3NnpvRHZuenFURnN5Z0xSOTNyaGxJc2JTRnhVU1ZucFU3a3NRYnI1UGhEU1A3YmNQNFo2TmQ1blNfRkdHUUZNXzNIMHV6dFF4ZlA5SUhYUFQ5TG5BSWc?oc=5",
+     "fecha": "2026-11-24T13:54:00Z",
+     "medio": "El Diario Santiago"
+    },
+    {
+     "titulo": "Liceo INSUCO Tiburcio Saavedra Alarcón de Temuco entrega 11 becas para formación en programación e inteligencia artificial",
+     "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGhlZDRqM25qNFg4MnFDRk53QlhzMzNMS0hpUWllZ0N4VlhaTndOZzJodlV1RTNqbXhFVV9ROFJPX3dTd293MG9PSnlvNEs4dnhYTkx1RG11U3hwb3lQVHdsUjYzSnFObVNMMnJGaEpGdWlaaEZuTEI3U241UVpHMUhwRExsdw?oc=5",
+     "fecha": "2026-11-24T13:34:01Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "La Araucanía se prepara para altas temperaturas con más de 600 puntos críticos de incendios forestales",
+     "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR3J2MEwyclJ1akprOV9YbHVIYVAyN3FxcU5DWnN6M3BIWGJSeklsXzc2N3pwOUp0ZDltU2tTOWtoSE9iS1lxUEpGM2ZVbE9WWDZrbzEwTG1qdl9oXzlqRkRzQ2VGOUxTRk1ZTDBJcnlzZHA4dF9uN1ZBSlM1RHpkaGRzblFxekkzclE?oc=5",
+     "fecha": "2026-11-24T12:53:46Z",
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
@@ -112,84 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlhIR3pQVXRMNnVDbkpFdnFlSXprZm5zMTdEMjZKblNrYjRfR3FZY2JpcE54MkNna0FjY01ZM2o2SDdCX2pYZU5ZNENKbDY0blZrYnZYbG5YYjZBSFBNOXZTbnNTU1FQMEFuWjF5b2JIeFI1bDcyMUU5UW9xbUJTdHBZOFNVTDBlMTZYSlpWdXIxZGFSWkFWU0tHT01CaW5CbVhkMUswNnFJY3BYSWxXYmNNbw?oc=5",
      "fecha": "2026-11-24T00:02:35Z",
      "medio": "Araucanía Noticias Temuco"
-    },
-    {
-     "titulo": "Intensa granizada provocó daños en cultivos agrícolas de La Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTRsUG1pMVFaZEJMcy1jenZ4TWVvclFLajUyZmNxaGJhaFVlTGpuY0xJZElnYnV1NnZuSDU4a0UzamNkZlh5Sk9zblhoV3llYlhpaTBGYXFJdDNqX2ZXdFhpQUZjUklvNlZ4V2tpRG5oZHhfek1TUlRuRy1MZ0hhWHZJZERMa0pZa1JGSGFvTk1VNEpVYTBSSW81Ql95dUhkZjhYNkk5QzNZdUp2eGxNQVRXVTU?oc=5",
-     "fecha": "2026-11-23T17:05:07Z",
-     "medio": "Las Noticias de Malleco | Region de la Araucania"
-    },
-    {
-     "titulo": "EXPOSOFO 2026 reunió a más de 25 mil visitantes durante cuatro días en Temuco",
-     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenlCTE93OV9lclExTjVBZU9jYXpENzh4Q3A5TnpvLU5NQ0JjS1J0V3VMZmdJaDNjZ2NYeVB3aG5OS09OOThQeEZJaURTaVF2a2xDRlYyRDRCYUFiQ05uTGx1dUpVUW01WHgwZXlOQ0VKN2tkblhVLU85ZUh6YTFVdlRwZlQ1ZTV2WTByMnpLV3B6MmctRjBHUnRXalJ4RUt6dDJnMA?oc=5",
-     "fecha": "2026-11-23T15:28:37Z",
-     "medio": "Diario Tiempo21"
-    },
-    {
-     "titulo": "Seremis de La Araucanía hacen llamado a celebrar una Navidad sin estereotipos de género",
-     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTNhaXQ4X0JVdlZuLWRRVlVHZzhIQi1zckxtYklHa2tzTmNxb3JMQmFQNDZjWktxdktyVW8zY2RBNDBBUVBOS1NwcVl6ZklTejdESlNBWE9vYWNVX0lPdzJjQ05XZlkxS3pMbXNFSmRJRzNmLThEUm1xS3dTSDVsZEhCM3ViVURuM0xZWUdzTThsR2hiM0VRT3ItaUpHRElCS0x4RWRUMG5BclBqdVdPcVNHSmZlRUN1Mmc3Sw?oc=5",
-     "fecha": "2026-11-21T22:52:58Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Proyectos de riego de La Araucanía que no fueron seleccionados podrán postular ahora a Concurso Especial de CNR",
-     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTU5QMlk4SjhVNkdoUmRPRWdKZjBYVG4ta29LdDU0OTc2WFZ1aENZTDFNUkVZeExjVjF2UFVQc3NrRGxZdDg1dndQVlRHWDFtMm5va293TTJnS3RzaHZWU20ya3pscVlBc0FCV1A1NGsxdHJxZm0xX0hTYUZiZFNNOHNjSW56U3E1M3ZQU1ZNajZNRXVPdjJVeHpKa2dUT2o3cHcxSmVUYmNRMlpSYjFHX3A5NG5RX0pjZGRxQTVxaWhmZkRxT0w1Rzd6dUlTanlhcEVpME9Cb1RDSTA4?oc=5",
-     "fecha": "2026-11-21T19:54:15Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "DELEGACIÓN PRESIDENCIAL DE LA ARAUCANÍA PRESENTÓ QUERELLAS POR DELITO DE ASOCIACIÓN CRIMINAL POR ATAQUES OCURRIDOS ESTE DOMINGO",
-     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOEVQNTRPWV80RU5HcWUzeEF4dTkxNVhYVHBQcXZZaW9YUnhxb1dCMGZOSXZfVkdJTXVwQ1BMeFRYdmxzVnJJU01QUEVMUGhGT0NkMUNQZUhWWW9KTHVPejNpRGhWS05BQnl0QnBWQXljNDJ3S2lkUHJvOXB5RWN5SXFlMDhVbHc2em5EREl3SEN6b191M3ZFMF9xeDRJMzFNd0pLeTJMaTQ1VVVuZ0VWbXFJLWljM1JPTUhzbkVqUGUxRkt2TWNBZWQ1YlFBZnZkdzFNenpjTjdZNnBUWTNrOWNtNXBfamV5eENRQjc0ZzNPUQ?oc=5",
-     "fecha": "2026-11-21T18:58:53Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Frontel informa que, a la fecha, el 90% del total de los clientes de la Araucanía se encuentran con suministro eléctrico.",
-     "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNV2ZaX1hZbHBHc05ybjR6RnVZT2lCYm9oQmlwem5rTFozd0NSYUl6anNyQm1HblFXU2hLZnZrcGh0ZDlZRFJGdFhVMG5zOGg1WFZlQVhvZm5uTkk3VGQ0MGo5S0xhT3c3MUtiQnl4YnNLWjhyUzZJT0Jxa2hIWDFDZExnRzhGN0o1U1hJanViT2pZQzFMd2Nfc1BlTjRrR1plVVNHZnRrX0VDTjdFUGQ0TjdMSTJ1SWNTUlQwNXdkSG5ZT21yaGd4UGcyd0JsaE9hWGFIbU5aUGxTcWNHZ2F4cUM3OWYyMXM?oc=5",
-     "fecha": "2026-11-21T17:05:02Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "FRONTEL TRABAJA EN TERRENO LUEGO DEL PASO AL MAL TIEMPO QUE HAN AFECTADO EL SERVICIO ELÉCTRICO EN LA ARAUCANÍA",
-     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYnRvaldjczdvTHNuZEpIUzFaRHpzLTRDTWh0UFQ1Z29uOElCRGR4TEtQZGNCY2JFV3ItaTFxeW5pS0JOclZaTnNwdlJJQ01iSmlaY29xSVpxYjkxTjlCeHdiLWw0Mnd2cFg0eTJIV0xtOE5HR21jS2tXVExZeDhsOWJWbEdtdS1VMDFac1NTQWVxeHcxUU81WFFHeDl1VXh4X3lxQUxQOFhJbmVINThHTmk1cTRqRlVQeTIyamg0RVBBS0tLOENFZmVnZWZRcS1iVFRMLXFteUdjeGM?oc=5",
-     "fecha": "2026-11-21T15:28:15Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Jinete temuquense de 16 años se corona campeón sudamericano y recibe reconocimiento del Gobierno",
-     "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeEZ3UU5Xalg1S3pHaW8tR0cxeEpfQXk2OXhvWURDMEV4TUdCNk84c1VsZGZDQW9lOEprYl9VaWJlX2xGM0I2ZEV0Qklyejg0WElNazc0X3dzekhCdlltZFhtMlBkb0FmLWNBcjNXNkhvYXRlaFdSMEJNQWhid0tFWllsdw?oc=5",
-     "fecha": "2026-11-21T15:00:05Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Eduardo Renner exige una política especial de desarrollo para La Araucanía durante la inauguración de EX...",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWlNsSzFVZjNOWXlmUEVnd3BQcUVLM1Q2Q3VrcEFhYmdGZzNGMm1QVG9VZlhIRy1ORWgwTHFuNHc3MlpmcU5TSkpSaG1aeGtQYTJEdWxzNjZsa3EyaTRkZExiYUdwaUx4Y3JQYWtqazlIcmRWYi1yUXlhRTJRMklnNFg1ajI4QU5RdnBwUmhEQmVPSEdpbGhMN0tUWlhGcEFMMWp3SHl1VFnSAagBQVVfeXFMTVpTbEsxVWYzTll5ZlBFZ3dwUHFFSzNUNkN1a3BBYWJnRmczRjJtUFRvVWZYSEctTkVoMExxbjR3NzJaZnFOU0pKUmhtWnhrUGEyRHVsczY2bGtxMmk0ZGRMYmFHcGlMeGNyUGFrams5SHJkVmItclF5YUUyUTJJZzRYNWoyOEFOUXZwcFJoREJlT0hHaWxoTDdLVFpYRnBBTDFqd0h5dVRZ?oc=5",
-     "fecha": "2026-11-21T14:23:16Z",
-     "medio": "El diario de la Araucanía"
-    },
-    {
-     "titulo": "Lautaro inicia obras de pavimentación en avenidas Prat y Brasil con inversión de $950 millones",
-     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONGx5QlNfaTVvc21WcmdwUmdSR1BuNFFZR2Q5WXdGSG5KcXNKbWJHZ005WFNrMWxQQnJUWjZVVnpuX2VKRVA2SjJ3X1prcWhYOVhnTTIyNHpPM2RzOW1XVWViSXdJU183TjVvX2RpX1ZVZGxFRVZaZjdEV1BNNnpwRw?oc=5",
-     "fecha": "2026-11-21T13:46:46Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Huenchumilla logra reponer recursos para construir un Mercado Modelo de Hortaliceros en La Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZkpJZG05TXc1aHlCbFYtTzdCYy1RYms2WWlEdXdZVFpRYTBSOGFGRU83QUg2cl8wcHpWdXVSMDJHbFBKZDVMd1AzaTVsWk9rVkstd2xySXFlVUNQaDVfX09ZSGtTZUtPek1Nb3o0ejBMblozV0hGQVhPSXNIWUlfazQ2alJXMEZrX2xCQU1HWm5QTDdt0gGUAUFVX3lxTE1mSklkbTlNdzVoeUJsVi1PN0JjLVFiazZZaUR1d1lUWlFhMFI4YUZFTzdBSDZyXzBwelZ1dVIwMkdsUEpkNUx3UDNpNWxaT2tWSy13bHJJcWVVQ1BoNV9fT1lIa1NlS096TU1vejR6MExuWjNXSEZBWE9Jc0hZSV9rNDZqUlcwRmtfbEJBTUdablBMN20?oc=5",
-     "fecha": "2026-11-21T13:39:01Z",
-     "medio": "El diario de la Araucanía"
-    },
-    {
-     "titulo": "Agricultura mantiene monitoreo en zonas rurales por sistema frontal: La Araucanía acumula 153 mm de lluvia",
-     "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmRrX04zZjRKTklQazBoR3NCcVk5Z2pTSXZLUHVGQTFSVlZWVmlDMTl6c0RzT3FxN2V4cmZrOXZ3TFRYX004dWZFcUwxU19aeW0xWEZfUTYzVWVfZU51WndnUFZhQ2RFdWdzaUpmeklNTTBVWDNtdXJyMk55aTNSUkx0YS1SZ3l0SHdZ?oc=5",
-     "fecha": "2026-11-21T12:48:18Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Temuco fue sede del NASA Space Apps Challenge 2026: estudiantes de la Universidad Autónoma obtuvieron el tercer lugar",
-     "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5td3hSakVjSWdtcmtvcDVvS1dpeS1kdjR2SmhwdWhEZGFtYXhrSkdudWJUdWN4Wlk0Z2pyWXJnNVNiTjlfSGFBdGdUSmZjS1ltYW5USU5pZF9RaVZnLWNmNERWU2JXMEhGdVZHb1NkMEFHZjYzaVhxVVJR?oc=5",
-     "fecha": "2026-11-21T12:43:01Z",
-     "medio": "Alerta Noticias Temuco.cl"
     }
    ]
   },
@@ -197,6 +197,18 @@
    "clave": "temporeros",
    "nombre": "Temporeros",
    "items": [
+    {
+     "titulo": "Sifup busca terminar con los “temporeros” en el fútbol chileno: la propuesta que llevó al Congreso",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVTdoZjFGeWtpTEdGV29VNnZmNVg2Mk54MUlVTVJkVmxEeFk1UUFXTTlTb3BWRFlsMXVyRGNmUzc2d1VrcTNfVk5zQXYwaXlCNTlYUU9vdzZLWUlqNUFFZkdGbWtUWE1oaVVpU0FMZ25uSXJDZWdHRGpJcGZJVXZLM0hGZmlxdFlBOWlMVXpiZVhzR25nbEVMTHkybW01cjVZNHRLRGxfeHJ0NmRWd2QzcXo2RmFhRjZJQkZzaW11RkpsSVNkUUhRNWNMY9IB3wFBVV95cUxQZ2R4elByN21IXzFaUUFkWk5RS0JmbEVXUnFkUlVEYU8yVE9WLVZDQngyTTF3RnFHaW9ZYy1Uckx3cEREaEdBbEh0RG1DY0g5eUN0QUpacWpHRUFxZWpFRThFX2ppaFlwUWVPbURLMXNXdFltZng4aW15TUxaZXcxOXI3SjlWSWFTdktmVnctVzliWkxFV3JfNkhLYlliWG40TDM2a2NjemM3cXA1cGZoVGZXalFxRHJ2NkhZdTVWUkc1SnZuczYzNzhHNDRWTWpVUFotbVVObTE1a3pHbVhB?oc=5",
+     "fecha": "2026-11-24T20:09:40Z",
+     "medio": "ADN Radio"
+    },
+    {
+     "titulo": "Sifup propone en la Cámara poner fin a los “temporeros” del fútbol",
+     "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON3RXd0s2MWdZNWVUbVFtNUs0WDBkT2hzY2Z5Z2FIdHBVMWJ6VmR1T1JDS0dBVkhNd2lwQkRrQWpXMThiVEJodUdqTGdwRjZBZmwwQ0ZwbVhKbm4wTDF1eGNibFk1d0FYUmtmUVljVnhsZXBYdTRBcllMNUhVM1EyLXFCZGtibjUtMi03WE9KLTVjRkJv?oc=5",
+     "fecha": "2026-11-24T19:42:10Z",
+     "medio": "Primera B Chile"
+    },
     {
      "titulo": "Frutas de Chile se baja de lanzamiento de temporada de exportación de cerezas por paro en San Antonio",
      "enlace": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQQm5XcnFpWFV4OVozdndOamhvZF8xeDZwTzYtWGUwQVBfc1UtTlhPOUF4eWJQbV9FbFVUeng4WkhGSmRyNFhXdkQwVXZobEg1VC1MaEhoOWQ1d2hYeWcyV2pGNHBZVkxIYzNQXzBXejU3bXBEYU8wTFVDNWszejhCemdjZHVtV0JXdkwyVEl3eE81TzVkeF9YWkZOZkZZN25tMFllaldRSkpMbmlxd2tDbnE4eDVRNzFfOXZ4VGY1M095Yzk0aTU0T1pqZThYSFFJakFBdXVpbWdUY2dYd2dBS0FzSVRsa3I1bXJ0RlRITG1wWWg4YzhoZzRwWFM1UEZ2ZnFpY3l2aFpQMjUzY2N2WFJ3?oc=5",
@@ -274,18 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORDh5MF9ZRWM2azQ2VmZQT3JGMnQySklhTW5Hdl9lUUhUN2Q0dG12WG5iT0RaM19LdlZyc3dHNXU4SzVjRGxtanZEeEM5V0doWWFSRGNyYUJmY0N2UjhCNXR2aVVDYlQwdlcwWk1UekZ6aTdhbGRnMXNIbHEwcWZDaDVNRDZmVW9kbm5vWjJ6SVdYVnRPMTZfRzVEZTgtMFQtNV9iRHlXa2lKdG91R3NmNlBtUlNjaWREeDdiUmN3?oc=5",
      "fecha": "2025-10-11T07:00:00Z",
      "medio": "La Tercera"
-    },
-    {
-     "titulo": "¿Dónde? Temporada de cerezas en Chile abrirá más de 600 mil empleos: Revisa los perfiles más demandados",
-     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzFoNENxaW5GNTFLeHJONVp4aDJpOElXczYyb0lZSGs2NkE2Z0w5SllSOFAwMzdxcDVEeGJFQm1yVTBsN2h6TzdKUDR4akxzUWc2QlpjMzczTE82T1ZFSExKV3FIWXE4a29GRWl3Z1BZRWgzN3NCdkZuMTNaYkQzSzVqM2k1U295OHZrWFh2RzVtbGdNUGxaOFMyTERCalluRUJpRXVIQjU5Y0xneEJuTA?oc=5",
-     "fecha": "2025-09-30T07:00:00Z",
-     "medio": "Canal 13"
-    },
-    {
-     "titulo": "Una propuesta para formalizar la situación migratoria de los trabajadores agrícolas agita la campaña presidencial en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRVU1VW1rQnVwd3J0MVpJTUZpYTBWZ1o1SnNyR2tPQldSYzhzLXkzalNIS3pSVDZEc216S3pVRHVvUnMtZlZrYjhEUndTS3AxUk95RDlhWDdoTHlyZG9ZczBMWjYtdENzLVZUOVZiX1Nfc1NvZ183Y3d3VGs0TThsZTdlWjhfM1UxSXBqenZibnF4S3BxbGk2aVhxeE4tclRlN1VUdGhuMzBuN1BKT2xJQ3VIb1VVdFAxMG55MnlQeFhBUzJaSGhPVlhWZ0ZVbW9sZEN2ekY4NEZfbHRqNmU4anI2Y2NDRUNndkhLVmVaTmhTcElFYXfSAYoCQVVfeXFMUG1kZUxDOXNRc0F3dmk1UXdHdlVqdUZDUXhNcmptMjhVN1JuenNuT1JaTWJkRFVpWWdaOUdCOEpOQUIxZEV4b0dWS1kydEszdjQtWmVFaWdfZGJ1U1BicHMwaWRXQ3ZXNklFT0QwOVZpbEctMUlOdDh0N3pXSXZWY2FJUDRhVGtYX0RDUGNUUm1ZaDJuU2dYSkNDUDJJQ3Rxa1hjMGl1SDZwb0RQZEJkRWtOQ01wS1lIcWlldHhCTjVmeC12VjlXUnptMUFmd19QdEo2S2VoTExTZUFJTTVvM2JoYnVDaThQWG9FQ080bXA1dEFLaUhoMWdJUUtSdzFtMUJkWGVPZ1RtNmc?oc=5",
-     "fecha": "2025-09-25T07:00:00Z",
-     "medio": "EL PAÍS"
     }
    ]
   },
