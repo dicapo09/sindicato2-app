@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T08:54:26Z",
+ "actualizado": "2026-11-26T19:48:56Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -36,6 +36,12 @@
      "medio": "Diario Regional Aysén"
     },
     {
+     "titulo": "Contaminación en Alto Mañihuales: SMA anuncia formulación de cargos contra Minera Pacífico del Sur",
+     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVEdoOWdGbloxVXI5RWpSM2txZTNlZmpNeFU5MzI4bEIxQW5sRXBvSXExd1FGSndUZXJGOGMwXy00VHhpXzM0TEhFcmY5UkdLb1o5TjVWQVhOMjVXZW16RUFZNmJfNXRNR0JlbmJBeEd1WWFZMC1zaGNHWXhhYUU4aXc5dzlZRGs0UHhKZEI4N3ViTUY3bEoxUW1tTVgtbkhjMDZ5NGFVckZ4dE0wYzI4RW9QX2Y0aWx5ZVlldQ?oc=5",
+     "fecha": "2025-07-17T07:00:00Z",
+     "medio": "Fundación Terram"
+    },
+    {
      "titulo": "Informe deja en evidencia incumplimientos normativos y administrativos de minera en Aysén",
      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0phM0diTjdxVEFRQXBQZFBGZl9HZjE0TllDQWlrOURKWFhRYjBEdlBaTnJXa081azJzdm1YSy1IMVhhY3RBQ0lfZnJKVkFFUi1FNjM0LTVIekpja0xJeXd3d1UzaFUxcEs5LWE5cHdZOFpOX19pSEtScUhXa2xaSUhPd0Roa3h5Tmg0N2lTZUhaUm9TUUtRc3NyQ1FxNEdDY203NE80SUM4RzlLaWxsaF93?oc=5",
      "fecha": "2025-05-12T07:00:00Z",
@@ -52,12 +58,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONkdGeXU4X0NiaEV0Vm1TbGRrRG1fOWx3TmtQeWkxcVlUQzB4RWtybnlUc1RKbVhHUmR3STc5V0E5Q3FGN0QtT2tOdUZjQkZxSGZyLVBNZ19jN3prU2IzOUR6c3N3NDY3N1EwX1JCbnE2bXQ4SkFjbXpBbE9xUUJWbTlKYnlLN3gySVp0aWRoY2xGTWwzVVQ3NDZ3TWlVRTJCa21HMjNMek9ZdXFaZ2Nyc3FFSkw3ZnNua3NTanVDRW14eENTdXNaVjYyT2hjcWhUd2ZrX3VxNUN5cWJkVlhTSnFtVzViZDBIbDJv?oc=5",
      "fecha": "2023-12-15T08:00:00Z",
      "medio": "Superintendencia Del Medio Ambiente"
-    },
-    {
-     "titulo": "Sociedad Minera Pacífico del Sur busca posicionarse en nuevos mercados",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYjBNSTFEcXN4ak1RSmptUk1ZSVJoRWtIYm1oek90eFdueXR4bGVldEhReVNlRlZ2TzVRSF9BaVNFQXloWXpNb1ZtV19hWEgtQzR3VElzXzRuWTg0SEU5TlJ0NEc0VG00WDlUNktqaEtsT2pQZzVPLUMtRHdXV1dLZFl0dy1MYS1pdGVWNVdfSVpBb2xQNHlNOEd2bUdWZXJMN1JYNlNJM2JzQkdHdVpGcXJRbGFZTk9DeEhqUzVfeDhVSUFvb3d1MUdXVWhNSGoxVFNZ?oc=5",
-     "fecha": "2021-07-28T07:00:00Z",
-     "medio": "Diario Regional Aysén"
     }
    ]
   },
@@ -66,92 +66,92 @@
    "nombre": "Portal Minero",
    "items": [
     {
+     "titulo": "Chilquinta reúne a autoridades y expertos en seminario regional donde lanza su Plan de Altas Temperaturas 2026-2027",
+     "enlace": "https://www.portalminero.com/chilquinta-reune-a-autoridades-y-expertos-en-seminario-regional-donde-lanza-su-plan-de-altas-temperaturas-2026-2027",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Pivotes advierte que el 43% de los montos de grandes proyectos  de inversión termina judicializado",
+     "enlace": "https://www.portalminero.com/pivotes-advierte-que-el-43-de-los-montos-de-grandes-proyectos-de-inversion-termina-judicializado",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Molymet eleva 47% su utilidad a septiembre y supera los US$ 2.300 millones en ingresos",
+     "enlace": "https://www.portalminero.com/molymet-eleva-47-su-utilidad-a-septiembre-y-supera-los-us-2300-millones-en-ingresos",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Tecnología de Enaex permite anticipar desviaciones y riesgos en procesos de voladura minera",
+     "enlace": "https://www.portalminero.com/tecnologia-de-enaex-permite-anticipar-desviaciones-y-riesgos-en-procesos-de-voladura-minera",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Sernageomin aborda desafíos de prevención de riesgos con trabajadores de SQM",
+     "enlace": "https://www.portalminero.com/sernageomin-aborda-desafios-de-prevencion-de-riesgos-con-trabajadores-de-sqm",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Colbún celebró 40 años con festival para la comunidad y apertura de nuevo centro de visitantes",
+     "enlace": "https://www.portalminero.com/colbun-celebro-40-anos-con-festival-para-la-comunidad-y-apertura-de-nuevo-centro-de-visitantes",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Marimaca Copper obtiene respaldo financiero por US$450 millones para avanzar hacia la construcción de proyecto minero",
+     "enlace": "https://www.portalminero.com/marimaca-copper-obtiene-respaldo-financiero-por-us450-millones-para-avanzar-hacia-la-construccion-de-proyecto-minero",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Seguridad minera: escuchar para prevenir y proteger vidas",
+     "enlace": "https://www.portalminero.com/seguridad-minera-escuchar-para-prevenir-y-proteger-vidas",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Women in Energy WEC Chile suma más de 420 embajadoras tras la graduación de su octava generación",
+     "enlace": "https://www.portalminero.com/women-in-energy-wec-chile-suma-mas-de-420-embajadoras-tras-la-graduacion-de-su-octava-generacion",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "SEA: proyectos con aprobación ambiental suman más de US$390 millones en Arica y Parinacota durante 2026",
+     "enlace": "https://www.portalminero.com/sea-proyectos-con-aprobacion-ambiental-suman-mas-de-us390-millones-en-arica-y-parinacota-durante-2026",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Suelo fiscal e infraestructura: claves para el desarrollo del Corredor Bioceánico Capricornio",
+     "enlace": "https://www.portalminero.com/suelo-fiscal-e-infraestructura-claves-para-el-desarrollo-del-corredor-bioceanico-capricornio",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Estudiantes continúan visitando Andina para conocer la minería desde dentro",
+     "enlace": "https://www.portalminero.com/estudiantes-continuan-visitando-andina-para-conocer-la-mineria-desde-dentro",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Copec RallyMobil regresa a Atacama con una etapa en las operaciones de Lundin Mining Candelaria",
+     "enlace": "https://www.portalminero.com/copec-rallymobil-regresa-a-atacama-con-una-etapa-en-las-operaciones-de-lundin-mining-candelaria",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
+     "titulo": "Statkraft implementa proyecto de generación solar para APR de Litueche",
+     "enlace": "https://www.portalminero.com/statkraft-implementa-proyecto-de-generacion-solar-para-apr-de-litueche",
+     "fecha": "2026-11-26T00:00:00Z",
+     "medio": "Portal Minero"
+    },
+    {
      "titulo": "Schwager multiplicó por más de 8 veces sus ingresos en once años y tiene contratos mineros comprometidos hasta 2032",
      "enlace": "https://www.portalminero.com/schwager-multiplico-por-mas-de-8-veces-sus-ingresos-en-once-anos-y-tiene-contratos-mineros-comprometidos-hasta-2032",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Codelco Operaciones Norte aborda sus desafíos en sustentabilidad y transición hídrica",
-     "enlace": "https://www.portalminero.com/codelco-operaciones-norte-aborda-sus-desafios-en-sustentabilidad-y-transicion-hidrica",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Aduanas y Cochilco refuerzan coordinación técnica para fiscalizar exportaciones mineras",
-     "enlace": "https://www.portalminero.com/aduanas-y-cochilco-refuerzan-coordinacion-tecnica-para-fiscalizar-exportaciones-mineras",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "AIE celebra sus 30 años poniendo el foco en la inteligencia artificial y el futuro tecnológico de Chile",
-     "enlace": "https://www.portalminero.com/aie-celebra-sus-30-anos-poniendo-el-foco-en-la-inteligencia-artificial-y-el-futuro-tecnologico-de-chile",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Macrozona Centro necesitará 7.625 nuevos talentos para la gran minería al 2034, impulsados principalmente por el recambio generacional",
-     "enlace": "https://www.portalminero.com/macrozona-centro-necesitara-7625-nuevos-talentos-para-la-gran-mineria-al-2034-impulsados-principalmente-por-el-recambio-generacional",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Ingeniería de Minería UC realizó programa internacional de formación minera para profesionales de Sandvik",
-     "enlace": "https://www.portalminero.com/ingenieria-de-mineria-uc-realizo-programa-internacional-de-formacion-minera-para-profesionales-de-sandvik",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Minería registra un alza de 3,7% en los precios de productor durante octubre",
-     "enlace": "https://www.portalminero.com/mineria-registra-un-alza-de-37-en-los-precios-de-productor-durante-octubre",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Lader Energy proyecta parque fotovoltaico de US$ 200 millones en la Región de Coquimbo",
-     "enlace": "https://www.portalminero.com/lader-energy-proyecta-parque-fotovoltaico-de-us-200-millones-en-la-region-de-coquimbo",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Axinntus cumple 15 años con tres nuevos contratos en la gran minería",
-     "enlace": "https://www.portalminero.com/axinntus-cumple-15-anos-con-tres-nuevos-contratos-en-la-gran-mineria",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Albemarle fortalece el desarrollo de talento local con nueva edición de su Programa de Aprendices",
-     "enlace": "https://www.portalminero.com/albemarle-fortalece-el-desarrollo-de-talento-local-con-nueva-edicion-de-su-programa-de-aprendices",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Enap licita obras de ingeniería y construcción de sistemas de protección catódica",
-     "enlace": "https://www.portalminero.com/enap-licita-obras-de-ingenieria-y-construccion-de-sistemas-de-proteccion-catodica",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Geotecnia: la base invisible de los grandes proyectos",
-     "enlace": "https://www.portalminero.com/geotecnia-la-base-invisible-de-los-grandes-proyectos",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Ausenco anuncia dos nombramientos en su equipo de Minerales y Metales en Chile",
-     "enlace": "https://www.portalminero.com/ausenco-anuncia-dos-nombramientos-en-su-equipo-de-minerales-y-metales-en-chile",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "Grupo CAP conmemora sus 80 años con publicación sobre el patrimonio histórico e industrial de Huachipato",
-     "enlace": "https://www.portalminero.com/grupo-cap-conmemora-sus-80-anos-con-publicacion-sobre-el-patrimonio-historico-e-industrial-de-huachipato",
-     "fecha": "2026-11-25T00:00:00Z",
-     "medio": "Portal Minero"
-    },
-    {
-     "titulo": "100 Minds: la startup chilena que lleva la IA a la gestión de riesgos críticos en Codelco",
-     "enlace": "https://www.portalminero.com/100-minds-la-startup-chilena-que-lleva-la-ia-a-la-gestion-de-riesgos-criticos-en-codelco",
      "fecha": "2026-11-25T00:00:00Z",
      "medio": "Portal Minero"
     }
@@ -162,63 +162,63 @@
    "nombre": "Minería Chilena",
    "items": [
     {
-     "titulo": "75° Convención Anual: Competitividad, innovación y talento: la mirada de Lundin Mining",
-     "enlace": "https://www.mch.cl/75-convencion-anual-competitividad-innovacion-y-talento-la-mirada-de-lundin-mining/",
-     "fecha": "2026-11-25T17:00:05Z",
+     "titulo": "Marimaca concreta un nuevo hito financiero para el desarrollo de su proyecto de cobre en Antofagasta",
+     "enlace": "https://www.mch.cl/marimaca-concreta-un-nuevo-hito-financiero-para-el-desarrollo-de-su-proyecto-de-cobre-en-antofagasta/",
+     "fecha": "2026-11-26T15:37:35Z",
      "medio": "Minería Chilena"
     },
     {
-     "titulo": "Tribunal Ambiental entrega veredicto ante reclamación de junta de vecinos contra proyecto minero",
-     "enlace": "https://www.mch.cl/tribunal-ambiental-entrega-veredicto-ante-reclamacion-de-junta-de-vecinos-contra-proyecto-minero/",
-     "fecha": "2026-11-25T14:25:05Z",
+     "titulo": "Corte de Santiago ratifica despido indebido de trabajador de empresa minera",
+     "enlace": "https://www.mch.cl/corte-de-santiago-ratifica-despido-indebido-de-trabajador-de-empresa-minera/",
+     "fecha": "2026-11-26T15:08:00Z",
      "medio": "Minería Chilena"
     },
     {
-     "titulo": "Lundin Mining dispone de vacantes para técnicos y profesionales",
-     "enlace": "https://www.mch.cl/lundin-mining-dispone-de-vacantes-para-tecnicos-y-profesionales/",
-     "fecha": "2026-11-25T13:19:24Z",
+     "titulo": "Ausenco anuncia cambios en su equipo de Minerales y Metales en Chile",
+     "enlace": "https://www.mch.cl/ausenco-anuncia-cambios-en-su-equipo-de-minerales-y-metales-en-chile/",
+     "fecha": "2026-11-26T14:45:00Z",
      "medio": "Minería Chilena"
     },
     {
-     "titulo": "Albemarle da la bienvenida a nueva generación de aprendices",
-     "enlace": "https://www.mch.cl/albemarle-da-la-bienvenida-a-nueva-generacion-de-aprendices/",
-     "fecha": "2026-11-25T12:26:00Z",
+     "titulo": "Simulacro de accidente minero en Putaendo busca reforzar protocolos de emergencia",
+     "enlace": "https://www.mch.cl/simulacro-de-accidente-minero-en-putaendo-busca-reforzar-protocolos-de-emergencia/",
+     "fecha": "2026-11-26T14:40:00Z",
      "medio": "Minería Chilena"
     },
     {
-     "titulo": "Codelco: Delegación internacional conoce avances en operación remota de El Teniente",
-     "enlace": "https://www.mch.cl/codelco-delegacion-internacional-conoce-avances-en-operacion-remota-de-el-teniente/",
-     "fecha": "2026-11-25T12:21:00Z",
+     "titulo": "Sernageomin refuerza campaña de seguridad con trabajadores de SQM en Pampa Blanca",
+     "enlace": "https://www.mch.cl/sernageomin-refuerza-campana-de-seguridad-con-trabajadores-de-sqm-en-pampa-blanca/",
+     "fecha": "2026-11-26T13:50:00Z",
      "medio": "Minería Chilena"
     },
     {
-     "titulo": "Codelco Andina abre sus puertas a estudiantes técnicos para acercarlos al mundo minero",
-     "enlace": "https://www.mch.cl/codelco-andina-abre-sus-puertas-a-estudiantes-tecnicos-para-acercarlos-al-mundo-minero/",
-     "fecha": "2026-11-25T12:11:00Z",
+     "titulo": "AMTC y Codelco fortalecen colaboración científica para enfrentar los desafíos de la minería profunda",
+     "enlace": "https://www.mch.cl/amtc-y-codelco-fortalecen-colaboracion-cientifica-para-enfrentar-los-desafios-de-la-mineria-profunda/",
+     "fecha": "2026-11-26T13:23:00Z",
      "medio": "Minería Chilena"
     },
     {
-     "titulo": "Código Futuro superó los 11 mil estudiantes certificados en habilidades digitales",
-     "enlace": "https://www.mch.cl/codigo-futuro-supero-los-11-mil-estudiantes-certificados-en-habilidades-digitales/",
-     "fecha": "2026-11-25T12:10:00Z",
+     "titulo": "Schwager multiplica ingresos por más de ocho veces  en 11 años y mantiene contratos mineros hasta 2032",
+     "enlace": "https://www.mch.cl/schwager-multiplica-ingresos-por-mas-de-ocho-veces-en-11-anos-y-mantiene-contratos-mineros-hasta-2032/",
+     "fecha": "2026-11-26T12:17:00Z",
      "medio": "Minería Chilena"
     },
     {
-     "titulo": "Grupo CAP conmemora 80 años de historia",
-     "enlace": "https://www.mch.cl/grupo-cap-conmemora-80-anos-de-historia/",
-     "fecha": "2026-11-25T12:07:00Z",
+     "titulo": "Minera El Abra y comunidades realizan monitoreo ambiental en el Salar de Ascotán",
+     "enlace": "https://www.mch.cl/minera-el-abra-y-comunidades-realizan-monitoreo-ambiental-en-el-salar-de-ascotan/",
+     "fecha": "2026-11-26T12:05:00Z",
      "medio": "Minería Chilena"
     },
     {
-     "titulo": "AMTC desarrolla laboratorio virtual para optimizar procesos de lixiviación de cobre",
-     "enlace": "https://www.mch.cl/amtc-desarrolla-laboratorio-virtual-para-optimizar-procesos-de-lixiviacion-de-cobre/",
-     "fecha": "2026-11-25T12:04:00Z",
+     "titulo": "Tarapacá avanza para incorporar IA en minería, energía y logística",
+     "enlace": "https://www.mch.cl/tarapaca-avanza-para-incorporar-ia-en-mineria-energia-y-logistica/",
+     "fecha": "2026-11-26T12:02:00Z",
      "medio": "Minería Chilena"
     },
     {
-     "titulo": "Minera Los Pelambres conecta a proveedores del Choapa con nuevas oportunidades en otras operaciones mineras",
-     "enlace": "https://www.mch.cl/minera-los-pelambres-conecta-a-proveedores-del-choapa-con-nuevas-oportunidades-en-otras-operaciones-mineras/",
-     "fecha": "2026-11-25T12:01:00Z",
+     "titulo": "Aguas Pacífico inaugura la primera planta desalinizadora multipropósito de la zona central de Chile",
+     "enlace": "https://www.mch.cl/aguas-pacifico-inaugura-la-primera-planta-desalinizadora-multiproposito-de-la-zona-central-de-chile/",
+     "fecha": "2026-11-26T00:20:00Z",
      "medio": "Minería Chilena"
     }
    ]
@@ -282,12 +282,6 @@
      "medio": "Reporte Minero"
     },
     {
-     "titulo": "Minería impulsa reconversión de oficinas administrativas en Santiago",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmp2c0QwbDhHdk1jMDZ3bzBlLXpsck53ZTllUDd0dkxXYmdXTnV4STBxWmVDLTVsaVBSNC1oSlB5UEtnZklvdmxLZnRVNk9nUDUzVkVOcDRtTEJPTGQtVlB3eXA5T3RfRElMZmsyUEdOLWNJOEt3bDZwMmdhaGNJNlFpUzZVTjByWmVVOE9lc3Z1QWhzZmRCR1YzZGY4VmpmeS1DeU9PTThQcFQ0SWhuMWlxLXRkM2M?oc=5",
-     "fecha": "2026-10-27T07:00:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
      "titulo": "Chile consolida liderazgo en minería: Biministro Mas cierra exitosa gira en Londres",
      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3hadXpZY1ZQclZEU1haMFppek51RlU3b2xhaHFPNUowRUhtVW5ZalNGYWlwYTVEWTZpcUFrSHlaWXFlbW5walR6ZlhiUTVCZHN4bXRwM05UQXB6SGdHSzNsZzZ5cnF1MHg1LUEzTjRHZnJBbGFXT2FSeFdPTzd2RC1DTlpjWFNuT3BLSzVtS0tzT2NEdTREWmtvODZvN0ZraGN4Ym1tNlBCamhrdEhtNWROUVhtc2s?oc=5",
      "fecha": "2026-10-21T07:00:00Z",
@@ -316,6 +310,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb1FzdzBGZUpiM245czU0UENaUkZOTXFONkFNVWt1NU9VRFJGendGd2gzQ3BaaDdsdlNobUNVV09Xa0pIYVBydDZTeTZTdloxWEZINnhVY0NZTWdjczZfdjhFSEpyVmJSVzF3VThXemx4Q21kTXN1MWFqd0dwWjJWa2M0dl9QVFRHd3NvRTNBWHl1UXV6TE9rTms4VndfZVlmTGtoYkZuNGd2QQ?oc=5",
      "fecha": "2026-10-02T07:00:00Z",
      "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "Ministerio de Energía inicia reforma de redes eléctricas con proceso participativo",
+     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzFpTXlFWk8zX0xKUC1vcTVLbjlnME1kX19mN2s4bjZlWWZIRXhYdUFVbXlxU0dia0t5Vlp6ejRRak1saGlnbW1nMVRhTU82N05ZbE9TemxDeTJVLTd2MHpyYUVPdUljbWprSHlYdnppYnZ5dU1VNV9PRGxCc0hLVno3LWRNdTBCZFE3aE51OE5IaEFWeTNhSk8tdG4wVXZKRzFGSWViRjNyTE92S0p3SA?oc=5",
+     "fecha": "2026-09-22T07:00:00Z",
+     "medio": "Reporte Minero"
     }
    ]
   },
@@ -323,6 +323,12 @@
    "clave": "aysen",
    "nombre": "Minería en Aysén",
    "items": [
+    {
+     "titulo": "[Interferencia] A espaldas de la comunidad avanzan dos proyectos mineros en la comuna de Lago Verde",
+     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHlpNnk0cmJEcERMVlpveGdlSzFnaXZUTnJkMGRxSmE0YzcxTGdLOVFkaVB4RnE1UUx5RHZTYnk5TkNESy1INGNpSGRNTVAzYnRhNnZUdDJJNmNnNTVHemxJQ1JKTWNlLTlwcldYQjc4Y2ZBblVxVW43MVpNeVFNSzFTWGNFY2lQMk9pTmYwaG0xYTFROEZhZmJkVHhrMm5MSWs0WkV2VkpLUjdVOEdfNFNYZnpNVVRFdjEtUA?oc=5",
+     "fecha": "2026-11-26T13:46:48Z",
+     "medio": "Fundación Terram"
+    },
     {
      "titulo": "Estudiantes ayseninos se certifican como monitores de seguridad minera",
      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGJKUEhsVkZ2N0VzTzQzai12aWNrZ3ZPaHJRVjlEalJJNGowZGdRVnIzeml2bDR3LU9rSmo2aWU4WnNiVGduTG9kOWFRUVJGTFZZODh3cUdqbzNsNTJLaDVQbTBkLWk5a2FGMmJGTDRaUTV1QzAxTHJwY2RBR2xkUXhiSG1jRmd0MHo5SDdzSl9VYTNoVnNsUkZvUlNGbFNNVmdaWkU5elBGZ2RlMUpQRHNTdWdRcjRabzNJSzRMem4tZllYZmItVzE2WUg?oc=5",
@@ -332,7 +338,7 @@
     {
      "titulo": "[El Desconcierto] Avanza interés por minería de oro detrás del Parque Nacional Queulat, ícono turístico en la Patagonia",
      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVGg0WkRSOVo1dG5rcGNGZC1MOENBb0NjcVlZek9Tek5mdGdJSFpJUWtGUmFqZkx0M2VwcTNRZUlQSnVmbU12UFlrUUJ3M0g4YUota1VQV1hRTmxNSUxBa2JyNThjb1Via3JKS3ktZUlrVUwtNjJ3d3dubVNmT05xVkxRN1Q5R1ZITzhzaENPazZiSUROSnV2ZmxDWTF0TlpvakhvVS1GcEpEQXU4Q05EU1MzMFJvRFRuRktpYjg0a3pYNzJaSkw4V0JyTjVqeU1SbExmQ2dn?oc=5",
-     "fecha": "2026-11-17T13:51:47Z",
+     "fecha": "2026-11-17T08:00:00Z",
      "medio": "Fundación Terram"
     },
     {
@@ -366,14 +372,14 @@
      "medio": "Radio Las Nieves"
     },
     {
-     "titulo": "Más de 200 estudiantes de Aysén se inscribieron en el primer Curso de Monitor de Seguridad Minera de la región",
-     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaWtDMFptWW5jNklyeW9ZUm1maVkzbkVjMVRTbWtiMml5blVudUtTNUtfSElJbUZwTmxGMFA5VUlKNm5CX3A4dl9jTE1mQ25yU0FNZ2xWVlVORTI0a0FRbmlxMWI3OEhBSWNWZ1UyQmEteFZxazlPd05JOW1VTF9GeHhjYUlaVHAyMUxodGZxVjBCdm9QS3BZRU1pM0xLLXd1Q0xPNnoxYW1OQlRQSnd6b3ktOEljZzFCTWlGaXJoMGZzeFR4ZVZ2MFoyam0tbVliY0NZaWEzMm42blQy?oc=5",
-     "fecha": "2026-10-15T07:00:00Z",
-     "medio": "Canal Sur Patagonia"
-    },
-    {
      "titulo": "Seguridad minera: un compromiso que se construye cada día Por José Luis Osorio, seremi de Minería de la Región de Aysén",
      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUEQxNG9XOTY0M3M1UFdzVndhNkVvY0k1ODYxZWthQ3FWTW4tWTRCNjZFZUNGTVF4N1pWblVXUXdyS3RZbXpqYlZDZmRLZlhteE5QMVVzVjAyelBSOFZ6cHZRMHVCYzBaaGR2RUo4dy1iSlRQMjRpUmp1dndzR0RLQnVrSnEzQV83UWNVRU1nQXBIOUdIN0l3bHVjWjNGVFRLSmE3Snc0NTdISnNCaWROVUxyYk9NWnpNMWtmbzBOanFac081TUNYZUtYS3VuVHl4OEJLajN4ckN5MEt3amtNb244ZUtyaXNR0gHwAUFVX3lxTFA4dWZ1c0lwOXJib2JJXzNPQ1VYQkRNS1dqeGtFckRFNGM2TUNSVFE5M0NnQjU5d1JIWlE5Z2lLUlVLemhUUUE1eWdVeWRIOHZFTjc5RHpFU1c3TDNyc3Fzc1dxQk5QeEt4MlRoalBZZnJ0WVdQRFNRcEZGSzI3VzZWZUh3QWp0Vmp0bWtLc2pkS0lLZnp4NEhSRXE3QUZ3OTU2RTF5R1dMZnV3ZjlLWGw1Y09temhyY09XbkMyWGZsNzNvUW1QeGFLcUEyM2NNM2l4T2RHNFRqU2ppamhnbFZhRFRqdmh4NC1NMWpwM1BteQ?oc=5",
+     "fecha": "2026-10-15T07:00:00Z",
+     "medio": "Radio Las Nieves"
+    },
+    {
+     "titulo": "Más de 200 estudiantes de Aysén se inscribieron en el primer Curso de Monitor de Seguridad Minera de la región",
+     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX0lob0xDUmlJZm1FcnFFS1kzb2xNeEF6ZVlDWUtsZ2ViNllSTHdsQXdDNzN0ZjFMbG81NC0tbjVZZ3Y5SGNKYUZGY0pzNnE4N1BtZWxySjBNRTRobWF4NE1vcDRhTE9pdk84Vm9VcnVIYVUzMVdPSENoZUlkVF9tcmxfU1k5UUh6ZmRnWTBxVXVoMm13djJHWTNqakRIek1VZ0FTYlVXdWlOT2hwMjh4NWx5amgtTGJ1SUU0X3Y4Uzk0YXd6dkdRZlY4TXU0V2ppbGJ1TlpJZkVwVjhDb0NN0gHnAUFVX3lxTFB4QUtreXZXNUpJd3Y2YXhQUG1zc21nM3NVVVY3SUkyamE2M3ZHQi1lLTNhNGFkMGhyV29XdEczaDVwSTVEVzZDOGYzS1NtMEp4QkZCLUh2bnhudkd6d3ZzelVnSDFzeUJ5SXc0N0lUQ3hNQU5nUS1TZjhXazFYMUp1LU1oSVNuY2ZUOXJpbTR0UkQtaHZyWnFsZmo2c1FuZVFJcW0tR1EtR3NEMVhsRUVFRE8yZnRQdXNPMnowWGdJdjNtS1NfTkdEa0F3TkR2YWtzbTFBWmFHMWFVSGY1RDJqUU8xbzlSNA?oc=5",
      "fecha": "2026-10-15T07:00:00Z",
      "medio": "Radio Las Nieves"
     },
@@ -406,12 +412,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZlZjM1BqT3RwZDRIVW0ySW4xSnllaWZ4emhhZTVFU01PUkFmS3FlbFhveUVWVUY2ZHN3QkNqZXZ6cnE3VTVQWjBobXFabzh0dS10bXp6VnA0Wl9kUGpJczI2VG1LOE5HZDZOcElPVnVUYWRVQ2N1M25xeHRkTXhzWS10S0FNbHNmT0dvamxuenRDSlp3X2hielpyc09LODQ0WUEwSk5nRHRCMkw0QVMtYmtxZHNkY3A2US1KSi1tQW93VVN0UXE0NmY4c0hOa0hBSHVoSjBRbXZUcHVabnAxa2JQMmFiNlhBSkFBTW5Jci0?oc=5",
      "fecha": "2026-06-30T07:00:00Z",
      "medio": "El Divisadero"
-    },
-    {
-     "titulo": "Justicia obliga a Minera Pacífico del Sur a pagar millonaria deuda por plan de cierre en Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVG9nOEJ5Sk1CbUVIYjhyZWhvS3hPQlNUdDBGdGxVY1g1aXNVdDJpd1M1VlBJVExVcWQxWUNLR3hoVUVGejUyTGZDYmU4cU5JcklXRHlPSGpEazBjaktRU2V4SXpHcjFuOHA4cmwzaFFpdTFKa2JzYkU1X19ES1F1VVpETUJFSFlkRWFFZmJtRWJ1MThwUHZjT0x6NkFfQkhxNHp0RWx6TDJJSkRFZmFjaVNkbGRzTUhEWjZ1Q3pSWmdibzhnNElaNXBSbmxrZVNkREdtNE96SUtWNTBacnhjUlFSNGNvNGtfeTRVbm8yZTFxRWpKbVE?oc=5",
-     "fecha": "2026-05-14T07:00:00Z",
-     "medio": "Diario Regional Aysén"
     }
    ]
   },
@@ -426,22 +426,28 @@
      "medio": "Minería & Desarrollo"
     },
     {
-     "titulo": "Mediación obligatoria de Sindicatos de Minera Centinela termina sin acuerdo y se hace efectiva la huelga legal",
-     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLXhOUHQzLUtvVzZ1clo1RTZaZGVqN3FpVlFkQ1MtazA2eFNOeWFwSklnVnZaZlpqck43MG9jcjRXUDNqd19wczBnQVN5N0htNER0QWNBa21KaG5JQ0t4ampFNlBaOHE2b3BDODNhQm5RcmRWN1Z1QU93d0NQWERnbzYxQXByUEJzRUNNSEZvZmJwaTBqOW1CTEZXUTFqYTNmbXBiV01UZFZQZ0dYVlhMemhyV20tYk8taDQ4ZTJ2NURGOHZYUlFqM0hB0gHSAUFVX3lxTE16MkJXVWpLNkN4ZWxfNWk1OGt1eXJxbTYzNV9IU0ZRV2l0czhtUDFobGJoWE1qZVJXZWVPam1JTTMyeVk2LXBiOEZDb1NsZzRXZGYtMHJLM1hMQTdlZWR4YW5HVktqVUNZM3Y1UllGeWhVTHUwdkVmOE9FTTg3TDlDOFgyaVl1R242c0tSakRVRHR2ZXA1aW9ZUHhFWC1YU3NSeENCRWtMSDRJVWR5TkJBZ1pwUVJmaE50QjAxR3N2WUFveEE0cVFYREZEbW1oZ3FNZw?oc=5",
-     "fecha": "2026-10-08T07:00:00Z",
-     "medio": "laizquierdadiario.cl"
-    },
-    {
-     "titulo": "Chile: sindicatos de Minera Centinela inician huelga tras negociación colectiva",
-     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlBUaWdCbFBqRXlUZE1fak54MU0yQ2xsXzFfSDdMMlY0Tm9QMkliYmVrMXNzcUdXRk5xVUF4YmhGdy00TnkzNVYyUXVsR3B3TXZoMWFVeTlxbnBiLUJXTGZXM3R0VGRoelhQQ2NHR2EybGc2cm9hbXJlYm0wM1hOYzhPVjZQMzFZbkk2M1hmck9pVU9GRHh2Nk1KZTllZw?oc=5",
-     "fecha": "2026-10-07T07:00:00Z",
-     "medio": "Rumbo Minero"
+     "titulo": "Sindicato de Trabajadores de Aramark aprueba la huelga con amplio respaldo",
+     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWFRyV1pweDJPUkJ0X3dQSmlHb1lZbVlOcGlXMlB3Tk1ldWgxRWU3YWJJcldOdTNWM1M5TzhaTzVaYXByekNLZDV6TXQ3ZzRfRk5NQWZNc05mSlNwdlhwYzlFM0VGaUxjczFtVWRDTy00bjlnX1BmVEE5b1BydnRjdmljNkZfa1E2QUJoZEdKMTZuMGl3SkViUUpfZzNnWlg4YWlDM2M1LWxYZVFJWFAxYnhiY2kwbjZyeTlVUGdTQkVyaTd1WWQ5WWp2U09XUQ?oc=5",
+     "fecha": "2026-09-02T07:00:00Z",
+     "medio": "Confederación de Trabajadores del Cobre"
     },
     {
      "titulo": "Nuevo presidente en el mayor sindicato minero de Chile: tras 12 años, Sebastián Liberona derrota a histórico líder de Escondida",
      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkEwRmtUVVNXR0Z2ZVlwU3NILTQtaGJ1X05rbjdZWS1Hb1JqNFlFSVg3eGhaOGV6NnRoOUhiNEUxUnFFRUNObDQ5WmRJT1U1Z25uOGxxVHk1T0FaODYtNlBKTUFKeWQ2bEpxLTNuZlpndm9ualZ5aG4zQkhCMEQxQ0NOM0JuMFlyTWtnNlJuVy1KVzI3bDluMmx3d1cwVkFob1dveA?oc=5",
      "fecha": "2025-10-03T07:00:00Z",
      "medio": "Diario Financiero"
+    },
+    {
+     "titulo": "CAS de BHP alcanza acuerdo con sindicato de trabajadores que manejan a distancia las mineras Escondida y Spence",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFBsTlZSeFhDelRWcEdNS0w2ZUdieDBOUUdWS0VuV0pqdFdEX2wxRTE3azVqMzV5QmdnZU1UbkJMN0JHWUtZa1hxeVJfY3VWdVdYWUtwQTJsa21jNTVPbk5QNGdrMWZBcVJ4bjJ4NG9yN0dJY3JZYk5JaG5XSVg3b3NCN2U1U0p1QTNQVFVqRnRkbjZtckF2TVppUE5hQ1hETHVkT2U0aUk?oc=5",
+     "fecha": "2025-08-12T07:00:00Z",
+     "medio": "Diario Financiero"
+    },
+    {
+     "titulo": "El sindicato de trabajadores faeneros que se convirtió en “socio” de Dominga",
+     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkJzZzFhMTkxWVhvR2xsUTdCZEtCeTdMakxBN0Jiek9BY184OUhQVFVEcldEalFEOHlESTNaMXRaMG0ySkVBclhBRzlzSm1KcTFnMjEzLW5MVnlWaFFjb2RaZEl5OEhtdHFrLThsWGZnNEZKa096cnBIX2pMYl9HLXV6NThISkptTy1sS0dDNW1MT3BCNTN4aUVLejNUeXpwRXV0ejZ5MUxyd3g1QWNKUzZKdVpKNHQ1bFhad1V1SjVTV05fUjk1bWptX2RCUFRyV3BzMUFiREFWd9IB-wFBVV95cUxONkFsenM4NXFiZktWcFBGRGgxVjRLZmNhd0wyR3YzdFRqNVU3TjExMFRxZmZYMXFfRlJMT0J5ekZIR0s2Rk54NF9GYnNBalgwb0I3MXExN2NrSXdKN2l6emVXYkVOYUxjU3poS093THZYVmpfdW1BTmVtWmxrTmE5VXNRY21GNi1WVmx5dHVTMmdXQWhOYzFGM0JvQ2Jad1Ftbzh2VHBHUlRFUGU2aXd5QXloYnNrRVRhV0ZCaFFya091a3dBMkY4aGdSaW1ZNnE3VExWd3pyNTA4N0ZVTlRqTmNVdzBuMjk1S214b0ZtZUZGLTBmczZabWlZQQ?oc=5",
+     "fecha": "2025-02-07T08:00:00Z",
+     "medio": "La Tercera"
     },
     {
      "titulo": "MINERA CERRO NEGRO DE CABILDO CERRO NEGOCIACIÓN COLECTIVA CON SINDICATO DE TRABAJADORES Nº2",
@@ -462,16 +468,10 @@
      "medio": "La Izquierda Diario Chile"
     },
     {
-     "titulo": "Sindicato Minera Guanaco denuncia a compañía por no cumplir con las condiciones generales de seguridad y salud",
-     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTWJnUGpBSmxzNmFRY3JlV3hTVnBsUTVzZnAyM2FiZmRpMmptYk9wVmdxZnVMTGV4ajNfWDhGcHJ0MU1Ncll2Sl9jM2ltVEdxajA2dXRuVDF4U1lGekhwTTVDaHlmMy12TnVuVk8xc1djWlY0ckJSbHg5N2VZc25ZX3Y3UXRFOURLb05seWI1a1pvd2N0RnFqYmVPNGtOaV9wTExzNzRJYTUzT1lGXzJvMVFtTlBodVkwSUgzMlVQRW4yVWPSAcsBQVVfeXFMTVdZdndwWEgtUGpqVkNvNWRlUUJmS2pZREZ5djdTU3k2MkNlejZYLVpjdTk0YnI5OGsyMVctM0FwOUhaQkdrZnpzUmFvbWx1VTdVdGVHNzZiZjhrdTQ2OFhNVlhqR3g2SFBoUnRoc0gxay10blFGanBSZGlYbUFJMTZHVWdwMTZPRFVHQzdLS0JONVhkanFDN1IzUV93Y2hQbG5RVmp4UThRbFNwVHl3Sl96YTVJTEl2NzBVTnRYTTloeVN1SkJDdnBvTmM?oc=5",
-     "fecha": "2021-03-05T08:00:00Z",
-     "medio": "La Izquierda Diario Chile"
-    },
-    {
      "titulo": "Sindicato de trabajadores de minera Cerro Bayo tilda de irresponsable a empresa",
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdklBc3dMYnJ6Rl9xSE9OMF9rRGpVMWpiWm1PLW4yUENLdjdDbW9NelVCS09vUHhNY29mWXdfR0tkbzQxbVZGekpJVlB2eXBrWTc2X2VNME5XandKVk9DOUFFdllBRVI5cXRLRE85OEJNQ2xZRElkSDY3V1BoRW1YQ1NEUjduN3BVa1dDMGQzOFFwaEVDTVVybUxwWHhpald5aU1PekQtVV9KN2JnWXBPR1ozRDVwQdIBvgFBVV95cUxQS3dXelZBVTVnVFlKOVh5Q3FhMDFOYVI3bDRfc2tldTdLY3FWVjRySUtrZTVDdzRDYlkxRVJYVlAzOFZydmszT2pROUEwbVFhbGdKR1V0ZUlWZUJnNC1IOGN1aDR5Y1hEcHQ5Rk0yZ19PWkwtUC04aWhIRm5hal9yZ2JPMmh2ZjVSTlB1V2dKQ3R5dUQ4enIwX0w5cG1RQ0JRbkVMYlNIUTZDTzQ3MEx6T3pMT3ZOcFZPeFlGMExR?oc=5",
      "fecha": "2017-06-29T07:00:00Z",
-     "medio": "laizquierdadiario.cl"
+     "medio": "La Izquierda Diario Chile"
     },
     {
      "titulo": "Dirección del Trabajo ya tiene su Consejo de la Sociedad Civil",

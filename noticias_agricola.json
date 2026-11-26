@@ -1,10 +1,82 @@
 {
- "actualizado": "2026-11-26T08:54:47Z",
+ "actualizado": "2026-11-26T19:50:51Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
+    {
+     "titulo": "SAG inspecciona parcelas de mantención de semilleros que abastecerán a los agricultores de la región",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQklpdmU4QWdnajlqZjJGdzl6NVNxRHpzOUF1UWRSa3BndGhINmZnM0JYZk5STUVLWEphSmVnNkhFTk9CRWNQQ1lhdkJObkxtY045T0NzNmdkbzRsVFpMbGRrbUxvckJRc1JweG5tODhjNVdPQ2RMQnJnWXZ2NzN0QkE2WFFaMjYzc21nMXc0VkE3Y2huYkVpS1YtN3pnZk0yR2lUc3kzTVZZNFlMeWZZWFEyTk1pZkhKLVlDS18yQkt5V3NKbUFGMk51ck1EeWVqaE5Db29la2RCUkk?oc=5",
+     "fecha": "2026-11-26T18:07:45Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "La revolución del trading digital en Chile: Cómo la tecnología transforma la gestión de portafolios",
+     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZklLd3FYeHNhMk5PckRLUUpJb1BmcDYzbUJ1Q09IQU1BUVBvZF9Oem5QdkdGNTIwUWNHMU5lYnJGZHBDTHlOQktHZDE4emlhR01FSUNzMXVrZzRmWi0zNXFCOVNYV2lXUEZEbTdjRXhRQjRpVzJtVHVIdzhWeUNGaU1fZ05WRWlFLXEtbFVmbGl5YWRjZEhyVXR4NzFaTm9MNWxBMFhDOEtmZmtfMS1mM3JnczBURVVleGZvbTlleDhpWHA2TlVOT21uemRMQzIxdUs1REhsUE9rbkpnVlQ1OFdRNFl2clpUNDVMWlM5MA?oc=5",
+     "fecha": "2026-11-26T17:46:02Z",
+     "medio": "Radio Agricultura"
+    },
+    {
+     "titulo": "Senadora Gatica destaca reposición de $10 mil millones para INDAP en acuerdo alcanzado en Comisión Mixta",
+     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY21GRk5MWkkzOTJWSkpjSnF2TFhERGlFSzVEdmdjR1UzaXhXc2VFbExPQVB1Q182VndqcDc2dUNWMFZyRGJGY3ZWU05lRW9EZnJESDRWcC03X3FlWDZEWVZwQkFIY04wbGVLNEtCQWt1NWFZWkJYd3JHbE9CMTdmQ2ZvWWd5d04zQ2NIZTlhLUQ2emZfSml5S2dGVkdRaDFwV3RGN3NKby1uNHFnX1UtNTdrSmZKemxlZTEwWDctOERyZE9Ec3hRY3dsZWdmU1FPV1hJcG1xdTlCUDlsaDJZ?oc=5",
+     "fecha": "2026-11-26T14:57:47Z",
+     "medio": "noticiaslosrios.cl"
+    },
+    {
+     "titulo": "La agricultura espacial acerca la investigación de Chile y Brasil al cultivo en ambientes controlados",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcVZPTUZMX3pOeW4yNDA2bV9DeU1vSjVlcGFWMERIbVdSYml5cV9FSEJBalF4bVc5TzZNSS11b1RqQVQ5WU9Nd3M3Y1REY21BaEh0XzRBSXpra2tsbnE0cFoxTThCTTUwTjdtNTZOakYzbmNBMkp0VU1TcEx6REJFb1Z4N1ZqVzQyXzU5WkpmZExNSktBNW9rbnJUMkh4OXJsWFNqc050bnRaWGJtemdBYVpNWFFNWS16RjA1elN0ZGpES2NHcF9hbXYtanJyQk95THFQOXpKNVlzTnBx?oc=5",
+     "fecha": "2026-11-26T13:48:00Z",
+     "medio": "https://www.hortidaily.es/"
+    },
+    {
+     "titulo": "La agricultura tiene nueva generación: jóvenes que transforman el campo con innovación y creatividad",
+     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWUZtbXFkZzlhZEJham93d0Z4bkh2X0czcnRQMUpsbFpjYXg0WnJXdkphZWlOWEk0NlU2OW5SVVozRXlvbnBXbURGRzhnemJITFRfT0xrV0VaSE9qbWUtbnY3b3BMN2lOM1JzZXNiZHVudFRUcUowYVJ2djA1LUIzaUY2OW9mUEpVcHEzT0VlN0Q4RkdNcExiOEpMa01Cd0xuaVpPQ3U5d1dWWEdxT2dmNTVhaHNwODJ4d0szdm9wczcwbjBJVEYyMEdqcE9ZbWw5aEtuMHVPem5MUQ?oc=5",
+     "fecha": "2026-11-26T13:21:12Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "Encuentro Chile Agrícola convocó a más de 3.000 personas y abordó desafíos del sector",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDhNWExhOEpqWklWd0hWc0MyRGNQb2RGZzY1RWRZQXpXd3h4cFpvd3pNc2xUSk5XeTZJUkd4VW84cTJoWXYxZkc5M19rdHUtNno0djUwUFVWRS1Ja3JnbnB3Q2tieEdEODJ6RnFnRVlqT1pUdWc3VVpCTEdfYlJNbFFCRG4tOVE1bVJqa0pDY3liWERRejY2V0ZzSFZVdE1heWRpa2g4SDJiN0RDNTBuTTdDNXIwOUdPMUktYkVkZw?oc=5",
+     "fecha": "2026-11-26T13:17:21Z",
+     "medio": "Radio Ñuble"
+    },
+    {
+     "titulo": "Chile Agrícola 2026 reunió a más de 3.000 personas",
+     "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbjlrOEZDdnVjMVlVZzdYQUoydWh2Sm1QX2dXZnU3b0Y2X2NQZUNubkdkN2ZsazVreVdQRHFmRFZOdk5DQkw0RmZtZzdYRms0Y01HcUdhT2stWGJFZEtvTUJURlNkTlJHdDlHcTBhdmtXanlCU0NqdmdZcUZqT0R3bVd0QVppd1phU0E?oc=5",
+     "fecha": "2026-11-26T13:01:53Z",
+     "medio": "Portal Metropolitano"
+    },
+    {
+     "titulo": "Chile Agrícola 2026: innovación y nuevas generaciones marcaron el encuentro del agro",
+     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqMlF2MGxTQ05QV2VsN3FzNUI5ZmpUbndYaVdNNm5OQXNNd3B1Qk1zdXdaRDRmZVREVlQwQnRuZlI5NjhGMmVjZVVGWGFWRzRSVllDc2RBd0FJTlJmVXg4M0xJR3ZlbWZEaGFqUmVzNGpJV3hUQ19yRHB4THY?oc=5",
+     "fecha": "2026-11-26T12:57:25Z",
+     "medio": "Portal Frutícola"
+    },
+    {
+     "titulo": "Chile: el clima y los costos condicionan la próxima cosecha de trigo y avena",
+     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOURXUURlaldDQmxmTDZIRzNLNnVDRkZGQjJ6YmkzZVdubGVrNVJDTE1JdUpOeXlJUFdBUmVmLUZ2ejNNYjhzTTZFZkMzTHdQbjlXMEh2bWk5U2hZdU0yS1R3bVVRaFdaNElWbG0yVHItc0RfZWdHN2xVYVJ2bFh2Rm1sMXVDOF91eXVRVXVFWXpCcVJSTFdNS3o1aDNVaHptZVZhSFJwRFNwdnRUSmdIemNHNzJhS2FqeXNiQnVwelBiOWdJ?oc=5",
+     "fecha": "2026-11-26T12:44:24Z",
+     "medio": "AgroLatam"
+    },
+    {
+     "titulo": "Encuentro Chile Agrícola 2026 puso el foco en tecnología y nuevas generaciones del agro",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjU3d0xSX2NGSkFFY1Q0M0k4a2ZhRXBVWnBiMWlPV05iUlItSWRwOE5pSVhHZ1BNOGF4cFhvOTNsYkVXd0V4cVBBa205Zmc3V05rNXM0ZXVzTi1FemotcjBIREZCS2phbi1RMUlTaW8zNXhSVlhjWU1pNmtETDhhd3JNalNLa2NnV2U0Mm56dGRtaVlNbzF3ZVdTemswM0F1ZGJOcmp6cEJtR0R2WHJPT0p6MGkxbW1pbXpGWWs2WXVyclk?oc=5",
+     "fecha": "2026-11-26T12:30:00Z",
+     "medio": "reporteagricola.cl"
+    },
+    {
+     "titulo": "Novedades para la postulación a fondos concursables de Sercotec",
+     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaDFxVzFHRXppSndIdEY1b3VIeVhmVnRIQzRYdTYxd3NJaHFsMmN0akR6LTBBWGVQRVc1bW42Y1lFMTJtNzJ1ZUdYZVotWGxxY0tHRE1GZXdJUFdVcENOZ2VEU1F4LVdrNGZVTmFsUkgwS3p1TVNBVW82bWRUWURIcTFnYUpQOWZtTVFzbVNkUGZTamxXUGtKTFB6Z1R3aE1EWmlINjBYSlFoZw?oc=5",
+     "fecha": "2026-11-26T12:06:40Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "Encuentro Chile Agrícola 2026 reunió al agro para abordar los desafíos del agro nacional",
+     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObElZdlZsR0d2NVpQYjRZMnJ5S1hrb2p5NVJMaWxuWWNjdFRzNURTaThvSlVOWVFQLTl1OVpDc2RPUmNqRmpmV3hiMlNHeUc1eDdEYk9waEd4RUJ3aU5iMWJQV0FGLWZoejhUSFJyV0tPRGRGQ3UyZHlZVXVyZVhnNldRUFJoQzV6TGdfMl9BVWExRkRHUGhtRlFPWkd4MHZMTDZLMTBnR0tZQXRQaENOclBYSnh2TUs4dGhvSC1IZmFTMTY1NEUzZ1NQUGhRMWxaNE5ER1NKeUZUbndxdS10cVJTMjQ?oc=5",
+     "fecha": "2026-11-26T07:43:00Z",
+     "medio": "Diario Frutícola"
+    },
     {
      "titulo": "ExpoMundoRural de INDAP reunió a cerca de 20 mil visitantes en EXPOSOFO 2026",
      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamp2OFhGUTVsbkE0cVlVNGNCMGp3X1RHTTVYdm56XzJiZWFmTEJMdmd2LVBoVkZmN2tkWHVNN0xHR0p4VDJQTk9PdWRBU0FvVFVfd3hOS05NZUlmalp6YmhjYklRMnlycUlTZktyNUN3bUYtOS1LdGtDMHNMWVdORDYwTHIxVmFudVg4bHVxdVNQWDg2eGY1R0s5Vjc0SVExODFvYWZGSTJZNGs3NGt5bFk0VTBCTC1BcWZZ?oc=5",
@@ -22,78 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTGdQdDBBZUo0WnhFTTFoeGZfNTRCRmQyWkxKOTQ0b3lJaDdQall0WUhkTGJnaFloWjRsRUJMYUdDbXJRM0wybkRxY2NzczY1VWxTbGkxZnJlRVFHNjQwYnFka0xmeTBtSS1pV2J4SGs1R0lCZDNyb1ZXRjNyU1FnbkNxV3ltb3pUTHN5YnMwZkFzN1BlbkhKWGVESzdXOXhqTXBNcGNDdHRzcjFhM3Z5SC13?oc=5",
      "fecha": "2026-11-25T23:19:00Z",
      "medio": "De Mar a Cordillera TV"
-    },
-    {
-     "titulo": "Fin de una era agroindustrial: Iansa termina definitivamente con la producción de azúcar de remolacha en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYWJhVTR6SUktc2swNkpEUGlTSG1zTzJtQnE5am13emJmMVV6YnNoSTR4RjRTd0x0RXVSUlpGRHRPc0o3b29pd3ZTTXBRZ3VuU3d4WFdzaHUyRG5MbEdGVDhpdExxbEpXX1lEdGhwTWx1TzR4UG15eHJXcktYV0tNR1AwV25JdmRjNjdheHdzOWtZTFJ2WXJ6d2ZMTGxMUlBrenZ2aUdB0gGuAUFVX3lxTE4zRF9WbnB3QThIZ3MzcTNnMjZGSVMwUGNKcVZsNVhIRWU2UnJYME44VWI2SEM3aVNQTi1HNkVBLU9HY01MLUVHQzBEZW54UVkxbllpUDJCc0xYaXY5RnFxZ2VMTTIzYVdpeWhDd1pSMFBNdkh1NEcyVmRUSmQ0U1lKeHREa09fVm9ZcFBsUE94WmE3QkpWWXgtQXpkcl8xcHFJMGRrajRLRUFtREx1UQ?oc=5",
-     "fecha": "2026-11-25T22:54:29Z",
-     "medio": "Diario Concepción"
-    },
-    {
-     "titulo": "Copeval participará en Encuentro Nacional del Avellano 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWk2Q2UwOWVZaTJjTWlpTDROc05JcnVjTGpBcmlzWUFoMVZiaGR1N3MxWFRYeDhYcXVqallZdkloME9jUXJ3UDNobHg1S2FTcFIwSDdJcklzODVkdGE4UlVkYW91OVZKbklKNWoyRzZmcEVxUlZnVjZ4TFl6ekoyS2tOMnNpemJmYzdNTE93b1EtQm5qVDJaeGU2UlRTVVM5NXZ5TQ?oc=5",
-     "fecha": "2026-11-25T22:13:09Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Encuentro Chile Agrícola 2026 pone el foco en innovación, juventud rural y desafíos estratégicos del agro",
-     "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMG1WMHUxMkJKMmEzYUREZEVtWkhxVm1WOTZ2SGdjdUdNZ1FWUU5sNU5oSzJxbGZ2Z0dMako2dDVzdEpSanI5ZVNhN2VLUUhCQkdXQzZqOEhTTjJ4b3F5MTFuVnVPOVZtQUNoUFZwSmh1eVBpcE5XNTdQdnY4Tm45MmJUc0c0bVJBa1dsbUZXaU4wVG9zSjFvcE5md04zZm4wUG5GRTNGbk04VUFSYmJGTFprVkhZS0pEV2JGdXoxVUdLdXZCbURtdDUydndoNGhKVHcxOHJQR2QzLTBPU2VxcA?oc=5",
-     "fecha": "2026-11-25T22:11:28Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Investigación en maqui y uva de mesa busca potenciar calidad y competitividad de la fruticultura chilena",
-     "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSGdCUS1GY3JxeE03VFBkSUdXall0Vm1jZk9FWS11Tm50WlRfZTU1OUdsLTl5MW1aaXYyQ2pBdi05QVNrMU1Xb1J2NlozMm1OVlZYVHdVaHFDakFaZkE4RE1DYVMxaVhzN0g3YlhJQmZ5SVVUNUtKWEQwaV9OX1BKYlJ6ZW1HUTQxNWgxV29BZURaU3I5VVh6S19pTFVYak1kQVRTa1MyMkZOVEtRV2w3T1k4MFYtOFhUdFhIRlFOZzZaaDUyUTU3bXJucHk1a0RwMWY5Zk81RXN6VlVNbFdQYw?oc=5",
-     "fecha": "2026-11-25T22:06:10Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Todo sobre las herramientas de riego y agroseguros presentó INDAP en el Encuentro Chile Agrícola",
-     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMDIzdXcxUHFMMjM5S2MxMDc5X1U0eVUyRm5xcmRuME5zNFJ0OXVVcWJ1elVpUmdDYnJlQ3k4Y01hS0tQSmY3YmFQSDJXQm5WUnlXZVFkbzJWTzZOZG5jcG9TQkdqN2RhcmR0Q3hoSUswMUpvek93NUlMX3kzM01mNkVPTl8xdFBLSHhDTERSaS1XVGtEV0ZTUF9fVUFTRkFtaC1URE9UMUEwdWtKbXRla19rTlZNclFvbEFCTTR3?oc=5",
-     "fecha": "2026-11-25T21:26:27Z",
-     "medio": "Indap"
-    },
-    {
-     "titulo": "INDAP impulsa obras para mejorar la eficiencia hídrica de la agricultura familiar campesina",
-     "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONG0wcjVZOEZ3XzNpQS1XMXJCN1lnZ2tCZGg0al8zdGc3d3NqMWV4cEduWUYyWEttRXhXWnhJUVRQRlc0RDN1elZEa1BKdDFFakk0ZENjM0VQcWtYX0tfT3JBSEwzS1VZei02SE1CbFYwUXJXRkdrdnlPMUo5ZVo4OXF4OTFPM0Q1ejlIVWlQbWNPQ0xYUmJHU3NCR0luQ29OTjRJQ1N0ejNZYkplRjVGa196c3E0Y1NNdnFzSC1ESlFoTGphWFNXcmpDRW1wbk0?oc=5",
-     "fecha": "2026-11-25T19:14:07Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Ministro (s) de Agricultura visitó el Biobío con una agenda forestal, productiva y laboral",
-     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQWFhSW80QTd5UEFsYjVmcC1WVHBXZmR5UDVyUzg0UnVXdjdsZVhIbHhvSjZwejA4Mk1WZjlrczBSMmYzbzkzRHZJdFJjUm13em5UZmZZaXdWd28taGgyQkpJb2lxVDJvMy1DMFpPcnJ6cW4tdjlhb1hDYmhCbWhxZjk2UnBuOU8yeUhBaFp4ZEk0eGFpX3k0bUk5eURXQmotYkZreng4TU8xWHNuRE16NWhQQ2M3ZVNyZVdyenlnQnVBTGxGSjNJZ1dR?oc=5",
-     "fecha": "2026-11-25T19:08:31Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Gremios agrícolas llaman a acelerar la actualización de la normativa sobre edición genética en plantas para fortalecer la competitividad de Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcElCQjRUeVJNdHpaUDU4Qi1KOVFwZG05c0dMa3d5YTVZRF8wNWwyemNTMkswU0x2N3FTRU82ZlgyTjdiS3lWdEYybmg4MV9WQkNUQmp5Z3pMa2VpN1lxbXdVQjNLYXI3bk53M1NRVkFpQWpxYnlpRVhnR0R6bHRUQjdBSzJmLUQ1dFprOWtGUy1yZUg2TkhSYXlhRkpwVW9jQTYyVjJUb09ZRENIcE9leklNUXIyXzF3Szg4ZnlDQVM4X3ktSzRRM0xKc20zSlBjUlRjU3A5NFBYeVhabjZrY1JHcWFlMW9mMVItNC1MSVlFXzRGeTFSejM0eUQ5QVltZEdEZnZWYzNYR1lWSF93eE1wN3dEN3c?oc=5",
-     "fecha": "2026-11-25T15:59:36Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "BENEO Chile reconoce a más de 20 agricultores en cierre de la temporada de achicoria 2025-2026",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa0c2dkdQcUhMTG9FeVJjT0JRTUl1UUM0bk0zcGlzY1VvbEdoVURpUmRrWHFTdDZWNzRGb1NST3lmbHRHZlNiOVJJWFFYS0pUcHhHZllSSEZnSlhaQTdtMHVfRzdyTTA1TVhqZTRROThuZ0M5RFQ5NXc0bGQ1UjhIUGRjVGdzaGJLMExQNnpSUEpnUWtBUFlxT0pzbGltWjVJaFdmdHhMNjl4Mm5OZm1RdEJFbWd0MlNBeS12bnBPRG1SaXJ4emgwZ29vY3RCM2RFd3Nv?oc=5",
-     "fecha": "2026-11-25T15:40:38Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Asume nuevo director regional de INDAP en O’Higgins",
-     "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOW5mN0pMQ1EzRFAtZmY5a0pUNEE2aXdXdjlFTkhpRWU5VUNyUnN0TzJWM1ZUdElhVjhZOXZCQmRyakJPY2xTN0t2RGZiUE9Ic3BFU3J3ZVdyZlRSVWRIc25Razc5VF9Ld3N5eDZDVjdUT3dzb1NxVERGNTZBVXpEWV9SWnZwbmNS?oc=5",
-     "fecha": "2026-11-25T15:30:19Z",
-     "medio": "El Tipógrafo"
-    },
-    {
-     "titulo": "Presupuesto 2027: Gobierno de Kast propuso reducir en un 35% los recursos de Prodesal y en un 17% los de INDAP",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOREtVSEExWm02QzVOUHozdWliZmVYdk83ejdMVlZlcGJLU01Xbmg1ZTN3VlpBb1gzclp5STJnY3lYNjI2LUg2b2lPdjRzTWZVdW9tMF9kNmZnUVFRenI5a1VNc1JJc0FMVlhMNmE5U0hPNzEtZXBNM1c4clJFT0tJLU9hVnEtZjJsc3BzWEMwZ1h0aUVWU29vYXpGY1JjYno2OFBDdlJHV08zX1o3V0N4SE1qRVF1VloxWjJLaFkyczYyd1YwbGpXTXVuMlJWclo3MXl3TWU0VktCcTZFWU5OQVc4aVI?oc=5",
-     "fecha": "2026-11-25T14:12:43Z",
-     "medio": "noticiaslosrios.cl"
-    },
-    {
-     "titulo": "Impulsan obras para mejorar agricultura familiar campesina en Ñuble",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWjMyVTFfZmJ1eUZTRkFnRXVoZzdZLUZwWEhNZUllVll1VzFsUDFJZ2lrTzZxTEk2WlFGbm1oQndob0liOHRFeHM4WjYwWER2X2ZvcUUzcnlwX095YzZVR3BxNG1tcmRTNFdzWl81djRVaGkxR3RVeGxYLTY4d1Vmb1doOWx6MFdEQUpSTTE3cmVJYUtnOENZQXJNbWQ2OGdUYXhBT1dBb2xrQk56dDIyb0xDbWF6TmIwS0E?oc=5",
-     "fecha": "2026-11-25T11:53:28Z",
-     "medio": "SoyChile.cl"
     }
    ]
   },
@@ -101,6 +101,30 @@
    "clave": "araucania",
    "nombre": "Agro en La Araucanía",
    "items": [
+    {
+     "titulo": "Junaeb cierra Escuelas Saludables 2026 en La Araucanía con inversión de $38 millones",
+     "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2RUV5TzEwZ2FZNjdIejlpZ2NhRXYweDhYVFhIMk1KbHRyX2tScl9WYW55LTFJWVN1S09yZFUtb2FPLUVrWTcycHhjci02c2IwRmpUaHdnTWgtSUdlcUhRUHFtYUVEaVl0dm9hVnBPRThwZDdYc3gtcHlKTHp1YjA?oc=5",
+     "fecha": "2026-11-26T16:20:25Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "FOSIS busca la mejor galleta de Navidad de La Araucanía 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1RidW1YSklyTjc2TmhTcHJGSjNaWkZZSW1KdHZOemhkbjFIYlc1SVJKLXNHazJfS05kcWtyaEVfclJ6aERCcWI0cEF4SFByVUN1RVJkelNKb2pkRWladFladGF2OXMzU09iOVE5OTRzMzhyS240YUU2V1RtYTdqcA?oc=5",
+     "fecha": "2026-11-26T16:15:30Z",
+     "medio": "Alerta Noticias Temuco.cl"
+    },
+    {
+     "titulo": "Fin de la Remolacha: Iansa cierra producción local y La Araucania suma nueva incertidumbre",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3hUd0dEUUVBUnZ3bm9LQ24yVUxBTms1ZGdZRVlvT2VENmlrRVhvTFU0Yi1zMzJUYzBjVW1XSWVsTFM3OFJ3djdFTjY5MkJfSXlUcWhveENic2l3MDdaYm1uaXRSS3VIc3FHY3RqUnlKTUN4WjgydHREWUVkWG1jV0l2Yl9IRjB1cUR2cWxDMTBDdUNRcmtxOG1SbF9RN3dDYlVYaTZlQUpNLXVzRXVidmpaaHFfek5fV2dibmJxVXdsS3c?oc=5",
+     "fecha": "2026-11-26T12:50:22Z",
+     "medio": "TemucoDiario.cl"
+    },
+    {
+     "titulo": "FOSIS elegirá la más deliciosa galleta de Navidad de La Araucania",
+     "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjN4WGZYVmotekJCZUVXcWZLN2NMMVJ4c18ydWlPNE5ibWJWM2xTWkRrQUhfcGhjUW9ma3lyUDhCUy1DYUphTlVzU0ZIU19jVUs5YzdoMEpkV3Q5emkzZkJpTkxTYnRoVW1xSnJUSDljby1hdmNMWEpNTElzU2k4ZGJqTDhpQjRTd041TE40TDgyNlRRNnJIMUVyaFNFMVhOVUEw?oc=5",
+     "fecha": "2026-11-26T10:55:25Z",
+     "medio": "TemucoDiario.cl"
+    },
     {
      "titulo": "Pavimentación de 13,68 kilómetros en Padre Las Casas contempla inversión superior a $10 mil millones",
      "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80ejJSLTZZUmRjalhBbk93ZnZjWFBtenhjWXpHVnFjMnlzUm5paEx5dVkxSm15b0lpSExJVUY1b2tlZzZxX3J0OHZhc3hmQWxVY0lncDhMOFFnbDBXLUJhQUt4ak1nX3NnZVZLdFZpcw?oc=5",
@@ -166,30 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRUxENjhrOUl5NmVYMXdWN1JUQ0Z5TmhOX2xkZ3V0R2RpclFTMF9LLXZRWC1tN3R2cG5LYmd0TXN6R1B2OUwwbWR6bTh5MHJlVXZvSXNWQ3ZXUWhCajktdWVtRzB5ZDlOS3ZEV1BGUWNEWmhHYmd5NG1uLVRJLUxmNGxpOFg?oc=5",
      "fecha": "2026-11-25T17:50:08Z",
      "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Senador Becker lleva a BancoEstado las urgencias del agro: buscan destrabar créditos para agricultores de La Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOakVFV2xiYkhkNk1kQ1pIWUF2bUxHNXktbzR3d204bHVpdk1hTktrbEx3QU1aWUxLdVIyLV9KaHNrQXJ0NmlHX25OeUl4YjhiVWhhbHRmbjFXWl9wOHY4ZVlDTEpWbnFGSkh2cUtaWE52dU5ydmhPcm8xa044QWhBOFhRejI1aDZncHhHYjhFbUZPanFQWjU5VVd0b2FQbDZLZGhpdWs4a3JGUk5EcUdHbzJGWmhRTjhTa2xzU0JlekVlOWxOQ0E3S0J0QkFRNk9mQVE?oc=5",
-     "fecha": "2026-11-25T14:23:23Z",
-     "medio": "Diario Electronico ELGONG.CL"
-    },
-    {
-     "titulo": "INDAP destina más de $2.182 millones a proyectos de riego en La Araucanía para fortalecer la agricultura ...",
-     "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUTlWaFJBYnlfUkNvdjJRQlFOQlUyUk5PWE9vc3NyTWlFanNzXzNzeVo2WU9yaUJaQ2NhOE5Rek5IQWRsVGRFUVpIT1VyYzlMZTdFcUlmeVIxSEZIbkR2UGIxWlBZTlB2WFc4UDVuNV9sSXVld3JHTW1QRnlWUklnOGd1cGR6NE9ZMEZQS0NTSnZrZ9IBlwFBVV95cUxQZnliUzZOMFZ1ZzBaV1JTUHZWaWgyRWpWQTFHVWJHdFFNNWhsejVzZENjYVFXYXJlVE5GbVg2Q3h1bFRWSk5pSEt0cTBmTjd5NWpsaGJjNVJmTHJUam55bk1wdWVvZFVyQWkwdF9Tc09UZ0hBR1MtMzFHTC1MYUNya1FSd3p1VTNJUVVsWjhKMFpPWkpHY0FV?oc=5",
-     "fecha": "2026-11-25T03:11:58Z",
-     "medio": "El diario de la Araucanía"
-    },
-    {
-     "titulo": "Encuentro regional reunirá en Temuco a personas cuidadoras para informar sobre sus derechos y beneficios",
-     "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVWU2alQ2b1d4Y01pQUpfMjRCUmpvUHZYMkttR0tCZHAyR1dMMTJWWUoxTFpLcTlYeS0yb29TSEhGVWdsS1UtVDN1ZWxObEVfQW9OMG9kRUs0NnpRdFVOMXpZektiWDVONmlqcTJxVElTX0h6ZEJVTTRqVm5lN0FlQVN6QlpTUDJMWWc?oc=5",
-     "fecha": "2026-11-24T22:39:07Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Lumaco incorpora tres furgones y un bus para fortalecer el transporte escolar rural",
-     "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NeVJ5R1FCNVoxQm5jVFZ2TC1ZVFdlS1NrSkRiTFRuR2hRRFg0cjhjYzR1Vk9YQ0FqWlVuRDFtTDEtMUFLcDJNay1CdVBhUTBRQTdwWUd3c3A0Ylo4TktNZjdrUC1YSXhFWVdpemZ4a3BHNVA2TmJXRVF2Nml2OEk?oc=5",
-     "fecha": "2026-11-24T21:49:36Z",
-     "medio": "Alerta Noticias Temuco.cl"
     }
    ]
   },
@@ -210,40 +210,10 @@
      "medio": "Primera B Chile"
     },
     {
-     "titulo": "Diputado Jaime Araya oficia al Gobierno de Kast para dejar sin efecto resolución que facilita ingreso de temporeros extranjeros",
-     "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTC1PTFhkdVpOY192MTNmTjFrMnhhemtpRS1pR3JnZklsN2lzTUpReVdmXzQ2NEtOZnBRcnFrMFpjYUhfcjNySXc1bTJRQnAwRXhVVHVXMldBSlVoTHN4UmtZVFo0LUpJdklYdUJWeTUzR2p1bmc2U2pRV1VYRjlwOWh1c3JRdFNXc3NfdW1ranFTbU53dEtoRS1GeXFfTExkSldNaFhFcVBPMXBaZ01kLWdnTzNXMksyVFB3d1d2M2dCOGFuc0NBaHMxM0Y1Nmpnajd3dnNIM1lvS3VkRkFsTmlyN0Z0YTJiMU9feA?oc=5",
-     "fecha": "2026-11-21T18:03:38Z",
-     "medio": "ContrapoderChile.cl"
-    },
-    {
-     "titulo": "Colombia anuncia convocatoria para enfrentar a Chile sin Luis Díaz",
-     "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDdlVnJaaUVSU2g2ZXFsTURHM2puaWc4N2tXTVUzX2xoNTExNXFORnF3M2ZPNHA2MkNidmVERUhGY281bkFwN1prRWhOV0JmbDVOOEpWV2xmczJDLUZQb0lVckFSTUMxUjJFaGVpeUVfUHpwWVUyWS12STZoSFczSU01Vm5icGlnY0ZqMjlXaU54OUE?oc=5",
-     "fecha": "2026-11-06T08:00:00Z",
-     "medio": "laconexion.cl"
-    },
-    {
      "titulo": "Frutas de Chile se baja de lanzamiento de temporada de exportación de cerezas por paro en San Antonio",
      "enlace": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQQm5XcnFpWFV4OVozdndOamhvZF8xeDZwTzYtWGUwQVBfc1UtTlhPOUF4eWJQbV9FbFVUeng4WkhGSmRyNFhXdkQwVXZobEg1VC1MaEhoOWQ1d2hYeWcyV2pGNHBZVkxIYzNQXzBXejU3bXBEYU8wTFVDNWszejhCemdjZHVtV0JXdkwyVEl3eE81TzVkeF9YWkZOZkZZN25tMFllaldRSkpMbmlxd2tDbnE4eDVRNzFfOXZ4VGY1M095Yzk0aTU0T1pqZThYSFFJakFBdXVpbWdUY2dYd2dBS0FzSVRsa3I1bXJ0RlRITG1wWWg4YzhoZzRwWFM1UEZ2ZnFpY3l2aFpQMjUzY2N2WFJ3?oc=5",
      "fecha": "2026-11-04T08:00:00Z",
      "medio": "BioBioChile"
-    },
-    {
-     "titulo": "Cosechar riqueza, producir precariedad",
-     "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tVWY2UVZFTmVjNzdsLW5EX0FqNHZMWGNMZW10Y21UVGE3djdzekpGTC01TzlWbzVmYnJxUmpaNnp4M2h6NUthSGxqWnFkZU00YzA4M3JoaVVXUEFwc0JmMW9xUU41aEdzWWhGTHE4SUZRM0lJd19TaWV30gGCAUFVX3lxTE1Hc3NGSkIwSTFhT0hpYVFWbFViWHJOQ2RxVmJfX0NoQWN6MmRWZFk0LUpRLVN1cmNzN3d5dVNqYkRBTE91dTRSWjNIbDNMWmZoQllUZDFOUjIxNUl1Y1RrSXo3S0RQb19RSGlVREhfYjZOS3dtRnhMY0d0aXZ2MDBla2c?oc=5",
-     "fecha": "2026-10-07T07:00:00Z",
-     "medio": "laizquierdadiario.cl"
-    },
-    {
-     "titulo": "Chile entra en temporada de cosechas y el agro busca trabajadores extranjeros",
-     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSGRFUWlrLUJyZnhYME9LbHk3bG9BYXhjTVl4eWN4WFl0NDFlSGlrcGxwMzh6U0g3bWR6SzFvZzg2Tjc0MG9vcm5WNDllcTVPWFNzOUN4Ymo2N1otbzBXanZuNE9wTHk5ZmdneEdKeXBvZXUxMzJTOGRSRU9wYlVxUEZPU0otRFBMbTQ4bTRnNE5VZG5qdGtVRVJjTVhKVk5ydzQyWGJ1RDc1UVd1cWlEc1FDVFZSV1RnUjJ2cEdoaFQ2V2tTb29Z?oc=5",
-     "fecha": "2026-10-06T07:00:00Z",
-     "medio": "AgroLatam"
-    },
-    {
-     "titulo": "Director Nacional de Migraciones y Delegado Prieto refuerzan fiscalización y preparan nuevo sistema de visas para trabajadores temporeros en el Maule",
-     "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVkFiMzRLZjNHNUctTzFTRkdZbXpWekt3YTBmelZZUFpFLXlVeEpMNERGU1hPeW56LWpUVGE4cjczT3JCbUU4RFlxWnVURXpUeW4wSEVZMjQwYlpqdC1PMy1uVW5FWllvODZoWUpVZXV4QVRDV2F3akJmaHVjZi1hYlgydU41cE9wSmM5V2VlMGNRM19SZXYwVFJjMHlOQ2F4ZEtJU0c2NGhNdTBxUXZnZzdkU2tudkVKa0dtOUVPc3U3ejE5SGEyZGgzSWU3MFNhTzN4ZlVWTlRndlNSaWxiVlJWN3VUZkRNaFBqVEg4UTU1WUFFZUtwQzI5NmVOUExXUUhIWEZPZw?oc=5",
-     "fecha": "2026-09-04T07:00:00Z",
-     "medio": "El Maule Informa"
     },
     {
      "titulo": "Entre “líquidos y venenos”: estudio revela cómo trabajadores agrícolas chilenos perciben el riesgo de los plaguicidas",
@@ -252,28 +222,10 @@
      "medio": "Diario Frutícola"
     },
     {
-     "titulo": "Boliviano muere en incendio que destruyó residencia de temporeros en San Pedro de Melipilla",
-     "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWHhoZnhETlFHdkRhVGR0RVh1eWVXRFlrNXQ4M09IYlhKWG4zMzNZRkxKRkM3X05YSTQ0TFR3ci0xVm96TW1xa1VhLXVWWi1sNjF1ZHhzTWdtcnR5YjZtaHRHYVBGSks0MU1BOW1OTEN0RXRTRS0xVWg4eEQxU1QxaVhZZmZyVDhVNF8wR0NOcUUtWk5TdGJKU25JSGxkU0d1UGNkQmkxQ1ExVUVOZHlnTC1YTlpDcndSNGgzM1AzNXo2SUhHQkJLS2dzeS1SeTllRUtydUpkQzRLczNBNlM0VWo1QlFSeXdiMXAwUzRFOXFjN0dIXzN4RVdBNWF2Skdyc0tQYg?oc=5",
-     "fecha": "2026-08-24T07:00:00Z",
-     "medio": "BioBioChile"
-    },
-    {
      "titulo": "Estudio interdisciplinar analiza percepciones sobre riesgo en el uso de plaguicidas en trabajadores agrícolas chilenos",
      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVNNZjVjOTJ3X1czNVU0VFJUR3hxb2RQZGprbmVPNGlnN0lXbzEzdXFibUg1LTRzaGlrVVAzLVg2WlpJSVRTRS04ZnhFX2NhSWJ5MVpXcFFuUThnbFJsTXZMVGY3QVpaUlFvcWlHcjhrd0RSZnM4b21fMGVzeTEtYm5lS0dJTy1GVjlkbURrZ09vdVR5RGtURk1sSnJabFR2bDRRdGRXQVFNcFE2?oc=5",
      "fecha": "2026-08-07T07:00:00Z",
      "medio": "Universidad de Chile"
-    },
-    {
-     "titulo": "SNA solicita visa para trabajadores agrícolas temporales y alerta por avance de mosca de la fruta",
-     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdmtCUE5tMHdYaWtoTlQ5b0NjeDc1RDNQQ1ZJdHdWRVBtdjhJN0pGYjliV3I1RGxFUy1DMU4zQlB4MEFRNlVCbHk3RVJQTXVKSTF6aFJDOFlDZ0c3RklzWkRMR2s0VTAwRnB4MDFkXzRhWEZucjM2eS1TZU8xd3pvaGFyWFBLbTdTekRtT2RaMmx1QUZVMlhxUThDTF9ud19xOTlFX0NSNlRYVUk3VzJiVVZoOXBmWGdIRVZ1QllNejhaRjVCenVBdk1uOC1vNHNiNEFjcEE3NmM1MmlQbUdwVzRydHRUQdIB7gFBVV95cUxNblVRN1RNZEpDcnFsMmtoZTZQNERncEt1cVp3OEVJMTFwcGlVUG1EQ2RfSFhCUUFFa1JLVkpFYUVYdmZ0ZHFGRmdEdHh1UzFGNWh0dlhiaklCS19xQ2U4T1AwalBzWlJzOWppdXR6WTRKdy1ZblVJMWh2dVNNODh5cC1PUzBSVzdic3hHTF9ZMXlxQTJuaDRiMG1wVG84WHFJMmFkaTFzaTVobGpSdGxfN014WW1jQ05aZi1zNWpTb0ZwdG13T3RNX28zNmhtOThjOXRocmpreC1fZzh4cFVuU3doMFdoMGtDWGRhSEVn?oc=5",
-     "fecha": "2026-08-03T07:00:00Z",
-     "medio": "La Tribuna"
-    },
-    {
-     "titulo": "Temporeros extranjeros: extender el permiso no basta",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNk9vV18ySzlrYkUzVU5WbjhhOE12REVCMjBfRHlHUHZqUUh0SjBuMXNiT3lXQjVHU2U0dUNCbHlScGZoQzhkamN5YXJzTlpVc0RnbEw3WU03SjhGbmNSVktRY1dqaGx6aFEybWtTZjctTVhlbzQ1Y1Z2VndzN2NVN2ZReWFVLUVmQjFuNk1aRzE3ejF6RTZHU0lvMUJiTG84V1hpMUFKcUVvaU1pcjcwR2NiU0h0bnM?oc=5",
-     "fecha": "2026-07-16T07:00:00Z",
-     "medio": "El Mostrador"
     },
     {
      "titulo": "Gobierno impulsa cambios para facilitar la contratación de trabajadores agrícolas de temporada",
@@ -286,6 +238,54 @@
      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXlDZmlER0VYRmRPVDJsSlI4ZzNtNi1hQ3BubG5Ndy00a2JHSEdXdlFIbFBobUVYQlNfZ3A2cVVPTjdkTURZTkRkNnBXTjFqNktYbjk1cExxOElaQU9xVWhOTlFYdUxKN0JXMEVlM2xJenJmbnpNbnBxeENUV291R3BaT0pQLU9ELUxhbHBMRG1NZHV2RmRkNHk2U2w2UjEyVzJXaVVhbG5sQUdBc3BXaEdvSENKREUyTUpaMG95V3JxcmxOWDR1SGtSUFN1b29MY2RISnROeDJfQ1laZUxKNGZyONIB_gFBVV95cUxQcXZWWWJWeTY2bE5QYWFWaXlLaFBjSndTMGgtYmljZUlodjI5U1ZkSURaZFVxa2RZdTFobExuRk9zMklNRS1TWVdYT2h6M2FNdGdTRWJ3MXgxNGdyenMtS0FrOEJzalZDeEhRdGtBeGRXTW1fTnZFbTBET3VBYkVXM2gwM3ZZVzNRVjFnT1lnUXprVk1tR3BqcHBHYjB6LW85WlhxNC1GT3VoZmt0aU91eFM4OVpQVldfRHVUYVVSSFJCR2hDUGU0RVFtUTFiZmdBRGhzRGhWQkxHeEpsdzZVTWgwYmxoM2lrLXJiNURqNXROVHFsS2JuWThTWkRTQQ?oc=5",
      "fecha": "2026-07-10T07:00:00Z",
      "medio": "Infobae"
+    },
+    {
+     "titulo": "Chile acelera cambios para evitar la falta de trabajadores en su agroexportación",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmdjWnN0MnBIR05ISEhVRmZJdGdfb1VxRnVXVEZhWWxXaXZGcmNGb2NieFhCYmprMXNzeG5EdUIxUjZJRkNUTV9GOWJCQWZyendXY1V1andCYkdmZk9vMHhjek9UZmNaZ0s4THF5dXhseXhoXzRXOUhOMnFkTnA2d1FOendRQW1rNzBMcVYtcUlVdEdFYkEtWWtCM3ZWVjBEemMzZ0JBb0pWNVZ1UnlyQVpCdzFGZGQ0?oc=5",
+     "fecha": "2026-07-10T07:00:00Z",
+     "medio": "AgroLatam"
+    },
+    {
+     "titulo": "Gobierno chileno agilizaría contratación de temporeros extranjeros ante demanda de mano de obra",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQjdodHFVRm91QXJyVEZCYS0yOEtDRk1nX3Raa2dNUnRmSHZoWFljRHJaWnJzcTE4YndGcG5VXzJmOFMtOHd3MXJ6OUEwN0tybWt4SzY5Nm1fZjhSd2JlSTVsSVB2dXJYM0t3YkJRUGFlQllIbUlId0xQT20wekpoU1JKWkw0US14UWdrYUhpNUJHR3NlZXZXZEhaR3NjNl9RQ1NFVFppUE42NEU4TXNHRlVkTnE0LWVWcmpBM1o4bF9hZ0JOV1FSSk5SODB5VE1DaEV6cG10NHFUa2xJc0hXQTBXX1EwSmo0SndVM1hGcVJMTXc?oc=5",
+     "fecha": "2026-07-10T07:00:00Z",
+     "medio": "Diario Frutícola"
+    },
+    {
+     "titulo": "Nuevas medidas migratorias ayudarán a llegada de trabajadores temporales de la agricultura: Habrá facilidades para residencias temporales",
+     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMndVZzNNeHlkLVZQSGJIa2J6cnh3V3diSnBWVW1ZQVlsZHk0X3luZWN1VzBZYzFMdEFYaWZ4b0F3QWItSEhBcnIwakZOMkRUMzdSZFNWNGNlbVN6b3hGeHJYbkEtY2p2NktHVTdaQ2o5c3RCcWdMcmlxbWNrU1VUOVludTM3UDVEMEltRzRuMVpKeHFKR21wTlZPY0RBVEtuZk0zMjF0elprcTR0cHgtN3RDN3JSclR3c3NiSDFuXzA5NTBOWUZ0ZlBweUx2STZkN1RfNjlaT0hCemxoRHkwaTRwUUR6cUlBWW9iVUFpeTV4dGRVejI2eWtvQQ?oc=5",
+     "fecha": "2026-07-09T07:00:00Z",
+     "medio": "CNN Chile"
+    },
+    {
+     "titulo": "Ministro Campos respalda visas temporales para migrantes en el agro: “Chile necesita esa mano de obra extranjera”",
+     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUENYWHgyaEZPMV9TRmtDamJoQ1lOUXJibHlpMzZaazd5cTZBUGpHMllFMmY3amhPbHZXbHBPMFJpU2lLaU5FYnVvN0VaNlZpSUlUOWR4VDV5bEI2eUxQS2l0R1Z4aFMtU3ItNXlYblFSMFRJcTNoNVJBN1c0OEtEemtRSDBUeUJRZmppTGhMT3poZ083Q0w2TW0tSUxQbF92ZmR2TXF4aDdoTUJ4My1NWUgyOENSZHpKSjVNSDlkSXhOcGQzNzNyZzhRY1FHVUNrY1FZcV82SnY?oc=5",
+     "fecha": "2026-06-25T07:00:00Z",
+     "medio": "CNN Chile"
+    },
+    {
+     "titulo": "Ministro Campos respalda visa temporal para migrantes en el agro: \"Chile necesita esa mano de obra\"",
+     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUzFhNWVtcEdhNHR0eU5Ba1A1RHZUSDlZZW0wU3drMmhjX2poOWJFdml1eVhFRjg5SEpLSHFLNEVVeFkzS21EMk5paUdUVTVsYlRwLVRuTDdMcWJ5MFV3S2hrV0QycGRJaG9XZWNhR1MyR1JWSENxYXNYckFJVFNDc3hXcVV0WC0wVHNUTXRjS09kR0RZV09wM2cweUFnRXNwT1VHZ2EwanFQczl2RWlBVDgwTm9pcUlsQmZBajlsSkZ4Y2w1QlZvaDUyeFJkcFFsaWVVZnNkUHJPeUZLZXlKMEJLcTItNnJ3UXExbGdIVS1yZ0d2aVln?oc=5",
+     "fecha": "2026-06-25T07:00:00Z",
+     "medio": "BioBioChile"
+    },
+    {
+     "titulo": "DT aclara aplicación de Ley de 40 horas a trabajadores agrícolas y fija límites diferenciados",
+     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb1E0RV9Kd0R5TENnTnUxM0pDRHlUME9QbkNfcUJXeTdSZllSMHgwTFBRU1VwWENWenRXX1gtNmRVazVzbUFNaEx4MDN4bWhmNXY5d01vN3BsZU12Wlo4eUlWQ0trQXhWakQ1bXdPT1hnTWYzZEI1cjRjVkVlQkRRaGg5X0ZyZ09aTFdpSmtVRWRRVzEtNVFNUnJVaXZrVDlNaGgyTzlxT2g3cmpvNWRZRUMxbXJjSk9XSmYxbXAzdTlPazhBYVZVRmZJa0NGVnpBS3JXdjRoZUI?oc=5",
+     "fecha": "2026-03-03T08:00:00Z",
+     "medio": "Diario Constitucional"
+    },
+    {
+     "titulo": "Numerosas denuncias: comenzó fiscalización a condiciones laborales de temporeros",
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQkYyNG1jc2RIWHJvTDViaEtTaWpUbWs2ZGhfRmJpR1ROd0JscnZYUTBXckNFVFRkZ2J6dzByU1dyOUJZOFVvQ0xxWnpXYzJrYV9jWkpvTExIYnMyell2S3dRNlVZY1ZXUHYyS1lSZ2NEajB0Ym5QUnYtQ3FrdjczRXVTWXlid0xXUGJQdkcyU0hhWmZlN3YyVWpHZmI0TG44TUFhREp0N2RVM2ZVaW1WRmZYWEtDUQ?oc=5",
+     "fecha": "2025-12-19T08:00:00Z",
+     "medio": "Universidad de Chile"
+    },
+    {
+     "titulo": "Cómo vive y cuánto gana un temporero migrante: Luces y sombras del boom frutícola",
+     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORDh5MF9ZRWM2azQ2VmZQT3JGMnQySklhTW5Hdl9lUUhUN2Q0dG12WG5iT0RaM19LdlZyc3dHNXU4SzVjRGxtanZEeEM5V0doWWFSRGNyYUJmY0N2UjhCNXR2aVVDYlQwdlcwWk1UekZ6aTdhbGRnMXNIbHEwcWZDaDVNRDZmVW9kbm5vWjJ6SVdYVnRPMTZfRzVEZTgtMFQtNV9iRHlXa2lKdG91R3NmNlBtUlNjaWREeDdiUmN3?oc=5",
+     "fecha": "2025-10-11T07:00:00Z",
+     "medio": "La Tercera"
     }
    ]
   },
@@ -390,10 +390,22 @@
    "nombre": "Leyes laborales",
    "items": [
     {
-     "titulo": "Max Verstappen confiesa que jugó cerca de 40 horas al GTA 6 y aún así ganó el GP de Las Vegas",
-     "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORUZxb05NaVYtRW50NzFGdG0zVXdzRWwyRjFOd21yR2o0X1ZkR3RFZG04dGNGeVppR0tFRVNxQXhZLV83T2R1QWlsejh5SVBEYUhrcjV5YWh1ajdhUjljZXZPYkJMTTg3Mkx0RGFRY1BpcmNnVnZJd1FyRnI4YUZza2RncVJ3MUJ5RDlHMTY0dXpNVC1WQU03UFhhV3V3d182UEJTWGhBa0d1UXBBM2dYQ2l4c3h4NDZRbmxpaHFWbUMwTDFTd01lMGhDT2hOQXhGX09xYXhVZUZLNjQwbnZSekhCZlk2T3NtZU5sLVFRdGFhMVVramRNMHNFVU51SWZp?oc=5",
-     "fecha": "2026-11-25T14:09:05Z",
-     "medio": "BioBioChile"
+     "titulo": "Santander Chile cierra negociación colectiva con foco en conciliación de la vida familiar y laboral, vivienda y educación",
+     "enlace": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPSWRrRUxCV25KRkp4RXhoNkJ2NThyS0pPUWxnTUN5czU2TUhMLWpaNXJENlJZUlhhbGdBTFFnQjFhLXpvdHMwOGRXYTN3YVJPOHFjdTEwZjJkVG8taEVhT2FkNDVXQzVxQ2ZDSWdRMTBjY0FveGtrY0dsSTV6UDBPS0RVUXFRaUtsZTBReDVxeXAtZ2xmX2hVNW01Y25uR0NpazZjS2c5bVFmOUpOWUZkQjJkMWlzQnU3a00xcV9KYUhjLUNYbnpKSHdmZ2NRSURVcVl0ZGQzTXphaGVGSWd4NDk3NDFsOTBnak9XVUw5djlyTUdVdk1GMlU4dnBMaTZDa1YxbkQwcGtRcG1kNlFxU2FJeDNFRjRPQl82Mw?oc=5",
+     "fecha": "2026-11-26T14:29:31Z",
+     "medio": "Banco Santander Chile"
+    },
+    {
+     "titulo": "¿Es posible reducir la jornada laboral a 40 horas semanales?",
+     "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUHlsSTM3bGI5NXAxQ3dXR0lKcFF4NTFxZlNXTFBOUTU0aDhjdjZVZ2NHbnhULXQyOTVGSVR4OGVMYS01a0FQbGpXa0h1aVBZWHFnQTdSeUVZdVRGemFUbzdQRWQ0N0VTOEY4Nm1ac1dGVzBkbHlfa2N3T3JNel91dlNZakpkTWZYTGxwVTRFZm5qVmM?oc=5",
+     "fecha": "2026-11-26T09:05:44Z",
+     "medio": "Encuentro"
+    },
+    {
+     "titulo": "Altas temperaturas: conoce los derechos de los trabajadores en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjhpM2JIQUlqOEtqaUpaSXI5blN3UWxHUjFubU9iTEdZZElTaXc1dnFEYWJudEhoQlhVaUlnYXA3Nkl6REZ2eENycHZjOEt4NHZKa0xxUWdEZm1xeUtlM0hBN2NWVWUxd2Q5NHhDMlhqdUVFWVdhdzg3MzJteWxNVkx2WmJtekI2cVJ3RGNn?oc=5",
+     "fecha": "2026-11-25T23:21:00Z",
+     "medio": "Radio Canal 95"
     },
     {
      "titulo": "Banco Santander Chile sella histórica negociación colectiva con millonarios beneficios para sus trabajadores",
@@ -402,82 +414,70 @@
      "medio": "Enfoque Digital TV"
     },
     {
-     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
-     "fecha": "2026-11-23T22:08:17Z",
-     "medio": "Soy de Osorno"
-    },
-    {
-     "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQzNnUFZqY2lmX21PVUVrVWtLOU5Vb1FreF9zUEJmcE1aM3BHM1Utamw1V2lPa0Y4Z3YtbEFrSndyTHFuMkZFMXBQMTV1S3JEMXlMaV9tYW5pSmZkMmJvRXNtZmRHZlRFWk9vTTJaVFphRW5iTXhaZGRpUVVuaTF2UjdoVDI3T25JeHp6Tkl6Y28yWU02dGxBei04UjUyTzlFdUgwQVFVbm1QcGhCUUFEei02Wko3LXpqLTBheGkyMUFuVEp4Z2hYeVpSaw?oc=5",
-     "fecha": "2026-11-21T08:00:00Z",
-     "medio": "El Mostrador"
-    },
-    {
-     "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
-     "fecha": "2026-11-19T19:41:17Z",
-     "medio": "Publimetro"
-    },
-    {
-     "titulo": "Ley de 40 horas: ¿A quiénes aplica la próxima disminución de la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcHI3V3FSQ0JFSHdTZHFmeThEaHYwZW9ndkZ4NFQ4eWJvTE9Wd1RWWTl4X25zeTVsd2ZDVHpqNTFvN3dBemdDdURtOEJyZWFwSmlFSW44bHZwVkVFMUU1OTB4RUF3VHhEUTdPSjUta0Z2QlViZmQwSHcyZWowdU13VE9DNjRLaWliUkc4bEFuVVJmTG11djIxZXY1Vk4yOTRDbkdub2M3SUNXUkRDUUU0WUllZTB6OXRZdDBGZEkwekNCWk9kU1U2djliRktTNzkxUW52UkhDSFpsMkNDR0dtTVI0VEF4RWlkSWx4c19B0gHzAUFVX3lxTE9id2o1ZzR6b0V0SzFkVnNicjlKUjhJcTRub0pkY1ZlbUw4ai16Y05PbHdQV01yWmp3SWtIZktGLTh2SmNTc2tOV0lDZlhKQ042QUtWZXByWmM3V1VTVGUyR3lQcDhzWDE2MGI3cmxmQkJfWjJwQkhhLXNyamdIV1NadDdONTJjMldPTXhXUXVOYWtacjhFRFV4aGhzTHFTb1VodVVuYnFHclJLTU40dzhLRU9XMWhRckdGbkxEZ05zdkpCR0pUbEtNM3M0alRoVjdkSGNPNG93RUlRaVd2bDIta1E2a211Q2loY1loXzl4NkdWWQ?oc=5",
-     "fecha": "2026-11-18T12:00:00Z",
-     "medio": "Meganoticias"
-    },
-    {
-     "titulo": "Ley 40 Horas: ¿Cuándo será la próxima reducción de la jornada laboral en Chile?",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXpmWVNTa3dsSFFqUHY0MlVXWFdwNXlzenJkeW1Od1p6QTdkYU9IU1VVRDZkRDJETE9iSGt4cnAxNVJCNmJrZ052ajRFYWZGRjlQSFFuSXFHTlVQS0Rld3VZVnBLdVVRai14SVdXbzNHR096Ykw4OTc2c1BFNkhpV3o2VXpQc1EzMlVvSzJTMXdrVVkwWnJBd0RqRVZMYnpzd0RfdXhua2dVX2Fab2FYa29PLVlpX2I0?oc=5",
-     "fecha": "2026-11-16T19:54:02Z",
-     "medio": "Canal 13"
-    },
-    {
-     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
-     "fecha": "2026-11-15T08:00:00Z",
-     "medio": "CNN Chile"
-    },
-    {
-     "titulo": "Sindicato Sandvik Chile Nº 2 concreta acuerdo en negociación colectiva: La unidad y la organización sindical permitieron avanzar en mejores condiciones para los trabajadores",
-     "enlace": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNN3pieGlrbWZCbWsydmEzU2hIM2RiVTZuRnI4TDRQbHRVTGJoUE5PS3UtZWpzVTlkbllYNUU0VG93NjROUHlpWVM0QUNQaV9IcVB5MWRFY2JmMzM4RWVqN0ZSVzdKQ3RNZV9ZeGdxenBvR0dOMjJiNV9IeUhYVmt2SnB2OHRUS2d4STU2bVdSeDZiOFJ2eG53Sjg2YVJIeUkybENBY2RWSU01bWV2dVJXM1VKZHdFTkxMa193c1FOR3JHM2JteUxyT2ZBUHlsSkhlM0lHWUFmQlQ3dUhhTnFoUkMzOTVrdTQ5TWlxYkJka2dDMTdra2YzYU43cmJtRF9OZFk4bXZkN3FhcFo0VkZwaDYwQWxPUnp2aVlXUnFQRTc5bm90MUNEckh2ck9PQzR3T2hEZ2JPZUxNaF82X28wNjFjb19pVEpqTXNGMWpNcGE?oc=5",
-     "fecha": "2026-11-11T08:00:00Z",
-     "medio": "Confederación de Trabajadores del Cobre"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
      "fecha": "2026-11-10T08:00:00Z",
      "medio": "EL PAÍS"
     },
     {
-     "titulo": "AVANCE DE LA AUTOMATIZACIÓN EN CHILE: CAMBIOS Y DESAFÍOS POR LA LEY DE 40 HORAS Y LAS EXIGENCIAS DEL E-COMMERCE",
-     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmpWX2VtdkduRjNmQWFqbHZkb3htcUJuSGhjVHZOaVVNUmdIeTl3TGk4bGRicHdFQThoZ2MxR29TTHF5ZlY0R2lUd0lTWlNUTmFtckR6NEx2bXVRM3ZIcDdQOGRSRVRBRW55UkRnQmU4X3k4UHZjdlhiN3Z1MmpnRGdfVkFjaElpU28xNjlWWjc4LWthQ0lORW9tUThfdHlERF9iaW92aVVXX2xmNWh4b0RudHhIT0NDV2w3TzgtYWNBWWx2UnhFMFo2cmJmS194Z2pqYXQtaUZGbUdRTFN3OEJOc3hzUkM0OENGRzc0YWlBUm1XZzZR?oc=5",
-     "fecha": "2026-11-10T08:00:00Z",
-     "medio": "Revista Logistec"
+     "titulo": "Todo lo que debes saber sobre la Ley de 40 Horas en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xbTAtM2h3VDctb2RtQ3ItaF9fRWg5Y1FjMkh2MWVycFdJTEtBQTI5Z1JvY0xDQ1Q1THQ1UmE5OEtjSXk1ajY3NldUWVhEbk1BMTVCWldmb1pUdlRuOTY00gFvQVVfeXFMTzZkZEdkY04tcnVFbzFacHNzZDQ3NG1NanhnYkswNG1hYkx2bFdkR1ZPajkxZVllMlFrRllTTmdOX1VhRm1vVzl6eEN4ZzBtVHZuYThCYTloRFE3THZELVVuSEk5NFpVNFo2allmMTY0?oc=5",
+     "fecha": "2026-09-30T04:58:34Z",
+     "medio": "InvestChile Blog"
     },
     {
-     "titulo": "Las 40 horas en Chile: Conoce las fechas de reducción de jornada laboral y quiénes quedan fuera de la normativa",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcWZTNnN0ZEtFeVZNMXIxd0tDbkpOQnBJY2RkS25qbUJNRnFjRzZqMWZQZGNndGNCSGd0TjRsT3hJZDYwbmZMTHI4aWF0VzdxTEc2MFdkY3VidVFzcVpKeEFuUFJtMWxkcVNIa1g5N0R5SVJBWnVkZ3lLTkdpcEk2YkVVNFFLS01xMk9odVZ3SGRVeFR1VWxMLTIzbDFTTEh1dVpkc3hVc0RHNmM5MGF2Uk9WRUViWS04eDZobDhDaWRpNVhwTkF1alJZTDVMRlJ2dFhJS2lwbmpfaVRHbWVILUV3SzNPSDNzNy1IajhB?oc=5",
-     "fecha": "2026-11-09T08:00:00Z",
-     "medio": "Publimetro"
+     "titulo": "Kast quiere modificar la ley de 40 horas y flexibilizar los contratos de trabajo por turno",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmxfdTFvbkFqNzFBbFo1ZXF2SGRFR0VkOUFsTjVzUkZrXzlMMTk0bTVLdTd2TEwzSkRsMTVxMmU2NmdGTzFlZ1prUFBiTGdoWktES1VWZzdBaWFuTmJaeWFqYmhGMnFMVHhBYkFRbHBQZU5ERE1DWGMxd1VDUllZRlEwRXJIWUsxMzlCeXc5MFd6VUF1LVM2TVNobW1MaE82dlVxcl9CeGhha296N29YNDE3VjgtT2lYNTFFbHNiT3JOZjhEUUZnOTVPc9IB3wFBVV95cUxOUWtERVpjUm9YWVg4VjRKNG9YRnFvRDk0VU5QQ0djWVNXWFNjcGMwVi1zWGpqaHc0VUdqajFyclFPNHNJS3hzMkoxendMUDFBM1Q1TFNlNnlKa3BmN2JUYzRCWTZXMWF6d2hzejZhZGdIVG1QQjRLUC1MaEx4N3BoT3BVcEg5WEtBcTNaVlZjdVFfRWpNQUZsUXFucDdWXzVDZXU2VzZ2dUhHNm9CbmZIZkluejR1bnRrS3I0YUttR2EzamY2REVWcFpaSlhWd0lObGw5Y3hNOWFMWWs3c0JB?oc=5",
+     "fecha": "2026-06-25T07:00:00Z",
+     "medio": "EL PAÍS"
     },
     {
-     "titulo": "Ley 40 horas: cuándo es la próxima reducción y a quiénes no aplica esta normativa",
-     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWHpzd09TeEVrTzJLcVNhc1R2bDAxcGhSQTg1TWtZczVyVFNMOE5fUzNzMlotOFc5Sk5wSlRVV01LeFM1Z3ZKVlR0NnBlRTV1cjRoc1N3cGxoV285dV9DQ3h0WmNqLU1lblpNNEh6OFdVZWNheHlpcGdzejM4Ymx4NllWRFZhU3NFbFB4bUZpdWVTRmZlc1g0cEpZTmpBUmdyOW9PVmJicjNKSGluNU1LYTlYN3hIaDVheUJBdWhYWlFxekxjeVZ3QncwUVpycUdtcnVjSU15QWRlUXBxcU5RUHlQcXNycmdJ?oc=5",
-     "fecha": "2026-11-09T08:00:00Z",
-     "medio": "BioBioChile"
+     "titulo": "Ley de 40 horas en Chile: cómo y a quiénes beneficia la nueva reducción de la jornada laboral a 42 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbkFKaS1IWS1BSm9LWXBvUXIwQWYxc1hHc0tmRTNpR3JYU09TOTVfUnpBM29SaEh2bzdGTGNTY2MyRV9kWHlYVnBhU1JPeTNhdWo2RjF1MzY5UTRpMkV1RFAzcVVsRDFYRW5NNjRacldVRUxTekQ2S2lhWHdycjlqZUpnS3o3VU45UVV2bGpSTGhSREZaTFoxRS1ndEk5LS10dFp3NWpnWkFJSFZUS0lyTUN2czc4azB3SV9SM0ctS1AzSHFkZnBTM3Ixb1lsc2N4d1YwcnhzSEVMQi1S0gHwAUFVX3lxTE1FVjhOWm41eXNFeFdXSWpaYUMtbUlLb1hBRWFsdEFnVHAzVnA4aTJqQ2tna3lDX0VJSlNoTWNzRGJ2TUxQMk1XM3BhU1U0OWU4SmpXcFJQR3JRcnhnbjFHQmVheWlseElpd3hvSFRJeFg0Q3JXc0Yxb0FUekpLQkJEQ3ozRE1XME1tMWhMT0xZWWNXZFE4cW80dTFNclYzNnZTSEtQUkhKMWZ1UjRJSFU5OFhEZXl2czNGVTRNZ1lWN2pRWlIxOGpMNGZxU0k1cVNvaVV6Rmp1dDlHUGpBTnE0bGZza3lUYktnQTA5dThWNg?oc=5",
+     "fecha": "2026-04-21T07:00:00Z",
+     "medio": "EL PAÍS"
     },
     {
-     "titulo": "Chile avanza hacia las 40 horas: la jornada laboral baja a 42 en abril de 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjcxMDBXNFJOeDJFZWFBSlRPWHhQY1h6a1hXbVBRc1FibEZXVzhwYUV6blVfQXZxVnVydDlKRThMTl96SnE4RUlRODl6am1zMmUxMDhaRVMwVU1CbG55cEhLOW9OMVdZTVBkeHhfZmp1aG42aHQyOVdzS1FNT242NnVmalJrRjBoenlFZUdNMFJEV3BuZ0JYMUw1MUhhY2N6UkdKN3IyVQ?oc=5",
-     "fecha": "2026-11-09T08:00:00Z",
-     "medio": "Enfoque Digital TV"
+     "titulo": "Ley de 40 horas: Contraloría excluye el tiempo de colación de la jornada de los trabajadores públicos regidos por el Código del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPM3RlZUZhQkttWGM2azVWcFozazM5OWJFQzlEdENjTFM3NElvVkdoN0dmYVhZMnAxNFM5RklCOEUyX1VSTFNxQlFGNUxGc3dBUTA2Qjg1ODhlZG9RYnZMSGI2cTU3SXZxaWNHYmFMdkRrYVVidk5GcEZqTVRXdERRdTlRTDg1QmNud2NXT2xrU0JuUE9XZWcyV0pSTmg1ekZiZV9XT1d2WndLQnBkMG1VRVVyRWJILWRvREJQeG1pZDBGM1dkUHAwNjRZeVJlSGdVZzdiRkx2bFh2ckQ1ZmpYYXpnOXBNeTROZ2FCc2NMWXFOOFpaVmoyaExSREJJZ1FtRXc?oc=5",
+     "fecha": "2026-04-20T07:00:00Z",
+     "medio": "- CIPER Chile"
     },
     {
-     "titulo": "ANEF junto a la Mesa del Sector Público inicia proceso de negociación colectiva de las y los trabajadores del Sector Público",
-     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlFwU19KRVhVQVdRcUlSR3VXdlNOd3c5VzcxMTJZS2lwYmhuVVI3cXh0TkIwWGJPdDBERUM1OG9ieG1TUnhPSnVlRU81eFI4ajNDTGFjZEVMbXc0d3o1ZGJqNUM0cUZnV056OEcyY2NZUjE3QmZLLVlTdTJaaFEwdmNYTDZnVnBjdHRHMXFPcVZKNXYyR0RYVjNBejhtQ1c0amdCOU5lN0lyMXBhWFctNG1telUwWjBFbDFoN1RRVmplNWRDMWtzbmR4VFl4YVVvbjBmZnN1OU0?oc=5",
-     "fecha": "2026-11-05T07:40:01Z",
-     "medio": "anef chile"
+     "titulo": "Dirección del Trabajo analiza efectos de las leyes de 40 Horas, Karin, salario mínimo y conciliación de la vida personal y laboral",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5ZmVwM1ViV1RoZTRCZkpBYndLM21hTGRwVEZLam9ndWdIWjhKNldWNHlITW9SUzA5NUM0NTRBa1hwbWk4aXljeVJfRHItZGlzLXFrdkE0Qy1tREh3eS1NTFdyUi1CRkU?oc=5",
+     "fecha": "2025-07-15T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Cumplimiento de reducción efectiva de la jornada laboral a un año de la nueva Ley de 40 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRnlQVEdjQ25saDNmaHdLSTFodk9pdkVMdWZNa2dpZmEzdHBmb2RZZmJYWEhqZXdBMjNGcHgyU3JZYS1oVG01STBUTTVfUWczTktVek1PcE8tb3g0dWx4R1dQNHREeGM?oc=5",
+     "fecha": "2025-07-14T21:58:48Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Dirección del Trabajo difundió derechos laborales imperantes en Elecciones Primarias",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QQjE0RkZhSFh3aU1CVzM0SnV2TGJPc01nd1Q2ZGd0T25qYWZoUmlDRUNjRV9QclNSVFo2a044Ums5dGFmLU8xRHR2SjFwYVRSbUM2Nk9OdmgzYXRCNlRSV1A2VjFYUGM?oc=5",
+     "fecha": "2025-06-26T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Sello 40 horas: Conoce las recomendaciones sobre su uso y aplicación en los procesos de compras públicas",
+     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEZ5aTZZUUtzVEtuR3RnTHVrYmpUekxXRnptNUtYMEVjYkttOGFyWWtnYllUc3FiQllpRkJMdnd1V1BuTmRaQ1BtLWJXRXNURnN4UTROVGhaLTc5S2VqQ1h1NWpfWDBxTmNERjl4ZnkyM1d2MDV2b2ptVFA5UXI4MWJCWURPZjJlTGRzMm5YS0JLSHZLUTFXV1hSb1k5bTVxZXAzeXVzc1VWaEZoOVFjdUxoOUg4WjlMdnpwSVphNXlldHl2ZnhodW9ud1N1U01wMFE2c3Vn?oc=5",
+     "fecha": "2025-02-28T08:00:00Z",
+     "medio": "ChileCompra"
+    },
+    {
+     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
+     "fecha": "2025-01-15T17:57:43Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
+     "fecha": "2025-01-15T17:33:27Z",
+     "medio": "Dirección del Trabajo"
     }
    ]
   }
