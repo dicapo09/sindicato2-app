@@ -1,10 +1,34 @@
 {
- "actualizado": "2026-11-27T14:21:36Z",
+ "actualizado": "2026-11-27T22:55:10Z",
  "fuentes": [
   {
    "clave": "turismo",
    "nombre": "Turismo en Chile",
    "items": [
+    {
+     "titulo": "El Gobierno bonaerense lanza incentivos al turismo ante una temporada de verano compleja",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHliWkJEeUJXMnpqUkxmUXJna0VUODRPNnQ4c05NNkRmMkdhS0lXM2VWSHpieWFNTGotUEZHMUZVUkNjbWluRHNLenFNRTRWc2RZRE1aaUhqcXQ3Wm9SR2dReVJPYWR3eGVTbGtERlZtUTlxMmZiOVA5dGJ4eEhFSWRQbmxiSlhiNk9EZVM2QXljcUhiVHVuZl9WeGprc3hSMl9JYkpwTlVnSWM1UnVZ?oc=5",
+     "fecha": "2026-11-27T21:03:23Z",
+     "medio": "Ecos Diarios Necochea"
+    },
+    {
+     "titulo": "Accor se suma al desafío de transformar la experiencia turística en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQREpZYjVFRUlyVFd4eC1aUENmTDk4STRNY0xtTkw4REZYNmd6dE9PX3B6TWlIOHNHaG1CeE1LUHdEQlFveGViaEZ6S0MyQTJqWFp6YUhkNXhMaTIzQVZsZ19JajlhLUgzM2pXcUVaZ29qWE9FWFVhWS1vUlNua3JlRFZBMTNEZnQ2OTlfYW9QN0JjdVFsRVR5YS1CRUVMNWMwNVMyTF9STmxscjA?oc=5",
+     "fecha": "2026-11-27T19:07:53Z",
+     "medio": "Chef & Hotel"
+    },
+    {
+     "titulo": "Subsecretaría de Turismo cerró gira público-privada para fortalecer colaboración entre Chile y Nueva Zelanda",
+     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ1hXd3ZTLXBsUzhaRUtXdUF5eFVDR0ktMEYtd0YwQzdtVjNHWWxXdzRSQUJQLWhlMUlya0thY3J1YmwtN0l3SHhNR0oyaUpXZDJJMUxaZFEtdnB6WXhPUW1JZTdvMmNQdzcxRTZmaFdETEtmaUo1M3lhUTZmMjBldGdDakJoT1ZCN0d4SjVPVV9QWUtMRk1OM1NmVzhPd1BNcDhkc2RvUkFJdV93S0RjY3EtYmhVTk4yREViM0Ixekl4YlRaeDUxNWZpaVBPcTB3WXlxcHVR0gHWAUFVX3lxTE5DWFd3dlMtcGxTOFpFS1d1QXl4VUNHSS0wRi13RjBDN21WM0dZbFd3NFJBQlAtaGUxSXJrS2FjcnVibC03SXdIeE1HSjJpSldkMkkxTFpkUS12cHpZeE9RbUllN28yY1B3NzFFNmZoV0RMS2ZpSjUzeWFRNmYyMGV0Z0NqQmhPVkI3R3hKNU9VX1BZS0xGTU4zU2ZXOE93UE1wOGRzZG9SQUl1X3dLRGNjcS1iaFVOTjJERWIzQjF6SXhiVFp4NTE1ZmlpUE9xMHdZeXFwdVE?oc=5",
+     "fecha": "2026-11-27T16:03:00Z",
+     "medio": "Ladevi Medios y Soluciones"
+    },
+    {
+     "titulo": "El Tolima fortalece la articulación institucional para la temporada de fin de año en el sector turismo",
+     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWC1PeEFNTlp5X0pyaE1nbTUtTjlYX2M4b2s2b25VX0plV3JpQmxIRWVwTFR2YXdHMmpiVXZkdWlCQzZ3RTJLbTBNSXBMeUpBUkRjVkxCSVJPenA5V1VsX1czSDlJempJd2REN1lmSzFGTUY4S3lwSjU2TXhYTldONHFOai1YRTE2WHFBelYwNkQwY2gxbDEtb05oQ0pQZjQ4Qmk5Y0d6MkQ0eDJCeEJCOV9wR3hLQXlZUWJ1V2pBaHRhTVhFRU9peEMyczNtZ2hubGU0dl9n?oc=5",
+     "fecha": "2026-11-27T15:00:38Z",
+     "medio": "Gobernación del Tolima"
+    },
     {
      "titulo": "A la espera de un verano complejo, la Provincia anuncia incentivos al turismo",
      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUk43cmZ3WW9DS3NMVkg0OE1UMzdMSnk0N2pvandXRm95WWw2WGJSalU4RzlCS2xZeWdfY2JReWtFVnJTbEFBTXRrT1BBRTZOZjFHZXV4ZUdXM1JUNmUyVUtRSFJKMkhsYzJwYkJkMUhTWGlLNVVWX0RVRHpXVjlJampLdkxHR3ZWcVBRVkRBWFZkRV9IWnJmOXBuNmhLM1RYOHk0STkzajBGUQ?oc=5",
@@ -12,10 +36,10 @@
      "medio": "Diario El Norte - San Nicolás"
     },
     {
-     "titulo": "Ante un verano complejo, la Provincia anunció incentivos para impulsar el turismo",
-     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbEd6cklUVVFzTVN2VUlEb2I3UTRZSmRpVWVuNDlaZzVrdWFicW9OWWhyQmNWekdHSHpmRWE4NGFxWnJ2LWx6UURzUkF4QVlRQlkwYVVUT2h6MXZ0dmFRTl9tWUFObGc0WGtzZ0o2cVJVcVh6eHcwNmRZcl9nTm8xUXFuZHl5NkVMVU5hYmVzVEVZSXFROGJiYTdaMXB2c251eDJoRzlzNkxpQy02YUNV?oc=5",
-     "fecha": "2026-11-27T13:35:54Z",
-     "medio": "El Marplatense"
+     "titulo": "\"Una infraestructura sencilla pero funcional\": lo que Chile puede aprender de Nueva Zelanda para el turismo en sus parques nacionales",
+     "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOFU4d1BuSzdnUmo0LUZCOXhXNU9CT2NHZDBBMEVVOGpyNjhfT1liTm5IZVZSZVVXcDN6eVh2bGV6cU15Y1QtTmliblRoYnM5MVFmZEtUdTVfa0FXaW9YRVVsVGZxWmhHY2REb21HaG1NNFFLZ25abDl2Zm55SHhpLTE0dzIyVGpoQ1J0R0JnWjhsR1FMV1VIQ1llbVplVUl6Wkp4b2JMdk5USHRTRjhXQm9iX3pZTW1vdEtpb0dIbEh1Yk1NblQ3WkFUaU1TbEdCVVdUOVl1dUFCWnRaTWtsdE0tblBPVVh3WF9tRzlFQ3NsZWdKVEN2b2lZNXk1SFR3VzhJ?oc=5",
+     "fecha": "2026-11-27T13:54:56Z",
+     "medio": "Diario Sustentable"
     },
     {
      "titulo": "La Provincia lanzó incentivos para impulsar el turismo",
@@ -24,76 +48,52 @@
      "medio": "El Marplatense"
     },
     {
-     "titulo": "La Provincia anticipa un verano flojo para el turismo y lanza medidas para incentivar el consumo",
-     "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMHBHcHhabUxVOVN0LTU4X3l3anRlOW5Na3lqemJpcnRyNDdIVEdqV2w4WkNnRjhnaHd1akx1cl8teE93SGktNlJuYVFzcng0N2ZkUW8yWEhYOXpDSXY0bVdhT21tVFgwbFdsN0MxUGlvNVpqYzZUWnJieDhvVWtNdFdQbElLWlRGb3FNLTlkRjZ4aEVkVW9EODB3Q1lTOThlY2pvYUVRb280VmktS2pkbXBsa2lPVzV1Rml1UzY2Q3haRWRLcVpRNEYyY19qYXBnTGR2alpsMDFjRDBzNzBETzVIMjFZN0dZeDk5Nw?oc=5",
-     "fecha": "2026-11-27T12:27:47Z",
-     "medio": "Junín Digital"
-    },
-    {
-     "titulo": "La Provincia se prepara para una temporada de verano austera y anunció medidas de incentivo al turismo",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR0JERWJCc3pPUzhxc2RGM1NVLU5NYWNPZk10dWRpLVpZRWwxWUc5MzE5VkRCZmg1M0FHdUZJcFB1a3JUQzlDMXJMY3pKMDhFR1lQVkJBcURQWEZIY1FIUG9aOHZZdG05cXJ3bDI5RTZyTjlDM2E5V3ZnUHFxQkhHOFlycU40aV9yNHEtLWRmMnB2VmMzd0x5WlFNZXd4WFh0bXh3X0VBVlNteVpNQUUwcDV4Sy1WUmZOSkdydV9GRDdwNW9OSlBET0g3SzlPSFJnNXNz?oc=5",
-     "fecha": "2026-11-27T11:30:49Z",
-     "medio": "Infocielo"
-    },
-    {
      "titulo": "Ciudad Ho Chi Minh amplía su oferta turística para temporada de fin de año",
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnZTb2YxM251WVIxQ0tkcHlBbGN2TzBaTkNUb1MyQ3NjMm1lbnRKS28ydUI5WFJYYlhibjN5LWNXWHpEWlh0YnZraG9WcHpGUlBGbkF4a2Z5V0VjRXJwVmNwUFBNYkNGdU93VVFydHU4SGhOR0xfenA3cjFwaFJOUVpPekEzMUJfSkRVU01nN3pualAyUkJWZEJKckkyM1IyMGJCTnIxVGN3WHFjS3JrdXQ1eTNtZw?oc=5",
      "fecha": "2026-11-27T08:22:19Z",
      "medio": "Vietnam+ (VietnamPlus)"
     },
     {
-     "titulo": "La ciudad de Ho Chi Minh está intensificando sus esfuerzos para promover el turismo internacional durante la temporada alta de fin de año.",
-     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2djZktQeHN4LVVJckMwS1UzV0Ffalc2QXpQQ0VONHNLUTRjLUZDeTRsZ0xFS0h6VXcyTFNpVE11Y01ObnBvTzg4N0RSYTJHTWZpUG1lcDNFNE9uVnVOUDJQS3R2TmtSY1FZTDB4Tmp0Wld3ZVNQLXE2ZEhlaVhDdjFFWktfRkhSbVpZeUlQdW0?oc=5",
-     "fecha": "2026-11-27T04:01:30Z",
-     "medio": "Vietnam.vn"
+     "titulo": "Puerto Río Tranquilo lanza su temporada turística con respaldo del Gobierno Regional",
+     "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Kek1jSkZZNFZLLUNNVDZIM0YxUnhoR0FscU5CaDhZbVhVYmhrbUJITVhDb3VCUFJYUXhaQVJyZUdxRmpXN0FJalFJX3lsZw?oc=5",
+     "fecha": "2026-11-26T10:55:00Z",
+     "medio": "Radio Revelación FM"
     },
     {
-     "titulo": "Salta lanzó su temporada de verano 2026/2027 en Buenos Aires con beneficios",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUVDNTZjVWw4ZlppNUJzY3I2WUt6QWhpeDdVLUxhODZic3dhb0ZLRjFscU9oOFIwOHVrb1hsMG9kZ2RYckZCdG9VOXFJeEEwNV8xc290NTVXeW9obTVCVHh5UWp3N0lWaUgyaFhRSXhRMktPam5KY3E4blBoUUJRdjE3OXEwbXNONDZGWVUxYUpCNjF3OERWM2VyZUhuSWxuUTdfLUhaTUt1UzZlVnBKYWg4TDE?oc=5",
-     "fecha": "2026-11-27T00:01:00Z",
-     "medio": "REALPOLITIK"
+     "titulo": "Chile es Tuyo se suma a Viaja Fest en Concepción para promover los destinos turísticos de Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNME1JMHBaekplNTRvV0R2Y1FrM1lDUmdkbWFoOXgtYjREZy1KbEw4TndUQjhHTkdEZXJXNk5XeTM2WXpFcjZpVXY1d3VQVURncVFtMDFMcVVGSDBmUEtUbWoxMWhSWkM3RjFxN29aN3BTa1BQZXpPVWZ4cEFjS3pxdmlkY3VLZ1NxeE1Bb0NXVk5lS204djF0ajFMdnZyb1B5VTIyQktwTUZ0RXJUUWVTeTlDZjltMm83ZnFDcXJPX0w3dw?oc=5",
+     "fecha": "2026-11-24T20:01:09Z",
+     "medio": "Sabes.cl"
     },
     {
-     "titulo": "Reunión del CoProTur: críticas al Gobierno Nacional y apoyo al sector turístico",
-     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3IxX1kySUUxWllzX25TdThWMVNxc1YtTmZLSEl3V29wckZDYXh4b0ZRT052T1hQTnVRT2Uyd2NHRjF2d2FtYm5iZHhMOGlwSTVKdmpxN3VpNGNRV2ZBMlRfcy1CQ0xBRFNBSDBtZXg2RDZLaFVGR05udjV1Y2xwTE9zYzFfNS1TNUFidW1wNlFZWC1nOWlGa1dCMFlTZUxmZ1FiMldmb0FteDVYVHlEaEI2clZHUE5VVkIwdkYyaHkzaFM0TjVySVdCQTkxSzRyOWc?oc=5",
-     "fecha": "2026-11-26T20:45:37Z",
-     "medio": "Provincia de Buenos Aires |"
+     "titulo": "SalmonChile y chefs de Les Toques Blanches inauguran la temporada turística en Puerto Cisnes con encuentro gastronómico",
+     "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcUhvcVZERlk4WGNxMW5pX2U4VnFpNlR6Z0k1RDNGWklDdmNKSHVPaEFtZ3UwV3RzWVg2VzQ4WTVRaUxLa21IUDNSaGhhMVNMdmU1cjBjc2F5STlkWUdrS0xmNWNYQjUxUTgtVS1hRUp3MWtZWWJOQlB4YTc5eElRR3JoWnJCUjhpNjdkSk9Cak1BNWpKOGhVMVk2WVRTY1JUX0tVd3V3TEFGN0ZtSzlSR0J6cU1iS01EX3VEamRiTjlnclFYZWVZZTJNVm1TaEdlNU56YnRaVXY2M2JVYnBidjM0QTJvVk0?oc=5",
+     "fecha": "2026-11-24T14:17:08Z",
+     "medio": "SalmonChile"
     },
     {
-     "titulo": "PROMISORIA EXPECTATIVA DE OCUPACIÓN: Reservas hoteleras para temporada de invierno superan ya el 70 por ciento, reporta director de Turismo de Bacalar",
-     "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPaC1kZkgwbzhQc2ZfVVdPME55MGJ3R0NzelctbC1nOHdtb3p2WF9OZnF3bXZxNlpwUkxXbmVvMV9JMGc2eDh0ZmVfZXJZdVZneTBsSkpRLWE0di1IQTNMVjhjejlMbHIwaUtmRlk2Wm5SdU5RTnRfQUZOOUVOTzZoWU43RklOZ0tjQXAtczRmbzA5SzdzZlRiWW5vYUFYLVlDSHJFMnJxU05kellkTElSaTlxSHBuTzVmWnZ5bTlRWF9MVFFXMlNhMmJrWWl1eHlJNTkzSmNYRmtHeWlkbFlGcGIyRHUxZG4ycGRrT21kZ2JlNnBaQlp1elBuYkFDZnNUSGF5eXFudVJ0aHRIX3RYNzJ0ZUY?oc=5",
-     "fecha": "2026-11-26T20:38:30Z",
-     "medio": "Noticaribe"
+     "titulo": "Lanzan la temporada turística en Puerto Río Tranquilo con fuerte inversión en la localidad",
+     "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONHI2bkxUY2lBZWtaR1RTYUZzM0tiWlBnekxwRFBQRy1lNUszb2xaU1NJQWZOUk95SGFnRFo2YUVlYXR5cldIdjZjc2d6cE1xTUwyYURWRlNiMFJIT3VBWkx0RldYa3RiTkJHVWl6MGlXMGJXODl1X2VnZ0ZBQ0x1M1FGeE8xbk0zVmdPV3R0TU9ENUt6YmhRU3N4M3ZCUTBvWENlMFI3bHR0bWI2NG5mUmRYQ2pQTXpfM2prR3dBZHFxbHZ3R1RCZFQ4bzFUNVJyeTA0VzZFaTJ3TDZrejN4cEJYUDNDek0?oc=5",
+     "fecha": "2026-11-23T21:35:00Z",
+     "medio": "Diario Regional Aysén"
     },
     {
-     "titulo": "Sernatur abre curso sobre cambio climático y turismo",
-     "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXVkcTV6MzRicm9BZktqdFZmODNuRHBuTzcxcFpVczE3a1JjYXVhaGVfQmx5bVQtakl5MWp6blYxNWRoazZjN2ttajNYQUNxYjhwVFpBalJVa2s2cFRJUkpId3ZHMGd5YmNwLWlIUV85QjM2d3dWcVktYmRFTVdUTTJsejluRnVfZmNOZXdQM2pUV2pxM2MySWIzNlU5UlRoRFVHa0x3YS1qMEZvdWRpZGswZw?oc=5",
-     "fecha": "2026-11-26T15:38:00Z",
-     "medio": "Radio Atacama"
+     "titulo": "Chile y Ecuador impulsan agenda turística para 2027",
+     "enlace": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LWkI4eTRMR0RsQ2NxWHpaY1d6RVV1X0RhTHJoLWlucTRuVDdhSlJxRVpnREo1OVRnckpXWW5Damx0cURiSkhpZTNyVkhxcmxR?oc=5",
+     "fecha": "2026-11-23T18:06:44Z",
+     "medio": "Portal Metropolitano"
     },
     {
-     "titulo": "¿Está preparado el turismo de Atacama para enfrentar el cambio climático? Sernatur abre convocatoria de capacitación",
-     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNzl6T3pTY1V1ZmVCeGRfQWNUMS1BQmlHR0hpR2wwbGplWlE2NW5vRmVfVUFQTUU5ajRYdFY4OFRGYnNrVUJVbGdlVko1XzN2NGFkTHE5RGo2YWdFYmNXTVJFcUdabGlOX1EycXd1a0R3Vy1RMXg0ZmRpdzhZRGNQWGtXRmd0RTIwSk1XSkhZM1BvUDF0M1JZWnRQQWI3RndtYUY1UGtDRE9CdDNuMmhCR0Z4V01ZLXZVanRvOENHX3dISGo5VWl2SzI3cjdGdw?oc=5",
-     "fecha": "2026-11-26T13:15:25Z",
-     "medio": "Madero CL"
+     "titulo": "SERNATUR y Servicio de Protección Especializada concretan inédita experiencia turística para adolescentes de residencia LIPNATUR de Antofagasta",
+     "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMVEzNnRXWHpFVHEzWUdCQ2pSbWJqWHJLU212SlZxalhQUENxb0VibkpOaUliaWdYN3ZyUURXYV94RmhQaXNyb190Q182ZDlxWG53N2wySWFjaWZhYjhSVU05d0taYWR0NlROVzNhN3p3U3NaQ3BHNFAtMUFCZjYwLXJidTRvVlpzNE1EUlpETEllZHk4dUo1Wk9GTlZad3NHQkFWWmU3d0s1YlA5Yk5yMnRNdEQzN0FHblBvOUJSZTVwbkZpYnhvbzZvdHJqYzMtUlVScGF4SHR5MERQOHVSUkROTDVDbUdGazVHdFZSR2ozdUpxVGJDT25rN0RoUFU?oc=5",
+     "fecha": "2026-11-19T14:36:16Z",
+     "medio": "Desierto FM"
     },
     {
-     "titulo": "Tailandia está intensificando sus esfuerzos para atraer turistas vietnamitas durante la temporada de viajes de fin de año.",
-     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTBGXzdhOG93ODhtVHVGNV9WcUp5UElVZ2kyemJ6eVlGczh6eGFVUThJR1ktWHFSNDg2eDl2NXZQUDVDTTBpQ2lSak1JZHVsejBSUDNybHp2clpBMU84TkV6VzF0VTJENTJhY1NacEh3Z0lIUGNQdE1mWGtzeFFXTW1QWnJYOUR2RzA4Qjhn?oc=5",
-     "fecha": "2026-11-26T08:56:34Z",
-     "medio": "Vietnam.vn"
-    },
-    {
-     "titulo": "La temporada turística 2026/2027 arrancó con música y sorteos en El Muro de Quines",
-     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmFpTllEUnkzLTZHalJOS0tkRC12d1JxVjF1bWNhVzFYUklJYkliWVlPNl9tYUpHQVBxNk82azNQQTVhYzl0VXBfRUJ6UW9wUkMtTVo5T0lXTVoya0ZxMUxEWEE0LUI4VGJ1Y0NqQkVhM3dhbEstRGo0RVRsUjFMSjBza2J4bHBNc1NQUlpmcXpONEJzSDhNUk11TFRvaDZhbDI2UGsyVlA4VUJPbjFFNW80TWNsQm1aY2NqMzJxemJBWWJqTC1zaUtn?oc=5",
-     "fecha": "2026-11-25T11:34:18Z",
-     "medio": "Data Diario"
-    },
-    {
-     "titulo": "Chile debate IA y gestión de destinos turísticos",
-     "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnhCdVozeldiX0Y0aF9hTC15Y2hGQmsyMEtEbGVtZWIzOWQ4NHRhajVjUUVYWUJfZkhDTHJoQXdpNHlaSkE2R1BFNDBENDBKcjd4aE1rMTVjSkVjNDlWZmMzTlFSX3hja0Y0SkZIYXl3ZEJJYWxDbXpiNk9ZcF9hSjM0aVB6X0xNRFk5dXY1TnI3MXF4em4w?oc=5",
-     "fecha": "2026-11-25T10:30:00Z",
-     "medio": "El Enviador"
+     "titulo": "Achet: los desafíos para el turismo en Chile de cara al 2027",
+     "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDZnWldjZDZqdlNyZHp0MkZIXzZLZ0RZSEdIZzN0VmQwU2FLUUs3N0d4bXF0TkluYzFreFNfd010UFZHZUpHTmhic2RCSXZEMmYxR00yUUUtLV9xeUlxNW5yTlVVV1N6YWVHUTk0OU51Z2ZPUGFZNDdqei1vSWJuMWFQdzJXZUZoVGNFbmZ1LVloOFNzbGtzetIBmAFBVV95cUxQNDZnWldjZDZqdlNyZHp0MkZIXzZLZ0RZSEdIZzN0VmQwU2FLUUs3N0d4bXF0TkluYzFreFNfd010UFZHZUpHTmhic2RCSXZEMmYxR00yUUUtLV9xeUlxNW5yTlVVV1N6YWVHUTk0OU51Z2ZPUGFZNDdqei1vSWJuMWFQdzJXZUZoVGNFbmZ1LVloOFNzbGtzeg?oc=5",
+     "fecha": "2026-11-18T18:32:00Z",
+     "medio": "Ladevi Medios y Soluciones"
     }
    ]
   },
@@ -102,26 +102,8 @@
    "nombre": "Villarrica y Pucón",
    "items": [
     {
-     "titulo": "PROYECTAN MEJORAS EN ESPIGONES DE PLAYA PUCARA Y ESPACIOS COSTEROS DE VILLARRICA Y LICAN RAY",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU0xiMlJkWGhaYk9sZVBWYW1Sc0twMUFvN3pHTk5ud2x3bHJlYTZyQVE4MHNQVno4aFo0V2pLWkpVdWkzTHZBTlNQQmZwSUNhclhwTXpzdGRxdUM2eWhJN3lrY0RjaW82blB4TjJRWVRKNHlNQUNMYzBtTkxMQ2VGZi1tQkpMdWtxN0pnNFNockdsT2tnWEM4MFdNcXZLbDBxYXJtMjhlekRUYTJEeWNnYUo4SUNOQXZmUC1MbjZlZ3gwbGxJNDg4aEV6b2NIU1BvQWhF?oc=5",
-     "fecha": "2026-11-26T22:17:53Z",
-     "medio": "Araucanía Noticias Temuco"
-    },
-    {
-     "titulo": "villarrica lican ray",
-     "enlace": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43dHhOcUNzbUlvQXhwZ1ItOFBlYkFsaWx5dG91NW03T0JvSlhSbXpGamdhRWEzMTYzQmRLVXVNd0FEUDZzc1c4RGw4QnZkWHVVLWpYS0tIMmNFdGREMDlHTFB6QQ?oc=5",
-     "fecha": "2026-11-17T18:45:00Z",
-     "medio": "araucanianoticias.cl"
-    },
-    {
-     "titulo": "LA PARTICIPACIÓN CIUDADANA MARCA EL INICIO DE LA CONSTRUCCIÓN DE LA MARCA TURÍSTICA DE VILLARRICA",
-     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVFVPZGZiYlNWcC1YdXd2Y25wYzA1eFhMMFVCYm5CUzBmdG5FSFVoU1VxTmZMc1BrOXVjeHgtZXd3ell6T055ZmQwcDIySlIwTExXVGJIYm96SThLQWgySnBYc1ZQV3dNVnZ6TmdDUkE3VVo4blFNZDJPZFExaFR6SnBpSkIxX0VCekdneUZOMGNMZ291ZUpPQ0F5bGk2VkZlelR1TDg3OXczX3g5N0JSQ1JfT3BfMmVWVEZRbVdoREROWWFaYzhSU1FROXJDYUdkVGtJbEJXRDNvQQ?oc=5",
-     "fecha": "2026-11-04T23:48:03Z",
-     "medio": "Araucanía Noticias Temuco"
-    },
-    {
      "titulo": "Villarrica conmemora el Día Mundial del Turismo impulsando la innovación tecnológica",
-     "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbk9PWkx4NXJ0bjNUaDZTQlNwXzg0d0E5em9KODlNR1dMTEI0N24ybVBHcmRXeWd6UXlaRXFlU3ZfaUNhVk9VMm1aTGR5Vm9UU2RzM1FXN1dHTGdLNkJHRWV6ODRZdWx3blplc0o3em9Ea0NFZzdqSjVGcTdEckxJSEZXWTk0YnR0RHVmWGpuWQ?oc=5",
+     "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbVBVd2hBU3BKczhXMFVCLWJKODFLSjJibEdqRGlZNFR0UDlpNEtyRlJjMXpvcXUxcENGamV5S1RyaTBONElsNzdaR0tkbmp5ZFBRMzl0NW5KelNBdk02OHcwSllTMU1JTS1nNmRtQ2RmenFXRkx2TUpDd3BQRUtGWnowMTREU1FVMnZOYUpBTQ?oc=5",
      "fecha": "2026-09-29T07:00:00Z",
      "medio": "SoyChile.cl"
     },
@@ -132,57 +114,9 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "INAUGURAN MODERNO CAMINO PAVIMENTADO ENTRE CUDICO Y PINO HUACHO EN VILLARRICA",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcDVBTGhvVFZCUDRDV3lVNjB6M0FycWpNYkwzM3lBYWpaX0RXbjY3M2lNNGkwYmJoTWFVOERXOUtrRENnRFZlZ0oxcXBVXzFrUm83b3l0RUtOMzRYQ0c2THlCeWJjcHNYZzMyWEQ0TzZFVWN3Wk1PS19Nc2t5cUNvZ1dQc1l3MlVCMnN2Yk1UOUNybG9OcHVvd3JQWXBvWTBvQnFSLUxBdmxnLU1JSDlxV0pJYlc5MUxMRnVHUElOYw?oc=5",
-     "fecha": "2026-09-07T07:00:00Z",
-     "medio": "Araucanía Noticias Temuco"
-    },
-    {
      "titulo": "APRUEBAN HISTÓRICO PRESUPUESTO DE 1.630 MILLONES PARA POTENCIAR LA ECONOMÍA Y EL TURISMO EN VILLARRICA",
      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbDNHUFhyZEgxNTBYMGhGQ0FDSExJOGtuVTdjNzQtV2RFcGt5SGJMMlhiZEVSR1o4aGFOYVdYczFxYTVLVkY2Ynp5UHBXVW9SczZtY1VHRF8xWlBuMGExUktGanJQTnZWXzllNXVMaWp1T2NMazlDTzN0MHNGM0J6c0FHYWJtNzNBTTNKY3FjWWhSRFpZdUVsTDVkd3V3d3hkd0FMTXprNkZMVDZxSUt3Y3h0VlpMSkgyS2llNUhNbTdEbXhPRXNxZG8yNm1RR2Y0N3htUkJaRmVaTnZIQ3E3Mw?oc=5",
      "fecha": "2026-09-03T07:00:00Z",
-     "medio": "Araucanía Noticias Temuco"
-    },
-    {
-     "titulo": "Las grandes obras culturales que se vienen para Villarrica y Lican Ray: revisan proyectos clave para 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWi1YU3hxVTJqLUdBTllfOTJHZEpaTm9zOGlOck5EanJtT3BUVTkxTVd2aEJkVGJKYW1kZFZ6bENDa1VqQzFaSmxGeG45bFF1VGl5bkdodll3MUJsOFdDajV3S2pGeHBSb0VyWGluUGpjeVlIbTZ0YzBDZm5QQTFwSDFyYVZjbHNpYkhiZWU1ekUyazJ6dG5QOWFBUnRwZmRvS0tvcDBrUU9EaFg5V3FBc1phSGtQOC01UGt1YXJuVll5UQ?oc=5",
-     "fecha": "2026-05-27T07:00:00Z",
-     "medio": "laopinon.cl"
-    },
-    {
-     "titulo": "Travesía Interregional Lago Calafquén reunió a más de 520 deportistas y marcó récord sudamericano en Lican Ray y Pucura",
-     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdTFqX1cyZmZvRjlGaFczRGxiMTFhQU1kbExESnJnU0NXVGtTd0o0X0M5T1Q3b0dMN0trZ3A1Wm1La1lZd29vTE00WXU0ZWxYaEQyMU1XRWFsdGtvbEYzVXlSVkRFWlpOamlTb2ZPaHVjc3IwMS1iV1VPQjBlc082d3VqVW9Zc1Q3N3JNWE5jLVZDSTItRFBiTlc3Y3Y5RWl2cFc1Y2IySjBwQ3pKclBXZW9RMjlVN3FuX2F5SzE5eW5HQTVMcGxUNENFdmd1Mm5WTUFKRWpPRTNOQUhkZ0pibVRPYnhnUnNGQkxFQkczSkdFTTU2VUcw?oc=5",
-     "fecha": "2026-05-06T07:00:00Z",
-     "medio": "araucanianoticias.cl"
-    },
-    {
-     "titulo": "Más de 400 kayakistas podrían marcar récord en la Segunda Travesía Interregional Lago Calafquén",
-     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTUtNWW1sXzM4REdKZGJUM0kwN25TUnZXWmV2VUpmUHBCTnVqRE1NRVNrQ1h2ZFRrRC1BSkhSS3ZTZ3lvZDhzak8wcVo5OEZFOWNsMGxsVGE4TGk0SjRLZFQtbUZiZEdSY2hpMjM0WHpBN2VDbEp3Q3BaMnlXLXdWcUZ3T195aFJhVGdNdnVFaWx1d3ZmUlhhOFJYRmRIenBUenBfWE9GUEVCMW9fYU5YTEVzUkJObXVLbjN0bTJkYVhnbXBNeDZoWHY5NnpsQjR3V0F3aVhR?oc=5",
-     "fecha": "2026-04-29T07:00:00Z",
-     "medio": "Temuco Televisión"
-    },
-    {
-     "titulo": "Cómo llegar desde Pucón a las Termas Geométricas: uno de los lugares turísticos en Chile más visitados",
-     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWDVSUEZ2eVFGQlRBekhuTVhwNzhUcnpQcGFja1dVQ3N2Mk5WRkpDTFVjeW1oSWx3bFoyaUhTQWlUcGlaU0RLR1AwaXo2a0FJYjM5NXBRVlF3ZmczZGZkem9iWXBMZ3FUeFJXZ3JjcEk0czJhSjdSZXMweWNDaGFscnVITGlMdUlvOHcteVBlSEhFbHhkYlNVbDgyQUxCWXVlWVQtUFVCanFHaG8xODJhRDJpd1JheGJZMXlMOUlvYUVpOE45ZGNmOUJOd3BIdmw4Q3czekU4Y3M?oc=5",
-     "fecha": "2025-11-26T08:00:00Z",
-     "medio": "La Nación"
-    },
-    {
-     "titulo": "Panorámica 360° y Skyline: las novedades de turismo aventura que se toman la región de la Araucanía",
-     "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeWxMNVNWY0tYSWpCbURlbGlUcWYybUYxeGxCeTJYSjFaZS1zUWNNR2JJckNFMi05STNqOEEwZnpVRE1GSGlkQ29EWE5hb1dTVzJFVXZlNjhhOXZmZ2RKUUExTDBwdjJhODhHd2FrbUpGcWJGSF9YMUZDeHdJV05QUHlaN3ZBaEFDQUFacjR1RmNZX2E4Ukx3Z28tWHJTZklfTjhTVVZwb2lINlBrQ2JiMkY0QVlubWlrbU1IS3ZCX21iZ3RSXzJmYXlIS1BzUEo2WVdqNnF3?oc=5",
-     "fecha": "2025-09-26T07:00:00Z",
-     "medio": "Araucanía Noticias Temuco"
-    },
-    {
-     "titulo": "Esta es la mejor época para viajar a Villarrica en Recomendaciones de viajes",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaWlMMkJMeUpOY1Qwbi1aM2JHa2NiNk9qajVNRm9vN1FLcFN6aWlXeXNWNHFLU2djcmJlelhZeDJxNXFKdXpIWmpaeVEtWWNmaGFRQ2pIUi14SlJjeG1oejNTWElKR1htVkV1LW9ZOWJiVk55eUVFX0RXMDRWWnRTYkRUYkJkYWwzTWVZb3h5X2Q4NGRzMVI3al9YQThJYzZsTmRNZnhFVTVjallH?oc=5",
-     "fecha": "2025-07-25T07:00:00Z",
-     "medio": "Turismocity Chile"
-    },
-    {
-     "titulo": "Lican Ray vivió exitosa travesía interregional de kayak uniendo La Araucanía y Los Ríos",
-     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ1NxY0FiUkh6VHRrTGFLbU5YOFZyWFB4My1adUZLLWZWbGtwa2lIOUZHaVF1X1NsOHBGbHJZV2ZJZ2tYM2xPdGhvWGVqWXllc09UM2JhRjV5d1pzNXZSdUpqbXc2eXlxa1pselNRQ2ZKLTFZVHBKZkhfc1E5QmJMajJEVjZhb3AyVk1ETUpGYnJhdFZyU0xlbDRqUl9rN3dvZHNra3VoSF9BTGtMMkhiRGRXQklyaGgyWThEMmxVeWhpZjh2UDdz?oc=5",
-     "fecha": "2025-05-26T07:00:00Z",
      "medio": "Araucanía Noticias Temuco"
     },
     {
@@ -190,6 +124,72 @@
      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGE4bzNxeDNISmxtbS1LVVdjVk9qNUZZdEl0MTl0S1ZpSWczYTIwTXJnSDhMNmpoWTl0SUdRQVRQX0pvRXVyZVBkOGVuYlJYUlZmOVRIVE1VWjFaSl9NUF9xMGVacUhNVS04UTF0dkpodVFRNDI0djR0b3F1VWlsdFUzNEVUcmtvTl9lZzZJZ1o2Q2N6ZlhYRWpqRWdNQnZsRERMdUlLUWo4Ni1kTXFWUGNxc2s3dw?oc=5",
      "fecha": "2025-04-08T07:00:00Z",
      "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "LICEO BICENTENARIO HOTELERÍA Y TURISMO DE PUCÓN CELEBRÓ EL DÍA NACIONAL DE LA COMIDA CHILENA",
+     "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbjhyRzM4bzJxZjNjcDlHWkNJbjdkMkNjYVNYVkFtS2dBNzVrTE1CUmFiaDJtRFlNV05ONFJXbUJ1UnZ3YkVOU0FOV1ZHY1hzVDRqSFhtbURtZFJ5TzlXRVhGUmJJaW5PYWVaWWQybk82UUxlaUlEWDBTWlZiWkx0SDJuWE51dmtHX0U1X1NhMXhjcllRVU04UFVxWEw2QTgyaGJEU1QzVVN1elpSajgxWUJRMGxIYkR4dG1XdXZpQ21iYnR5QnRrSmxHZWRndUNr?oc=5",
+     "fecha": "2024-04-22T07:00:00Z",
+     "medio": "quintadimension.cl"
+    },
+    {
+     "titulo": "Masivos espectáculos de cueca se tomarán Villarrica y Lican Ray el fin de semana",
+     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY0JEOHZtVDd4ZEpLR0xqQ05KbFRhRGZZdkxSRURSMDJlNEhSanFVV0xCZVhlcVlzeG9BOEJTb2gwdGxGU0wwMllxRVZIaVU3YWFoOG5VOXU0a0hLc2xsZ0wyMWtobUZuMjRCcmhGYUUySlZIN1I2RFNvUmx1a3ZsTjlaclRmTlJNWFVad0NsVnViWXhINE5BZGZDRGVQLVBYYmtKbURMUm5SMFhfdDV5WHQ2aWhNZVA1cDZNejIwUlc?oc=5",
+     "fecha": "2023-09-21T07:00:00Z",
+     "medio": "araucanianoticias.cl"
+    },
+    {
+     "titulo": "Lican Ray conmemora el Día Mundial del Turismo con nuevos desafíos para la zona",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVVJ1ZXpDVU1yUUJ0UVlGZDhjZy1TcE4yenZpVzJmVnJ4ZWdxcEN1RGR3MUo3S3RLNXFIcmRvcmMwTGFvalRkN2ozcnVRMG5Gd3N1b2pnbVNQdGdZb1pucGQ5bmZJOVlxSkpPUllmNlE1MmVkdFRLSlk0cnVJVmd2aDhkQkZURjJyV1JYX0ZoeFBSVGNsYUVMRnpzSi1yWF9kMUV4MkJfOW55ZG5ScFdwa2lOOVh6UGRYczRWaHpvcw?oc=5",
+     "fecha": "2022-09-29T07:00:00Z",
+     "medio": "araucanianoticias.cl"
+    },
+    {
+     "titulo": "Villarrica tuvo su cueca más larga de Chile y elevó los pañuelos en Lican Ray",
+     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm1OcWxuLXlXa1lxckpYOGdiek1QeHFsLVRtZGxLZFc5TXZVaFhZWWpyM25jQ0lLM215cG9QU0tlb0MwU1pfZzVrX01TelNyLXhzSk1Nc3pCUFFibVM3cTFYZEl5bEw1cEE1SkZMWUpsNlhjWi1aSWVGd3QwQVVqdUZ0b0RDYWRxUHBrcGVQMEhFNHlpcWI1MjA3REtqY3JjOWlsVGpJWWZ5UXdqOWR3TDh1bUhNdlhxLTA4?oc=5",
+     "fecha": "2022-09-26T07:00:00Z",
+     "medio": "araucanianoticias.cl"
+    },
+    {
+     "titulo": "Escuela Luis Cruz Martínez de Villarrica celebró Día Mundial del Turismo",
+     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHVveW9nRzNsei1VaXc5U0laR21TbUt0dW5HbFY5ZDJRY3F0bGFTRXRJSHpTR0I0NE81dGtoVkVHMHRISDJGX0trS28wU09rS1VVdGpRaWpCQVV6SWYybWgyS2dBcVJBckk3YWR0czFPUlBDTHU0T3RGZmw0SnQzanZHNGNJOHlmaEdlWDY1ODdBS2IxMkx1NThBUE91V2VCeFRSQ3QxUU1yZHdKWmh1bFRSMHM?oc=5",
+     "fecha": "2017-10-02T07:00:00Z",
+     "medio": "araucanianoticias.cl"
+    },
+    {
+     "titulo": "Licán Ray revivirá hazaña del asado de cordero al palo más grande del mundo",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUZWRVVWVTc2R2k0anVoQklhYTJwVzk5a1BLeW14a00wTFJyQ0JCZmhvbl9yNWJkVlBETWNERERzSFVmQnhDN2FaOWtnZHVwWlhwQk95Rkt3U0ctYW5EWmlTS01IaGNSWkFPMGlKVHRsdGxTcEVBSUl2RHJZa08yc3dEX2N0THRobGFOM2FxeVZLM2pqcWFIbVA4XzZSc2V5VXJqblE5YnVyeTFYUUxmNTFDWU1BUnUxNDNRdDlQS2FPZ3gzd1Nla21hNDJpY0xWOWZN?oc=5",
+     "fecha": "2017-02-22T08:00:00Z",
+     "medio": "SoyChile.cl"
+    },
+    {
+     "titulo": "Este sábado: Licán Ray revivirá hazaña del asado de cordero al palo más grande del mundo",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkZYay1DSkkyX0d0VmYwWmNGbm5qM1VxUjlXSDZQTnF3MURiLWJ6dzNQZDBGRjlHV0pJeVc5Q2gwSXFQX0NRTkMtWmdfLWFaZUQ0enNYLWllOWFvcHY1ejNRblppZXlSNkF4ZHVHUFRiWTR5cEVGSkRfc1AyUzVLZE9LVTRCdUU4ZnRUSmthMUQ2bFJmNVYxaUZ4dU9POFR2ZXF4NUltZDVnWGU1enVmdzRhaTlEVGVBZ1JXUW5LbUJKY3pqOGc?oc=5",
+     "fecha": "2017-02-21T08:00:00Z",
+     "medio": "araucanianoticias.cl"
+    },
+    {
+     "titulo": "Municipio de Villarrica lanza en Licán Ray actividades de verano y playas 2017",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREZUWGUwRDE2Tlo0bEpZb2xEQWVlLTI0UGV0MGhBOEI3VzJqSFhlWFV4LVVRdGxTXzlLZmxtU0ZQcWR6X2lZZ1RWSjdqZTV0SVpmb2REZFk0LWxuQ2E1TmxleUhodmFPYlliQWtFZFZORnpBQ1N5ek5VeTRJR2V4aURYYTN5Ym1wQ19NbFFkNHhCbG85WHZBQXVsWkdHVEpQaEZuSW1ZRlhFVGVwZmtZcXJfNzZYOGRhVDV4ZW9Tcw?oc=5",
+     "fecha": "2017-01-16T08:00:00Z",
+     "medio": "araucanianoticias.cl"
+    },
+    {
+     "titulo": "En Villarrica y Licán Ray: Positivo balance de temporada estival",
+     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaWVKNHJzU3FTWk12QWhlanZ1eFVrSjcyU3BOaHYzcFN1MDFLMk5mQVB5Vmg5S0pGNk5yQnIxaXZpNzZza1Zpejl3cUluM1VIWndzY082OER2NE9JMmp2aHhJRTVNTWtZY3dYSHNHOTlXYmwzMU42SVlEaEFOeXdFSHZuMFNCZll3a3Foa3F0RWxvcDFYRE5KdFFiWndfb1RVVXljYTFSWUtmZw?oc=5",
+     "fecha": "2016-03-04T08:00:00Z",
+     "medio": "araucanianoticias.cl"
+    },
+    {
+     "titulo": "Turismo se fortalece en Licán Ray gracias a la creación de innovadora Red de Turismo Mapuche apoyada por CONADI y CORFO",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZkx0Tlg1Z2ZqLUI5MlFNd2NxV1pOckxJUjYwdjBJMzNkWnNiS05SZkQ1OVpCajhhRl9mS3lKY2JyOEFpWC1MWU9JZF8zMW4wLV9jSzAzSWt5R0g3TnFtYmJRa25Wdnd0T0FCOHZzR3JORkNQWGZTNmdlRkUyVXJJZVh2TVlDZGU4YWZUU1VuYjhKWUhSeTdRLW53WUxEYmVBY2NWbk1tSER0bnd2cFhBZVJMNHlJOVdzeDNtYTRqTkJsUEJyV01wUTQ4U0o5ejk3R1BHTE1QX0ZhRDZza2tvM3B0OGlCMkk1Mk1aSUtTNlZXeUE?oc=5",
+     "fecha": "2014-01-27T08:00:00Z",
+     "medio": "araucanianoticias.cl"
+    },
+    {
+     "titulo": "Artesanos Creadores y Feria Libre Sausalito de Licán Ray potencian el turismo a través de sus Ferias",
+     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZDZEdFRUSGlocXowX1ZRVjF5R25tSEJ1aEtKZGFlOW9UdXQ1Zko3MFJfczBKOWs2Yncyd0dGQmRNN2Q1Q2w3a3hyQTdWTFl0MkJJc1M0akhvVG9FdVRia09XdW9mTVhDRERoZW5MWWlGMGMyeHRrQ3RLNmx1WWYwRk1UQklwamNwZGNQWkV6ZGJMVHQzRjRqTmFDdWg1UjJwcC1YRXpaUm9DSEU2YlFnX01LREQyZkV1UUFfV0FHVEE1QQ?oc=5",
+     "fecha": "2013-12-18T08:00:00Z",
+     "medio": "araucanianoticias.cl"
     }
    ]
   },
@@ -197,6 +197,24 @@
    "clave": "hoteleria",
    "nombre": "Hotelería y gastronomía",
    "items": [
+    {
+     "titulo": "SalmonChile y destacados chefs de Les Toques Blanches visitan centro de cultivo de Marine Farm en Puerto Cisnes",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSERoTEhtQ3JPb2VYc0tNaVpQRjBKQUhuRFgzRFBua014NGsweUdNenB6cDJOTXR4aWZPUXEzOTNwdU1wLU5aS05oRDVab2pWRUtZNkJzYjdoeWRBMlEzRS03VmJQcjhRdWNXYzZib2ZsVTh6TDBWb0FpdnBaRWdrcWUzam9YSzlaZkc2ZzJycGVFalZsdTRsN2pPbG45emZXMjlQT2dRT0xOUmU0STFnNnd5ZFdQTVZjdDZQQjRTa0lMMmVTRmJkeTZWLUhMV2Z5d3BVRUdOSXdRNE1m?oc=5",
+     "fecha": "2026-11-19T21:08:28Z",
+     "medio": "SalmonChile"
+    },
+    {
+     "titulo": "Newrest Chile ofrece trabajo en minería: revisa vacantes, turnos y requisitos para postular",
+     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRG80NGpJU0dyay1mNi1oMERLc2ZxZEEtWW1MUlpQdWFrSE9IQVNoc2pEMDVxNFp6R1ZtS0ZFd0Rzd3ZSOVR4V1BuR3Y3VExiMURDeE1Kc1hmVTVvb1FHZGJNc3pGRWxWcTFncnFsZ2FvWmVfV1dIRGloc01NWlRWLVZMdzB1UzZScHFTWDlfaDlYUmNBb0JvWVk4TW5PbzZCZ01UUmJJRmtGZHFDbFBoRWxB?oc=5",
+     "fecha": "2026-11-12T08:00:00Z",
+     "medio": "Revista Digital Minera REDIMIN"
+    },
+    {
+     "titulo": "Sodexo busca trabajadores en Chile: revisa ofertas para minería, alimentación, aseo y mantenimiento",
+     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSG5Yc3ROSmM3dGdiSFlNdDVmTXpTb2diQWgwNHpDMHZ5SVFvMmxSN04yYXI1cldKYmRFTks0d3AweVpkWGZfUmZzbjZVOFF3RzY5MDBqWk13bVBoR1JacWtOUU1FWHdlaWI1Y0liSUJxNHZDTW5IVnk5MlVBd0ltOGRSS1M1WVk5R1ZyUkFYV0d5LXp6ZGdSZU5OQWwzeDI4Zk1QQjBiRF9fWDNwWDEtaUpDUzdVUWpiQUpR?oc=5",
+     "fecha": "2026-11-01T07:00:00Z",
+     "medio": "Revista Digital Minera REDIMIN"
+    },
     {
      "titulo": "Colombia anuncia acuerdo con Chile para reconocer trabajadores en construcción y gastronomía",
      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNWNPbE5qZWhFbFBBMURnVThLRngzZmR6RDVqTjdzam1mZl9sdk9sdENBUDV5bTZUV3ExTlEwekpLcXVicmpwMjI3RnZJUkZDT3poa01ELU81dm9HU0dtTHg1Tk1Wa3ZwbGgxUUs1dEg5V1V5eHFkN0xRX0RyVnZ0YUFsajl3ZHpscWlUajNWWnBwVXN6TjNnVEFETUhVeXphWXJWLWRSTzZleGpzcHpmdlM1M28yUzNnOGszZHVvZDdxUThIclNBdGdnR0dPYlRYbTlsdjRB?oc=5",
@@ -210,52 +228,64 @@
      "medio": "BioBioChile"
     },
     {
-     "titulo": "Empleos personal no académico 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xQjYzS3RleUU0c3VLTUY2Rk9pUlFoWGxsX3lDblpSMk1MY2pDb3daYkdoVGxLMEdvXy1aRmtka25VMVBMYXFBNzNPVmRMTURMYnRyU0ZoN1dLNzZVQUJ4RHI3NThSREdaRDFFOFpTdF9vZnFuSlRTOXVwbW43akE?oc=5",
-     "fecha": "2026-06-04T01:04:49Z",
-     "medio": "Universidad de Chile"
+     "titulo": "Colombia y Chile reconocerán certificados de oficios en ambos países para estos cinco rubros",
+     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEEzcXR3aXNuaF9iWmlyNGVrQTlqaHFhSEh3QkNCUXg5NjN6RXZ3bFYwbHVPZ25jREFySXdzdjRiMHI4bm9JOWNZLWR2cnFJYkZjaUdnOFBFXzdEbXRhc2RLRlBSTUY2TlNNOGVyYndpMnlFQkF2Q0h0NVVQaFZqYks1QnR1dXJwR1VNQUFIU2lYMjRkWGZ5dHFVUld4UVJ4OVBaVjZESHpZLUNoS3dNUGtCOS1ZT2gzSE9xTXdBMFVWU0tvdGhv0gHbAUFVX3lxTFBVMjk4SlRRamI3NjBQLU1BQXJwLW5yM25HUEtKSEJEWTZvUEZHcnh3WjMwTldMLWU4SDRCWUd3RFJ0TE9reUktVWNxUjNzd3BUcV9IdmpSSTdWRjcwU2tscVF2bHVybndzNmo0UlhVVWstb1FrMVRmTGhNbkhOMnA3dXV4bDZVbmNPZkNseDZwZ2JFZEFQbXcxdnVLeEdXMFBEMmZMQXByaUl1SFZDQmtTbkd6MmNuaVcxVGVSZkd4RWtxUVBEYTFlSUZfZW9GTXZ4eHQ0a2RJLTZHcw?oc=5",
+     "fecha": "2026-09-15T07:00:00Z",
+     "medio": "ADN Radio"
     },
     {
-     "titulo": "EEUU: Acusan a UPS del \"robo sistemático de millones de dólares\" de sueldos de trabajadores temporales",
-     "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeDdIU19zUTA5R0tDUmkyMlRKV2x1M0xaY0RKN0VrU1djb1lBdHlsQ3JlRFl6THIxS0FyQXhIS0xpOWhWU3lzVmpQYVp1bXlpa1MyUGJmM0FTZUJKUDRTRjNRYTdqNGFpZU1yMUFhSnIzSWQ0OE5yUnpkODBmNkFiWFRrSExPbGdWR0xLSnJEMHVaSzJTbWV5RzgyTE5VN05MVEdfSjZBTzJ5ZUxmaVkyRy12cnQ0WW9nZjNVRklXMDAxYTZzNFR1dlhKN1JlaHJqbjNLMjZ0X3RCa2dPMzRMc3paU041NHlrT2haZ0c4d2VEa0VGZ29JNlQ4UjVTX0oySUJudUgwemNhdExOLXc?oc=5",
-     "fecha": "2025-12-15T08:00:00Z",
+     "titulo": "Abelardo de la Espriella anunció acuerdo con Chile para reconocer competencias laborales certificadas: 26 perfiles serán considerados",
+     "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONEM0Z29nVzJLbllqUC16MG94NV8zUzBGaXFET0ZPcGRPd0lydV80cXJnNGx5WFVFNHQwdXJyRXUxZUxQOUNDNEFpNUM4ekRDZFhlbWhnYVFCSWhvUWV3dWxXZzJZX0FURzZFZlNYZHpHc0E1TTUzbmU5N0VVRGs2T2JoOFcyd3pEdGVnNVBkN2VlaXU1c2NTZ1VJTmpkUHdPSXFTUzBfTHpHNk1XTW85X0ZBQmxuR0RVUFRoVUt6d2Z0emhzbUlkUHFZdG1ja1NMdGNMNE5hYnQzVEdzZHNJV1FJX2hHVVE0bVhxUHA3MlZ0U1NQS043WkdCSDYtMnNYMWN5VFhyZ1XSAaMCQVVfeXFMT2xJTEI5WVpvdnB6YXpPaHFmcXZXdWpUTVNoT0tLOHk2SGNwc0J3MmxpcmpOMW1kTVBWMWI2aDFOOS0tNk05dHlkUWhSZVBPY081MVZSbE9USnFOeEFrV01XWEdaWk9PYlBaeXk4emt3bkxhZnlITEozWDVueFhTTnZKMUUweWlDR00ybDVBQ3hVdGZ4alBBNGhiU24tM1NZV3V2UURKMEIyWTJYeTJ3eUdnbUItTGV5aXJSMVBPcXlCQkVqYjhNWF9yT3E0LXRtMXpPb0RYam5fZFp5bXlJS2w3UFh2LXpYS0wtTG91S2ZRQl9wRDBOZmRJZF9vdktDblF6V2l1MmxfcGpySi12NkRrTnZsUV9OQmkzWjFRaHc2QXF3?oc=5",
+     "fecha": "2026-09-13T07:00:00Z",
+     "medio": "Infobae"
+    },
+    {
+     "titulo": "Senado inicia debate del proyecto que flexibiliza la semana laboral y afecta el pago de horas extra",
+     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWXViZF82YUJLRXo5SlF2N2hZOGd6b2hkcGdua2hhZHVwdDRCZ01Lb1Y3b01WUm4wcEpGUUQ0RmJsOWhjd2hfRXZ0U2NaNy1naDZiQ1B3QzZuLWY5M2VwcW8xRzhPYkxPdk5IVnRYeFBkNGN0MGRPVExXaE55YUtGT1czTldCOUJ3SV9TN1JYa0xXSEl0MlhjRjBFeGdSMTRkZmxlZEVzRlZTaUMxVDk5OXg1eFlxUFF5N3RKOTBYVFNTNE1lZ21VazdIV2ZQWERiclNzR1FScTLSAYwBQVVfeXFMT1htbnhQcUplZGlNMnpnWElSdkRvUzZVVGlzeUlqRS11Z21wcUQ3QzFuTzU4TTVlNHNCZjZXd0ozM0pxZ3haaFYxNlRvNVZJRjdsZWhDUV8xLVZyS3g4RkcwLXQydS1ITDFzN1VfT0JCWWVPT0t1Um5zRkVFRi1xN3dOdC1HOGdwSTBpZFk?oc=5",
+     "fecha": "2026-08-05T07:00:00Z",
+     "medio": "Cooperativa"
+    },
+    {
+     "titulo": "Hasta $1,2 millones de sueldo: Anuncian casi 3.700 ofertas de trabajo en logística, minería, hotelería y más",
+     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb3dBS2NkbU9KM3dnVWwyYlRzQzEwVC15UXRER2FVSC1LZ0lrd2lVVkF5N2IxOGJMTnd5Qm4xcHR3WlRWM241RHBZTUdVNGV3X3U1WTZHQ1N5bWpPQ0ZhNDV4M2NkUmdJRDdiRFVXQUdRMHRDTlh2NVNJNTB1bk9KeGJNVFBERHdRRHFZSFZvNUNkREJiNkpxazlXSGFXNTQyaUp4alkyc3dTd0NTTDVBWHhPeXBHQTg0OWhVdnluNEh6dERJbTl30gHMAUFVX3lxTE1uajl0OUpqQUlxVHI5VENFMzBvNC1jZEo2QlJQWTdNMmJQYU9peUYyM0RqeFFFTjhyenpCSlJjNkNuVEtQNE1PdE9VcjhMRHo3WENLQ054UlllcEFFYjVnYVRMbUpHcVZ4VGFNSEZPOWJhVkVxSFlJSFNldWgyaVlhVWNzRU9tcm9qNFVJZVp6YXNIeTFOcnQ3V2ZnT2NBZ1daVXQ5clZ2cHdyZUdrSEdsLXFtdjhicXQyT096a2VIYVZhUktQbkE1VVFNUw?oc=5",
+     "fecha": "2026-07-29T07:00:00Z",
+     "medio": "Meganoticias"
+    },
+    {
+     "titulo": "Sodexo busca trabajadores para minería: hay vacantes en Coquimbo y otras regiones",
+     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVEttSExtZDRDV1UydWlvZ0h6d284TWNKYjh5TUNfbU9aNFpxZ0NnYmhfOWItZ04wZG9QY0cxV1VnaGxhem4yeVhSUHlQN29KV1F1c3pCOFp5RW92czJfajJXZXhUaFowdnY1ZVBIRTdhYXYwSFRFNGFXSXg4RWNyM0VMUFF2UmN1azl5WndOM2lZNlZNS2F4UjRsNjdpa0c5VHo1TVA3RWxRU29iUGFtV3UzbFV5R1QwV0pWbVdsZktwZkFT?oc=5",
+     "fecha": "2026-07-07T07:00:00Z",
+     "medio": "elobservatodo.cl"
+    },
+    {
+     "titulo": "Kast resalta relevancia de acuicultura para Chile junto con instaurar el Día del Trabajador del Salmón",
+     "enlace": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRXlqeUlORnVRUGFFMG1leHFnRWlRZ2JJemVOMEZKMHlRRDd2eVBVRlJKa1VKdzBFemV1NjR5TFAyeExPNU5WNkloU2JhTnVPbzVid2pBRkc2TU1halUwUHdsdkpQZDFROExsRFR4SDVnRWpaTXNtakpsdERBUGtaQWpWMlhxdEtHb3NySkNmX1NtdGJVWE9ULVY1SjNrWWtaOTdDd3lncHE3akI2TWlRUFh5WGp0OVpQeXNyU3J0Q3pkc3lwYUIzN2E5azN5Mm52eG43S2NXR2hLbDJtdWg4TS0xQzA5bjN1RG9STnMtamg2T2V2eWZwSE8zblRDYmFoTlNhTjlXYkNOZlB0aFVOUkNB?oc=5",
+     "fecha": "2026-05-26T07:00:00Z",
      "medio": "BioBioChile"
     },
     {
-     "titulo": "Federación de trabajadores de Walmart Chile continuará huelga este jueves ante fallida mediación",
-     "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZEh4eTRQU3VTSk0tQXFuSGpSNFBGMVRvTWxOTjAxckp3NHZteFhDYzY4bkdxb08wczBoa0JOd2xPVG5GeEk0dHUwbjc3TndNYUpRQUZYbzdFOG1yWnVubnhpNERsQ2NCLTBTTk96ZmJUZE1uY0phZkRNTjhfbDhPeWZ5SE5Ka1U5Ni14OU1sc1hNSUhROWhzeWpVTC13N1ktYjQ1aEN5ckRBVlpBczVJekd4X05tMER5d0xPNHBMSEdxcFhFSjBobHFmeVBsWkFETm5lVHhZUV9jNklXeUg4UGNwMTFlT0NfTkg4RTFIVHEwRDVSTUN2eE8tR0RCMlRmMlhTTlpGa3dLM0XSAZACQVVfeXFMTTRJSjNCZVRNOWltX3prc29RQ3I2VTcyeHhsTXBFUk9YUUgtTXd0YVp5UU5vSTlRVkZVd0hpRXZHYVhTZW9ZSTNLNnB2Q0FyanBmZVUzcXRaM2k4UzNGbnhHQWdFbFctRlQ0VFBrSHBwaFoxOEhPQlZEV3R1MFJIZzVHaWtYUmR0NXh6Z1BnV1B3NHZfck9fbXdSWU5ZbHIzQU9ZbTdzeW5rMzlmZ0VsSmJjR0s3dnM3MXV0T0ViRm1fdUJxQkkySko0SzJxOXhtUDFHR25oZm9GWFNOOC1EYWVBVC1wUWJ3b1h3S0RWQkVqa29SX3N4X0pOcjNmY1dvODdNU0FxUVZaNFRPMlZGMEU?oc=5",
-     "fecha": "2024-07-10T07:00:00Z",
-     "medio": "BioBioChile"
+     "titulo": "Reducción de jornada laboral, estatuto laboral especial y productividad",
+     "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNVIyaEtOYVFUa1N1UnlZeU03UHctRlc1NjFzMnhkQVdsRXp1UXRPMm5pNHdVcnZPRHJvT2YwNnNxTFZId2ViUE4xS3dKX21uR1QwZlVaT3VaaGxuaERqWm91clJfNGZUSXpfRzNXWFN5MzlOSExaTXN6N2dIbEFlVHBVRWk4ZjdEY3pZVklmUEpfaV9oOGt2MmRoTWRCak5jd0VXcE53?oc=5",
+     "fecha": "2026-05-05T19:14:53Z",
+     "medio": "Chef & Hotel"
     },
     {
-     "titulo": "¿Quieres trabajar en un centro de ski?",
-     "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGFYZzNYYmhUcVktb194eHYwaWo3Z2ZBTUIwa1hGM2hrcnhUSlFyZDktTXVVNnhwWnRidnRNOEgxMEVvNFR3dVZEWjEtQXpGQWg1MXR0dnRpTURwSElLZGdHNEtuRjlySHFFSGh1VGtBTE56eXpOTlNrVUFSNVhXRFJqYkZtdw?oc=5",
-     "fecha": "2022-05-08T07:00:00Z",
-     "medio": "Nevasport.com"
+     "titulo": "Gastronomía y las 42 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TQ3ZUTVdQTkloc1N0YVo5QUh4RTlISWJVU3M0eFZWZ0l5WHFBS1c2X1Nwb3FELXNBV2pJX19EclF6WGZRV3JvSWJzU2RnXzhWaEZiREp1ek9QcmJ1b1Z1dEotNzUxV3J5NkNB?oc=5",
+     "fecha": "2026-04-08T17:22:26Z",
+     "medio": "Chef & Hotel"
     },
     {
-     "titulo": "46% DE PÉRDIDAS DE EMPLEO Y CAÍDA EN LAS VENTAS SOBRE EL 50%, CON LOS CIERRES ANTICIPADOS DE LOS RESTAURANTES: EL DURO BALANCE DE LA INDUSTRIA GASTRONÓMICA A UN AÑO DE INICIADAS LAS RESTRICCIONES PAR",
-     "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUUwwODRTQmdtbkdDMm1UZGh6Y2Utc1BEQW9EQnJsaVQ0Wk5YNEVZZWNwVjJLWTdvZS0tYS12X0dkSDNmVHYyLVB5amlRQkg3Q2N0d1ZKZ2JXYVhVRnJGR0hkX0gyMTFweS1nR3VhOWFCYWZfVXBBSGJfd3J5ZE9yTjRXMG5OM3FfV1BYa0l1SXFIVVZlNkJUX0NDY182Q2FFbURVd1ZDTjJIV1dhVWhPQUg1dXl3Q0E2UDl1eFdFTExBS0FrYlJFcHg1NElnbU0tVjJkeXV3RThfLWVFWDBVUDBzNENacUVkMV83dmwyOUhUVk03dHZOSzBXbl9KVlJVYlQwV1Eydm92S0tzaTdkUURmaFdicVZMWmQ0?oc=5",
-     "fecha": "2021-03-18T07:00:00Z",
-     "medio": "Achiga | Asociación Chilena de Gastronomía"
+     "titulo": "De Iquique al mundo: la historia del chef minero que llevó la cocina chilena a la cima internacional",
+     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQXzRtLUthblF4S3lydnRmckJhaGM1cGhEeU0yWVV0dTEzYU0zdmtCV0w4clo1dVN5TDZZczR3eTZGLTZTVjktU2R2TWt1SlVYMEdMcG4zblFDUk1VazhpcUsycW10OWdCdVJKMzFwZXM4c3QxRlRpUUpqak5QSUdTVWJoQUF5SVFoMnk3ai1fWHZqdWo0VU5CN0hLUV8xbGRVWlNudlk2VHc3SlhXaE13SjhPb1ExZzFlaTJ3dTRjTE9WUTI0RDBxcHVmdEZ3a1dnVER2MzNDTnFDNEsxamhmb2J5VG5ySWw0X3dVdjBBcVhjY3ptZjFMZFZrOA?oc=5",
+     "fecha": "2026-04-07T07:00:00Z",
+     "medio": "El Mostrador"
     },
     {
-     "titulo": "\"Canasta Solidaria FEN\": Estudiantes realizan campaña para apoyar a familias y trabajadores",
-     "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHozUWVqUGwwcjAzUERXVjRha1RzOFdIQk4xbnJtWFRBbTJqQ0RoSURJVXRUSC13VWw1c2dYWHFQa2h0NWdVckhLV21oYjUzOVd2cG1veXBHZ0VQZjJNdDBkSGVxdFU0MUs4Z0R4eFREbVBMQ3lpQVVkMzNRd3E4VTdyUEhjTlIxVGUzSQ?oc=5",
-     "fecha": "2020-07-22T07:00:00Z",
-     "medio": "Universidad de Chile"
-    },
-    {
-     "titulo": "Correos de Chile viola los derechos fundamentales de sus trabajadores",
-     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGFwNmpFZnFaX0hKdnpWZ25sQ09JS2s2bF85S295Z1pyM3Z0eWJ1RjA5d1hkRm1zWXBQQ2hNUHZSU1pYYWRiNGFoNV83SlNRUFpLQ0U0dlV1VEdPRmZDcnIyeDFMS0FFQUI4alA4ZjZTa1RGNkN6ZmVSNFRTRnMtZWxCd1RzS2x0ZjI0UjdiR0Y4ZlVRdEh2cjllNjloSnVPRzRSNNIBrAFBVV95cUxOQUFKQlVyVEVKRDlad1pNbWxsSEt5cU5ZTUI4X0tvcmdwQUJhMXZ5WFM0RnZWM25udWxjaEVBeGdodVBSWjRQeUZwS0pFSmVzenZrMl8ySUpFOVpRYS1uLWdoUG1SdjF2U25xUTdVRW1XUzFnSUN0TmxnbHBtS05sMGk1RjRaa2o5LUZWSzMzT0hvR0FsbFNmU2VCcTh5RmNyczVnTWpJaVlPSUtN?oc=5",
-     "fecha": "2017-03-13T07:00:00Z",
-     "medio": "La Izquierda Diario Chile"
-    },
-    {
-     "titulo": "Trabajadores de Minera Caserones se manifiestan en faena ante precaria alimentación",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVzRvYVVPZkJlMVh6Wjl0U1NwUUFRUW8tZjA4WUhyakxWb2Q0eUh4RGNwdWZvU29MdDE0NjJZcFd6R3RkQTNHcGMxTkFTQnZLeC1fSURFZ0lJYlB3cDJUZWJyQTBSbXpuWlUtYXlHUXpwNjFyN29QX3VRbXgxTjBMQnk1ZEpoWEpFQWRVSm5xNnlINm5EVVkxOEVHQTRpazktVVRnWUFwN0ZDWE5odDlqRWZsM3BtLWfSAb8BQVVfeXFMT3RlODNQREd3eEkxUzRZcUdqelZWVW1GSnZJSTZTc2JobWFySm9ndFFoR3podE9kUlVxVUc3cFVYdlFHR0FjcDI3ZEJVMm43SEx3ak9ZVWNQaFpOTzJkZlI1TkIyYS1sa3hDTzRnWjRGTmdDUEJ6UHJURTFMa0doR3FDbXlBSzZJdFRUeXdLMTl1QjNMYkNtT1VYc0dJNHQyQUtsdjFVTUJxSjNuSFZRRW9DRWJrRVdmbDdHRm1IY1U?oc=5",
-     "fecha": "2016-08-09T07:00:00Z",
-     "medio": "La Izquierda Diario Chile"
+     "titulo": "Aramark busca trabajadores con urgencia en distintas regiones de Chile: Revisa cómo postular",
+     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNWEzckhpNzNFaDExejhsdGhTUkdscTlQcXlGdmlsTVRJNzEyc0ttRzMwLVRHdG9pN21aZjBPV3BLb2hVQXRERTl5MS1qLXk3bDVKUjV6UnpxOVlicjUxT2VjeTZ0bFVrVmN3em82VDdDUGI2OERXcTdnUExxdFA0eHlLUGtXbkI3MEdsX3BldkZjZVJicnBvUXdzd3hLU24zWWJ6cmg4MERUbTVkQTlyelFNRVdiWUtVaGlQYnh5U3FkWWZXV2Nr?oc=5",
+     "fecha": "2026-03-11T07:00:00Z",
+     "medio": "El Rancahuaso"
     }
    ]
   },
@@ -270,16 +300,34 @@
      "medio": "G5noticias"
     },
     {
-     "titulo": "Sindicatos de Latam Airlines en 7 países constituyen legalmente la Unión de Sindicatos y Asociaciones de Pilotos",
-     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMEVBVnpSYkVlRktTOU5lUTNOTmx6UTVzVjR1bWNGQjNHbzNmTjVFMk1CTVJfM3QtSXlOekJUb0FlSVUxQ1c0TUI0azVfS3RpMHl5UlBQVzhZVWRENEhfOFg0UHNNZW5TeTBuUEV2MGlMUlo3OWhTNGVhNHZMSm1XWmROcmY3UjlraDc5TGhPNlI4SGZWTFZVd25RU3Q5SUNrYl8zZEs0ZEgyVlVUOUQzelRsU0lWb1J1YnVER2pDdVloRzF2NEdzYUVLWVNEdDV3b1pJbzFVUFZpUWhjeW4ydFMxZTFmMkQx0gGKAkFVX3lxTE5UZzQyMHJlQXZxU0JoYnVhY0ZmNVlmZWtDLWRqMXdLbDZmRXhOQVNCaHJpYTFheEg1VkROSFZlLTNvNXg1X2FRTlg2ei1NRzA4UzBaSU00VTdlR2V5Zi1VcU1YclNFMl8xTGVBS1hhbEV0SHZrbUF3OEdiYzZZamxuTHVCWVVxTEpqbUpNVHRTZTZTWDdXSWMtV1A2MEVMdGJiZGZNZnh3U0FEbXh0VjFvR1F6YkVreDZKV1Z2cXV3U1lYMTBUNmdsc3NJRUozRWs4UXJmR2JZdXA5OExNVndUR1QwMF9jUWNJMUF6TmtPaXJZYXloUUUzZEpCTlJmT0xxaHZuRlpjRjVB?oc=5",
-     "fecha": "2026-11-11T08:00:00Z",
-     "medio": "La Tercera"
+     "titulo": "Hotel MDS Concepción marca un hito al ser el primero del Biobío en recibir el Sello Ley Karin",
+     "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkRCMmtDN0VRTmJvdlVJLXBVWTJQb0F5TGFhcDdibFh0bko4MUM4TTJpNGVnMElrN2V2N0J0V0dZUVV0VFh5WUkwOV9vUk9UaTZnSGM0UGZaOGNRZDFjcV9xbEVNUk5hTWRoUThtdDZReEhIQVFVcEJJQnF5ZS1tZTF6UERKYmFyb1E?oc=5",
+     "fecha": "2026-08-24T07:00:00Z",
+     "medio": "gamingintelligence.com"
     },
     {
      "titulo": "Este 5 de agosto, en dependencias del Hotel Radisson de Puerto Varas se dio inicio a la celebración del Día Mundial de la Ostra, actividad que reunió a productores, autoridades y representantes de dis",
      "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZmcwd0tLSExoQS1aZ21GU2xOYXloTzNlYmtGZVZldU00NlhBR3pOUUduREFSWDBKWkh4dGJmMUJHOXUySTVBQUQ4QWdTb2JRMWc?oc=5",
      "fecha": "2026-08-08T07:00:00Z",
      "medio": "Instagram"
+    },
+    {
+     "titulo": "Insólito: un hotel de más de 50 años en Salta podría cerrar por pagar $100 millones en juicios laborales",
+     "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdjhER1VxX1M1VTV6SlNxNXNLY3VubF9HQ3p3Q3c5MXNBYmI4S3M0MVJmZ2tkSi1ZN1pJV1NSY0U1QUR1cDRfM242NDFydkJIbXdHc2RCT21hZGJsMDVvZzBjX2pxSElnd0Z6NklxSjVDcFUxWEt5eER1YTBjWldfTzl3cGJ3OUNBRlZhdDFTV3RkTkdOMXZnam93bVR6Z0Z0ZGxWSVVfZGFmNHppS3MwOXJqUlFRZmRRWnZWQ1NmTWlVTnZrTzV5QkJRQ0NKQ2ZPSkNrRGZmVVNFZGxtX21fMdIB-wFBVV95cUxNbzJyRnZXZ21BWWV0cEtlV19DMEhUd3RZcTYtU1VyYzd4bkpWMWRuUEFaQWdiWXFnSk5Hc2lrUTIxeXlscmN5VmJTSEpfZVJBbWVTaEk4cnp2aEFBaGN3bHQtM2paME1CdHhPelBkcWFZNjk4WHd6N19WckdwQTREZkVrcklqTHlScktpS0xaUERLZ2V1VHRRR2NNTXRGWUxwTWZsTHJ3LVRLOTU3TzhLSUFHcG5IMDZmZDJ2dW1oNmVrdFl3MmtQeHZGZlhlbHFLOGJKb3ZnOHVtWE5vSzc3OWpoVi1sOERfWUFNUTZsN2F0ZjhiNEdXOE9Vdw?oc=5",
+     "fecha": "2026-07-28T07:00:00Z",
+     "medio": "Infobae"
+    },
+    {
+     "titulo": "Diálogo social y capacitación: Ejes del taller sobre el futuro del trabajo e IA en Arica",
+     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVUR2S1lLamdoSlVxa1BRTjd1TGVqZHdGSUNjMkFEaGtER0pTVXk0RkZoVC1PMjhWaUhfLUdPcVk3cG15Z3BiTExQeFBVUmVKZkdpV1VraHNhMGptSHc4Rm9MZ014clpaclpMWTZUaWdZb0lUSjJQRnJuenVwcnlIYUprc29QZ29mLVFJQzlZRlpfTzNDdzBwT0Jka0R3M2VzOEpGdG1FWXFibHZ1UTRUZ0ZwUGZsbnhRWWpxTUQyV3NBQ0U0?oc=5",
+     "fecha": "2026-06-22T13:09:39Z",
+     "medio": "SENCE |"
+    },
+    {
+     "titulo": "Directorio del Sifup fortalece vínculo con jugadores de la selección chilena: “Parte esencial”",
+     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ001cXM4ZTBHZjh2SmVOT2Vma2ZvVnRaWHpEaGQxSGVEVFZKSmpCU1R5dnJRMTJPWV9MWkR4S0NfSUh5OHBCWjdFd0MtaldvX2xOb1pEUGh6Wldqck92dW9Wem85ODBXcTJxM2gtRFRxSW1DWlhNbVBXN3ktSU5QMk5adXhkNmtpMDBEZTVhWU9zVzFlYjY5RHYyRlB5eVZ6VUd3T0MzSnhyallYZnYtS1htVkpnd2ZENVlOX1VCZWYzZzNh0gHKAUFVX3lxTE1OUVZBeGdjSFcwRy1aejlGcV9TSEsyR2RENUdCYWN5eHRsZHdhLVk3ampQZW9veUFNVzhvMDVrVklQX19kNnNjSmxvOWYwZ1Qwb3JIOGEycjFoZjV3eGswNFNseHBpbjlIQUYzRDlRM29Mc254RmFHS0E5TTFBX203blg3QnBCbVlpTjk5UUtoT2R4ZmZKcFZQWkFSc2IzXzl5c2ZsX1dsMjh5WjJnQjJFM2dBZ3o0YXBSczRrRWx4YW8zSU94Tm9vLVE?oc=5",
+     "fecha": "2026-06-05T07:00:00Z",
+     "medio": "RedGol"
     },
     {
      "titulo": "“El viejo hotel Conrad va a cambiar mucho”: trabajadores advierten por impacto laboral tras venta de Enjoy al grupo JHSF",
@@ -300,6 +348,12 @@
      "medio": "Infobae"
     },
     {
+     "titulo": "Cuatro de los mayores bancos en Chile enfrentarán negociaciones con sus sindicatos este año",
+     "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY2kwRDlZTGQ5MHlmT0ZVX3E4OW10Qm9YdVA3M2RyYjhFY2ZVREoyZGI0Wm9pUnNyUG5waktwUlhydmVVZmVPZC1xbGpuZ1k4LXlvcXFIdWpGT3ZiQmlIQ012aEJiVHFYZXRzdG5OYjBiU25vY3ZCOUF4S3BxMXNCZXhPMVNtTFJoNDllRmZ3V3FkbS1VbFVoaDJ4WUYzSjBXX3AtMTlTLUs1X25lMEQ3YU9FMzV1cE1WemNIV09fMlhKR09KZGdzZUFjbk3SAe4BQVVfeXFMUFNXN0JhdFdyWFlGdV8wVVN6M2R2QUltaEw1ellBeWhva0V4WVY5OUxOaXR2YlRVNk5UcDRybm1YcmZIb055cVVPaGg0ZU1sQTFfX1BxaGpvNElHNFBqTDhibk4zNFNXTVc5UzNxM01ScmFTaGt0WlNJWktnNlBDbXROMW1oMHpRLUZLT1l5NnpHY0RmMnEzd2YyZEFvenVlVzhQMHNyVDVwcFd3SHdleDVYbW9YR1Qwc2RtMVFZQWxjTk0wMEtEZGR3ODJ5cDJRWmdwLUItS3FIZTRfVFZpNEpTc29VYzVUMVl6a01oUQ?oc=5",
+     "fecha": "2026-02-19T08:00:00Z",
+     "medio": "La Tercera"
+    },
+    {
      "titulo": "Condenan en Chile a militar retirado por el secuestro de una mujer uruguaya en 1973 - Teledoce.com",
      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbnlHRVV2eDlDWDNsQTZiQmt0WlgwOGh6VlNwNmVIdVVSc2k0VFRoREs4NnZuVm9IRHpBRXZCdGVnLXpSams0WDNSUGl4VkJ5dGxkRFB1Z3ZtU1RqT1BCRlFnSVYtMnNCQlI3NHFfeXgxMFAtTWpDY2hrMUNZblZYc2thTFZfS0pxSHFtVEt6UlJMUUF3VHRKaTlBaDVFWFpMakJ1WWNkclJkdG94UDR3SHJhYUxQTkR1VktSTE5MNXFLTmNzZm1SUzJ30gHPAUFVX3lxTFBJd1dPNWdpZHhBLTFfUENfR1d1X0lrdXdQLUVRWnRfT205cUR0b21WVmlIamNQc1ZyOTdQN0JwLXFVUGxMTHZzaUhFT1R6T2lXbGhxUFBQOE4tRG9kSTlDRDk4bEZUc0FsNHVZb0ZuTnltbTVNalgwWUQxeUpGYjg4T2xEbks1VG1zbzBEU0o0U191bFpiM1NlRDJIcHF3SmU1UVU2SG9fSzlvc2ZYQjRveE1pUU5taGNOM0xqelVoOUZGVGJ6amd3enFvM1dPdw?oc=5",
      "fecha": "2026-02-19T08:00:00Z",
@@ -312,6 +366,12 @@
      "medio": "Tiempo de San Juan"
     },
     {
+     "titulo": "El sindicato policial SUP elige a su nuevo líder y homenajea a Mónica Gracia tras 12 años al frente",
+     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQckhCb1UwVjZxY0hyTGdPSktsMUw4Y0JUNzk2aExrLWVyMTI2R0I0ajRLcHNvOXNOcF9SZEhjSXBUOW5rUURUaFlUY2F6eUZRcS1fWVBFbXRQbHdLcWdiazgybzJjUy04dFJmVUZ3cFFOY2h5Y2xzR1BqcWNBZWJsNVFYNWE3aWp0M3Q3YWhTRmlRX2lrV1JNRVhHNkZjZlNleFlRaGNQZ0RUQmktQk80ZzNDYkVtY0tSV1RsbS1sOE1YdnBOUE9NeTBvNlJMZE94ZmZLU2wtV3TSAewBQVVfeXFMUGhtbGQxejdlelNUS09oZjNDdWdnekYwVmd6d1BGVFoxYklQNXk1Tl9wZnZ4MC1JSldfWjZRTy1BQk5DbzVnYnVSaDhuLXpGd1VtZk0wQ1RIRlJYMHNzZFhGWlRycUxuRDRRR29MTHFoQXdKYVBCUk8zTU9tR2N6U1Y0eDQ5UDlCMGV3MUktYXhSUTJkaGoyOUU1ZXpFRFJxU3d1U0xRdG52N2txRFItNkhhd3NrS29HNThHTVYzNzJvSHpzQ0JzNTZDSjBReVhNNzhHVng2U3Z2Zm5iMW0wUmMtYWNKanlCQ3p4LWU?oc=5",
+     "fecha": "2025-12-02T08:00:00Z",
+     "medio": "EL PAÍS"
+    },
+    {
      "titulo": "Segunda versión de Dilmah Tea Mixology: Creatividad, técnica y té en la gran final realizada en Artemisa",
      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzVfaTRRTzVfa294N1lTdGR2RUY0RThBNGRzamhLYjJOd2hfTWVmNzNrcWMxOTlwZ0d3eEtoSWRneFkzVzJIRjhNenMtS3Z6bXRhb3M4YUhBanJGTmZjeEc1TTlZVzlLbktrbDdGM19mYUJwbmJDQ1F3QzlhS2QzZXFCU1ptbkh5Zi1CWXc4bUFheERBejhWQXdkU2Jfdk8ycnM2NHVmYVp3dkl1UWgtYXpmY2RydXpXbVd3ekxxZ3Z4dGVfbDZQdEJKTHZUeFBURGc?oc=5",
      "fecha": "2025-11-27T08:00:00Z",
@@ -322,36 +382,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTlvNVExdjhVRE1iMGc1ZzBtNGF5eDFRMlBDaEVzbWM4SWY3dlpZMHdTX3VhZWZtRWFvUFZVRGlqZDVIWjZqcXdDcmtVNkxtTEEzWlkwRHFFa2lmdzFQOERzbjAzYzhJdWI3VmRiNU11M2Ftbzl5U0ZtQkxfQU9ZekZBTEpGcTdnY1ZRVUcwZHFlREo5LVR2WlpoY29GMGlNd3MwazdRMUJ2cVhPSGV2MzlsbzRCSFZPaXhvSE9uRkJnZ9IBygFBVV95cUxPNkxObl9FbTExUnR4MGVSaHNvUE1raTAybFVYZjhGd0paZG5pLXhzeHA5VkZkYmtHbkNjVFhtMFJTRlZsVGF4MC1zdFNWT0dJbVlwZUZZZW1FT2JoS21CSUNyZXE4ZGdZNW5VcHhyT2trNWNkWVkyWTFRVzFrUGd3U3dYY3dNTzh2Z3lVUmpGRlVsRmY0UGhMQmM1U1ZzR1dPLTFuQ1UwZDBCOFRhWkxDeGNzX0xDRzdremR0eDlyeEo1TzdsYkJGUkVB?oc=5",
      "fecha": "2025-11-19T08:00:00Z",
      "medio": "La Izquierda Diario Chile"
-    },
-    {
-     "titulo": "La Ronería se coronó el ganador de la decimotercera edición Negroni Week Chile 2025",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUFoVUF3TE4za0JuaWVtWjdUTy13eENqR3N1MjVYUmFPZHd4YjJsVUw5aWM2UTJYMlYwTlpzQUU3SktnQmpFT1Y0UElTOW85MldkcUZ2X0JTaHRTZTFTa21nWjRaOXZ0REREenBDOWxyZG92eEsxWENWejFHYXVXWDVxcGw1bmtkcW1EYmdvOHU0X0pjN1VTSFRDcGRvTTMzaWVCX2wwX2xDWU1URUxYUjFJX01OUVd1?oc=5",
-     "fecha": "2025-10-10T07:00:00Z",
-     "medio": "Chef & Hotel"
-    },
-    {
-     "titulo": "Correos de Chile despide a 600 trabajadores y sindicatos piden al gobierno apoyo para revertir la medida",
-     "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNkNfV083akFyZU51R2dpZU02dnpkZlFRVEFreEx1aG5UZzJTS0ZBclUwS0g1Uk9ySGZ4cUY2N1NMWE9XZ3JMOGYxM2RJY1BueGQxbHJBS052c2pCTHVDYzhTb0tuOUd3VlR5TnpPOHFleTVqQnlEajROLWdIekkySy1OUWI0R0ZCYmkwMFNwbmtFb09QUVZyaHRUNlFWZThKNE5OY3A5VVlCWkdwMTFKQ2h2cFprenBwZXVfMXo4QS0wY200X2VoZ1Q1TUJjbmPSAfABQVVfeXFMTWlxa2pYT0dXX2xzYU1BU3VnMWwwckdOcVZrN1hQT0VUcEppeHdTeTZlNjVodFkyeHNQOW1MX3FJY2xCbW5xUTJjSXB3NTJzV0NNaGVnNUlMNko3b2Rra0JNM0RMLVJnaW5vYVA0YldFOGMtUDNSdHdDTXRzcXV4U3BlcnQ4OTJTbTgxM0RobURmbGxrRExWd011YmtkWWd1dXFLcW9UU3BVSjZmcENJWi1PTjU5cGNxX21ZZWRVWmxfN2FkMmdyR0FfOHdPMk1CTkxOcTB0SVNqUnU0bE8tRnlKTmQtc0dfMng0S0w1N0dw?oc=5",
-     "fecha": "2025-09-30T07:00:00Z",
-     "medio": "La Tercera"
-    },
-    {
-     "titulo": "\"Si ellos tienen 20 años...\": Nigeria se prepara para el Mundial Sub 20 en Chile y se llenó de comentarios",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTVdmM2NfcUpab0lmUW9LSlVMLWg1LW9NNkFqajNMMFN2RkV3RTB5UjE2dlJXUmdXcXc3MXlaRFdpV0ZSSFRUNG5VWGRhMmdQY29tSExaYkoxYlQ4TDlaQjVQdzhwb3hva1g3RGNLbnBXMnBsTWlIamNheEVXT1BSOGcxWDZXalIzRkt6b1ZMb1FsOVJHa2lvOENTbnQ1U2xZV25JbTlhSjdJNlZaTXZGWDJB?oc=5",
-     "fecha": "2025-09-25T07:00:00Z",
-     "medio": "Teletrece"
-    },
-    {
-     "titulo": "Hermoso homenaje a Luis María Bonini: gimnasio para futbolistas lleva su nombre",
-     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTmVMd1UxQXJRcHgycDVOTGFVSHItaUlydGtTemkxa1hqbXZjYlhuS19mLWhIUFE1VnJ3eUJXRHp6c08yR0loSUxCa0l2dU40TC1ZMklSRzRZdS1pbVdlMkVkWHZNQVZFRVItZGRsZVpxQjVodU1KbHhfUG95YXZ5NXM5TndNVTIyd0I0b0pOcXhDaFNMQjJqTWZfZ3BiODdtQk9LZtIBqgFBVV95cUxPTEVxaWRaQzJGUGM2MDhRZVlqbDdhbjZYMnY2cFhrbk9hNEgxTDlDdnRBQkpRSW1lUXlBU2FTMGRXUVppbjJvYWlkZ2pKdVZ0ektyNTl5djBMS1FSSlZ5NUxZV05wRGRrQ3lTR1dkaGxXc0JzVTQ4SFJ6V29haGxKZFFnSXo5N0RyVXhLeE9NZl9GRVkyYVA4MTliejFPNTR5MVJqWXhGTEFYUQ?oc=5",
-     "fecha": "2025-09-12T07:00:00Z",
-     "medio": "RedGol"
-    },
-    {
-     "titulo": "Qué es la carne halal, la particular exigencia de la selección de Australia para el Mundial Sub 20 en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY1lsRnNaNkR1cXRaOVdJRnFHeEpORmU2Q2N1Zlc2MktPRWRRXzZDS3ppX0c0akFkZUo0YjdEMWp3X3duV2lxVlpYeXFwWE5ZUUFzMFU2OVdzcGNoWG45WFlrd3hoaEJUTnF2b2NBRUdjVXliNzRrcXNuTFpUY1g4TDFfLWJvcl9JYWtYS0Z6NDNfRmprU3hMcl9uRTNlUW9lZ3FRUi1YdUhlODdscFp5Z01icGdiMGU5Y3FrNDU5ZzJtZVJieHJMRXQyVGhMekEtdFREZ0dmSC16bll0WFA4eGFaMU9Xdw?oc=5",
-     "fecha": "2025-09-11T07:00:00Z",
-     "medio": "El Dínamo"
     }
    ]
   },
@@ -392,7 +422,7 @@
     {
      "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
-     "fecha": "2026-11-19T19:41:17Z",
+     "fecha": "2026-11-19T08:00:00Z",
      "medio": "Publimetro"
     },
     {

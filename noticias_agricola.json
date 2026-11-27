@@ -1,10 +1,70 @@
 {
- "actualizado": "2026-11-27T14:21:38Z",
+ "actualizado": "2026-11-27T22:55:12Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
+    {
+     "titulo": "SAG y FAO impulsan innovación tecnológica para estimar cosechas de maíz y frijol en tres valles productores de El Paraíso y Olancho",
+     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbi1UQUhSdnZscFN1QlYwMVZLT0U2THhtc080WThIZmJqYmg5ZEYxWEVmajgyemNKZFRSelRUTko3QnpXSk1RSzNrNWluOFR6dkhpZ0RSR1RTVURJM1lvUk1oc3M4ZTR1dkZrbnRoSGVadWVvNTRGUFZnZlpnUVFRSWhIcUZCeTBFZTVsN1Mta0FpbG1ob1NPb1RyVFRSZ29OMlRLTURmNk14T1c3ekVaUWtXUXAxM1pNWmxZNlItZW9OMXRSUXVBbjk5SnRaWTV2TUNwLV95WTR2dlg0OE1RbXQ4bDlFdw?oc=5",
+     "fecha": "2026-11-27T20:15:11Z",
+     "medio": "Proceso Digital"
+    },
+    {
+     "titulo": "Ministro Campos destaca aporte histórico de SAGO y llama al agro del sur a conquistar nuevos mercados internacionales Agricultura",
+     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUW5EaFoyZVE0cVJGZmpDMHN4N3Y1TXgwSVlBOEE1aTBza25hLTg4ZFFHTkFUalNab2UyZ0kzTWFHTjg0Vl9KWEZQNllfeHZNUVVrVHNLN0ctV2VLQUxhTlIxMWwzam00QTRrSXdVNEZha0RtT2ZoeXlLcjduSmM0bVpRSXRpb1NFT0JMbVhhZGx3NkVLR1VuSlJGOG5Tc25GYm1wOWo2Z1BTVUh6NEIzcXg3YmxIM1ZPT1N2MERxRzV1UjJSYjNDT0JhSU0xMHFpRk5Ld1FZa3F2U0xITHNiVHduWQ?oc=5",
+     "fecha": "2026-11-27T19:21:37Z",
+     "medio": "Ministerio de Agricultura de Chile"
+    },
+    {
+     "titulo": "Iansa pone fin a la producción de azúcar de remolacha tras 73 años de historia en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONWg0aHFCLVk3YWRFUzB1MnlCSEJFUTZPMURaYVZrSFhjQ19QeGRRTVpQdzVCaUFRTHZENWUzbDJBN2N4WDZaNHJDYVZDS01YQmJYdlM1UGV2ZGZyaG5yUGZlZm8zT0R1YjlQbmlPUl9rVDhUbEpFRjAwWDgta2QtVW05eHEzQnRZNUlwSDNTS1ZmZG1pbGJEcV9B?oc=5",
+     "fecha": "2026-11-27T16:30:07Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "INDAP cumple 64 años apoyando el desarrollo de la agricultura familiar campesina de Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUVxcHlrQmowUWYzZnRCRVhOZngyTmV2TWVrelY3R3htbUpoT0E2VEdLSU9PUkxLOG9PU3B6cFhtbGNLN1RfMEpZbEh0SzRLbTVHWEZaNFZyaE1VY1RaY3cta0QwZGxvTERaVmRmd1g0Z1NJbDN0MlcyQmpOTEVaWHpVWE0zUEJRSE03eFZpaGhhUXoxSnpubDFoTTQ4Sk51NTM2YnFuSTVQRVJmdFNRRzF6OXY5cU5UY0ptdTRwaHI?oc=5",
+     "fecha": "2026-11-27T16:28:08Z",
+     "medio": "Indap"
+    },
+    {
+     "titulo": "Trigo chileno: la estrategia genética que busca mejorar la productividad agrícola",
+     "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2d3Sk1oQk1fam1HU3ZvRXdhYTN3Z0tMZGl3MVJZbHdHVGxoYmhWMWdKRnFXLTZBSWV6OHVLQ0VsdnNxUmVfQTJkNEstYW9BUURoVVhhcF83MFRWNHNNZGk2UW9HWXloUUVCbmpILVcwSnpMN0E3X2k3WVR2Zm5VZEtKM09PemNrN3F2YjlmbkN6Ylo5VjZDbFFlSUJ6Z3F6?oc=5",
+     "fecha": "2026-11-27T15:17:28Z",
+     "medio": "AgroLatam"
+    },
+    {
+     "titulo": "Limache protege su patrimonio agrícola e inaugura el primer Banco Municipal de Semillas de Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHA5czJ5N0JqOHhfRlVwYzVTSktaaWgzcFVlMGtyR2d2dW93MmpCSHVPdHdPTlpWRno0NUVReUVUeWxjaFF1dFgwNU9sSGo5SF8ySUZqQnJ1Q3V4RElqUF95QzRhYkxYc01FaU80Nm1fZDJ5eU1hUEVLSUFXU0NpV0FOLWdsaFpoT1pmcTlXUXBQcXpqQWxsQmVuMEV6ekJldmdTYlZFYk5VdDJFOGhHSjlfSm9UeFkxcFFzMDA1bGhrRXI5X01uWVJR?oc=5",
+     "fecha": "2026-11-27T15:09:35Z",
+     "medio": "G5noticias"
+    },
+    {
+     "titulo": "Encuentro Chile Agricola 2026: el aporte de la juventud rural y la innovación en el rubro",
+     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTGdqalB1T0FHR3BWZGQzQTdqZDVlcWl2ZjhoTThSMFNQeVBDREduX0w1ZHNJckR2ZWhRU0JmV1pDbGdnamVFdEZ1SkRpLVRFdVZfTzcwbFR4ejFTRWlDVHhwbkVQdC1abngzSlM3YWw4MzVxSkQ3WE5DRk1WNzBqMDBDYWtHOUF4VXBqay0yZFBiSEFTN0NxTXJuN3d2MXFXZ0ZiZkpnQ3lDQmVBb3kxcUZ2a1VTMGxqYWxnS0NiaEE2UzQ?oc=5",
+     "fecha": "2026-11-27T14:47:04Z",
+     "medio": "Radios Regionales"
+    },
+    {
+     "titulo": "Nestlé Chile e INIA impulsan el desafío de llevar la agricultura…",
+     "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaTl3MTlEY3NVWmhVTFN5THpRaThrRjZOUHBoTERJRDlCMms1ODBsbk5meERMMGpvTzA2QVhjSk94RWtzUWtxdl9UM01vamVYT2VkN2l1emU1amVMY2VGTTRCMjlqYVFHUldFcm1nZG5oa2JuMGpVVXFERWJkb1dpU2VlWlRzejZ4ZUE1aF9fbEl3QWlSb2dDYmJjQzU2dw?oc=5",
+     "fecha": "2026-11-27T14:30:59Z",
+     "medio": "pulsoangelino.cl"
+    },
+    {
+     "titulo": "Frutas de Chile propone avanzar en una «Agenda de Innovación Frutícola 2040»",
+     "enlace": "https://news.google.com/rss/articles/CBMingJBVV95cUxPZDhvT19NZHRfUFFaeU9odTVQNFdsS0FQTmgwZWVGRGZYOXlnd3EtQjM5aUNMSWl5OXROR2xhajBubU1fMmtlQjJ6ODUxa1hrQjhyd04yRU5zekVSNmJMV0x6eGxaNTNhaktjZjNfNGVzUjlpT3puZnBaMXcxU2tSZWJHc1dqaklZV1V5NDBudVo2dlFISlZsNTB3MV9kLUFmX2NRaDBmWXBpQl9CUmttcVQ5amVTbFVNM0FtS0hKaFBiRE5FcnJaMm1mbUtJS2J2Sy01c3p5VzRmZ0FDa3QtaUczbmJ5eE1VSmlPNWdoZTRQeVFrMDItSE5lTjRSV3ljMmZrS2p2X3Fab2V4SDNGdUFITGpMUlB0NXh3MFFB?oc=5",
+     "fecha": "2026-11-27T14:28:02Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "Nestlé e INIA reúnen al sector agropecuario para ampliar la agricultura regenerativa en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeXVtU3VpdzRfaHBOdWxGY2VvWUhvMnA3M3VxemNoT1VVa01OOWRxN0FxNUVnczBmS0poNUZtSkZUZXp3dnNJTng2TF9xMHNFODhpWlY2SjJQbUZhUi1JN1hHUHdKNjNfRENWeXVreGpvVDBTQUNGLUY0NVZQUHpFcG91U0hIWFNxeUh6M3dsbHAyX29WR0tvYTN4SzVfSTZicGVrY3JyYkM?oc=5",
+     "fecha": "2026-11-27T13:56:00Z",
+     "medio": "reporteagricola.cl"
+    },
     {
      "titulo": "INDAP invita a los productores a postular a la Expo Mundo Rural Los Lagos 2027",
      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV0JGVVI2OFo2VDdRVGUxRGxKck5hU1ZiR2paWEhjMEw5RktkZVdON3NOTE82N0l2OUJGOWVoV3JEeUtvMzNoQnd1TDhTTGZpY0pNN05EN05yWFExTWltSU5iWnJiTkFrNHZXbGh2WlFlQmZKU2huYUNURHQ1VmE1WlExMjhfbm1vRDg2QVBkNENYeGp6cTBOeS1sb2c5ZnFtbUpoYlVpaXczUkFDRGpmSkJEVEY5eG5iMHJGUUtHOEtMZWctb25aQVdWSW5ma0FtbEhxZFZiVzVqRkE?oc=5",
@@ -12,22 +72,16 @@
      "medio": "Diario de Osorno"
     },
     {
+     "titulo": "La profundización de Chile hacia un portafolio frutícola multiespecie",
+     "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZlc4azlkYkg1Q1psU1d6NTBVZEZKYTBLS2tfMkNtME1McmphOE9VaS1ydWVTQTg4WGhqVVZsalRkM29lRGV1LXRBZy04X20tbWEtaUpNWDBWOEoxVjI0ajJveFdsRi1DWlVlcmR4RHJaY0pLSVlhSEVleS1meVJFOWlLUlp4NmFiaTJwSVdvLXFVMUg5cGVxdzZn?oc=5",
+     "fecha": "2026-11-27T00:22:09Z",
+     "medio": "Redagrícola"
+    },
+    {
      "titulo": "SAGO AGRO Summit IA: La Revolución de la Inteligencia Artificial y la Robótica se proyecta en el Sur de Chile",
      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZkFzeXotdmNFR3pzcDcyVjJHZkptc0NZRC03TUp2eHh4bm9rTVhfSktTT2JWYTU3RC1vNnJJS1VYaUdvUEctWWtDWFJXamRYTEQyUWk0NkNadlM3QXc4X2xXOFg3NWhjSDg4OHlXNkcxWGFtZjVWQzlxUU5CVUM0UWNka0JOemI5TmszRWhIY1g1aVR5N2VlVFVSOHVqVEFaLUpoS3EwZE14eEszRkYxS011aVVlYjlxYVo5WFl1WmdoZHVZNk02YlkzazRjOW8?oc=5",
      "fecha": "2026-11-26T22:40:27Z",
      "medio": "Radio Sago"
-    },
-    {
-     "titulo": "Chile y Ecuador resguardan en Perú el futuro genético de sus variedades de papa",
-     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbTdEekF6aGs1TzdHZi1STmZYM2hiSy1GVjdNZGZoQm9ydDlXeXVhU2VJYlB4dEc0V1owd3pVRnJ0dUQxYlB2eVQzS2RkRTVNZVBrV1MxVFNBQnNRYnlCMzhqT2psRllaVDV5SWM5d2dMRU5HcVpJdzVwSFNOWkdUbXFydFBsN2JjWTdFUkhSLXAtY1FqRU9pMDhqQWpOTC1kSThFZTc5Zm9MckdlRkoxVUpFSy1DSVBYaEd4NldnTEo1MEItRjI3THhB?oc=5",
-     "fecha": "2026-11-26T21:50:16Z",
-     "medio": "AgroLatam"
-    },
-    {
-     "titulo": "INDAP Ñuble abre las puertas del mundo a la Agricultura Familiar Campesina y nuevas oportunidades de exportación marcan histórica semana comercial – Ñuble Actual",
-     "enlace": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbXlObUFuRExHVXVaN0lISUIwLXJEdGNhUVRHazdxMjFxa3BDNzFDM040NnJUM3d6eHV2ZGJGUUhnRmhBNFNCanoyZldldVlmdm9pRzZtN09xNzdGcEhncWVKYTFDMFFtX0UxbzRCbGswSGJSNjFQQkc1NTdxcERzdHNmRWExbGNGcmFsV3hRTFE5SnlRTFF4XzQ4LUxuTWdMZmxUeUl4R0huNVh5NjQ2WGp6OWhfZ0w5WmNPMWFUT2c2RzlBbFNTOTJzVjhpLWdOa1BtUU5CVFhhSXJocHBxak16eS1kMk5yN3J3TWhESVpleFAzNGFIUlU3bG9fNmZtdjRVcHJvWmdzVFpmYWNyakRWTFZETUUwVVE?oc=5",
-     "fecha": "2026-11-26T21:47:49Z",
-     "medio": "Ñuble Actual"
     },
     {
      "titulo": "Ciruelas deshidratadas chilenas conquistan 82 mercados y superan los US$ 260 millones en exportaciones",
@@ -40,60 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQklpdmU4QWdnajlqZjJGdzl6NVNxRHpzOUF1UWRSa3BndGhINmZnM0JYZk5STUVLWEphSmVnNkhFTk9CRWNQQ1lhdkJObkxtY045T0NzNmdkbzRsVFpMbGRrbUxvckJRc1JweG5tODhjNVdPQ2RMQnJnWXZ2NzN0QkE2WFFaMjYzc21nMXc0VkE3Y2huYkVpS1YtN3pnZk0yR2lUc3kzTVZZNFlMeWZZWFEyTk1pZkhKLVlDS18yQkt5V3NKbUFGMk51ck1EeWVqaE5Db29la2RCUkk?oc=5",
      "fecha": "2026-11-26T18:07:45Z",
      "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "La revolución del trading digital en Chile: Cómo la tecnología transforma la gestión de portafolios",
-     "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZklLd3FYeHNhMk5PckRLUUpJb1BmcDYzbUJ1Q09IQU1BUVBvZF9Oem5QdkdGNTIwUWNHMU5lYnJGZHBDTHlOQktHZDE4emlhR01FSUNzMXVrZzRmWi0zNXFCOVNYV2lXUEZEbTdjRXhRQjRpVzJtVHVIdzhWeUNGaU1fZ05WRWlFLXEtbFVmbGl5YWRjZEhyVXR4NzFaTm9MNWxBMFhDOEtmZmtfMS1mM3JnczBURVVleGZvbTlleDhpWHA2TlVOT21uemRMQzIxdUs1REhsUE9rbkpnVlQ1OFdRNFl2clpUNDVMWlM5MA?oc=5",
-     "fecha": "2026-11-26T17:46:02Z",
-     "medio": "Radio Agricultura"
-    },
-    {
-     "titulo": "¿Cuáles son las cinco carreras ligadas al agro con mejores sueldos en Chile?",
-     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkhyREFkd0VNS1B3SXV3SzhtRFJHaWZFWjNmZGZKX1hMd2p2QmxYZzg0dlN6c01aZUJiN3JGZmJYbTBOVTJMR2dabmZBdGl2eHJuNEFyRUZmOW43YVZ1Xzk5ZXBHN2J6S1FnYmpHUE1ocnE1b2ZTVmVwSHEtTEFKaUVIeGVVMHZPVWhDSW9QcWprQUdsRkVwVUVqZjRaVU82eFpSOEFXYzNIUEFtM2UwSjByS0F5eFRqaFIzUWlETmpwVDF6QXc?oc=5",
-     "fecha": "2026-11-26T17:34:00Z",
-     "medio": "reporteagricola.cl"
-    },
-    {
-     "titulo": "Senadora Gatica destaca reposición de $10 mil millones para INDAP en acuerdo alcanzado en Comisión Mixta",
-     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY21GRk5MWkkzOTJWSkpjSnF2TFhERGlFSzVEdmdjR1UzaXhXc2VFbExPQVB1Q182VndqcDc2dUNWMFZyRGJGY3ZWU05lRW9EZnJESDRWcC03X3FlWDZEWVZwQkFIY04wbGVLNEtCQWt1NWFZWkJYd3JHbE9CMTdmQ2ZvWWd5d04zQ2NIZTlhLUQ2emZfSml5S2dGVkdRaDFwV3RGN3NKby1uNHFnX1UtNTdrSmZKemxlZTEwWDctOERyZE9Ec3hRY3dsZWdmU1FPV1hJcG1xdTlCUDlsaDJZ?oc=5",
-     "fecha": "2026-11-26T14:57:47Z",
-     "medio": "noticiaslosrios.cl"
-    },
-    {
-     "titulo": "La agricultura espacial acerca la investigación de Chile y Brasil al cultivo en ambientes controlados",
-     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcVZPTUZMX3pOeW4yNDA2bV9DeU1vSjVlcGFWMERIbVdSYml5cV9FSEJBalF4bVc5TzZNSS11b1RqQVQ5WU9Nd3M3Y1REY21BaEh0XzRBSXpra2tsbnE0cFoxTThCTTUwTjdtNTZOakYzbmNBMkp0VU1TcEx6REJFb1Z4N1ZqVzQyXzU5WkpmZExNSktBNW9rbnJUMkh4OXJsWFNqc050bnRaWGJtemdBYVpNWFFNWS16RjA1elN0ZGpES2NHcF9hbXYtanJyQk95THFQOXpKNVlzTnBx?oc=5",
-     "fecha": "2026-11-26T13:48:00Z",
-     "medio": "https://www.hortidaily.es/"
-    },
-    {
-     "titulo": "La agricultura tiene nueva generación: jóvenes que transforman el campo con innovación y creatividad",
-     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWUZtbXFkZzlhZEJham93d0Z4bkh2X0czcnRQMUpsbFpjYXg0WnJXdkphZWlOWEk0NlU2OW5SVVozRXlvbnBXbURGRzhnemJITFRfT0xrV0VaSE9qbWUtbnY3b3BMN2lOM1JzZXNiZHVudFRUcUowYVJ2djA1LUIzaUY2OW9mUEpVcHEzT0VlN0Q4RkdNcExiOEpMa01Cd0xuaVpPQ3U5d1dWWEdxT2dmNTVhaHNwODJ4d0szdm9wczcwbjBJVEYyMEdqcE9ZbWw5aEtuMHVPem5MUQ?oc=5",
-     "fecha": "2026-11-26T13:21:12Z",
-     "medio": "Portal Agro Chile"
-    },
-    {
-     "titulo": "Chile Agrícola 2026 reunió a más de 3.000 personas",
-     "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbjlrOEZDdnVjMVlVZzdYQUoydWh2Sm1QX2dXZnU3b0Y2X2NQZUNubkdkN2ZsazVreVdQRHFmRFZOdk5DQkw0RmZtZzdYRms0Y01HcUdhT2stWGJFZEtvTUJURlNkTlJHdDlHcTBhdmtXanlCU0NqdmdZcUZqT0R3bVd0QVppd1phU0E?oc=5",
-     "fecha": "2026-11-26T13:01:53Z",
-     "medio": "Portal Metropolitano"
-    },
-    {
-     "titulo": "Chile Agrícola 2026: innovación y nuevas generaciones marcaron el encuentro del agro",
-     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqMlF2MGxTQ05QV2VsN3FzNUI5ZmpUbndYaVdNNm5OQXNNd3B1Qk1zdXdaRDRmZVREVlQwQnRuZlI5NjhGMmVjZVVGWGFWRzRSVllDc2RBd0FJTlJmVXg4M0xJR3ZlbWZEaGFqUmVzNGpJV3hUQ19yRHB4THY?oc=5",
-     "fecha": "2026-11-26T12:57:25Z",
-     "medio": "Portal Frutícola"
-    },
-    {
-     "titulo": "Chile: el clima y los costos condicionan la próxima cosecha de trigo y avena",
-     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOURXUURlaldDQmxmTDZIRzNLNnVDRkZGQjJ6YmkzZVdubGVrNVJDTE1JdUpOeXlJUFdBUmVmLUZ2ejNNYjhzTTZFZkMzTHdQbjlXMEh2bWk5U2hZdU0yS1R3bVVRaFdaNElWbG0yVHItc0RfZWdHN2xVYVJ2bFh2Rm1sMXVDOF91eXVRVXVFWXpCcVJSTFdNS3o1aDNVaHptZVZhSFJwRFNwdnRUSmdIemNHNzJhS2FqeXNiQnVwelBiOWdJ?oc=5",
-     "fecha": "2026-11-26T12:44:24Z",
-     "medio": "AgroLatam"
-    },
-    {
-     "titulo": "Encuentro Chile Agrícola 2026 puso el foco en tecnología y nuevas generaciones del agro",
-     "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjU3d0xSX2NGSkFFY1Q0M0k4a2ZhRXBVWnBiMWlPV05iUlItSWRwOE5pSVhHZ1BNOGF4cFhvOTNsYkVXd0V4cVBBa205Zmc3V05rNXM0ZXVzTi1FemotcjBIREZCS2phbi1RMUlTaW8zNXhSVlhjWU1pNmtETDhhd3JNalNLa2NnV2U0Mm56dGRtaVlNbzF3ZVdTemswM0F1ZGJOcmp6cEJtR0R2WHJPT0p6MGkxbW1pbXpGWWs2WXVyclk?oc=5",
-     "fecha": "2026-11-26T12:30:00Z",
-     "medio": "reporteagricola.cl"
     }
    ]
   },
@@ -102,10 +102,28 @@
    "nombre": "Agro en La Araucanía",
    "items": [
     {
-     "titulo": "Senador Becker lleva a BancoEstado las urgencias del agro: buscan destrabar créditos para agricultores de La Araucanía.",
+     "titulo": "PRODUCTOR DE FRAMBUESAS DE TRAIGUÉN AUMENTA SU PRODUCCIÓN FRUTÍCOLA CON APOYO DE CORFO Y EL GOBIERNO REGIONAL",
+     "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcWdYTzI4YV8ycWU2YUUwMUF4LWZYWHV0R2hYWjlVZVJQTXZUUlNVSFJHZXZQcDB3aGl2OFl5d0lEczhHcmt5blN5M1NqdE9sV2ZmWjRqUmRxeXl3d3RicGdzOUVhS0Nqcl9VamhxblBDS1N4S18yaU5rTk1ZeUQ2T0IyeFlpY19mV3dBVll1MWkwRlVHT2Zpb2pJd3pjeXllVnFzZzJibXhzaXhndHZwZkpYcFV5ZFoybmpfZVZ3UVhob2VDTUVJZGNYajdROVJKYkJneUZjcXBjX2pSMmw2ZmYyNzJtRDR0Znc?oc=5",
+     "fecha": "2026-11-27T20:35:10Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "La Araucanía: Subtel y Claro inauguran primera conexión 5G en la localidad cordillerana de Liucura",
+     "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOEtiWnlydzU5TEc1UUZqSG1Db0RrSm5QUWllaDJtLXBtVDhYY21oOElRUm5NdnpCdFFVOGxlNG1JOHRad1kzSkxpUldzRmthSXlJZ0ZFbzJNclBqMlVEVXg1TnlkQ3NIcFBub202MGEyczZVWG5zZ1U2VUNIOTdDOFFwalhodUZzTm5pazg5SVpoQzF4VHluRkVjdDVVZFYtdDZqTE1fVXpjZmEwbjAwTmdmRHlSYmdVOGJyaEI3QlJWaWRLMXNxZzV5VWpQVU5oV3NxZy10VQ?oc=5",
+     "fecha": "2026-11-27T15:02:01Z",
+     "medio": "Portal Agro Chile"
+    },
+    {
+     "titulo": "Senador Becker lleva a BancoEstado las urgencias del agro: buscan destrabar créditos para agricultores de La Araucanía",
      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWFFFWmY0TDIxTnc0d1BIbjl2NmxBVWE5bWIwNExoSnR1ZWlqZ2N3TzJpTXdERzUtZ3dKTFZSWUVRWmx6RDhSa3hrTTlXazk2WnM3Vm9FQ3hOZmxRMm9LamUxNGJvQy15RzZRLWpYVm1PRC02a2pfcDZmLUVOME5yajVrTVBlWUhzd1hLSjhwTGlHSHZROE45OHFKdXZYM2NWOG5nLUhUYW5hZjZhV2lHR3RLMHNScDV4amhGMnV1RXZObXlyaWVWTGJoc2ZzZHM0eHNTUjhmbTl2RTdnUV9pSlhCM1NMMjlDNG5VR2t3?oc=5",
      "fecha": "2026-11-27T11:32:18Z",
      "medio": "lavozdepucon"
+    },
+    {
+     "titulo": "Agricultores de Malleco hacen un llamado a delegado presidencial de la Araucanía por hechos terroristas: “no ha estado a la altura”",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZkVmWDJOdmp3eG56Q2loc1VtdFRFS2VFUmVkMF9HUDhsUFJNQWhWMlZNaE9XWms5SmRydUdJSzY5eEVNVjR0cGNTWXgxdTlDR3RGRFpEaU9MQkg0NnE3aHhUQlpLMVYzOU01cFJhZm1TOVNEbTRqcENYLTlZZDk0dkdRUEYzaS1YNlpNN2tDOUd3NGQ3dmVFdEplU2E0bUp4Q0xDZXdRT2hUSHhVUzRLd054Q0VPMWkzRkNSdEJmcVBsTmllYjVGYjhnYXF1WDc1Wk9ZWHRSdzZBSXFCLXFYQzJqanBpOTJFa1BVRzJLZTFyaU0?oc=5",
+     "fecha": "2026-11-27T08:37:13Z",
+     "medio": "Alerta Noticias Temuco.cl"
     },
     {
      "titulo": "Fin de la Remolacha: Iansa cierra producción local y La Araucania suma nueva incertidumbre",
@@ -126,10 +144,10 @@
      "medio": "TemucoDiario.cl"
     },
     {
-     "titulo": "Pavimentación de 13,68 kilómetros en Padre Las Casas contempla inversión superior a $10 mil millones",
-     "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80ejJSLTZZUmRjalhBbk93ZnZjWFBtenhjWXpHVnFjMnlzUm5paEx5dVkxSm15b0lpSExJVUY1b2tlZzZxX3J0OHZhc3hmQWxVY0lncDhMOFFnbDBXLUJhQUt4ak1nX3NnZVZLdFZpcw?oc=5",
-     "fecha": "2026-11-26T04:18:17Z",
-     "medio": "Alerta Noticias Temuco.cl"
+     "titulo": "Seremi Agricultura anuncia la suspensión de las quemas agrícolas y forestales en La Araucanía",
+     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1dVUkRqdGxRc2tQcTRRYkZRRTYtWHZHeVd1bjJ5QncxSVFRc0VBNHpwR3JSbEhiQ1RUMTZpdFR2UG1nSl9kTWRFVGdydXFhMkplaUg4S0R3YXZYTXY4OXMzT3pfWEtkMnFfTzR4cGpCZjJrbTRkZWZ3MERNM2Jrc1NUajJCalBuOHBfUE5HanBxWFY3VE5odm95eTVRZ0E4Y2MyN25Ca1NWdXlFbWc3cEx0QnVzYk5IbVN1N2lxX2I?oc=5",
+     "fecha": "2026-11-26T09:15:43Z",
+     "medio": "Radio Temuco"
     },
     {
      "titulo": "Temuco realiza primer campeonato de atletismo inclusivo con estudiantes de escuelas especiales",
@@ -150,12 +168,6 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "SEREMI DE AGRICULTURA ANUNCIA LA SUSPENSIÓN DE QUEMAS AGRÍCOLAS Y FORESTALES EN LA ARAUCANÍA",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHRJMC02TDZpWDJzZlVtaU5DLW00ZmE0cHBNcU03TnlEOV8xRVp3bDdYRlFDRmlHZXVpU3hzalp1NHhzd2J0UjFpLXRmRTJQUHNGd255QTYyM2psbHFoTGZ5dEI3WEJzWFp5dkNfX1F3UGRlVDlrUjFiSk5Bc29sSjNfSWs5YV9tazFtbzVvTjB2dDdCTkFqZlFFNjJ4cG85aEJmdWNiRWZEeDY0RmVDWDRMN0ZqTVZMSTVIaFRBTUlHa2Z2SHViZEFJMDA3SW4ycEl3?oc=5",
-     "fecha": "2026-11-25T21:31:48Z",
-     "medio": "Araucanía Noticias Temuco"
-    },
-    {
      "titulo": "Mujeres de oposición de La Araucanía denuncian aumento de femicidios y cuestionan respuesta del Gobierno",
      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUpBeTA1OXYtNm0xMVpHSU02OW80RllsRl9ScUp6X0dfUXV2QW45M2V1ckZkVDFfanluR0RkenRUZURsZW9mcXJKQmlZbGVOcUJKaHpGTGRFbm5uNDFETU9JN1FCWjRYSFQ4NkJyZUJuZEdVel9XMUVwVm1tYndYeEhVMWtOVEJCNGctczVhTk4?oc=5",
      "fecha": "2026-11-25T20:30:52Z",
@@ -168,8 +180,8 @@
      "medio": "Araucanía Noticias Temuco"
     },
     {
-     "titulo": "Cerca de 140 personas mayores finalizaron programa formativo en la Universidad Autónoma de Temuco",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRUxENjhrOUl5NmVYMXdWN1JUQ0Z5TmhOX2xkZ3V0R2RpclFTMF9LLXZRWC1tN3R2cG5LYmd0TXN6R1B2OUwwbWR6bTh5MHJlVXZvSXNWQ3ZXUWhCajktdWVtRzB5ZDlOS3ZEV1BGUWNEWmhHYmd5NG1uLVRJLUxmNGxpOFg?oc=5",
+     "titulo": "Temuco será sede del Congreso CECOSS 2026: economía solidaria, cooperativismo y una feria abierta a la comunidad",
+     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRGZhcFc3Mnl5LWRvRnlxUF9PWGxLd0dtYnlDNDZVRVNlYXE0aXE4dHNxUG5oel9aSk8wM04yTUZXM00tS0drZmRLSC1teDlOZmcyb256SGM4LXQxMVhSSWdiNTM2X0FidXk0RGZQd183clJ2YUdPazBuWGZwWmViem9qRm9lOUJvd0tKdUlB?oc=5",
      "fecha": "2026-11-25T17:50:08Z",
      "medio": "Alerta Noticias Temuco.cl"
     },
@@ -178,18 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGhaOWU4c3hrV25FemlPd1kyR0Y2bVhtcmVtVmJNRHNzdjZHeVdBLVl1NG1XT1prSXF0ZGlYQ1RKUnFJeHJWNXkyWER3SHlFSUpuTkdOcEttQ2pWZ0hfd2RESEtsYzRqUjljSmw1Q2hCTnB3X3ZVaC1TQXZaSDViaFctVVFjTFNyQzFIWWk1UTl6R0tickMwaDNzWkM1b3hIRnVFRnlpNTJoazBn?oc=5",
      "fecha": "2026-11-25T12:30:00Z",
      "medio": "Indap"
-    },
-    {
-     "titulo": "SENADOR BECKER GESTIONA CON BANCOESTADO SOLUCIONES PARA DESTRABAR CRÉDITOS DE AGRICULTORES EN LA ARAUCANÍA",
-     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN3Z5TUk5bGl4QUNXTVY5T3M2aG9BUmY4aFM3VWxONXBvb19RWWJhWW05S05jeDV0TEZlbnpKYU04ZE5Md2hhZ2txR3dOMW1fRllyN3JhUTVSU2R6eVdvYXp6VHl2clh6QkdQLTg1WVdTVXEtdmJqUXRHeWw5aDZiLWxJMFRLcXp1OF8zNVlkRkwyaVBFTnRsOWVESEdfWUYzN3k4b1M1eWdncmdTbnpCX3QwR0MzV01lUUdXemNoeG14VVprc0I5NzVKNUsxM0VlZkg5dVhmVTlHX1pSNTZ6UktqQk9LZw?oc=5",
-     "fecha": "2026-11-25T02:18:09Z",
-     "medio": "araucanianoticias.cl"
-    },
-    {
-     "titulo": "UST Temuco reúne a especialistas y pacientes renales para abordar el rol de la nutrición en los tratamientos",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdWtUNEFuRUI5TE94Ylh1RHpLWW9YU3J0eXdnQVREUU81UHJPSnU3MHBsQ2hFeEJzLXFyUE15b0psN2FCYW51QUVMTHowRGdXQU1hUlNtYm1vSFFVaGd4NUpkRGVtNkd6SENEWE9veFdwM1NMZlo2ZVJzR3Y0Snp1N1VWMVE?oc=5",
-     "fecha": "2026-11-24T22:24:02Z",
-     "medio": "Alerta Noticias Temuco.cl"
     }
    ]
   },
@@ -214,12 +214,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTC1PTFhkdVpOY192MTNmTjFrMnhhemtpRS1pR3JnZklsN2lzTUpReVdmXzQ2NEtOZnBRcnFrMFpjYUhfcjNySXc1bTJRQnAwRXhVVHVXMldBSlVoTHN4UmtZVFo0LUpJdklYdUJWeTUzR2p1bmc2U2pRV1VYRjlwOWh1c3JRdFNXc3NfdW1ranFTbU53dEtoRS1GeXFfTExkSldNaFhFcVBPMXBaZ01kLWdnTzNXMksyVFB3d1d2M2dCOGFuc0NBaHMxM0Y1Nmpnajd3dnNIM1lvS3VkRkFsTmlyN0Z0YTJiMU9feA?oc=5",
      "fecha": "2026-11-21T18:03:38Z",
      "medio": "ContrapoderChile.cl"
-    },
-    {
-     "titulo": "Colombia anuncia convocatoria para enfrentar a Chile sin Luis Díaz",
-     "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDdlVnJaaUVSU2g2ZXFsTURHM2puaWc4N2tXTVUzX2xoNTExNXFORnF3M2ZPNHA2MkNidmVERUhGY281bkFwN1prRWhOV0JmbDVOOEpWV2xmczJDLUZQb0lVckFSTUMxUjJFaGVpeUVfUHpwWVUyWS12STZoSFczSU01Vm5icGlnY0ZqMjlXaU54OUE?oc=5",
-     "fecha": "2026-11-06T08:00:00Z",
-     "medio": "laconexion.cl"
     },
     {
      "titulo": "Frutas de Chile se baja de lanzamiento de temporada de exportación de cerezas por paro en San Antonio",
@@ -286,6 +280,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmdjWnN0MnBIR05ISEhVRmZJdGdfb1VxRnVXVEZhWWxXaXZGcmNGb2NieFhCYmprMXNzeG5EdUIxUjZJRkNUTV9GOWJCQWZyendXY1V1andCYkdmZk9vMHhjek9UZmNaZ0s4THF5dXhseXhoXzRXOUhOMnFkTnA2d1FOendRQW1rNzBMcVYtcUlVdEdFYkEtWWtCM3ZWVjBEemMzZ0JBb0pWNVZ1UnlyQVpCdzFGZGQ0?oc=5",
      "fecha": "2026-07-10T07:00:00Z",
      "medio": "AgroLatam"
+    },
+    {
+     "titulo": "Gobierno chileno agilizaría contratación de temporeros extranjeros ante demanda de mano de obra",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQjdodHFVRm91QXJyVEZCYS0yOEtDRk1nX3Raa2dNUnRmSHZoWFljRHJaWnJzcTE4YndGcG5VXzJmOFMtOHd3MXJ6OUEwN0tybWt4SzY5Nm1fZjhSd2JlSTVsSVB2dXJYM0t3YkJRUGFlQllIbUlId0xQT20wekpoU1JKWkw0US14UWdrYUhpNUJHR3NlZXZXZEhaR3NjNl9RQ1NFVFppUE42NEU4TXNHRlVkTnE0LWVWcmpBM1o4bF9hZ0JOV1FSSk5SODB5VE1DaEV6cG10NHFUa2xJc0hXQTBXX1EwSmo0SndVM1hGcVJMTXc?oc=5",
+     "fecha": "2026-07-10T07:00:00Z",
+     "medio": "Diario Frutícola"
     }
    ]
   },
@@ -324,16 +324,16 @@
      "medio": "Infobae"
     },
     {
-     "titulo": "Muere Dolores Huerta, activista por los derechos civiles en EU y cofundadora del primer sindicato agrícola",
-     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTUZnZzNhUWlRbERKSFlkeV9FUm5KbTl6ZXlQMzdwanBidnZ3blpHTUh6OS1yLV91dEJ3RXlvakJPdFUyc3ZpeHFabGs2QmNnckR4NkZsMHdOaHk5MnBlVGprMFZ2TThhMW1ZMjl2VlRodDdVT2otVGlYeGFUaS1MOExuMTJKcHkzdFl1RHRWMXdRazZSWTN1SzQ0QWloVWJTVXhraHNjam90MWFjQUNaZDRETnFWamlqWlNWUUV3THhZQU0zaXVXSVYzZTd3alVfaF9YNFQxZG5QWkZfaXc?oc=5",
-     "fecha": "2026-10-28T19:09:57Z",
-     "medio": "El Mercurio de Tamaulipas -"
-    },
-    {
      "titulo": "Dolores Huerta, líder sindical y defensora de los derechos civiles, ha muerto",
      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oTlpjVm1nSUFibFpXZ1dwTDNvY2hfTV9sV0lkUGVkYV94aFgxcF9jQUNCdTJRb1dXOEs1ZUZaTm1kakoyTU1KU1dMRTNMWjVPWmNnM21lMTlGcXlKcDRqbW1SeVlUdUQ5QlRoM2dPaDRHZGl4Y1VDMm95Zw?oc=5",
      "fecha": "2026-10-28T07:00:00Z",
      "medio": "The New York Times"
+    },
+    {
+     "titulo": "Muere Dolores Huerta, activista por los derechos civiles en EU y cofundadora del primer sindicato agrícola",
+     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN29OZUFxSGE3MlBSWEp1ZUpWQklnX18wLURGMnVyWnRjaFZaRnV6bHNJZnBvclhvTS1oeXVkWGtQd0dRdHExcWRRMVp2S0VmVndQdG81ZFdoaURaMWNsdHk4Q2RPdklaMEMzZlI4eVMyb1Q1YTlsaWZ5TUhETVdZT24wSFBaNndTZ1EwampuUVFubHlHeXJGVjJEcVNnVTRXYXNCdjBxUjJyZnNHTS11ZDI3dUIwNWtMTFM0dkVFLVpRUkpLR2VWemUxNk1sUjlBeDZndGcyYl9jbWpGVEE?oc=5",
+     "fecha": "2026-10-28T07:00:00Z",
+     "medio": "LatinUS"
     },
     {
      "titulo": "Dolores Huerta, la histórica líder sindical latina detrás del lema “¡Sí se puede!“",
@@ -348,12 +348,6 @@
      "medio": "The Nevada Independent"
     },
     {
-     "titulo": "Murió Dolores Huerta, pionera del movimiento sindical e ícono de los derechos civiles latinos en Estados Unidos",
-     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWXFCX3J3S1pVMHlBMktXRmxIM3pPd1Y5X04xVXRfcWFnSFI0dnY3QnhXLTVyWVBCMkJ1eDQxd2VrN252TjAyNEt0a1JmXzU2UUUyUG56enRhUS11OGdOek4yR3k1LUFMWXl5bzdzS1lfc21RMHVSd2pnR2lONWo4MW41TjNBeXRESV9MZXp1SzlrMUU3Ql9CN1dKLWFTTkptRTg0bk40SVRkMkM0WmxRTzRpamNVTGpIblc1UnZHck91c0gwMEdnVzZta1FnSVJYcDJmT2RaR3pGT1R4MHp0UlJFYUZyRERJV1pNNUtZZXNJWHPSAY4CQVVfeXFMTjZFMXp0TmZRUkNaSEVfVHVMa1h2ODh5Z3RLb1ZqVmxPS0Q4M202cENSZHd0R3NFT0lCcC1VLWgwaWd6TjJ6SldGRHczeUJ6WEZRV1p5cFZnWm1UYkpPXzhiZU1KbUxVWU5nX3RqOWZlTjRaemFFY0lZcjVYLUNSS1JMV0RqYmdrU0J6clFGa0VpeXlDNDdYVk44OTBtTlJjUzUyRXBFb3lZZWNLUHotbzZ4LVhuZzM2b2JCeHNhU2txd1BfWVlYRmVCTmN0S2VpTlRyUHNvNXhJVHpLcnBUa3AzbXNzNHBrS1V5cEw4OTktVU5sU2wtSFJZbXNqNnQ3X05pVnB5MEp6R19mTHJn?oc=5",
-     "fecha": "2026-10-28T07:00:00Z",
-     "medio": "Infobae"
-    },
-    {
      "titulo": "Muere Dolores Huerta, cofundadora del sindicato de trabajadores agrícolas en EUA.",
      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkdnUE1JV3ZpR1dUZUpYaE83RzNsT2h0ZEFzTjEyZTNvLWw3SUgzT3pQZDYxWGQ1V0ZpXzl4ZWVaZXBmckFvbUN1R0l5Q1FtQjFhNkdZVDVFdGNNTWphV1hFamFaRTJmVzgtdFNwMFhJbXFJSExVSjZmTW44ekJnZ2tZVDhVb2h3Tzl6NjFBWU1iT3UybUVWcGdLbi1TNElBN2otNGo5RkZ3eExfLUN4WdIBtgFBVV95cUxQQnNiZnd4QmZBVlZPbmsycmZpcXEtcTF2Y2dWZG44MUpUYVZCNDFMa0w1OWVuR190QnJYYV9nc0o2SXU3TEdIOTJOWXhScVdkMEpfUlM1d1YtX2RWTm9hekhYRUZ5T0s4bTJNSUlqZks3MXhOSlM1bVRhSVoyN2trMHBBZF9qU1o4S0Z5OFRKYlNXcnpwLUZ1RDlZX20wQnNCWDUzMUl6ZHFvUXdwMmtfQlF2ZUQ3dw?oc=5",
      "fecha": "2026-10-28T07:00:00Z",
@@ -364,6 +358,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWVGeUtxMG4zaUtka1lhaHI1QnV6OVphTG5jVlZYeVBQeWNXOUZDWDVVSDNqUWI3MHphRFd0eWhpcl9YLWc0WC1CbC13Rllkd3BROEE5UV9CR3hvQ0JPRDFSTmNOWEh5SXpuZHFJdlpJWnNyU1R6bHV2Njl2YXVfZ1FjNGhRQnVpbzdGS21yR2NMbXctVTNCTEhvRWxOc0ZDdktScG0yaw?oc=5",
      "fecha": "2026-10-28T07:00:00Z",
      "medio": "Acento 21"
+    },
+    {
+     "titulo": "Murió Dolores Huerta, pionera del movimiento sindical e ícono de los derechos civiles latinos en Estados Unidos",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWXFCX3J3S1pVMHlBMktXRmxIM3pPd1Y5X04xVXRfcWFnSFI0dnY3QnhXLTVyWVBCMkJ1eDQxd2VrN252TjAyNEt0a1JmXzU2UUUyUG56enRhUS11OGdOek4yR3k1LUFMWXl5bzdzS1lfc21RMHVSd2pnR2lONWo4MW41TjNBeXRESV9MZXp1SzlrMUU3Ql9CN1dKLWFTTkptRTg0bk40SVRkMkM0WmxRTzRpamNVTGpIblc1UnZHck91c0gwMEdnVzZta1FnSVJYcDJmT2RaR3pGT1R4MHp0UlJFYUZyRERJV1pNNUtZZXNJWHPSAY4CQVVfeXFMTjZFMXp0TmZRUkNaSEVfVHVMa1h2ODh5Z3RLb1ZqVmxPS0Q4M202cENSZHd0R3NFT0lCcC1VLWgwaWd6TjJ6SldGRHczeUJ6WEZRV1p5cFZnWm1UYkpPXzhiZU1KbUxVWU5nX3RqOWZlTjRaemFFY0lZcjVYLUNSS1JMV0RqYmdrU0J6clFGa0VpeXlDNDdYVk44OTBtTlJjUzUyRXBFb3lZZWNLUHotbzZ4LVhuZzM2b2JCeHNhU2txd1BfWVlYRmVCTmN0S2VpTlRyUHNvNXhJVHpLcnBUa3AzbXNzNHBrS1V5cEw4OTktVU5sU2wtSFJZbXNqNnQ3X05pVnB5MEp6R19mTHJn?oc=5",
+     "fecha": "2026-10-28T07:00:00Z",
+     "medio": "Infobae"
     },
     {
      "titulo": "Murió Dolores Huerta, la líder sindical icónica que acuñó 'Sí se puede' y cofundó la UFW, a los 96 años",
@@ -378,10 +378,10 @@
      "medio": "teleSUR"
     },
     {
-     "titulo": "Muere Dolores Huerta, pionera latina del movimiento sindical y campesino en EE.UU.",
-     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObEJXdkctVXl3bnpRQkFPb2xxU0J5cTdZdm4zaWw1bGhlODByb19XNUJGU1NZN3ZhbmpNbHROQmljQWNVY2ZwNjZ3SWhCMlFBVnctcTRvTkZpT2NrUC1mNmhPM1drcmlCTkNsVDNjcE1URV9nUFNRdmtFTW5KQU15Wmc1WjNzTmU5T2dqaDB3ZjFxR1lIaDNQV0d0SHlERlFBdWtBcnlnTHVwdmUyLWR2ZQ?oc=5",
+     "titulo": "Fallece Dolores Huerta, cofundadora del sindicato de trabajadores agrícolas en EU",
+     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaXo2MXFybmlGbDdMRUFxZjZ2cEszV0RzT3BxbFI3S3htalctOHEwRE04M1VvLVBfRHRTNWlOd3RsbURmdV82NTVQTWZUSXh3eGpKX0JRTi1qbXEwekttQlp0cnE1bjBBUkxXVnJVa1E2aVVHRWdKTmJOdlhIV01sRjZvS2NWQUJ2cl9qUERhaVJNdlJQU3hjS3hzd0pqRXpReGQyX19SVjUyZjhfY2FtVW9kNERxcTI4dExqa09YQlE5MVBPbmlMcVRCTndudw?oc=5",
      "fecha": "2026-10-28T07:00:00Z",
-     "medio": "Aristegui Noticias"
+     "medio": "MVS Noticias"
     }
    ]
   },
@@ -422,7 +422,7 @@
     {
      "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
-     "fecha": "2026-11-19T19:41:17Z",
+     "fecha": "2026-11-19T08:00:00Z",
      "medio": "Publimetro"
     },
     {

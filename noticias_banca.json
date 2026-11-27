@@ -1,10 +1,22 @@
 {
- "actualizado": "2026-11-27T14:21:33Z",
+ "actualizado": "2026-11-27T22:55:07Z",
  "fuentes": [
   {
    "clave": "banca",
    "nombre": "Banca y finanzas",
    "items": [
+    {
+     "titulo": "Los bancos NO abrirán estos 11 días en 2027, revelan el calendario oficial",
+     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbEpidE45czA0dW8tYWIyR3htdU1XX0pHek11Q2ZJZFV4Y3BKbEp0bmtaNTFpUXJQaUdJWlFOYjRUeFNKY0owZFFWSWtobU5LUFBHTVVEcTNYRUdwWFlETEV2X0lDRVAxbC1sY3c0TTJSU0VYRE1ZczNGVTdqaEh2eXZLUUpBem5aVndEc3BDTzhvaUhQTkRtZ2JkU29wX3VlYWx1Q3lZampxUVN0SE1yN0loTGdvaUlaNHFBU2lhakRXd3RhR1hCYlRIRnNWZ9IB0wFBVV95cUxPZjlKQWhyMEtfV1k5T2VtMEdQWXdUbkNyd2w2WXZDOXd6TGpTZU43ZFVsVDFyNDhoMnUzemhtNDFfcXpjNnItUEpRUW0xZ0Z4S3NrQ0JBSUdCZHpONkMwY1RQMXk3b0VVT1pyNDk1R3ZCTGdvM3pfcEd6cUxiVWpuNHJEVktDdkhRbmUwYXZRY25NUDRNVnl3eVdKVDZUazBUcGFqN09xb1pBUXQ1anRTanBvZURHZ3c3OGNjdFFBVFQyaW9GTzVjUmJpU0pTSXRiTzEw?oc=5",
+     "fecha": "2026-11-27T01:24:40Z",
+     "medio": "Radio Fórmula"
+    },
+    {
+     "titulo": "ESTALLÓ EL CONFLICTO EN UN GIGANTE BANCARIO: anuncian dos días de paro nacional",
+     "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNFVSRXNGeXVqMHZOcktwVmdWdTJCWHk1S1J6WkpPeVU3MkVlVlVuS3hGN1p4TWNwODF5QnVrc0pDN212VXFrbld6WUtLQ3BVZl80MkQySjBTUnQ5ODJCUE9PVmtwSjZVTjB1V0lKYnA3SUZyR3hEUHpDeTlwRFlNRUVHbkZEZ0RDTVpUb3F2b3FfNEN5RXlCM3M1TzVVTW1oUm1fSy1adWVXaThrYnp30gG0AUFVX3lxTE9jTTg4OHdXb3MyV1dGQWxWTEl3S1h2eDZ4VWlPZkg4WEQzMXBwQW1PVC1QNnVWcWh1Y2paNTJYRUZYdWJUdUt4NnZyNHRzRlJBSHFDNzRrdVJlcmJGeFVYUzJiV2g3OGNZYU5lb1NxY1dTSjQwT2hIdWFLdHBUMnBHaUdLdWVHYTZXZ1BORzVGSFFYY01BOUxPb2pzbE9XMHVNbWRLeEN6NWR0RDZyZ0NVZUtCSA?oc=5",
+     "fecha": "2026-11-26T13:53:00Z",
+     "medio": "El Economista - Últimas noticias económicas y financieras"
+    },
     {
      "titulo": "La Asociación Bancaria anunció dos jornadas de protesta en el Santander por despidos y cierre de sucursales",
      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPME9pNUVTcVI5NVNGcERVMVM4RXJUaEc4aGM1eDNJUFpoZmIxdmpTOXhoN0NtYzFHVHV4bWlKNm0wbllTZDlmdEtqNFBkSi1XSzN6YnZKd1pad3dJODIxQ1QyX28xZnozdm9HZzliQjJtQ2kxSW9LX3cwUDdZaGhwVzMzdnluTlI2bW96V2VKT2EzTmhZazZDUENLa0dyc1Zidm9jT3hxZm1aczRRbjRKZzRxOTMtN29KeTRHNmpYRllFbllVbXVzT1U2NDlpMFYyVjQ0TkdWeDZJbWVnZnhr0gHkAUFVX3lxTE81OGF0LUo4RlZQak5QR1FpX2R6b1JZOWVvcFhKUWRKdTNua0FBX3lWenpXZ2loRXhEMU83TDNPcHFueEF3aFJkZExDWkJ0WjdDZEt2UHFGbFB3SGZuV2pWMGVMdHJTWm1EMmpRdGdoYTZCeF9HcTctREJQeVBzOWlaQ3FFSDFncEdETzk5bjdLcEpBdDdlLUN4M3V0TEZpOWdMOV9zYXBKQkJiYkdsa08xYVVnTlNkRC1TN180SDBhakM3SllvWC1lMFg4NWZ3bEFNaVBldDR6czlTXzBHb1hjY1cwRA?oc=5",
@@ -16,6 +28,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeV8wZkVmYkRZckFpV1JXaEhDVGFHRXd5UlBpUTVMcVQ3UHN0YzlPQTBzc3J2U2lpdFk2TDFRLVpBSFdPcGlUb3o0SGhteWhDYlJoVXozSktaU1ZBdldUalZaVUdLNFdWbklkc3ljb0NoUTZQQWZxeXM1VWVVRmk0QkRXMGNDeWlHNUZUQXVxM2VYdXNyLWFzY2ZCb2NsNjVnWHlKNkJZTFctc09mT1I3RNIBtgFBVV95cUxNNVFCZGhCU0ZNTDZMQThDRnFKc1g0MGMzS29BTTZaT1hFTkNZZmZLMEZhakRQa09yQ01oZVY1WWZxbEFraUs4dWgteGFPNklUMTdXNUZmWW9QQzBPWXNCb2wtRE0yQlBhX1dHdGpkUGx6X25lS1pZb3BaUU9TQjZmMk5KbktqRVFad3d4S2NFdERkTkEyc25GaG1YNkpodEZxMnZrUE52T0s5SVh1Nmc0U0JVVU9RUQ?oc=5",
      "fecha": "2026-11-26T06:02:10Z",
      "medio": "OkDiario"
+    },
+    {
+     "titulo": "Golpe a la banca en Madrid: IBEX 35 toca mínimo de 3 meses tras caída de Santander y CaixaBank",
+     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRFZZZjNVcHhGZ0hhRHNabUtuZDVyWTZhUDFyakZ1UDdQNFBGSVVLS0RPeThSOTltdmlQcm9DOEhRa2tXN2tFeFRoN2tuOEI1Uy12NEIxaGFrUzN5WXNLaUt6TWtIZzN1cnZJdWx4Mk0wMlNRMGFQN0NaYXpFUWl1WWZ4N3NtdVNnakpxd0c4ZWU1SHRKY1hScE1mYTVITERHMFI1elVvUEsxNkNmT21wVlVGZERsZFVjQjZieEF5cU5MUGE1aUxuM2V4RHhXWVB0VV9QMFB3YWVwX044eFlyRnZB?oc=5",
+     "fecha": "2026-11-25T20:40:00Z",
+     "medio": "Mi bolsillo"
     },
     {
      "titulo": "Santander Chile logra su mejor resultado en la evaluación de sostenibilidad de S&P Global",
@@ -48,52 +66,34 @@
      "medio": "Expansión"
     },
     {
-     "titulo": "Bci se suma al recambio generacional de la banca: Eugenio von Chrismar dejará gerencia general y lo reemplaza Gerardo Spoerer",
-     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN25FdmNETFdnX2hQbGtXS1E0ZldFUW1TVXRIUE0xZllHOTJhT2ZjZVJCTnVLQVBZU1dXR2Q3aTVfWU5Mbk5WSmEyLUdiYUxpVTBzYjM1SmFFZ3FiZzdBZTR0SjIzdDR5WVRHQWVPQVFwYkFEVkJ3Umg0eUliTUpsMUdCR0ZMYkZzbWQ2WWxuQnFsNy01RnZkVHRrUjNWVEU4SW1lZk9RUU1FUThUZWUwc0Y2WkZsNU5xVkJIeXNrYzVjbmRDRHlEd05n0gHrAUFVX3lxTFBPQ014SHBkRmVIUE9vV0ZIb2tPYS1qamotam9ySEJpRUpCQmNla3NfMjh3bXkxeUV4U1U5U2FaX3drRnZfLUJkbTMzejd3V1FYZGhsYjFKOEIzTnhqNnNNc0NfYnhvd1ZBQVFVS09weGdiUnZBcm9DYU1GbXQ0Z1VWN2JkWFNVYU1yaWh0OERIamh5U3RvYjgzTDVOSkc5RW13NU1jWWZpYldZODlsUnkzanQ3anJTVmFEdHBWTU1yR1hEZW5sRDMzcm0zbTNWS2hmTnBCSDFOMWhqYklfeGFiV3N1djNONDVLcFk?oc=5",
-     "fecha": "2026-11-18T08:00:00Z",
+     "titulo": "Banca gana más de US$ 4.400 millones a septiembre y Banco de Chile lidera el ranking de utilidades seguido de Santander y BCI",
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmxKb1pBMThBM0kxMWxBRjNYVnBRQzFHMndLa1B4UzJwZUx3Qkl5bnFKazNFbzNZZkpLUUoxQ2VJVE10dkZJb3JEbTZpR3prdlEtYzMwMkpKUi1UaHktdkppTEl5N3ZJbTZuajdwNjlieW1lRjk3T3o4VHpOWFZpOXJrR2JhRUR4dFdNV1NiSkFSOEMwZFE?oc=5",
+     "fecha": "2026-11-02T08:00:00Z",
+     "medio": "CNN Chile"
+    },
+    {
+     "titulo": "10 años de Santander WorkCafé: la innovación chilena que transformó la experiencia bancaria en el mundo",
+     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZUgxZEJmTG1xaGM0Q0dOSFEtSVl4V0dSUXZ6THN3YVhjNm15dnFqb2pLQ3dMRHA0WE40YzlENDZBcEd1NHBjZVBuRUxEcTgtWDl4SnVKMXItX0V5Z2Q1cDRyQ3JzQ2t5QjZsaVBGb3NKOXhxMUwzOE1BUl9nd3kzbGg0LThPOXFyLXNzbWdES0lQWWptdldIV01ZUExMTXBHSVY4V2NWTWFTSC1Vdk1rQkhySkEyVVhaVmdIVk9nVC1IYW1tOHVFak9aM1Z6QnFVc0FJd1c4WEp4NEN0OWx2YkIzRmtVZ09VT1lwMHBZSkQwZw?oc=5",
+     "fecha": "2026-09-30T07:00:00Z",
+     "medio": "Banco Santander Chile"
+    },
+    {
+     "titulo": "Nicolás Trajtman, gerente de banca empresas de Santander Chile: “Las firmas están dispuestas a invertir, se ve un cambio”",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNand4dmp0VjRWZEpCNUJIZVY2Q2pnbHFZeWRSODBzNWRJT1dqUjYzU2ozLUVIeGd4QTF3LTF2a25SdkF1VXhzWkg5RVBuRW9pa2JjanNwZndaYmJBc2JOYUU4ZHpEQXJERXB6aUlQc0U4VVdmekVTMmhBS0ZNeUI2dVp1WDR3OGZyZXM3eDdMdlF5S29seWZvMlU1Y1NSa0lkc2ttQWlmak5iOE0zQjBuQnlhRFJReDZEbG84Z2pyM01EMXl2MjZIb2M5M1ltTGxfOUtKeWU1eFQ5V243RWxiWTllb2YwRTBEZ1JjdlNB0gGPAkFVX3lxTE0wT1cyMXJ0ZVJuZDJvTGJpcG5xQUhQcVgzUUZEc1Fmb29xNlZlUl96bHl2bUFBXzJGV1p0a1F4UHBlNW93RlJKV1pRN3Q2OWhIcjBrWUpMeTU1VjdpS28xcHVueDc3VjFVcTdENHNkV2hiOXRYWEM2OWljOEJxcXp0UXBRMjFyVXJnNThIQVpXOXNlSndWUXJDcGVNbWF2X3plaXJoWHNHV3hiaTVMeklNOFczbzQyUThkSnM4bmZkZmgwNnR1T0VjS3NOMmRMYzRJcUNMOHZmZGdHcFVZSUZwTEcyT1RLOE9WTEVlVzduVGlLOU5RUFhKV0M0blVONGVCUDY3ZW5mQkF6XzZGS1k?oc=5",
+     "fecha": "2026-09-15T07:00:00Z",
      "medio": "La Tercera"
     },
     {
-     "titulo": "Banco de Chile, Bci y BancoEstado entran en la recta final por la compra de Transbank",
-     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObHpxY0JKRTduNDI4RWQ5eEtGZGdfUmsyUDBmQjZJMndLZDdUVWdGamVBR0w4cW1Wcy1TTFFjeDFabG8zYnE5SE50bl9MSlQ1RnV5cGdXU2piaDZFVkkxNEJRWHpKcFp0VWNobDNPZlU5cUVMVWkyRTh0Z3Rha01JU3dVbC1yeVBIdDUyYVNNYVlJMTR0akM0czMxb3dTb0drRzM4NFZMQmU2bjkzTUx4RDRIT3htdw?oc=5",
-     "fecha": "2026-11-17T08:00:00Z",
-     "medio": "Diario Financiero"
+     "titulo": "De una idea innovadora a una nueva manera de hacer banca: los 10 años de Santander WorkCafé",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdGJBZ3ZFeDI1cHVrTjA3amYzSndDemdGTDZsb2UxLUF5T3VUOFd5ZVJHTVNEd1ZvMzRyNEtKVm9LbHZTWWpoMFgxM1l2XzhqT1d5SDI0X2REelhpeEcta09kNHI5WGxkZ1VtMk53RUxieFZfdjliUDlVTnlVWVE2Z2JKdUhhd0tnX1U1NjBnaE1lQUlhbVUtZFNGT1VnTml1NmVYaG41N3Y4akYtd2huN2ZWRlNoVHpYN0E3ajZqYzhiR2xFbXNvWjRHTDRjYVNOY19yMkYwc19vM0ppN25hZmU5ZmxUM0YwcEdVSWVR?oc=5",
+     "fecha": "2026-07-12T07:00:00Z",
+     "medio": "Banco Santander Chile"
     },
     {
-     "titulo": "El Santander lidera la venta de riesgo de crédito en Europa que la banca usa para subir el dividendo y hacer recompras",
-     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMU5Gem4ySks5a25nTlFldWVQR3RCWFZBSnY4SjNYYk1wMTVrdjg4WVdSeVppRTVuWHo5NElyYklBTDlCaUNCcWcxQXBVQ0FrNFhCQVhLZEpIZk9SbkRSaUxmZHFtVFVzdXIybmlmSHoyRk83ckVNMnlSaUVnWW1OSTkyNXZuZmR6elB6MG4wbjFLcVZreDNhU19RY2lYWkQzYzFocDFWZG9SbnprT2UyN3FZRWcxVWtpNkh1a3R3aTU4MGd3M0lnNVRkNlhZYnpCMjFUTFVoZG9ZUjRvNm05QzBoWVdVckFFclhmR2wzRWY4M09tOXpz0gGLAkFVX3lxTE9xV2pheTBJdFVVcUM1dFpQUlkzaW5fS2JhM3dUMHdtYkJKbmRRR2JDMTNlSEVMX0R6TTk5MDVPaXhMNjFhZGRPX2d3MHZWOWRWTkgyZVhiRnRoUFpNY3BwNzB6Y3VJaUg0ODlNZUNScDJmWXRmbnVvV1BqZTFkUEFvbmJzT01pV0NmdGZSbEF1dk1oYVo5NkZyb0pJelFuX1NaaFFVMVltejNmQmdWcU9VTVNtQzBta1BRMFp6dkVVR2RoU21KYnhsaDZUb0hGdHh4dTZZNWoxOUJ6SmU4SnJMOHlhS3NzVmR1dFRPeGs4anQ4OXEta1J6V3lFSmZTalRLak96bTlpNVk0dw?oc=5",
-     "fecha": "2026-11-17T08:00:00Z",
-     "medio": "Cinco Días"
-    },
-    {
-     "titulo": "Ni Santander ni BBVA: el banco que está presente en el 45% del territorio de España y domina buena parte del mapa bancario",
-     "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcGhHeGR3d2ZqcFByc0ltSlQyZGJyeUNOWW5vVUU0alR2cjlnd2p6RTF0U2txY0lDNWlLUkh1S3doVUh3RXRRNmRoS1plSDlNWjZET3QyV1VGN191eXBrdjItTGEyVmRmN1pGVENCN1NvYTVDaVR3Vk9pcURYZm10RGM5WHRGWl9kSHpBVFNRbEt0aHlrOTRIRnJIb0hBOXFfQWFseWhTLTRvbWpoNUxpb2RaWVRZTC0tSTdtcFAtZU50ckN5RHBVYXcwTVd6TmJHb2cxT3BPNjkyNWdKalBTZkdVNFJtcTJXNTE0aWY0RTZsZ1ZyaTBEYlU2bXRiSUFf0gGbAkFVX3lxTE5CUEpqQW0zYUh0R0E4ZHFPU2ZZUjRzYjZsb2ZwZzlFSFJ3S1cySEVHMENKUjJ2X09pc2pPX2JhRmI0NkFITlJWOThLaG5mVjZNTDBYSkxXcC1QaVNPU19tOUR2STkwRnh1RVJHWG05VkFHNFR0TXFpQnpjMzBoWGpuMXAtN0VqQXBaMlN2V0VMZ1FGa3h3VE5NY2FCWUNlb1liOGc5bW9TV2oyQXMxYTN6Q1h0SGlHTi1GNFJ4OUxmRFJDU1Fxa2lPV3YwdG0zcG5jUnpJVXZscmhmTm5CMHF6TG53U29Hb3ZkSVVTdEJVZFpFWlNURU54ejJGMDcwVzczQkNiUmtheXJRTkYwZWc5cllhN2YtUnpkSms?oc=5",
-     "fecha": "2026-11-16T08:00:00Z",
-     "medio": "El Cronista"
-    },
-    {
-     "titulo": "Bancos en México como BBVA, Citibanamex, Banorte, Santander y Banco Azteca cerrarán todas sus sucursales el lunes 16 de noviembre, según confirmó la Comisión Nacional Bancaria y de Valores, por el día",
-     "enlace": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQVk1fWFBtMGkwTWZkcU5uQm04MXhka3V5WVZaSkYtM1VISGZQYmlPZ0VJQzh2b1pHVzlSZzM2cl92djJuMVhaVmdUNFZVRGk4a09GVEgzbllGdlowaENKOXdKVngzS3p5UlNDTEc3c0t3dEMyUE5ya3RNSm9kWUVZNUlhaUhyM21VQVdKMmtDRU1wQ2kwQlpPTi1tRzF5Z0NVUHFPaTZGMktsakJXS3J5RlQxT0h5MW5lV19yOWJTY3E5aGhRX0t2WHlkN2NxejRFdmREcE02UVRjb19OTmIyWU9DYjR6VHJxMXFUZ29HVXl4NG8xRnRXOUowN3VUMzhSS082SzQwd0J4Ym9CNFhzSDdHMG5ONTE0dnk3OTRrRTVCYVNZeGEzcWVidlRPendVQy00Q0pweWtrTGFSTG9kVlJrU1phM2ZyT3gtUlBlRmFhVDl4Y1hrZWdJb2lKWDVZcFBTOTJ2Y2x6ekZhMXZzUzV6SjB6aklSbGI1LUItMUpEbzRCQ0tKLUxvU2JWcFJPWWlZUmh1QmtybjlYWmZneEYzSWZxY2NiM3hF0gHGA0FVX3lxTFA5TWNOcDFINUMwcUZ6aXI4MzBCaTdnVm9BUldwTjluU2YzVW12VF9XV3N0YWpOX1ZEd1hRblgwbzIwcVRYRG5GenJyQXFuLUM3bHdQaUVINlJleVczaUNRUGJ5blhCQV82N3MtemhHbzFHelpOQWh4R0luaHRKeFEzOFRaU044bFJ0MXo3bllvX0NYQWZVNE5CeUFDRDV2c0VJWDRidUhEbDBVOGEwdG1aYnlER0pKcHRzR0J0VXdNYlNSZk04ZGtlRHFYa2NxRGxjWkRCckUwUzByeDJLbTdZdnBpMmdrazZnV2Z4MUswRXMyVElkMmwxVWIyMXkwRmpheHRPaE9JMURlemwzbzJHbHg3SkZZZTRaSmZtRTNoVE01RGRHLWJyT29ma0VmRjItZktuTGpsam02MV9xWExzRk5LLTgzdDdjcElzbG1xSndHblNheUtJc3EzUm1NLTNpMmt3YzU0SWFoVlNHam52T0l6Z1lVRlpZWkRxZkY5SUJidTE1U3p5R0ZrdGpqa1hTR2NiQlYwaWRJWXoyQXJXNFRSNHRUeEdFa2lKcWlIcmNkYllWNzRXS0lnVnhmMS1TLWRDVFE?oc=5",
-     "fecha": "2026-11-15T08:00:00Z",
-     "medio": "El Imparcial"
-    },
-    {
-     "titulo": "BBVA, Banamex, Santander y HSBC cierran sucursales el lunes 16 de noviembre por feriado: qué bancos sí abren y desde qué horario",
-     "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdHNZbFZKSC00Y1FWWVNLUHI4UmNaNkJGNGVZb2UycDVEc1J2Z29kQzUtdUdWeTJSd3A5cVVPSHBkcmt1N2ZMd2xLbTY0dGxaWjE4UG93RnIxbVJJUkx4VnN3c1J6Z2ZNUk1feTVBQXB4bmxXWDFxVkxrVWNjeUllYTVvNGdkZ0Q4RWVnam9JMmRtMVIzSlFmX2k1V05JOGdackU2M1YtOVRsU2lVMW9pY2Flc0lrTFQ2dzVkbFhMZXQ0MHBJZ3NhUzJoSHQ1bHlvU25iQ2VNc19hSVhIQUl5ZXF2bHgzNnAwZlVGRDZ4Y01OZDdJRDRtRXZFSTPSAZcCQVVfeXFMUHViNDg4dG5Ka3JUbS1nMjl0b2VRNHhUUDZ6VDBjNTQ5M2FqU2g0THRIUVcxSWxzVGkxX2JWQzBZNUVWM2hlZ1J3Uk1EajJicEtBMXdMOC1COFdhUWxoY21zWDVTYTd3NDRMRzhhd2FLSG5ZcW94RV9RUzhRSC1Pd09NazVMeFpPLXR0d2RGSGZCWVRXaHlZbXBaTzBjUnJKZXYzZ1ZSa3BncXRtMWllREN2NmtlRzRHcFlsYVdvQmJDd1FxaUVsbVR4UVJuVmNPaGp6bkFVOEJqemJDaDdpSGJOT0xEd2RMUVFvMDAyLVFhUTRYR19vdUtBRGdJUHRTeXJhZTBRdV9rXy0wdFpralF4TF9WUTFN?oc=5",
-     "fecha": "2026-11-11T08:00:00Z",
-     "medio": "Infobae"
-    },
-    {
-     "titulo": "BancoEstado discrepa con el gremio bancario por duración del Fondo Nacional de Vivienda en debate por reforma al mercado de capitales",
-     "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPc1JVQ0FvR1lZNlhsaWJNRHdjaGVmelExdk9FZS1WTXFfSGtJaExaYlJrblRvYUpZVHpzRVRGSk9xWWY0bGpuQUdfV05uLS1RaTEzaXdJZnJWektmZC00c05LLWpXUXNqQ3FWcHpxSWhULUZZWDhGcmxpZW80UHhvdXlaSVhucmNEUkVIT1E4eFJXc0hzaEdReGRLQk51RHJtM0twcFYxMWFCWTBLU0IxSVBWRnotWWUyQ2hZempGTm1UOF9mT2s4MkxmTERNUnpqUEcwa29CS2thNGY3SmozVXc1clliM3ZUaHhQVGtYZGtmYWNNOGFPTU5xZ0JvbEE?oc=5",
-     "fecha": "2026-11-10T08:00:00Z",
-     "medio": "The Clinic"
-    },
-    {
-     "titulo": "La banca española recorta más de 1.100 oficinas y más de 13.400 empleos en un año",
-     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYWdOQWJrcVE5Tlp6VEQ3ZHdFQXdUdy12eFcwUzhucHFpdjlXd1dNTU5fVWM0Qm1WejZ4NERXUDZCVUp2aUVndWpkTkRfN0laU3RCU3R0Nkxlc2d3SUtOd0hlZW5CaVFaREozY1dlZ3BXc242RWtXT05LZ3BVSDBaX1YyYTB3NzB0TjEtRktjbDFDYlc1Z2E3M0dFVldhOG1KclRaOUtmLWJqUmJLOFRkYk5rdFJ3aDAtdElXN1AwQzU1Z3BPZkRQZmU2WnJIcW04ZWUteGo3UDc1WmZuUXp1V3gxN1pfd9IB0AFBVV95cUxNdXhSMGg4MGl0UTFkc2lzc0lRQXd6bmdsSkFOaHIwV0N5Y2l2R213dEdYQXNEYUVGQ2FGNENlMkRINi1xSmE2SktpT1c4ZlphMV9qN1VSMVptdVAwdjJyRTVwTEJEQUpuVmRsUUxrRlExLTNwVHdJX3AzRnA4enV6aXIyS2MxUmZ2UEFyRFVkekppOXI4Yjl1X01rS1J2N2dxaHlaLTcwZklLTS1GRk9SdkNBVXZDMjFzdnEzby11cHdOWXdtdU43U2xJWERwWXpw?oc=5",
-     "fecha": "2026-11-09T08:00:00Z",
-     "medio": "El Economista"
+     "titulo": "Cae la red más grande de lavado de dinero del Tren de Aragua: detenido ejecutivo del Banco Santander",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeTg0Wm1wc2R5QkNsc3JVaE5Sek5UeVI1ZlF3YXlHaU1jMHdua21hOXBpOG9RZ2xaanhwVDFwbWt6bl9kYWpzb0hCeTBXNFRWOE9QdmJDcGdITVJqVkFnakpFNEs0WVZyalBBLTZtNElHeGdvMjBiQXA0Xy10TUVxQzU2YkR6anpMb2xvQ1UxdjQ0dElCUlNQS0F5dkYzQ3E5NUNTM3ZBZ2M0NENjOGxiZTZQX1lGV1JhdUpXR21nNm45dW5BRmttYTZiRVJKVHE5Yjlr?oc=5",
+     "fecha": "2026-06-02T07:00:00Z",
+     "medio": "- CIPER Chile"
     }
    ]
   },
@@ -102,28 +102,28 @@
    "nombre": "CMF y Banco Central",
    "items": [
     {
-     "titulo": "Banco Central reduce su tasa de política monetaria",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGltRTFydUNlcnBaUUNMUzZCWDctbXZ6cDFXX3pfNkVBcUFQZktoZEh2dFd2akRKZ1dVWkhVVEZfTndUUFlPbU5xMllTQUlnMml4bzk1ZW1fcWJLRjVGQTd3ZUUtTkVnTWJrRDBvb0YyUnM2VVJWRjVnbjB1Q1RYamZ3Y1NWSXVZQ0I5TzBqMTRoZFd0UFI2M2ExdmxIWFhUY0lNVHJRUmd1bWhZS2hiVHIyVThieWM?oc=5",
-     "fecha": "2026-11-27T01:38:11Z",
-     "medio": "La Nación Costa Rica"
-    },
-    {
-     "titulo": "Banco Central baja tasa de política monetaria a su nivel más bajo en cuatro años",
-     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT215UmR0bDk4OFh4VnJBSU5RYXU5Sm5RZVBvRW8xaW40SS1OY2xfaENUMVd6eWJ0djhVUmZyX3pMajJzTF8yMHRPcDJob2lGRDBlMVZMaEtHVWRDVzZPMERpa0lFZ2VCTUI1cER0akF3RFc2WWFQRVU4YkswQlZkdHpxeV9KNFdmaTdGMkhlSTFhODVwbFctNWFWZ054bFVTVnFMZzNYWmFyUEtkQ05JdQ?oc=5",
-     "fecha": "2026-11-27T01:17:47Z",
-     "medio": "CRC 891"
-    },
-    {
-     "titulo": "BCCR reduce la tasa de política monetaria a 2,75%",
-     "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaTVNQWowTEdWeTR2NzVGU253dFVQQUJFTFFjdzBWOUxzV3NyVFl2MEdwQ2tES21HN3NFOGVjQkdINVgwbGFFNWhMdklmVWNianUzTXBCNF9FTXBRMTYwMVdjXzllTGJNWmVLX3RkbkJ2NW1SWm5hNWUtMUlCZDFVUw?oc=5",
-     "fecha": "2026-11-27T01:13:59Z",
-     "medio": "Delfino.cr"
+     "titulo": "Banco Central de Costa Rica reduce la Tasa de Política Monetaria al 2.75%: ¿Cómo impactará en los préstamos y la economía?",
+     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWkN5TjRwcVdVa3pkMjJrNzAwcGNwblFmSmJOeV85MkFTSGxwN1o3YTlwYTFJNEtFbHFLZlk4RDYtcWJfWGJOY2ZrUEtibkNQQWF6U0VQRHdRT0xpMlhwTnhvSlJ5SllMSUVuMHdXWVpMRGxwaU9uVHo3UTBvazJCcUlNb3RfeFd3S0wxcEl5YUVGczZabDViZ0stYkNwVTRpVTV3VnFJSExqWVl1RXFPN04wekt2NklsQW1XR2VyV2JxT3RJbTRkLTdkT25JbnVYLTRhS28xdXNWVUQ0eVhBcVgwYTM0THdpMzVNQ3BRaW1LSTc0dHFr0gGSAkFVX3lxTE04dkRGVFVTODR1UHVxMTdKaXE0RzdXbDNIWTJmbG1BTnZrVjlPV0N1OWNhOVBWalQxMkpKR3I4VkZqcUdaNzdISDl5S2VWQzMwRGUxSElRU281a3ZrU2NqUmc2V3BBSGdpQWlUdDg1dXkwMmJsS21mQ1o4NHpybzJKN2pRc3loc3Rld3RkUl9Lamw5Zk40akxONzJrMEFWY2hoaFlMWE9hX25tMEEyalUydFZqZ3p3aWU1YlhLNXUtLTc3UEJWYlU5c1BDSnZfUDNJLTJMa1dlblM5UlB1QmZCZE91djVlUE9CSGlpSW1YZUFheThGT0owVWNwM084Xy1VVmk2d2p5dFhBSHkxWkt5S0E?oc=5",
+     "fecha": "2026-11-27T21:35:00Z",
+     "medio": "Infobae"
     },
     {
      "titulo": "Banco Central reduce Tasa de Política Monetaria al cierre del año para dinamizar economía",
      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYm8ya0Fsc0U5YW9RY1A4MGtya0toczZqRjNDQS16ZU02N21NNWt5Qlc3QWtZVmhxTzFOajMzeDE1WE5qeDhCSHhNa3R5RGhJX0ViSEJLZW1aV0xOZEhDcGo0TDdOb3ZYclNJOHh2dXlOWnpmS0NZX3B0RFZ5QU1FWW9GU1hhVlVoVy1oZzgwd2Jib1ZxalJLd3dEVmFHSndVQ09NYy1QTk5SemhBNGlUSlZsamoyOEQwYjcxNm1hSWVwaFNEeXc?oc=5",
-     "fecha": "2026-11-27T01:03:09Z",
+     "fecha": "2026-11-27T17:55:29Z",
      "medio": "Periódico La República (Costa Rica)"
+    },
+    {
+     "titulo": "Banco Central reduce TPM a 2,75%: ¿Cómo impactará préstamos y el tipo de cambio?",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHBhQWJ4RlVoekhMR09mQnFxZUxZSUgyVWVJQWRVTVRGOVlVSTBkN1VHelNlTjdaVVRFUVJHOVB6VlM4ZTV2U0lmWmEtU2RrajlDc29rMjM4YmJta2hOR0VPcGFXZEdZZVlTN1BJcnlROEIzT1dyazRrclVGbW12dVhKbEYwZi1YR3FBcjdhbVhJdDFxd3NmZnR3VF9HZUR6WmNhMk5hVEhsNUY2WGhQSE4tZDFGLTA?oc=5",
+     "fecha": "2026-11-27T17:02:26Z",
+     "medio": "Teletica"
+    },
+    {
+     "titulo": "Banco Central redujo Tasa de Política Monetaria: ¿Cómo impacta a los deudores?",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQm53N0lwQ3ZUZmRlSTdfRW40Qy1KQzhmT0x2Y3lEWmFyeExrakxKa3JaRGxtX2UybGk2YXlkUGpHcm1RVXRtWjZSU1F2SG5DRWo2VU9veXRoTkprT1ZuUWhlTlRCbnFoOTYwcjNkOU1qQlJoRUxfX2ZrbUxhMFdjLVlFWlFhcGhUSXo5UG5VOW9qODJraV80ekhiNXFIdVBQeVdWVTlaOG1fWkUxU2ZhZ09xY2tMSHc?oc=5",
+     "fecha": "2026-11-27T15:53:57Z",
+     "medio": "Radio Monumental"
     },
     {
      "titulo": "Banco Central baja la Tasa de Política Monetaria de 3% a 2,75%",
@@ -132,64 +132,64 @@
      "medio": "Semanario Universidad"
     },
     {
-     "titulo": "Banco Central disminuyó en 25 puntos base la tasa de política monetaria para ubicarla en 2,75%",
-     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQUlzQlFjeG8tNzlXT2RPN2d3WEVWVkJWUzRVVUNsWlNKcWlyTy13NXdzb1Z2M2Rva29yQk04VWF0U0hKOXpISWJpakx4UnRCVXNZMTVwQ1dLNFZ6WVFsX1c4cVRQVGRmN05oUlZVOExmQW1KQ2VnWndicTRaUVRWUF9JdlFYN3FYZHZRNWFjYkVZMFhoVXhIWU1kNGM3VjZHVklBQlNJVzNrbmx2SjFCYXlmWmtUMU9iZ0RfNFY3Rk8?oc=5",
-     "fecha": "2026-11-27T00:43:31Z",
-     "medio": "El Financiero Costa Rica"
-    },
-    {
-     "titulo": "Banco Central baja tasa de política monetaria después de cuatro meses sin cambios",
-     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUJfS1k1WFZxMUhaLVZQaENia0pIM2E2T1BWcmlmY2RTekRqbHlCbjIyN000VFc5QU5TRUFuX2tsVDNOQm5vUjhwcTJuUFk5Z0pZVmFGV3g0NHNNTGQ2SWVHbmhRYU55V2VkWjhqdGZlREgtdmVIeW84cFFSNm5XNnBOTGVIdkE0M3dSUy1lamtvdFVpSjBaRXFHYVdMOS1fSkZEeldNbHIwZXVnWXplclVSQWtZWEVTa0E?oc=5",
-     "fecha": "2026-11-27T00:31:23Z",
-     "medio": "Diario Extra"
-    },
-    {
-     "titulo": "Banco Central reduce la tasa de política monetaria a 2,75 % anual",
-     "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYlZFd3ZpNV9peW9wZHlRSksxTWR1VkVnWlRGendiN1hRR3NreG5tWVVxRTItWDJyWUw2N1A2ZlZqOVBaWVVkN1J0NEdNUkVmVVk1OWp5RjJrN3lQX0VoZFpUdERzTHk4aDRFX3V3eE11aHEybjR3WDV6OTlINmFtSHFKZDdpeDFxT1p5d0duZ1hiSzkw?oc=5",
-     "fecha": "2026-11-27T00:29:59Z",
-     "medio": "CR Hoy"
-    },
-    {
      "titulo": "Banco Central reduce Tasa de Política Monetaria a 2,75% tras cuatro meses en 3%",
      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3pUUzV0WHNzbDZCTUNEUXlmN3FTdk5vOU94TVphV0hwT1IwRGJ4LXBsellXVHZKZ2RFaGVZbTJrcG54VWRYdXd1VHhDVVpBakRSTEJOb25HeWg4cjFDeXJaMUNhR3VFNGVMSng5S0hMcGJ4dzJyd3N0MHVFT2tMU3Qyd184azZubXZyQmlKMHZMYnVUejhZeV9nX0FSOTJs?oc=5",
      "fecha": "2026-11-27T00:12:44Z",
      "medio": "El Observador CR"
     },
     {
-     "titulo": "Tasa de Cambio BCV 27 de noviembre de 2026: 926,3592 Bs/USD (+0,217%)",
-     "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pS1RuUWtvYkpiUVlpdmhod3pQWi1HWXJ2MnFGNGxhaVNvNVdRWkxPUWtUeDdYbGVHUDJ6NFNXd3JwNVFMTl84WUV3VE1wM0k1RnNnVUExNEQwc3A5cU9BTXI4MjZVSkQyTmxoSXlWSFBXYVU?oc=5",
-     "fecha": "2026-11-26T21:17:18Z",
-     "medio": "Finanzas Digital"
-    },
-    {
-     "titulo": "Sector exportador pide al Banco Central recortar la tasa de política monetaria al 2,75%",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaldRWDBFSW0xZE83T1B3R0d5MW1LVUhWaEdJb0M0Ym5CWVRucVZYX3ZxSkJOSkN3RExadVZlelFPYWVWRnpUYTdJR1RJeUtwQi0zcDJCZnlfa3ZTTFVTeFJIaWZWdmE5MEZzeFNrYnNKWGpPeklDWGpCX2lYNXRzN1diUHNuTHZhdUF0Wl9fNnlENXpCUDcyclF5MVNZYW1uSG1rRW93LTRvUzJzSWhjZnR5cXk?oc=5",
-     "fecha": "2026-11-26T21:16:35Z",
-     "medio": "nacion.com"
-    },
-    {
-     "titulo": "Banco Central mantendrá tasa de deslizamiento cambiaron en 0% durante el 2027",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXM3SG5BeS13T2tVS2NJQmhIajRHUUphLWdUYzVmX0kzMGtHWDhNQkVOb3FERzgwbTJ4TUlZMEowYW5OaWIwQUZGZnVaT003T0k5OW5TSktWeFNsV0ZiTFJSTFlCQy1VRElCR3g1b0N1WFMxczBTLVRock03dV8wS2FpdnpTcjBLbm1ZeENYMnhXTFVlcURxbC1DYXpzRXJPdGI0VC1zUUVPa2M2N0p3TUFMQU0?oc=5",
-     "fecha": "2026-11-26T21:04:30Z",
-     "medio": "La Nueva Radio YA"
-    },
-    {
-     "titulo": "Precio del dólar baja hoy en Perú: Así cerró el tipo de cambio del 26 de noviembre",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNODZoTkk3Y2F0em1qNll2VjFpTWk4bnRyRVZObUdpMDZwM2VTS0ljZjlDSURUYVVNZnBfMXMxcDBDd2RlVkhEXzdMcTlkWDVxM1l6cl9Kam9kNG9kM01fczNzc3dlMmc1YXhnazFFLWZsSFNfc2ZHS285Y1RrdXpTNllBN1N1d2J1TVFYMWotVmlta1RDbVUwdWcydU5kVVQtMHNwMGt3c0R3aTlMUGNZYWxR0gHMAUFVX3lxTE9WZHVPbVFXcHFRWjRPdUtJSGFuY3hWNXBZaXFQOGN4X18tbGJnSkt1Vl8xTzlqbVFrR0FsOW9iZm5NNWFHS3ZjaGxJZ052S1BXSERTaXl4VnItZTFqRWFoT2FzWVB0Y0FoRXQzNURUQ0FGS2pWQ2NJRkhhelZ1Yy1NWnVOLTJnTVp0UktSRU84ZlhYSXM3NHVBM0VDTElFTWpSTVZDZnNFSnBabHlMRU9OMXZfTTVwUlhZcThaLUFzejRwVHdZX3hEbnp4NA?oc=5",
-     "fecha": "2026-11-26T19:21:00Z",
-     "medio": "Infobae"
-    },
-    {
-     "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este jueves 26 de noviembre",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNenhsTjgydUg5U2hxQ0M1Xzh4VmQ2OXNjbmx4aTdiQm91dGNOcHZfWkpDX1pIUk5XZmRfaEc0ME1teW5RWHQtd3k1MU50NzZyeXpFVG15M1dyenJnOWFJOWtSYnFRR0NWOGlKR3dTN0JyXzRSWFZrVFdZdGt0NV9uQWFSZlB5dl9acHh2RmRweXJmcnNPaXlwaS1UNS1LcldfOGJyNEFweTNMejRMN21IMkN0TENqdGFYdXNCaUZsbjE0OFNrSmZQM3RpRQ?oc=5",
-     "fecha": "2026-11-26T15:21:00Z",
-     "medio": "La Nación"
-    },
-    {
      "titulo": "Vittorio Corbo dice que el Banco Central no debe mover la tasa de interés y tampoco intervenir el mercado cambiario",
      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQmxMVkVUeG9aWV9XZUNzeUdZRmMwNDFianUyLVF6anJnRGNFcUExeF9NMmZfOGwwWFpmSWNRRDZScGJ0TzdsSm53MU5tMTZtYzRDNzJJaUhIUEx0YjY4X1QwRmM5TExSMTN4QzBOOVdocHdXSEZUYjlGUno4eEcwRFA2amU2SkhLRGpLQ19aV2FCWnI3TDJYaTVoLVV2cURMV3VDVlpZU3NiVEhCeDRXaUlDNVpXZEJoOFZmZzdyRnBJYkRqYkRxSzZvaTdTcEdsNnNHMTRBeWN6dkhZQ252QzJ1RlpYU2RSTHM4OdIBjgJBVV95cUxNOWRFdXlUVnZrTTBtc2hrNjdHcmhGSzdwWnZDTmtERHNFTkJxWldlZnUyZ1VyVzgxdnVFZEhNT1lNLU5IWndDQnRBVExzeFRIeWN5aDdPLW5kaWFpakgyaTFiLVUzWmNLT20wTm8wOURqbi13SkptbkNmZy1fU0EyWmJLeWJFOTdkdktPdHBTZjU2OEN5UFRXSW0wVVREOEZHWllDUWpUU2RRNW9adFE4RHMxRE81UWlJUjZESjQ4VXZkQVZHWU9Sa0QzNGY3cFM5TG1KTFhtUnllWUduMUM3RHNFcUtOXzNjd0NzcDI0aDdaX2xMYjJUOHVYMWVHcnRTRUZxVkRDdnRpRnh5Y0E?oc=5",
      "fecha": "2026-11-26T14:52:59Z",
      "medio": "La Tercera"
+    },
+    {
+     "titulo": "Impasse: Costa recalca autonomía ante sugerencia del biministro Mas de que el Banco Central podría bajar la tasa de interés",
+     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYTBlTmZiTEdTV0hQTjdpME1ENF9Ua29GNFlxUGdMQWgxbkgxNm93US1tMjVUQ2VwZWFXQU1OUGRQdjF1MTdPOHNncTJINnV5Z3NRaS1CcGZTaVhZb1lWY2E5T29vUmxsNHVqSENlMkhPRHFEUDc3VHVQdlpuVGdnWEZqLTB6ZUpQbl9EaFJESkJRMFBWVTFLV0JtdXJLUWRPaDlhdHNJRFhZZ3R2VnhJcjZfNDhVUHFsQThnazBmTW1rcjJPLWZWM2t4b29NNXdTMjFHQVB5b29PNjYzUzY5S194YTN2Mmt0ZHRRb3pYMkE?oc=5",
+     "fecha": "2026-11-25T16:02:20Z",
+     "medio": "The Clinic"
+    },
+    {
+     "titulo": "Escenario económico pone presión al Banco Central en decisión sobre la tasa de interés en diciembre",
+     "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1J1ZlNlTFpWdF9MczNSZEdZLWV0WnowOXp0OUx5dmJKYmx4c2E5VXNHdnVETWUwbUdZdTBOMHpWNUtMZTc5aGJYTFhBLXdkZVh1d0syLWZrZHQzSWJuNFJWcERKVll5NlBvdHAwSTlKb2J4a00zejZYdTQ2RFB0WmtLR19Zc1Z1ZlNkY3hKSmFmek9zV0ljeVBiT3N3UGljY05xc0ZBVmdhX2l0akJWMm5vVWp2ZTlHYVJHcjFKRnpXR0VDV09DcTJHX0NXVk9aUVRTMHZmb9IB-AFBVV95cUxOR2ZsSDRmcWxlbS1RTGNWbnV6YmxsM05oTmVtN3d0Wi14WmNQdXluTFFtQkJZZ0I3bmpubjV0QVZPM2MzMlhwU1dmVjFfR2VmSjhDZUQwdHBiaE45QVRrTjJjbkFFNXNkby1CRk1xWFRXV2VNWHhKUVJDb0ZWOFJXT0w0bDRmdWVCbnIzd0pFMmQ2QU5WZGFIOVZiV2ZoRFlDM2lTU2xzY2htNFNyN19NWDJzeWxlZHpjXzd1NzhtYjVCblJoZFJYZnVfNjExdl9VVzhUNkpiSTdRSGxEQkxmOTFYMDh0R1BZSUhCOE9lWlg1dkEwbTd6Vw?oc=5",
+     "fecha": "2026-11-24T23:40:00Z",
+     "medio": "La Tercera"
+    },
+    {
+     "titulo": "Biministro Mas toma distancia de Quiroz por segunda vez: las diferencias entre Economía y Hacienda por la minería y la tasa del Banco Central",
+     "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVWZhTERJYkhKNVpUTHhkU1Y2dDJ6NVlNX29PbnV6MkRPNDdFVGoxakJpYWpGTmxFV096a0RXWDFCZENLbklHUTE0U2Y5MW9ZNDBENU40cmh3OW1qR2pUWVNZMFg2ZzQ2TmxMbHpSV1lVSGFUeFVDc014THZhUl8tVkVPWFlJM2M2Rk8xaGVBcF90cHBxeENfSDdFYlo2ZUhXaE5HbnJGZVNLSEJuRTFXb0Q3b19TdGhJNGhUSUJjSDE1X3J4MTdFOVFUUEdNTlJ6RkZzMVZsZHVzZFlMQlpQaVVaazEyWUdaOWV2dmRkZkxCOE5sX2ZydFg2akNVY3hKNzgtNWhSOEg?oc=5",
+     "fecha": "2026-11-23T20:57:10Z",
+     "medio": "The Clinic"
+    },
+    {
+     "titulo": "Biministro Mas insinúa que una baja de tasas del Banco Central podría impulsar la economía",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDZ3dGdGalJzWWJTdzRFaDB2aWtEc1pEOUt6OUpfb1ZPTkgyeXVoenVMUGNjZ3NUZXlaNnhWTEp3cWl3ODVGaEQtU05fX1YzZm9LLVZkSS1NZUdZVHBTSUF0UkxXazBCeV9mbkd3aGJIbmJqWnlKeS1Cc2FjVDEwekRzeXM3LTM4R1pMRWdEYkYzdTJfQl9UODBQYUxnR2lEdFFzWlNSclo5MUE3Qi14bnNHYlhlbm9p?oc=5",
+     "fecha": "2026-11-23T17:22:00Z",
+     "medio": "Nuevo Poder"
+    },
+    {
+     "titulo": "Biministro Mas sostiene que existe espacio para que el Banco Central avance hacia una tasa expansiva",
+     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVWI5c0tJWUEwVmxwRXJkWWhxd3JFNldVYWVHOHc5TkpfaU9Hci1QVlpiQy1vNEJ5OVhaRTg5Qjl3NkFWbjNEUVB0Y3JzeXZlRDZrNjVUMDgtdmo1SEtqbzFGMU1jRWNQZUQ3UF9sc2plTzhyb3B2THp1MXZkazZEWVpVVHFOZGtYRjdFakVGOW9Na2lpeEE0ZFpTLUk2Z056dzZKNHlKeHliV0FtYVllTmtUTGhLSmI2NHhxZUR1a21mdUc4VG04cVU4U2M1QTFPck5F0gH0AUFVX3lxTE9mNlRYbWtma0JZZTdtOGx6VVpWTUpGaTVTZ2s4RTQ5Q0NPcTEyaklEM3lseUpXWXYzU1hDTVBYN1VQbGNaRzVfUEZNekVpLW1mMHM2aE15a3djNHRXT0lEMHl0dzRhM0NvX2lHcVNDQXdHVmFSQ3BmTDQ1bHgwSXVRUk1zQ2puU2hETmlHT1poTkJVRHdHMHhueEczekI1ZEF2R3NtNEJlNmY5TDM3Z0RhLVZ0dEU3WGh3ZmQ0WTVpbGZGU0k0V2d5TkszMGd5bHJGZG0wWG5wTjVIRmQ4UmM3amNicGZOZ2MzTkxrcURCNTJxYjI?oc=5",
+     "fecha": "2026-11-23T14:50:00Z",
+     "medio": "La Tercera"
+    },
+    {
+     "titulo": "“El Banco Central no debe subir la tasa de interés”: Experto advierte efectos sobre la economía",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZk5zSnRVclRVMndfVk9EbjJHT2xDZEZPcF93WkJRNGFULS05S2NFbjUzRHZtd21tQ05BNnE1a2o1LUNnblFfT2YwUHd5SjVleTNQbGN4SGJ1RmNtenRkT0hzenZ2S1d5OUZCVTFucTNnd0l1ZDFWejNqMGNFcm9WN2xvZllkaTM4ZnRnSV9tM09tVnkxa1BtM2hfWkFqOFdxWEwzVlNjTjhGU0hpUU0tbFZyWHBJbmFYTDFhRU9BTWlwSDZjVFpvejFhTTFEZGFheFNyUTVaRW1ncWQw0gHkAUFVX3lxTFBULXUtNUJJeWo0SC1UQWlVeGNLaTNQc1Z3dUt3QWlDSUlSaEhtMHhhaG5sNTE0OXlpSkxFQ3JENWVYQ3dJellnZ09ISkdhSF9nNnMzWTVuV0Z5UTBoUFZrUmtzRXN6QUlWZ2RRZXR5V2VFNGhWcVBBNDlheTdiVlRQa2FrRmNIbmh1YTdiaEdQUTV2T3FRVVBpTkExREV2UHdoSUNoUGdfM2t4YUt6eDkxZUZkb3VJcVc4M3hYU2lvOUp0S2NpSWIwZDU5dXNKQm9MNkIybnpzSUJQaUI4bnQ1a21URQ?oc=5",
+     "fecha": "2026-11-09T16:47:47Z",
+     "medio": "Infinita"
+    },
+    {
+     "titulo": "IPC: inflación anual podría alcanzar el 4,8% y economistas anticipan aumento de la tasa de interés",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU2d0bmFWbzYzYVBsWk82UldONnNKN2I1WFlrQzZmN3BOSlotRkVCVWpBY0VwaUQ4UzNZOFA2cTI4cF90eE95am9SMlN5S1E5R2JucURWRklhaEFUaWlJamJVVnVUTlo1VHBPc1JjT1drQnlBb3k0VXRyODFMSURBN04tNE9QcldleXZ4YjlmOHQ3LXZTR3FuVlJqUzB1bjdCLUczQ3lRLXRLbkkxUUJUSUZtU2ZhQWFwamFMNnNWYU5WMUhUTVNXdWVOVQ?oc=5",
+     "fecha": "2026-11-06T08:00:00Z",
+     "medio": "Universidad de Chile"
+    },
+    {
+     "titulo": "Petróleo e inflación: Las razones que llevaron al Banco Central a evaluar una tasa de 4,75%",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTVaOEpTUVdMT0FMNlNGWjRRUklQajkzSW1jcVczS1lEM2paZGVMekhnczJlTnQ3QXh5MFhIaFluMDJsQ0hXRUJ0em9Dek9Odmc3TlloMzFwWVcwOGhQZkpCUnliTlZsZ3pxY25SQ0NvUm9HNU5udUgyUUJ3NHpWWmJnX2FsSWpMakZoUWdMWFdvSllDYmRZZ2g4bk5Qay01Z1djR3RVMFdVejRQY0dwaFZpV2hpT0k?oc=5",
+     "fecha": "2026-11-05T08:00:00Z",
+     "medio": "Chócale"
     }
    ]
   },
@@ -246,6 +246,12 @@
      "medio": "Elplural.com"
     },
     {
+     "titulo": "Gobierno propone a exministra de Boric y al actual fiscal del gremio bancario como comisionados de la CMF",
+     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMVVObzZUMm54b3A3em52SDNEejdJR2ljQVpnTnEzMXNPb09oUEVzMlJidUNJNVU0c0V6aGtuUHpDdWZtUFRuai0tQ2pEMnRYbFdRQlJYNE9CLWswcFJCWVF5QnRKU1VBcVVXSHI0Qmp5OV9FVENiVEl2STQ5cmM2SG9DSTJzRzN1T2dTTml2SVRUUnpKWmxOZGxFdThJRnlOX0IzSkpwVFBpRXNCamVCaUZWWElJdEN2Vk9PZHZxOWlSdjI1NEVDak16NzE0THpnbXEwRDN0c0xxandlSUxR0gGAAkFVX3lxTFBwa2w2YTNsQnJ4X3U5dWIweW9abWlGY3NCbEhDaDhJSVRPRXhWTFZIRjVrMWRzVGxHS3Zac3RCeEE4ZnBJY19OakprU2R6TjRsMzhUQmp1eUkwbl9KYXdjYVRrMklmaDdIWGNjdG0yRXkybWgzbHo2RVp0ZFFuVWlMMEtWczF6WDBpblNybWJmQlpqQUZmbzluS3R4NTc3bXp3VnZycWVJOU1rdG01VFBibVJRdS1RaFh4U3UwckdUd095aVlqTEpnRFl4aTBiUmxCelRqT251UlNWUE12eUVLZkV2c3dmVnhyUEtqb3cxRXp5cXBFVmRPYm5EX2VfV20?oc=5",
+     "fecha": "2026-10-07T07:00:00Z",
+     "medio": "La Tercera"
+    },
+    {
      "titulo": "Los bancarios tendrán una nueva actualización salarial y el ingreso superará los $2,5 millones",
      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMDJzdFFhNVZwbjVLRHV6T2Q5Tjdha29qWEFDb3V1SDVoejVGRC1XTThhZzFQanZFS2ZtNjlfZ01NbnVhLV9iQUFrLUNKSG1KTEkwUkdrZDdoZTduMnBmUGhTRW95QTVRa3hScFZLOGRka0ZrdW9FS2k5TXFISmtFYmxPVmtOSEVxLXVhWjRYaDVXYll0a1dLOWE1UER4OVdLTUVWNTBpR2FiZ1ZBLXpNYWFVSF9LOVY5Y250UTJITWF3dTVvTjlITnlkd0ZodWRHZ094SHVic2c1UdIBygFBVV95cUxQczNfbElpRjJ3XzBtczFHNTVfM3pycVc0VTBkbTBJRkVFZ3JES1loei1CQURPNG9vNXowekZtdVEyZXV0WDBtWWlaV2dwdGFzUXVEV2RjSGU5b2NGdXg5VzhaVGk5WGZvSnFyeUlwNk9ZM3lHckJWRW5BWWtZMDdFenB6bWNCWUNlamlNUHFseVB3RmlQZnFFUVd4Z2twLTQ4V0hrNU5yY1g4NWFRMF9kSk1BLWhTcW40ckM4R2ZRczdubWwwdF9xVlh3?oc=5",
      "fecha": "2026-09-12T07:00:00Z",
@@ -280,12 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWWhwVTQwT1pic25rV2lPbHpTMVlkakx0cWRnMnA5LVZNd0g4cjg3ZWxSeHRUYTJHWDFtY0tBZm10d1diTHJSQ2RQR1dHOFlVb1VTY3k0NmNrMjU5UWhKTkVzLUh2SEhLb1FLOEhFNlM5UjIxUTlxUU5hcVJTV29peXkwajVLOGl0WHBBREw3ZGVVTGUtVjZpZ09qTXhTTEQ4ejRVend6UVZsdlM1QWpfRlpfOUh2dGNzZ25DQUpvb9IB2gFBVV95cUxQTVI4dXdJV1MwY3JMODBWMWVKMG91UXgxMXdaVE1PX19BT2wzN0hLRzJWWnZVMVNpZkxVN2xCai1Mb0NNaFBJM2hLTDNaTzQ4MTZfalVMbDVrNS12VHBNN1hNVERnODNmWEI1UnQxcVFOal95ZlFuZ1dwQWdJQjczZk5XLWdtcFM1V2l6blI0d3lFblV5WlZCcGQwaG54M2VSQTM1RTZUbGhkWndOUXBiMTZtVVdYTFMwNWVRRWlzWnRjTnk1eTY5NW9DVHpqQWd0ekpQTFNFdThRUQ?oc=5",
      "fecha": "2026-07-18T07:00:00Z",
      "medio": "Infobae"
-    },
-    {
-     "titulo": "Sueldos en julio de 2026: cuánto cobra un bancario",
-     "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSjk4MU1MbEFtaU1TSnNBZUVVaE1MX3Q5bjVrWTBqZWZSLU0xSzJrbnlESEZ3bWF0V0g4SC02b0RLaEpOU2diSXBTRXE2emhZbGRkRTAtN2JFQzM4R250bTZESU5zREdqN0oxQkxPdzhjaEpRc3ltTExpQjUtZW9kbF9COHd5Z2hFWnpJ?oc=5",
-     "fecha": "2026-07-17T07:00:00Z",
-     "medio": "Vía País"
     }
    ]
   },
@@ -326,7 +326,7 @@
     {
      "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
-     "fecha": "2026-11-19T19:41:17Z",
+     "fecha": "2026-11-19T08:00:00Z",
      "medio": "Publimetro"
     },
     {

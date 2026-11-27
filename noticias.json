@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T14:18:07Z",
+ "actualizado": "2026-11-27T22:54:52Z",
  "fuentes": [
   {
    "clave": "pds",
@@ -144,21 +144,21 @@
      "medio": "Portal Minero"
     },
     {
-     "titulo": "Chilquinta reúne a autoridades y expertos en seminario regional donde lanza su Plan de Altas Temperaturas 2026-2027",
-     "enlace": "https://www.portalminero.com/chilquinta-reune-a-autoridades-y-expertos-en-seminario-regional-donde-lanza-su-plan-de-altas-temperaturas-2026-2027",
-     "fecha": "2026-11-26T00:00:00Z",
+     "titulo": "Una mesa abierta desde 2008: Baquedano y Lomas Bayas celebran 18 años de diálogo",
+     "enlace": "https://www.portalminero.com/una-mesa-abierta-desde-2008-baquedano-y-lomas-bayas-celebran-18-anos-de-dialogo",
+     "fecha": "2026-11-27T00:00:00Z",
      "medio": "Portal Minero"
     },
     {
-     "titulo": "Pivotes advierte que el 43% de los montos de grandes proyectos  de inversión termina judicializado",
-     "enlace": "https://www.portalminero.com/pivotes-advierte-que-el-43-de-los-montos-de-grandes-proyectos-de-inversion-termina-judicializado",
-     "fecha": "2026-11-26T00:00:00Z",
+     "titulo": "Enap produce por primera vez en Chile combustible sostenible de aviación",
+     "enlace": "https://www.portalminero.com/enap-produce-por-primera-vez-en-chile-combustible-sostenible-de-aviacion",
+     "fecha": "2026-11-27T00:00:00Z",
      "medio": "Portal Minero"
     },
     {
-     "titulo": "Molymet eleva 47% su utilidad a septiembre y supera los US$ 2.300 millones en ingresos",
-     "enlace": "https://www.portalminero.com/molymet-eleva-47-su-utilidad-a-septiembre-y-supera-los-us-2300-millones-en-ingresos",
-     "fecha": "2026-11-26T00:00:00Z",
+     "titulo": "AIE celebra 30 años impulsando el desarrollo de la tecnología chilena",
+     "enlace": "https://www.portalminero.com/aie-celebra-30-anos-impulsando-el-desarrollo-de-la-tecnologia-chilena",
+     "fecha": "2026-11-27T00:00:00Z",
      "medio": "Portal Minero"
     }
    ]
@@ -168,94 +168,64 @@
    "nombre": "Minería Chilena",
    "items": [
     {
+     "titulo": "Enami reporta crecimiento de sus ingresos y patrimonio entre enero y septiembre",
+     "enlace": "https://www.mch.cl/enami-reporta-crecimiento-de-sus-ingresos-y-patrimonio-entre-enero-y-septiembre/",
+     "fecha": "2026-11-27T20:49:53Z",
+     "medio": "Minería Chilena"
+    },
+    {
+     "titulo": "Codelco eleva sus aportes al Fisco en medio de una caída productiva del cobre y ajustes contables",
+     "enlace": "https://www.mch.cl/codelco-eleva-sus-aportes-al-fisco-en-medio-de-una-caida-productiva-del-cobre-y-ajustes-contables/",
+     "fecha": "2026-11-27T19:36:50Z",
+     "medio": "Minería Chilena"
+    },
+    {
+     "titulo": "Aurora Williams es reconocida entre las 100 mujeres más inspiradoras de la minería mundial",
+     "enlace": "https://www.mch.cl/aurora-williams-es-reconocida-entre-las-100-mujeres-mas-inspiradoras-de-la-mineria-mundial/",
+     "fecha": "2026-11-27T13:20:00Z",
+     "medio": "Minería Chilena"
+    },
+    {
      "titulo": "Anglo American activa plan de emergencia tras incidente operacional en Los Bronces",
-     "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObGlFLXM5c3p5UXpVRHdGRTFwNzUyVG9KOTAzcTQzZGtMS1J4ZlRndnZ4RlNvMHBiSEU0TkQxamVQRWVRUGdTVnZVR2FrTXNyVW4zSzJrS0xrQ0dYTDhONUF4RGNiYXpWbTlNZTNiLVdvR2w5cWlQVDExRkZITDFuNGdWd1FJdVNiQWxJLTE2U0dNLTNzNFRFRmFqMEx0SVJ0dk5FQg?oc=5",
-     "fecha": "2026-11-27T13:18:53Z",
-     "medio": "Portal Minerí­a Chilena"
+     "enlace": "https://www.mch.cl/anglo-american-activa-plan-de-emergencia-tras-incidente-operacional-en-los-bronces/",
+     "fecha": "2026-11-27T13:17:05Z",
+     "medio": "Minería Chilena"
     },
     {
      "titulo": "Enami participa en jornada de seguridad para pequeños mineros en Inca de Oro",
-     "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDJnMl83UGpPSWxfc1NYZ0lhQWMzYThhY3FQS3VlU0h1SHdqemVSZjdYUVlqR3Z1b21xZXk4b05MSkZ3SURYMnFQTWNzaHlRcEhpbVpjTTRjSUU3YzJsYmNYYWFIRk5Pcm12am90N2hQcUdQYm42V0VBZDQxMG9PdlNyaHNjanRQem5BZHZXTnFLSkE5RnlKc2otZ2o?oc=5",
-     "fecha": "2026-11-27T13:08:09Z",
-     "medio": "Portal Minerí­a Chilena"
+     "enlace": "https://www.mch.cl/enami-participa-en-jornada-de-seguridad-para-pequenos-mineros-en-inca-de-oro/",
+     "fecha": "2026-11-27T13:07:56Z",
+     "medio": "Minería Chilena"
+    },
+    {
+     "titulo": "Sonami y el Gobierno Regional de Atacama fortalecen vínculo entre educación técnica y la minería",
+     "enlace": "https://www.mch.cl/sonami-y-el-gobierno-regional-de-atacama-fortalecen-vinculo-entre-educacion-tecnica-y-la-mineria/",
+     "fecha": "2026-11-27T13:05:00Z",
+     "medio": "Minería Chilena"
     },
     {
      "titulo": "Lundin Mining capacita a 590 personas de Atacama durante 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUDR3TzJyd1lkQ2U1V0VYNEp1d29QM1ZkN1FVdktKaUJTVUZpY2tsYzFRdm92b09fMVFyRmhXSXVjUnJDeDVONWJaU24tVFFzdmJOYnd5VlY4Q09YSFVreng3UUQxaFN2MXhfQXRaOW1TWDdXYm0tS1RGeTJxQnI1ZTFVdFhHVXd0?oc=5",
-     "fecha": "2026-11-27T12:53:39Z",
-     "medio": "Portal Minerí­a Chilena"
+     "enlace": "https://www.mch.cl/lundin-mining-capacita-a-590-personas-de-atacama-durante-2026/",
+     "fecha": "2026-11-27T12:52:50Z",
+     "medio": "Minería Chilena"
+    },
+    {
+     "titulo": "Estudiantes de la Universidad Continental del Perú conocen la innovación minera de Ciptemin",
+     "enlace": "https://www.mch.cl/estudiantes-de-la-universidad-continental-del-peru-conocen-la-innovacion-minera-de-ciptemin/",
+     "fecha": "2026-11-27T12:06:00Z",
+     "medio": "Minería Chilena"
+    },
+    {
+     "titulo": "Minera El Abra fortalece el aprendizaje de robótica y ciencias aplicadas en escuelas de Lasana y Calama",
+     "enlace": "https://www.mch.cl/minera-el-abra-fortalece-el-aprendizaje-de-robotica-y-ciencias-aplicadas-en-escuelas-de-lasana-y-calama/",
+     "fecha": "2026-11-27T12:06:00Z",
+     "medio": "Minería Chilena"
     },
     {
      "titulo": "Codelco: estos son los nuevos cambios en su equipo ejecutivo",
-     "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0ZOTTQwaVhqOG1fNUpRc0gyNTRpZXBNa0toMDVJUU92VFNEUHNrUGJSWkZhd0dnckxFUThVdWljQWc3czVRXzBTYkxyLXRvcXpRclJDR0h1Zk5yRGJ1dTRycENLTVpYdlMydGhoMi1NN0tvNTRjU3l3cGlkcGZ1bGZtSG9WZw?oc=5",
-     "fecha": "2026-11-27T03:05:14Z",
-     "medio": "Portal Minerí­a Chilena"
-    },
-    {
-     "titulo": "Marimaca Copper concreta un nuevo hito financiero para el desarrollo de su proyecto de cobre en Antofagasta",
-     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXNPcnNXb0NXbXBLWWJOMUlyaVlDamh3MDZlM09PVHJ5SVZUUjRUY2tiTTQyQlZwRVpNWlVqUGhORXdZNDdYZWxnSmdVUTBpazg2WUJpcmNhS21HcVhuRHo4R1RlRndCNmd5elBPVXJOSW1vVW1Vc1FXRUN2cng4bWhRZ1I2U3J3U0VUYk1rc1NCT0RfVTZxUzl1eUVSZEtEOVl4SFNrelZyYnhNZzBfMjZLMDkxYVJNQWhVRg?oc=5",
-     "fecha": "2026-11-26T20:20:10Z",
-     "medio": "Portal Minerí­a Chilena"
-    },
-    {
-     "titulo": "Tracción eléctrica: los desafíos de la transición energética en la gran minería",
-     "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWwyX2hQN2MzeDlCTmdMd011c2ktMlNwZVlPRGtFeEJwajdXMUVVSnlTbnhOemlJZm5vU0NrbU1UdmdpeGRFbjdtTU1JSkRjSGNmZi1aSlpRdE5PVXlZVUF6YllLNzQ1MkgzODRjbGlzUUdZbDcwU2UwdU4za2xOLTRSbEg0b1I2bGFOTWtGNzg4UHd1SUVwcUhTbTdaNC1ZbmhkVnBXdU5lVk0?oc=5",
-     "fecha": "2026-11-26T20:19:31Z",
-     "medio": "Portal Minerí­a Chilena"
-    },
-    {
-     "titulo": "Corte de Santiago ratifica despido indebido de trabajador de empresa minera",
-     "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVUxEdXMxMEk2VUtfX1Y0WXJwOE1sOUJDUjZNZnBXT1llbWx3NWgtOUxxZkRyYTJfSl9iU0h4NVFSMEdiT1UzTmpXUElzYzhwWHlDdURrTGUxdG1ReERCTzVtRDJEWnUyZnpTcGhtNzF3elZkekVvZDV6cmxKZ0Y4TW5HVU5KdVNwWm9zcUdDTGpCd3NXdVRUOEdnOA?oc=5",
-     "fecha": "2026-11-26T19:20:06Z",
-     "medio": "Portal Minerí­a Chilena"
-    },
-    {
-     "titulo": "AMTC y Codelco fortalecen colaboración científica para enfrentar los desafíos de la minería profunda",
-     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzFOaDU3bjV4d05mQkRUS2k5b0hNTzNzWEprVlkwTXdyU3VSWkdsSVE5Tlk0ZlBRQ2FvZ3pfdmxmMURyV2xlb25yV1VPd1ZRdXZGR1NZendNbUo4dU5kQWlOZGxkWlNxTnpTOEJYVGUwX0c3eU9DYkJYMzdDWjBfQUpCOTJ6Y3BqT09SUzNlRFFmcE5Na3RCUmlCU0NYaUxoLWVZR2RzcVZFdkxiZ3A2VmI1bEE2WHdJMzJnUg?oc=5",
-     "fecha": "2026-11-26T17:34:59Z",
-     "medio": "Portal Minerí­a Chilena"
-    },
-    {
-     "titulo": "Schwager multiplica ingresos por más de ocho veces en 11 años y mantiene contratos mineros hasta 2032",
-     "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdFpnR1JxVmVsUmZMQ2FyWlE0bXRFTnNnZGJZTmFUdEFoVTlvQXdtbUY0Y2trbVRBSnlfQkt3cVA4a0YwRTJ1LWlWVk9fS0Q0OXNBVFdqV2tNOVRYWWs5bWZTZmxNcEhUbF9PaGNpZFViWkJueUJPVF9kY05wR2ZjYTVVSFJFV0V0QjI0aDJ2bllLRE9Mb3FoOFI0VU1XaWlaaVo4bXNUSnhmS2RQbnhKVkllbE1MNU1YWWdRaEJ3?oc=5",
-     "fecha": "2026-11-26T16:14:30Z",
-     "medio": "Portal Minerí­a Chilena"
-    },
-    {
-     "titulo": "Simulacro de accidente minero en Putaendo busca reforzar protocolos de emergencia",
-     "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGxnLVRtcVVFWlZ3Q1Y3OV9qNE1zanJzTHNkMkgxdFJoaVZQTmZFQnJHLUV4QlgzNVBXeDFycGJpVzF3OURaY3VmbkdDajZxRzlvWGxscXZTYUctcmxrUjFxYnF2dE84dnJhN2Vnb25iX2NvNDZ6U1oxV1c0bVRXMXk0YjFpMGswZlI2Mmppb0RaRk5aQkd4cUxXZ0ZTdy1heE9z?oc=5",
-     "fecha": "2026-11-26T15:54:49Z",
-     "medio": "Portal Minerí­a Chilena"
-    },
-    {
-     "titulo": "Designaciones",
-     "enlace": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41V3pMcEo2a3hqX1drcnZzbU84dEdVbnc4Qk1PQXhCcmc1cDdtaXpjeS1IRXJiamh2cnNCeWtIUHBRanVxNUVOLUFWb1hyRXFwS3J3QTl1UDRwMUY1Zmhwb2pnVQ?oc=5",
-     "fecha": "2026-11-26T13:08:47Z",
-     "medio": "Portal Minerí­a Chilena"
-    },
-    {
-     "titulo": "Ausenco anuncia cambios en su equipo de Minerales y Metales en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQVpMS01RM1h0RHE1YVR4aGE5SzQ0THp6cDBZRVFoQUhKdGprSHQyQ0k5Z0YxYjQxaUI1dnVaTWx1Wk8xdVhhVm1HY1NpQjRTaUpyZWVMRWoxakZSR1g5cl9vVHZoQnBYc2hnSU5qOE01RHJSLThFYmRsUUt5b0NaQzhETk5henllMGVKU3NXdGpDQQ?oc=5",
-     "fecha": "2026-11-26T13:08:25Z",
-     "medio": "Portal Minerí­a Chilena"
-    },
-    {
-     "titulo": "Tarapacá avanza para incorporar IA en minería, energía y logística",
-     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQci1SUEFqdHhmNTFFYlVzVXZJb0RiS1VubXlNODMwSjVYY1ZneWxXQzZFTHFwLUFUSHNFMHZwOUhlNXZtRGZ2aFZwbGllLXB5YlpxZ2NwSnA4WTBUbEdRd1lLMHhKUi1YZXJXM1VEWHFPMkMydS1lSEt6ZUZ3NkFvVVc1OG9tLVVnOTJNOXl3?oc=5",
-     "fecha": "2026-11-26T12:28:31Z",
-     "medio": "Portal Minerí­a Chilena"
-    },
-    {
-     "titulo": "Sernageomin refuerza campaña de seguridad con trabajadores de SQM en Pampa Blanca",
-     "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSXA2cGdIUlFzdm93WXVxNGJLRzVoNXdFLUVBMHRsd3VpX1l5UVF2X3BBSXhXUUxLOGpma29zVFh4NjNCWVZ0Yk55RU1oM2RMSUlBSU1IRUF0RWNFelRKYVg2VTJIaEZmNHhCT3BiUXczTkp1dnI5RDhBeTlmLWUyOUQzZ3U3cEM4clZqMlFOVlRINjROMFJpaTRUeFUtX3NFSmE4?oc=5",
-     "fecha": "2026-11-26T12:18:24Z",
-     "medio": "Portal Minerí­a Chilena"
-    },
-    {
-     "titulo": "Minera El Abra y comunidades realizan monitoreo ambiental en el Salar de Ascotán",
-     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFNGZmpsXzRSYlNoNmNGSzVVcTFHTnkyRkp0MUFmWEVwMDdJaWZEYVFUaERWOC0tRHlQQmhIdmRSUHgwOF9NcUs1Ni1vNVNzdmtwUVlGeDQ0S2ptSGpycnRJa0REby02aUl5amxETHIxSUJPMm9BWXNnSk9kaVFfRDNqOWxpMlJIZnBRSDktTmF4eTJHV3lJZGZtRU5FSmlHSkE?oc=5",
-     "fecha": "2026-11-26T12:18:24Z",
-     "medio": "Portal Minerí­a Chilena"
+     "enlace": "https://www.mch.cl/codelco-estos-son-los-nuevos-cambios-en-su-equipo-ejecutivo/",
+     "fecha": "2026-11-27T02:45:00Z",
+     "medio": "Minería Chilena"
     }
    ]
   },
@@ -300,6 +270,18 @@
      "medio": "Reporte Minero"
     },
     {
+     "titulo": "ENAMI refuerza seguridad minera en Atacama con jornada para pequeños productores",
+     "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1hVN2o0ZFhpUUI4bHlrektnTkRGTGFBLXRHb1hEcXZOMjE1YllTNmgxTnRqWENvQWhzWllrMHJBeVVMb3pTcDZuc0RFek5nVWt0dWROS0Y5Y2w0elhfVVJOUVFPQlM4T3hlb1pRbTJpOUIyN3Bjb1F3Y2ZmamxWQjB1NUNpd09jVTJ0ZENsNmYzaV85clltWnZtRmc?oc=5",
+     "fecha": "2026-11-27T12:08:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "Falla eléctrica en Los Bronces causa descarga de solución de cobre al estero San Francisco",
+     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9yWGktNTI2bXZaZ2JzU1E2WXBCSWo3d2oyRElnZUhHUEZrMUlkYmRqSVc0ZGEwOHBFOHRpTUw1MGszUFllb093dFFMaE01RURCUzIzQjlRQXR1ek5MRS1WSnlmb3loWVRQSHhRUFNaOXBwdTR4UjYwOFZtcC1ZeGxVc3lnUjFmUWRLSnFGQWQ5OVdlVm5BdGNtZmd1azYtSHZVNnNTV3dOUVFvSU94bjBjRkFHRzlT?oc=5",
+     "fecha": "2026-11-27T01:10:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
      "titulo": "Codelco refuerza liderazgo ejecutivo con nuevos vicepresidentes y gerencia divisional",
      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNV81MmhIVkdIUWRJS2VvbFVLMHhJQV8xbEg4dW15UXVCdnluTVVzSmpVRkR6NXhNQ0hrZFg4b0t1WDNrN1ROeHJXbWtRVUF5cEFqSnVHby04SDlxTnRINnJVNUJiRmRQd3VZam1ZWUMwMHcycjFBa191ZnNsQ1JZRk4zTGtlTHdlNFlqZVFDQ0x2UmtHRkh6TUJ4V1RrTWY0dzYwemF4N1BJNnM?oc=5",
      "fecha": "2026-11-27T01:07:00Z",
@@ -309,6 +291,12 @@
      "titulo": "Minería chilena y peruana enfrentan brecha crítica: 99% quiere capacitarse pero solo 64% accede",
      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXg1S043WnRlTHVWT2RpbjRfb09vWWVFU0g4OVZFdFZxc3YzMGJDakVmMFNUWDlNWlNybWZMb2E4SVhwRjVwLWVlbVphTXUtY3V4eUhERU1zVlNobFdOU19SZmtTNFgwVENZYk1mY1VBSXpNR3N1b0NrbWduYkxVeFJ3RXBxQW5JdVMzLVVha1dtSEdiOVJsZU1hR00wNE5kem1paXFuZlFGV2hJZHV0OFBn?oc=5",
      "fecha": "2026-11-27T00:17:00Z",
+     "medio": "Reporte Minero"
+    },
+    {
+     "titulo": "Noticias",
+     "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HSEd1dlQ2WE00VXYwZnZnNjdib1FSSHo0SkFTd25fZ3d5U0MtOFRNR0dEX1FnRHRwclJicGRBYVJENi1RVVhnWkRyUEZSQnlFOGQ5dndLbVppckt4ZWVB?oc=5",
+     "fecha": "2026-11-26T17:37:48Z",
      "medio": "Reporte Minero"
     },
     {
@@ -333,24 +321,6 @@
      "titulo": "Ministro Quiroz ve cobre a US$5,30 como atractivo pese a 12 caídas consecutivas",
      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXgxWUlrN0hxWWNpQTZLNlZWTUlwLW9xc09vVmZtMWNXbVdDUm5FaVJ0WGR5R2MyMEFMMldjMzFZUXFMLVBURjVxQ0pSaHgxeWJuV3pINC1iclVtVUVvc0hLUG9icGNxV2Q1dFB3VFJYR1B0MG45VDdwX0JRbmZSUGZTc1ZKNWpHYjhWbkJhbWlPZTlZR2hpVWxnYjVnUnlqYU5fTFg3RlFFOWItc1dGcTZR?oc=5",
      "fecha": "2026-11-26T12:37:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "Oro cae a mínimos de un año bajo presión inflacionaria de EE.UU.",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzZLSVFCMnZuZEhPY0lYWjFRREZmZUNoNFFqSkN0dGxDelBaRUpLWjNOaEpqODY4WW5zQk54MGk2WnJaQWxaVmljbGhYZUU2RHVyWVlXSmxYQnR4OXpVa2ZDNUlQU0R4dk5VNDZnUEpMMkZTMHBRaWMwWUhFbURHSGJUMDJQNGl5Z1l2dEJWOXF4NU1sbl9udEZkZnp6WVRaUzgtejNTYUdtdVdhelBGdi1oNEQ?oc=5",
-     "fecha": "2026-11-26T12:31:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "Marimaca Copper obtiene permiso minero para iniciar construcción del depósito óxido",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3k5am9UaXJfeGxGUW5iUWwyRmt1SkxfY3NIbkU1aDNjRnM0eXRhWnNEbmluMjhBdU9SdzhOOVdkRTBWd3pxaGRzT1A1RHR1NThKaUdmb1pvVlNYeEs5Uk5lbHRDa0tfUTJqbFdqdjdablVoQXhVRDNQWElqZGtMeFBMS05TWFNvWmh3RFhFMDF1VXM4UWp4MTE4Mnp0bGxZWVZQakFmMnluTWJG?oc=5",
-     "fecha": "2026-11-26T12:12:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "Coordinador Eléctrico licita infraestructura para fortalecer seguridad del sistema en zona norte",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMl91R3A5RzlCWC1oRGVyQkV1a3FIanBLQXhsUDdGdnN1Y2VWdzR2a2VMek1SRFpacmpTdmx2Wk1aNTlfRXRWSlBERDI5Y1FyZU8xTUk4OFpZYVdNbzBwUFE4QWJETXc2dzEwTTRUTDB4MF9vdlgxRVJIZ3JjQXpwQmlzMFFvaTFCcHdfRFVMd0l4MGJ0UktNRjNJRm9oS21jVmNnb3F1a0hIMGFrYWN4eTNxM1A2cDF0X0hBcEhSQQ?oc=5",
-     "fecha": "2026-11-26T12:07:00Z",
      "medio": "Reporte Minero"
     }
    ]
@@ -390,6 +360,12 @@
      "medio": "Radio Las Nieves"
     },
     {
+     "titulo": "Seremi de Minería de Aysén destaca liderazgo internacional de Chile y oportunidades para impulsar la minería en las regiones",
+     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPLVBDQnc1MnNWUnRVdHk0TUVITlpLN0dZQ0dDejl4Y1lNUC15X0tydWpyYmR6ZGZIeHB0cVVTTzdYaWIydVpVd0FmNEZPTEhvV1dxaXFVZnZxLWhYQlJ5MDExWG9fZXFFN3N4QjRFbDNvUkRlQWtQVTgzTlNFRi0tZ3JweFdCU25CWGFqeFFKMkJVc3ZBSXRteVFZTmJidzljNVNVTC1ubVc3RURlY1k5VjB3Qk5hSi1GcmRhLVBCX0pWU2ZpUl9qQXFyMGZLOHQ2WW4tLXRLRDhHb2J0bUhQd093cGNDdUdvRHliSnFNUFlpQdIB-gFBVV95cUxQUjFJTGN5WmY2NzFMUlh4cDJHMnJyOUtWNHZ5UGxsWG93dUxjQ0VsTGpGOVdRU25DZ0Iya05SZE1OeTd2NWh3WVhaR0VWRWpxdDRqSjA5X2lOWkpPQWlVcDJ3NDR2QktQSWx6ZGREbWhrUl9XRkhmUzBnWkxJcFJnU3JUM2RpWExxTzBIMERVT003NWdDWVE5QVAyMlpMZWNaU0p2MFl1by1ZQmVQNHNUNlkzcjctdDV2SnBIbjRkalVCS205M3p5eFVKaVp4anQ1aEVlUTl5SnAwSjZEV0pyRC1qUENzYVNxUEF4a3RKQUVLUU9pOGRDVTFR?oc=5",
+     "fecha": "2026-10-24T07:00:00Z",
+     "medio": "Radio Las Nieves"
+    },
+    {
      "titulo": "Seremi de Minería de Aysén destaca nuevas medidas del Gobierno para fortalecer la seguridad minera",
      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPamJBc0ZLR2h4NG1WNHl1VTZ5Z0R3cGp4LUhvN1pMTUdJZkxvQmMzQ2owMUROMzB1ZVZMMTZjazBoamVHS1ZKZWtHSXNQdjJWM2ROb25WZDR5dWpNOFkyeC1xUHA4Q0Z1SW1KRVhEWUM4MFduZ01XMk9JWms5cjJHbzRNcEZfT0RoaVd6eUtaLTFfRHFvZmNaMTVCX2JTUkNTZ0pxOTdFWWd3YUtVV1BmcFNxdGFJZkxzUDBNaUtJY05yMkx3RnJYamwzc2w3MmfSAdcBQVVfeXFMT01XRlN0bmFGR1FzMko3djNURUs5SjlZY1UwNE1MZWlua1pxUW05Nnl4bzdEMjhRMjRvUk5fX2VCZTBNREpWMXo5b3o5b3pfWU5kcmpYVGNNX2lVSUFGak1ZQk02REUxM0dGMkRrc3NhMFJoY0ZpWTNDeGJKZ25UOGpjMlZHVkZaTGcteXZzUVhJM0xjN0xuS25PMXhRTlR3ZGUzQkNPWkV2RU5zcWpPRHVxSGp3NHFYTmJ2SnpteHpqY054UVJ2YmhhN1VpX3lNdFdzWFhQUG8?oc=5",
      "fecha": "2026-10-22T07:00:00Z",
@@ -402,10 +378,22 @@
      "medio": "Radio Las Nieves"
     },
     {
+     "titulo": "Más de 200 estudiantes de Aysén se inscribieron en el primer Curso de Monitor de Seguridad Minera de la región",
+     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX0lob0xDUmlJZm1FcnFFS1kzb2xNeEF6ZVlDWUtsZ2ViNllSTHdsQXdDNzN0ZjFMbG81NC0tbjVZZ3Y5SGNKYUZGY0pzNnE4N1BtZWxySjBNRTRobWF4NE1vcDRhTE9pdk84Vm9VcnVIYVUzMVdPSENoZUlkVF9tcmxfU1k5UUh6ZmRnWTBxVXVoMm13djJHWTNqakRIek1VZ0FTYlVXdWlOT2hwMjh4NWx5amgtTGJ1SUU0X3Y4Uzk0YXd6dkdRZlY4TXU0V2ppbGJ1TlpJZkVwVjhDb0NN0gHnAUFVX3lxTFB4QUtreXZXNUpJd3Y2YXhQUG1zc21nM3NVVVY3SUkyamE2M3ZHQi1lLTNhNGFkMGhyV29XdEczaDVwSTVEVzZDOGYzS1NtMEp4QkZCLUh2bnhudkd6d3ZzelVnSDFzeUJ5SXc0N0lUQ3hNQU5nUS1TZjhXazFYMUp1LU1oSVNuY2ZUOXJpbTR0UkQtaHZyWnFsZmo2c1FuZVFJcW0tR1EtR3NEMVhsRUVFRE8yZnRQdXNPMnowWGdJdjNtS1NfTkdEa0F3TkR2YWtzbTFBWmFHMWFVSGY1RDJqUU8xbzlSNA?oc=5",
+     "fecha": "2026-10-15T07:00:00Z",
+     "medio": "Radio Las Nieves"
+    },
+    {
+     "titulo": "[Opinión] Oro aluvial: una nueva oportunidad para Aysén",
+     "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXIydWNFVlhTYjl2NEtINUpHRFFPTV9xSTlIUUV2QzZpSS1UOXloVHNqbmd3VFJ0MUZRM2dRTGF0Y3h2c2xxSi1sZERqLTEyZmVPUVdrM3lxR0dyUlVyMlhaNmoxLVpmSFpRR0c3cTdXT01lM3NtREQtR2xfZzBUdUJwclhEcjBPSDVVQ2JFWQ?oc=5",
+     "fecha": "2026-10-11T07:00:00Z",
+     "medio": "Radio45Sur.cl"
+    },
+    {
      "titulo": "Organización de Aysén denuncia ante Cancillería visita del embajador de Australia a proyecto minero Los Domos",
-     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdGZsQU1oQko4bk9HMXlHbXlZSWQ0aHRNaHFtV2N4elZkcUsxNUNXVU1QalhCS2NXTVpjRlNaVFdRWmRRc0Q5ZTRUS3J2ZWx3dnlyZkxlTmdwbkRJN0VjWUVtQ1RJb0RHSGUwanF4SXpZNDlfVEVCQ3hfYTZPWS01ZXI1X2FfSzlwa29DeTcwdU44ckkzVkx2dEhTRlZKMWpfdmRISjhPbTFNN05HOXlYb3Fyb21XNXN5TTh6WEZ1cHJBTzdlUGIwUklNRDU0Wk9WNDR5ODcxaUdNTE9rZ3Bj?oc=5",
-     "fecha": "2026-09-25T07:00:00Z",
-     "medio": "El Periodista"
+     "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTHBzSDNyei1ZS0JuUHdfU19zU3pvUU4ybTFNNzlmZjBSSjhNTVJKcmZ1VDdnMm42dzlyTDRlazNJRE45Y2M2WDZNWUlueGM2MjczYjJQZXItRmVfVXg2aldfOWM4enI1QnBRcFB5TnBtQmEyNUhPNEJXUnJWSDMzYlRsWUFCdVNDZEN5NWxyanhFb1lxd0pFX3pkVHNuMWUxOHJZa0Z2WGJvUjJOeVZ5TkhVWndQQkl2QlVuamlSNlhfd0dZZWhmS0FHQjNSclNv?oc=5",
+     "fecha": "2026-09-26T07:00:00Z",
+     "medio": "Insular FM"
     },
     {
      "titulo": "Estudiantes de Aysén podrán formarse por primera vez como monitores de seguridad minera",
@@ -421,33 +409,15 @@
     },
     {
      "titulo": "Justicia obliga a Minera Pacífico del Sur a pagar millonaria deuda por plan de cierre en Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTWcwWGh0Tzh3UmljcFVDZjFYdGJuZHBGcGdFSldDTS1yeHFzUTV6YWE5NkZQajVSeHk1RkEwWGN0T0oyMTdHR2NKNXRNcjZLOGNWbnpHS2g0ZkJLOFVMUkdoOEJlS1c1aHA0YkJpMTFXT05UZFhVa0U3czFTNWcxc1QtcFQ0MXRZQ25KbktmWDQ1WHhCeWwtNlRPR3lTVF9MZk92aTlQekljWHdnb1dob2t1R1NmNkR3RGpqOFZNQWtuWl9fX0Q3RW1jaXVfdzUzZV9zbFhqNkgxQVhjbHRjZDEtYkZteWt1?oc=5",
+     "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVG9nOEJ5Sk1CbUVIYjhyZWhvS3hPQlNUdDBGdGxVY1g1aXNVdDJpd1M1VlBJVExVcWQxWUNLR3hoVUVGejUyTGZDYmU4cU5JcklXRHlPSGpEazBjaktRU2V4SXpHcjFuOHA4cmwzaFFpdTFKa2JzYkU1X19ES1F1VVpETUJFSFlkRWFFZmJtRWJ1MThwUHZjT0x6NkFfQkhxNHp0RWx6TDJJSkRFZmFjaVNkbGRzTUhEWjZ1Q3pSWmdibzhnNElaNXBSbmxrZVNkREdtNE96SUtWNTBacnhjUlFSNGNvNGtfeTRVbm8yZTFxRWpKbVE?oc=5",
      "fecha": "2026-05-14T07:00:00Z",
-     "medio": "Diario Sostenible"
+     "medio": "Diario Regional Aysén"
     },
     {
      "titulo": "Confirman multa a minera que opera tranque de relaves colapsado contaminando un río en Aysén con metales",
      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNenZiYS1FVHlqaHlrdWNBVkJMWndUUUpieU5KSDl2d3lmRlJTX2NrcVRPZmw0RFlPMzliZEdMY3Q1LTJ0SDh5RlVPRTVPR2V5U1g3ckpOU3lYQ3ZuX0g3UHU1Y3NydHYtemlSWUpNM1NEV3lEdG9UTnBQTU9mVkhqQ2VzMjc1elEwcXNBS0ZTWV8xM1RHWE84ZlJTRnROWHlRSkU3bEI5WHNVMHVTb0U1R3RNTjNMczBIRzNJRkJaMk5NcEszQlRFeHBOXzVvYjRTaHEzWGxSQWtwZ9IB3wFBVV95cUxNTERtblRKbjVEelhDYjNlakprZm5lSlFWR1ZHeU1VeVBYelVpeHRlLXptYk9mTmh6YlFJdkJRYTIzSFFEODhfeERVT2pBY0hLY1FjMjk1eWpGc2tYR25IenhaVGFFUndzYzBYbTFEdDRlcWFDMmFLdFIzNEdZLTFkQ016V0JFSWxiNkZ1cDNBUTl4R0RNcEZXMnpObkJFS1J2RndaejdZTThuUU5IbHdiNWFnMkJ5RjlWTkVkOGdRdVkzZGpUV3FLcEVBV0pZNUdUcWZWa3phczFiZTcyNFhv?oc=5",
      "fecha": "2026-05-12T07:00:00Z",
      "medio": "El Desconcierto"
-    },
-    {
-     "titulo": "¿Quién es José Luis Osorio? Ingeniero metalurgista asume como seremi de Minería en Aysén",
-     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWJSWXJYX3c3R3BPeXI4TzRGb0RfR3N3ZkF2aXJJcEtvclRIT1FNVVR3SnFyQlJza3h0c3NnWnZZTncwZk9jamhBNTlwRWpJWXlfbGNoUWQxdjlDYlU0S1o5Q254VllqeHB6c0J3V1o5NjVLaEc5dzY1R0JtcnlKM1cwZDdvRGxscFJ4Q01MdzVYSEhLdUJrZ25Ma25iZWZPbGh4dnUyQ2pudw?oc=5",
-     "fecha": "2026-04-14T07:00:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "Organizaciones de Aysén recurren a Contraloría por presuntas irregularidades en tranque de relaves de minera El Toqui",
-     "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPajF6c3pPbURJYzJEWThWUG9uLXliM0dqYi1Kc2N3V0poRnoxNmFIZ0pzN2I0NTJGOWg2RFZCNHRZRVhWRUlnOUQ0WWxaNUZsTHBDUFhxWEMtY09rS1M5NElxZmJFQnU4OVB3OEV4MHlVQ3F0RjJ1WW0wU3UxbXBYS3FTcHhtWnptOExSZ05HeEFWWmlwNDl3eERQZ0lMWHBNampJc3pMTlJScmtU?oc=5",
-     "fecha": "2026-03-16T07:00:00Z",
-     "medio": "Reporte Minero"
-    },
-    {
-     "titulo": "Organizaciones de Aysén acusan responsabilidad de Sernageomin en contaminación de tranque de relaves Confluencia de El Toqui",
-     "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeXdLMktnQ3lXNlk5VTQwZE93ZE1tVjR6NTNLUUlycmN1cm1wcFE1S1B4ZHMtcndqWnpYY3NpS3ptOGdxTlVRVTBBYVVRSW1aU2g4N3U3eDFmVVJSTFFkcjlUbTB0RU1RQ2hTSWFLV2tFbHJTMTFiLWVtcGltMEk5R1JSVDNPVTRldmw0ZUxWU05UOUdSVlFyUmk2NFJmbU00cXZadGxYZkpudEpPRVFJdC00LUVXN0ZYUU9tU0pmTVBpQnNsYlRyMnlHRUVzbkNwak5HOGlWcjczVEFFa2MtWk12X0NRUlJQbWFoTEZTTDJrdw?oc=5",
-     "fecha": "2026-03-16T07:00:00Z",
-     "medio": "Universidad de Chile"
     }
    ]
   },
@@ -478,12 +448,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFBsTlZSeFhDelRWcEdNS0w2ZUdieDBOUUdWS0VuV0pqdFdEX2wxRTE3azVqMzV5QmdnZU1UbkJMN0JHWUtZa1hxeVJfY3VWdVdYWUtwQTJsa21jNTVPbk5QNGdrMWZBcVJ4bjJ4NG9yN0dJY3JZYk5JaG5XSVg3b3NCN2U1U0p1QTNQVFVqRnRkbjZtckF2TVppUE5hQ1hETHVkT2U0aUk?oc=5",
      "fecha": "2025-08-12T07:00:00Z",
      "medio": "Diario Financiero"
-    },
-    {
-     "titulo": "El sindicato de trabajadores faeneros que se convirtió en “socio” de Dominga",
-     "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkJzZzFhMTkxWVhvR2xsUTdCZEtCeTdMakxBN0Jiek9BY184OUhQVFVEcldEalFEOHlESTNaMXRaMG0ySkVBclhBRzlzSm1KcTFnMjEzLW5MVnlWaFFjb2RaZEl5OEhtdHFrLThsWGZnNEZKa096cnBIX2pMYl9HLXV6NThISkptTy1sS0dDNW1MT3BCNTN4aUVLejNUeXpwRXV0ejZ5MUxyd3g1QWNKUzZKdVpKNHQ1bFhad1V1SjVTV05fUjk1bWptX2RCUFRyV3BzMUFiREFWd9IB-wFBVV95cUxONkFsenM4NXFiZktWcFBGRGgxVjRLZmNhd0wyR3YzdFRqNVU3TjExMFRxZmZYMXFfRlJMT0J5ekZIR0s2Rk54NF9GYnNBalgwb0I3MXExN2NrSXdKN2l6emVXYkVOYUxjU3poS093THZYVmpfdW1BTmVtWmxrTmE5VXNRY21GNi1WVmx5dHVTMmdXQWhOYzFGM0JvQ2Jad1Ftbzh2VHBHUlRFUGU2aXd5QXloYnNrRVRhV0ZCaFFya091a3dBMkY4aGdSaW1ZNnE3VExWd3pyNTA4N0ZVTlRqTmNVdzBuMjk1S214b0ZtZUZGLTBmczZabWlZQQ?oc=5",
-     "fecha": "2025-02-07T08:00:00Z",
-     "medio": "La Tercera"
     },
     {
      "titulo": "MINERA CERRO NEGRO DE CABILDO CERRO NEGOCIACIÓN COLECTIVA CON SINDICATO DE TRABAJADORES Nº2",
