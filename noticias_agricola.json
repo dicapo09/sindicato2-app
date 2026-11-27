@@ -1,21 +1,33 @@
 {
- "actualizado": "2026-11-27T03:16:03Z",
+ "actualizado": "2026-11-27T14:21:38Z",
  "fuentes": [
   {
    "clave": "agro",
    "nombre": "Agro en Chile",
    "items": [
     {
-     "titulo": "Interborders exportaciones Chile Panamá y la Zona Libre de Colón",
-     "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm8xZ2FzOXh4QkVQRmVIQlhXSjc4T2NLSFAzWElBRHUxb2xrOEtweXdVYlJmUmZlemxBQXRsaDJWMS10MjBudTBaZkQzTXZ0UWZqNnM2bjJJbHJ1TTEzLXlZYllyZzNmeldQa2JhMTVXV1hxaGZSYmxYMnpBWW84SkdWeUh3OVRseUJXVkc1b1pzX3I5WmpqRVYtU200N0lv?oc=5",
-     "fecha": "2026-11-26T22:06:53Z",
-     "medio": "Portal Agro Chile"
+     "titulo": "INDAP invita a los productores a postular a la Expo Mundo Rural Los Lagos 2027",
+     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV0JGVVI2OFo2VDdRVGUxRGxKck5hU1ZiR2paWEhjMEw5RktkZVdON3NOTE82N0l2OUJGOWVoV3JEeUtvMzNoQnd1TDhTTGZpY0pNN05EN05yWFExTWltSU5iWnJiTkFrNHZXbGh2WlFlQmZKU2huYUNURHQ1VmE1WlExMjhfbm1vRDg2QVBkNENYeGp6cTBOeS1sb2c5ZnFtbUpoYlVpaXczUkFDRGpmSkJEVEY5eG5iMHJGUUtHOEtMZWctb25aQVdWSW5ma0FtbEhxZFZiVzVqRkE?oc=5",
+     "fecha": "2026-11-27T13:11:00Z",
+     "medio": "Diario de Osorno"
+    },
+    {
+     "titulo": "SAGO AGRO Summit IA: La Revolución de la Inteligencia Artificial y la Robótica se proyecta en el Sur de Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZkFzeXotdmNFR3pzcDcyVjJHZkptc0NZRC03TUp2eHh4bm9rTVhfSktTT2JWYTU3RC1vNnJJS1VYaUdvUEctWWtDWFJXamRYTEQyUWk0NkNadlM3QXc4X2xXOFg3NWhjSDg4OHlXNkcxWGFtZjVWQzlxUU5CVUM0UWNka0JOemI5TmszRWhIY1g1aVR5N2VlVFVSOHVqVEFaLUpoS3EwZE14eEszRkYxS011aVVlYjlxYVo5WFl1WmdoZHVZNk02YlkzazRjOW8?oc=5",
+     "fecha": "2026-11-26T22:40:27Z",
+     "medio": "Radio Sago"
     },
     {
      "titulo": "Chile y Ecuador resguardan en Perú el futuro genético de sus variedades de papa",
      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbTdEekF6aGs1TzdHZi1STmZYM2hiSy1GVjdNZGZoQm9ydDlXeXVhU2VJYlB4dEc0V1owd3pVRnJ0dUQxYlB2eVQzS2RkRTVNZVBrV1MxVFNBQnNRYnlCMzhqT2psRllaVDV5SWM5d2dMRU5HcVpJdzVwSFNOWkdUbXFydFBsN2JjWTdFUkhSLXAtY1FqRU9pMDhqQWpOTC1kSThFZTc5Zm9MckdlRkoxVUpFSy1DSVBYaEd4NldnTEo1MEItRjI3THhB?oc=5",
      "fecha": "2026-11-26T21:50:16Z",
      "medio": "AgroLatam"
+    },
+    {
+     "titulo": "INDAP Ñuble abre las puertas del mundo a la Agricultura Familiar Campesina y nuevas oportunidades de exportación marcan histórica semana comercial – Ñuble Actual",
+     "enlace": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbXlObUFuRExHVXVaN0lISUIwLXJEdGNhUVRHazdxMjFxa3BDNzFDM040NnJUM3d6eHV2ZGJGUUhnRmhBNFNCanoyZldldVlmdm9pRzZtN09xNzdGcEhncWVKYTFDMFFtX0UxbzRCbGswSGJSNjFQQkc1NTdxcERzdHNmRWExbGNGcmFsV3hRTFE5SnlRTFF4XzQ4LUxuTWdMZmxUeUl4R0huNVh5NjQ2WGp6OWhfZ0w5WmNPMWFUT2c2RzlBbFNTOTJzVjhpLWdOa1BtUU5CVFhhSXJocHBxak16eS1kMk5yN3J3TWhESVpleFAzNGFIUlU3bG9fNmZtdjRVcHJvWmdzVFpmYWNyakRWTFZETUUwVVE?oc=5",
+     "fecha": "2026-11-26T21:47:49Z",
+     "medio": "Ñuble Actual"
     },
     {
      "titulo": "Ciruelas deshidratadas chilenas conquistan 82 mercados y superan los US$ 260 millones en exportaciones",
@@ -46,12 +58,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY21GRk5MWkkzOTJWSkpjSnF2TFhERGlFSzVEdmdjR1UzaXhXc2VFbExPQVB1Q182VndqcDc2dUNWMFZyRGJGY3ZWU05lRW9EZnJESDRWcC03X3FlWDZEWVZwQkFIY04wbGVLNEtCQWt1NWFZWkJYd3JHbE9CMTdmQ2ZvWWd5d04zQ2NIZTlhLUQ2emZfSml5S2dGVkdRaDFwV3RGN3NKby1uNHFnX1UtNTdrSmZKemxlZTEwWDctOERyZE9Ec3hRY3dsZWdmU1FPV1hJcG1xdTlCUDlsaDJZ?oc=5",
      "fecha": "2026-11-26T14:57:47Z",
      "medio": "noticiaslosrios.cl"
-    },
-    {
-     "titulo": "Exministro de la SAG propone créditos al 4% y asistencia técnica para fortalecer el agro hondureño",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkI0RFZFZzQ5UkVGaW83dUI1aVNqSS1yQVJDTGhvXzMwdDAwYlEyTUNldGo5eVFwVUdxZUtOZG9fUEFYeFdXbGVnX00zc2hNd0dqbkMwLUtja05pS0JleElxUHNtSUJTUDlXY2NoaHdON29UOVo0azVNd3A5a0U5ZndyZUFBNjBrcXZLMGhnbXh4SzVtRDJJOVgyTnBaMW9Pb0xwUWlyQlpTRzkyWXVPNldlLUxoRXJ6?oc=5",
-     "fecha": "2026-11-26T14:35:59Z",
-     "medio": "Proceso Digital"
     },
     {
      "titulo": "La agricultura espacial acerca la investigación de Chile y Brasil al cultivo en ambientes controlados",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjU3d0xSX2NGSkFFY1Q0M0k4a2ZhRXBVWnBiMWlPV05iUlItSWRwOE5pSVhHZ1BNOGF4cFhvOTNsYkVXd0V4cVBBa205Zmc3V05rNXM0ZXVzTi1FemotcjBIREZCS2phbi1RMUlTaW8zNXhSVlhjWU1pNmtETDhhd3JNalNLa2NnV2U0Mm56dGRtaVlNbzF3ZVdTemswM0F1ZGJOcmp6cEJtR0R2WHJPT0p6MGkxbW1pbXpGWWs2WXVyclk?oc=5",
      "fecha": "2026-11-26T12:30:00Z",
      "medio": "reporteagricola.cl"
-    },
-    {
-     "titulo": "Novedades para la postulación a fondos concursables de Sercotec",
-     "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaDFxVzFHRXppSndIdEY1b3VIeVhmVnRIQzRYdTYxd3NJaHFsMmN0akR6LTBBWGVQRVc1bW42Y1lFMTJtNzJ1ZUdYZVotWGxxY0tHRE1GZXdJUFdVcENOZ2VEU1F4LVdrNGZVTmFsUkgwS3p1TVNBVW82bWRUWURIcTFnYUpQOWZtTVFzbVNkUGZTamxXUGtKTFB6Z1R3aE1EWmlINjBYSlFoZw?oc=5",
-     "fecha": "2026-11-26T12:06:40Z",
-     "medio": "Portal Agro Chile"
     }
    ]
   },
@@ -102,10 +102,22 @@
    "nombre": "Agro en La Araucanía",
    "items": [
     {
+     "titulo": "Senador Becker lleva a BancoEstado las urgencias del agro: buscan destrabar créditos para agricultores de La Araucanía.",
+     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWFFFWmY0TDIxTnc0d1BIbjl2NmxBVWE5bWIwNExoSnR1ZWlqZ2N3TzJpTXdERzUtZ3dKTFZSWUVRWmx6RDhSa3hrTTlXazk2WnM3Vm9FQ3hOZmxRMm9LamUxNGJvQy15RzZRLWpYVm1PRC02a2pfcDZmLUVOME5yajVrTVBlWUhzd1hLSjhwTGlHSHZROE45OHFKdXZYM2NWOG5nLUhUYW5hZjZhV2lHR3RLMHNScDV4amhGMnV1RXZObXlyaWVWTGJoc2ZzZHM0eHNTUjhmbTl2RTdnUV9pSlhCM1NMMjlDNG5VR2t3?oc=5",
+     "fecha": "2026-11-27T11:32:18Z",
+     "medio": "lavozdepucon"
+    },
+    {
      "titulo": "Fin de la Remolacha: Iansa cierra producción local y La Araucania suma nueva incertidumbre",
      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3hUd0dEUUVBUnZ3bm9LQ24yVUxBTms1ZGdZRVlvT2VENmlrRVhvTFU0Yi1zMzJUYzBjVW1XSWVsTFM3OFJ3djdFTjY5MkJfSXlUcWhveENic2l3MDdaYm1uaXRSS3VIc3FHY3RqUnlKTUN4WjgydHREWUVkWG1jV0l2Yl9IRjB1cUR2cWxDMTBDdUNRcmtxOG1SbF9RN3dDYlVYaTZlQUpNLXVzRXVidmpaaHFfek5fV2dibmJxVXdsS3c?oc=5",
      "fecha": "2026-11-26T15:50:38Z",
      "medio": "TemucoDiario.cl"
+    },
+    {
+     "titulo": "Cooperativa Rewe de Cholchol y Vitafoods sellan alianza para potenciar berries congelados",
+     "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbTlZWFJEc1FQNHNMeHBJcUJHNEVnZkVfajFqNUt1R05Qak02Mm5ZY1dQc0N0V0FWcEh4VzBDUDh2YTV1VEdaSHlsX1VpRWNVWmVheWtEZExYOE9NVUhKZks5ZndkVFRRWmoxQmJHU2k3V3V2ZDdFajBBMHdaLXNTQjFMRU1iQQ?oc=5",
+     "fecha": "2026-11-26T15:00:05Z",
+     "medio": "Alerta Noticias Temuco.cl"
     },
     {
      "titulo": "FOSIS elegirá la más deliciosa galleta de Navidad de La Araucania",
@@ -129,24 +141,6 @@
      "titulo": "La Araucanía suspende las quemas agrícolas y forestales por riesgo de incendios",
      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0g0ZzJJdjdmd181UHNoVnVZbENaNDQxNVljWktPdVpVMmdhaE0yOThhV2VZNkxLTzZRVjR6YTFYazRBY3VfQmtlYy1KbEtWbEZzNXJWQXV2dHRFS3RmVUFadEVvZFROS19IRk03dzFNX00zUENvWEhaVXpmUW14eC12Rl9iSHdaRGhBc2FERHZOZw?oc=5",
      "fecha": "2026-11-26T00:57:47Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "Inspectores municipales frustran robo de más de $6 millones en pleno centro de Temuco",
-     "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRzlqck0tMkJ5cXhkVGxZRTVhNU96Q1o4ekpMckhadDNoOERCdmV3XzdtUzdrUTBKOUJkZ2ZCbUpHZUlaYWJYNnVzN3p1LWg0Q2didWlKMW5jSVlZY1lZT0xxbFZlLVhGVmc4cU5RZzAycC05d0lMaXUxM0tWaHdWZDc5UVI?oc=5",
-     "fecha": "2026-11-26T00:51:49Z",
-     "medio": "Alerta Noticias Temuco.cl"
-    },
-    {
-     "titulo": "SEREMI DE AGRICULTURA ANUNCIA LA SUSPENSIÓN DE QUEMAS AGRÍCOLAS Y…",
-     "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT29TWG1CS1BGMWhaTmxyTVJXZ0RYZ2V3eHJHemg4bkg1ZDFJYmZiVEpXbHdCVXQ4TDB5Z0pVQTk3OURuLS04OTdZeVlRTFpMVV9PV1Zha3QxbjA0T0Vja1ZWaVliY2VOemZLazI5cXpMQXdzRWZzRUhCaWc2TlZOV2pQVXp2SkY2YnJBSHhpMjNBeUY1QXVPR0FMOTdUaTQ?oc=5",
-     "fecha": "2026-11-26T00:30:39Z",
-     "medio": "pulsoangelino.cl"
-    },
-    {
-     "titulo": "Con una inversión superior a los $6.326 millones inauguran nuevo CESFAM de Huiscapi que beneficiará a más de 5 mil personas",
-     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HYloxUkdubVRqX0ZCN3NkdnlUcm1Rd0FxajV5OTdkcW9YS1ZOVTNRWlF1SmlTdHowamdnX3VyOUwxX1Y3bHZYWDEyN2g2NkxJV0xZS2ZoWVNOM1puUGxRR3Z3c3hzUXhzY2JzXzNRdWRnRnpJTktQdTFIZHk?oc=5",
-     "fecha": "2026-11-26T00:01:43Z",
      "medio": "Alerta Noticias Temuco.cl"
     },
     {
@@ -184,6 +178,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGhaOWU4c3hrV25FemlPd1kyR0Y2bVhtcmVtVmJNRHNzdjZHeVdBLVl1NG1XT1prSXF0ZGlYQ1RKUnFJeHJWNXkyWER3SHlFSUpuTkdOcEttQ2pWZ0hfd2RESEtsYzRqUjljSmw1Q2hCTnB3X3ZVaC1TQXZaSDViaFctVVFjTFNyQzFIWWk1UTl6R0tickMwaDNzWkM1b3hIRnVFRnlpNTJoazBn?oc=5",
      "fecha": "2026-11-25T12:30:00Z",
      "medio": "Indap"
+    },
+    {
+     "titulo": "SENADOR BECKER GESTIONA CON BANCOESTADO SOLUCIONES PARA DESTRABAR CRÉDITOS DE AGRICULTORES EN LA ARAUCANÍA",
+     "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN3Z5TUk5bGl4QUNXTVY5T3M2aG9BUmY4aFM3VWxONXBvb19RWWJhWW05S05jeDV0TEZlbnpKYU04ZE5Md2hhZ2txR3dOMW1fRllyN3JhUTVSU2R6eVdvYXp6VHl2clh6QkdQLTg1WVdTVXEtdmJqUXRHeWw5aDZiLWxJMFRLcXp1OF8zNVlkRkwyaVBFTnRsOWVESEdfWUYzN3k4b1M1eWdncmdTbnpCX3QwR0MzV01lUUdXemNoeG14VVprc0I5NzVKNUsxM0VlZkg5dVhmVTlHX1pSNTZ6UktqQk9LZw?oc=5",
+     "fecha": "2026-11-25T02:18:09Z",
+     "medio": "araucanianoticias.cl"
     },
     {
      "titulo": "UST Temuco reúne a especialistas y pacientes renales para abordar el rol de la nutrición en los tratamientos",
@@ -294,10 +294,40 @@
    "nombre": "Mundo sindical",
    "items": [
     {
+     "titulo": "El sindicato coreano de financiación agrícola se manifiesta contra el traslado forzoso de la sede de NongHyup",
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbDN3ZGY0d0lLaG1GNl9Cb0t2a094UlBTXzVhU0ltTjVYeWZWVWJmS0RQbTU0TWU4bXAwVC1iX0IxSnNZMlJVRzQ1bTNIV0I4N3BHWjgtYnRrc09MZFpCRlFYb0VPZUxxUUl6aUNwRWw0MjFYUEdlczBnWmV4S3o1M0pkV0dDS3lQZjNWZG00VlZ6OHNZdWc?oc=5",
+     "fecha": "2026-11-27T08:40:15Z",
+     "medio": "UNI Global Union"
+    },
+    {
+     "titulo": "La comunidad agrícola de California honra el legado de Dolores Huerta",
+     "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUHpfWUJxSkUxRV9EYThMd29lbGhmeEpia2lFR1Y4d1JaenZtZ1JUMlFJcGg1YmRUVTZ5dkNsX29KMTY3SVVPeE1pTEgwc0RXeTNqdU5fQThoQWlaZTY0NTBoaXliQVNQOFVuRExpT0dYaHhBbk9zaC01aHpRQ3duWS1OeVh2U2JpTkpvM3RSekVxRGpNYkE?oc=5",
+     "fecha": "2026-11-21T03:05:43Z",
+     "medio": "HolaNews"
+    },
+    {
+     "titulo": "La “huelga de la uva” de California: el hito sindical liderado por Dolores Huerta y trabajadores mexicanos",
+     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbUkwWmZ5aWZ0azRxYS1NU05aLUx2OGRCcHNYUmxUT1JXdzFJSGFfNXNTQU9jRW9yWWtkWEcxVFEtUWo5aGk1aXRRTGZZRUt4eVM4c1BTQXRpa0RiZ3luQWFMUU55bl84aGFfZkVRNHA5RGtmeHB4ZTg3M3BqeVhkNEo4bjJkMFpqMmd0QUh0WHhQcmhjcmlCMS0xYzhSVTcwYVhqeW5KcjBublQ0TlZWSTJWM2hwZzhUY082ZE9TUGlIemQtSTZOeTVEWGZpSXFaZ2hhNkY3MklnOHoxWm9rb3l4VXNHS2pYMFVZ?oc=5",
+     "fecha": "2026-11-08T08:00:00Z",
+     "medio": "La Silla Rota"
+    },
+    {
+     "titulo": "Murió a los 96 años Dolores Huerta, histórica líder sindical y activista de izquierda",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdU4xXzloM1RQSGdvQmItX0RfZFZYUVZiWnoydjgySFhEWkpveXFnejJ6bXJoLVpUbFRfQUxrdXppQjdHdHNSQjFPUDhRcFNZTDhxS2JqZ2VIY0RsWUZhTG1LSjhHWHdRTnNvWVNObEpkb2Q5ZTlyMExiaGFtTHFUdXk3T0U4aEVnbV9EaWRkbV9oVUZVN29DM3h6OGtpRFE0UU1kX0wyeHdSckdBc0RFbHZ3TnczcjlDR2o3MlkySmVKOHBjbFFOd0RTbw?oc=5",
+     "fecha": "2026-10-29T11:40:43Z",
+     "medio": "voz.us"
+    },
+    {
      "titulo": "Quién fue Dolores Huerta, cofundadora del mayor sindicato agrícola de Estados Unidos y defensora de los derechos de jornaleros, mujeres e inmigrantes",
      "enlace": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPVHZ5cTllRHNSSUpoM1prOUdaNzBuUW02VjlTaHhZNEFiejZMeUluUVV2Wk1qSlktcUJDamtSZGhUSXBDZU9YWUJsUXV0d243ZFM0ZVRHalAyWGdsWlFMZDJ0ckRqS0M2WU9XYk5SajhsVXZhT05vb1VFb19fUmJpV285VU1DQjRnbThxMm1NMXprTGVvTGowLVNnWnFyMlB0SVA2Z2JWVFVJLW9zelR6a2Q3T0x5cjd6bWVUTnZXU0x5SG52SXdJN3J2WVpvWGVQSkxKTXVGWGFJV2hPNml5dkVYbDI1UFZfLXFpSjFtaVNoSkFqeUVPRTlOMTdiYUd4MFhLWUNWX3MzRjNoTzU1cUtFWDRIcURVblNKNFdwd3VJNkJx0gG_AkFVX3lxTE1LdV9iS08tVzJSM0txYWJFeWpDT2RuaWQ0N2lvV3ZHeGhXSGt0VElhRUJaRDNFZVVNQ1A5aXc1NlJoblROLXdzcS1zNkZ1WWVyOFpSZXAwVWwzM1IwNFJqWks4bHFQYmhOTTA2Z082YWkyOWp2YWdKUXZVdGVxMU1SLWd5cC10eXhHYTVoblE2TTJ6c015U3J1M252cy1lVUl5WjdlUklBanZlWDlNZHNhYnF4am1hQ3ZPSkV6LVNDdzcyQ1N1S2xUS1I1alVOLVl5QVB2Rms5V09KWFRmY0RweFU3clVCTVFvQkowUEVmQko0cWVlZXRvdmdlZENneTJZU3I4bkFfMnpteW9QdXpfaFhGVGlURW1xUXZWSDRpbzBOUnNwc3d4XzZQRmtPS3BNUVhtR1ZSMU50UDNENVE?oc=5",
      "fecha": "2026-10-29T07:00:00Z",
      "medio": "Infobae"
+    },
+    {
+     "titulo": "Muere Dolores Huerta, activista por los derechos civiles en EU y cofundadora del primer sindicato agrícola",
+     "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTUZnZzNhUWlRbERKSFlkeV9FUm5KbTl6ZXlQMzdwanBidnZ3blpHTUh6OS1yLV91dEJ3RXlvakJPdFUyc3ZpeHFabGs2QmNnckR4NkZsMHdOaHk5MnBlVGprMFZ2TThhMW1ZMjl2VlRodDdVT2otVGlYeGFUaS1MOExuMTJKcHkzdFl1RHRWMXdRazZSWTN1SzQ0QWloVWJTVXhraHNjam90MWFjQUNaZDRETnFWamlqWlNWUUV3THhZQU0zaXVXSVYzZTd3alVfaF9YNFQxZG5QWkZfaXc?oc=5",
+     "fecha": "2026-10-28T19:09:57Z",
+     "medio": "El Mercurio de Tamaulipas -"
     },
     {
      "titulo": "Dolores Huerta, líder sindical y defensora de los derechos civiles, ha muerto",
@@ -318,70 +348,40 @@
      "medio": "The Nevada Independent"
     },
     {
-     "titulo": "Fallece Dolores Huerta, cofundadora del sindicato de trabajadores agrícolas en EU",
-     "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaXo2MXFybmlGbDdMRUFxZjZ2cEszV0RzT3BxbFI3S3htalctOHEwRE04M1VvLVBfRHRTNWlOd3RsbURmdV82NTVQTWZUSXh3eGpKX0JRTi1qbXEwekttQlp0cnE1bjBBUkxXVnJVa1E2aVVHRWdKTmJOdlhIV01sRjZvS2NWQUJ2cl9qUERhaVJNdlJQU3hjS3hzd0pqRXpReGQyX19SVjUyZjhfY2FtVW9kNERxcTI4dExqa09YQlE5MVBPbmlMcVRCTndudw?oc=5",
+     "titulo": "Murió Dolores Huerta, pionera del movimiento sindical e ícono de los derechos civiles latinos en Estados Unidos",
+     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWXFCX3J3S1pVMHlBMktXRmxIM3pPd1Y5X04xVXRfcWFnSFI0dnY3QnhXLTVyWVBCMkJ1eDQxd2VrN252TjAyNEt0a1JmXzU2UUUyUG56enRhUS11OGdOek4yR3k1LUFMWXl5bzdzS1lfc21RMHVSd2pnR2lONWo4MW41TjNBeXRESV9MZXp1SzlrMUU3Ql9CN1dKLWFTTkptRTg0bk40SVRkMkM0WmxRTzRpamNVTGpIblc1UnZHck91c0gwMEdnVzZta1FnSVJYcDJmT2RaR3pGT1R4MHp0UlJFYUZyRERJV1pNNUtZZXNJWHPSAY4CQVVfeXFMTjZFMXp0TmZRUkNaSEVfVHVMa1h2ODh5Z3RLb1ZqVmxPS0Q4M202cENSZHd0R3NFT0lCcC1VLWgwaWd6TjJ6SldGRHczeUJ6WEZRV1p5cFZnWm1UYkpPXzhiZU1KbUxVWU5nX3RqOWZlTjRaemFFY0lZcjVYLUNSS1JMV0RqYmdrU0J6clFGa0VpeXlDNDdYVk44OTBtTlJjUzUyRXBFb3lZZWNLUHotbzZ4LVhuZzM2b2JCeHNhU2txd1BfWVlYRmVCTmN0S2VpTlRyUHNvNXhJVHpLcnBUa3AzbXNzNHBrS1V5cEw4OTktVU5sU2wtSFJZbXNqNnQ3X05pVnB5MEp6R19mTHJn?oc=5",
      "fecha": "2026-10-28T07:00:00Z",
-     "medio": "MVS Noticias"
-    },
-    {
-     "titulo": "Los palestinos ya no pueden coger aceituna en Cisjordania, denuncia su sindicato agrícola",
-     "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVEVNU09TX0wtZVIyemZhRmlpbW52eDhUNzNmeGppRk9QN0VXQ3JpUjY2NGNSSlQ3cDZFcWZZTUhtYmg0eEdJaTdna1NkTXkweG9ZaWljNkhPRzRTNGQ4UUVvOGVHQ1NuYXR2RzA2RTlPcVVxVFlFR3RmM05pdGFXdS1uU3ZlQ2dadVUxLU1pS3F2bUk5a1htMmxMUTNUeHBRemIzRVpMRmZGN3ZyNlc2U1JNY0pzTWxfUjJLbGNMUnNma1gxZ2NjMkJraERmSXkwdnAzc2hRU3LSAfMBQVVfeXFMT1NzWkcxVGFOQldHcEpqejkySmdGOTVTUTBwWmZKZ0MyNlhJUnBSUTRoZDNNZVpkNDh3aVhGb1p4ZkxUM0NLXzhCcnZIVUNtYXJzcjFzRnA4MlltamtjYmkzRUtoNVloUVRNYklJT29iSldvVHRybjIwbWdSaWthcF85RUtQTTVqV1lQMEhUSVpIdEY1R1NvcjQwY3owcUNBeTNvOG1lOGJqQ0E3RmVCLTBEU0lGY2N0REFxYU5QTURKcEVWSDh0RHZuYU9HOWljLVVGUXE0MzJVdlcwMzhlbDVORXNMTGVsZ3hpMlJJVmh1Yi1j?oc=5",
-     "fecha": "2026-10-14T07:00:00Z",
      "medio": "Infobae"
     },
     {
-     "titulo": "Sindicato agrícola ucraniano advierte que priorizar envíos de oleaginosas golpeará a productores de granos",
-     "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVNKbzZieWZ1WUJpQ1R3Q1FGdnVKVjQzMU1SQkY2QW12a3hhYzloVks1dXg4NkI5SWVQTWVvWllJcWotYVBtTDVPZWFjZDloX29kMjk0M0hkQ0FXVFBUenJ4TEFTSU83TkQ4ZXJ6MU1VWWRQbDU1WF9wVW8xZS02N0c3bmdPMUZVTW1ReExyYkU3eV90U0VwMHdPNWhjYmtmekhDRU82bTE?oc=5",
-     "fecha": "2026-09-30T07:00:00Z",
-     "medio": "Yahoo"
+     "titulo": "Muere Dolores Huerta, cofundadora del sindicato de trabajadores agrícolas en EUA.",
+     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkdnUE1JV3ZpR1dUZUpYaE83RzNsT2h0ZEFzTjEyZTNvLWw3SUgzT3pQZDYxWGQ1V0ZpXzl4ZWVaZXBmckFvbUN1R0l5Q1FtQjFhNkdZVDVFdGNNTWphV1hFamFaRTJmVzgtdFNwMFhJbXFJSExVSjZmTW44ekJnZ2tZVDhVb2h3Tzl6NjFBWU1iT3UybUVWcGdLbi1TNElBN2otNGo5RkZ3eExfLUN4WdIBtgFBVV95cUxQQnNiZnd4QmZBVlZPbmsycmZpcXEtcTF2Y2dWZG44MUpUYVZCNDFMa0w1OWVuR190QnJYYV9nc0o2SXU3TEdIOTJOWXhScVdkMEpfUlM1d1YtX2RWTm9hekhYRUZ5T0s4bTJNSUlqZks3MXhOSlM1bVRhSVoyN2trMHBBZF9qU1o4S0Z5OFRKYlNXcnpwLUZ1RDlZX20wQnNCWDUzMUl6ZHFvUXdwMmtfQlF2ZUQ3dw?oc=5",
+     "fecha": "2026-10-28T07:00:00Z",
+     "medio": "Siempre En La Noticia"
     },
     {
-     "titulo": "Juez falla a favor de sindicato de trabajadores agrícolas en demanda por salarios H-2A",
-     "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUmJuemI2N09DZEdZb3daSHlwbERNaFh3a3NBMzVESEZtcjBudW9WNENRZE9oTXBaM0ZaYmJLQzV5WERLOGw3OHZEUXpLcDRXN0l6R0Y2Y01pak50NjJVaWxXcGxZc3FWVmJ6WV9PZDg3VjhqeF9nNWZoVmRfamlYTWtYdUZUcXpzYkJBWUo1MmVxeHFYaTV5cS1DckZJS3VxQ0dEMkZXQXBFeEZuMUdSWm5oQjZyMjQ5MExjN1pZUGJUZ1RTQ1ctTXhkRkhEcjBBakZTTktPM0Z2YUlSWDQxQVR3b2R4bXNqd05IM2FyMGZyQUNPU1pmdnN4M2liWE5vVURJZVhra1pGbHh20gGSAkFVX3lxTE1UNVVGYjdIWE8xLXFCbVdSaTdEQy1GTHRnM3lLVkp4M2JTUUkyNC1BT3g0YVN2UkdKYzBrbU1PYThTS3V2c1hIakhiZE1WZjY0WG5LYlIwRVBMMkUtb1JySGJwMzNpUktGREU3QjdLcElWZHVMOWdGMzlwUWx2Z3NFdlZGX3VOcHhZbXBSUDVRV3N4UXUxdkVzczFhYmZGNVMyWUxxS0Z3NVdEVWE4aHlQZzJxdFdoVVREZE9OX1ZRaWNFVVpzQm1OeFlqc2V0cWVKUF9oaElXVHc1Q1dEZlhLVkp6LWJfeG5PWFNNVkVCNHUzMWxZWGd6Um9mRnVORVdram1fV2NoamE0cmpabnNGTkE?oc=5",
-     "fecha": "2026-09-03T07:00:00Z",
-     "medio": "El Sol de Yakima"
+     "titulo": "Muere Dolores Huerta, líder que denunció abusos de César Chávez",
+     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWVGeUtxMG4zaUtka1lhaHI1QnV6OVphTG5jVlZYeVBQeWNXOUZDWDVVSDNqUWI3MHphRFd0eWhpcl9YLWc0WC1CbC13Rllkd3BROEE5UV9CR3hvQ0JPRDFSTmNOWEh5SXpuZHFJdlpJWnNyU1R6bHV2Njl2YXVfZ1FjNGhRQnVpbzdGS21yR2NMbXctVTNCTEhvRWxOc0ZDdktScG0yaw?oc=5",
+     "fecha": "2026-10-28T07:00:00Z",
+     "medio": "Acento 21"
     },
     {
-     "titulo": "Sindicato Salvador Alvarado interviene por adeudos a trabajadores agrícolas en la Costa de Hermosillo",
-     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLTI2X2tuZUdqcHc0VDR5azdRVkZlSEduSW9QWi1SNkdNdmNQXzEwajE4czRSdHFOZGxXbGY5MjJwcWRXZElzdE4tUlE4am40RzNTWjVzVmlNUVVJVlA2YU9kQTBNM192S0V6Und1TXo2eUx5MU5aTlRSTnY1V21HemxNY0pQdy02VGNUWGVrS3J1LU9PSFFCb1JwdFpmVkVjVzdkTGxLcjM2czV4YlpmS0xiTWxNMEFhbENWOTgxWGxyQlA0Q1JhQUFfcHExakJRc3c?oc=5",
-     "fecha": "2026-06-30T07:00:00Z",
-     "medio": "INFOSON"
+     "titulo": "Murió Dolores Huerta, la líder sindical icónica que acuñó 'Sí se puede' y cofundó la UFW, a los 96 años",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUDRWSURDd1gxNGhwcG53cFkxNnhkS2xiUU15R3p0VzJid0h6RVhrRlQybkxFME56dUItU01pTFFtYzhiQmZEMUZoTkVoM2QzYWdpdFc0UjN0eU5JSFVDbV81QmNPSmpDaUkxZjlDcTNmZERkdGRNamZ3VnctcFhfblBxdGd6Sy1ILVFkRl9TWnNmcWlCZjcybE1zTE9lYWRXRDgyNTB6RlNSYnZ4YlEtTk1Xb2hMMC1FTDB6RlE4NVRnVlVoTE1QclE1Y9IB0AFBVV95cUxQaGdrVUlkdkNxNDFrRnhXQVg5YjV1YzZuQ19naVF5Z0lncFpXV1k3QjZwMDZaR3o1ZlkxdzluejNEdnR1cHNycDZvazRQelhJeFdUSVhsOW1lNHJ4ZDVjb2EyS21xdGpzRHdBczJqYTZkNkVYSFYzejBtRVpqUWg3X1U0THFXUk12bkRZbmd2U0tielRtTlRGTkZCTFZ1aHA2UV9BT1gzSG1HRGZLSE1mSGZpRGtPWXY4RGtzUmJxNTlhWk9ZaVNKSE5Kd2QtRGRl?oc=5",
+     "fecha": "2026-10-28T07:00:00Z",
+     "medio": "Clarin.com"
     },
     {
-     "titulo": "Sindicatos respaldan a Sheinbaum en defensa de soberanía",
-     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkNXTmpVb2RJd1lpczEzWGZjUnJhQ0h6ZG5yTmJabEs0dUZkOTdVVnQ0ekpCSEpYUmJjTmduMFFxbDBVUWdVRjNKNndPdlJIc2htWkQ1c0xtV3lVUTlFVkxIdXpTNkwzdi13ZDF6VWlMVHRRMElFZkNJTWxPVFlzSXdfVWVkT3pJUGpnT2NHRy0?oc=5",
-     "fecha": "2026-05-01T07:00:00Z",
-     "medio": "IMER Noticias"
+     "titulo": "Fallece a los 96 años Dolores Huerta, pionera del movimiento sindical y campesino en los EE.UU.",
+     "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qUmtNWllvTGh4THNWNUtYczlhSV9sdS1wWDRyTWRpZXpibEZ1Y01aU2p5azhlU0RFQ3VsbHk4NXNoeEN5RlIwU2ZmaFctUWdNSVhDSjB5Z25RWjJSLU0tbmNwTlhGVFl0UldZWWlwTjVrQ0xa?oc=5",
+     "fecha": "2026-10-28T07:00:00Z",
+     "medio": "teleSUR"
     },
     {
-     "titulo": "El secreto que guardó 60 años la líder sindical Dolores Huerta y la importancia de su legado",
-     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNnRWbUJ2bHJfUlhubXI5b09reHdTOXhmcFZHQkZ5UjZMaDN2V0lMZHNDY29hQVkzU2E4TkdGYVdUc1I1QVhoQzBJbnZYaERlLTVqV01YeWs1QzdTTFJhaElFODlic0Etbld0TmJMS3FpcWpmVENfNld3cEFTZWpaRGhnZEhLWWtIYi1MM2ctTGkyUWlmTVJoYUhIZkhUNHI1by1BdFg5TVFpMlJxVXdWY1E2YUg2bWR3aHhvdHVkUDRqM2NZVFJYdk1DVEY3UDUwOXVTTEtSRXFmdTBRM3I0NUlaWQ?oc=5",
-     "fecha": "2026-03-19T07:00:00Z",
-     "medio": "Los Angeles Times"
-    },
-    {
-     "titulo": "Sindicato de Trabajadores Agrícolas se retira de homenajes a César Chávez tras acusaciones de abuso",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPanV4SERjMDlqU3EzTlU3OXBCMmVMM1dyWXBoWkxLLVYzMUhpeUVFM0Ric0NDSE9Cb1g3RC0tV0JOZFdCMW9yamZTT0FUX3FNb180RXh3eHNwZ2M2WWlpelYwQ3V6SnU2ZFJfakVyVDdPa1VpNzRnLUlrWS0yRHdOSXNncUhaTGxrbWpJTVpSM0xDX2MzeFRjRkk5a0xEYUpOUmZtOGlHbmdBdHJiRk44TzNvSUFicklZdjZLUVlDMDVFSEViRGk5QkxVOWRuQ2htYkkxWlE1dlpSM0FpZDNFbUhodXM?oc=5",
-     "fecha": "2026-03-18T07:00:00Z",
-     "medio": "El Sol de México"
-    },
-    {
-     "titulo": "UFW reconoce acusaciones de abuso “profundamente preocupantes” contra su histórico fundador César Chávez",
-     "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUERnNzZOOGtJdTlxMlNIUWh1M2pUQXNLSDlmY0xpZTQ2RFVjb0tZSWk0VUtvMlQtWngtWXBlbjVJYmYzOGFrUndRM0d1MW9oQ3V3aWxoZ0NIY3NEV3FYX050QnlzVTNfNEp5bUlINWJIVWlPTVVJbFlXUmZ3SUl3MGtUOGpBU2cwZXgwazh5VzBOYUx6NkgwWHJUNFl6SnNJZXozaWtJVDgtcy0yYzBaZ1duWnlMZ1RBeFMyN3JHZGhTTlBwVnc4U2NSWmV5bWExUGlWbzBFZ9IB6wFBVV95cUxOdGZKLVBPeFpxRlBTZ0tJbkZnMWhhTnRBSnA4UTBaN2szRVFLZlc1Rm1pNVhRb1ZzTTdBdUJnV05vUTRjVEdxSE9KQUtGOFBXd2YycVhkOThVd2ppMmxvR0x3Vzk3SXU4bmRiQXZQRjRUcTk5Q2ZSZzZ2TFh0clpGZHFhZkFVbmF5SFlfSjFhMmUxUFF1ZVBjY3RnQ2dUdHhCdHRkLXUxNlJYRmw5bU1zdF9NeExRd2hlZk90LURrQkYwMDMtb2FnaktUZENiNmRTLUFBQnRnV3k1UG0tZFpXa2l0VTVTVlJQOXBv?oc=5",
-     "fecha": "2026-03-17T07:00:00Z",
-     "medio": "EL PAÍS"
-    },
-    {
-     "titulo": "Agricultores franceses del principal sindicato llevan su protesta ante la residencia de Macron en la playa",
-     "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPandTb2g1QzA4RG9kcmZaVmV2R0o2bG0tRWgzeHVDQ3Y4bEZtSG5lSGNuazV2X0lKbmgyak9yaUJhQmk3MGI4MDlGRGw3NU9jZThMWjVyWnN2TG5qUkNfb0JwNEdMc2oyanNSUENVMkNTUjRsd29lUzM3OElCeDdqbEl2Mk5lMFJoVlVIa19VNDFReG1BbFh5clliNlpwRmNMS1lLZE05OWtyWVN1V3dXZTNQVG1EU3JBNDVuRlRzbFdtX1V0Y1J4WUFxRjk4VDRaYTVlMlhWcGFEdlhFMGxuQg?oc=5",
-     "fecha": "2025-12-19T08:00:00Z",
-     "medio": "RTVE.es"
-    },
-    {
-     "titulo": "La Entrevista - El ICE “está prácticamente secuestrando” migrantes, denuncia sindicato agrícola de EE. UU.",
-     "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSUdSMWlHSDFIN19oclYxbGRQZHQ2ek52LVR3MEVBRXBfVHRFdE9aYmxQX2tVRldMcEtna2hUVUFrLUJXNUJfQ3dfdjY3XzI5VE5WODF0SUF3S1Z5ZDRoTzZ6X2FKZ0JJZHU1SUFwcVFnZUtwN3prdnEwOVNMeVpvRDdSamVMMkhveTJzY1hndnNhUmc0bjVqSGhRTkpla0h4NVd6TDdpTFZuOElaNlA3Z3ZiVHc2Vl9rbHpEQ1JPMzFtaWk0XzdHWm9BZVcyTFZDbFpwN1BCWGNsWE56bVBHR3FzbVFNY1lvdFRnTFZ2cnlBaXM?oc=5",
-     "fecha": "2025-07-22T07:00:00Z",
-     "medio": "France 24"
+     "titulo": "Muere Dolores Huerta, pionera latina del movimiento sindical y campesino en EE.UU.",
+     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObEJXdkctVXl3bnpRQkFPb2xxU0J5cTdZdm4zaWw1bGhlODByb19XNUJGU1NZN3ZhbmpNbHROQmljQWNVY2ZwNjZ3SWhCMlFBVnctcTRvTkZpT2NrUC1mNmhPM1drcmlCTkNsVDNjcE1URV9nUFNRdmtFTW5KQU15Wmc1WjNzTmU5T2dqaDB3ZjFxR1lIaDNQV0d0SHlERlFBdWtBcnlnTHVwdmUyLWR2ZQ?oc=5",
+     "fecha": "2026-10-28T07:00:00Z",
+     "medio": "Aristegui Noticias"
     }
    ]
   },
@@ -428,7 +428,7 @@
     {
      "titulo": "Ley 40 Horas: ¿Cuándo será la próxima reducción de la jornada laboral en Chile?",
      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXpmWVNTa3dsSFFqUHY0MlVXWFdwNXlzenJkeW1Od1p6QTdkYU9IU1VVRDZkRDJETE9iSGt4cnAxNVJCNmJrZ052ajRFYWZGRjlQSFFuSXFHTlVQS0Rld3VZVnBLdVVRai14SVdXbzNHR096Ykw4OTc2c1BFNkhpV3o2VXpQc1EzMlVvSzJTMXdrVVkwWnJBd0RqRVZMYnpzd0RfdXhua2dVX2Fab2FYa29PLVlpX2I0?oc=5",
-     "fecha": "2026-11-16T19:54:02Z",
+     "fecha": "2026-11-16T08:00:00Z",
      "medio": "Canal 13"
     },
     {
@@ -456,6 +456,12 @@
      "medio": "Revista Logistec"
     },
     {
+     "titulo": "Ley 40 Horas: cuándo será la próxima reducción y qué pasa con el artículo 22 del Código del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS0RvYnQzUUxvNUJxdXoyRFN6X2VvLWh6UUVMbVhrU0lfTXZRRUNtdV96RVM5UEdUQ3hyckdKeEV2UzVtRnZIR2ZaYTNjeFVlUXRZZklpZFdsVEFlcXU4TDBTX1ZkRU15MEZyQ2pHUGxlUWhidnpOSmtlZjduM3E2cWp5bjhrXzJiQjRDcDUxOTVPWHNPMXdYRmMwWDVKYVI0TGRoN0VfcjRwXzJMN0Z1eHFBbUNaQkx2QjRxQnc3dF8yYzVjRVJEUW13aXBpNktLdnZJaEZYUjNjTmdT?oc=5",
+     "fecha": "2026-11-10T08:00:00Z",
+     "medio": "Chilevisión"
+    },
+    {
      "titulo": "Ley 40 horas: cuándo es la próxima reducción y a quiénes no aplica esta normativa",
      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWHpzd09TeEVrTzJLcVNhc1R2bDAxcGhSQTg1TWtZczVyVFNMOE5fUzNzMlotOFc5Sk5wSlRVV01LeFM1Z3ZKVlR0NnBlRTV1cjRoc1N3cGxoV285dV9DQ3h0WmNqLU1lblpNNEh6OFdVZWNheHlpcGdzejM4Ymx4NllWRFZhU3NFbFB4bUZpdWVTRmZlc1g0cEpZTmpBUmdyOW9PVmJicjNKSGluNU1LYTlYN3hIaDVheUJBdWhYWlFxekxjeVZ3QncwUVpycUdtcnVjSU15QWRlUXBxcU5RUHlQcXNycmdJ?oc=5",
      "fecha": "2026-11-09T08:00:00Z",
@@ -472,12 +478,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjcxMDBXNFJOeDJFZWFBSlRPWHhQY1h6a1hXbVBRc1FibEZXVzhwYUV6blVfQXZxVnVydDlKRThMTl96SnE4RUlRODl6am1zMmUxMDhaRVMwVU1CbG55cEhLOW9OMVdZTVBkeHhfZmp1aG42aHQyOVdzS1FNT242NnVmalJrRjBoenlFZUdNMFJEV3BuZ0JYMUw1MUhhY2N6UkdKN3IyVQ?oc=5",
      "fecha": "2026-11-09T08:00:00Z",
      "medio": "Enfoque Digital TV"
-    },
-    {
-     "titulo": "Gobierno alista ley miscelánea con 10 medidas de adaptabilidad laboral: incluirá contratos por hora y cambios a las 40 horas",
-     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb3NmWWk5bzE3RTNKdHppc3pHSTlSdk5yekI0Rm40cnA0UG9fZDY1aE1SNUhISkhCMjhKQXBkeGRJUWlZX2NrVlpoVnlCTkJxNVpIQU1CbnprQUJtMW0wTjZEcTZGY2FZUkpNdTQ5QkV4LXZJZ3J4T28xODZNQ050dVQxc0tlRFRVOGhtdllvMkpEX0htTXF3Unp2eGVXZDdLTU9DY1ZzWGNXbVpFYkFzZW54bXdOZnhkYnZoU29ZbUdLdXNrbkFsMFBJMnpXbW1YOG4ydmtHNlQyWUQwTEpocWt4WTVJZHJPRVJLSk9NQTTSAYQCQVVfeXFMT3hoUmRjWkNGTzFGVDZzVTlGMFdWY0Rha1kzaHJvclVtVGgtbFl0SGhlNXJmMktpaHFxN0Q3cGVXaHpCeHh1R2xJS1FmSWQ0NElZQUkzX19DM3RCRU02STE5OHZINkR0aHo2QnRBT2MwdkpZak9OSEp5SWZERlUzNkhtckQtWjd4VXFLTHEzRjdxWG5iVnBTXzhLcXg1Y2ViZ0E1SDBVbkFiWGhocG5BQ3lGOE5HeXBCM2FkZVktNHRxMFhYMTU1WlVjNTB5MEFiOUZGUHZKMThsazZvOXVpWURnc2V5bmg3d3dCOTdjY19aVDBURXlSWmJJdWRIR1VlNUtGZFM?oc=5",
-     "fecha": "2026-11-06T08:00:00Z",
-     "medio": "ADN Radio"
     }
    ]
   }
