@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T22:55:07Z",
+ "actualizado": "2026-11-28T08:25:37Z",
  "fuentes": [
   {
    "clave": "banca",
@@ -34,6 +34,12 @@
      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRFZZZjNVcHhGZ0hhRHNabUtuZDVyWTZhUDFyakZ1UDdQNFBGSVVLS0RPeThSOTltdmlQcm9DOEhRa2tXN2tFeFRoN2tuOEI1Uy12NEIxaGFrUzN5WXNLaUt6TWtIZzN1cnZJdWx4Mk0wMlNRMGFQN0NaYXpFUWl1WWZ4N3NtdVNnakpxd0c4ZWU1SHRKY1hScE1mYTVITERHMFI1elVvUEsxNkNmT21wVlVGZERsZFVjQjZieEF5cU5MUGE1aUxuM2V4RHhXWVB0VV9QMFB3YWVwX044eFlyRnZB?oc=5",
      "fecha": "2026-11-25T20:40:00Z",
      "medio": "Mi bolsillo"
+    },
+    {
+     "titulo": "De Chile al mundo: diez años de WorkCafé, el modelo que transformó la relación de Santander con sus clientes",
+     "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON3k0NDlMbHRxUWJwdjdxVTQwU1ZmUDcxUHZhQmxLd04xU25ZTmw0M3VnOWpENFBhcFFpcjF1OFVXLVR2S0NnaWUwOEstQnlwRzRkeE9xX2FGUlZoQ2hfVVRwTzZNMnJwY1JwUmtnOU1MYml5d3RVODNkT0JFWXhnczJVMUkxRGtpSFlWcXJKSVRjS2RCWmplOE0ybXkycDRxeXlwTVJwZmpVcl83dkJqTzJJWExSeDBqemd6ZkE5TWxOZ3ZQRE5UVmFoTXk5QXhsOEE?oc=5",
+     "fecha": "2026-11-24T23:06:16Z",
+     "medio": "Diario Financiero"
     },
     {
      "titulo": "Santander Chile logra su mejor resultado en la evaluación de sostenibilidad de S&P Global",
@@ -88,12 +94,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdGJBZ3ZFeDI1cHVrTjA3amYzSndDemdGTDZsb2UxLUF5T3VUOFd5ZVJHTVNEd1ZvMzRyNEtKVm9LbHZTWWpoMFgxM1l2XzhqT1d5SDI0X2REelhpeEcta09kNHI5WGxkZ1VtMk53RUxieFZfdjliUDlVTnlVWVE2Z2JKdUhhd0tnX1U1NjBnaE1lQUlhbVUtZFNGT1VnTml1NmVYaG41N3Y4akYtd2huN2ZWRlNoVHpYN0E3ajZqYzhiR2xFbXNvWjRHTDRjYVNOY19yMkYwc19vM0ppN25hZmU5ZmxUM0YwcEdVSWVR?oc=5",
      "fecha": "2026-07-12T07:00:00Z",
      "medio": "Banco Santander Chile"
-    },
-    {
-     "titulo": "Cae la red más grande de lavado de dinero del Tren de Aragua: detenido ejecutivo del Banco Santander",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeTg0Wm1wc2R5QkNsc3JVaE5Sek5UeVI1ZlF3YXlHaU1jMHdua21hOXBpOG9RZ2xaanhwVDFwbWt6bl9kYWpzb0hCeTBXNFRWOE9QdmJDcGdITVJqVkFnakpFNEs0WVZyalBBLTZtNElHeGdvMjBiQXA0Xy10TUVxQzU2YkR6anpMb2xvQ1UxdjQ0dElCUlNQS0F5dkYzQ3E5NUNTM3ZBZ2M0NENjOGxiZTZQX1lGV1JhdUpXR21nNm45dW5BRmttYTZiRVJKVHE5Yjlr?oc=5",
-     "fecha": "2026-06-02T07:00:00Z",
-     "medio": "- CIPER Chile"
     }
    ]
   },
@@ -102,28 +102,22 @@
    "nombre": "CMF y Banco Central",
    "items": [
     {
+     "titulo": "Banco Central reduce Tasa de Política Monetaria al cierre del año para dinamizar economía",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYm8ya0Fsc0U5YW9RY1A4MGtya0toczZqRjNDQS16ZU02N21NNWt5Qlc3QWtZVmhxTzFOajMzeDE1WE5qeDhCSHhNa3R5RGhJX0ViSEJLZW1aV0xOZEhDcGo0TDdOb3ZYclNJOHh2dXlOWnpmS0NZX3B0RFZ5QU1FWW9GU1hhVlVoVy1oZzgwd2Jib1ZxalJLd3dEVmFHSndVQ09NYy1QTk5SemhBNGlUSlZsamoyOEQwYjcxNm1hSWVwaFNEeXc?oc=5",
+     "fecha": "2026-11-28T01:54:12Z",
+     "medio": "Periódico La República (Costa Rica)"
+    },
+    {
+     "titulo": "El Banco Central de Nicaragua mantendrá fijo el córdoba frente al dólar durante 2027",
+     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ19sVE9uZDVBSEVfZWw0QXBQQnZ4eWExUFVqeDRSTEtUbzh0bVFwZlp5UHNxZTdhcVdVN09yeHd2UG1rLXNFaC1NTElubkRVWHdxVmUzdldWSXFING00Mmh5eU1fYk1Eb2RFbjhiODZObUJHVVhSSVN3M3lCOTZOR2loajJLX0VMT000dlZsdmw2MHNzcEpKVU9nTG9RcHZBRExyeGxiN2Uta3RUcHR1M1RhN3pmTTFUZmdLTjV1WUpReTZZdy1LNGlB0gHkAUFVX3lxTE1xQkFucldtQmRYbGlxbU5heG5MTGF6UjYxYWgzSHFUcXc4MmVlUXNnZGx2NVVlWlpWblh5d3ZEUEJPbndJd2dQcThaMGtTMWh1cWdaV3lDaDAwZC14akFxcFFuVDZxYnJGQjlEZVlkRGJ5ZFJmdEF0YmJ0WTNHbFZQdFFEMWR1dm9oUlRMaVluSmdaOUN5UkxzNjVQdnlwRVNQSGJlNjRPT0tPZUhHLXFCRVRYYzVEQjFIUVhTdmdWSUdWaDRUUWd0aTd6ZnFUZlNTS3BGdjRzWk8xSnNBem1Md2NIdw?oc=5",
+     "fecha": "2026-11-28T00:36:00Z",
+     "medio": "Infobae"
+    },
+    {
      "titulo": "Banco Central de Costa Rica reduce la Tasa de Política Monetaria al 2.75%: ¿Cómo impactará en los préstamos y la economía?",
      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWkN5TjRwcVdVa3pkMjJrNzAwcGNwblFmSmJOeV85MkFTSGxwN1o3YTlwYTFJNEtFbHFLZlk4RDYtcWJfWGJOY2ZrUEtibkNQQWF6U0VQRHdRT0xpMlhwTnhvSlJ5SllMSUVuMHdXWVpMRGxwaU9uVHo3UTBvazJCcUlNb3RfeFd3S0wxcEl5YUVGczZabDViZ0stYkNwVTRpVTV3VnFJSExqWVl1RXFPN04wekt2NklsQW1XR2VyV2JxT3RJbTRkLTdkT25JbnVYLTRhS28xdXNWVUQ0eVhBcVgwYTM0THdpMzVNQ3BRaW1LSTc0dHFr0gGSAkFVX3lxTE04dkRGVFVTODR1UHVxMTdKaXE0RzdXbDNIWTJmbG1BTnZrVjlPV0N1OWNhOVBWalQxMkpKR3I4VkZqcUdaNzdISDl5S2VWQzMwRGUxSElRU281a3ZrU2NqUmc2V3BBSGdpQWlUdDg1dXkwMmJsS21mQ1o4NHpybzJKN2pRc3loc3Rld3RkUl9Lamw5Zk40akxONzJrMEFWY2hoaFlMWE9hX25tMEEyalUydFZqZ3p3aWU1YlhLNXUtLTc3UEJWYlU5c1BDSnZfUDNJLTJMa1dlblM5UlB1QmZCZE91djVlUE9CSGlpSW1YZUFheThGT0owVWNwM084Xy1VVmk2d2p5dFhBSHkxWkt5S0E?oc=5",
      "fecha": "2026-11-27T21:35:00Z",
      "medio": "Infobae"
-    },
-    {
-     "titulo": "Banco Central reduce Tasa de Política Monetaria al cierre del año para dinamizar economía",
-     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYm8ya0Fsc0U5YW9RY1A4MGtya0toczZqRjNDQS16ZU02N21NNWt5Qlc3QWtZVmhxTzFOajMzeDE1WE5qeDhCSHhNa3R5RGhJX0ViSEJLZW1aV0xOZEhDcGo0TDdOb3ZYclNJOHh2dXlOWnpmS0NZX3B0RFZ5QU1FWW9GU1hhVlVoVy1oZzgwd2Jib1ZxalJLd3dEVmFHSndVQ09NYy1QTk5SemhBNGlUSlZsamoyOEQwYjcxNm1hSWVwaFNEeXc?oc=5",
-     "fecha": "2026-11-27T17:55:29Z",
-     "medio": "Periódico La República (Costa Rica)"
-    },
-    {
-     "titulo": "Banco Central reduce TPM a 2,75%: ¿Cómo impactará préstamos y el tipo de cambio?",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHBhQWJ4RlVoekhMR09mQnFxZUxZSUgyVWVJQWRVTVRGOVlVSTBkN1VHelNlTjdaVVRFUVJHOVB6VlM4ZTV2U0lmWmEtU2RrajlDc29rMjM4YmJta2hOR0VPcGFXZEdZZVlTN1BJcnlROEIzT1dyazRrclVGbW12dVhKbEYwZi1YR3FBcjdhbVhJdDFxd3NmZnR3VF9HZUR6WmNhMk5hVEhsNUY2WGhQSE4tZDFGLTA?oc=5",
-     "fecha": "2026-11-27T17:02:26Z",
-     "medio": "Teletica"
-    },
-    {
-     "titulo": "Banco Central redujo Tasa de Política Monetaria: ¿Cómo impacta a los deudores?",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQm53N0lwQ3ZUZmRlSTdfRW40Qy1KQzhmT0x2Y3lEWmFyeExrakxKa3JaRGxtX2UybGk2YXlkUGpHcm1RVXRtWjZSU1F2SG5DRWo2VU9veXRoTkprT1ZuUWhlTlRCbnFoOTYwcjNkOU1qQlJoRUxfX2ZrbUxhMFdjLVlFWlFhcGhUSXo5UG5VOW9qODJraV80ekhiNXFIdVBQeVdWVTlaOG1fWkUxU2ZhZ09xY2tMSHc?oc=5",
-     "fecha": "2026-11-27T15:53:57Z",
-     "medio": "Radio Monumental"
     },
     {
      "titulo": "Banco Central baja la Tasa de Política Monetaria de 3% a 2,75%",
@@ -168,6 +162,12 @@
      "medio": "Nuevo Poder"
     },
     {
+     "titulo": "Consejero del Banco Central asegura: “El mercado cambiario ha funcionado con normalidad”",
+     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeUowVVVhLS1oeUxfWEhXS1dQN2xacE13eVY2MUtsOFRoeDk2MUlMaVRRaGxzT1paV0pxNlFvOFFOQUNNVGZWdnYydGZNOEk0MXVMcnBOU2k0VDdSUDZnczY1bHNJVTVFSU9oUlNxaHlSM0FJZW50V2M0d0Z2OEg3TW1JUlgyWWJLSHRpenNyX0NjQl9hU1pzY3JKVDd3T0Vkalhzb2NBcXlENThqSDIxVTEtUVFPdUpFdnpyem9IRQ?oc=5",
+     "fecha": "2026-11-23T15:17:09Z",
+     "medio": "The Clinic"
+    },
+    {
      "titulo": "Biministro Mas sostiene que existe espacio para que el Banco Central avance hacia una tasa expansiva",
      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVWI5c0tJWUEwVmxwRXJkWWhxd3JFNldVYWVHOHc5TkpfaU9Hci1QVlpiQy1vNEJ5OVhaRTg5Qjl3NkFWbjNEUVB0Y3JzeXZlRDZrNjVUMDgtdmo1SEtqbzFGMU1jRWNQZUQ3UF9sc2plTzhyb3B2THp1MXZkazZEWVpVVHFOZGtYRjdFakVGOW9Na2lpeEE0ZFpTLUk2Z056dzZKNHlKeHliV0FtYVllTmtUTGhLSmI2NHhxZUR1a21mdUc4VG04cVU4U2M1QTFPck5F0gH0AUFVX3lxTE9mNlRYbWtma0JZZTdtOGx6VVpWTUpGaTVTZ2s4RTQ5Q0NPcTEyaklEM3lseUpXWXYzU1hDTVBYN1VQbGNaRzVfUEZNekVpLW1mMHM2aE15a3djNHRXT0lEMHl0dzRhM0NvX2lHcVNDQXdHVmFSQ3BmTDQ1bHgwSXVRUk1zQ2puU2hETmlHT1poTkJVRHdHMHhueEczekI1ZEF2R3NtNEJlNmY5TDM3Z0RhLVZ0dEU3WGh3ZmQ0WTVpbGZGU0k0V2d5TkszMGd5bHJGZG0wWG5wTjVIRmQ4UmM3amNicGZOZ2MzTkxrcURCNTJxYjI?oc=5",
      "fecha": "2026-11-23T14:50:00Z",
@@ -186,10 +186,10 @@
      "medio": "Universidad de Chile"
     },
     {
-     "titulo": "Petróleo e inflación: Las razones que llevaron al Banco Central a evaluar una tasa de 4,75%",
-     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTVaOEpTUVdMT0FMNlNGWjRRUklQajkzSW1jcVczS1lEM2paZGVMekhnczJlTnQ3QXh5MFhIaFluMDJsQ0hXRUJ0em9Dek9Odmc3TlloMzFwWVcwOGhQZkpCUnliTlZsZ3pxY25SQ0NvUm9HNU5udUgyUUJ3NHpWWmJnX2FsSWpMakZoUWdMWFdvSllDYmRZZ2g4bk5Qay01Z1djR3RVMFdVejRQY0dwaFZpV2hpT0k?oc=5",
+     "titulo": "Banco de Inglaterra sube su tasa de interés por primera vez en más de tres años",
+     "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUYtOU9ZYlduY0gycjZNZWNZczk0X1JOVGl2SDlxWDByTVF4d0pBWkpCT2x6RThXSTFTLXcxY2lUWlJBWFBBYVJRR3c5X2pDYW1xdVlEMzR5SGtUbUt5ZXFqVHBnRmJySEdVZExlRHA4eExmS1lMVTRFV2VNWlhRZ1R0d1pRdFNxV2NCY1ZUd3p3YXdQaDlXN2lGdEdpbFIwSUw2UlNsVElDaGNaTE9lWnBMY2htc29FcTViZtIB3gFBVV95cUxPVEFTbzg1UWdxZnR0aWpoZEVPQUxwUVZ0SHlWOXU4MWoxeGV3cThWX3lMaGFtaTZDNjR6SVRTR3ZHUU9hVzFLR0N2U3BfSlR5Q0xzYktiWkxvaEZEMm52WXNJWjhUZ0w5cGdONVItUGxWaDJrWHZaS2pmRTRzeWVQa1ZCZC1oVkpyeXcxX1MxMFFCQmxzelZYNmdhaVZVRWVYeHVXZU5YLXhRUWV5cXdxT3ZTMl9yOXNlcVY0TVdzVUNsd2xLcE13ODNhdFRTeWUtemcxaUJKOG5JaUI3TEE?oc=5",
      "fecha": "2026-11-05T08:00:00Z",
-     "medio": "Chócale"
+     "medio": "La Tercera"
     }
    ]
   },
@@ -212,7 +212,7 @@
     {
      "titulo": "El salario inicial de los bancarios supera los $2,6 millones: así quedó la escala salarial en noviembre",
      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZlhKU1dsRjJzSkQ3R0pkUFNvVXZNNTlNQlR5VkF1MFZZYXFFek41TzBHQURjR3lTenJxU3N3RXNIT2U2UXFCdkc5TDJUY21ZNGY5eGV0Z3hnTzdkZ3J1NVdWSWttYTdqMno2bGdVRGRmNnREc08xa29XMnByWkRSakhfUVZueFlNOENiLXd2QTFabHFoUzFDYWdPWGdfdnludWdjd19scXdIR2xJOFhKM2VOOTdYNnVDd0F6VzY0V2p3c0tGMnVRc19LcUpCUEdSeU93SVppT3RVSE3SAeABQVVfeXFMTzFyd3RkcWNPbDJFZTBIUG9ZWk1PakJ6Y0hBOUVXTmZnaFlrQjh2UHBBT0FkSTdhQjhFc1JLWVB6OGw4T183eGR0MWs3Sk81UHh1UWtoV2Y5VVlqQ3hsS3d4ZnQzbEQ5eDhhbEdpNndydERaYVBLeVUxVkRXck10ZlJERlE0NjJqYUZOemhzdXBVVlNWUExQV3pnS1FMUTJVckY2cnZwZzVjYy00X0pvQ3hzWmxYS1g1ZlAtdDFpUUsyUWxUbGFibW03bXlmZXFqN0RKMmF1QlN2ODd6enc1OVc?oc=5",
-     "fecha": "2026-11-17T17:29:00Z",
+     "fecha": "2026-11-17T08:00:00Z",
      "medio": "Sitio Andino"
     },
     {
@@ -294,10 +294,22 @@
    "nombre": "Leyes laborales",
    "items": [
     {
+     "titulo": "Ingreso a Chile será hasta las 22 y salida hasta las 21:40 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGI2bEVyVW1EZ3BhWUtFekJCNk1ubTF1bGdyQjg0QWhjeGtQSmRMV2FkcjhvTEtRaGdaRGJxV0VvdmxaQzFHZmlueXdTa2RvQ1FabzM3WUt5ZWJIdHIzMExBb2Y5TFBRZ0RCckw5SDUtb3dzREVhU3ZfQXVEdlBiWlhOVXhJbDVKSmh6WFd4bWdfLVA1Wk92RkNHOTJ1Qy1B?oc=5",
+     "fecha": "2026-11-27T23:51:11Z",
+     "medio": "El Pingüino"
+    },
+    {
      "titulo": "Santander Chile cierra negociación colectiva con foco en conciliación de la vida familiar y laboral, vivienda y educación",
      "enlace": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPSWRrRUxCV25KRkp4RXhoNkJ2NThyS0pPUWxnTUN5czU2TUhMLWpaNXJENlJZUlhhbGdBTFFnQjFhLXpvdHMwOGRXYTN3YVJPOHFjdTEwZjJkVG8taEVhT2FkNDVXQzVxQ2ZDSWdRMTBjY0FveGtrY0dsSTV6UDBPS0RVUXFRaUtsZTBReDVxeXAtZ2xmX2hVNW01Y25uR0NpazZjS2c5bVFmOUpOWUZkQjJkMWlzQnU3a00xcV9KYUhjLUNYbnpKSHdmZ2NRSURVcVl0ZGQzTXphaGVGSWd4NDk3NDFsOTBnak9XVUw5djlyTUdVdk1GMlU4dnBMaTZDa1YxbkQwcGtRcG1kNlFxU2FJeDNFRjRPQl82Mw?oc=5",
      "fecha": "2026-11-26T14:29:31Z",
      "medio": "Banco Santander Chile"
+    },
+    {
+     "titulo": "Altas temperaturas: conoce los derechos de los trabajadores en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjhpM2JIQUlqOEtqaUpaSXI5blN3UWxHUjFubU9iTEdZZElTaXc1dnFEYWJudEhoQlhVaUlnYXA3Nkl6REZ2eENycHZjOEt4NHZKa0xxUWdEZm1xeUtlM0hBN2NWVWUxd2Q5NHhDMlhqdUVFWVdhdzg3MzJteWxNVkx2WmJtekI2cVJ3RGNn?oc=5",
+     "fecha": "2026-11-25T23:21:00Z",
+     "medio": "Radio Canal 95"
     },
     {
      "titulo": "Mesa del Sector Público acusa falta de respuestas del Gobierno en negociación colectiva e insiste en reajuste del 6,3% y extensión del teletrabajo",
@@ -312,76 +324,64 @@
      "medio": "Enfoque Digital TV"
     },
     {
-     "titulo": "Ley de 40 horas en Chile: ¿Cuándo será la próxima reducción de la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYV85UFBvN2pCM3VER1FHYzc0SEFzTjI5RHg0Y195d21ZWG5wMVFOZkVQX1VkRS1PNUJKTkRjcTZiRDJSUnpDQXBXWFMyQms3NGpKZFB2TXladjBTSVVXTlRYOURhWFJKUGJOM3luYVdKczNpZk1YdUdGbkk4OWhHUndpWnlvU3RkLXMwcFVWMFRuSkNHSUIycHVnWkI5dlMxeVI4VF8zeTdfMnRueVVhYjNaU1k?oc=5",
-     "fecha": "2026-11-23T22:08:17Z",
-     "medio": "Soy de Osorno"
-    },
-    {
-     "titulo": "Ley de 40 horas: cuándo será la próxima reducción de la jornada laboral en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQzNnUFZqY2lmX21PVUVrVWtLOU5Vb1FreF9zUEJmcE1aM3BHM1Utamw1V2lPa0Y4Z3YtbEFrSndyTHFuMkZFMXBQMTV1S3JEMXlMaV9tYW5pSmZkMmJvRXNtZmRHZlRFWk9vTTJaVFphRW5iTXhaZGRpUVVuaTF2UjdoVDI3T25JeHp6Tkl6Y28yWU02dGxBei04UjUyTzlFdUgwQVFVbm1QcGhCUUFEei02Wko3LXpqLTBheGkyMUFuVEp4Z2hYeVpSaw?oc=5",
-     "fecha": "2026-11-21T08:00:00Z",
-     "medio": "El Mostrador"
-    },
-    {
-     "titulo": "Brasil reduce la jornada laboral: Lula establece dos días de descanso sin recortar salarios",
-     "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGd1Zks2b3E1N3RvX3RmeHJsN2JQakZQdFU5ZmhFN2dDTUIzaEhicTlCak45dDBSTHRIYmZPQ1pGT3JuVDByQi02cGJNQ2tGamdTQVNNclYyN2JBSDRSTGNVQVM5M1RhTHVVeHFKd2FZUlVIMHNJOS1NMzdmdEtNVVN2eFVReS12c1JudEJwT004cnZQUEZQcTVqZjlFbXdBUjZ3d18wTUEzaTRjcG84dVpUQUdyeFB3RVdva2tzQ1NwT2JUZ0lNWnNUMENpLXhiVTRN?oc=5",
-     "fecha": "2026-11-19T08:00:00Z",
-     "medio": "Publimetro"
-    },
-    {
-     "titulo": "Ley 40 Horas: ¿Cuándo será la próxima reducción de la jornada laboral en Chile?",
-     "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXpmWVNTa3dsSFFqUHY0MlVXWFdwNXlzenJkeW1Od1p6QTdkYU9IU1VVRDZkRDJETE9iSGt4cnAxNVJCNmJrZ052ajRFYWZGRjlQSFFuSXFHTlVQS0Rld3VZVnBLdVVRai14SVdXbzNHR096Ykw4OTc2c1BFNkhpV3o2VXpQc1EzMlVvSzJTMXdrVVkwWnJBd0RqRVZMYnpzd0RfdXhua2dVX2Fab2FYa29PLVlpX2I0?oc=5",
-     "fecha": "2026-11-16T08:00:00Z",
-     "medio": "Canal 13"
-    },
-    {
-     "titulo": "Ley de 40 horas: ¿Cuándo se reducirá nuevamente la jornada laboral?",
-     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJ4WUp2SjZPRmhzUlVERHVLWTZRTUxFeV9LVVNwWXJZVWxCbkE4U1lKODBKTWhTRjd4X2lZZlZVdmljY3NEenpMYWt6TmFBWlJpOFRuZUhJdWg4X0YzNDFfOWx2U1JFbFY3Xy04YktMQWkzdlljM3dqem0xZWNZTDdDWS1mTk1EVFY4U1BuOEVsRGpyaU5CQkh3UEE4M3V3dlE?oc=5",
-     "fecha": "2026-11-15T08:00:00Z",
-     "medio": "CNN Chile"
-    },
-    {
-     "titulo": "Sindicato Sandvik Chile Nº 2 concreta acuerdo en negociación colectiva: La unidad y la organización sindical permitieron avanzar en mejores condiciones para los trabajadores",
-     "enlace": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNN3pieGlrbWZCbWsydmEzU2hIM2RiVTZuRnI4TDRQbHRVTGJoUE5PS3UtZWpzVTlkbllYNUU0VG93NjROUHlpWVM0QUNQaV9IcVB5MWRFY2JmMzM4RWVqN0ZSVzdKQ3RNZV9ZeGdxenBvR0dOMjJiNV9IeUhYVmt2SnB2OHRUS2d4STU2bVdSeDZiOFJ2eG53Sjg2YVJIeUkybENBY2RWSU01bWV2dVJXM1VKZHdFTkxMa193c1FOR3JHM2JteUxyT2ZBUHlsSkhlM0lHWUFmQlQ3dUhhTnFoUkMzOTVrdTQ5TWlxYkJka2dDMTdra2YzYU43cmJtRF9OZFk4bXZkN3FhcFo0VkZwaDYwQWxPUnp2aVlXUnFQRTc5bm90MUNEckh2ck9PQzR3T2hEZ2JPZUxNaF82X28wNjFjb19pVEpqTXNGMWpNcGE?oc=5",
-     "fecha": "2026-11-11T08:00:00Z",
-     "medio": "Confederación de Trabajadores del Cobre"
-    },
-    {
      "titulo": "Ley de 40 horas en Chile: cuándo es la próxima reducción en la jornada laboral y qué trabajadores quedan excluidos",
      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXFaLVE4bTVpOWJ4cFRpdTNNN3AtX3l6SkkwN2ZrS1FBU3cxQ1g5SldxT3hPTm5EaVM4djFMSTJ5ZnQ1cFJveU1BTGlEMGg4Y1Z0NUFuUTM1ZGFOdnY4SGUybzJjZ3d2bWZfLXkzc3ZYWW9rYllheTA0b1ZOcnYyd0pUbTZ2X3VqVkFJc1ZDNVBMcDdIYjU5ck5QWjNaRHlqYmkzamZBYmJOejBQMEc2RHdaSnRMdm1DRUR0dW5NU3g0N05CWUFNaUlNVWNBWW9EMHROVGM0U185UmF1OFBWeGpmWlgtTFBMVnfSAf4BQVVfeXFMUGJ5MFRCNThPUjlMQS1wOTY2NzlVcEtHQnpsMEd2SDNLdmRkSjFmZmVqVXNGMDY4NWJLVkhhNWxEUVlzMU9DYmRDdE1DQ1JnOUNGSk9BVHg1cWpudVJWT0VzMThIcUkycGxOS0tCMTdHQTN3OFVHTW41ZXFyZ2RlVEtJRFYtcU9WOEx3bHhvdFNMNS10b1dnRlAzWnQxMVJTd3VCZ0RENzNNY3dic2VtdXFPLVlYalNiSTVxWFB5Uy04V3BLanlLeHo0TlNhbVBKLW1oWjBoYzZyTUxOeGpIek5XU2xmRDNQbFlqTEFta0taUWk5Zzc0Vmg5UWVUX1E?oc=5",
      "fecha": "2026-11-10T08:00:00Z",
      "medio": "EL PAÍS"
     },
     {
-     "titulo": "AVANCE DE LA AUTOMATIZACIÓN EN CHILE: CAMBIOS Y DESAFÍOS POR LA LEY DE 40 HORAS Y LAS EXIGENCIAS DEL E-COMMERCE",
-     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmpWX2VtdkduRjNmQWFqbHZkb3htcUJuSGhjVHZOaVVNUmdIeTl3TGk4bGRicHdFQThoZ2MxR29TTHF5ZlY0R2lUd0lTWlNUTmFtckR6NEx2bXVRM3ZIcDdQOGRSRVRBRW55UkRnQmU4X3k4UHZjdlhiN3Z1MmpnRGdfVkFjaElpU28xNjlWWjc4LWthQ0lORW9tUThfdHlERF9iaW92aVVXX2xmNWh4b0RudHhIT0NDV2w3TzgtYWNBWWx2UnhFMFo2cmJmS194Z2pqYXQtaUZGbUdRTFN3OEJOc3hzUkM0OENGRzc0YWlBUm1XZzZR?oc=5",
-     "fecha": "2026-11-10T08:00:00Z",
-     "medio": "Revista Logistec"
+     "titulo": "Todo lo que debes saber sobre la Ley de 40 Horas en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xbTAtM2h3VDctb2RtQ3ItaF9fRWg5Y1FjMkh2MWVycFdJTEtBQTI5Z1JvY0xDQ1Q1THQ1UmE5OEtjSXk1ajY3NldUWVhEbk1BMTVCWldmb1pUdlRuOTY00gFvQVVfeXFMTzZkZEdkY04tcnVFbzFacHNzZDQ3NG1NanhnYkswNG1hYkx2bFdkR1ZPajkxZVllMlFrRllTTmdOX1VhRm1vVzl6eEN4ZzBtVHZuYThCYTloRFE3THZELVVuSEk5NFpVNFo2allmMTY0?oc=5",
+     "fecha": "2026-09-30T04:58:34Z",
+     "medio": "InvestChile Blog"
     },
     {
-     "titulo": "Ley 40 Horas: cuándo será la próxima reducción y qué pasa con el artículo 22 del Código del Trabajo",
-     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS0RvYnQzUUxvNUJxdXoyRFN6X2VvLWh6UUVMbVhrU0lfTXZRRUNtdV96RVM5UEdUQ3hyckdKeEV2UzVtRnZIR2ZaYTNjeFVlUXRZZklpZFdsVEFlcXU4TDBTX1ZkRU15MEZyQ2pHUGxlUWhidnpOSmtlZjduM3E2cWp5bjhrXzJiQjRDcDUxOTVPWHNPMXdYRmMwWDVKYVI0TGRoN0VfcjRwXzJMN0Z1eHFBbUNaQkx2QjRxQnc3dF8yYzVjRVJEUW13aXBpNktLdnZJaEZYUjNjTmdT?oc=5",
-     "fecha": "2026-11-10T08:00:00Z",
-     "medio": "Chilevisión"
+     "titulo": "Kast quiere modificar la ley de 40 horas y flexibilizar los contratos de trabajo por turno",
+     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmxfdTFvbkFqNzFBbFo1ZXF2SGRFR0VkOUFsTjVzUkZrXzlMMTk0bTVLdTd2TEwzSkRsMTVxMmU2NmdGTzFlZ1prUFBiTGdoWktES1VWZzdBaWFuTmJaeWFqYmhGMnFMVHhBYkFRbHBQZU5ERE1DWGMxd1VDUllZRlEwRXJIWUsxMzlCeXc5MFd6VUF1LVM2TVNobW1MaE82dlVxcl9CeGhha296N29YNDE3VjgtT2lYNTFFbHNiT3JOZjhEUUZnOTVPc9IB3wFBVV95cUxOUWtERVpjUm9YWVg4VjRKNG9YRnFvRDk0VU5QQ0djWVNXWFNjcGMwVi1zWGpqaHc0VUdqajFyclFPNHNJS3hzMkoxendMUDFBM1Q1TFNlNnlKa3BmN2JUYzRCWTZXMWF6d2hzejZhZGdIVG1QQjRLUC1MaEx4N3BoT3BVcEg5WEtBcTNaVlZjdVFfRWpNQUZsUXFucDdWXzVDZXU2VzZ2dUhHNm9CbmZIZkluejR1bnRrS3I0YUttR2EzamY2REVWcFpaSlhWd0lObGw5Y3hNOWFMWWs3c0JB?oc=5",
+     "fecha": "2026-06-25T07:00:00Z",
+     "medio": "EL PAÍS"
     },
     {
-     "titulo": "Ley 40 horas: cuándo es la próxima reducción y a quiénes no aplica esta normativa",
-     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWHpzd09TeEVrTzJLcVNhc1R2bDAxcGhSQTg1TWtZczVyVFNMOE5fUzNzMlotOFc5Sk5wSlRVV01LeFM1Z3ZKVlR0NnBlRTV1cjRoc1N3cGxoV285dV9DQ3h0WmNqLU1lblpNNEh6OFdVZWNheHlpcGdzejM4Ymx4NllWRFZhU3NFbFB4bUZpdWVTRmZlc1g0cEpZTmpBUmdyOW9PVmJicjNKSGluNU1LYTlYN3hIaDVheUJBdWhYWlFxekxjeVZ3QncwUVpycUdtcnVjSU15QWRlUXBxcU5RUHlQcXNycmdJ?oc=5",
-     "fecha": "2026-11-09T08:00:00Z",
-     "medio": "BioBioChile"
+     "titulo": "Ley de 40 horas en Chile: cómo y a quiénes beneficia la nueva reducción de la jornada laboral a 42 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbkFKaS1IWS1BSm9LWXBvUXIwQWYxc1hHc0tmRTNpR3JYU09TOTVfUnpBM29SaEh2bzdGTGNTY2MyRV9kWHlYVnBhU1JPeTNhdWo2RjF1MzY5UTRpMkV1RFAzcVVsRDFYRW5NNjRacldVRUxTekQ2S2lhWHdycjlqZUpnS3o3VU45UVV2bGpSTGhSREZaTFoxRS1ndEk5LS10dFp3NWpnWkFJSFZUS0lyTUN2czc4azB3SV9SM0ctS1AzSHFkZnBTM3Ixb1lsc2N4d1YwcnhzSEVMQi1S0gHwAUFVX3lxTE1FVjhOWm41eXNFeFdXSWpaYUMtbUlLb1hBRWFsdEFnVHAzVnA4aTJqQ2tna3lDX0VJSlNoTWNzRGJ2TUxQMk1XM3BhU1U0OWU4SmpXcFJQR3JRcnhnbjFHQmVheWlseElpd3hvSFRJeFg0Q3JXc0Yxb0FUekpLQkJEQ3ozRE1XME1tMWhMT0xZWWNXZFE4cW80dTFNclYzNnZTSEtQUkhKMWZ1UjRJSFU5OFhEZXl2czNGVTRNZ1lWN2pRWlIxOGpMNGZxU0k1cVNvaVV6Rmp1dDlHUGpBTnE0bGZza3lUYktnQTA5dThWNg?oc=5",
+     "fecha": "2026-04-21T07:00:00Z",
+     "medio": "EL PAÍS"
     },
     {
-     "titulo": "Las 40 horas en Chile: Conoce las fechas de reducción de jornada laboral y quiénes quedan fuera de la normativa",
-     "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcWZTNnN0ZEtFeVZNMXIxd0tDbkpOQnBJY2RkS25qbUJNRnFjRzZqMWZQZGNndGNCSGd0TjRsT3hJZDYwbmZMTHI4aWF0VzdxTEc2MFdkY3VidVFzcVpKeEFuUFJtMWxkcVNIa1g5N0R5SVJBWnVkZ3lLTkdpcEk2YkVVNFFLS01xMk9odVZ3SGRVeFR1VWxMLTIzbDFTTEh1dVpkc3hVc0RHNmM5MGF2Uk9WRUViWS04eDZobDhDaWRpNVhwTkF1alJZTDVMRlJ2dFhJS2lwbmpfaVRHbWVILUV3SzNPSDNzNy1IajhB?oc=5",
-     "fecha": "2026-11-09T08:00:00Z",
-     "medio": "Publimetro"
+     "titulo": "Ley de 40 horas: Contraloría excluye el tiempo de colación de la jornada de los trabajadores públicos regidos por el Código del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPM3RlZUZhQkttWGM2azVWcFozazM5OWJFQzlEdENjTFM3NElvVkdoN0dmYVhZMnAxNFM5RklCOEUyX1VSTFNxQlFGNUxGc3dBUTA2Qjg1ODhlZG9RYnZMSGI2cTU3SXZxaWNHYmFMdkRrYVVidk5GcEZqTVRXdERRdTlRTDg1QmNud2NXT2xrU0JuUE9XZWcyV0pSTmg1ekZiZV9XT1d2WndLQnBkMG1VRVVyRWJILWRvREJQeG1pZDBGM1dkUHAwNjRZeVJlSGdVZzdiRkx2bFh2ckQ1ZmpYYXpnOXBNeTROZ2FCc2NMWXFOOFpaVmoyaExSREJJZ1FtRXc?oc=5",
+     "fecha": "2026-04-20T07:00:00Z",
+     "medio": "- CIPER Chile"
     },
     {
-     "titulo": "Chile avanza hacia las 40 horas: la jornada laboral baja a 42 en abril de 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjcxMDBXNFJOeDJFZWFBSlRPWHhQY1h6a1hXbVBRc1FibEZXVzhwYUV6blVfQXZxVnVydDlKRThMTl96SnE4RUlRODl6am1zMmUxMDhaRVMwVU1CbG55cEhLOW9OMVdZTVBkeHhfZmp1aG42aHQyOVdzS1FNT242NnVmalJrRjBoenlFZUdNMFJEV3BuZ0JYMUw1MUhhY2N6UkdKN3IyVQ?oc=5",
-     "fecha": "2026-11-09T08:00:00Z",
-     "medio": "Enfoque Digital TV"
+     "titulo": "Dirección del Trabajo analiza efectos de las leyes de 40 Horas, Karin, salario mínimo y conciliación de la vida personal y laboral",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5ZmVwM1ViV1RoZTRCZkpBYndLM21hTGRwVEZLam9ndWdIWjhKNldWNHlITW9SUzA5NUM0NTRBa1hwbWk4aXljeVJfRHItZGlzLXFrdkE0Qy1tREh3eS1NTFdyUi1CRkU?oc=5",
+     "fecha": "2025-07-15T07:00:00Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Cumplimiento de reducción efectiva de la jornada laboral a un año de la nueva Ley de 40 horas",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRnlQVEdjQ25saDNmaHdLSTFodk9pdkVMdWZNa2dpZmEzdHBmb2RZZmJYWEhqZXdBMjNGcHgyU3JZYS1oVG01STBUTTVfUWczTktVek1PcE8tb3g0dWx4R1dQNHREeGM?oc=5",
+     "fecha": "2025-07-14T21:58:48Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Brecha Salarial de Género en la Gran Empresa usando Datos Administrativos de la Dirección del Trabajo",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Q1Z2bUZVWGUwcjFiSS01dXRiMkhHYnhxXzZTcjIwRnlPQ2lmekVzZHhteVdSd2liYXpUMXJzVGVDQndSLWlLREFFT1hXbnFPbUQ2dUQ2WGVwZVdUbFU5VGZIcTh3blE?oc=5",
+     "fecha": "2025-01-15T17:57:43Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Tendencias de la discusión pública sobre negociación colectiva multinivel en Chile, año 2024",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtalVUbVRZMGpweG1OOTJyaFFJVzlsQXZKa1dxTk5JRC0yRW5KNFkzSENsb1FSUklxZTBlUldGOWo5UF9ocW10TGMyaFFCVmFucHJFek8tek5GYXBaNWM0WWNsUjQ0bXc?oc=5",
+     "fecha": "2025-01-15T17:33:27Z",
+     "medio": "Dirección del Trabajo"
+    },
+    {
+     "titulo": "Antecedentes históricos sobre la negociación colectiva multinivel en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02U3VVWVZObHE3S095a0VKZkV4blFyWFNHSjZZbTc5U0VMM3pmSk9UMUFiVjhKcHNUbFVGX2t4S21JenpjZ1hPMTFvNV9MZXNwOGVsajNfQ2dRWGR1UERSVVdzUGF6N3M?oc=5",
+     "fecha": "2025-01-15T17:20:30Z",
+     "medio": "Dirección del Trabajo"
     }
    ]
   }

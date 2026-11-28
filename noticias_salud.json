@@ -1,16 +1,10 @@
 {
- "actualizado": "2026-11-27T22:55:08Z",
+ "actualizado": "2026-11-28T08:25:38Z",
  "fuentes": [
   {
    "clave": "salud",
    "nombre": "Salud pública",
    "items": [
-    {
-     "titulo": "25 de noviembre de 2026",
-     "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KeldRSHJUaGhQQ3ljUml3TTVwbjVkOFVoa1ZuMUhKVHlLVklJZXc5NXIwOWZSOWFmMldnY2NJcmVRYldSZUx6QlA1RFR6TGN4ZTd1Zm1jVmJzdFdYTktibTMyOEttN1N1SDNQUG9aOVlYUU9qS0FoMnMyLXU?oc=5",
-     "fecha": "2026-11-25T16:38:31Z",
-     "medio": "Ministerio de Salud de Chile"
-    },
     {
      "titulo": "“Es el Estado de Chile el gran ausente”, abogado Alejandro Moreira González advierte vulneración de derechos de pacientes que permanecen hospitalizados sin necesidad médica",
      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYmRkQnRjUnNJU2dqdDI4UFZOa3lFWk9kMHR6WG1TWjdCUk9QRnR6Qkd5NVlHcVZJV2c3UVN2ZktHTlFBalNDZHM0Sy04RUYzYlJqV0RWTnAwRDNWaFFiSng3bFhHZTVVamo0YzJ4dzVtZWNhMFhqLXU0NjRmNGJfYjRJa0dJLTdWcFlOUWxFY05obTdCeFRoZzU3NDlOaWRzemtQcWNPdW1qMHRJUE1aU3ljNHNteC1EcEViS3JmZGdCNFhNQUN4b2lpeHdPd21yMENCRngtUTk4eGZ0?oc=5",
@@ -18,22 +12,76 @@
      "medio": "Diario Constitucional"
     },
     {
-     "titulo": "Ministerio de Salud y Cajas de Chile firman convenio de colaboración para reducir tiempos de espera de las listas No Ges para beneficiarios de Fonasa",
-     "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQM0tsaXB1dDVOLVRRMTRqMzBEWlQ0QW9hd2l2eDA5R2hPMmRrWTBUUWpndHVGemk5U3E1OTR6WTN1dE1WdTYwVWJIQ3o5dklwQUhfOUhveDNvVG10ZUpaZFlVemNRZU9ZLURoVlJTOEs1RzNKV1IzME8xbHNWSDV6cnF3Mm4wRmxkY0JSYlFMbTVUNmItaW11V1pZVkZzZWhJUVJnc0FfNXY1bC1zMHMyTkNlOTNOMml4dXY0SDJneG9Va2wyMzFnaUlKZXk5V3N4dmhHT2dwMFd3T01lMFNZUmpEQTV3bENSajJYMVRHTDl0ZzBJU1k0b3d5OTVvRnFxcEE?oc=5",
-     "fecha": "2026-09-23T07:00:00Z",
+     "titulo": "Las Higueras de Talcahuano lidera en reputación entre los hospitales públicos de la Región del Biobío",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVl9QZjJMRTB4WnkzdExJYWROTi1yWU5WaWloWmwyQ09KUWt0LWIzMnhDZ1NhS001SDQ1MElaWmo5Qkd1NTdZUV9QNW55UF8yS2xwYlZvU2NKOWxBd3ZHYXRKWXU3a3czUTV2WEJIRzh1RGlFSkFDcG9MbnBocFFhMGpjal9nVWh1amhrTjVMdDc2REFrU0tZV2RYMVF2Y28zbGtEQUNhc1ZyQndiZjNnaFdZVmd1VE1md2FyNjhpemxUTEJ6dVE?oc=5",
+     "fecha": "2026-11-18T08:00:00Z",
+     "medio": "Radio UdeC"
+    },
+    {
+     "titulo": "Hospital Las Higueras es el primero en la región y el tercero en Chile con mejor reputación según ranking Merco salud",
+     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRXFucWx4NHY0WDVFcDk0ZlhyUE5JUzMtQUNZYkpybVBmcGJ0WjFFcnc0Q2lpcU9OaElyNURSdHRfaUMydW84SnNJdmRmME9ma3pCbzhlWGJXZ0xUSXFtZkV0ajhiOXhubHFSVGtWWFFhdnAyc1d0NkJXQ1JjZjNycmZ0ZnVLQ2haRVNtMHFLYjY4Q1M3M0lxZjRYdDBBc29NQklGZ0RCc1l0cmJ1Y1RPYl9fN3Y3aVZRTFE5UmM4TWEtVWxvcVFscHFFa0pwekhqaERFWUllcURxWXl1aE5PSlByTQ?oc=5",
+     "fecha": "2026-11-16T08:00:00Z",
+     "medio": "Canal 9 Bío Bío Televisión"
+    },
+    {
+     "titulo": "Merco Salud 2026: estos son los hospitales y clínicas con mejor reputación de Chile (Hospital del Salvador y Clínica Alemana lideran)",
+     "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMVJwdGNuMFowZHA1dlBNTDNJV1c3TVRFVzcxbFBVeGZTOFJyak54OVpwXzRGRHNaUmRMV2ZYS0lsWjQ2aUsyR1ZXQjJxTGN3WlZVV1I2dnctalRtV1dhUDYwdkQ4NmkweTB5MXc3Qnk1RDNsTllGUTdCTjZKS0JUdHFaVy1Xeng0X2lZRUEzUWxRU1NPSTdTNzVPbEFxN3p6cnBwWU9PNEE4bFJ6OGhQNzJRVU1nVGgyX3ZFWEhBMEM2dGRNV2o5dHdaTzJKTXNQczlYYUVMTU9WNUExNlpuZ0hYNkNTZVhMSjd1MlBTSnBpUnR2M0Iwc0ZlUlFPZXNhSF93?oc=5",
+     "fecha": "2026-11-13T08:00:00Z",
+     "medio": "Diario Sustentable"
+    },
+    {
+     "titulo": "HOSPITAL DE TEMUCO ENTRA AL TOP 10 DE LOS CENTROS PÚBLICOS CON MEJOR REPUTACIÓN DE CHILE TRAS GRAN SALTO EN EL RANKING MERCO SALUD 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUXNMOTFKOXgzZm4xazE5YlFrZ0dLVlhjYmZiMWJZV0RrUF8tbE5KRk9MLTJyWEJHUjhuMkhLQWVzcFNpZTRSZGpLR05LZUl5SHRuMm5KN2lncWtBUXQxSngyOVdTSlNvMERBMGkwb3hrWEpIYlVfdDQwMjk5VGJsbHA3NDVMcV9WakxUYzJUc2piaTJVaEF2WmdrN3NsUHNyVkZoVXZkdjJaQ2wzam9HWE9DMWxQUldqYktRdlBjalQ2SHd2OTRxVWtvVWNLeUg5ZmpaczJDS09yeWdhS25WdU1xQnNZME1KTjE1NmhRX1kyQXZna3MyVnpVX21sRk5EWGFBOWFGaDUwOC1S?oc=5",
+     "fecha": "2026-11-12T22:00:29Z",
+     "medio": "Araucanía Noticias Temuco"
+    },
+    {
+     "titulo": "Con apoyo de ProChile, empresa chilena llevará soluciones inteligentes a hospitales de Costa Rica",
+     "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdkxLNVdMNXB0MEJnTFpsTEt3ZVFIM2o3X1VwOTdqdXJrNnZNalh6TUdzRV9GWmNOWEhRRUJWc3VqV2EtM0o1M0E0WU0wLTdBMDJ5R2JvU0JjSzVtd3VLa2tycGxOWTZuQXcxUkc3eUNIbDNQRW11UGlrakJuOUk4bC1KNTJZV3NscDNUSW41WHphOGs0dG5MTWhqSHNveDVpSzgwRFZmcE1YamJLWi0yd294ZlJwdVVCNExOQS0wQUp1Y2IybmNoOXM0TTN5V1Yxd0ZOUmpWbjdaYUlaY1ZJNmRreUpCRFVzRzdIbjR4VXV1VUlkbU5Dczh3?oc=5",
+     "fecha": "2026-10-26T07:00:00Z",
+     "medio": "Prochile"
+    },
+    {
+     "titulo": "Nace la primera Red de Hospitales Universitarios de Latinoamérica",
+     "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRmxZcmd6M1lFU2wwVjFCUXZEenVmQnB6RktERGVrQ0JvcVBmRWhnd2RLaGxwZkliUHZ6N2FxWWRRWHNWZmVhOEt1VDZrblBiM20xQkMtb09fOG14QkNNT1J2dDRnQ1ZhNl9fNUlXaUlfWlNJS3UwanN3SjZ4OFdvVlc5dElqOHFFemtfcVVfQkFaUU1WNDAzVVdPOVhqUHpzb0E?oc=5",
+     "fecha": "2026-10-15T07:00:00Z",
+     "medio": "Universidad de Chile"
+    },
+    {
+     "titulo": "Minsal y Caja Los Héroes firman convenio para reducir listas de espera No GES en red pública de salud",
+     "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVkZuaENfQUdGNElvRnBFOE5HLWszS0N0cm1LTmVUMkdmSUZVZ0h1c2d5WTI2cUdNbmJPRV9COWpzelFKMVpwTHl1bmZqWFk1SHh6OVF5SW5PcDBjNnNjdXJrX1JFU3RtaHpmOGhaRWFnOTlqcmg5T0JkaDluazMxU0pOOHhjWHI5V0g4bTgwM25rMkMtbXp2VGV6cDEyOTdpRlFvTmpsX3FrSVRUTmRQRHVDOGN2Sk5vNGRlTDZZakgyZW5JZHZydlNJT3RoTTFOZFd5dEZXT0owVmpzbnZuV25RWDF4eXFjQUptb1pwLVVfTnIySlI3RHpjRTkxUQ?oc=5",
+     "fecha": "2026-09-28T07:00:00Z",
+     "medio": "BioBioChile"
+    },
+    {
+     "titulo": "Cerca de 200 mil personas viven con demencia en Chile: impulsan plataforma médica en siete hospitales públicos",
+     "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlIyTTRVdFRFVDY1UXhGYVVHNFd2MUQ0anN3U3NMZ0dLUUQ5RlB3emU2SzNhQXBvOWcwb3lFSFd0b01xc19fMldxNXZJM25sZUNPdlNqUG5TQ3VJQ1h5aGx0el9sdnIwWVIwaGY2d3ZqbUZpOUliakQ5Z0dqQ3FVazkxX1E4dFpaWEpTVWRHY1JnTHdpYmVCWmtsQ0RobTVLdkZRV0ZTaFVYSmZpUlRfODBVT2FOYmpWVUtiYlRUMDNvT204RXl1SFd0ejQtYVlYaVdiQUV4UUptWTBjZmlj0gHkAUFVX3lxTE1lb2tIdTliRnF1RVpJM005Z1MzLVpucFZfYjFsSkJldk5IX042WG44R3dWdGNvVWY0NG55T1FDRlBuTnFsS25TOUZRUWdwOHVMeGtBcGVzZm1zOVBlbW41c0xUOTAwX3JYa1FZZXZLM01NSmpncXRfbzFlaXJmaTF0TW1UNEw3eTRYeEdwY0hreTlKdUxZbk0wcnY0VmJvLVR1Y09EaU9URFBzNUh6T0huNFJmNkZpUk55ZHYwNzBmcXpFeWhSVDk0cFhwaUF5QUJtN2RfdEhRQmVUMWY1UENLNzE3Rg?oc=5",
+     "fecha": "2026-09-17T07:00:00Z",
+     "medio": "The Clinic"
+    },
+    {
+     "titulo": "Gobierno le subirá la vara de eficiencia a los hospitales públicos para revertir su histórica sobreejecución",
+     "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR0FNTkluY3VCVnFRa0dkSFByZjRUdjdDYmtDeUZic0xpY2lRaThiZjBQQmtVaDRfVTRpcEFUS0tqbmZCNFQzd2ZlVElXZVFhTFdEZElsMFpPbkgtYkpQeDZMTzU2bnVlV2g3SWtubjhMc3VkRV96WFBiQmRDTnFLaDh5U2o3VTVUT2swUThENXEyajI3aHRjUkJadE1DZklPeWJMbW13Q2FzdUpoN19oTk5uZWcxdw?oc=5",
+     "fecha": "2026-08-24T07:00:00Z",
+     "medio": "Diario Financiero"
+    },
+    {
+     "titulo": "Subsecretaria de Salud Pública representó a Minsal en diálogo de Chile con el Comité de la ONU sobre Derechos de las Personas con Discapacidad",
+     "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNDliTG04cUlqTzVNeEZ2NEktYUdMUUl4WGF4VWVVRUpCcmJDNF9hbDZ4MWE5bXNZRVVqUEoxMnZPcGRzQWhUVmNKX3A1TUpscnNJUFlCNVBnX3pDbjZqYlFJS3dBSUVRNWFBbHJKTmpoaEhDQTRzRGxJck9wYVhMSmxRS05vcnVJQkx0ZzZsNklZSFlVaUdYSlhheVdVYXNfOW14M01USTBldHVHNEhKR05fTS1NbW5VMHpTajBZYlV3dTlLRklpdVV5aUZRMnpscWtkM0xaZFZQcUdTQ3JsLWlhekZmd2RBYm5QOGQyYWdjdHNqLXBFRw?oc=5",
+     "fecha": "2026-08-19T07:00:00Z",
      "medio": "Ministerio de Salud de Chile"
     },
     {
-     "titulo": "Ministerio de Salud presenta proyectos de inversión 2026-2030 para fortalecer la atención oncológica en la red pública del país",
-     "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQckhya2FlR3IwUENPNy1ELVVyNm5ZSWYwX3JPWlFRcTMyN3V0aktnQVJRclRRZ0Q0V0RENGJKYlhZa0NrS21pejJ6NXFiQUFVSEpfV3RfN2JoYk1oNnd1NlluMWVVVWcxVElfcldvLXJ5Zmk5bzRrcUFpZE9iX1pFNUFFakNHenpFazM4U3h0a19EQmc5QTRERGxkVkxfeS1PQUw3QmlwVTlyTHZYZHNNU1QzS3Q0eHFubGhNTEl0ZWxOZWxsMnlLcnNnUGFjREg2VEtwUjNRVkQyOWg0R05lbnhBYzM?oc=5",
-     "fecha": "2026-08-31T07:00:00Z",
+     "titulo": "Cuenta Pública Participativa 2026",
+     "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UQzEzMVdXcnYtcXpXYXRodmlQTlJvQl9fX1o0Mk1RQ2tzMXVVNGZHbHZlTE9Cd1lENDJ3X3cxWWxzR09yWXZuY3B6U2RuZUU3WFZ0Ul9MS3ZHcnFleVR0RllWd29CekE?oc=5",
+     "fecha": "2026-08-10T17:45:57Z",
      "medio": "Ministerio de Salud de Chile"
     },
     {
-     "titulo": "Presidente Kast encabeza firma de acuerdo de colaboración entre el Minsal y Caja Los Andes para atender a 50 mil casos en lista de espera No GES",
-     "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOb2RtcUpseExxQkdVNHlNZkI3Q1NJVUFLN2d3b3lQNVR3M1FNVkVQUFBUbDF4MFdZZy1nZHl6U3dLOF9CelJZRWtRQ3VnN053SktXR3ZGTG9DZHFpcFM0YnJVdVpoMWo0RDBHREFlZnZiVkhBM2Z4TUZCLUV2bjc2Mmk0SC16cjhaRHlhRC11V2N6OG5DMFZmbjBxMFYwY2pKN1NyWDJtOXk3NjVGTkRQaWxzNVpDMWttVTJBZkJ6LVdLbzRKWjQ2TEZGZ0p2dWdiYTgwUkJleEl3VGxiMElzQjNIUEViYWVtdUE2UGNRNkpHZ014M3o1dTVBUQ?oc=5",
-     "fecha": "2026-08-14T07:00:00Z",
-     "medio": "Ministerio de Salud de Chile"
+     "titulo": "Estos son los hospitales mejor y peor evaluados en Chile en materia de gestión: revisa el ranking AQUÍ",
+     "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOb1c2SmdOY1l5QkVuR0p5X2IzMzh0alVFWTFTaWE5SmhmaHpZellxN0VTVmRDTER2ckh5ZEQ3bndPVnptZjN4Q0F6UnpZRVRXUDZGVFZGWnEtSjhJWFIwczFhbnlBdWlmbDVJdEZwN2NSR1B0RTgxRFp1eFRESjRhck8xWUlLdHd0SVJkTlBKNjd2S3UwNmxxcm9mR3lENUZNcklMQXVrMzRRWjZ2M0ZsX3JMejdrUWdaYkdFQXdWRDFBLTFTNVpHSURsQVdZRlhqak40V1RpQjJieTBYSGdwUUtlMUJaaThKLUVwV2pneFFMQm1jb3JjbXNmOWFhd2dBRVJlMg?oc=5",
+     "fecha": "2026-08-07T07:00:00Z",
+     "medio": "BioBioChile"
     },
     {
      "titulo": "Hospital de Urgencia Asistencia Pública lidera ranking de gestión entre los 62 hospitales de mayor complejidad",
@@ -42,58 +90,10 @@
      "medio": "Ministerio de Salud de Chile"
     },
     {
-     "titulo": "Ministerio de Salud declara Alerta Sanitaria por hantavirus desde Atacama a Magallanes",
-     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1NvTmQwekk2WFhTUE5CZV9QRXJ5N2R6S3VuMkpySjRxVXlLd2x5Qkd5YjhjaG1YdkRRMmh6dkowa1pSbXFyQld6eVVSYUpFRF9OZ3p0anJ2N3NwY2VtVDJEY2FWLUFmTWlxRC1QNFZtb3F4ZXdmdmxJUHRUTUE2a0t2aWxKeVR1MDZ5RndBY1dKSFZPTEJiNXJXbEpzMXpQN0xKZjFDLUY0MUxhOUE?oc=5",
-     "fecha": "2026-07-28T07:00:00Z",
-     "medio": "Ministerio de Salud de Chile"
-    },
-    {
-     "titulo": "De donantes vivos: Cuatro hospitales públicos realizan inédito trasplante quíntuple cruzado de riñón en Chile",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOemhhNEFDQU9WekY5OThoYW9iUWdSSGRGMHBDYUJsQUNRWnlrdU5ER2VYWHhfenIxUjhGakdZYkFDTHd6WHYyWThuaUJWU0R4T1gwamdFSVJXWTNEeXUyaUI2Y3dhMVMyYnhHRE1rZjUtSU1LQWs3NXFIVUVlRGY0MjN1eWRPUTZLSkxEWUlWM1VMQ3ZLOXVpVFlpd2hYeUEtaFNFU2lydFFkM1FkUlBsdWs5dHo2UmpGWHpjNVJtcndBMTd2UkNpS3Vhaw?oc=5",
-     "fecha": "2026-06-04T07:00:00Z",
-     "medio": "Ministerio de Salud de Chile"
-    },
-    {
-     "titulo": "ISP confirma detección de mosquito Aedes Aegypti en aeropuerto de Santiago y autoridades de salud mantienen medidas de vigilancia",
-     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXk3ZmN0RkdlWXNEWEZoT3c2RlJSeFNkNUJHNEcxV1F2UkJZc3oxaW5xQldoNUhlb3dYV2JETEcxS1JqODMxeHVJZEV0XzZvWGxGVVBzUk1mYWFjOFRud1ZMRFVMME9tNFdHQjBjZTlGd29QUkVQSzZzY2RoTjF0U3VET3l1Um5tcWNka1ZsY0NhZUVEYUlWYTZEbWhkUXNsVkJqOFp5blpHSVNMWUY2V2lfWVJBQkRNUmN2TDhBTW01WXBobDl1M2xn?oc=5",
-     "fecha": "2026-01-29T08:00:00Z",
-     "medio": "Ministerio de Salud de Chile"
-    },
-    {
-     "titulo": "Chile garantiza 90 problemas de salud con inversión récord de $100 mil millones anuales",
-     "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlo3VloyelNtcnkyZ3VXY0tlRVEtM0NPb1h2VmxtYXR1N3NpVks0NmxtajRTb2E2SEJyRy1uY25BS29MOHpvRzNOajFWQ04yalQ0MHV4Z3EwdGR1RUpYV3ZpU1Y5ajhzT01CcV8tMjVxVEZ0b3pUb2l6UkF0MUN1SjF1LW5oRjZLV1cwaUY4YWRtYVd6OWpHN0hnbmx4SFZPcGxNRmFDUC0tcVhHV0E?oc=5",
-     "fecha": "2025-12-01T08:00:00Z",
-     "medio": "Ministerio de Salud de Chile"
-    },
-    {
-     "titulo": "Orientaciones para la planificación y programación en red 2027",
-     "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzcTJNdDhWSHlIeDQyZ2RwNXJ3Y0E0YVcweEVERjg2UzFzeUk2MW1FcGpZZ0lpeDBuekZIVnFqZTlGRWFqYTBRRWtLZXB1Yy1LemhKOXJoSDBlUzJYSUVyTE1HckpwRzY3ZGc?oc=5",
-     "fecha": "2025-11-19T16:25:49Z",
-     "medio": "Ministerio de Salud de Chile"
-    },
-    {
-     "titulo": "Colmed Santiago alerta problemas con insumos y suspensión de cirugías: las consecuencias de la falta de presupuesto que afecta a los hospitales del sector público",
-     "enlace": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNU0Q2NHYtUXpPX3JrSHVCbExWR3FpaW8ta0JFN3dmTXA3Y2w0WkpRVm5UMk5IRE92MExyVzdtUEpDZVpaTDdlbTRidHdMeUFDNjBCLTNjS2xKdW9XNW1sZkVHT25jbXhLeDIzeUdQZ3ZpVGJLZV9kaFFZYmYyanhncXVkX1ZHWXloZ2lMbFhSeVRRaVg5V1dVSlYyM2t2YzgyV1hCdmpldUktLTB2VFgxNHBKYVZVQlBFb21xdlJMZ0ZkMTd2YlROeW04QUhhV3pvUlp0RzlETjNPZ1JXT0gwcjk2R3pfdHN2YXFRN1I1WHRQRGpPQUhxVE1mdTZwaGtFYnJnb2oxeHJVdWo0MDRQVEcxRkFlU205NWQxZkkwRQ?oc=5",
-     "fecha": "2025-11-12T08:00:00Z",
-     "medio": "Colegio Médico Santiago"
-    },
-    {
-     "titulo": "Día Mundial de la Alimentación: Minsal presenta herramienta digital para monitorear el estado nutricional de la población",
-     "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYlVNQmxid3JFdjRFRUIyOWM1NHNFTkZhckhvcU5salJZcWgxYWozUnoydk9jM0d5RE8zLU54dmhWaUItMjB3RjNaRUotR2FvSjNQODc2eVFtaFEzS2FlcTRnWXU0VVNqbXJxNjJfOVZVenNyWFJXWmlrc1o2X296djF6OE1uQ1BtRjV0WFRsRnBkMXFYNlJoMUQ2YjNkclB2SjB4dEwwbFptUGdCdFZndElJSE4zSThSMmViNmZObkFpeW01Ymd1VEhLclA5YXA2VHJoRS1jVU53Z2c?oc=5",
-     "fecha": "2025-10-16T07:00:00Z",
-     "medio": "Ministerio de Salud de Chile"
-    },
-    {
-     "titulo": "Ministerio de Salud presenta en el Congreso el Proyecto de Presupuesto 2026: aumento de 30% respecto del 2022",
-     "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NsYmt1ZmM0YWlCeGJKMW96VzA3RTdRSHhGc1RsZDZlZmJzTkJyOXVESW1aTEtnazU0QlJ0Wm9DRkxTNVZleWRTMDhmdmlXVVh2NDltNDV0QTJ1bGtYbzNMYzlnY1BQUUdva0VMV0tCSVpNTS0tRGhKY19KMUhWcVNYNEhTZDZDMS03UDQtQmk4MjRCWWVFOFVVUTB3aVFPRjhIYVJaYU9ZQWxoQmtlNm9tYWdrSWR5bE1ELUNlV3lFYkhVaGZhN2Jn?oc=5",
-     "fecha": "2025-10-09T07:00:00Z",
-     "medio": "Ministerio de Salud de Chile"
-    },
-    {
-     "titulo": "Artículo: Salud A La Vanguardia: Inteligencia Artificial Para Mejorar La Gestión En La Salud Pública",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT21DcU52Mll1UXB5Vk1uZWliSVhPRW94Z0g2aTJnbGRPeU9SLWNkNXdYVzVFMGlQcUx4ekNDWjlFR1Roc1RUMHpac0kxZDJ6a3NLRjVzWkZzRzlRWXBPR2g2X2kxbVAwR0k5WlFSTE1yRUJQdTEtZ2UtRzFITHNHeG0zYXFhZU5qcU9QUm9hc0RSWWJkcXNQZXdJbUh6bFJXY3VxZlpMWDM2TnQtakhaaGdidFpNTzBQZEU1dUN2WGVvdmhnaU5EQQ?oc=5",
-     "fecha": "2025-10-01T07:00:00Z",
-     "medio": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación"
+     "titulo": "Minsal publica ranking de hospitales: estos fueron los recintos con mejor desempeño en Chile",
+     "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSksxNUVUOG56cjFGc2VqNzVhd0gzNkhXS2ltMy0taFItRWRPS0VOVmtqaV8xMVIwOGNhOEY0RnlJSEowTnlTT0FnTlRDUUMySWg0OUhiRzZ0UzBQQW53eHJFNEhxc3luNlR5RHJrdTllZEI0Ym1KOUdwbGtHMmR4SVJVNnVXZDlHaVduQ0tpZnlHRmMtN3pST2FpNFpXRU81d29KRXh2YmtiNFl3YUNVVnMyeWtEb1RhWGd3QmN1MUJRRGZKdnc?oc=5",
+     "fecha": "2026-08-04T07:00:00Z",
+     "medio": "ADN Radio"
     }
    ]
   },
@@ -101,6 +101,18 @@
    "clave": "gremios",
    "nombre": "Gremios de salud y públicos",
    "items": [
+    {
+     "titulo": "ANEF Aysén advierte que los recortes presupuestarios afectan el empleo público y profundizan las brechas territoriales",
+     "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2ZJeE1YSHNFNVotZ2szTEZDcDQ3R1QtZUx3VVljYUczb2x5dUl4bUVmRldGOUxqTTMzOURxOXhoNW1EeGVub2lhUFAzb3ZzVk1YX3dRSjFaaVM3ZjkwYXh1Q09rUmI0NGFLWDJUMV8tT0xYTDVZZUc5TU54eHVZRmd1Z1pIT2FYbjNmMll3SnppYjhnY3NmN2RJb0xwMUxJOFdFRnFJQWh6VFU5XzFORmJnNWZmaFFpTFExbnU1M0N1alBXSGd6dDRJb0xpbm52?oc=5",
+     "fecha": "2026-11-28T01:30:23Z",
+     "medio": "anef chile"
+    },
+    {
+     "titulo": "ANEF y Gobierno acuerdan reajuste y revisión de contratas",
+     "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPczFJVDd3Y0lsS3pnaWhWVlVfYTZzbWdMSjJYR1ZhZERXMTNtcmx0QlZtX3lacE1PeVViTDdyaUI5dXJRQnVXVDRaTGtud1JJdGR3Zl9feGNSVkt3YXlLOVZISm1iczFnaHpYckhCZlZBdGdzbEQ0Qk5kLWdyd2FTZ0lsVkoySkxUQk9QTDZHcnRfRGV1?oc=5",
+     "fecha": "2026-11-27T23:08:10Z",
+     "medio": "https://estapasando.cl/"
+    },
     {
      "titulo": "No renovación de contratas 2026: el conflicto que tensiona la negociación del reajuste del sector público",
      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkFsZ29zdGYxREtqU0hUbVg4TE03M0I5WmI0RzFmTkZ3MW1hM3VyWS1qYTVENF9wN3h5RFY5WXRJRjlMVjVNMGlPZHlKc2tLbkxkR01FWk9XcHNablFGYWhKNG1ycDVKYzNPWlhZYjU0cmNKdFcxSThIamM3T2xLMnd6Z2hscFBxVER0WUx6ZlU2bVpTNFBBX2hDWXg0dk5OM3d4aDhWdUhTRWxqY3FsZVJjWlktSEhyNmR2a1dVTlVaVFE?oc=5",
@@ -138,21 +150,15 @@
      "medio": "El Tipógrafo"
     },
     {
-     "titulo": "Anfusem y ANEF se reúnen con la directora subrogante del Sernameg por riesgos de despidos masivos en el servicio",
-     "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNmIyRF9pV1lzcGtYaVNIeXFkelNaNDBUUXBXbmxXd0pVY015S3BGdTR0aUVTZ1BoYTdOcC16MlYxNHQza3Q0MnVIc3dOSWs0VkdDMHlIMTRScWRrSTVDRnJOUF9VU2FveHp5X0JRZ1RFNjhZWks0dlBWbEl0YWMyTnBObzdhekdxY0ZrUGhwU3pMTFJZdE15WDBhMXRyUWFwaWF5bGloV3NEMWNyNVR6ODFSdVJXNE5KNGZ3dGs1R1hXeTdFUWo3Mg?oc=5",
-     "fecha": "2026-11-26T19:02:52Z",
-     "medio": "anef chile"
-    },
-    {
      "titulo": "Fenpruss se suma a intervención urbana de la Vicepresidencia de la Mujer de la CUT para visibilizar la violencia contra las mujeres y defender sus derechos",
      "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRm9PTVdfVE50TG5VLWUycHpGYWRtMkFid015YjRQOHNVdm1BZ3pnX0xiQlBfSGM4WmlLRG00OGI4QU16OWdLNUdQb0F1QXprY1RGQjlNSHhEWURRdmRBdFdyck1FclRCUUl3LUhwLTQ0Wkc1c2kzd1VHNFB1WTJJZWhfN2ZmRWNLNl96NHQ2S21Ga083ekNqZ2NqclZkZjZGclhSRjE3MHpSWExxMVIwc1JObFBtS3ZPWFFzcXJqVXk1ckhzbEtZUHh3WjZMZm8zZUk0ZURIX3ZpU1lDc3VJZ1FEd2hHNVA1Y3pVb1I0VnRfa0RDSUFJdERJZ01DdGpERGZSYXVoaU9zYmw1Wnc?oc=5",
      "fecha": "2026-11-26T18:19:45Z",
      "medio": "Fenpruss"
     },
     {
-     "titulo": "Trabajadores de Fundación Integra en Arica y Parinacota denuncian condiciones indignas en jardines infantiles y grave sobrecarga laboral",
-     "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR2p1R3U0RzFMQzJGWUUydzVXdEZ1bUF1dkFDQ2JyazQ2MmVsV0tMU3BiMzhGaGxZUnp1RUg0cG9DYnA2c1hYVER6NmJsVjV3b3ljMnljYmVOYVd0azFKVEJJTHlnQ1pqeklHTFFpaWZBMHNKSGN5OGxuRUJpeWpnRW1CT3pDMlp6QkFFbmZEVkZ2Mi1EN0ZkVjFfZE4tOTRrUGlCYlg1cVBYWWhJT1dBTkhkci1LY0pFZ1JldWdyXzRtWXZORjYtTk1QdktVd2RNaF9acGVILWJfS2NxWFNxdWZNY1dXTjVD?oc=5",
-     "fecha": "2026-11-26T18:02:51Z",
+     "titulo": "ANEF Tarapacá se reúne con la Contralora Regional para abordar confianza legítima y licencias médicas",
+     "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTdZZVBUZlo2Ukx3Z1FrTEVBOEZoNEtzVWhMVm9aZjU1RG9zdmdVU3VzWDlCQmZzWUp5WTU2WEREaUdEcllKVGRmZWF5clZaLVMwa0hXN1ZmaXNkVldNRTVCQjBwb2NYNEt0SEFYZEtTS3RBdjJVbzQyQVdOamVrT2lkVXdaQ2MwekU2NmlPbTR6aDNiLUx2U1ZNNTVRcTQtQ0tMODNsc2Q0RG5wR3diMTRfWVJSbF9pMEE?oc=5",
+     "fecha": "2026-11-26T15:58:28Z",
      "medio": "anef chile"
     },
     {
@@ -184,12 +190,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEYxT2RoQ3VqSG81bUZ5eUQxUmJaS0J5Z1RwSFdsYURYR2hkMWptZk9wRjZUbmlTNXFmQlExQUxSaHVoR0lSNjZrMDBpbjVfdTV2MjlvajhyZkdPTjFqMjROVnhWTmpmb0dMV0M0SFZ1UTZyR3JORFFSVFAzTzROYXc5TVlLRlRIYkRKUEFzVHBwdWxGVFFTdEphcU8xUGhuWXB1NlNaaVFMQ3ZZRFE?oc=5",
      "fecha": "2026-11-26T01:17:15Z",
      "medio": "anef chile"
-    },
-    {
-     "titulo": "Miles de profesores y profesoras marcharon en todo Chile contra los recortes a la educación en el Presupuesto 2027",
-     "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ3I0LWNSM2VzVzNXQ2hDUzVEbElaZ0x0NFMxVjh6RGJFVE9LYngzcEI2YUJKaDZnaGEwaUxYOUlSaC13MHMxSFNmaVhXMG1nb09yUnZ6MWtzTmxBQXNnQnJUSWMzVGhxbUpESHJISHlNSnVqY3pCX3hCX1ZwZ3YwblJCVXIzSkNtQWdoSUlBakVremhLMnNUZzZLWHRWVDlQYWVOd1RPZEpfVXlfdTMyUEpwa3BxTG8tNU1nUGhyREo3UUZQV2llaUZndw?oc=5",
-     "fecha": "2026-11-26T01:16:44Z",
-     "medio": "anef chile"
     }
    ]
   },
@@ -198,10 +198,46 @@
    "nombre": "Sector público",
    "items": [
     {
+     "titulo": "Gobierno y gremios acuerdan reajuste salarial de 4,6% para funcionarios públicos",
+     "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVmlCaTdIZ2pzdmItb3FPNFBDMWh6NTBYUEdmUG1pa3BzSm9BbEdPelk5OFVHSDB2b1Z0M0xiV29PcHFOYnp2ZWM5Zm9GT2I2LTROaTJZOWswb3lMcVE4dngwMWdROWgzakxURW40eko4ZHZHY1ZlQ1cwcWk1YXVCLVBocHBBZGstZVZ4OUhRSmZtM2ZLOXUwOWlrS0ZLSnlBNC12RkptOUtKd2hjS2M3Mk9yR2FkQW8?oc=5",
+     "fecha": "2026-11-28T01:13:46Z",
+     "medio": "Radio Maray"
+    },
+    {
+     "titulo": "Gobierno alcanza acuerdo por reajuste del sector público",
+     "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0ZFejVFdFB1NEF1MUstNnFDblB4ODZLaVhsS0RyX2ItNF8tTHM5Wjl6MXc3ZmtTMTZFZGZnMGN6UG8zMUVIS0dtaVJfMnVxZGVQYlhtTjAtVGZKMVlNR3QyMmZYMmZNenRMTmpZd3FxUzRpNGRYR0JDLXZ1aW9TT1RhMTVxVENQZExNYjlES2w3RE0?oc=5",
+     "fecha": "2026-11-28T00:35:00Z",
+     "medio": "pulsoangelino.cl"
+    },
+    {
+     "titulo": "Revelan que dos funcionarios públicos del Poder Judicial de Puebla están en prisión",
+     "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNXNOYUVKbkZfMmN6Z1dUR3oxMHd6OEJfQnI0c3ItM21LUjRaR3cxYU5oYUNQczczWi1udTZrZnI4eEd6MTJvV0Q0RWowQ0Zod2VBbjNPdW1kSWx2amlJQlhIanM2THhmdEhHUmpKWVFLOEFNd3hvanZOcmFIa3FSNTZYdTRUNlUyb1hkOU80N1QtNEs5VGRhaVRHZzRfR2cycmNONzhOc3ZRMVBuWWtQRkVIVEJzQjZ1ZlRsZ3h4eURvVC1FMEl3d3UxUkFCMzBXVzdhS1dpdXNsVU04THBDWmhrcENCZXp3WG5F?oc=5",
+     "fecha": "2026-11-28T00:03:33Z",
+     "medio": "Periódico Central"
+    },
+    {
+     "titulo": "Funcionarios públicos protestaron en Punta Arenas por despidos y falta de acuerdo en negociación salarial",
+     "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPb2szMGpJWWN4bXBMTWxjZlEwTm5aNm1SRE0zQW41elBkRU1DdWlXNjBVbGs3ZUZVb2JSeXVueHAtbk5TU3RkUXRldXdTUTFndy1ZX2tDeUFCU3NjMWcwUkNOWEc5cjJjTHZ2MEw1UkNOdl9uWUg1SExqZFBSYllyUWpxYzV5UlEydEY2MkZOTFg1Q0oyUjJVenl4Y3pfb29uWFBCOVV3WS1WU1VkM2ZXbC1WbTVLRGpIN3l5eVRjYjBpb1ViX1NzNkIwRUNtS0J0RkJJYjByRzhUX1BjT3lMaTYyc2hDcTFoakFQLUMzdjh5NTdiR3pV?oc=5",
+     "fecha": "2026-11-27T23:42:40Z",
+     "medio": "ITV Patagonia"
+    },
+    {
+     "titulo": "Funcionarios públicos se capacitan en Pago por Resultados para mejorar el gasto estatal",
+     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUUhqNng0cmR2dDdIUVgyOVZXNnFMRXRsampEcHhUUDhhdlhGV1RqeDZ1Nk5rc2lUS3dpV05UU0ZTYjc3VFBpUUM3S1hzcVlWZHVQMC1wX1dJUHA4eXY1UzRnRktSMS1PMnpqYXdxQm9sZlZXSk1ORldpRUpzMWllVUswMV95RjBhUUktMk5CWVlCUnVUYk80eUNzSFlENUdZWEJQcWczWEpGTG5NY2RoQ3BzNUhoMjJZRG9N?oc=5",
+     "fecha": "2026-11-27T23:35:52Z",
+     "medio": "Serperuano"
+    },
+    {
      "titulo": "¿Los funcionarios públicos que ocupan cargos en tres unidades diferentes tienen derecho a complementos salariales adicionales?",
-     "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMjBmMU9Rc2lhMzQwMVJ2ZnJEendRWGR5TXVHU25fNU84b1hKU0ozQkpJM3EyVEVvZlJZNGtwM3lTWjdfdzRxaXZrVHk5a21MdF9PbEtGdW5uY3lyN0FXS3VZeVpNSHVobEdCLVZ2OHZxTTF2eHN2dWViNEhzc0JBX19Pemh0c0ZsWlBYWA?oc=5",
-     "fecha": "2026-11-27T22:47:05Z",
-     "medio": "Vietnam.vn"
+     "enlace": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mWXlVeTF5WkpaMVFVb3VUc0RYRk5oMTkteG9rX29UbkpmVHlLTHlYNU5rT3lTS2dvMmV2MG5KR2ZrWGdGRE5taTREYnVqblFzQmFZ?oc=5",
+     "fecha": "2026-11-27T23:22:49Z",
+     "medio": "شبكة تواصل الإخبارية"
+    },
+    {
+     "titulo": "Hacienda establece criterios objetivos para la no renovación de funcionarios públicos a contrata",
+     "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOUoyZHZGODhadXAzT1hnTmhlUURvbldVc1lRMW5vQVBadW0xZmtJNHY3bkJXT2FQSWJPeWRSSXVmYWxjQkU1UjBVeGRNTThqc20xNVVnZ0thZUFIc2lvNFZOWXpYQU5zWWtzTzFFQzlUSWhXUEJLcFk2RU1tVFN3NlYxaEJzUHVXM0VxMDJCUkpXTnRSelpjb19WTTJaZmNtNk9rU29PTzVua1pDU1dMTHhQQnRGSU9RaE90ZXh2V08?oc=5",
+     "fecha": "2026-11-27T23:18:00Z",
+     "medio": "Nuevo Poder"
     },
     {
      "titulo": "Reajuste del sector público será de 4,6% tras acuerdo entre Gobierno y gremios",
@@ -216,19 +252,25 @@
      "medio": "Radio Paulina"
     },
     {
+     "titulo": "Gobierno alcanza acuerdo por reajuste del sector público: alza salarial será de 4,6%: Se pagará en dos etapas",
+     "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVXJ2WUpMUGNWcXE1RlZkY01sUEo1V29iOGt3R2lLVlpwWURmRTM0bnUxdWRpdXMtUm1lTFJ0bG1fRmt5N3NydW5aN0RMY2h2azR4Y3hDcmpkSjBiWHNEUUVNbUdMaExkVlFraDIxSEhaNDFqdENfWHJBdHI3WW4yREMyRzVHY1NwTmFTbkdIbWs2d1BWZFU1RlpickVVWmFVa3JlQUhHdmZBWGlfdGR5MUw5bVhWc2hhSlVoRDJnaXFZWGt3TzhzeGZOZU1vRWpwSko3bG9zcEtHVkFURDctSU93?oc=5",
+     "fecha": "2026-11-27T21:38:48Z",
+     "medio": "Epicentro Chile"
+    },
+    {
+     "titulo": "Reajuste del sector público: gobierno logra acuerdo con 13 de los 16 gremios y pacta alza salarial de 4,6% nominal",
+     "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU0JGMnRuazBWWUxsUGJZbjg2aTlLQWhsSHJQOXRaSGUxWnJ2MzdsRXRsdXJlWGhEcnFNVVdwU3FpUUV1V0NGb1hnYTVFTWhNN05vZm5JZmFqcGtCSjE1SlgzMUpMaXBSemp4Y3VZU1JtNjJMQ1BzbjZxSkVLQWU3UlU0YVhBQ3EtZjBVckgyZlFISE1tZE40VmVNSEhiQ1EyWjloZnVXUDNHZTNtTGxpTkVPZWh0Y1R3SURHS1J5NWtYeVhGTWs5ZXR4SVFjS1ZFMHlrdA?oc=5",
+     "fecha": "2026-11-27T21:06:10Z",
+     "medio": "Teletrece"
+    },
+    {
      "titulo": "Gobierno cierra acuerdo de reajuste del sector público por un 4,6% nominal dividido en dos cuotas",
      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYW1yczU4cmdjQmpBeFdsS0RDZjhWeWNIQjRuUnZJTDVER1BZUjhUQmRocUh4Y0Z3RElRcmpqNmQwRG9qQlFFWm95QVM5djh1RTlEa3lkakZ2bWdQMFVwUG15MnlYTWNTWVFwaUZEaG9uTXliTVdTSGR1bW0zMVhWeHZrT1FZenBfWkltaGlLWC1menByZ2s3bjZQaDVmb2ZVUHZlemI4ajNmbUhsTk52SDlvcjF2NE51M2liOWF4bDhRR3J1aTE1d01nb9IB3wFBVV95cUxOQVJLRTQ1N0lNSTU0MmdVV2xsdnNsSXR1TmF1SjV6cXJOWlZuNy1CNW5XT2NJREFNQ0JSODJudENzekhyaGo3SXVUcEhLVDIzZV9oM210U3UxdFpGWlZ6bjdkYVZlY0R5RUd4TEFpY0hpZjB4ZXhMNDFFNDNVV3g1OHEwQ3k0YmpsZ3M5aXFCQjBCQkpBdmhOSnhVSmpRb00yVFpGZnBWV3ZyT1ZjUVZEcldERFlPd0g5RkRRX3lxeGY4ZkpiSHhmeUxIWGd2MWFyZ1FhU3NLa1dIRV84aC1n?oc=5",
      "fecha": "2026-11-27T20:27:55Z",
      "medio": "ADN Radio"
     },
     {
-     "titulo": "Reajuste del sector público: gobierno logra acuerdo con 13 de los 16 gremios y pacta alza salarial de 4,6% nominal",
-     "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdE5OaW5uU0FWenZ5ZTBFY1BvVVo2NXZTOGZyYkVvSTlhWkxBUjRnQ1cxakxUWjlqNnRoY09fMDVUY1V4Z3llY2ZJcnRReHpzeGdRVU1sZ2VMaWVIN1FBWE43bGp0Ri1jbkZRMXkyRlVBS2IwMmU1bmF3U1NnV2NGRGZGckxsMl8zMHJXNWdhTVl5Z3VZR2ZvVXNIUzNCMi1jN1RXVE1MQXNxVUc5ak1rb2wxajlkc0ZyT0ZNT3NHTQ?oc=5",
-     "fecha": "2026-11-27T20:23:00Z",
-     "medio": "Diario Financiero"
-    },
-    {
-     "titulo": "Gobierno cierra acuerdo por reajuste del sector público: alza salarial cubrirá la inflación a noviembre del 2026",
+     "titulo": "Gobierno cierra acuerdo por reajuste del sector público: alza salarial cubrirá la inflación a noviembre de 2026",
      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORUhSalB5VDE5YnFISFR6eDZLY2dSdVJLdFEtS1ZNbkZmdC1SU0g3WUZ3ekFBRkdfaTR5S0I5RWh3SWNsUWtJZFdld3lnY3lNeEFWQ2lNcVN0UmlWZXR6YzRyVXltZ1JLekJPMDB2Vkg0b0NkclE0dlYzNmRUZmd0MTIzQmRNZlFoWlZQdVdxVV9xaC1NbmRKaDN4VmczUTdqS1k5RUpIbFFEYVRLTlUwcl9lVjdTU1ZsSnlsMDRIbXBLT0VkSVhRMTN0OXByTDBOcnRSWVNWRldRYVNZX0ZfWnIxT0dVRmPSAYgCQVVfeXFMUHdaQVQtU0FlSXVYRGtUelFPbHN2YUEyQVVFd09HSmRnRDlNSnpwS3BNdkJmQjdRNUd5Q2RwVEtwamp5UV9OMnZ6N0JhYUV3V1B2Y1dLdVVjbldXTFFxOTdwUnY1b0RGRWNSSHBkbE5Qb3Y3OUdJOUU3TmYtdXNaT2ZCU2UzRVJQX3NSZ1R2Yk01cWxJZkFzNk1HeHFhVHRSbnc1RHpDZkU2RUlaWkYxV3d4bVAzVjZNWlVPVVdiQmw5RWZQZnpWbjYwOGNvSDlaV1ZMMExucDlLTnlSNnkwN3pKMUdlckhhX3JqUDdvQVVGQWhaQ1J3VC0yemFsYUlOSkpXdy1fZ1hZ?oc=5",
      "fecha": "2026-11-27T20:11:00Z",
      "medio": "La Tercera"
@@ -244,48 +286,6 @@
      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFBpbUFZYVN2VkVNaHgxTEoyT0JrYmc4dFhfQk93RldGdTc0YzZfbnlkQ2RibFZyOU85WThkd3FTRHZLYjBwdlYwOXNrQmFtWFRpSzNyZXJHVDJtVjZ5dkhxOVJzWTJWX1lqaWVKVk5PYXBmSVZ5YjVsN1FnWXc4aVhmS3BWNWhWTFh5TmszVDRHeF9JLWVETXBOMnY4QVUyaHhBRzhJU2djcERmWUN5SXJJeTZVZ3ltOXM0?oc=5",
      "fecha": "2026-11-27T18:03:20Z",
      "medio": "Mi Radio"
-    },
-    {
-     "titulo": "Gobierno propone reajuste del sector público mientras avanza acusación constitucional",
-     "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEwzOV80ZWRSQmNqLUJvOUJMNTZ0U3dONDBQbkNNSGdJbnVjWmhVTDAzNGpkM1FfUlhCbmxWcmQ5U3Y2MXdRVUEzXzZXUDJxYnFhUWVDV0Fib0VHblJyY0tmVTdMY3ZVUVJCYUdrV0l0bzZ3Y25LbXlTanFuVWhtLWRUc3VQclVlQk4yaWVwX1IwVE1rRG9sUXNESnJlRDFfWlpMZWd4S0lxWE9obVNvZmhn?oc=5",
-     "fecha": "2026-11-27T16:48:06Z",
-     "medio": "Enfoque Digital TV"
-    },
-    {
-     "titulo": "Primera propuesta de reajuste del sueldo mínimo de funcionarios públicos es rechazada: ¿De cuánto era?",
-     "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQjAydjZEUDczQ2x2OXRKeWRxY3pqa1BOWkV3WTdtOXktN3FiWnhxYkZUS3A5cktqVHlRenhDbHRBcktMdWlwMUR3ZkNHTkNKdFZqQld2Vmg0Yl9tZ0UxREhkZXFKTG1qbXZwV2pVWWVscVlwVWxEZG1QUUlCMWZPTnMwSy1zVVpDX3FhbzlweWdtZURKd3BnTGpLTHdhc1lnREFKa21hV19hbmxhcFpHWFpyVmRDdDFhQVlBcW9sUWdHUElGZ2N3?oc=5",
-     "fecha": "2026-11-27T16:42:30Z",
-     "medio": "Sabes.cl"
-    },
-    {
-     "titulo": "Directrices para la clasificación salarial de los funcionarios públicos, en vigor a partir del 1 de diciembre de 2026.",
-     "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2FyQ01JaXZtTDBqRUdoWjVGVkVDa1NqS0N5MDcySjlPQVFMWkFxRm93MVBzcW5scjc1Q2d5NWRqU3d5UHY3amRSWVdkaEJYOVpFRmNJYmZETVdQNkRrZ2xDdVA0Y0pvb194eFFibXpEUnZLTFVRTzRWdW40WkNucThwVDIwbXF4?oc=5",
-     "fecha": "2026-11-27T15:25:58Z",
-     "medio": "Vietnam.vn"
-    },
-    {
-     "titulo": "Funcionarios públicos se manifestaron en Caldera",
-     "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZzdFMDRkcFhhNExoNHROc2NlNXlORG5qYWhJZExFd0t0S29EdDZuVHMxZGRRMkVLY3c2QXB3NzJsOEx2dTd5QTJkUWhKOFVtUFUxN1I3aTYzRXdaNnROajJ4LUx0NkljNFppTGpyeEp3dVBSWFQ3VFYya1ZGdFZjSGFXeFRBSWVEV3FPR0hFRjVpaWNh?oc=5",
-     "fecha": "2026-11-27T01:08:03Z",
-     "medio": "Medio digital El Zorro Nortino"
-    },
-    {
-     "titulo": "Gobierno entrega primera oferta de reajuste salarial a los funcionarios públicos: cifra está levemente por sobre la inflación",
-     "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeE5JZFhoY0NVamExNk5ubWxwUGdOMWxNdFptbmFhSGtQU3d1bG5wbHpBQlVFM05PdDc3WWpCQWdzamZQMk15Y2ZCM21xZldvQkdsU1NBNWZtWkFUY21HR28wRlJxT1dYZnJtYmFxdHFxMjJQTDdjNGc5cXpWeGd4bnZqR0JkOW1fU0tOVTdTWEx3dlNTUDk5MFRXakZHUDFTa3RsZjROZllKdXpjU244SFNzY3lOa01SZlhCU3pjY3ZOQWM0?oc=5",
-     "fecha": "2026-11-26T21:58:00Z",
-     "medio": "Diario Financiero"
-    },
-    {
-     "titulo": "Ante la creciente ola de despidos y el aumento del desempleo en Chile, ACI Laboral & Más refuerza la defensa legal para trabajadores y funcionarios públicos",
-     "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVjdrX0h3MVlReVkySW9GTXVzMzRsOUdaNFZ2LTFIWTBTdUJCQThqMVJsd01TLVlYV1JBcEdTd0lmSzJBejZzZ3kwZzZDVEl3S1ZyLXlXbmFfckVVTzhkcjVHVW0wc0c3UnpQa0xPTlRKME1CYnkzeGtLNE9WTUpIa3QxaGdmNVlGT0NUbmY1S2NvOGtxN0w1VUlVLW9xUFBiaHVWemlERzBNMDAxaVZkVXpOQmx0NDZBTWpDSmQ5MU9SZjVtR044VnJ4WjJ5V0RGVnNONmtfVDRXUy0tVDlXQUNtbWF2eWdpRTdoN2ZEZEp4RU9fZGFjZEpVVktnMHlYSDRtYXg3MA?oc=5",
-     "fecha": "2026-11-26T20:07:33Z",
-     "medio": "laconexion.cl"
-    },
-    {
-     "titulo": "Senado aprueba Ley de Presupuestos 2027 tras acuerdo en Comisión Mixta",
-     "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnZHM3FFdG5Fc2ZPdHJGSmkyVVVRNjNrVy0yMlN1OXdudGZFQmd0WDBleG1wVzdHODNBcTJ3Y25VVlJhRHQwT0lRZnVNNjIzMjU0dmJzSHNsZDVfVUlSR2syUXIzYmh4RGVYX0N6SDJPblVBVERyVU5GWjhCMjFRaEN6ME4yenYwWHdwVm9jT0ZOOG1ULTZuc292YmcwUkRDNjQxR3NuaFphYnhBVWp2dG5KcUExQjFJSEY2bTlrZWFzQQ?oc=5",
-     "fecha": "2026-11-26T15:45:19Z",
-     "medio": "VLN Radio"
     }
    ]
   },
@@ -294,10 +294,10 @@
    "nombre": "Salud en La Araucanía",
    "items": [
     {
-     "titulo": "AVANZA LA CONSTRUCCIÓN DE LA AVENIDA ALTO COSTANERA PARA CONECTAR SEGUNDA FAJA CON EL NUEVO HOSPITAL DE VILLARRICA",
-     "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT3Z4VVhWUE1OSzJ2UkdrWFJ4RHlheXBjX3hNOUhoM190MEFSZW40UW9RSUFEeHRad1E1QTRQN1N3Q0hYZnpGS3UtR1RDZ3V0SEtydjFFU2V0UXVzeU9BSFp0LUZ0bzlscU4xUEI4SHlqbUxBU0RaRXRkY2RVUjUwQzVxQTRyT0E0SkM3cVVYOENJSjJ0RmFuMDF3Qk92Nm9qTlNKQkNVWWNQUUZsOXlJR0RuOW0zUUJVQ3J1Tk1uS3BMSFp5Y1dQUEFXbTctdUtCZVZILWpLZ3VGZHZRMGhlUTh3M2RWNlhxdXdZZXV4RDU?oc=5",
-     "fecha": "2026-11-26T21:17:52Z",
-     "medio": "Araucanía Noticias Temuco"
+     "titulo": "Asaltan por tercera vez en una semana Cesfam El Carmen en Temuco",
+     "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMC01ZjVJMW1tZE5ham9VaEtGbTJheVNqRHJIb1VpSkxLMWhMdVJ1ODJObm5selY0RDJ0aHV3YlBvSklOTTFwVjl1RTBvV1l1Q0cxZ2ZUWVBrTkl6cHJFS3Uyenp0X2ZIUENzVFVVQmdkRWdvU3V4aEl5d2xNZ2RXSndYU0JsTlRONENwM1BHSjlha2hmQ1JQaHFWR0Rvb3p6WXRfcEpVUEVtNktFR292UTY0b1d4azhhZFRUMTh3bDF0VGFsZ09tSEd5QzB2aFlFdFkwUXZkZkRfekdoTXdVamdvQQ?oc=5",
+     "fecha": "2026-11-15T08:00:00Z",
+     "medio": "BioBioChile"
     },
     {
      "titulo": "Unidad de endoscopía del Cesfam Labranza se posiciona como referente regional en atención primaria",
